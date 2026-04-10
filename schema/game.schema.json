@@ -1,0 +1,164 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://retronian.github.io/native-game-db/schema/game.schema.json",
+  "title": "Native Game DB - Game Entry",
+  "description": "レトロゲームのネイティブスクリプト対応メタデータ（Game層）",
+  "type": "object",
+  "required": ["id", "platform", "titles"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "slug形式の一意識別子（ローマ字・ハイフン区切り）。ファイル名と一致",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "platform": {
+      "type": "string",
+      "description": "プラットフォーム識別子",
+      "enum": ["fc", "sfc", "gb", "gbc", "gba", "md", "pce", "n64", "nds", "ngp", "ws", "wsc", "ps1"]
+    },
+    "category": {
+      "type": "string",
+      "description": "ゲームの種別",
+      "enum": ["main_game", "dlc", "expansion", "bundle", "remake", "remaster", "port", "compilation"],
+      "default": "main_game"
+    },
+    "first_release_date": {
+      "type": "string",
+      "description": "最初のリリース日（ISO 8601、部分指定可）",
+      "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$"
+    },
+    "titles": {
+      "type": "array",
+      "description": "ゲームタイトルの多言語・多スクリプト表記",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["text", "lang", "script"],
+        "additionalProperties": false,
+        "properties": {
+          "text": {
+            "type": "string",
+            "description": "タイトル文字列",
+            "minLength": 1
+          },
+          "lang": {
+            "type": "string",
+            "description": "ISO 639-1 言語コード",
+            "pattern": "^[a-z]{2}$"
+          },
+          "script": {
+            "type": "string",
+            "description": "ISO 15924 スクリプトコード。native-game-db の独自価値の核",
+            "enum": [
+              "Jpan",
+              "Hira",
+              "Kana",
+              "Hans",
+              "Hant",
+              "Hang",
+              "Kore",
+              "Latn",
+              "Cyrl",
+              "Arab",
+              "Hebr",
+              "Thai",
+              "Zyyy"
+            ]
+          },
+          "region": {
+            "type": "string",
+            "description": "ISO 3166-1 alpha-2 国コード（小文字）またはリージョン",
+            "pattern": "^[a-z]{2}$"
+          },
+          "form": {
+            "type": "string",
+            "description": "タイトル表記の形式",
+            "enum": [
+              "official",
+              "boxart",
+              "ingame_logo",
+              "manual",
+              "romaji_transliteration",
+              "alternate"
+            ]
+          },
+          "source": {
+            "type": "string",
+            "description": "データの出典",
+            "enum": ["wikidata", "igdb", "mobygames", "screenscraper", "no_intro", "community", "manual"]
+          },
+          "verified": {
+            "type": "boolean",
+            "description": "一次資料（タイトル画面・当時のパッケージ）確認済みか",
+            "default": false
+          }
+        }
+      }
+    },
+    "descriptions": {
+      "type": "array",
+      "description": "説明文の多言語版",
+      "items": {
+        "type": "object",
+        "required": ["text", "lang"],
+        "additionalProperties": false,
+        "properties": {
+          "text": { "type": "string", "minLength": 1 },
+          "lang": { "type": "string", "pattern": "^[a-z]{2}$" },
+          "source": {
+            "type": "string",
+            "enum": ["wikidata", "igdb", "mobygames", "screenscraper", "community", "manual"]
+          }
+        }
+      }
+    },
+    "developers": {
+      "type": "array",
+      "description": "開発元のslug一覧",
+      "items": { "type": "string" }
+    },
+    "publishers": {
+      "type": "array",
+      "description": "発売元のslug一覧",
+      "items": { "type": "string" }
+    },
+    "genres": {
+      "type": "array",
+      "description": "ジャンルのslug一覧",
+      "items": { "type": "string" }
+    },
+    "external_ids": {
+      "type": "object",
+      "description": "他のゲームDBの識別子（相互運用のキー）",
+      "additionalProperties": false,
+      "properties": {
+        "wikidata": {
+          "type": "string",
+          "description": "Wikidata QID",
+          "pattern": "^Q[0-9]+$"
+        },
+        "igdb": {
+          "type": "integer",
+          "description": "IGDB game ID"
+        },
+        "mobygames": {
+          "type": "integer",
+          "description": "MobyGames game ID"
+        },
+        "screenscraper": {
+          "type": "integer",
+          "description": "ScreenScraper.fr jeu ID"
+        },
+        "thegamesdb": {
+          "type": "integer",
+          "description": "TheGamesDB game ID"
+        },
+        "openvgdb": {
+          "type": "integer",
+          "description": "OpenVGDB release ID"
+        }
+      }
+    }
+  }
+}
