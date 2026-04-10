@@ -17,6 +17,7 @@
 
 require 'json'
 require 'fileutils'
+require 'time'
 
 ROOT  = File.expand_path('..', __dir__)
 SRC   = File.join(ROOT, 'data', 'games')
