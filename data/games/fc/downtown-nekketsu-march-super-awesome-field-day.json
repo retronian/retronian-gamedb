@@ -96,5 +96,37 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1990-10-12"
+  "first_release_date": "1990-10-12",
+  "roms": [
+    {
+      "name": "Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "e56b03c2",
+      "md5": "0ab372e718c612812855d10ddc08057f",
+      "sha1": "1f1b4776e4a96067657c20f083cd67dd4e88ec99",
+      "sha256": "db8b1d55f0ff2ada4f8f49d4985fe8efdb5e252d64ba32393fe5135752612a09"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Downtown%20-%20Nekketsu%20Koushinkyoku%20-%20Soreyuke%20Daiundoukai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Downtown%20-%20Nekketsu%20Koushinkyoku%20-%20Soreyuke%20Daiundoukai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Downtown%20-%20Nekketsu%20Koushinkyoku%20-%20Soreyuke%20Daiundoukai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -71,5 +71,65 @@
     "wikidata": "Q2471393",
     "mobygames": 8682,
     "igdb": 1198
-  }
+  },
+  "roms": [
+    {
+      "name": "Crash Bandicoot 2 - N-Tranced (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AC8E",
+      "size": 8388608,
+      "crc32": "2e16184a",
+      "md5": "617b2b2590e2925228dbdb162b05d6f6",
+      "sha1": "972158859ea08aa5746ab2e0d4c81ac43728adff"
+    },
+    {
+      "name": "Crash Bandicoot 2 - N-Tranced (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AC8P",
+      "size": 8388608,
+      "crc32": "0f1d06a0",
+      "md5": "03beecd053b2ddf56341a6a981c561fc",
+      "sha1": "ee9234ca15ba2caa71fad7d6af71e27b2030ae0b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crash%20Bandicoot%202%20-%20N-Tranced%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crash%20Bandicoot%202%20-%20N-Tranced%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crash%20Bandicoot%202%20-%20N-Tranced%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crash%20Bandicoot%202%20-%20N-Tranced%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crash%20Bandicoot%202%20-%20N-Tranced%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crash%20Bandicoot%202%20-%20N-Tranced%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

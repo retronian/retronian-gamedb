@@ -36,5 +36,38 @@
     "wikidata": "Q18754123",
     "mobygames": 36131,
     "igdb": 2791
-  }
+  },
+  "roms": [
+    {
+      "name": "Rugrats - Time Travelers (USA, Europe) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AVMU",
+      "size": 1048576,
+      "crc32": "9c743f03",
+      "md5": "069b01643e876ec91a5555450068f4ac",
+      "sha1": "680b38692f9cbd1e9e37ccfe45c5f65817164ec2",
+      "sha256": "a1d4ca4eb27f14080bfa7e48be047d33f67b5f43f488fe378efabdd7fef1b262"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Rugrats%20-%20Time%20Travelers%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Rugrats%20-%20Time%20Travelers%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Rugrats%20-%20Time%20Travelers%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

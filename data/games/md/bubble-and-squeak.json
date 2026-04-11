@@ -18,5 +18,67 @@
     "wikidata": "Q2927391",
     "mobygames": 25674,
     "igdb": 4373
-  }
+  },
+  "roms": [
+    {
+      "name": "Bubble and Squeak (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-015096-00",
+      "size": 524288,
+      "crc32": "28c4a006",
+      "md5": "316c4eec04d89235978d17d06da33bba",
+      "sha1": "0457b0220c86f58d8249cbd5987f63c5439d460c",
+      "sha256": "fbd7bf71eccf2f654049178440769fe709ae507c5607b809d6e1cc8a6c4d7acd"
+    },
+    {
+      "name": "Bubble and Squeak (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-015096-50",
+      "size": 524288,
+      "crc32": "86151bf1",
+      "md5": "e82e2cb58886f0d62f6fb71ea786fef6",
+      "sha1": "092b21f33991e42f993fb8ee1de1c31553a75f68",
+      "sha256": "e1620451ee4f01bf2ae230bb16f40f3f5af8b0b5a75ffffb8062396b775a6ede"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Bubble%20and%20Squeak%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Bubble%20and%20Squeak%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Bubble%20and%20Squeak%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Bubble%20and%20Squeak%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Bubble%20and%20Squeak%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Bubble%20and%20Squeak%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

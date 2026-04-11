@@ -53,5 +53,49 @@
   "external_ids": {
     "wikidata": "Q2642154",
     "mobygames": 11918
-  }
+  },
+  "roms": [
+    {
+      "name": "Donald in Maui Mallard (USA, Brazil) (En)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-239016-00",
+      "size": 4194304,
+      "crc32": "77772691",
+      "md5": "f8e870b82457981b9a659792717be43f",
+      "sha1": "4296e64e7f1c8f9eea7e32acfcb296e8676f6c40",
+      "sha256": "5ee5cb9dbfdecc1270f254649fe1bdf5205ab3162ea364609bd14ef2723e30d1"
+    },
+    {
+      "name": "Donald in Maui Mallard (Europe) (Rev A)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1192-01",
+      "size": 4194304,
+      "crc32": "fa5a79f7",
+      "md5": "989ae9c548dbf6ce7243fc27619b67cb",
+      "sha1": "2886da07d36f770d0a8bf00ee840f0b1bbc9a766",
+      "sha256": "80a1a1573dd5cd999044502c53d356816d0857bf6660d26e0098030820d15146"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Donald%20in%20Maui%20Mallard%20%28Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Donald%20in%20Maui%20Mallard%20%28Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Donald%20in%20Maui%20Mallard%20%28Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

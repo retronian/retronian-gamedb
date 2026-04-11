@@ -63,5 +63,65 @@
     "wikidata": "Q11344696",
     "mobygames": 154257,
     "igdb": 72742
-  }
+  },
+  "roms": [
+    {
+      "name": "Monster Racers (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CXMJ",
+      "size": 67108864,
+      "crc32": "d21cf53f",
+      "md5": "b5387f38925b34c997249691e52a197a",
+      "sha1": "69a30c0ec279de800e2b1ae4bfe6862cf746440d"
+    },
+    {
+      "name": "Monster Racers (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CXME",
+      "size": 67108864,
+      "crc32": "80040a53",
+      "md5": "8f8c5f65fc8332378c46e77a5c3ac26c",
+      "sha1": "0ce04871cfe3cdf249587dd1754f4f65a2c2a1c9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20Racers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Monster%20Racers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20Racers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20Racers%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Monster%20Racers%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20Racers%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

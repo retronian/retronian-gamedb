@@ -53,5 +53,37 @@
   "external_ids": {
     "wikidata": "Q4353810",
     "mobygames": 24190
-  }
+  },
+  "roms": [
+    {
+      "name": "Blaster Master Jr. (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "e9f9016f",
+      "md5": "15d9979ace470a0abf9c83bc1f81dabf",
+      "sha1": "6a6deae1942e7cf048ce35d18e9540363c226727",
+      "sha256": "84d6eeaf706185dad3621251ac118e6fd22f3fd6a5c64999d0984bfffaebe196"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Blaster%20Master%20Jr.%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Blaster%20Master%20Jr.%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Blaster%20Master%20Jr.%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

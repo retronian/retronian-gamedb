@@ -11,11 +11,63 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Scooby-Doo Mystery",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Scooby-Doo Mystery",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1995-08-15",
+  "first_release_date": "1995-01-01",
   "external_ids": {
     "wikidata": "Q65177929",
-    "igdb": 137094
-  }
+    "igdb": 137094,
+    "mobygames": 39832
+  },
+  "roms": [
+    {
+      "name": "Scooby-Doo Mystery (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81526-00",
+      "size": 2097152,
+      "crc32": "7bb9dd9b",
+      "md5": "f27ea503631e67c05860926099d97f7a",
+      "sha1": "ccc9542d964de5bdc1e9101620cae40dd98e7127",
+      "sha256": "39f81f829bbc520c13e5a29ed2b965a01917eaede94b5341c729ca505f4f9a97"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Scooby-Doo%20Mystery%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Scooby-Doo%20Mystery%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Scooby-Doo%20Mystery%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

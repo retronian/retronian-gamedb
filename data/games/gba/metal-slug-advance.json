@@ -79,5 +79,105 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Metal Slug Advance (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "!none",
+      "size": 8388608,
+      "crc32": "3f746ac1",
+      "md5": "b98c04116cb1bd98415b9b7b9c1281d3",
+      "sha1": "a2c3d4fa78524a27ee8b2c2bfc962aa01404996f",
+      "sha256": "22415a94a1586d3818a35d650522bf2bbae1bea25f4ae117178d19d2a37656ca"
+    },
+    {
+      "name": "Metal Slug Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSME",
+      "size": 8388608,
+      "crc32": "09980880",
+      "md5": "6838eb5df807a0f3299ad76066d59d26",
+      "sha1": "067e1511ab6becf797f1bbd321a858e96a0349af"
+    },
+    {
+      "name": "Metal Slug Advance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BSMJ",
+      "size": 8388608,
+      "crc32": "0caba589",
+      "md5": "4c57eb408a29a61d7c0c3f9e2cfa15eb",
+      "sha1": "410bf6c06da43ab001c5b044cd71d2e992acc6c7"
+    },
+    {
+      "name": "Metal Slug Advance (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSMP",
+      "size": 8388608,
+      "crc32": "3806f4ae",
+      "md5": "584fa297b632cff5b54c2def93c0de2f",
+      "sha1": "0719aee29b0da365e7ad52bb0ae9545bcd377152",
+      "sha256": "dc58cb8606570467793b918f0c32a5e74341d42a165c9c6b022bb355cfcf8e1f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Metal%20Slug%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Metal%20Slug%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Metal%20Slug%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Metal%20Slug%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Metal%20Slug%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Metal%20Slug%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Metal%20Slug%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Metal%20Slug%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Metal%20Slug%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

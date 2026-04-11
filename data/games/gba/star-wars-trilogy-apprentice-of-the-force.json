@@ -18,5 +18,75 @@
     "wikidata": "Q54856",
     "mobygames": 15041,
     "igdb": 6609
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars Trilogy - Apprentice of the Force (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 8388608,
+      "crc32": "b5d61c72",
+      "md5": "95ef9bda30e0392f319ee8617bd2dca0",
+      "sha1": "ddf8edaa7436fd5a7282867369f294d6907f9a52",
+      "sha256": "3c75c4326997a92309b73a7fa26df68fdafaa55b564fb1757723b78db35b6ac3"
+    },
+    {
+      "name": "Star Wars Trilogy - Apprentice of the Force (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BCKP",
+      "size": 8388608,
+      "crc32": "c9f0c492",
+      "md5": "d02b4e547e916a20bc7cebcb41cba8ab",
+      "sha1": "51ffd3684d9bd8140d8c7969d7eb2096dd2424a5"
+    },
+    {
+      "name": "Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BCKE",
+      "size": 8388608,
+      "crc32": "714a0d3a",
+      "md5": "6b423fd7f0b4cc280a6208f66671a9c1",
+      "sha1": "b6c09b9f5588ff81aeb4bd5ed886933993f4575f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Star%20Wars%20Trilogy%20-%20Apprentice%20of%20the%20Force%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Star%20Wars%20Trilogy%20-%20Apprentice%20of%20the%20Force%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Star%20Wars%20Trilogy%20-%20Apprentice%20of%20the%20Force%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Star%20Wars%20Trilogy%20-%20Apprentice%20of%20the%20Force%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Star%20Wars%20Trilogy%20-%20Apprentice%20of%20the%20Force%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Star%20Wars%20Trilogy%20-%20Apprentice%20of%20the%20Force%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

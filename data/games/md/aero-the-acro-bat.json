@@ -72,5 +72,78 @@
     "wikidata": "Q2708224",
     "mobygames": 6990,
     "igdb": 5348
-  }
+  },
+  "roms": [
+    {
+      "name": "Aero the Acro-Bat (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-15056-50",
+      "size": 1048576,
+      "crc32": "1a3eaf57",
+      "md5": "dcab366c82c65fe8c463aac9f5c7a469",
+      "sha1": "0a4c99a31e507bcee5b955e4bf3773f4ded827b6",
+      "sha256": "27964e8e954e0b6107962f938d6e0f3c71dc0dd1232e65624948d197bfd071c3"
+    },
+    {
+      "name": "Aero the Acro-Bat (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-15056-00",
+      "size": 1048576,
+      "crc32": "a3a7a8b5",
+      "md5": "50f04f5c4c10158b757856f3d6845858",
+      "sha1": "438fec09e05337a063f986632b52c9d60dd03ba1",
+      "sha256": "6e845533d3d41dd10c7a0c7fbae5ab1fd2669f925cc5903954fb485859234b79"
+    },
+    {
+      "name": "Aero the Acro-Bat (Europe) (Sample)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-15056-50",
+      "size": 1048576,
+      "crc32": "dcd14b10",
+      "md5": "4e6f3e3db882f24a377c44c64cf30564",
+      "sha1": "105316ad1eb7e3386cbd3ffa2d9d841796193e65",
+      "sha256": "40dc9f887f889726faa16657c156a1128786da4d9d3606fecc3057974ac05b41"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Aero%20the%20Acro-Bat%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Aero%20the%20Acro-Bat%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Aero%20the%20Acro-Bat%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Aero%20the%20Acro-Bat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Aero%20the%20Acro-Bat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Aero%20the%20Acro-Bat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

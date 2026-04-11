@@ -27,5 +27,49 @@
     "wikidata": "Q2742036",
     "mobygames": 31838,
     "igdb": 5354
-  }
+  },
+  "roms": [
+    {
+      "name": "Air Diver (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-20023-00",
+      "size": 524288,
+      "crc32": "9e2d5b91",
+      "md5": "924e3ee7dc14644200c817acecc2d899",
+      "sha1": "540460e95f6a82256ca2a16f347a7b6524f3053f",
+      "sha256": "be6d115f383d07a4dce1f4d373d59d54377d1a6defa625303fa6dc8cff4914dd"
+    },
+    {
+      "name": "Air Diver (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-35026-00",
+      "size": 524288,
+      "crc32": "2041885e",
+      "md5": "ac08a4c65e1d8d3b307ebd5331a1c285",
+      "sha1": "0ea311e3ed667d5d8b7ca4fad66f9d069f0bcb77",
+      "sha256": "19a7c283a25759cd50b579af831da04ec83c03399bfa977c3dc7b414e3cb0588"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Air%20Diver%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Air%20Diver%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Air%20Diver%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

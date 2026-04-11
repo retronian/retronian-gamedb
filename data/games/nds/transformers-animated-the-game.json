@@ -18,5 +18,66 @@
     "wikidata": "Q7834177",
     "mobygames": 90461,
     "igdb": 47846
-  }
+  },
+  "roms": [
+    {
+      "name": "Transformers Animated - The Game (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CTFE",
+      "size": 67108864,
+      "crc32": "d6adf980",
+      "md5": "fec81b3205ab14a6437042e9d359a400",
+      "sha1": "af5e038405ebddeb5624ff4375e6242b3c094fb9"
+    },
+    {
+      "name": "Transformers Animated - The Game (Europe) (En,Fr,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CTFP",
+      "size": 134217728,
+      "crc32": "97ccdcf5",
+      "md5": "14a4522c2606deee757b941d3af697a4",
+      "sha1": "ceb43c78896a89c7d4573211de5befcbb62e78b9",
+      "sha256": "7f75d9628d4f7016470a12fa667ba5443e05dd1aef05eb58428f29721221d2e0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Transformers%20Animated%20-%20The%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Transformers%20Animated%20-%20The%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Transformers%20Animated%20-%20The%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Transformers%20Animated%20-%20The%20Game%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Transformers%20Animated%20-%20The%20Game%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Transformers%20Animated%20-%20The%20Game%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -45,5 +45,65 @@
     "wikidata": "Q3434070",
     "mobygames": 3555,
     "igdb": 49178
-  }
+  },
+  "roms": [
+    {
+      "name": "Road Rash - Jailbreak (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A9RE",
+      "size": 4194304,
+      "crc32": "8834af99",
+      "md5": "0a4da0bbdad29f2faa5584b49b0a4f5d",
+      "sha1": "48150529172ff411e3e1bd38b9a74d8b32e5fa59"
+    },
+    {
+      "name": "Road Rash - Jailbreak (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A9RP",
+      "size": 4194304,
+      "crc32": "f4693458",
+      "md5": "caa90efa07194408be977cfff5f985bf",
+      "sha1": "414eeff87dbc7196c6a8bce60702dee07dd4b006"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Road%20Rash%20-%20Jailbreak%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Road%20Rash%20-%20Jailbreak%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Road%20Rash%20-%20Jailbreak%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Road%20Rash%20-%20Jailbreak%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Road%20Rash%20-%20Jailbreak%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Road%20Rash%20-%20Jailbreak%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

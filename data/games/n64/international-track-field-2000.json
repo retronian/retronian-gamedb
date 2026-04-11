@@ -80,5 +80,58 @@
     "wikidata": "Q1571727",
     "mobygames": 11512,
     "igdb": 3517
-  }
+  },
+  "roms": [
+    {
+      "name": "Ganbare! Nippon! Olympics 2000 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "N3HJ",
+      "size": 12582912,
+      "crc32": "73133cd2",
+      "md5": "8d8f3a8393f3f5489b3b144369565594",
+      "sha1": "f683446894a704df016b90cc3409ecdb70cba0aa"
+    },
+    {
+      "name": "International Track & Field - Summer Games (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "N3HP",
+      "size": 12582912,
+      "crc32": "b3181ee0",
+      "md5": "970488fb7d9c5c25bd924e6f898b84a0",
+      "sha1": "b3d5a2128813bd077dd3e161978e3c1717e278e0",
+      "sha256": "271aaf29620973642eaba225e762c92305f7f10285a21c08ef9d00f55bc8baa6"
+    },
+    {
+      "name": "International Track & Field 2000 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "N3HE",
+      "size": 12582912,
+      "crc32": "da443f0b",
+      "md5": "35662cfd07fd6af4bab90ca23f7c98e6",
+      "sha1": "61d7958e61b50fd933faf5d3ae70807fa53818fb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Ganbare%21%20Nippon%21%20Olympics%202000%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Ganbare%21%20Nippon%21%20Olympics%202000%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Ganbare%21%20Nippon%21%20Olympics%202000%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

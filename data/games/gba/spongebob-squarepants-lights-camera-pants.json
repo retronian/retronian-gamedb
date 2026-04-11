@@ -63,5 +63,87 @@
     "wikidata": "Q2907889",
     "mobygames": 39495,
     "igdb": 210724
-  }
+  },
+  "roms": [
+    {
+      "name": "SpongeBob SquarePants - Lights, Camera, Pants! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BQQE",
+      "size": 4194304,
+      "crc32": "23297579",
+      "md5": "9a5a6c940bbf141d8c2838cf7c818080",
+      "sha1": "4c3c7ae6d1bf3d46bab640911aa2bb9094cc31f2"
+    },
+    {
+      "name": "SpongeBob SquarePants - Lights, Camera, Pants! (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BQQX",
+      "size": 8388608,
+      "crc32": "c189013d",
+      "md5": "24a24025a5e3b15512d4b5858b07c662",
+      "sha1": "09d945acc251000c49539a3f18b21e48520ec8ad"
+    },
+    {
+      "name": "SpongeBob SquarePants - Lights, Camera, Pants! (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BQQE",
+      "size": 4291500,
+      "crc32": "52fd3771",
+      "md5": "1d3084de02b0bb709ebf0070b4802aee",
+      "sha1": "72d84f52c796cbb06c2cd9291ca7952093d9b7dc",
+      "sha256": "21b2df21e95a04371876dceb9cc42d8ea39760f7bfffc183970f82c1583db33f"
+    },
+    {
+      "name": "SpongeBob SquarePants - Lights, Camera, Pants! (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BQQE",
+      "size": 4519932,
+      "crc32": "e1461b58",
+      "md5": "f3f2885cbf6d0476a8d2a786d4aa22e8",
+      "sha1": "b30dc120107a70796250b831e7174fc4c03ae58a",
+      "sha256": "4916bc5bd4250ae453e50c6ab6ab1282a13a5637d48c259f13767c8a7cc3e055"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/SpongeBob%20SquarePants%20-%20Lights%2C%20Camera%2C%20Pants%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/SpongeBob%20SquarePants%20-%20Lights%2C%20Camera%2C%20Pants%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/SpongeBob%20SquarePants%20-%20Lights%2C%20Camera%2C%20Pants%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/SpongeBob%20SquarePants%20-%20Lights%2C%20Camera%2C%20Pants%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/SpongeBob%20SquarePants%20-%20Lights%2C%20Camera%2C%20Pants%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/SpongeBob%20SquarePants%20-%20Lights%2C%20Camera%2C%20Pants%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

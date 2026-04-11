@@ -71,5 +71,67 @@
     "wikidata": "Q690394",
     "mobygames": 6634,
     "igdb": 3453
-  }
+  },
+  "roms": [
+    {
+      "name": "Bomberman Hero (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NBDP",
+      "size": 12582912,
+      "crc32": "59e39947",
+      "md5": "f79ef0813157880ffbad6199e07579be",
+      "sha1": "ba1e6a4cc323a83d7c14573c9128ab9f9b60e5f2",
+      "sha256": "f0323b303dfd4fc0f8eafba20aa8dac25c764ec8ec7a2e4d5933d38f5a763fc3"
+    },
+    {
+      "name": "Bomberman Hero (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NBDE",
+      "size": 12582912,
+      "crc32": "2cc2e634",
+      "md5": "ef2453bff7ad0c4bfa9ab0bd6324ebf3",
+      "sha1": "a36364b7e59351f7551ab351cb3b41ebc4be285b",
+      "sha256": "e021ec484a88c528256dbff80617e599768b074b0918dcec081ecbf365386542"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bomberman%20Hero%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bomberman%20Hero%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bomberman%20Hero%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bomberman%20Hero%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bomberman%20Hero%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bomberman%20Hero%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

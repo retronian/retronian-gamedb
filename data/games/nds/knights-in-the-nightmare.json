@@ -45,5 +45,65 @@
     "wikidata": "Q6130850",
     "mobygames": 41281,
     "igdb": 20690
-  }
+  },
+  "roms": [
+    {
+      "name": "Knights in the Nightmare (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CKNE",
+      "size": 134217728,
+      "crc32": "8b41843f",
+      "md5": "2484b3237b97e748bab1f483654203e8",
+      "sha1": "147f123f67fa9189fbc2ca6975c19830f188a0ff"
+    },
+    {
+      "name": "Knights in the Nightmare (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CKNJ",
+      "size": 134217728,
+      "crc32": "0df7061e",
+      "md5": "48356d3b426134cad6dbb201fbb6d301",
+      "sha1": "b09caf120305212df8bc59d94e40aa5a937c776f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Knights%20in%20the%20Nightmare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Knights%20in%20the%20Nightmare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Knights%20in%20the%20Nightmare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Knights%20in%20the%20Nightmare%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Knights%20in%20the%20Nightmare%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Knights%20in%20the%20Nightmare%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

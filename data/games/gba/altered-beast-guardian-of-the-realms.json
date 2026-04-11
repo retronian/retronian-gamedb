@@ -18,5 +18,66 @@
     "wikidata": "Q48081885",
     "mobygames": 14540,
     "igdb": 49193
-  }
+  },
+  "roms": [
+    {
+      "name": "Altered Beast - Guardian of the Realms (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AARE",
+      "size": 8388608,
+      "crc32": "c4955f69",
+      "md5": "dc96748e298935c8e3d49e362cafa0b8",
+      "sha1": "194dc1fff5578dcd8a2a6914647f1b67334f2a8a",
+      "sha256": "4a82fb525d8cbf6e4a2df00db9b3d96c92735f4c39f84c2e83492641d9bf9e55"
+    },
+    {
+      "name": "Altered Beast - Guardian of the Realms (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AARP",
+      "size": 8388608,
+      "crc32": "654f7916",
+      "md5": "c7c56aaed390488e4112ef64b51bb2ad",
+      "sha1": "4178bc2c89187dce127ab64dac2becf99fed0679"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Altered%20Beast%20-%20Guardian%20of%20the%20Realms%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Altered%20Beast%20-%20Guardian%20of%20the%20Realms%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Altered%20Beast%20-%20Guardian%20of%20the%20Realms%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Altered%20Beast%20-%20Guardian%20of%20the%20Realms%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Altered%20Beast%20-%20Guardian%20of%20the%20Realms%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Altered%20Beast%20-%20Guardian%20of%20the%20Realms%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -26,5 +26,45 @@
   "external_ids": {
     "wikidata": "Q3529535",
     "igdb": 125952
-  }
+  },
+  "roms": [
+    {
+      "name": "Tootuff (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "1972cbf7",
+      "md5": "4639d79e2e02a687a44d19d9c9c3c28a",
+      "sha1": "e38c16213c6bb0c1511ade138e3e8eeabd7b8898"
+    },
+    {
+      "name": "Tootuff (Europe) (En,Fr,De,Es,It,Nl) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "709f4ad6",
+      "md5": "4f682b03d485a50cc4a0307e9c949196",
+      "sha1": "f71f380f9c68c42fc1461532ca92bffaa301da4d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Tootuff%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Tootuff%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Tootuff%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

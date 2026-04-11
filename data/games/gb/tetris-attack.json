@@ -72,5 +72,65 @@
     "wikidata": "Q2316943",
     "mobygames": 6024,
     "igdb": 133313
-  }
+  },
+  "roms": [
+    {
+      "name": "Tetris Attack (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "b76c769b",
+      "md5": "7fbda0c87af7701bb5e75c2a77bb0143",
+      "sha1": "3de8d7f30322bc50008ab0d917acd0a934b5b195",
+      "sha256": "b8765e752153310f835e10d6ceaee80b0e0913cdadf832b9516af8bf974e9666"
+    },
+    {
+      "name": "Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "5ee45a4d",
+      "md5": "8517ac370fc46971d8a8c106bde4d4c4",
+      "sha1": "85b4b0d5a5a0417e10fed853419fe65975a6071f",
+      "sha256": "252e9981ba15054b5b8e2eeab22ccbae7ac3cbe9d7cd7a895c75fb35054717f9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tetris%20Attack%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tetris%20Attack%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tetris%20Attack%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tetris%20Attack%20%28USA%2C%20Europe%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tetris%20Attack%20%28USA%2C%20Europe%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tetris%20Attack%20%28USA%2C%20Europe%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

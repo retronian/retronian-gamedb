@@ -36,5 +36,49 @@
     "wikidata": "Q2645897",
     "mobygames": 22736,
     "igdb": 243882
-  }
+  },
+  "roms": [
+    {
+      "name": "Home Alone 2 - Lost in New York (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1536-00",
+      "size": 524288,
+      "crc32": "cbf87c14",
+      "md5": "9ccafedaed5426819fefc3ae17a04fd2",
+      "sha1": "24232a572b7eabc3e0ed5f483042a7085bd77c48",
+      "sha256": "f911a67c3c952fb42bd5599129a33583358c3b6230a0e25ccb240f785036d3d8"
+    },
+    {
+      "name": "Home Alone 2 - Lost in New York (USA) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1536-00",
+      "size": 522726,
+      "crc32": "c2f37ae2",
+      "md5": "256274df9b7068a48863b2980e981ec5",
+      "sha1": "6a9f892b2425f4dd53bac7d43a05e2d91ebdf396",
+      "sha256": "3f4fbc328bd616e0c7e09fd8ff0dd891a5bc70d73691055e56dff5e949d8e78f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Home%20Alone%202%20-%20Lost%20in%20New%20York%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Home%20Alone%202%20-%20Lost%20in%20New%20York%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Home%20Alone%202%20-%20Lost%20in%20New%20York%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

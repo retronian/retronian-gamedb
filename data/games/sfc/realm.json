@@ -17,5 +17,65 @@
   "external_ids": {
     "wikidata": "Q7301326",
     "igdb": 44457
-  }
+  },
+  "roms": [
+    {
+      "name": "Realm (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "9be46820",
+      "md5": "50c7023c83fe19fe6570aedb189d30f9",
+      "sha1": "63f376bd55add49e0893d01d9321207b9f68d6c8",
+      "sha256": "00e2c72fd82d78c5bb6f144101df6145d0a7f68dd77632f49969f13c5623c59a"
+    },
+    {
+      "name": "Realm (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "0744ba5b",
+      "md5": "7aae64aa4f169ef71d879152eac273b7",
+      "sha1": "7ef55367809cf62d63bbff60bb633a76992f560d",
+      "sha256": "097cbe9720903bc14599158b80e0cc314ef2fe8a585d6d0a8962eb1626031492"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Realm%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Realm%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Realm%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Realm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Realm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Realm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

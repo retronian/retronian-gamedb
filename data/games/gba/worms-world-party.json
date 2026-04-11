@@ -72,5 +72,65 @@
     "wikidata": "Q680816",
     "mobygames": 3713,
     "igdb": 6294
-  }
+  },
+  "roms": [
+    {
+      "name": "Worms - World Party (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWYE",
+      "size": 4194304,
+      "crc32": "e8789c18",
+      "md5": "d81d39a2400a2651099a6d1aa2a461d5",
+      "sha1": "7b078976d9056aba7f81bb1ff33e5a36357f5f0b"
+    },
+    {
+      "name": "Worms - World Party (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWYP",
+      "size": 4194304,
+      "crc32": "8ee32cbe",
+      "md5": "78724b3f7e5de9f1c931d5b196e7f19b",
+      "sha1": "5e0abe3d94d1489fadebe897df1ed5a5c0212901"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Worms%20-%20World%20Party%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Worms%20-%20World%20Party%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Worms%20-%20World%20Party%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Worms%20-%20World%20Party%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Worms%20-%20World%20Party%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Worms%20-%20World%20Party%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -81,5 +81,60 @@
     "wikidata": "Q55607",
     "mobygames": 12370,
     "igdb": 4511
-  }
+  },
+  "roms": [
+    {
+      "name": "Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1124-00",
+      "size": 524288,
+      "crc32": "20d1ad4c",
+      "md5": "dc3847b07cd94a15b1b9e0fb2ff5db11",
+      "sha1": "31c589bc0d1605502cdd04069dc4877811e84e58",
+      "sha256": "7f6cbedd52eab56724c422ec8f40c421befba3ed58e5c9f1767721da57344176"
+    },
+    {
+      "name": "Bonanza Bros. (Japan, Europe) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4046-00",
+      "size": 524288,
+      "crc32": "adf6476c",
+      "md5": "9c6b56e9916aadee638f93c7f4bb1e20",
+      "sha1": "ce46f2b53988f06e0bdfaad1b0dc3e9ca936e1e8",
+      "sha256": "8e0a42f88be76e65cf554dba4fbdf438d44cc96de41795f37be35fc2b07461db"
+    },
+    {
+      "name": "Bonanza Bros. (Japan, Europe) (En,Ja) (Rev A)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4046-01",
+      "size": 524288,
+      "crc32": "c6aac589",
+      "md5": "acf4aa6aea84be72afaa1a86954b85cb",
+      "sha1": "f7313ecaf7143873597e3a6ebf58d542d06c3ef3",
+      "sha256": "b38768538c8bb7e4a4d53a1e0a08cf7c9714fc89974f6c1ec8843d7881c7a336"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Bonanza%20Bros.%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29%20%28Rev%20B%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Bonanza%20Bros.%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29%20%28Rev%20B%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Bonanza%20Bros.%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29%20%28Rev%20B%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

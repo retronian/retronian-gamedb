@@ -17,5 +17,85 @@
     "wikidata": "Q132129060",
     "mobygames": 68996,
     "igdb": 49199
-  }
+  },
+  "roms": [
+    {
+      "name": "Driver 2 Advance (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ADUP",
+      "size": 8388608,
+      "crc32": "69ee551c",
+      "md5": "dc99bcca77ec59c109576b867ab2b3ea",
+      "sha1": "a3b755e1d5820a2e094a2c0c47bfaf526a8d7e5a"
+    },
+    {
+      "name": "Driver 2 Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ADUE",
+      "size": 8388608,
+      "crc32": "bbe2a163",
+      "md5": "beab4156e466e97dc7f0b16948d371b7",
+      "sha1": "4bf6f5e5d57e05c2feaafbbca1c795a6638011c4"
+    },
+    {
+      "name": "Driver 2 Advance (Europe) (En,Fr,De,Es,It) (Beta 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 8388608,
+      "crc32": "2a18850c",
+      "md5": "f310c0a374d8c59320c2f8b9fc6aaba3",
+      "sha1": "0123a99e61e5004b37ebac40e04b6723f5d0a8e4",
+      "sha256": "d6354e4a10a2fa4a8c3d602010bccb98c9f79384f204270d74ac1c8f68f5826d"
+    },
+    {
+      "name": "Driver 2 Advance (Europe) (En,Fr,De,Es,It) (Beta 2)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ADUP",
+      "size": 8388608,
+      "crc32": "b24fa448",
+      "md5": "e07ab5a02cd7c2f503cef587890afb54",
+      "sha1": "0135a92f0043df0d0ebac7f45c53c44d8b095ae2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Driver%202%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Driver%202%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Driver%202%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Driver%202%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Driver%202%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Driver%202%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

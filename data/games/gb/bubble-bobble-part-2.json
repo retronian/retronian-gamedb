@@ -78,5 +78,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Bubble Bobble Junior (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "39e261b9",
+      "md5": "09dbad535406168486b8b688caf33a9c",
+      "sha1": "686c526a557065dc0005068eafdbc6736684f925",
+      "sha256": "196dfc642bb5b94520575368194caebc765bb1e99b751e9238b12a86f10de3fe"
+    },
+    {
+      "name": "Bubble Bobble Part 2 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "4106d781",
+      "md5": "8bbb9ba0d72548706e4e5eba1b3a9fe1",
+      "sha1": "e258d852713f392454d4291032ce50ad325aba86",
+      "sha256": "29f17b604be580c0132a6d0bd7a966c82930069ca82f83798c955d532c6b4694"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bubble%20Bobble%20Part%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bubble%20Bobble%20Part%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bubble%20Bobble%20Part%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

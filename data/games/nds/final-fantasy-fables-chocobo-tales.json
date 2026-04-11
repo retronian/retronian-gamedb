@@ -54,5 +54,66 @@
     "wikidata": "Q980003",
     "mobygames": 27448,
     "igdb": 41830
-  }
+  },
+  "roms": [
+    {
+      "name": "Final Fantasy Fables - Chocobo Tales (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AEHP",
+      "size": 67108864,
+      "crc32": "459b836d",
+      "md5": "a392490af90e31f2ce68d18b11833080",
+      "sha1": "fbf6c8390d4a2c6369f396cf421807a84ceb9c32",
+      "sha256": "ef0dd76809bf0156f9d7cf993b4ae79f212cc343e4e5343f5b5e64a6e933ad59"
+    },
+    {
+      "name": "Final Fantasy Fables - Chocobo Tales (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AEHE",
+      "size": 67108864,
+      "crc32": "a50dc69a",
+      "md5": "06d12ca36fcd88c32c276affe792ae61",
+      "sha1": "770b0f16b4cf21315893c806bf2599383c852c55"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Final%20Fantasy%20Fables%20-%20Chocobo%20Tales%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Final%20Fantasy%20Fables%20-%20Chocobo%20Tales%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Final%20Fantasy%20Fables%20-%20Chocobo%20Tales%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Final%20Fantasy%20Fables%20-%20Chocobo%20Tales%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Final%20Fantasy%20Fables%20-%20Chocobo%20Tales%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Final%20Fantasy%20Fables%20-%20Chocobo%20Tales%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

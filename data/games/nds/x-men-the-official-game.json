@@ -63,5 +63,76 @@
     "wikidata": "Q2628757",
     "mobygames": 23248,
     "igdb": 218615
-  }
+  },
+  "roms": [
+    {
+      "name": "X-Men - The Official Game (Europe) (En,Fr,Es,It) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A3XP",
+      "size": 67108864,
+      "crc32": "80e01d63",
+      "md5": "3423b5eac773c290155e57edf4696728",
+      "sha1": "30f4c1bce1460aa7829770d1bfec13950188495a",
+      "sha256": "74b80b2037eb642fc0cd83cbe4d5ff766f3cc959d1204c7a7d2c77c08cbf716b"
+    },
+    {
+      "name": "X-Men - The Official Game (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A3XE",
+      "size": 67108864,
+      "crc32": "075fdba2",
+      "md5": "575e3ba6b210a9419cc87e1beace180f",
+      "sha1": "1f0c485ab6a7bfb66ed2bfd343d3c95ea35a311e"
+    },
+    {
+      "name": "X-Men - The Official Game (Europe) (En,Fr,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A3XP",
+      "size": 67108864,
+      "crc32": "2f96964e",
+      "md5": "4f79406d2fa594cd9f3f1573026b0466",
+      "sha1": "f9ad0f39d708d469bd981fb4c7321a81ae56993a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/X-Men%20-%20The%20Official%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/X-Men%20-%20The%20Official%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/X-Men%20-%20The%20Official%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/X-Men%20-%20The%20Official%20Game%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/X-Men%20-%20The%20Official%20Game%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/X-Men%20-%20The%20Official%20Game%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

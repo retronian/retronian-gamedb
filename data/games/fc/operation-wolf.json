@@ -63,5 +63,93 @@
     "wikidata": "Q288958",
     "mobygames": 3475,
     "igdb": 309248
-  }
+  },
+  "roms": [
+    {
+      "name": "Operation Wolf (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "0432e714",
+      "md5": "6c25f862c7deae2636afab95274c1449",
+      "sha1": "8446a5e8469802a01291787417da1eb3f3a07e71",
+      "sha256": "6eb31dfe2eca6f4caff31994733a730105999414d1e860bd0c06f4bf061b18ac"
+    },
+    {
+      "name": "Operation Wolf (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "5783a759",
+      "md5": "296ece5bdb5a664d559bee64f175f03c",
+      "sha1": "7b80dfee5bde45ef1020cce676760cc87140b1c2",
+      "sha256": "a13d8e58028ed586b067287c63e90945189f149ba41d39859d11042973602c19"
+    },
+    {
+      "name": "Operation Wolf (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "7836e480",
+      "md5": "a68296d29297d360c14a715d5df7ce3b",
+      "sha1": "93fb18259cf60bb3b38cd191fa35dd3ecf10d1ca",
+      "sha256": "f072d8fe9c81804b6e641e6845f08ac53e4ce88acf373ef1f7f8fb92259bcbd0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Operation%20Wolf%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Operation%20Wolf%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Operation%20Wolf%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Operation%20Wolf%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Operation%20Wolf%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Operation%20Wolf%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Operation%20Wolf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Operation%20Wolf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Operation%20Wolf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

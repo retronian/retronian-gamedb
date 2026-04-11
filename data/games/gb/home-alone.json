@@ -43,5 +43,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Home Alone (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "7c3f3107",
+      "md5": "d4792ed1687d50cf4c77afcab05a24bc",
+      "sha1": "24c58e7b4bcce704ab0976c18919066582e6daf2",
+      "sha256": "c9bcf120becfcd4d864decac70b0097e0a0480b06fc94d7764cb17cfac72b28c"
+    },
+    {
+      "name": "Home Alone (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "8efc8434",
+      "md5": "6993211741eea010f51b1c20b05d4c43",
+      "sha1": "a3142c83f391eda6f445226f2d49bd8a384be411",
+      "sha256": "2449307e540566135734977b01ca488a3feb2ce9d887f69a275a308b5a78cc3f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Home%20Alone%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Home%20Alone%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Home%20Alone%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Home%20Alone%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Home%20Alone%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Home%20Alone%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

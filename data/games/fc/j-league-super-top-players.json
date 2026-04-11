@@ -11,10 +11,63 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "J.League Super Top Players",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "Jリーグスーパートッププレイヤーズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパー トッププレイヤーズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1994-04-22",
   "external_ids": {
     "wikidata": "Q6106327"
-  }
+  },
+  "roms": [
+    {
+      "name": "J.League Super Top Players (Japan) (Datach)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "fc9863ba",
+      "md5": "402b4394e44883c2965f07d8501087fb",
+      "sha1": "432d9e4f6c38229f2603c3109c6b3dc39365266c",
+      "sha256": "608a3882b8066539a23185c05052fd3f166638be5466ef49911a493cafd8bc54"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/J.League%20Super%20Top%20Players%20%28Japan%29%20%28Datach%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/J.League%20Super%20Top%20Players%20%28Japan%29%20%28Datach%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

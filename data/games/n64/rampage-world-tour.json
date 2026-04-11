@@ -18,5 +18,67 @@
     "wikidata": "Q3418569",
     "mobygames": 4252,
     "igdb": 3056
-  }
+  },
+  "roms": [
+    {
+      "name": "Rampage - World Tour (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NRPP",
+      "size": 12582912,
+      "crc32": "cdc458ec",
+      "md5": "08e02f52e0547686a9bfac7cbb03c129",
+      "sha1": "c8db2a3669b08050f42af47bae9fd5146b8c87bb",
+      "sha256": "3667dd20e8ef97659e5d09d718bbd5efe2f517d8afcab7be76688abb11e64008"
+    },
+    {
+      "name": "Rampage - World Tour (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NRPE",
+      "size": 12582912,
+      "crc32": "211119dd",
+      "md5": "4645672a0cf00ada9b5e37cfde8b024e",
+      "sha1": "7a6c8758e67fd3da99e3420983c0d6df83e41c6b",
+      "sha256": "a06da4bf6342670df551738c07ed2d1c91ee12c29df73c0c3f8eeae2ea1016ea"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rampage%20-%20World%20Tour%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rampage%20-%20World%20Tour%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rampage%20-%20World%20Tour%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rampage%20-%20World%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rampage%20-%20World%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rampage%20-%20World%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

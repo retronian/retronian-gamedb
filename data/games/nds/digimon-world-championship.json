@@ -54,5 +54,88 @@
     "wikidata": "Q5275741",
     "mobygames": 87834,
     "igdb": 47897
-  }
+  },
+  "roms": [
+    {
+      "name": "Digimon Championship (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "YDIK",
+      "size": 67108864,
+      "crc32": "836ec256",
+      "md5": "d2faaf849ee693c80f7aab9020bce83d",
+      "sha1": "b5b4a59aa60eb171df75dd422664c7b814411e98",
+      "sha256": "7160ebd9bb666c4f11a2e5c06b22f7afddcbd1a642c336138520f3f10ffad304"
+    },
+    {
+      "name": "Digimon Championship (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YDIJ",
+      "size": 67108864,
+      "crc32": "ee377dd5",
+      "md5": "e7952723b628c8a8a95bd92f89885cc9",
+      "sha1": "e3ad520cbe39913ec61e0bfcfafe4614f509e692"
+    },
+    {
+      "name": "Digimon World Championship (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YDIE",
+      "size": 67108864,
+      "crc32": "847398fb",
+      "md5": "744ce12c4d0baa1d636d1c59962e6459",
+      "sha1": "4a56e354395c2aaa0f8f36d0d8102f02c39da08e",
+      "sha256": "6f7018a67c568ce2d86bce34b5b0529989882128d6c015252f91308a93b81b18"
+    },
+    {
+      "name": "Digimon World Championship (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YDIE",
+      "size": 67108864,
+      "crc32": "ab98d34d",
+      "md5": "27bfb9b58b50e64bc6eae9d54dc55383",
+      "sha1": "6fe9ab535b0b4fdf1ed93998f808b0a04c6c0931",
+      "sha256": "992d80a2cfde56743c6ec93649719f5f65efc77faefe98a0b98ef82f71bacc02"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Digimon%20Championship%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Digimon%20Championship%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Digimon%20Championship%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Digimon%20World%20Championship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Digimon%20World%20Championship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Digimon%20World%20Championship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

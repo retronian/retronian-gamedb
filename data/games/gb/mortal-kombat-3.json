@@ -72,5 +72,65 @@
     "wikidata": "Q925253",
     "mobygames": 601,
     "igdb": 242251
-  }
+  },
+  "roms": [
+    {
+      "name": "Mortal Kombat 3 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "40c9d0f2",
+      "md5": "2aff6ad314aa6833e558f2b8b8cdac91",
+      "sha1": "73d10c377eab9bf73b1824ac1fe4a1855dee7303",
+      "sha256": "a3eed989bd8139aa472ce96da9b26e086d83b84352730f1b13d15a54fef6503c"
+    },
+    {
+      "name": "Mortal Kombat 3 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "bf9c65fb",
+      "md5": "c19d61e31d6aebc12abf80d628a7bd09",
+      "sha1": "b43626e2f20fa865783892ab8a012aa86e1dcee2",
+      "sha256": "6c2733c0a57bbfe5075bec42e0735c685c934780db45b33f899f62dfea549f69"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mortal%20Kombat%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mortal%20Kombat%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mortal%20Kombat%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mortal%20Kombat%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mortal%20Kombat%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mortal%20Kombat%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -45,5 +45,65 @@
     "wikidata": "Q3782922",
     "mobygames": 33542,
     "igdb": 9248
-  }
+  },
+  "roms": [
+    {
+      "name": "Hamsterz Life (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ALVP",
+      "size": 16777216,
+      "crc32": "54f0ca65",
+      "md5": "92362d6b7284721a5ca9dcdc6b108f35",
+      "sha1": "7b7b9183d2961aa102dd08cfa053fc0308e84514"
+    },
+    {
+      "name": "Hamsterz Life (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ALVE",
+      "size": 16777216,
+      "crc32": "085d1b2f",
+      "md5": "2e23124266a277ed5a66b78859dbbf27",
+      "sha1": "80b3e122413a1e620b762caa967023fdde177c5d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hamsterz%20Life%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Hamsterz%20Life%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hamsterz%20Life%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hamsterz%20Life%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Hamsterz%20Life%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hamsterz%20Life%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

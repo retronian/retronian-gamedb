@@ -54,5 +54,53 @@
     "wikidata": "Q840253",
     "mobygames": 46097,
     "igdb": 15467
-  }
+  },
+  "roms": [
+    {
+      "name": "Shin Megami Tensei - Strange Journey (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BMTJ",
+      "size": 134217728,
+      "crc32": "e4d48825",
+      "md5": "da2581da29316b5fd4212ef1e04e8a2c",
+      "sha1": "18bc188e6f78ebb8f0b489ffc4ee1f580e79ab24"
+    },
+    {
+      "name": "Shin Megami Tensei - Strange Journey (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BMTE",
+      "size": 134217728,
+      "crc32": "b7481ff7",
+      "md5": "47cfc1ef624ea3a43f1aa0a49d551d1a",
+      "sha1": "179428d69edee7b1df83e2fc6e20d0ec0cc855b7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Shin%20Megami%20Tensei%20-%20Strange%20Journey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Shin%20Megami%20Tensei%20-%20Strange%20Journey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Shin%20Megami%20Tensei%20-%20Strange%20Journey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Shin%20Megami%20Tensei%20-%20Strange%20Journey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

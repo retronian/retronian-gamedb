@@ -87,5 +87,65 @@
   "external_ids": {
     "wikidata": "Q6459522",
     "igdb": 124474
-  }
+  },
+  "roms": [
+    {
+      "name": "Archime DS (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YK6J",
+      "size": 8388608,
+      "crc32": "9dfae0b3",
+      "md5": "7c01775fdc94cbe7fcd44123711f2c98",
+      "sha1": "92040949ac54edc2b7df642927d351588f84739d"
+    },
+    {
+      "name": "Bakushow - Challenge Your Friends! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YK6P",
+      "size": 8388608,
+      "crc32": "69483245",
+      "md5": "c989828df2d3ef1669f31874484d86e6",
+      "sha1": "98fb28a43687e459b640f4488a0ef1709c6c489b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Archime%20DS%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Archime%20DS%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Archime%20DS%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bakushow%20-%20Challenge%20Your%20Friends%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bakushow%20-%20Challenge%20Your%20Friends%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bakushow%20-%20Challenge%20Your%20Friends%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

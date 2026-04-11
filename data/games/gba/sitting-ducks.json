@@ -26,5 +26,65 @@
     "wikidata": "Q130679999",
     "mobygames": 14139,
     "igdb": 210727
-  }
+  },
+  "roms": [
+    {
+      "name": "Sitting Ducks (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSDP",
+      "size": 4194304,
+      "crc32": "b92a8a88",
+      "md5": "478debc8b8ac10f23a67196180da8050",
+      "sha1": "0a329c22bbd92e05da5496cdfe0837913eddbdfb"
+    },
+    {
+      "name": "Sitting Ducks (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSDE",
+      "size": 4194304,
+      "crc32": "8bc90adb",
+      "md5": "747b6e33299deed3e9fe71c4352f5966",
+      "sha1": "30b888a0af86eb0313be8f34e00c912c569bf51d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sitting%20Ducks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sitting%20Ducks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sitting%20Ducks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sitting%20Ducks%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sitting%20Ducks%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sitting%20Ducks%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

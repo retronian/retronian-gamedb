@@ -18,5 +18,65 @@
     "wikidata": "Q7828238",
     "mobygames": 20124,
     "igdb": 8021
-  }
+  },
+  "roms": [
+    {
+      "name": "Totally Spies! (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BTUP",
+      "size": 8388608,
+      "crc32": "06992f1d",
+      "md5": "39e615ddc9695deb0dab06dbd98b7841",
+      "sha1": "359f879f8d4d91101a3c0f6ebc3c97520508af95"
+    },
+    {
+      "name": "Totally Spies! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BTUE",
+      "size": 8388608,
+      "crc32": "aaa6e141",
+      "md5": "0309e2dda3ec19ee11c2afb0c22ff3ef",
+      "sha1": "6452e8f16dec8db3d46f24bb242f8223e337ce40"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Totally%20Spies%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Totally%20Spies%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Totally%20Spies%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Totally%20Spies%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Totally%20Spies%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Totally%20Spies%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

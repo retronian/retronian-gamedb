@@ -79,5 +79,87 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Valis III (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-49086-01",
+      "size": 1048576,
+      "crc32": "8a60468e",
+      "md5": "6549d25af1cf40c18a869f73a19757a4",
+      "sha1": "80dd7740d9fe112e4565add8be32302d484d0996",
+      "sha256": "d6179e60b04f081cf6e1238eb2b218e7fa19d5842d9e143aa5cca5cfe640662c"
+    },
+    {
+      "name": "Valis III (World) (Retro-Bit)",
+      "source": "no_intro",
+      "serial": "T-49086 -01",
+      "size": 2097152,
+      "crc32": "5fc96d96",
+      "md5": "149c1f47438118630e106e8e351fcbb3",
+      "sha1": "9fdd01d2fb44bb266608eb8a148a5e0e6cb85696",
+      "sha256": "54a5795d9ee22480318b61e13453028b648e57ebefdbab0ff25a47292dde9a0d"
+    },
+    {
+      "name": "Valis III (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-49023-01",
+      "size": 1048576,
+      "crc32": "4d49a166",
+      "md5": "f22adcdb3907b108f4ae96cb65069ca7",
+      "sha1": "640c3d4f341c8a9b19e5deafae33e7742f109e2d",
+      "sha256": "2273099c221afe007e193dc11850909c5cc99c0fb49189ab4a53392602e7b0a2"
+    },
+    {
+      "name": "Valis III (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49086-01",
+      "size": 1048576,
+      "crc32": "59a2a368",
+      "md5": "a50202da29099f2c9d8b1c629653a718",
+      "sha1": "bb051779d6c4c68a8a4571177990f7d190696b4a",
+      "sha256": "6404ca8b868d3eaa8939a53ffc8a14e2c53dabdbf80fafcb23f99b5f3beca52a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Valis%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Valis%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Valis%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Valis%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Valis%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Valis%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

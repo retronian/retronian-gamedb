@@ -54,5 +54,65 @@
     "wikidata": "Q7718794",
     "mobygames": 17925,
     "igdb": 48104
-  }
+  },
+  "roms": [
+    {
+      "name": "Blue Marlin, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "429e1879",
+      "md5": "729062d5f2c5bb0194eee76ea76c77f7",
+      "sha1": "a53670a4bb906453a1111e975af8159cbae424d0",
+      "sha256": "f87ce902fa90be7f58bbae1c93a1e1c982a414eac27b99816b8b33530b56ae3d"
+    },
+    {
+      "name": "Blue Marlin, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "48c20def",
+      "md5": "a98a5b81ecc643bf55db238283d6895a",
+      "sha1": "44a5c6011f86ee7e71a1e0efabcf2382a7f90ef6",
+      "sha256": "2e093f3de9c0edffb48047e83fc79c4374a8fd8aa5af1a1fd13526caeab9aa0c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Blue%20Marlin%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Blue%20Marlin%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Blue%20Marlin%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Blue%20Marlin%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Blue%20Marlin%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Blue%20Marlin%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

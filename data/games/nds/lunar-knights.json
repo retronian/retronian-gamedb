@@ -70,5 +70,86 @@
     "wikidata": "Q2049936",
     "mobygames": 27607,
     "igdb": 9887
-  }
+  },
+  "roms": [
+    {
+      "name": "Bokura no Taiyou - Django & Sabata (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ALKJ",
+      "size": 134217728,
+      "crc32": "0f1f25da",
+      "md5": "124c70b25bee08bac62e85fab636342e",
+      "sha1": "71df723aa30290c93f07f4587ca59093627915ae",
+      "sha256": "0918875a071382be3155be36de8a7cd34613eba250e0b32bc3be20b8998b550c"
+    },
+    {
+      "name": "Bokura no Taiyou - Django & Sabata (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ALKJ",
+      "size": 134217728,
+      "crc32": "24af8963",
+      "md5": "8c26d36e44cf1a8186c5f110739d0511",
+      "sha1": "0774a7195cef2815002449f991a1f2b67c633d03"
+    },
+    {
+      "name": "Lunar Knights (USA) (En,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ALKE",
+      "size": 134217728,
+      "crc32": "b74eb813",
+      "md5": "609e9fba74129be31791362b80097343",
+      "sha1": "d7fbb5ea424992e213a903b6aacacb549c1915e9"
+    },
+    {
+      "name": "Lunar Knights (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ALKP",
+      "size": 134217728,
+      "crc32": "84953087",
+      "md5": "b84081fcccabf68ea08f8508ae526140",
+      "sha1": "dabf63c779767f1e699c2f9e93ed88dc83b6ad4b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Lunar%20Knights%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Lunar%20Knights%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Lunar%20Knights%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Lunar%20Knights%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Lunar%20Knights%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Lunar%20Knights%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

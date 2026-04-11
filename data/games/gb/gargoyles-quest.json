@@ -105,5 +105,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Gargoyle's Quest (Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "b86ef7a5",
+      "md5": "567b0045cc26135a54ca025b0af7e9ef",
+      "sha1": "21fbe39014ffed80d0de2092517522d3cb9b03f9",
+      "sha256": "235f8a6fd4b1bd0f6db9fe57edb5d5e2c2a84a667e67b7f3c2e434eaca182283"
+    },
+    {
+      "name": "Gargoyle's Quest (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "0030e61f",
+      "md5": "63e3f5f4b90f17bdf6d2f2aed515e248",
+      "sha1": "1da5834cd7cea711195cd8581614c5022da768b7",
+      "sha256": "ad6f9fe97a40418279d3b834a64d9c6c52c0da209f430718f2bd02611892326f"
+    },
+    {
+      "name": "Red Arremer - Makaimura Gaiden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "ae0122aa",
+      "md5": "daee829005d9c4bd5f636004bfffdfe3",
+      "sha1": "dd49a66372411da76023e993b3476190f76eeca8",
+      "sha256": "8003d6151ff5522616c3bc1c9e5029426a03a0680a1dfa0e197784c7822a86b4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Gargoyle%27s%20Quest%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Gargoyle%27s%20Quest%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Gargoyle%27s%20Quest%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Gargoyle%27s%20Quest%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Gargoyle%27s%20Quest%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Gargoyle%27s%20Quest%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Red%20Arremer%20-%20Makaimura%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Red%20Arremer%20-%20Makaimura%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Red%20Arremer%20-%20Makaimura%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

@@ -54,5 +54,47 @@
     "wikidata": "Q97571417",
     "mobygames": 24401,
     "igdb": 10451
-  }
+  },
+  "roms": [
+    {
+      "name": "Hammerin' Harry (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "189c043a",
+      "md5": "2e999a719f90cdeab2fd8f90026d2be6",
+      "sha1": "3b6978ca1834ecca151ff195edc6c39a9d7f7b34",
+      "sha256": "0974c89055f623371d0d19b00628898dde1b67f4627ecb1a30c84760626ad834"
+    },
+    {
+      "name": "Hammerin' Harry (Europe) (Retro-Bit)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "26ab9191",
+      "md5": "3524c5e7e834b15af6bab21d3a83c5ed",
+      "sha1": "a69f956fa3c04f2cfcb294ccedaff2ecd09b7e12",
+      "sha256": "997f989ba7dd829b5cc2eab90118e5a96a5fba051e08f3c43c0c419c5a3b2a1f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hammerin%27%20Harry%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hammerin%27%20Harry%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hammerin%27%20Harry%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

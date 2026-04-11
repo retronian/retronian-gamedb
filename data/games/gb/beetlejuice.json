@@ -44,5 +44,37 @@
   "external_ids": {
     "wikidata": "Q4880211",
     "igdb": 80889
-  }
+  },
+  "roms": [
+    {
+      "name": "Beetlejuice (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "33574ecb",
+      "md5": "f6c1715b8b93356b8b8ad27f5574dc96",
+      "sha1": "a8bb9681dbf0700d64a88c7d9ad0093f08087046",
+      "sha256": "436918dc75ffe606f458206caad6c063369ecbf650afcf96499eb98b2b85a72f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Beetlejuice%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Beetlejuice%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Beetlejuice%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

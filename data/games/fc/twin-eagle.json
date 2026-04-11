@@ -45,5 +45,76 @@
     "wikidata": "Q7858149",
     "mobygames": 10785,
     "igdb": 68355
-  }
+  },
+  "roms": [
+    {
+      "name": "Twin Eagle (Asia) (PAL) (Unl)",
+      "source": "no_intro",
+      "size": 65552,
+      "crc32": "4160e5e4",
+      "md5": "93c9bca79aaab3d0ac248575f532f29b",
+      "sha1": "caa62ec3d55581191963b47e91467208fe20ae19",
+      "sha256": "fdc35a4266cb0ac653a384902e2949b0cb87367d5ddd0a0d5ab93ecdbc21b281"
+    },
+    {
+      "name": "Twin Eagle (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "98387604",
+      "md5": "4ce53115491602e49267dd7db500c4cf",
+      "sha1": "468673ce79bf003b11bb8ad450faf98437a49b63",
+      "sha256": "e35f24ad42a97aade5b1a5c82b2277573eb61c7281ff8d31dd112ab960c41b7d"
+    },
+    {
+      "name": "Twin Eagle (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "6be8ada1",
+      "md5": "3eb92735b803b4ea68e59775043eada1",
+      "sha1": "be1c522f12a2c64e2f54f618270d352bd04b04ca",
+      "sha256": "a2eae64a3d8771846e128d404a9bddf9f942f5e96098d9bb269839f73d0b0c59"
+    },
+    {
+      "name": "Twin Eagle (Taiwan) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 65552,
+      "crc32": "715963e9",
+      "md5": "36f0c2862cb6798b9abe835ba8e505b6",
+      "sha1": "6c6c0a6a5c91c5fb4eb6ed19ce9f9bf9e24829a8",
+      "sha256": "68eeff37d4696a38351bf2554cd19a98bf7d3697534b242d8ef07a229551b5e2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Twin%20Eagle%20%28Asia%29%20%28PAL%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Twin%20Eagle%20%28Asia%29%20%28PAL%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Twin%20Eagle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Twin%20Eagle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Twin%20Eagle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

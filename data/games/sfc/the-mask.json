@@ -65,6 +65,15 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Mask",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1996-12-27",
@@ -72,5 +81,110 @@
     "wikidata": "Q2814018",
     "mobygames": 11719,
     "igdb": 42730
-  }
+  },
+  "descriptions": [
+    {
+      "text": "「マスク」は同名の映画を基にしたゲームです。物語は、謎のマスクを見つけた貧しい男スタンリー・イプキスが、そのマスクから不思議な力を授かるところから始まります。\n\n映画同様、スタンリー（別名：マスク）は、銃、ホーン、ハンマーなどのユニークな武器を持ち、大きなトルネードに変身する能力も備えています。彼は映画にインスパイアされたレベルを進みながら、アパート、街の通り、銀行、公園、刑務所、そして最後の対決が行われるナイトクラブなどで戦います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mask (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "e91bb876",
+      "md5": "bffa82f9c6ab0d8d373cedf5ac0391a6",
+      "sha1": "e772ea32f969edb3bb6b92a519e26186b9480f91",
+      "sha256": "30fecd9145e814e9e5550aa6a43d739c7ba11a902e2b5cf6bddd7fd06e796ca4"
+    },
+    {
+      "name": "Mask, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "a5f6839a",
+      "md5": "b76d8cc24a6965823b42d546f528730f",
+      "sha1": "3cac518f5666ab1a2389133cf95b92f78ca22d69",
+      "sha256": "c75627d72b53eff0d8993c9f03622bd9d8a5d04975b722fe8d64a141a914b0f1"
+    },
+    {
+      "name": "Mask, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "e17626e2",
+      "md5": "c918a40bb2b3f44f3468d6a1ba0a5f88",
+      "sha1": "6831f93eaa478eb87a51e0cae10f6935730575bb",
+      "sha256": "44cc113ce1e7616cc737adea9e8f140436c9f1c3fba57e8e9db48025d4ace632"
+    },
+    {
+      "name": "Mask, The (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "cf727f64",
+      "md5": "c1072b89906e18e04aac219a83724140",
+      "sha1": "6332fd5519f07aeb88f2442bf61c55ca9d1ab948",
+      "sha256": "7f74fd2cf890e671540e797f6a44293a24ddd2893aa4f3d7f3f86a62a8e3fe5c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mask%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mask%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mask%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mask%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mask%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mask%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mask%2C%20The%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mask%2C%20The%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mask%2C%20The%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

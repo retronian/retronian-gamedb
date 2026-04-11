@@ -54,5 +54,75 @@
     "wikidata": "Q3010914",
     "mobygames": 32885,
     "igdb": 6386
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BDVP",
+      "size": 16777216,
+      "crc32": "6c135820",
+      "md5": "cb14df09ea41694532a9327510bb28c1",
+      "sha1": "e49ae836b14f84dc8cd817bf912fcdce82d8a587"
+    },
+    {
+      "name": "Dragon Ball - Advanced Adventure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDVE",
+      "size": 16777216,
+      "crc32": "7d7306df",
+      "md5": "442bab94b7b3ba7e4a8799d18de52731",
+      "sha1": "1338584d8cfa57402603197e65d2e2ff0184d24f"
+    },
+    {
+      "name": "Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 16777216,
+      "crc32": "2b136906",
+      "md5": "a340d5d4d96a0f49d66112ad25820118",
+      "sha1": "fe190755f05994f1c796286ad767d7da49c36385",
+      "sha256": "30bcf1641bd83aace0cdf8caa309034acc6137cb66f70a5779ec289016c1b607"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dragon%20Ball%20-%20Advanced%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dragon%20Ball%20-%20Advanced%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dragon%20Ball%20-%20Advanced%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dragon%20Ball%20-%20Advanced%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dragon%20Ball%20-%20Advanced%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dragon%20Ball%20-%20Advanced%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

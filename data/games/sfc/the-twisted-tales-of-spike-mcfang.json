@@ -64,6 +64,24 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Twisted Tales of Spike McFang",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "まじかるキッズどろぴー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1993-03-19",
@@ -71,5 +89,37 @@
     "wikidata": "Q7770896",
     "mobygames": 32693,
     "igdb": 16295
-  }
+  },
+  "roms": [
+    {
+      "name": "Twisted Tales of Spike McFang, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "8c2068d1",
+      "md5": "80d1144dc2d6f7ad5bbbcb1dd448b6cf",
+      "sha1": "029fd32f8561b7d1ef9ec17384d4e77ea08cd1ea",
+      "sha256": "259c25d4613f97f5fa7992900fb583625d7fb912c7ae09fa9def2e682834dc9f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Twisted%20Tales%20of%20Spike%20McFang%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Twisted%20Tales%20of%20Spike%20McFang%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Twisted%20Tales%20of%20Spike%20McFang%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

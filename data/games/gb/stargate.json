@@ -27,5 +27,65 @@
     "wikidata": "Q97699836",
     "mobygames": 42580,
     "igdb": 19689
-  }
+  },
+  "roms": [
+    {
+      "name": "Stargate (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "4789295c",
+      "md5": "04bde16beda3f9d7cec4509a04a75946",
+      "sha1": "3d2d65252fd57dc1d96c234a436fa377a769c708",
+      "sha256": "2cdf2edac4e6230e063c867c60f92d5bb5f37969a19a32fb65c33fe9fafaa378"
+    },
+    {
+      "name": "Stargate (Japan) (En) (Possible Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "9e0667b9",
+      "md5": "d5b242aff7e2008950611082f0b4edb9",
+      "sha1": "25bfdf9f60f551d8b819a3fff3d7cb9b71eebc63",
+      "sha256": "13afb5d1a13e07995959d2594b6dc7a592b1d33eec054f34937401f6ddc99822"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Stargate%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Stargate%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Stargate%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Stargate%20%28Japan%29%20%28En%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Stargate%20%28Japan%29%20%28En%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Stargate%20%28Japan%29%20%28En%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

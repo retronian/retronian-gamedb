@@ -45,5 +45,66 @@
     "wikidata": "Q3284345",
     "mobygames": 22873,
     "igdb": 3290
-  }
+  },
+  "roms": [
+    {
+      "name": "Power Rangers - Lightspeed Rescue (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NPUP",
+      "size": 12582912,
+      "crc32": "36ee5ca8",
+      "md5": "92bb1bc5e6466f1944943d34d25f2daf",
+      "sha1": "c7fec2a9d57f656b8d0b4404c8797c46136fd971",
+      "sha256": "2749a21383fd2b981e068abddf9d83a372a9b8b31fc5249a85c58fc52ffff69d"
+    },
+    {
+      "name": "Power Rangers - Lightspeed Rescue (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NPUE",
+      "size": 12582912,
+      "crc32": "a5033311",
+      "md5": "91d74621ddef6d37fb845b3bc7059a38",
+      "sha1": "9c0b970dfa344a8cdea9b775d7f95acec2ccf79f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Power%20Rangers%20-%20Lightspeed%20Rescue%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Power%20Rangers%20-%20Lightspeed%20Rescue%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Power%20Rangers%20-%20Lightspeed%20Rescue%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Power%20Rangers%20-%20Lightspeed%20Rescue%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Power%20Rangers%20-%20Lightspeed%20Rescue%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Power%20Rangers%20-%20Lightspeed%20Rescue%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

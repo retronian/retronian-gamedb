@@ -65,12 +65,168 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Teenage Mutant Ninja Turtles - Tournament Fighters",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ティーンエージ ミュータント ニンジャ タートルズ トーナメント ファイターズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
-  "first_release_date": "1993-09-04",
+  "first_release_date": "1993-01-01",
   "external_ids": {
     "wikidata": "Q2365711",
     "mobygames": 11585,
     "igdb": 134080
-  }
+  },
+  "descriptions": [
+    {
+      "text": "このゲームでは、シリーズの前作からのオリジナルの4匹のカメたちと、他のファイターたちが登場します。\n\nゲームは「モータルコンバット」や「ストリートファイター」シリーズの伝統を受け継いでおり、プレイヤーは1対1の対戦で相手と戦います。カメたち以外にも、ラットキングやシャレッダー（ここでは「サイバーシャレッダー」と呼ばれています）など、馴染みのあるファイターが登場します。\n\nカメたちに詳しい人でも、彼らの違いに気づくでしょう。例えば、彼らは「ファイアボール」のような飛び道具を使った技を繰り出すことができるようになりました。\n\nゲームのモードには、ストーリーモードがあり、ここでは4匹のカメのうち1匹を選んで、エイプリルとスプリンターを救うために相手と戦います。また、トーナメントモードでは、名声とお金のためだけに戦います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Teenage Mutant Hero Turtles - Tournament Fighters (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-95066-00",
+      "size": 2097152,
+      "crc32": "3cd2b7e6",
+      "md5": "4a123a906db13ac79e881bb35c7a1a0c",
+      "sha1": "6a6c4ae9d944ad1d459d46ae40d3af09e60b5d7d",
+      "sha256": "d5f2e9e20ad15595648ab5e609ceb7c9088f7e65332ec0ca609697823213198c"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-95053-00",
+      "size": 2097152,
+      "crc32": "8843f2c9",
+      "md5": "1a72e14977672c6fb1cdbc5a50d8c4a2",
+      "sha1": "5be86d03abdb49b824104e9bbf0ac80023e4908c",
+      "sha256": "0684b5a10c321884ef795313edadb4cf693e76c2dec7b115b4c618bc2ba4172a"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95066-00",
+      "size": 2097152,
+      "crc32": "95b5484d",
+      "md5": "4cabf79a9e4783ff4e5c1294bcb6129c",
+      "sha1": "1a27be1e7f8f47eb539b874eaa48586fe2dab9c0",
+      "sha256": "f5e51ff6e03d79337cf45b08c18a35bd420da8cca83a8ee0fbb7118f692895d6"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (Japan) (Cowabunga Collection, The)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-95053-00",
+      "size": 2097152,
+      "crc32": "ffa5a829",
+      "md5": "6eac1ced2225f9d496141d885c30cd08",
+      "sha1": "44d61ee6c072b9e8c9c509b3f0eddf2cc91b653f",
+      "sha256": "c2ec283fffced30c52db6395d47f9b91b5a9afab14f4437b60d86bbeecab2975"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (Cowabunga Collection, The)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95066-00",
+      "size": 2097152,
+      "crc32": "61c5a73a",
+      "md5": "64feee462a59cf4af17304bc5a2f99be",
+      "sha1": "b7b8bbe53f16f572d5443dd2862e805643c3902d",
+      "sha256": "3dc8901441698f7ba8468c60c5a3fa638d2ad3a74ab3d6742bb6ceecfe9b439d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Teenage%20Mutant%20Hero%20Turtles%20-%20Tournament%20Fighters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Teenage%20Mutant%20Hero%20Turtles%20-%20Tournament%20Fighters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Teenage%20Mutant%20Hero%20Turtles%20-%20Tournament%20Fighters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29%20%28Cowabunga%20Collection%2C%20The%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29%20%28Cowabunga%20Collection%2C%20The%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29%20%28Cowabunga%20Collection%2C%20The%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

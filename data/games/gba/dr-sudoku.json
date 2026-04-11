@@ -17,5 +17,65 @@
     "wikidata": "Q108936109",
     "mobygames": 23320,
     "igdb": 49273
-  }
+  },
+  "roms": [
+    {
+      "name": "Dr. Sudoku (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BUOE",
+      "size": 4194304,
+      "crc32": "fc003e2b",
+      "md5": "23564039143b0f8beb2e9f3ca4ab742e",
+      "sha1": "0da4e12281a616ae63b95479badf932ddb30df5b"
+    },
+    {
+      "name": "Dr. Sudoku (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BUOP",
+      "size": 4194304,
+      "crc32": "e9848d13",
+      "md5": "30ff41b3a469bad7ce39deb6d50f8154",
+      "sha1": "d87db7a5c39a384917b5f8f628f3338f2c5a4dc7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dr.%20Sudoku%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dr.%20Sudoku%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dr.%20Sudoku%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dr.%20Sudoku%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dr.%20Sudoku%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dr.%20Sudoku%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

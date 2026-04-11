@@ -18,5 +18,66 @@
     "wikidata": "Q4898732",
     "mobygames": 31523,
     "igdb": 8455
-  }
+  },
+  "roms": [
+    {
+      "name": "Betty Boop's Double Shift (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YBXP",
+      "size": 8388608,
+      "crc32": "6f7b5477",
+      "md5": "505d58e422e88b4997ea67c3f69f1a43",
+      "sha1": "90bf2fd6d1dea1814751949da277715e8052844e",
+      "sha256": "2da3747972d22114cb7fc539d99f053523fe3228409e98186e6f263c3db5f307"
+    },
+    {
+      "name": "Betty Boop's Double Shift (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YBXE",
+      "size": 8388608,
+      "crc32": "39b3fe04",
+      "md5": "85a30da0c1b44ce5d9146c112e8bddf8",
+      "sha1": "61a039cb53ed616452653411acc1727ae90839b4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Betty%20Boop%27s%20Double%20Shift%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Betty%20Boop%27s%20Double%20Shift%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Betty%20Boop%27s%20Double%20Shift%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Betty%20Boop%27s%20Double%20Shift%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Betty%20Boop%27s%20Double%20Shift%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Betty%20Boop%27s%20Double%20Shift%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

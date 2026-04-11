@@ -62,5 +62,66 @@
     "wikidata": "Q4274898",
     "mobygames": 15796,
     "igdb": 6329
-  }
+  },
+  "roms": [
+    {
+      "name": "Boktai 2 - Solar Boy Django (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "U32E",
+      "size": 16777216,
+      "crc32": "e1ffb2d1",
+      "md5": "31231965d6a43d935e3629a67e06e0bb",
+      "sha1": "cd10d8ed82f4daf4072774f70d015e39a5d32d0b"
+    },
+    {
+      "name": "Boktai 2 - Solar Boy Django (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "U32P",
+      "size": 16777216,
+      "crc32": "748189b5",
+      "md5": "66c0b2e21872f8e9af56292d881c1516",
+      "sha1": "eeacdf5a9d3d2173a4a96689b72dc6b7ad92153c",
+      "sha256": "8a8cc80b597fa30f0792fd0d7e9b006552e4dbcf521b025563be268f7a2351d9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Boktai%202%20-%20Solar%20Boy%20Django%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Boktai%202%20-%20Solar%20Boy%20Django%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Boktai%202%20-%20Solar%20Boy%20Django%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Boktai%202%20-%20Solar%20Boy%20Django%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Boktai%202%20-%20Solar%20Boy%20Django%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Boktai%202%20-%20Solar%20Boy%20Django%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

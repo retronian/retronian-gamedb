@@ -90,5 +90,38 @@
     "wikidata": "Q220665",
     "mobygames": 8806,
     "igdb": 215405
-  }
+  },
+  "roms": [
+    {
+      "name": "Space Invaders (USA, Europe) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AIVE",
+      "size": 1048576,
+      "crc32": "dab7460c",
+      "md5": "46e0e199f58aebbb75b4ed16da5aae60",
+      "sha1": "392a8087633969ed0be05e7da628d6e92befb711",
+      "sha256": "48f70d850203beb151f4bbcedd721921c00437fa2c7bda56904ef0a64ac8752a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Space%20Invaders%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Space%20Invaders%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Space%20Invaders%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

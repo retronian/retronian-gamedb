@@ -36,5 +36,66 @@
     "wikidata": "Q5500663",
     "mobygames": 32835,
     "igdb": 47820
-  }
+  },
+  "roms": [
+    {
+      "name": "Freedom Wings (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AGWE",
+      "size": 16777216,
+      "crc32": "4ad124a8",
+      "md5": "302709b87c7d03c3502574b4d07ea709",
+      "sha1": "c6d2c804a046a45bd0d5ce0fb6f9f618c0ca03c5"
+    },
+    {
+      "name": "Freedom Wings (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AGWP",
+      "size": 16777216,
+      "crc32": "4c24cb2d",
+      "md5": "bb738d0295812373bf9244926a5f8969",
+      "sha1": "67ef1e5f313c2dd598445bdfa0acc5c3d01fb0d7",
+      "sha256": "6bb91c20d47bfa760a1adfdcd9628b349e15df9c9699635c025021a5b1d8a355"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Freedom%20Wings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Freedom%20Wings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Freedom%20Wings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Freedom%20Wings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Freedom%20Wings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Freedom%20Wings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

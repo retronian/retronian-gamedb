@@ -61,5 +61,37 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Cave Noire (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "44256a2f",
+      "md5": "10d92861e262069ce31559e12b927aa0",
+      "sha1": "6acdf05aac8e3792a98a199cb6e90180e95230cd",
+      "sha256": "b435d8d25fcbc6eada25a2ff2735043597ae709f07b239dd63263b12a984b73c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Cave%20Noire%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Cave%20Noire%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Cave%20Noire%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

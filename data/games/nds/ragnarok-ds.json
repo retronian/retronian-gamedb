@@ -45,5 +45,71 @@
     "wikidata": "Q3280208",
     "mobygames": 89811,
     "igdb": 21097
-  }
+  },
+  "roms": [
+    {
+      "name": "Ragnarok DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YRBE",
+      "size": 134217728,
+      "crc32": "caaa43ce",
+      "md5": "a8287405f1f1e7e881a1a4cedc89ae31",
+      "sha1": "b522065a9a9123fe86dd2219681f78073ad90bf2"
+    },
+    {
+      "name": "Ragnarok DS (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "YRBK",
+      "size": 134217728,
+      "crc32": "4e26b3fe",
+      "md5": "f446b95f7626e04d533baaa2ee2b95f2",
+      "sha1": "07159993f57957dcf72f6125f5783f694c98efde",
+      "sha256": "ec55d256feaf9ed2fa4f6c49c09ea1877436860262e0e2c3f529d00caea06e41"
+    },
+    {
+      "name": "Ragnarok Online DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YRBJ",
+      "size": 134217728,
+      "crc32": "abd8b717",
+      "md5": "d26d01053c28d63a3f0d01cb0ed1b87c",
+      "sha1": "1c3e407777de4d6377c59710f14331bdf4ee51fc",
+      "sha256": "dc3dc3545c6cbbb5fe5b684f92af9fc1dbf3881819e8cc0b3ac57f861e8cf8cc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ragnarok%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ragnarok%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ragnarok%20Online%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ragnarok%20Online%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ragnarok%20Online%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -54,5 +54,65 @@
     "wikidata": "Q2660086",
     "mobygames": 30308,
     "igdb": 48114
-  }
+  },
+  "roms": [
+    {
+      "name": "Little Samson (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 393232,
+      "crc32": "817d0250",
+      "md5": "63562442d95ac4612d8ba71f61b94346",
+      "sha1": "094853257f5a9319f4b2c1a6d26b89e906aca3b4",
+      "sha256": "d0415026e4a3a147a113a7832a1876d9e578d183b95fdbb18836b16164f95462"
+    },
+    {
+      "name": "Little Samson (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "90ca728b",
+      "md5": "605bd3622d482fe44b9f047059ad2e34",
+      "sha1": "e431682ad1014abb724e46ff31e739dcdf353484",
+      "sha256": "eaf482f2d3e05bc08639468c721bafeb5f943e90d7ace632fb4b06e2d0206e41"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Little%20Samson%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Little%20Samson%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Little%20Samson%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Little%20Samson%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Little%20Samson%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Little%20Samson%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

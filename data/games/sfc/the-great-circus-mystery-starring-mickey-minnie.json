@@ -78,5 +78,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Great Circus Mystery Starring Mickey & Minnie, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1572864,
+      "crc32": "7de42137",
+      "md5": "2dabcd70aabb6bcb286b398824da3ee7",
+      "sha1": "d837820634ef9c07b69de33ea18e06ac09e8bcb0",
+      "sha256": "c528c6dc08c5e3ee59d8f2ab428bb3aaea7188a6dce8d46f455ed01ab18c1194"
+    },
+    {
+      "name": "Great Circus Mystery Starring Mickey & Minnie, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1572864,
+      "crc32": "1903ea89",
+      "md5": "a4d68c20ac1567834403cde9d590357f",
+      "sha1": "d90d6cdcaa108738c7d41e1e9d79da5c8ddc8853",
+      "sha256": "b5492aea296ee4bfcd2c677fbec5153fd4c4db758c835b372ef750cf2399649b"
+    },
+    {
+      "name": "Mickey to Minnie - Magical Adventure 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "8d258553",
+      "md5": "b67d827af8efe4bee398f801ca4aa833",
+      "sha1": "ae759fc9e501a67440cfdd6f50bf04e594cb11a9",
+      "sha256": "97dc078bc37f3936ad7fa01cdaf3713ccb009f5779eb48b40b9d195667ba5082"
+    },
+    {
+      "name": "Mickey to Minnie - Magical Adventure 2 (Japan) (Beta) (1994-06-22)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "d39b39ec",
+      "md5": "7fef068d2a80e9739fbf068427b2df8d",
+      "sha1": "5e3262a680f795102abde36efdba09544e3d9e79",
+      "sha256": "cb61356d384e14fc59efb8942ed3da3bac1a455d208422b6b7a3676bdc1b4416"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mickey%20to%20Minnie%20-%20Magical%20Adventure%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mickey%20to%20Minnie%20-%20Magical%20Adventure%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mickey%20to%20Minnie%20-%20Magical%20Adventure%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

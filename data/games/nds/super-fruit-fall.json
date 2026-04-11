@@ -53,5 +53,65 @@
   "external_ids": {
     "wikidata": "Q3504189",
     "igdb": 5198
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Fruit Fall (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFTP",
+      "size": 8388608,
+      "crc32": "03212f36",
+      "md5": "41eb1c1305f2807c9f6167ec50581426",
+      "sha1": "fb8585e03f7b2f2f448cab2ac2eecd73c7e32c07"
+    },
+    {
+      "name": "Super Fruit Fall (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFTE",
+      "size": 8388608,
+      "crc32": "df5772b2",
+      "md5": "56cad666f89d2d56ac6ae12982e6da09",
+      "sha1": "59669e01426f86737414a6f286e29d631c570c78"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Fruit%20Fall%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Fruit%20Fall%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Fruit%20Fall%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Fruit%20Fall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Fruit%20Fall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Fruit%20Fall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

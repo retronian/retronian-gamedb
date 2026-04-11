@@ -83,6 +83,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Shining Force: Resurrection of the Dark Dragon",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1992-03-20",
@@ -90,5 +99,65 @@
     "wikidata": "Q1929072",
     "mobygames": 6819,
     "igdb": 22285
-  }
+  },
+  "roms": [
+    {
+      "name": "Shining Force - Resurrection of the Dark Dragon (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AF5P",
+      "size": 16777216,
+      "crc32": "07b06994",
+      "md5": "17a986af456ed994f556f23c330666a8",
+      "sha1": "cbe41fbe05e3212c301487a87f6a654c2814196e"
+    },
+    {
+      "name": "Shining Force - Resurrection of the Dark Dragon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AF5E",
+      "size": 8388608,
+      "crc32": "563aa3a0",
+      "md5": "6a1b056d8a006e069466c08c69de56c0",
+      "sha1": "1bbda9142806265cc42645df433ede5d8db46e3e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shining%20Force%20-%20Resurrection%20of%20the%20Dark%20Dragon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shining%20Force%20-%20Resurrection%20of%20the%20Dark%20Dragon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shining%20Force%20-%20Resurrection%20of%20the%20Dark%20Dragon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shining%20Force%20-%20Resurrection%20of%20the%20Dark%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shining%20Force%20-%20Resurrection%20of%20the%20Dark%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shining%20Force%20-%20Resurrection%20of%20the%20Dark%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -17,5 +17,65 @@
   "external_ids": {
     "wikidata": "Q105274251",
     "igdb": 73474
-  }
+  },
+  "roms": [
+    {
+      "name": "Wiffle Ball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWBE",
+      "size": 8388608,
+      "crc32": "7fcfddc4",
+      "md5": "7487f7f84bbe231bdd702470758e6166",
+      "sha1": "d9c5403086a563e0e7786298f5f382d18ca45cdf"
+    },
+    {
+      "name": "Wiffle Ball (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWBP",
+      "size": 8388608,
+      "crc32": "aa4d7d47",
+      "md5": "bed750511ab2e024d8481eb04fd537f0",
+      "sha1": "8426933068468ce03896f8bc31b83a96d1f6ecff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wiffle%20Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Wiffle%20Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wiffle%20Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wiffle%20Ball%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Wiffle%20Ball%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wiffle%20Ball%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

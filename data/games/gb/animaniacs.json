@@ -63,5 +63,65 @@
     "wikidata": "Q2709518",
     "mobygames": 5676,
     "igdb": 228405
-  }
+  },
+  "roms": [
+    {
+      "name": "Animaniacs (Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "7b23e05c",
+      "md5": "ae3f9a9c9a1ce63578ba68b3511c359c",
+      "sha1": "031421f49f98a15187012dc3f15960b260b9979f",
+      "sha256": "3e63947c8c1650139fa1cc5faec96159f19eec3185f8871879cf62ac7a2bc320"
+    },
+    {
+      "name": "Animaniacs (USA) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "673c815d",
+      "md5": "84ff06249f96442626cdd75a5fa440ce",
+      "sha1": "a0732f81e0c4f1bba592563bdc0eaae9d759ef28",
+      "sha256": "4d2cca30eb8804ed6fffa07da2dea1992ff1ce12bded2195d05cf912b879b951"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Animaniacs%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Animaniacs%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Animaniacs%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Animaniacs%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Animaniacs%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Animaniacs%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

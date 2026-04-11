@@ -18,5 +18,65 @@
     "wikidata": "Q11694918",
     "mobygames": 85496,
     "igdb": 7997
-  }
+  },
+  "roms": [
+    {
+      "name": "Nacho Libre (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANLP",
+      "size": 67108864,
+      "crc32": "87bd0c34",
+      "md5": "d73ebeeb63250770280265681c622e96",
+      "sha1": "aec8b758165192ee33c2dca1d52665f11be8443c"
+    },
+    {
+      "name": "Nacho Libre (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANLE",
+      "size": 67108864,
+      "crc32": "b3af0b75",
+      "md5": "39420a40865ef89bdcc584404020dae3",
+      "sha1": "98e81ac0c3197c03f3a09a53e448356c6417b6e6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nacho%20Libre%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Nacho%20Libre%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nacho%20Libre%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nacho%20Libre%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Nacho%20Libre%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nacho%20Libre%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -62,5 +62,53 @@
   "external_ids": {
     "wikidata": "Q7261917",
     "igdb": 192927
-  }
+  },
+  "roms": [
+    {
+      "name": "Puss in Boots (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B6SE",
+      "size": 67108864,
+      "crc32": "eac6701b",
+      "md5": "1d45b2935ed6a799c2770c3528364aca",
+      "sha1": "774a5e938097d2088ac42b535fa52bb2c56de556"
+    },
+    {
+      "name": "Puss in Boots (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B6SP",
+      "size": 67108864,
+      "crc32": "a0ba4535",
+      "md5": "765dcbbaddf1fee51f8dcc0b5a8ddb6b",
+      "sha1": "4659762a0ff63c88ec8f840bc04e4798ba6fe8df"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puss%20in%20Boots%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puss%20in%20Boots%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puss%20in%20Boots%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puss%20in%20Boots%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

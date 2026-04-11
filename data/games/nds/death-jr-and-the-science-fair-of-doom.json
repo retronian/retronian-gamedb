@@ -36,5 +36,65 @@
     "wikidata": "Q16266817",
     "mobygames": 36851,
     "igdb": 21412
-  }
+  },
+  "roms": [
+    {
+      "name": "Death Jr. and the Science Fair of Doom (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFDE",
+      "size": 67108864,
+      "crc32": "426f4f3b",
+      "md5": "228b583970d663eb80e2646cca90f9a1",
+      "sha1": "9a37731da92b0fdd5fc59946957c543db9563aa9"
+    },
+    {
+      "name": "Death Jr. and the Science Fair of Doom (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFDP",
+      "size": 67108864,
+      "crc32": "8f9bea00",
+      "md5": "7d2a0d9a0a808b91a78acc8567bf77e6",
+      "sha1": "127f31e35e1aea95fb50a339e64a79661cc8feb3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Death%20Jr.%20and%20the%20Science%20Fair%20of%20Doom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Death%20Jr.%20and%20the%20Science%20Fair%20of%20Doom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Death%20Jr.%20and%20the%20Science%20Fair%20of%20Doom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Death%20Jr.%20and%20the%20Science%20Fair%20of%20Doom%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Death%20Jr.%20and%20the%20Science%20Fair%20of%20Doom%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Death%20Jr.%20and%20the%20Science%20Fair%20of%20Doom%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

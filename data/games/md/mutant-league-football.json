@@ -63,5 +63,67 @@
     "wikidata": "Q3330920",
     "mobygames": 10318,
     "igdb": 46254
-  }
+  },
+  "roms": [
+    {
+      "name": "Mutant League Football (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-106183-00",
+      "size": 1048576,
+      "crc32": "2a97e6af",
+      "md5": "d77a15e6bf146e064b1543e08a32fb5c",
+      "sha1": "ce68da5d70dddc0291b09b1e5790739ef6ac0748",
+      "sha256": "f1d69794d2b8a5e6ef5f701fdf295f042d3223157fc47718be77eb305af4f792"
+    },
+    {
+      "name": "Mutant League Football (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50566-00",
+      "size": 1048576,
+      "crc32": "dce29c9d",
+      "md5": "4f5f65fe5f8219d791e7ddeb31a635ab",
+      "sha1": "6f8638a1c56229ddcb71c9da9f652b49c2978f44",
+      "sha256": "cfce2eda3921c22da0987ed3b5161e97334af28a0a68ead06c248a0ce2dead35"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mutant%20League%20Football%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mutant%20League%20Football%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mutant%20League%20Football%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mutant%20League%20Football%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mutant%20League%20Football%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mutant%20League%20Football%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

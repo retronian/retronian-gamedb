@@ -54,5 +54,65 @@
     "wikidata": "Q3627628",
     "mobygames": 99344,
     "igdb": 69600
-  }
+  },
+  "roms": [
+    {
+      "name": "Astro Boy - The Video Game (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BTWE",
+      "size": 33554432,
+      "crc32": "6ab7327f",
+      "md5": "cde45a3ddfd1b6419fe316674dd25c78",
+      "sha1": "4efe4d28fa9d1ad1760d63f599d737cbc5941e9e"
+    },
+    {
+      "name": "Astro Boy - The Video Game (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BTWP",
+      "size": 33554432,
+      "crc32": "b701bbb0",
+      "md5": "a2c43d83903117cca2bcee0286014e07",
+      "sha1": "cb813a3fed751e8c99ce0c3f1f7c3403965fa5ae"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Astro%20Boy%20-%20The%20Video%20Game%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Astro%20Boy%20-%20The%20Video%20Game%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Astro%20Boy%20-%20The%20Video%20Game%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Astro%20Boy%20-%20The%20Video%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Astro%20Boy%20-%20The%20Video%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Astro%20Boy%20-%20The%20Video%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

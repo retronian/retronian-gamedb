@@ -63,5 +63,49 @@
     "wikidata": "Q2567511",
     "mobygames": 794,
     "igdb": 2053
-  }
+  },
+  "roms": [
+    {
+      "name": "Turbo OutRun (Japan, Europe) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00001123-00",
+      "size": 524288,
+      "crc32": "0c661369",
+      "md5": "32fb1f12205e350cfe2bb66616043b59",
+      "sha1": "3e4b9881dde758ef7bb090b39d3556d9bc0d9f1e",
+      "sha256": "2de62cab795be6731021e1e1d369ae512ebb631ad212efb60394485f7acdc186"
+    },
+    {
+      "name": "Turbo OutRun (Japan, Europe) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00001123-00",
+      "size": 524288,
+      "crc32": "2a7f2b36",
+      "md5": "2dfece94b43477a87b2c3ac0e74b5cfa",
+      "sha1": "9695c91c42f635e6b3a046ca813d3cbe6d180a83",
+      "sha256": "ed18667cfc2c2d93bc1a443f366a7dd98e0d20825968fee5cd237d3496019cad"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Turbo%20OutRun%20%28Japan%2C%20Europe%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Turbo%20OutRun%20%28Japan%2C%20Europe%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Turbo%20OutRun%20%28Japan%2C%20Europe%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -81,5 +81,47 @@
     "wikidata": "Q1047581",
     "mobygames": 23934,
     "igdb": 10455
-  }
+  },
+  "roms": [
+    {
+      "name": "Undercover Cops (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "b574c939",
+      "md5": "1a0bef681793f1f9a57e3935c64c36df",
+      "sha1": "1bee4ffd169648ce693a127f06ad6e8f7c2fa2c6",
+      "sha256": "cb8073cf95eace56ba4324a2106164fa540900c2de083aff490c4afe91ae95f7"
+    },
+    {
+      "name": "Undercover Cops (USA) (Retro-Bit)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "febc684a",
+      "md5": "e7a8d61520fd7d53979e68f53ab2dd8c",
+      "sha1": "6518b88d7b7d15b5b62358db4a6816e932577864",
+      "sha256": "26d5392122f1be8817bc33351f38620949e0c91b56cfdc7258021e7213bcbe8a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Undercover%20Cops%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Undercover%20Cops%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Undercover%20Cops%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

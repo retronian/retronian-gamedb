@@ -54,5 +54,48 @@
     "wikidata": "Q5652731",
     "mobygames": 25863,
     "igdb": 243190
-  }
+  },
+  "roms": [
+    {
+      "name": "Happy Feet (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHFE",
+      "size": 33554432,
+      "crc32": "c212da20",
+      "md5": "9aa1e04426344e8616012a921ab811c8",
+      "sha1": "39dfbdeda18ca97b6d7941de26fa25b955fb5e05"
+    },
+    {
+      "name": "Happy Feet (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHFP",
+      "size": 33554432,
+      "crc32": "5c99f91f",
+      "md5": "02842f2bcdfc4ba74d9ef1e58e615b82",
+      "sha1": "045bd99119395056a9431d5ec754d70a78c6dae6",
+      "sha256": "73895a726babba7c1a875bd3ba6da9d13ca5a8038cae91a0573d7f9b256e1cad"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Happy%20Feet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Happy%20Feet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Happy%20Feet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

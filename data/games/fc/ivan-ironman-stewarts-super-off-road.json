@@ -54,5 +54,65 @@
     "wikidata": "Q2017774",
     "mobygames": 4444,
     "igdb": 365887
-  }
+  },
+  "roms": [
+    {
+      "name": "Ivan 'Ironman' Stewart's Super Off Road (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "ca5d7b08",
+      "md5": "e89f57dd6371b2e8069bdd5b7ff0894e",
+      "sha1": "5b013ac0950d84350c3584af981b7f10b743d0b1",
+      "sha256": "ba8b320858e1301801e0fc1d26637a2f562ae3d528c4aef83e75fb2b6620bffd"
+    },
+    {
+      "name": "Ivan 'Ironman' Stewart's Super Off Road (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "c4ca2a2b",
+      "md5": "fe75ef763c4d1e1a3e730defb75d3bef",
+      "sha1": "fd7d5561a88f69c900c3fd71a95bcdba4296a11a",
+      "sha256": "1636e406f8cb96a7d8fb64277165b257768bed8eabbfb2559a3f8a1aa52ec306"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ivan%20%27Ironman%27%20Stewart%27s%20Super%20Off%20Road%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ivan%20%27Ironman%27%20Stewart%27s%20Super%20Off%20Road%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ivan%20%27Ironman%27%20Stewart%27s%20Super%20Off%20Road%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ivan%20%27Ironman%27%20Stewart%27s%20Super%20Off%20Road%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ivan%20%27Ironman%27%20Stewart%27s%20Super%20Off%20Road%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ivan%20%27Ironman%27%20Stewart%27s%20Super%20Off%20Road%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

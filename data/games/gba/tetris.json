@@ -65,6 +65,33 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "テトリスワールド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tetris Worlds",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tetris Worlds",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1984-06-06",
@@ -72,5 +99,150 @@
     "wikidata": "Q71910",
     "mobygames": 1630,
     "igdb": 243183
-  }
+  },
+  "roms": [
+    {
+      "name": "Tetris Worlds (Europe) (En,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATWY",
+      "size": 4194304,
+      "crc32": "4a834fc2",
+      "md5": "08aecb6882d9a73b2cac1316a5fbf31b",
+      "sha1": "2de4d4c3d239b2e56ad4cc3000bb1ad2fdddd987"
+    },
+    {
+      "name": "Tetris Worlds (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ATWJ",
+      "size": 4194304,
+      "crc32": "fcf2d471",
+      "md5": "9861ab21a881684a50ec5ceaef04558c",
+      "sha1": "be44036e39f95fb9feb93630720d46570ba1a42f"
+    },
+    {
+      "name": "Tetris Worlds (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATWE",
+      "size": 4194304,
+      "crc32": "7b729804",
+      "md5": "0c4fd4cf211b2b712fd090ef1b95adfd",
+      "sha1": "3fd4735edc6b9e1ee04243c24280d14475b9a191"
+    },
+    {
+      "name": "Tetris Worlds (Europe) (En,Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATWX",
+      "size": 4194304,
+      "crc32": "ad97eb3f",
+      "md5": "3c29c1a26c74b8b1511e17fdd66956a6",
+      "sha1": "4a1297b44208366a178cc1f2541f5ea8386f6f3e",
+      "sha256": "61b589cf19d9a54cf9123e2d903ac3170249fc640cb721b7e43e3195375b0d9d"
+    },
+    {
+      "name": "Tetris Worlds (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ATWJ",
+      "size": 4194304,
+      "crc32": "dd271470",
+      "md5": "0c1605d8447bf69a74dbd715d5fbe70f",
+      "sha1": "f916a9017068e6b4d18d911b049215a5072c4054"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tetris%20Worlds%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tetris%20Worlds%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tetris%20Worlds%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tetris%20Worlds%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tetris%20Worlds%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tetris%20Worlds%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tetris%20Worlds%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tetris%20Worlds%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tetris%20Worlds%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tetris%20Worlds%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tetris%20Worlds%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tetris%20Worlds%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tetris%20Worlds%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tetris%20Worlds%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tetris%20Worlds%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

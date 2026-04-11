@@ -74,6 +74,15 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": false
+    },
+    {
+      "text": "ソマリ (ゲーム)",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
     }
   ],
   "first_release_date": "1994-01-01",
@@ -81,5 +90,48 @@
     "wikidata": "Q887292",
     "mobygames": 12052,
     "igdb": 45676
-  }
+  },
+  "roms": [
+    {
+      "name": "Somari (Taiwan) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 524304,
+      "crc32": "eaa3c5d2",
+      "md5": "7e707fddbc4c3a32975848de98e5a864",
+      "sha1": "804fafdd92fa3f1ce6f33aa44a6342e1bb3f2ce5",
+      "sha256": "66b13cffba6b29acfe28843d79b03d4b3052e54afd5594e07aa2658b47f5b990"
+    },
+    {
+      "name": "Somari (Taiwan) (En) (v1.1) (Pirate)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 524304,
+      "crc32": "c7992017",
+      "md5": "7515d909a036adf4b03b7d492de1091b",
+      "sha1": "ad9a937af6633fb706110f8462cf1a83fed5c385",
+      "sha256": "80fd4e1c33fb2a99d29e3efc32687f7e5b55961dd29a0f8a6681689e9ce3bc42"
+    },
+    {
+      "name": "Somari (Asia) (En) (NT-616) (Pirate)",
+      "source": "no_intro",
+      "size": 524304,
+      "crc32": "5f142158",
+      "md5": "71c4140465dbe4360717221a1caa54c3",
+      "sha1": "88c7f37fcbedcf588c25c62c2bfdf8b5721c2d2d",
+      "sha256": "9238163924d2fa709dc14c0d88926f6cc20ddad1d284415a149444d2e3972e17"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Somari%20%28Asia%29%20%28En%29%20%28NT-616%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Somari%20%28Asia%29%20%28En%29%20%28NT-616%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

@@ -54,5 +54,61 @@
     "wikidata": "Q133992",
     "mobygames": 9023,
     "igdb": 248452
-  }
+  },
+  "roms": [
+    {
+      "name": "X-Men 2 - La Vengeance de Wolverine (France)",
+      "source": "no_intro",
+      "serial": "AWVF",
+      "size": 8388608,
+      "crc32": "82373b44",
+      "md5": "01af1ed83c07af653edd6f6a314f1a3a",
+      "sha1": "2d9f5f0d5143f92ce1585cb86684b29fbdc75594"
+    },
+    {
+      "name": "X2 - Wolverine's Revenge (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWVE",
+      "size": 8388608,
+      "crc32": "41a92220",
+      "md5": "69662d33f665b2e00e4f95aa75b16a6a",
+      "sha1": "dc2e861013a9b6a65b9bcd122f070c8f55d1471b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/X-Men%202%20-%20La%20Vengeance%20de%20Wolverine%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/X-Men%202%20-%20La%20Vengeance%20de%20Wolverine%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/X-Men%202%20-%20La%20Vengeance%20de%20Wolverine%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/X2%20-%20Wolverine%27s%20Revenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/X2%20-%20Wolverine%27s%20Revenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/X2%20-%20Wolverine%27s%20Revenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

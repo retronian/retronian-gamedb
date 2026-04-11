@@ -11,11 +11,44 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Pixeline: Magi i Pixieland",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2006-01-01",
   "external_ids": {
     "wikidata": "Q28759793",
     "igdb": 285774
-  }
+  },
+  "roms": [
+    {
+      "name": "Pixeline - Magi i Pixieland (Denmark)",
+      "source": "no_intro",
+      "serial": "BPXQ",
+      "size": 67108864,
+      "crc32": "cffaab80",
+      "md5": "b5508ad5f6353b6637052f215331e262",
+      "sha1": "6f2c90602b9841baee9db954c8c2518781a99c25",
+      "sha256": "91475fec91991a8020ca6ff58f5854228eb58bde89d5793b583bf897d297ef77"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pixeline%20-%20Magi%20i%20Pixieland%20%28Denmark%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pixeline%20-%20Magi%20i%20Pixieland%20%28Denmark%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

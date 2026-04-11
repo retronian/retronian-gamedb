@@ -36,5 +36,53 @@
     "wikidata": "Q3989355",
     "mobygames": 90444,
     "igdb": 80521
-  }
+  },
+  "roms": [
+    {
+      "name": "Smurfs, The (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZUP",
+      "size": 33554432,
+      "crc32": "ed78387b",
+      "md5": "ddc8133d4886428b3041c12dc5b7c2d6",
+      "sha1": "cfffea72f8beaf12451e1571fc7598649cfbc79a"
+    },
+    {
+      "name": "Smurfs, The (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZUE",
+      "size": 33554432,
+      "crc32": "f92c84f1",
+      "md5": "011ce7826b5545891766d1e2be751a9a",
+      "sha1": "100e175ab74cee83e16f6a2f23fa382e3a19e4af"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Smurfs%2C%20The%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Smurfs%2C%20The%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -118,12 +118,291 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": true
+    },
+    {
+      "text": "ポケモンスタジアム2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pokémon Stadium",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "포켓몬 스타디움",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pokémon Stadium",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pokémon Stadium",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pokémon Stadium",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pokémon Stadium",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "2000-12-14",
+  "first_release_date": "1999-04-30",
   "external_ids": {
     "wikidata": "Q2290930",
     "mobygames": 9233,
     "igdb": 2290
-  }
+  },
+  "roms": [
+    {
+      "name": "Pokemon Stadium 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CP2J",
+      "size": 33554432,
+      "crc32": "40aa4874",
+      "md5": "2449bb712a64e3363a6cbd56f5adeda5",
+      "sha1": "074582744c71d7f0569ce960964a7bbe947efd3c",
+      "sha256": "ba3dda9d33c047ed4902b9cb534c06195e5708972b7db16202087fcbd7c7a0e4"
+    },
+    {
+      "name": "Pokemon Stadium 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NP3P",
+      "size": 67108864,
+      "crc32": "6b3096c4",
+      "md5": "b1271db50d6ef8f6b53cc640c3743e4f",
+      "sha1": "f6a7e8146433a48bf101722e30bf86311a641f7b"
+    },
+    {
+      "name": "Pokemon Stadium 2 (France)",
+      "source": "no_intro",
+      "serial": "NP3F",
+      "size": 67108864,
+      "crc32": "e2a78066",
+      "md5": "4748d96916ae2bcc5fc1630515ee2561",
+      "sha1": "d7e13535b671024a92822db01507e87bd42f68ec",
+      "sha256": "b661d92a94eb3c7a00cd27acc1e93d1e52299bf85a76397ee38e998a84af68ea"
+    },
+    {
+      "name": "Pokemon Stadium 2 (Germany)",
+      "source": "no_intro",
+      "serial": "NP3D",
+      "size": 67108864,
+      "crc32": "1146a43a",
+      "md5": "484f3e696c94980acf3d7068f9acc98f",
+      "sha1": "6de05180d77e73dcf32d57af7c8c1529c7acda59"
+    },
+    {
+      "name": "Pokemon Stadium 2 (Italy)",
+      "source": "no_intro",
+      "serial": "NP3I",
+      "size": 67108864,
+      "crc32": "9fa5c095",
+      "md5": "5a04d7f1ab9c6b080176567aa7168d3a",
+      "sha1": "4926db649c76521f61ae51c13e452a2c8001354c"
+    },
+    {
+      "name": "Pokemon Stadium 2 (Spain)",
+      "source": "no_intro",
+      "serial": "NP3S",
+      "size": 67108864,
+      "crc32": "283e7641",
+      "md5": "b26aafd452c9816e1b7aa0954e75825f",
+      "sha1": "ab1cdf753bed70487923ea3129278e45d6325773"
+    },
+    {
+      "name": "Pokemon Stadium 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NP3E",
+      "size": 67108864,
+      "crc32": "a9998e09",
+      "md5": "1561c75d11cedf356a8ddb1a4a5f9d5d",
+      "sha1": "d8343e69a7dc63b869cf6361d87cde64444281d3",
+      "sha256": "8160abe7d4b9734317000c44e9f882efefe4cc6359eacded98be62f2811e40a9"
+    },
+    {
+      "name": "Pokemon Stadium Kin Gin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NP3J",
+      "size": 67108864,
+      "crc32": "cbc3b935",
+      "md5": "a17aadcc962393d476edc321e59c504b",
+      "sha1": "05682e60b13479ca1c54656e5a5b1ee6d099c1a4",
+      "sha256": "e0ce95bbebb775181497cbf6414845d2dbf19b5d95840f0ab3baa8d61bb6f618"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Stadium%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Pokemon%20Stadium%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Pokemon%20Stadium%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Stadium%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Pokemon%20Stadium%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Pokemon%20Stadium%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Stadium%202%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Pokemon%20Stadium%202%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Pokemon%20Stadium%202%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Stadium%202%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Pokemon%20Stadium%202%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Pokemon%20Stadium%202%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Stadium%202%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Pokemon%20Stadium%202%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Pokemon%20Stadium%202%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Stadium%202%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Pokemon%20Stadium%202%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Pokemon%20Stadium%202%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Stadium%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Pokemon%20Stadium%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Pokemon%20Stadium%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pokemon%20Stadium%20Kin%20Gin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Pokemon%20Stadium%20Kin%20Gin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Pokemon%20Stadium%20Kin%20Gin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

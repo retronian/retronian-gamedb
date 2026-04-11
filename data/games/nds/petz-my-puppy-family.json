@@ -25,5 +25,48 @@
   "first_release_date": "2008-01-01",
   "external_ids": {
     "wikidata": "Q24938902"
-  }
+  },
+  "roms": [
+    {
+      "name": "Petz - My Puppy Family (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CD8P",
+      "size": 33554432,
+      "crc32": "b13468ee",
+      "md5": "16e07802153864603dbe1c416dbfa2c8",
+      "sha1": "70f55ab0d833424a4d42b8b88f597d92beeac6ce"
+    },
+    {
+      "name": "Petz - My Puppy Family (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CD8P",
+      "size": 33554432,
+      "crc32": "2509521e",
+      "md5": "53e1a62c5227c697baf9bc61a72715ef",
+      "sha1": "b6b839ad2ce203081502b0ad748e28360662c08f",
+      "sha256": "c49918d6a052aa5dbb0609f96c04640f72980d3519313019bf07e55312c56cd0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Petz%20-%20My%20Puppy%20Family%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Petz%20-%20My%20Puppy%20Family%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Petz%20-%20My%20Puppy%20Family%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

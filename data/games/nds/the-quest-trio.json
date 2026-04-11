@@ -17,5 +17,50 @@
   "external_ids": {
     "wikidata": "Q7759046",
     "mobygames": 87423
-  }
+  },
+  "roms": [
+    {
+      "name": "Quest Trio, The (Germany)",
+      "source": "no_intro",
+      "serial": "CQED",
+      "size": 67108864,
+      "crc32": "69895b0d",
+      "md5": "90485212d35fd9ebf46385f56657189f",
+      "sha1": "a7f3eec511cbb233ad2d308d3cff7ec534d0127f"
+    },
+    {
+      "name": "Quest Trio, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CQEP",
+      "size": 67108864,
+      "crc32": "4da75707",
+      "md5": "4dfe9575abd9c02b45b6c06be2e56dfd",
+      "sha1": "256af3986b1973f0df9d066470a2fea17f1f9b46"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Quest%20Trio%2C%20The%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Quest%20Trio%2C%20The%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Quest%20Trio%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Quest%20Trio%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

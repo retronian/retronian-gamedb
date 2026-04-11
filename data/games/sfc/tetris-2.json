@@ -77,5 +77,121 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Tetris 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "19b69a57",
+      "md5": "28d41f1b044aa415b094c48522afc7f1",
+      "sha1": "dae51612c26bdc0ba734f4ba2bc2eb3532608c03",
+      "sha256": "44cd937777f8cd5a53dfada28c321788de64925bf3d4adc1c30205704a56b7c1"
+    },
+    {
+      "name": "Tetris 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "ce3392b1",
+      "md5": "3a8bced70aa5afc873f0de1b2e2d388a",
+      "sha1": "43ce6065dfa9d3fbd3c6bcae9e23d160ae738eae",
+      "sha256": "accc836c3adabadc810fbe35702c6a64d50a09f4c672d2734fa58b251d7a20aa"
+    },
+    {
+      "name": "Tetris 2 (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "3bc7054a",
+      "md5": "db2c468aa5888bb669938724abee691d",
+      "sha1": "3d1545911ad024bac0ac7c68e8f77984fb25d278",
+      "sha256": "70dea29a928c1625def31c862dc74960e39e587e416b45829efc21f13ebd9630"
+    },
+    {
+      "name": "Tetris Flash (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "09e9e3bb",
+      "md5": "77865ee0e03a2e1a05afdb93c5126c47",
+      "sha1": "a7b03c0807954a1bd9a05ab9927c28284e235208",
+      "sha256": "7cf40e8ea57274054de7cf64a37dfd0554951f7605794f50078dcda966787bff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tetris%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tetris%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%202%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tetris%202%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%202%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%20Flash%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tetris%20Flash%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%20Flash%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

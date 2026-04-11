@@ -63,5 +63,67 @@
     "wikidata": "Q1535509",
     "mobygames": 3345,
     "igdb": 9684
-  }
+  },
+  "roms": [
+    {
+      "name": "Rampart (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48106-00",
+      "size": 524288,
+      "crc32": "9c4dd057",
+      "md5": "d55d86586e11cfe139df6212d42dd2b6",
+      "sha1": "9dd4ee99e2ccf8759446d355584a9cbf685a3d8b",
+      "sha256": "50b8982c3f60ad16c9ab10c8a168bdad09ae1ec984a73a1004f0fc738083750c"
+    },
+    {
+      "name": "Rampart (Japan, Korea) (Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-48000-00",
+      "size": 524288,
+      "crc32": "16ead64c",
+      "md5": "5da90e74fafadf44d628848661e5d68d",
+      "sha1": "15f9284da9b27b2803bc53790b51b9dac5185a09",
+      "sha256": "f84367b89d1b21c328befbd54e528943de842e7a346316a6b5ac2ebcbda375a3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Rampart%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Rampart%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Rampart%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Rampart%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Rampart%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Rampart%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

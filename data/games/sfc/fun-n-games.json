@@ -45,5 +45,65 @@
     "wikidata": "Q5508636",
     "mobygames": 27348,
     "igdb": 4241
-  }
+  },
+  "roms": [
+    {
+      "name": "Fun 'n Games (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "09ff2dfe",
+      "md5": "aa3d03c80c3664eb9db73f9ca6d7c3cf",
+      "sha1": "1c435248fde70b2d8c028e4b4acfb8eec39b432a",
+      "sha256": "e9e2152411fec3bd10e8cd4587b62717169a25a4cd28f491f8e477b9aae2fcee"
+    },
+    {
+      "name": "Fun 'n Games (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "5d6deac7",
+      "md5": "1708f6dad3795c560b989972e725bc0e",
+      "sha1": "1e2f440e204d6ed0a8c392aa8778df579ba54bda",
+      "sha256": "dcceb5be536c9b91bf34f65e7fcec4b55a78af0192323cf86f3b9555072037ee"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fun%20%27n%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fun%20%27n%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fun%20%27n%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fun%20%27n%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fun%20%27n%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fun%20%27n%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

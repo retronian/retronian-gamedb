@@ -18,5 +18,83 @@
     "wikidata": "Q5424176",
     "mobygames": 43455,
     "igdb": 3495
-  }
+  },
+  "roms": [
+    {
+      "name": "F1 Racing Championship (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NFRP",
+      "size": 16777216,
+      "crc32": "2da744f5",
+      "md5": "9581fc6ceac86dc8a2aee4053043e422",
+      "sha1": "3bce20f58ef9f377299858b7f2dabd0a02d2e9b9",
+      "sha256": "51b765ae7cfdd67ed58a92b5c2181c6c5a6949884df0775b53f72c243f0b6919"
+    },
+    {
+      "name": "F1 Racing Championship (Brazil) (En,Fr)",
+      "source": "no_intro",
+      "region": "br",
+      "serial": "NFRE",
+      "size": 16777216,
+      "crc32": "c05b9184",
+      "md5": "44d5f87127053a21db120bd108b7ac0c",
+      "sha1": "4c95cee963c9f8b477c41c03afccb3362a14e7ce"
+    },
+    {
+      "name": "F1 Racing Championship (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NMGE",
+      "size": 33554432,
+      "crc32": "5a55b4c2",
+      "md5": "40246128052b0aa0fffc7a06a72930f2",
+      "sha1": "499dd70cb9d85f6e0c65af0e07c08fc1c0919638",
+      "sha256": "2fe66b2acd642d8557250df6c5c8b92d58e76997ea09acdca9ccba8387c305a2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/F1%20Racing%20Championship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/F1%20Racing%20Championship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/F1%20Racing%20Championship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/F1%20Racing%20Championship%20%28Brazil%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/F1%20Racing%20Championship%20%28Brazil%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/F1%20Racing%20Championship%20%28Brazil%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/F1%20Racing%20Championship%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

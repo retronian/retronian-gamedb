@@ -90,5 +90,65 @@
     "wikidata": "Q755186",
     "mobygames": 299,
     "igdb": 202120
-  }
+  },
+  "roms": [
+    {
+      "name": "Doom II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A9DE",
+      "size": 16777216,
+      "crc32": "c885d9e9",
+      "md5": "efefee9082a83fc6e49f87510746eac0",
+      "sha1": "2feeffc96386cf2cc0b2076928b010f18e9e9748"
+    },
+    {
+      "name": "Doom II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A9DP",
+      "size": 16777216,
+      "crc32": "60cd3207",
+      "md5": "3df76eb314f21144d2d68758c11dea5f",
+      "sha1": "38c7bafdc2e6d7b9700385c01fbef6b6888e4a33"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Doom%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Doom%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Doom%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Doom%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Doom%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Doom%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

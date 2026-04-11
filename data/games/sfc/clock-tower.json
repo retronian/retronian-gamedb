@@ -81,5 +81,53 @@
     "wikidata": "Q953511",
     "mobygames": 20472,
     "igdb": 18718
-  }
+  },
+  "roms": [
+    {
+      "name": "Clock Tower (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "cbcd0dad",
+      "md5": "51f8a9e95ec58fa5b9c3ec2da530d598",
+      "sha1": "feb998d4e963a76a4dee6351edab894af431eeba",
+      "sha256": "5136488c9e87fcff6cec6fce3660c9e07a0909866a1e40336a4f9a93486b3b98"
+    },
+    {
+      "name": "Clock Tower (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "f29f6651",
+      "md5": "80ba129660244189c00638587e41be53",
+      "sha1": "0e0b9c18a27044e4265f9012ed2444044254776c",
+      "sha256": "f540563e320577c905a24501294cc6c92b1e266b73ec725c41a702fe035c86bc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Clock%20Tower%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Clock%20Tower%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Clock%20Tower%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Clock%20Tower%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

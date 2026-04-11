@@ -36,5 +36,66 @@
     "wikidata": "Q7284656",
     "mobygames": 22523,
     "igdb": 22598
-  }
+  },
+  "roms": [
+    {
+      "name": "Rainbow Islands Revolution (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ARIP",
+      "size": 16777216,
+      "crc32": "e59a779a",
+      "md5": "cadc6aec890a5a9b4c44bcdc38fea86f",
+      "sha1": "30c4e8688ba1cd825b5b22d7b450e2c0a9864956",
+      "sha256": "e37a87083ace4237025ba1761ef4c73ae056dcbaca75e245a1a295f71cf86b1a"
+    },
+    {
+      "name": "Rainbow Islands Revolution (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ARIE",
+      "size": 16777216,
+      "crc32": "5a59c479",
+      "md5": "27151d4ffb66a811048f4711a9b45772",
+      "sha1": "2528833a3f7e0016161ec9226adb5bda80eaa0fb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rainbow%20Islands%20Revolution%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rainbow%20Islands%20Revolution%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rainbow%20Islands%20Revolution%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rainbow%20Islands%20Revolution%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rainbow%20Islands%20Revolution%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rainbow%20Islands%20Revolution%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

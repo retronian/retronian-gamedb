@@ -45,5 +45,78 @@
     "wikidata": "Q1648994",
     "mobygames": 16911,
     "igdb": 3052
-  }
+  },
+  "roms": [
+    {
+      "name": "Bugs Bunny in Double Trouble (USA) (Demo) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1840-00",
+      "size": 3145728,
+      "crc32": "3db3d8e9",
+      "md5": "40f72c7e48dfd952011fca8d89d055cb",
+      "sha1": "c3fc073fa74007d72c93cce0b0b7091c6c7a362c",
+      "sha256": "c28eec754e86ff3874e22ca57941787b9f03eca8b745dc6b7766fd24e771cb32"
+    },
+    {
+      "name": "Bugs Bunny in Double Trouble (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1840-00",
+      "size": 2097152,
+      "crc32": "365305a2",
+      "md5": "3d6dc43a998301c6a9ed2fc1a7e8db40",
+      "sha1": "50b18d9f9935a46854641c9cfc5b3d3b230edd5e",
+      "sha256": "a21e4deab23e7afa1735b0d126b02f73dd9ed895ec1aba209b918417c2c1dcd7"
+    },
+    {
+      "name": "Bugs Bunny in Double Trouble (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1840-00",
+      "size": 2097152,
+      "crc32": "cec0a0bb",
+      "md5": "e8336804126e38e118be63262c6aa763",
+      "sha1": "ee079f3cbb168bab62d5f0643709d840a9b5d2d5",
+      "sha256": "0bd034cc4c5af389e210cd87bd65c33b0c8f83c1d5ff1ce8097c7f3e5fb51db7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Bugs%20Bunny%20in%20Double%20Trouble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Bugs%20Bunny%20in%20Double%20Trouble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Bugs%20Bunny%20in%20Double%20Trouble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Bugs%20Bunny%20in%20Double%20Trouble%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Bugs%20Bunny%20in%20Double%20Trouble%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Bugs%20Bunny%20in%20Double%20Trouble%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

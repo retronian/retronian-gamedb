@@ -42,5 +42,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Super Air Diver (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "0b57c764",
+      "md5": "cfb45d39478ac7af79276b047de3aa87",
+      "sha1": "f70567b9dc858bdb66d73d539390b7f74f00ff8a",
+      "sha256": "dc00b557e85b5f30e2a8cc269e12e55f71802c3024a6f8e9b299f0722a6f4a55"
+    },
+    {
+      "name": "Super Air Diver (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "971e74ba",
+      "md5": "15ad304a4884722502ec2bb062d2cf56",
+      "sha1": "ffb81b82ea027673cbfc26f6ebd9f05c2d60d6c8",
+      "sha256": "abec092d53fa56dd97b72279fcbe1545762d874daf721c4f3a1f3402da643d9c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Air%20Diver%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Air%20Diver%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Air%20Diver%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Air%20Diver%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Air%20Diver%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Air%20Diver%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

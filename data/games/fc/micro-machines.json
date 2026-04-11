@@ -63,5 +63,85 @@
     "wikidata": "Q2045111",
     "mobygames": 3887,
     "igdb": 2703
-  }
+  },
+  "roms": [
+    {
+      "name": "Micro Machines (USA) (v1.1) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "2d39fd7b",
+      "md5": "a445dc768c74834a163cfdddf2be6890",
+      "sha1": "c8027702179cfeaed2c538d4eb5672e12a99f1ef",
+      "sha256": "ffb44dff9222d06162891e79062fe6dae9cd3e47dc921ec85b6bb01bd31af864"
+    },
+    {
+      "name": "Micro Machines (USA, Europe) (Aladdin Compact Cartridge, Plug-Thru) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "c91b11dc",
+      "md5": "3f3bc88b26c46f45b31928f51f458ce7",
+      "sha1": "2b435acb07cee52a520eda9d57935e5824e92dc1",
+      "sha256": "8b22733b7fdb718068978fe8fa71884f8027427ce5eccd7b8d59c39f2493a6a7"
+    },
+    {
+      "name": "Micro Machines (Europe) (Unl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "36bed54f",
+      "md5": "a243302fc10a0c752e1e4ec15e0cd15e",
+      "sha1": "37dcb22e5717a798924f9761ef555d2aff17127e",
+      "sha256": "427551c575b0fc6580229a7098d6fe53129e9039ba5143c5c963522887f9f55f"
+    },
+    {
+      "name": "Micro Machines (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "d45e73d7",
+      "md5": "28738c56137e5449a84ae33f73249bd2",
+      "sha1": "cd307d8583f1ff7109742b0f8e5518dcb6d02ec5",
+      "sha256": "c5bd5b1b29bc3fb664ce6358dd7e54cd68b2ec2a6e29eaca9810b35efad40642"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Micro%20Machines%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Micro%20Machines%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Micro%20Machines%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Micro%20Machines%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Micro%20Machines%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Micro%20Machines%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

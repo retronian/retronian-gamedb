@@ -63,5 +63,65 @@
     "wikidata": "Q6428750",
     "mobygames": 30380,
     "igdb": 21395
-  }
+  },
+  "roms": [
+    {
+      "name": "Konami Arcade Classics (Europe) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACXP",
+      "size": 16777216,
+      "crc32": "c3a0e93c",
+      "md5": "72982b63bc2b64f786fa3ea298865a1b",
+      "sha1": "7014f89a21b787ddd3a71464c36d50f0832e4495"
+    },
+    {
+      "name": "Konami Classics Series - Arcade Hits (USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACXE",
+      "size": 16777216,
+      "crc32": "63b5ea85",
+      "md5": "a365fa4bc9423d0c67790a4c31f3bd6f",
+      "sha1": "2d979d120d6799785bc1a8b95fe4437a1af264a8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Konami%20Arcade%20Classics%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Konami%20Arcade%20Classics%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Konami%20Arcade%20Classics%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Konami%20Classics%20Series%20-%20Arcade%20Hits%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Konami%20Classics%20Series%20-%20Arcade%20Hits%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Konami%20Classics%20Series%20-%20Arcade%20Hits%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

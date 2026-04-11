@@ -27,5 +27,54 @@
     "wikidata": "Q116994393",
     "mobygames": 43649,
     "igdb": 194933
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Indiana Jones 2 - The Adventure Continues (Europe) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BLJP",
+      "size": 67108864,
+      "crc32": "90769f96",
+      "md5": "8cc80d2c906c6c6393782f38f8d07fe9",
+      "sha1": "a9a8c6ac64ecf86c213f17758c772d2859e234ed",
+      "sha256": "4355ceea3a43f7bbff6abc75a020a7cb9c0ece9d6a8e79aa3089bc1ec6af31b6"
+    },
+    {
+      "name": "LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BLJE",
+      "size": 67108864,
+      "crc32": "50dc9232",
+      "md5": "c5dccdd0d4989bdac5584cef619fd925",
+      "sha1": "4b9a111aedee733b1ffa6d7e44b23f02cb0d730e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Indiana%20Jones%202%20-%20The%20Adventure%20Continues%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Indiana%20Jones%202%20-%20The%20Adventure%20Continues%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Indiana%20Jones%202%20-%20The%20Adventure%20Continues%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Indiana%20Jones%202%20-%20The%20Adventure%20Continues%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

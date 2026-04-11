@@ -97,5 +97,85 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Bomberman II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "abfc3596",
+      "md5": "2ca3ce695e6741a94120a9d07675547f",
+      "sha1": "6e102a48b790130cc6822ce9d8a0f7ad8b85dd72",
+      "sha256": "9bc9051b174ec4743df78a3086df6577c55258d705c9c9c451be63152c9badf1"
+    },
+    {
+      "name": "Bomberman II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "57b5f93a",
+      "md5": "8d8b36adb154fad6b55f14133fc4f3f6",
+      "sha1": "ac670d3e8511c52e29edff08c82b45b64c446ba1",
+      "sha256": "637e4ca30e929858c34b20b8538d081b6261feede8273d2d7df3790983f93a7d"
+    },
+    {
+      "name": "Dynablaster (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "3d36d85c",
+      "md5": "643683b0e0c1c510674ccda900c13c6c",
+      "sha1": "fe828b14f74fbaa1d5a218964125080cd5d2ae0f",
+      "sha256": "1d9bd5c939e2e679234882f606259165eaefd10f6600b3fc2a0e84f65de693c5"
+    },
+    {
+      "name": "Bomberman II (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "4eecb442",
+      "md5": "6736b24ae71288ff3a267254ff29d93d",
+      "sha1": "da7f47bd117af3ae662b4983eafd68c6b34b0586",
+      "sha256": "e2254d0597d74979f5db9db8a7ac2ed196558e0c4c6401217c332d7ed6c63328"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bomberman%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bomberman%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bomberman%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dynablaster%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dynablaster%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dynablaster%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

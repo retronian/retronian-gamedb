@@ -26,5 +26,65 @@
     "wikidata": "Q108813099",
     "mobygames": 31646,
     "igdb": 19107
-  }
+  },
+  "roms": [
+    {
+      "name": "Snood 2 - On Vacation (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASVE",
+      "size": 8388608,
+      "crc32": "870ebae6",
+      "md5": "9c8d148948a434468e641deaea97ad7d",
+      "sha1": "17ce02595b65c1e527617612f899ba3574ab1d35"
+    },
+    {
+      "name": "Snood 2 - On Vacation (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASVP",
+      "size": 8388608,
+      "crc32": "11c299b7",
+      "md5": "3b75673e829f8a92aae2769b3b9a3c96",
+      "sha1": "8cfdf0accce8909e9ec418f814a754f3d9a7ad97"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Snood%202%20-%20On%20Vacation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Snood%202%20-%20On%20Vacation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Snood%202%20-%20On%20Vacation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Snood%202%20-%20On%20Vacation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Snood%202%20-%20On%20Vacation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Snood%202%20-%20On%20Vacation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -63,5 +63,65 @@
     "wikidata": "Q3280556",
     "mobygames": 28492,
     "igdb": 3295
-  }
+  },
+  "roms": [
+    {
+      "name": "Power Rangers Zeo - Battle Racers (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "6aa46cfc",
+      "md5": "e19ba660e4d6c744234137a6faaa0cda",
+      "sha1": "bdafd8414e832acb4f85c2f3a539ba9b9af8bcc9",
+      "sha256": "3d9504cd7e0caf11c49f753717c72be9dc733c2b4a3b7cb6966488bcb550c3b5"
+    },
+    {
+      "name": "Power Rangers Zeo - Battle Racers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "389300cf",
+      "md5": "1b92a6e65433de62272d32aa3cf28e52",
+      "sha1": "f83f07f2a6de60ed5e96e7f08de42ed69b9f6e62",
+      "sha256": "2e2a8c0da7f6def617077a25b222062f6988ef14b36b2edfe10d47c6a942d023"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Power%20Rangers%20Zeo%20-%20Battle%20Racers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Power%20Rangers%20Zeo%20-%20Battle%20Racers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Power%20Rangers%20Zeo%20-%20Battle%20Racers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Power%20Rangers%20Zeo%20-%20Battle%20Racers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Power%20Rangers%20Zeo%20-%20Battle%20Racers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Power%20Rangers%20Zeo%20-%20Battle%20Racers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

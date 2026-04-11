@@ -73,6 +73,15 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Tower of Druaga, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1984-07-20",
@@ -86,6 +95,76 @@
       "text": "ドルアーガの塔。ナムコの名作アクションRPG。60階の塔を攻略し、囚われの巫女カイを救出せよ。各階に隠されたアイテムを見つけながら進む戦略性の高いゲーム。",
       "lang": "ja",
       "source": "romu"
+    },
+    {
+      "text": "ドルアーガの塔。ナムコの名作アクションRPG。60階の塔を攻略。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Druaga no Tou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "911c9127",
+      "md5": "b63a55584796c106bcfd3e2c08ea1e3c",
+      "sha1": "77c2d6556ad70ae2f7a05a40fd211baa7ab28f48",
+      "sha256": "528a82d5b5078ed21096d16733efab2a5e0b213387805accdf4ad33cfc1880b7"
+    },
+    {
+      "name": "Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1)",
+      "source": "no_intro",
+      "size": 40976,
+      "crc32": "b2b558fe",
+      "md5": "8d41e29ecf936d4ae18db079e6f134ff",
+      "sha1": "99738a10a79337b488044c0ecdf8822d848aeb20",
+      "sha256": "904d42999c8de88e96f498b002dcf73255557ea5adefb0adc9217e1ae6377c15"
+    },
+    {
+      "name": "Tower of Druaga, The (World) (Evercade)",
+      "source": "no_intro",
+      "size": 40976,
+      "crc32": "d86e1ae3",
+      "md5": "f7ef8ec2959095dd5c3425cae8294101",
+      "sha1": "5a2b72369648b100743e50d860a207f635cd43f7",
+      "sha256": "2b73b51c5a49ce146831524d4f522ab60461b6425cb36662a58f9be5e055e8b3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Druaga%20no%20Tou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Druaga%20no%20Tou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Druaga%20no%20Tou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Druaga%20no%20Tou%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Druaga%20no%20Tou%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Druaga%20no%20Tou%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201%29.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

@@ -54,5 +54,65 @@
     "wikidata": "Q2940654",
     "mobygames": 26312,
     "igdb": 289039
-  }
+  },
+  "roms": [
+    {
+      "name": "Cartoon Network Racing (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AKUE",
+      "size": 67108864,
+      "crc32": "64be4c3c",
+      "md5": "400c7461a13259ea70453ed1d2722de4",
+      "sha1": "07ea8418ddcb9642b78b8caf8d9f047a648a1ddd"
+    },
+    {
+      "name": "Cartoon Network Racing (Europe) (En,Fr,De,Es,It,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AKUP",
+      "size": 67108864,
+      "crc32": "f330dc91",
+      "md5": "6b9b9f7e8d4e19c3c658c98ddec56ecc",
+      "sha1": "1eb0e50506649f6c52fd64e5ddf2d829be8aa690"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cartoon%20Network%20Racing%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cartoon%20Network%20Racing%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cartoon%20Network%20Racing%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cartoon%20Network%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cartoon%20Network%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cartoon%20Network%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

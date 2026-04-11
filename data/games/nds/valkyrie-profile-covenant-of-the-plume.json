@@ -53,5 +53,65 @@
     "wikidata": "Q2087627",
     "mobygames": 45338,
     "igdb": 6579
-  }
+  },
+  "roms": [
+    {
+      "name": "Valkyrie Profile - Covenant of the Plume (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YVPE",
+      "size": 134217728,
+      "crc32": "479145fb",
+      "md5": "97c61be3b52edb316c35edf5921b833c",
+      "sha1": "d0906ab6e11dd928d9f109a2077205dcd7519a90"
+    },
+    {
+      "name": "Valkyrie Profile - Covenant of the Plume (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YVPP",
+      "size": 134217728,
+      "crc32": "e9871681",
+      "md5": "0894f57e98d4d04a408f3f136039ca45",
+      "sha1": "ac9a7f53b2da95eef6fd6613f3e3f6305eae6ea1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Valkyrie%20Profile%20-%20Covenant%20of%20the%20Plume%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Valkyrie%20Profile%20-%20Covenant%20of%20the%20Plume%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Valkyrie%20Profile%20-%20Covenant%20of%20the%20Plume%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Valkyrie%20Profile%20-%20Covenant%20of%20the%20Plume%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Valkyrie%20Profile%20-%20Covenant%20of%20the%20Plume%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Valkyrie%20Profile%20-%20Covenant%20of%20the%20Plume%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

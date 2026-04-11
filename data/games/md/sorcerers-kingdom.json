@@ -45,5 +45,49 @@
     "wikidata": "Q3491156",
     "mobygames": 14077,
     "igdb": 46197
-  }
+  },
+  "roms": [
+    {
+      "name": "Sorcerer's Kingdom (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-24076-00",
+      "size": 1048576,
+      "crc32": "cbe6c1ea",
+      "md5": "8ab847680c35b89e4f7883cb216efdd6",
+      "sha1": "57322c1714fd4e42e1a10d56bfd795bcbc3380d7",
+      "sha256": "a89357b1c9552d86265ea7118faabccbaf32995eb2cd5ce9408e72f1022544e2"
+    },
+    {
+      "name": "Sorcerer's Kingdom (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-24076-01",
+      "size": 1048576,
+      "crc32": "bb1fc9ce",
+      "md5": "587c51be6c60b82514e928f951e730b1",
+      "sha1": "87759abb603f1f97c2e136682dc78eea545338ce",
+      "sha256": "f8002ecd74d35613cd2a2a28340cce8ad15696362bbbe5e1c934d022db363f23"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sorcerer%27s%20Kingdom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sorcerer%27s%20Kingdom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sorcerer%27s%20Kingdom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

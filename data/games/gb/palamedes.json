@@ -61,5 +61,63 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Palamedes (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 32768,
+      "crc32": "526942e1",
+      "md5": "f4e5b89f72cf88c203d8f66c627acd91",
+      "sha1": "f93f5b939985935b9cce1364119344b9dc236f57",
+      "sha256": "0923fff2557fee64b746502b29ac03fb14d8d4664b9f8ef5b24aaa1052f1332a"
+    },
+    {
+      "name": "Palamedes (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "4b993d0d",
+      "md5": "27e8623a411f04fdf53b43508a0d2a7b",
+      "sha1": "789694fce114bf076f77dda4858c1ab53b35e6a4",
+      "sha256": "edf425607970fc9d40a09121abe5ee4579db8a0ab1533e21620983b095451462"
+    },
+    {
+      "name": "Palamedes (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "58176694",
+      "md5": "003943c85b2332615386dcc4810248ba",
+      "sha1": "2c25a15559e943841a0e3f4a95e85b7b210ab7a3",
+      "sha256": "4933d5fae4b9454559186bc89c2fed158e4e8c895656ffd0eccfd34914cae842"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Palamedes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Palamedes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Palamedes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Palamedes%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

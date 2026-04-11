@@ -26,5 +26,54 @@
   "external_ids": {
     "wikidata": "Q11273565",
     "igdb": 109055
-  }
+  },
+  "roms": [
+    {
+      "name": "Tongari Boushi to Mahou no Omise (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BMOJ",
+      "size": 134217728,
+      "crc32": "d0b6c422",
+      "md5": "84144de12356fe1e4db876ac8f22770e",
+      "sha1": "046cc22c589c25ca9f25b67dcdfaa1928ab86af5",
+      "sha256": "6b0b615bb34aefbc4850c1fe961eaa18772ec835d62d14b9b9cecc689cf3250d"
+    },
+    {
+      "name": "Tongari Boushi to Mahou no Omise (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BMOJ",
+      "size": 134217728,
+      "crc32": "5f050f56",
+      "md5": "8f4cd8db73784efc217d9a4989f115bd",
+      "sha1": "21644d14641bfd31161b73ff01e81fcee4e85c1a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tongari%20Boushi%20to%20Mahou%20no%20Omise%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tongari%20Boushi%20to%20Mahou%20no%20Omise%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tongari%20Boushi%20to%20Mahou%20no%20Omise%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tongari%20Boushi%20to%20Mahou%20no%20Omise%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

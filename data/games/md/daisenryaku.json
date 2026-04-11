@@ -65,12 +65,108 @@
       "form": "official",
       "source": "skyscraper_ja",
       "verified": true
+    },
+    {
+      "text": "Super Daisenryaku",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Super Daisenryaku",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "大戦略",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
-  "first_release_date": "1991-06-17",
+  "first_release_date": "1989-01-01",
   "external_ids": {
     "wikidata": "Q2742518",
     "mobygames": 44860,
     "igdb": 27970
-  }
+  },
+  "descriptions": [
+    {
+      "text": "スーパーダイセンリャクは、システムソフトの長寿戦略シリーズの多くのタイトルの一つです。ゲームのメカニクスはダイセンリャクIIに基づいていますが、収録されている35のマップの多くはこのリリース独自のものであり、いくつかはファンタシースターを基にしています。シナリオモードはなく、収録されているマップはすべてプレイ可能です。マップの中には2人用のものもあれば4人用のものもあり、任意の人間プレイヤーとコンピュータプレイヤーの組み合わせでプレイできます。\n\nゲームは六角形のスペースで構成された大きなマップ上で行われ、各スペースは特定の地形タイプです。各プレイヤーは複数のユニットを操作し、それぞれがグリッド上の1スペースを占めます。異なるユニットは他のユニットに対して異なる強さと弱さを持ち、地形の影響も受けます。各プレイヤーは首都を制御し、目標は他のプレイヤーの首都を占領することです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Daisenryaku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004501-00",
+      "size": 524288,
+      "crc32": "d50a166f",
+      "md5": "91d40557943ca9a2dd085292fc40e03a",
+      "sha1": "56d9366b50cea65b16ed621b9a5bf355ef89e6b5",
+      "sha256": "fc303473ea4b7e7f96811313f279b2ab8271ed13856fc1897e7083fd790c6e66"
+    },
+    {
+      "name": "Super Daisenryaku (Japan) (Rev A)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004501-02",
+      "size": 524288,
+      "crc32": "11645d6e",
+      "md5": "0fd4f2492a5c550d47a143546bae6e92",
+      "sha1": "21ef9d2b425a8dc084c21c88cca2c610d035d75d",
+      "sha256": "3b425a5fe411ff68b5a72a4f749ff28691bd73da265d0ad5e046bd962d1e38e4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Daisenryaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Daisenryaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Daisenryaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Daisenryaku%20%28Japan%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Daisenryaku%20%28Japan%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Daisenryaku%20%28Japan%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

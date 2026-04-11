@@ -69,5 +69,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Spot (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "2ca58280",
+      "md5": "43f73771d3141a522c5c6c8617042d6f",
+      "sha1": "a14cf8c28e8bcc573b7ed6543cb40d6b1467fa6b",
+      "sha256": "f096f28653fcf4990f7eb507f70f865de53d0e3e9c125944f4304faf7fe82eee"
+    },
+    {
+      "name": "Spot - The Video Game (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 32768,
+      "crc32": "04e241e4",
+      "md5": "41e5a302c648373565f7fde4ca7e4ff9",
+      "sha1": "10577304fae59b9c5d8b72bbf710ba97ef85ac90",
+      "sha256": "7774532d9d064538a9e4caaa979525af0ceedcfaaa9f8b3fedba95443147402c"
+    },
+    {
+      "name": "Spot - The Video Game (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "fcd61b98",
+      "md5": "2524230d0300f46ebf423ae1b37747eb",
+      "sha1": "1a1ae34a3ec668d9a69c9c851c0291752dc63238",
+      "sha256": "252516e4dd77c011163016b633bcb6d961948c202bae86f1996f4dd1838e6316"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Spot%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Spot%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Spot%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Spot%20-%20The%20Video%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Spot%20-%20The%20Video%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Spot%20-%20The%20Video%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Spot%20-%20The%20Video%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Spot%20-%20The%20Video%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Spot%20-%20The%20Video%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

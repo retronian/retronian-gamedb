@@ -72,5 +72,75 @@
     "wikidata": "Q3569743",
     "mobygames": 53020,
     "igdb": 46250
-  }
+  },
+  "roms": [
+    {
+      "name": "Wolverine - Adamantium Rage (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "78fc0d86",
+      "md5": "b34d1223d4756aa1074069dd807a237f",
+      "sha1": "7282cfb57c0d33f22156e8dc52a0e535fb4b187b",
+      "sha256": "529e598acb9347ac1406c8804c78eda751745fb0d9d576415251241565eb0958"
+    },
+    {
+      "name": "Wolverine - Adamantium Rage (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "4e62d6bf",
+      "md5": "8d2cfb56c792e03df5b423e73b86fec0",
+      "sha1": "3042dc1fbf896bec0944b24a19042324cd3e1bfe",
+      "sha256": "44428a3d1c796fbd41da7620e321c45f11cd80a0e5f4ab8c48177106cb960d77"
+    },
+    {
+      "name": "Wolverine - Adamantium Rage (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "98455315",
+      "md5": "aaaecee1fa991d3c5e66667ecf6dd84f",
+      "sha1": "d7065e9c9907c524329679a2d4890d45871b4316",
+      "sha256": "8e30dcf59bdd5f69617fcd5857951207f58fb77ebe56c5f2d3635b5e7c2d5288"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wolverine%20-%20Adamantium%20Rage%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wolverine%20-%20Adamantium%20Rage%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wolverine%20-%20Adamantium%20Rage%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wolverine%20-%20Adamantium%20Rage%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wolverine%20-%20Adamantium%20Rage%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wolverine%20-%20Adamantium%20Rage%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

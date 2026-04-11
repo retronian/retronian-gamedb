@@ -72,5 +72,68 @@
     "wikidata": "Q71910",
     "mobygames": 1630,
     "igdb": 326807
-  }
+  },
+  "descriptions": [
+    {
+      "text": "このテトリスのバージョンは、有名なブロック積み上げゲームの多くの移植の一つであり、いくつかの地域でゲームボーイと共に発売されました。目的は、4つのタイルで構成されたピースを10×20の井戸に配置し、完全な行を作って消すことです。行が消えるとゲームのペースが速くなり、背景が変化し、井戸の上部に積み上がるとゲームが終了します。\n\nこのゲームは、任天堂のNES版と非常に似ており、同じ「タイプA」のエンドレスモードと「タイプB」のセットクリアモードを備えています。また、2台のゲームボーイ、2つのテトリスのコピー、ゲームボーイリンクケーブルを使用してプレイできる2人対戦モードもあります。このモードでラインを消すと、相手の積み上げが上昇し、相手を負けさせることが目標となります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tetris (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "63f9407d",
+      "md5": "084f1e457749cdec86183189bd88ce69",
+      "sha1": "3f2a6407c9900ad5817ee1cfb3609c5ee17400fc",
+      "sha256": "7fde11dd4e594a6905deccd57943d2909ecb37665a030741c42155aeb346323b"
+    },
+    {
+      "name": "Tetris (World) (Rev 1)",
+      "source": "no_intro",
+      "size": 32768,
+      "crc32": "46df91ad",
+      "md5": "982ed5d2b12a0377eb14bcdc4123744e",
+      "sha1": "74591cc9501af93873f9a5d3eb12da12c0723bbc",
+      "sha256": "0d6535aef23969c7e5af2b077acaddb4a445b3d0df7bf34c8acef07b51b015c3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tetris%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tetris%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tetris%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tetris%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tetris%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tetris%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

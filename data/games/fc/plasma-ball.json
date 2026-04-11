@@ -33,5 +33,37 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1992-03-27"
+  "first_release_date": "1992-03-27",
+  "roms": [
+    {
+      "name": "Plasma Ball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "e3535fa6",
+      "md5": "1067f1be4f279bdfc7e71ea46d3f1726",
+      "sha1": "c98468cca47f564fe71ae1a95eaa356fe8fc96ee",
+      "sha256": "bdf8519aff403fab5bc7d56b1f11d8678fd434eebc9ce41557dd03ef626e22f8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Plasma%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Plasma%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Plasma%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

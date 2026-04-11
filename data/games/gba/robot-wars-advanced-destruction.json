@@ -18,5 +18,76 @@
     "wikidata": "Q16259154",
     "mobygames": 31482,
     "igdb": 6562
-  }
+  },
+  "roms": [
+    {
+      "name": "Robot Wars - Advanced Destruction (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ARWP",
+      "size": 4194304,
+      "crc32": "cf8231be",
+      "md5": "e506cc1b94ab876b7cae86d4ad42a600",
+      "sha1": "532f5fd5e22c140fc7cfba519f6e50c786c8bc85"
+    },
+    {
+      "name": "Robot Wars - Advanced Destruction (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ARUE",
+      "size": 4194304,
+      "crc32": "e6cb567d",
+      "md5": "677a6cc065d29722f5ce39cfecf863ec",
+      "sha1": "952adf4e17865abc2b983c79ad4080e9b4867370"
+    },
+    {
+      "name": "Robot Wars - Advanced Destruction (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 585104,
+      "crc32": "ce95bbd6",
+      "md5": "49cbbfd3e38a5a7162e9b2aae5d56695",
+      "sha1": "e045c21b0fef1959c1207bb46e509089b03fd6db",
+      "sha256": "cbbd09d63bb9abcbb2c9d34eb72002f6824520c43046baf0f41e4d3556ff2b0c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Robot%20Wars%20-%20Advanced%20Destruction%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Robot%20Wars%20-%20Advanced%20Destruction%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Robot%20Wars%20-%20Advanced%20Destruction%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Robot%20Wars%20-%20Advanced%20Destruction%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Robot%20Wars%20-%20Advanced%20Destruction%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Robot%20Wars%20-%20Advanced%20Destruction%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

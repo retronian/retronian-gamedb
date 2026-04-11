@@ -27,5 +27,49 @@
     "wikidata": "Q3411063",
     "mobygames": 44795,
     "igdb": 45714
-  }
+  },
+  "roms": [
+    {
+      "name": "Putter Golf (Japan) (Game no Kanzume Otokuyou)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "a6557faa",
+      "md5": "925897f4f14d614bca1007c56f0f543e",
+      "sha1": "9c4bc513a00f5bb5f7c72b41999d9c8c12345acf",
+      "sha256": "d3ef2f53d3d3c1990464356d2126ba8b1e7b656587e6242435ab2164a4f40090"
+    },
+    {
+      "name": "Putter Golf (Japan) (Sega Game Toshokan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "20f168a6",
+      "md5": "2fed39c0cc048a5ecd2a91495975b002",
+      "sha1": "345af8995cf9d88f7c4d8cfd81c8ccd45e6478fc",
+      "sha256": "51a490b24a8d38d93a2232d9968cc7ea3014762771135df28b68f5719d48f987"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Putter%20Golf%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Putter%20Golf%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Putter%20Golf%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -83,6 +83,42 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "ニード・フォー・スピード カーボン オウン・ザ・シティ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Need for Speed Carbon: Own the City",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Need for Speed Carbon: Own the City",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Need For Speed Carbon: Own The City",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2006-10-30",
@@ -90,5 +126,41 @@
     "wikidata": "Q219795",
     "mobygames": 24824,
     "igdb": 197881
-  }
+  },
+  "roms": [
+    {
+      "name": "Need for Speed Carbon - Own the City (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AN7P",
+      "size": 33554432,
+      "crc32": "d0517323",
+      "md5": "9513e22ffab30cdb1d360ae867b4ed2d",
+      "sha1": "43ec23fb2e817b5f99efadf21a7031f5d53115d5"
+    },
+    {
+      "name": "Need for Speed Carbon - Own the City (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AN7E",
+      "size": 33554432,
+      "crc32": "9deaffaf",
+      "md5": "c363bc8fddfb05ad10feb99434106eb2",
+      "sha1": "47b16e0512c67e21258fc86e3be36c06609004d8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Need%20for%20Speed%20Carbon%20-%20Own%20the%20City%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Need%20for%20Speed%20Carbon%20-%20Own%20the%20City%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

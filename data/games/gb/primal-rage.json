@@ -63,5 +63,53 @@
     "wikidata": "Q614287",
     "mobygames": 5565,
     "igdb": 259731
-  }
+  },
+  "roms": [
+    {
+      "name": "Primal Rage (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "c95d927b",
+      "md5": "c1cff8487b25700a509ce89cc3c7bcac",
+      "sha1": "8561d62cd7df59082d6b3c048ca3b85a30d769b7",
+      "sha256": "0a23aa9c6e6eb1f281b5685736f3886cbf1309dc44c8379dde78c46f44e207f9"
+    },
+    {
+      "name": "Primal Rage (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "f738d4d1",
+      "md5": "81abf5cdc935e97246a914a723649b6d",
+      "sha1": "2aa5b610058e8676126c35ad123fcbd5b4ce99a4",
+      "sha256": "49db79e2cb80f0b22ea7b81ea1546ad0c44f75c3d82e83d5a75c16f9251ecc7b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Primal%20Rage%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Primal%20Rage%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Primal%20Rage%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Primal%20Rage%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

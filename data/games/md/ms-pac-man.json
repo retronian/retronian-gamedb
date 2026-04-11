@@ -90,5 +90,38 @@
     "wikidata": "Q2141683",
     "mobygames": 576,
     "igdb": 131815
-  }
+  },
+  "roms": [
+    {
+      "name": "Ms. Pac-Man (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48036-00",
+      "size": 131072,
+      "crc32": "af041be6",
+      "md5": "cfe7f3023b21bcf697bcf5e1be461ee7",
+      "sha1": "29fff97e19a00904846ad99baf6b9037b28df15f",
+      "sha256": "87f3c75fea5c4e105163a3b6d4467527fdc3fcc4b8e385155067719b98b2be7c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ms.%20Pac-Man%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ms.%20Pac-Man%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ms.%20Pac-Man%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

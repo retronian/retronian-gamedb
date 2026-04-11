@@ -18,5 +18,72 @@
     "wikidata": "Q22019737",
     "mobygames": 45071,
     "igdb": 49858
-  }
+  },
+  "roms": [
+    {
+      "name": "Return of the Ninja (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "8e04849a",
+      "md5": "9c1cb86cccb4fa2bbc6137a81d92a3b1",
+      "sha1": "e49ce291a1da791955a5de8c894aca28ffc97f9b"
+    },
+    {
+      "name": "Return of the Ninja (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "a07da702",
+      "md5": "178ea5a9eba6e7f35e894bad1ec34f77",
+      "sha1": "e33352f0ac19d28983ebed0758d022861473ec0e"
+    },
+    {
+      "name": "Return of the Ninja (World) (Limited Run Games)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "df445c4a",
+      "md5": "8c0212d475d0ac89e5821291abf87816",
+      "sha1": "d73049119fbc163183fdb95e9b299ca4d1d4e8e3",
+      "sha256": "f432a97dd07dbd3e0304cd519ec58374d04a5f0fd426f6331c02f4975b3f9929"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Return%20of%20the%20Ninja%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Return%20of%20the%20Ninja%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Return%20of%20the%20Ninja%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Return%20of%20the%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Return%20of%20the%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Return%20of%20the%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -63,5 +63,65 @@
     "wikidata": "Q2052640",
     "mobygames": 16667,
     "igdb": 146058
-  }
+  },
+  "roms": [
+    {
+      "name": "Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BT2E",
+      "size": 8388608,
+      "crc32": "802fc7c1",
+      "md5": "da96ce67d0ddad72e032632c8fd9994a",
+      "sha1": "f42d0131e908942bf84d2323739ce015ee930142"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles 2 - Battle Nexus (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BT2P",
+      "size": 8388608,
+      "crc32": "ada00a65",
+      "md5": "eef855d3f529ad51a0ef8bb6f028f31d",
+      "sha1": "eb7741aa8e5a26dc3426ac4e541638122496e8c1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

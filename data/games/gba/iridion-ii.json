@@ -18,5 +18,77 @@
     "wikidata": "Q3154354",
     "mobygames": 16528,
     "igdb": 6450
-  }
+  },
+  "roms": [
+    {
+      "name": "Iridion II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AI2E",
+      "size": 8388608,
+      "crc32": "dd8a7104",
+      "md5": "553e8c9a80190617ec13fa2a06487f2d",
+      "sha1": "3d9a8af95a636be82e1af184df2110f20e170824",
+      "sha256": "8f89c1ab8fb52f302dbed6e57f163918101470bce8f6442b4ffd19153f970449"
+    },
+    {
+      "name": "Iridion II (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AI2P",
+      "size": 8388608,
+      "crc32": "57930c6a",
+      "md5": "ba5048bbfb02ebe3874b8ce1b6318ce4",
+      "sha1": "661442c24404cc0727e4343f9ce570c87c797661"
+    },
+    {
+      "name": "Iridion II (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "1234",
+      "size": 8388608,
+      "crc32": "9c63d17c",
+      "md5": "a0f41d368e75924c642553e61311416d",
+      "sha1": "3e951fd97bacd4f258bf30785af22934f7697a91",
+      "sha256": "c3e296ed6806f48f31c6e4dedfb28f22a6be168c451e16064c39a7f828ff8b77"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Iridion%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Iridion%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Iridion%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Iridion%20II%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Iridion%20II%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Iridion%20II%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -62,5 +62,63 @@
   "external_ids": {
     "wikidata": "Q2836700",
     "igdb": 50016
-  }
+  },
+  "roms": [
+    {
+      "name": "Alice in Wonderland (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "85545d81",
+      "md5": "265de745b9b6c8e84e02acbf80d0428e",
+      "sha1": "ea8647cce2d4b5f7993190c6e485669cc6046a29"
+    },
+    {
+      "name": "Alice in Wonderland (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "3199f65f",
+      "md5": "0ed5b9ffe7ad90d819cac810d05b669c",
+      "sha1": "02c49003d5eb1498f239149089a517cdfb6bda0b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Alice%20in%20Wonderland%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Alice%20in%20Wonderland%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Alice%20in%20Wonderland%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Alice%20in%20Wonderland%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Alice%20in%20Wonderland%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Alice%20in%20Wonderland%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

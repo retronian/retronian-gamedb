@@ -54,5 +54,64 @@
     "wikidata": "Q7054511",
     "mobygames": 5584,
     "igdb": 19418
-  }
+  },
+  "roms": [
+    {
+      "name": "Soviet Strike (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 512654784,
+      "crc32": "438005ce",
+      "md5": "cfb61b16a886eb636d821fa36503d448",
+      "sha1": "1ee427e5521435574212983a11a293e672a2f760"
+    },
+    {
+      "name": "Soviet Strike (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 506769040,
+      "crc32": "debc9d37",
+      "md5": "a40edbc5903667e13af4caa5b1751272",
+      "sha1": "6eb9bd04a145e0c3d0ad674a0b74ad0841e09613",
+      "sha256": "66a7ffdff70de665348a83c9a63e19d1b5ff6ef8d79ee2547c2f7ecc00037ee7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Soviet%20Strike%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Soviet%20Strike%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Soviet%20Strike%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Soviet%20Strike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Soviet%20Strike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Soviet%20Strike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

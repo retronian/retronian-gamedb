@@ -36,5 +36,45 @@
     "wikidata": "Q5422363",
     "mobygames": 278,
     "igdb": 50462
-  }
+  },
+  "roms": [
+    {
+      "name": "Extreme Pinball (Germany)",
+      "source": "no_intro",
+      "size": 23711152,
+      "crc32": "9572c8de",
+      "md5": "c7e13cdd0647a2867aea2c49724d9743",
+      "sha1": "bfc5712e97d21bf89d7ce36c4773a3a620a40dde"
+    },
+    {
+      "name": "Extreme Pinball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 25040336,
+      "crc32": "8ea3e441",
+      "md5": "23d825c0f78d6e7340d84e5258bb926c",
+      "sha1": "a2a03b701efe1b031d3208b5542838f50a3f97f4",
+      "sha256": "23ccf7ff08525eae732063a1fc8e97b1372bd35edb6f3baa32c95f14840294d1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Extreme%20Pinball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Extreme%20Pinball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Extreme%20Pinball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

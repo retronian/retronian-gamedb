@@ -18,5 +18,65 @@
     "wikidata": "Q106620396",
     "mobygames": 20536,
     "igdb": 8144
-  }
+  },
+  "roms": [
+    {
+      "name": "Kim Possible 2 - Drakken's Demise (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BKMP",
+      "size": 8388608,
+      "crc32": "71c505c8",
+      "md5": "05da8d783575896e54f15104f1e87035",
+      "sha1": "eb4099911dbd28073c554f4d4fa35cbeed82bc6b"
+    },
+    {
+      "name": "Kim Possible 2 - Drakken's Demise (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BKME",
+      "size": 8388608,
+      "crc32": "fa946fc6",
+      "md5": "5bec89f235c7a558f7f79d1760d648da",
+      "sha1": "d2baaec3c20b48bebe79ebe27761cd107fd067bf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kim%20Possible%202%20-%20Drakken%27s%20Demise%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kim%20Possible%202%20-%20Drakken%27s%20Demise%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kim%20Possible%202%20-%20Drakken%27s%20Demise%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kim%20Possible%202%20-%20Drakken%27s%20Demise%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kim%20Possible%202%20-%20Drakken%27s%20Demise%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kim%20Possible%202%20-%20Drakken%27s%20Demise%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

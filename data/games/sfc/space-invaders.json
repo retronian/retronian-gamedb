@@ -116,5 +116,93 @@
     "wikidata": "Q220665",
     "mobygames": 8806,
     "igdb": 84891
-  }
+  },
+  "roms": [
+    {
+      "name": "Space Invaders (Australia)",
+      "source": "no_intro",
+      "region": "au",
+      "size": 262144,
+      "crc32": "6b62625a",
+      "md5": "a201dacb210cb8e85ae205dd2458d8e1",
+      "sha1": "1edc9088dc695c31a396b914c1c921c77a740068",
+      "sha256": "0483780080d10bae49f62c3e4bf6954f891a29c0b1356b3a073cc894784593b8"
+    },
+    {
+      "name": "Space Invaders (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "caf035f5",
+      "md5": "925b7c04455633503842e524940a3676",
+      "sha1": "125a5a045ab6cb60728c8aded449c7b6a8144035",
+      "sha256": "dc5353ddc350816619230f25f8c51bddabf7438e6dfba21662eb1c4794856735"
+    },
+    {
+      "name": "Space Invaders - The Original Game (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "07fafcd0",
+      "md5": "f0789172fcc8941bc37e65e451d53318",
+      "sha1": "3f6c584d818f45a5aa241cbda88b7139ef2d0462",
+      "sha256": "10be085ea1561920bf0d1e5058ae43e8cddab7f2ba95c1c2d31b932fc679e7da"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Space%20Invaders%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Space%20Invaders%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Space%20Invaders%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Space%20Invaders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Space%20Invaders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Space%20Invaders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Space%20Invaders%20-%20The%20Original%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Space%20Invaders%20-%20The%20Original%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Space%20Invaders%20-%20The%20Original%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

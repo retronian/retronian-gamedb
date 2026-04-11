@@ -90,5 +90,94 @@
     "wikidata": "Q915860",
     "mobygames": 85341,
     "igdb": 146720
-  }
+  },
+  "roms": [
+    {
+      "name": "Tomb Raider - Underworld (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YX8E",
+      "size": 134217728,
+      "crc32": "17787275",
+      "md5": "0150351b394b800f894adb2981e37738",
+      "sha1": "c2215288612096fa1b8d707eeef3c37e094ba266",
+      "sha256": "53b15acdf3f12ccff9e9cd85d4b0ae2e13286e5ebbd08eaa8e2c59a5b05a8581"
+    },
+    {
+      "name": "Tomb Raider - Underworld (Europe) (En,Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YX8P",
+      "size": 134217728,
+      "crc32": "c6c4cb7b",
+      "md5": "44800e12ac86ca8dac3572a8f01bce95",
+      "sha1": "38029b992c3651e55472262128fee58ac7b2324e"
+    },
+    {
+      "name": "Tomb Raider - Underworld (Europe) (En,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YX8X",
+      "size": 134217728,
+      "crc32": "ce707991",
+      "md5": "52dfc1498148417f675c12a6b8fb6982",
+      "sha1": "2642e710d1a6018eca1e0a1b5b38e0772d4fd399"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tomb%20Raider%20-%20Underworld%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tomb%20Raider%20-%20Underworld%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tomb%20Raider%20-%20Underworld%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tomb%20Raider%20-%20Underworld%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tomb%20Raider%20-%20Underworld%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tomb%20Raider%20-%20Underworld%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tomb%20Raider%20-%20Underworld%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tomb%20Raider%20-%20Underworld%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tomb%20Raider%20-%20Underworld%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

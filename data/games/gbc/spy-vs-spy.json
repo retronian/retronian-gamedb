@@ -72,5 +72,174 @@
     "wikidata": "Q945899",
     "mobygames": 7332,
     "igdb": 9166
-  }
+  },
+  "roms": [
+    {
+      "name": "Spy vs Spy (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "713c6c17",
+      "md5": "fe002ee7d615bf7b728bf6031645b168",
+      "sha1": "574c90cc4ef318d76a76392e5165351dbc9a1ab0",
+      "sha256": "26fb9a9d498dbf1da8cf8dd04840bd565daf916f8dd7bdb65709f79a2a569246"
+    },
+    {
+      "name": "Spy vs Spy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "0e783117",
+      "md5": "a5bfa8b98969ca67811ed2d7bfbf5535",
+      "sha1": "0167b0d74004aa9ace10069c5d4bf51adfe7297b"
+    },
+    {
+      "name": "Spy vs Spy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "f0463d51",
+      "md5": "d5f373b287d29e882a1f1182542d5b68",
+      "sha1": "7249cdaf769f959f527a6e01435420bb8102df7a"
+    },
+    {
+      "name": "Spy vs Spy (Japan) (Rev 1) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "eb47d63b",
+      "md5": "eec6986c0380b1071a2ca6d25a29b8d4",
+      "sha1": "9e203f04857cd84ec49b0e6c6d4917b1a5cc199e"
+    },
+    {
+      "name": "Spy vs Spy (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "6ca71209",
+      "md5": "0185d5e6048a74e9b77a26e02cb56307",
+      "sha1": "ec249546a4652ef9375b67ddbac882b13ed4a807",
+      "sha256": "fe1ea4b58719910ead07c442631c6c8815f0f4368f17af4cceba84afed44442e"
+    },
+    {
+      "name": "Spy vs Spy (USA) (En,Fr,De,Es,It,Nl,Sv) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "549bf1e4",
+      "md5": "77487f5bee8d40db42e7cd8800047919",
+      "sha1": "38dd0c729c0d878ea05df7de0b3aba2d098d2975",
+      "sha256": "7995dcb3ea85467a48dea0bf58cc60d00ffb1bec2bc751c049a3c3967c3218af"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Spy%20vs%20Spy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Spy%20vs%20Spy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Spy%20vs%20Spy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Spy%20vs%20Spy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Spy%20vs%20Spy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Spy%20vs%20Spy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Spy%20vs%20Spy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Spy%20vs%20Spy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Spy%20vs%20Spy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Spy%20vs%20Spy%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Spy%20vs%20Spy%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Spy%20vs%20Spy%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Spy%20vs%20Spy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28Rev%201%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Spy%20vs%20Spy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28Rev%201%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Spy%20vs%20Spy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28Rev%201%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Spy%20vs%20Spy%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28Rev%201%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Spy%20vs%20Spy%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28Rev%201%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Spy%20vs%20Spy%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28Rev%201%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

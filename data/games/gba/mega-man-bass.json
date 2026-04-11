@@ -64,6 +64,15 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Rockman & Forte",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1998-04-24",
@@ -71,5 +80,35 @@
     "wikidata": "Q3051587",
     "mobygames": 6604,
     "igdb": 1726
-  }
+  },
+  "descriptions": [
+    {
+      "text": "強大なロボットキングがドクター・ワイリーの基地を占拠し、ロボット博物館に侵入し、秘密のロボット計画が記された100枚のCDを盗み、究極の止められないロボット軍団を作り出そうとしています！さらに悪いことに、彼は自らの新たに得た力を証明するために8体のロボットマスターを送り込みました！\n\nメガマンだけが彼を止めることができる…と思っていましたが！実は、ドクター・ワイリーの最高傑作であり、メガマンの宿敵であるバスが、今回はメガマンと共に戦っています！もちろん、彼が最強のロボットであることを証明するためだけですが、キングの機械狂軍団を叩き潰すことでそれを成し遂げようとしています！\n\n今、メガマンとバスはキングが盗んだ全てのCDを取り戻すために出発します。走り、ジャンプし、スライドし、ダッシュし、そして新たな脅威を打ち倒すために突き進もう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rockman & Forte (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AFCJ",
+      "size": 8388608,
+      "crc32": "b4090702",
+      "md5": "080c58f12416fdf0d8b38ec61a976ca6",
+      "sha1": "4d73babb7ba636e6ea6f849b8d5653094a9fb7d3",
+      "sha256": "539e79a8f15474070095fb5c74191fc4dc5d3000d60b4a2230cae3e803fd7b0a"
+    },
+    {
+      "name": "Rockman & Forte (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AFCJ",
+      "size": 8388608,
+      "crc32": "ce2b48c4",
+      "md5": "93d1ba78096704c5dcfa993337469542",
+      "sha1": "f8eb056745e8b58c1ef4bfef995c77a27aadc57a"
+    }
+  ]
 }

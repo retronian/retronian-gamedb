@@ -81,5 +81,47 @@
     "wikidata": "Q956303",
     "mobygames": 582,
     "igdb": 39048
-  }
+  },
+  "roms": [
+    {
+      "name": "Ghosts'n Goblins (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "102a8b76",
+      "md5": "80dcd911aaa221fd3de883d5128eb97c",
+      "sha1": "3430811ecc007fa469f5b74db277f872679266dd",
+      "sha256": "a263db625853b563aca356a8651f69c9092428dd2b665b6fd5c75ea5b1439d31"
+    },
+    {
+      "name": "Ghosts'n Goblins (USA) (Capcom Town)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "795e90bb",
+      "md5": "5a1246139c967f29b1a295837d5888bf",
+      "sha1": "6376a0a4cc32038f03fd877a56742165ab333f18",
+      "sha256": "ba530b7af5387431f12a8e8834d228a817ddfddc7f2a12fef66e0cbfa66e63e6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ghosts%27n%20Goblins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ghosts%27n%20Goblins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ghosts%27n%20Goblins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

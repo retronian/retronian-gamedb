@@ -62,5 +62,65 @@
     "wikidata": "Q7388963",
     "mobygames": 35841,
     "igdb": 47725
-  }
+  },
+  "roms": [
+    {
+      "name": "SBK - Snowboard Kids (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASBE",
+      "size": 67108864,
+      "crc32": "7ac43d00",
+      "md5": "ae39410ea1e43e5e8f14141bc68ae092",
+      "sha1": "8dc19a69bbe697b5c94616ed1718b9a939d1f987"
+    },
+    {
+      "name": "SBK - Snowboard Kids (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASBP",
+      "size": 67108864,
+      "crc32": "f852109a",
+      "md5": "3875473531f003c5f9a1d025c17da010",
+      "sha1": "c0e1517494479f53ccfeebfd84a247b0150a8b63"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SBK%20-%20Snowboard%20Kids%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/SBK%20-%20Snowboard%20Kids%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SBK%20-%20Snowboard%20Kids%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SBK%20-%20Snowboard%20Kids%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/SBK%20-%20Snowboard%20Kids%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SBK%20-%20Snowboard%20Kids%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

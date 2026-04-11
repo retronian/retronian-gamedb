@@ -18,5 +18,53 @@
     "wikidata": "Q4038693",
     "mobygames": 22317,
     "igdb": 240932
-  }
+  },
+  "roms": [
+    {
+      "name": "Felix the Cat (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "f53f7f00",
+      "md5": "4d606ab4ffd5c3d3ecf914a6af1c1f90",
+      "sha1": "c4a0d02d5964335a18839c7c30ac05b6f40c33b3",
+      "sha256": "c67ce6fbb81f0509d48b022db5a2d39f35c76788218c36cc144bfcec3f986e17"
+    },
+    {
+      "name": "Felix the Cat (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "b1734088",
+      "md5": "24e14958adc385b04bdac3da02bed4c7",
+      "sha1": "66fe01233643fb63e758d1f2e9932f63d545e288",
+      "sha256": "3d2e67e981e6d8a8beed836045b1d8e802ad60e0e046a215f5c9957eaecf1679"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Felix%20the%20Cat%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Felix%20the%20Cat%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Felix%20the%20Cat%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Felix%20the%20Cat%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

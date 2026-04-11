@@ -45,5 +45,67 @@
     "wikidata": "Q2500267",
     "mobygames": 5254,
     "igdb": 1587
-  }
+  },
+  "roms": [
+    {
+      "name": "Spyro - Season of Ice (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASYP",
+      "size": 8388608,
+      "crc32": "afd25827",
+      "md5": "02ca69d4ca90bc8da7ca48d59bb0035d",
+      "sha1": "854e788e5e1316b7d5cdf6b961d0969e5cd62119",
+      "sha256": "0fefe54ee719aacdd2efcef29df4d30af8241c41512c2162079e7a2b4e17edaf"
+    },
+    {
+      "name": "Spyro - Season of Ice (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASYE",
+      "size": 8388608,
+      "crc32": "2f2389d2",
+      "md5": "76aad0726be3ac24f3c5a7a8e64379d3",
+      "sha1": "a9768fa99ae74034ab19a45b30004306f1deff89",
+      "sha256": "d331abe19e3f02e2855aa4bbc2de14626810aca83e0c216862eb1d8ca8d024b0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spyro%20-%20Season%20of%20Ice%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spyro%20-%20Season%20of%20Ice%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spyro%20-%20Season%20of%20Ice%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spyro%20-%20Season%20of%20Ice%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spyro%20-%20Season%20of%20Ice%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spyro%20-%20Season%20of%20Ice%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

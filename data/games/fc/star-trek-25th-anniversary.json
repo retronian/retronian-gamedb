@@ -54,5 +54,61 @@
     "wikidata": "Q1766193",
     "mobygames": 15788,
     "igdb": 2231
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Trek - 25th Anniversary (Germany)",
+      "source": "no_intro",
+      "size": 524304,
+      "crc32": "b2f4880f",
+      "md5": "2e20217262b6b33404587f99edc7ee03",
+      "sha1": "fe1b897f029e3ad0c56bc2b7ecbcc6cf5029306e",
+      "sha256": "40982fdc0f15e138c08e9c927520f26edc28d004b72ec735d240e26c205ce588"
+    },
+    {
+      "name": "Star Trek - 25th Anniversary (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "95a6dd80",
+      "md5": "5d8a1695a502ad7cf31dc39d7775e49d",
+      "sha1": "26866222c9131a761fc4b8338877332388b09aa0",
+      "sha256": "4732c71c4f264af2559e8bcc098689f208f5ca8de8578ab1c286f4e600bf6625"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Trek%20-%2025th%20Anniversary%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Trek%20-%2025th%20Anniversary%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Trek%20-%2025th%20Anniversary%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Trek%20-%2025th%20Anniversary%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Trek%20-%2025th%20Anniversary%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Trek%20-%2025th%20Anniversary%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

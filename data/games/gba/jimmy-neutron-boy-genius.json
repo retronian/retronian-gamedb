@@ -27,5 +27,65 @@
     "wikidata": "Q6200941",
     "mobygames": 13800,
     "igdb": 49291
-  }
+  },
+  "roms": [
+    {
+      "name": "Jimmy Neutron - Boy Genius (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AJNE",
+      "size": 4194304,
+      "crc32": "d3ee0c51",
+      "md5": "2acd2b101e2f03a3fb95ed41b187d5ec",
+      "sha1": "31ed7659e2e072d1c00baf95c0ee9c770e949900"
+    },
+    {
+      "name": "Jimmy Neutron - Boy Genius (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AJNX",
+      "size": 4194304,
+      "crc32": "a9423234",
+      "md5": "8002d7d8251f8a200a9d50f107d48ffd",
+      "sha1": "0923b6186739ba697627822ebce04edaa721a70f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jimmy%20Neutron%20-%20Boy%20Genius%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jimmy%20Neutron%20-%20Boy%20Genius%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jimmy%20Neutron%20-%20Boy%20Genius%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jimmy%20Neutron%20-%20Boy%20Genius%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jimmy%20Neutron%20-%20Boy%20Genius%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jimmy%20Neutron%20-%20Boy%20Genius%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

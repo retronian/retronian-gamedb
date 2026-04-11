@@ -54,5 +54,94 @@
     "wikidata": "Q2333614",
     "mobygames": 5723,
     "igdb": 1240
-  }
+  },
+  "roms": [
+    {
+      "name": "Tekken Advance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ATKJ",
+      "size": 8388608,
+      "crc32": "c2eeae53",
+      "md5": "a5968bc058ea60a1e389bcd9306d9c7d",
+      "sha1": "f3107b1f0210d782bd3a6a38922adef69f9b13f4"
+    },
+    {
+      "name": "Tekken Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATKE",
+      "size": 8388608,
+      "crc32": "c59ea73b",
+      "md5": "5d8788e5f864d576846c5fbf0a4c827a",
+      "sha1": "8b21cd57cacf172f963dfc7ead4fa127a8a63870"
+    },
+    {
+      "name": "Tekken Advance (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATKP",
+      "size": 8388608,
+      "crc32": "4628c1b8",
+      "md5": "6d9c1a92c3b43e833676e7a2fbc0c5fe",
+      "sha1": "0a8665fe4e1f33427f710793db2937485a1c9418",
+      "sha256": "758e1ada2de32db3ec8dff180a7ed69feed6d1ebb228d5dbec5007445d33c33c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tekken%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tekken%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tekken%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tekken%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tekken%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tekken%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tekken%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tekken%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tekken%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

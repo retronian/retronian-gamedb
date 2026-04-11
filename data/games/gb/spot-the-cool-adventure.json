@@ -38,6 +38,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Spot - Cool Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1994-02-11",
@@ -45,5 +54,54 @@
     "wikidata": "Q7580026",
     "mobygames": 50644,
     "igdb": 66020
-  }
+  },
+  "descriptions": [
+    {
+      "text": "7UPマスコットのアクションゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Spot - Cool Adventure (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "552a53b9",
+      "md5": "5d1d8fef74ca8a35e1b09705ab3df3d8",
+      "sha1": "075512a3af4bc7c2da2d51d84df2d04c81b2a8ad",
+      "sha256": "da444960e1b98267e3c84e5f30d211bb64f71a0347baa8f8457316f95f60857b"
+    },
+    {
+      "name": "Spot - The Cool Adventure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "76f67428",
+      "md5": "58e1cd396548b0e57b0514d8bec066d9",
+      "sha1": "bcc923e6e73efe7e865625bb6ecf2ef08e380826",
+      "sha256": "3c1dd17404a2387bed143956121a87426fb87592596720c08d51a35d5fec63d2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Spot%20-%20The%20Cool%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Spot%20-%20The%20Cool%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Spot%20-%20The%20Cool%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

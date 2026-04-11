@@ -17,5 +17,53 @@
     "wikidata": "Q104552572",
     "mobygames": 153939,
     "igdb": 47802
-  }
+  },
+  "roms": [
+    {
+      "name": "Mechanic Master 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CZ2P",
+      "size": 16777216,
+      "crc32": "c30e2b81",
+      "md5": "cfb562e72f436d84947c498e14cea485",
+      "sha1": "51d2db7a60b9988bc89c49a8d7e31475730d05be"
+    },
+    {
+      "name": "Mechanic Master 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CZ2E",
+      "size": 16777216,
+      "crc32": "4953c290",
+      "md5": "54c83885425635c97de2c61423a70ba4",
+      "sha1": "e14d7cf210d7b2a3d0dd46535c15e4d84c5bcda9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mechanic%20Master%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mechanic%20Master%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mechanic%20Master%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mechanic%20Master%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

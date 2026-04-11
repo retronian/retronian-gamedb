@@ -17,5 +17,48 @@
   "external_ids": {
     "wikidata": "Q7249303",
     "igdb": 49831
-  }
+  },
+  "roms": [
+    {
+      "name": "Project S-11 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "20cee2e8",
+      "md5": "8fe6340c822daa9cb07c7d8ab8509751",
+      "sha1": "cbedd34a0c6a2f4e58d05f0bb6d54f7cbcda815c",
+      "sha256": "584f8fcfde1ae9f262747be425df0ed4d1a7421d24b8d62af05b075875b1cb35"
+    },
+    {
+      "name": "Project S-11 (USA) (Beta) (2000-05-11)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 65536,
+      "crc32": "94cb3df7",
+      "md5": "a779f9fd31f32e78d6b4cea27aa15541",
+      "sha1": "d03395abc4649ed21c41a2c6f0a6cea5ea77d364",
+      "sha256": "bd27026464680e2c88d6ad5bbd1e90bb73f9dfcb925f9808657d3f86ef088644"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Project%20S-11%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Project%20S-11%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Project%20S-11%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,47 @@
     "wikidata": "Q5203255",
     "mobygames": 28699,
     "igdb": 42731
-  }
+  },
+  "roms": [
+    {
+      "name": "D-Force (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "24230807",
+      "md5": "5837085dc684e7790d835b548c3e90b2",
+      "sha1": "444a4001511c80f99d9cd52866828ccc668724d2",
+      "sha256": "337e643d3e63915de06429992f306e8d2b73aed6849b795f9c855c2d03c18180"
+    },
+    {
+      "name": "D-Force (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "4b181e80",
+      "md5": "d1b2489b3c1a4989c3a7f770e7de5dd1",
+      "sha1": "3233100b02f6bd89135cc11048d9eb69c6460beb",
+      "sha256": "51f48e31fb5d6a1310e4f47fc0b94d8e6d0f2e747d573d844107daf2b8c9a7e4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/D-Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/D-Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/D-Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

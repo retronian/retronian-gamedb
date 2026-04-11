@@ -45,5 +45,66 @@
     "wikidata": "Q3334430",
     "mobygames": 9166,
     "igdb": 3562
-  }
+  },
+  "roms": [
+    {
+      "name": "NHL Blades of Steel '99 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NHOE",
+      "size": 12582912,
+      "crc32": "1ee678fe",
+      "md5": "349f61f9747f2d2098f305924c97a1bf",
+      "sha1": "c55e9771b1548cfe4297646adcfcafe85712da5e"
+    },
+    {
+      "name": "NHL Pro 99 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NHOP",
+      "size": 12582912,
+      "crc32": "e272867e",
+      "md5": "a61854cf27e536c8513174faef08dfcb",
+      "sha1": "4ff557ccd19982699b3aa82d4c44f436d1d87f93",
+      "sha256": "800dcc787de9fcdb1210b88bc8c23045a4770e7f692222fde039c306c26e5f12"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NHL%20Blades%20of%20Steel%20%2799%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NHL%20Blades%20of%20Steel%20%2799%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NHL%20Blades%20of%20Steel%20%2799%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NHL%20Pro%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NHL%20Pro%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NHL%20Pro%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

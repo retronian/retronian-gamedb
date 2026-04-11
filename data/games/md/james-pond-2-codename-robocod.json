@@ -56,6 +56,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "ジェームスポンドII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1991-01-01",
@@ -63,5 +72,67 @@
     "wikidata": "Q44346",
     "mobygames": 581,
     "igdb": 4443
-  }
+  },
+  "roms": [
+    {
+      "name": "James Pond II (Japan, Korea) (Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-106123-00",
+      "size": 524288,
+      "crc32": "98794702",
+      "md5": "3f371946ef10d5b1b3518b73494d0800",
+      "sha1": "fa7d4e77fd98eb1fc9f8e1d66269bf86881c695d",
+      "sha256": "0d221efcdb5625543fcfaa310650de7ad260cb425ffa3a6da3cd3f3b0423000a"
+    },
+    {
+      "name": "James Pond II - Codename - Robocod (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50296-00",
+      "size": 524288,
+      "crc32": "f4abedba",
+      "md5": "bb689dd3822853a5417cdec4a3da114b",
+      "sha1": "e00c9ab1f22aeed3031ed9dd985539aa6e31a7a4",
+      "sha256": "cc31457f4f47b13b23383f289988f414321be97a5a15d574baaef62f816803cd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/James%20Pond%20II%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/James%20Pond%20II%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/James%20Pond%20II%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/James%20Pond%20II%20-%20Codename%20-%20Robocod%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/James%20Pond%20II%20-%20Codename%20-%20Robocod%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/James%20Pond%20II%20-%20Codename%20-%20Robocod%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

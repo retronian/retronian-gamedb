@@ -46,6 +46,24 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Sangokushi III",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "三国志",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1992-02-05",
@@ -53,5 +71,152 @@
     "wikidata": "Q844223",
     "mobygames": 1928,
     "igdb": 5431
-  }
+  },
+  "descriptions": [
+    {
+      "text": "三国志III：運命のドラゴンは、コーエーによる別の戦略ゲームです。ここでのコンセプトは、コーエーの他の戦争ゲームと同じく、できる限り征服することです！\n\nこの場合、歴史的な舞台は古代中国です。国は一人の皇帝の支配下にありますが、すべての勢力のリーダーは自らが皇帝になりたいと考えています。あなたは一つの領土から始まり、勝利するためにはさらに多くの領土を征服しなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Romance of the Three Kingdoms III - Dragon of Destiny (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1572864,
+      "crc32": "523b0d02",
+      "md5": "813b0041900f2bb13d21dc5b582fac8b",
+      "sha1": "6b896e49b57e9001335a71b3d4db134988d0993a",
+      "sha256": "88fa0a78ca98c6386e086c7fa9e81a2625bdecc55115dde6c6f4770b0670aa40"
+    },
+    {
+      "name": "Sangokushi III (Hong Kong)",
+      "source": "no_intro",
+      "size": 1572864,
+      "crc32": "30d3a7f4",
+      "md5": "05d483000fb14dbea39b63a575e976fd",
+      "sha1": "3c3f8d41dc2ed6be9f9f2308d0b8b7cfc9961dea",
+      "sha256": "1cf13dac329f83a7fe5347dcc20f92c3a09b3eab1511dd461f9cec90e9258403"
+    },
+    {
+      "name": "Sangokushi III (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "c70f20be",
+      "md5": "60b56608523e48f29fe209e2c720dc64",
+      "sha1": "4513eb14e32b5127f295d8f71cd8df9dc0163249",
+      "sha256": "067871e3649fe5fbcd7b90900e43109bf7dbbd9e88f49aa59d5abd337f2369ce"
+    },
+    {
+      "name": "Sangokushi III (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "b4c69eda",
+      "md5": "e1ec46e56d5797cd29165f8cc4cc65a2",
+      "sha1": "a3566918596df2a9414413b849208a1b39c33974",
+      "sha256": "4866b02b815369578618c3a6169a2d5f960388f69a58d1f045fd7bee4358e7f8"
+    },
+    {
+      "name": "Sangokushi III (Japan) (Rev 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "e4c95654",
+      "md5": "b291dfdc157a69adb0025130df8ef721",
+      "sha1": "236ccf9c829c810a0306aa5b2104fd2299433722",
+      "sha256": "51010eb0b10179f5958d3bf59cf8450c165df7c597281406c56f0657e09cb397"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Romance%20of%20the%20Three%20Kingdoms%20III%20-%20Dragon%20of%20Destiny%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Romance%20of%20the%20Three%20Kingdoms%20III%20-%20Dragon%20of%20Destiny%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Romance%20of%20the%20Three%20Kingdoms%20III%20-%20Dragon%20of%20Destiny%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sangokushi%20III%20%28Hong%20Kong%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sangokushi%20III%20%28Hong%20Kong%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sangokushi%20III%20%28Hong%20Kong%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sangokushi%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sangokushi%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sangokushi%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sangokushi%20III%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sangokushi%20III%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sangokushi%20III%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sangokushi%20III%20%28Japan%29%20%28Rev%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sangokushi%20III%20%28Japan%29%20%28Rev%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sangokushi%20III%20%28Japan%29%20%28Rev%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

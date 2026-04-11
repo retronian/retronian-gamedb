@@ -52,5 +52,60 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Davis Cup Tennis (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-48163-00",
+      "size": 1048576,
+      "crc32": "802cd123",
+      "md5": "f9e896decfe685123b1c22839807fbf3",
+      "sha1": "2de936513aefed35591eb1667a54b4298ccd12b9",
+      "sha256": "c5cecb9fb62861429f9745cb6e198ff057abfeeaeabaca61348f49e354c21b01"
+    },
+    {
+      "name": "Davis Cup World Tour (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48206-00",
+      "size": 1048576,
+      "crc32": "894686f0",
+      "md5": "d1acc657850f56f19d0a027e8ea54a75",
+      "sha1": "735cf7c84869bfa795114f5eff835a74252a4adc",
+      "sha256": "c0e6cf15e5e5f52768bda67d0545f84726d1ac25347de9a0765e5b7d66d4e82f"
+    },
+    {
+      "name": "Davis Cup World Tour (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48206-00",
+      "size": 1048576,
+      "crc32": "7c6b0646",
+      "md5": "a9b4642a5b5d22f565222d2d8a4e04f9",
+      "sha1": "bce5937d930e016bb14eca80c833071df4bdc0f8",
+      "sha256": "7ee287fee1021422552a4b1bf30a036b274a80cad2bdf5031d7456eb632622ba"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Davis%20Cup%20Tennis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Davis%20Cup%20Tennis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Davis%20Cup%20Tennis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

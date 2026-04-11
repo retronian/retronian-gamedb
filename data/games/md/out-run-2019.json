@@ -87,5 +87,107 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "OutRun 2019 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1118-50",
+      "size": 1048576,
+      "crc32": "5cb3536a",
+      "md5": "df66b228101eeb987734fe9f547cefb5",
+      "sha1": "f1a26bd827e9a674cf1dde74dc2c36f61c827c76",
+      "sha256": "10c526f40d04ea25d755e9c49a8ca611d78dd16a2ffda376c2b42927ea565e55"
+    },
+    {
+      "name": "OutRun 2019 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-44033-00",
+      "size": 1048576,
+      "crc32": "0eac7440",
+      "md5": "f9e6d205c1a4d8b8e8f9ede5d4de9677",
+      "sha1": "3b26b50f4194408cccd3fb9484ac83b97e94e67f",
+      "sha256": "e197247aff96235525bb2aec4128054b4f508077888a5888042b6a56af87ca05"
+    },
+    {
+      "name": "OutRun 2019 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1118-00",
+      "size": 1048576,
+      "crc32": "e32e17e2",
+      "md5": "402a6b80a138eefc426b27c24d4aa3f5",
+      "sha1": "d4a9f1992d69d849f7d4d770a1f4f665a5352c78",
+      "sha256": "993908ec2bfd4ced318f8284f6450a591809195986dd49d957e077fd399440e3"
+    },
+    {
+      "name": "OutRun 2019 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1118-00",
+      "size": 1048576,
+      "crc32": "d2ecddfa",
+      "md5": "f195611a11ab32096a0014c04cc7d1c0",
+      "sha1": "6aca01bd23b99ffbcbd135f7c1dcaa42b8f89e61",
+      "sha256": "db9050afe8cf3a054a78205f29c601149bb5ffde132eb2e625aeb9e1de4f332b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/OutRun%202019%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/OutRun%202019%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/OutRun%202019%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/OutRun%202019%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/OutRun%202019%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/OutRun%202019%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/OutRun%202019%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/OutRun%202019%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/OutRun%202019%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

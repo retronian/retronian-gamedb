@@ -18,5 +18,65 @@
     "wikidata": "Q6305392",
     "mobygames": 21591,
     "igdb": 6479
-  }
+  },
+  "roms": [
+    {
+      "name": "Juka and the Monophonic Menace (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BJKP",
+      "size": 16777216,
+      "crc32": "e62bffeb",
+      "md5": "7d098e6eab2ee1cfebdb12e60ac609be",
+      "sha1": "ea476896e93db126ea275c5240fec3aeec031db0"
+    },
+    {
+      "name": "Juka and the Monophonic Menace (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BJKE",
+      "size": 16777216,
+      "crc32": "0c04a2f9",
+      "md5": "86f5da57ec34ecf1c2710befa3d2c5de",
+      "sha1": "3fd9ac2af773a2d47eb024225e78c22cafcac9fd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Juka%20and%20the%20Monophonic%20Menace%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Juka%20and%20the%20Monophonic%20Menace%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Juka%20and%20the%20Monophonic%20Menace%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Juka%20and%20the%20Monophonic%20Menace%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Juka%20and%20the%20Monophonic%20Menace%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Juka%20and%20the%20Monophonic%20Menace%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

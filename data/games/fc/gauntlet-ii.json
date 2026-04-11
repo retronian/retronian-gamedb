@@ -54,5 +54,65 @@
     "wikidata": "Q1865060",
     "mobygames": 3481,
     "igdb": 3503
-  }
+  },
+  "roms": [
+    {
+      "name": "Gauntlet II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "f93ba295",
+      "md5": "373702ff7469c5a063d85807cb992b74",
+      "sha1": "25316e0b8c4b078167068c16c1906dffeddfebd7",
+      "sha256": "4eb242c0b3248aa4269bbe75f504aecb3dceee70fb327d08668ce5a7e461cae9"
+    },
+    {
+      "name": "Gauntlet II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "5f52c052",
+      "md5": "12c60282cb554c0560bb2a90b6b4caf7",
+      "sha1": "2337c89345e82ca57b5ccaf2253b5b634fbcb9cc",
+      "sha256": "30cb3c53261de04d59763d8b9bcfcbb761da5a612ca74bbf755579f4984d2ed1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gauntlet%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gauntlet%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gauntlet%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gauntlet%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gauntlet%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gauntlet%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

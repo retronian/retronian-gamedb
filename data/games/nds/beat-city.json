@@ -18,5 +18,83 @@
     "wikidata": "Q98637281",
     "mobygames": 85159,
     "igdb": 18248
-  }
+  },
+  "roms": [
+    {
+      "name": "Beat City (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BEYE",
+      "size": 16777216,
+      "crc32": "f6957409",
+      "md5": "781d4cfae58bb64093bdf0e683632d47",
+      "sha1": "7b000f277de59cfe4d1f71cef48f62e3aa886fda"
+    },
+    {
+      "name": "Beat City (Europe) (En,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BEYP",
+      "size": 8388608,
+      "crc32": "2c000d79",
+      "md5": "3870354d33e98a1052240afd5c90b7d3",
+      "sha1": "1619223a354c597e1f9c17c5c35d4fc90ae1dd1d",
+      "sha256": "c664aa676bf7115d61ce6fbccf73cb5d655f1840957372e2affd19714452c3bd"
+    },
+    {
+      "name": "Beat City (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BEYE",
+      "size": 16777216,
+      "crc32": "6875ec36",
+      "md5": "033c644d14e627d62472ed6ceab84e97",
+      "sha1": "4717b599f6daca5790215c156fdb7c9a74ee9585",
+      "sha256": "8554156cf5fbe3dfb1393746789837e4555dbe5da49e7cce297b7ad160b726fe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Beat%20City%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Beat%20City%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Beat%20City%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Beat%20City%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Beat%20City%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Beat%20City%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Beat%20City%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

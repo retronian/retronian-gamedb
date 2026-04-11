@@ -27,5 +27,65 @@
     "wikidata": "Q1405093",
     "mobygames": 17132,
     "igdb": 46007
-  }
+  },
+  "roms": [
+    {
+      "name": "Top Gear 3000 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "493fdb13",
+      "md5": "462e15c018c653335ba634d3c1cd06c9",
+      "sha1": "777d8732023a300a2c566f2d48bc354e0aa1da7e",
+      "sha256": "4d7c81b0bad57a4c1c410fae4e58cd95fe25c29d7fb922778530cd457b5502e7"
+    },
+    {
+      "name": "Top Gear 3000 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "a20be998",
+      "md5": "23eaa07e3f3315fa43f4b4d94ec97a7b",
+      "sha1": "058aadf1ee719cb9e0c7333e665797f990a6381d",
+      "sha256": "6be49983976564f1fd9eff2f14f5bb41d3a0ff48573e39318088ecce286aca62"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Top%20Gear%203000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Top%20Gear%203000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Top%20Gear%203000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Top%20Gear%203000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Top%20Gear%203000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Top%20Gear%203000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

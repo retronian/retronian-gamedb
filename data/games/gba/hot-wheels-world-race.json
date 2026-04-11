@@ -36,5 +36,65 @@
     "wikidata": "Q5910633",
     "mobygames": 11885,
     "igdb": 243147
-  }
+  },
+  "roms": [
+    {
+      "name": "Hot Wheels - World Race (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BHWE",
+      "size": 8388608,
+      "crc32": "cb313505",
+      "md5": "91cc97b4023b7876f4ac783c2c4de2bd",
+      "sha1": "4045cb4551399537812d81b76bdd5cb46c4c7c06"
+    },
+    {
+      "name": "Hot Wheels - World Race (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BHWP",
+      "size": 8388608,
+      "crc32": "b9f17f8f",
+      "md5": "43add71f5171685444fe591415ffae05",
+      "sha1": "224eca09779e12908f2f30b7567df39177ceb88e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hot%20Wheels%20-%20World%20Race%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hot%20Wheels%20-%20World%20Race%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hot%20Wheels%20-%20World%20Race%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hot%20Wheels%20-%20World%20Race%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hot%20Wheels%20-%20World%20Race%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hot%20Wheels%20-%20World%20Race%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

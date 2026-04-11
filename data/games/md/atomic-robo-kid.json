@@ -80,5 +80,67 @@
     "wikidata": "Q2869574",
     "mobygames": 15437,
     "igdb": 11921
-  }
+  },
+  "roms": [
+    {
+      "name": "Atomic Robo-Kid (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-24016-00",
+      "size": 524288,
+      "crc32": "e833067e",
+      "md5": "ddf044117b485dd51119ccbff1269953",
+      "sha1": "9bed099693c27a6575b394bdd150efb7cc53c5c6",
+      "sha256": "b5077a92e6fa6ccbe0833c839a7b4976a6f4094169f647dbb3b94c8f5ac7d81f"
+    },
+    {
+      "name": "Atomic Robo-Kid (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-24016-00",
+      "size": 524288,
+      "crc32": "7cd8169e",
+      "md5": "1742442f5472eb25bf202e85c481c50e",
+      "sha1": "38115bc07f11885b4e4c19f92508f729ad6c8765",
+      "sha256": "60ed909048f49330e5094c069e310d69c1094b50e5bce1d6e0635ebaedc5efe4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Atomic%20Robo-Kid%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Atomic%20Robo-Kid%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Atomic%20Robo-Kid%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Atomic%20Robo-Kid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Atomic%20Robo-Kid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Atomic%20Robo-Kid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

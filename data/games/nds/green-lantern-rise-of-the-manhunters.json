@@ -36,5 +36,53 @@
     "wikidata": "Q4039700",
     "mobygames": 58105,
     "igdb": 4896
-  }
+  },
+  "roms": [
+    {
+      "name": "Green Lantern - Rise of the Manhunters (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BGIP",
+      "size": 67108864,
+      "crc32": "ec550fbb",
+      "md5": "b6ab3731d9683998ca5cb14d9a38fd74",
+      "sha1": "097bc0ee51cf3dd087d42ef47a049a697bda3d69"
+    },
+    {
+      "name": "Green Lantern - Rise of the Manhunters (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BGIE",
+      "size": 67108864,
+      "crc32": "57c565ea",
+      "md5": "684f630499e7e550c7982e3d10613bc3",
+      "sha1": "07137313a44fd80ba515d23ff154bbf238da8dba"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Green%20Lantern%20-%20Rise%20of%20the%20Manhunters%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Green%20Lantern%20-%20Rise%20of%20the%20Manhunters%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Green%20Lantern%20-%20Rise%20of%20the%20Manhunters%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Green%20Lantern%20-%20Rise%20of%20the%20Manhunters%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

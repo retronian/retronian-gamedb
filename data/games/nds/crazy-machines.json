@@ -45,5 +45,75 @@
     "wikidata": "Q1139254",
     "mobygames": 37470,
     "igdb": 4777
-  }
+  },
+  "roms": [
+    {
+      "name": "Crazy Machines (Europe) (En,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CRZX",
+      "size": 8388608,
+      "crc32": "c2923ce9",
+      "md5": "7daa64bffdca77ab1a24c3d9f746cf16",
+      "sha1": "87808e1531fcd12e645c70b3c6e22f810011dbea"
+    },
+    {
+      "name": "Crazy Machines (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CRZE",
+      "size": 8388608,
+      "crc32": "85071756",
+      "md5": "07a35f929c8b0380939e843b4737bdbd",
+      "sha1": "1a411198eb70f402a15028f7be849e3263b9b77f"
+    },
+    {
+      "name": "Crazy Machines (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CRZP",
+      "size": 8388608,
+      "crc32": "0aae1e6c",
+      "md5": "4a61356345460659e2b1f2c5aed86969",
+      "sha1": "97f0f8cbb8bfe53bc7da03d993b1a22ea90bb504"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Crazy%20Machines%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Crazy%20Machines%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Crazy%20Machines%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Crazy%20Machines%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Crazy%20Machines%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Crazy%20Machines%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

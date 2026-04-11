@@ -54,5 +54,65 @@
     "wikidata": "Q6804434",
     "mobygames": 10941,
     "igdb": 19186
-  }
+  },
+  "roms": [
+    {
+      "name": "MechWarrior 3050 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1572864,
+      "crc32": "4ccc3651",
+      "md5": "b2c93e20065b90873d10949e810da5e5",
+      "sha1": "74218280b2c2681671bef1b54bb50e8566f15ea9",
+      "sha256": "9da7274457995b39ae7b00387c1eaab92f1fdb0beac55372726c3a3af1cb8f7e"
+    },
+    {
+      "name": "MechWarrior 3050 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1572864,
+      "crc32": "c0acc92d",
+      "md5": "eacf64068aa69a47a82d110f074ff4c6",
+      "sha1": "2e9ad76ef580813fa799bec5559474f3e881e11a",
+      "sha256": "7bffa1dc31604fa3d61e06ce2c59168098cc8dd7e59998e1d5f30c49bdf8d617"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/MechWarrior%203050%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/MechWarrior%203050%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/MechWarrior%203050%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/MechWarrior%203050%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/MechWarrior%203050%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/MechWarrior%203050%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -87,5 +87,69 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Daimakaimura (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004013-00",
+      "size": 655360,
+      "crc32": "5659f379",
+      "md5": "203213c107fc17731dc7953343b5ffab",
+      "sha1": "a08a5764dc8651d31ef72466028cfb87fb6dd166",
+      "sha256": "6c7e6f396438639ba9b21fe33ce5f72156209ce635ccb55b772126cbbf843a61"
+    },
+    {
+      "name": "Ghouls'n Ghosts (World) (En,Ja) (Rev A) (Sega Channel)",
+      "source": "no_intro",
+      "serial": "00004013-01",
+      "size": 1048576,
+      "crc32": "4552a3de",
+      "md5": "1b877b9ce4e46722e4a3a59719f579ba",
+      "sha1": "622b1cafcd3919e8228b4431763adbe760d055a1",
+      "sha256": "a286a7102829601055cdf3ec2ddfb9e39f50f62972e5ea942a232623c39e649e"
+    },
+    {
+      "name": "Ghouls'n Ghosts (Japan, USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004013-01",
+      "size": 655360,
+      "crc32": "d31bd910",
+      "md5": "815aab1193bf534063e8f032ec76852a",
+      "sha1": "3a3e9eb5caaf6cfb75e99ed2843d58b3dda7284f",
+      "sha256": "907ced1554c9a57eb20691706e53d7d022e47648f25936d236134623b00b90d6"
+    },
+    {
+      "name": "Ghouls'n Ghosts (World) (En,Ja) (Rev A)",
+      "source": "no_intro",
+      "serial": "00004013-02",
+      "size": 655360,
+      "crc32": "4f2561d5",
+      "md5": "c61ff4bcdf10813c74f36ab57e29f646",
+      "sha1": "aab6d20f01db51576b1d7cafab46e613dddf7f8a",
+      "sha256": "7f35f9f306a0b10281196cba711a7f9273b5ef21c5b7a4a69f567c9c8531122b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Daimakaimura%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Daimakaimura%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Daimakaimura%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

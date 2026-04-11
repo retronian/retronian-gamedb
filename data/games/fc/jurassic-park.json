@@ -63,5 +63,83 @@
     "wikidata": "Q4041940",
     "mobygames": 38357,
     "igdb": 25880
-  }
+  },
+  "roms": [
+    {
+      "name": "Jurassic Park (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "bc088578",
+      "md5": "e57bb2d67c8963156c9af5d662cc4293",
+      "sha1": "126c06263ef9ef08c086dba0813b44dd4418a248",
+      "sha256": "3675204bd66d6fdd8fa7cb9573038b93b0a027699fffa1c921151d8d102bfee9"
+    },
+    {
+      "name": "Jurassic Park (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "2f834ea6",
+      "md5": "8350185503200f57dc976ab52be5c894",
+      "sha1": "0d60520494d1a8451167ef37d528460cf0e8b053",
+      "sha256": "af8d1864e5f1101cc29c2222e3d6d0b69183df3686402b843e150d604d5ff3d2"
+    },
+    {
+      "name": "Jurassic Park (World) (Limited Run Games)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "635528b2",
+      "md5": "9c29fd4a425187f7e83508bfed58c895",
+      "sha1": "080e643762ec32ddf571a1bc91406df806499a41",
+      "sha256": "99a7ebe0edc1307b26bc790a7696acdca32bfeda0dcb1327fcbe5a977ed1697c"
+    },
+    {
+      "name": "Jurassic Park (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "9e866fe6",
+      "md5": "799ae157d34dd5607788a4f82104a01a",
+      "sha1": "eedbd8f60c420476b6b06b3bbb6c6536a9256c6d",
+      "sha256": "b1c709d80765503b32948d309ff3ceac819c9da67588e4c4078c41644d1eaf1d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Jurassic%20Park%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Jurassic%20Park%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Jurassic%20Park%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Jurassic%20Park%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Jurassic%20Park%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Jurassic%20Park%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

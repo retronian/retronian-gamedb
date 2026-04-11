@@ -72,5 +72,67 @@
     "wikidata": "Q2628345",
     "mobygames": 7005,
     "igdb": 9406
-  }
+  },
+  "roms": [
+    {
+      "name": "Shining in the Darkness (Brazil)",
+      "source": "no_intro",
+      "region": "br",
+      "serial": "MK-1310-00",
+      "size": 1048576,
+      "crc32": "3ee2bbc4",
+      "md5": "5bdb8286d071ec744df1ef92529156d5",
+      "sha1": "08c6e884d48329c45d9f090aeea03efd4c1918c0",
+      "sha256": "788ad2215d0de5712b6a050d635b1b48a40e9612aea52b606b7f9d752f15ffe5"
+    },
+    {
+      "name": "Shining in the Darkness (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1310-00",
+      "size": 1048576,
+      "crc32": "4d2785bc",
+      "md5": "522b689a1b2f0ea8578fa9d888554b82",
+      "sha1": "4e10c90199d6edd2030a4ba1c42c7c166bf309ec",
+      "sha256": "c57e20d253518b5edbef5859f74f76d914b9607cad5a1912beea641d1df3bd44"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shining%20in%20the%20Darkness%20%28Brazil%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shining%20in%20the%20Darkness%20%28Brazil%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shining%20in%20the%20Darkness%20%28Brazil%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shining%20in%20the%20Darkness%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shining%20in%20the%20Darkness%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shining%20in%20the%20Darkness%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -36,5 +36,53 @@
     "wikidata": "Q92294788",
     "mobygames": 80994,
     "igdb": 15022
-  }
+  },
+  "roms": [
+    {
+      "name": "Mushroom Men - Rise of the Fungi (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CMRE",
+      "size": 33554432,
+      "crc32": "e11b1f7a",
+      "md5": "5414c0271fd459edd5bdec0acf7d3002",
+      "sha1": "492e1cf7967a4794edeadf5ec9508d7b350598c2"
+    },
+    {
+      "name": "Mushroom Men - Rise of the Fungi (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CMRP",
+      "size": 33554432,
+      "crc32": "8dcc4dd4",
+      "md5": "e6515a0f7d240e4f9d92ee5c43324e24",
+      "sha1": "ffc6e295924c584049a51b6f37807386183fd51f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mushroom%20Men%20-%20Rise%20of%20the%20Fungi%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mushroom%20Men%20-%20Rise%20of%20the%20Fungi%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mushroom%20Men%20-%20Rise%20of%20the%20Fungi%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mushroom%20Men%20-%20Rise%20of%20the%20Fungi%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

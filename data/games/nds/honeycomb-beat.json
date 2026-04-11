@@ -36,5 +36,67 @@
     "wikidata": "Q5893771",
     "mobygames": 84893,
     "igdb": 20685
-  }
+  },
+  "roms": [
+    {
+      "name": "Honeycomb Beat (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AH6E",
+      "size": 16777216,
+      "crc32": "729a12b5",
+      "md5": "33d9ec9ef6b5b05470574654177e10ca",
+      "sha1": "0303454b5d146fdb81728a27812e28dcd5ee2739",
+      "sha256": "6748b0f8d6466a5a7f8ee55a02e44b01bacb2437dffef6a6e867451da309162b"
+    },
+    {
+      "name": "Honeycomb Beat (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AH6P",
+      "size": 33554432,
+      "crc32": "1ca239aa",
+      "md5": "17d8216080ad64b1dd90ac6221d07afc",
+      "sha1": "9c8c90837d4eb3383a17074d42a86fe6e0788266",
+      "sha256": "a67605c053e6498eb8f52f1367b65c92eaa2886a7dbbfe65fe7327bcab9e827b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Honeycomb%20Beat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Honeycomb%20Beat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Honeycomb%20Beat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Honeycomb%20Beat%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Honeycomb%20Beat%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Honeycomb%20Beat%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

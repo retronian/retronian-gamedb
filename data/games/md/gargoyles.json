@@ -45,5 +45,60 @@
     "wikidata": "Q3098365",
     "mobygames": 24261,
     "igdb": 4530
-  }
+  },
+  "roms": [
+    {
+      "name": "Gargoyles (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-239056-00",
+      "size": 3145728,
+      "crc32": "baf965d0",
+      "md5": "dbdb971fd09df57ea5197204d97c2651",
+      "sha1": "54bb7bb4d9970c03a8795b686443c1a7b0caf5b3",
+      "sha256": "7765c8143a6a679b7fce4c97432b54a71752986376d807b65fd7cc60c6b17519"
+    },
+    {
+      "name": "Gargoyles (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-239056-00",
+      "size": 3121224,
+      "crc32": "2fd5e801",
+      "md5": "a68fa5f6e61c4b1bec880ccc722dd0e8",
+      "sha1": "b8994f33c8b1737fb4233d1246c36f740863a16d",
+      "sha256": "b930e3623e2735cf510840eab70c59c504c33f135f6a2b77df82e5c8d317c7ca"
+    },
+    {
+      "name": "Gargoyles (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-239056-00",
+      "size": 3145728,
+      "crc32": "2d965364",
+      "md5": "182b253e376b3ed4c51be1f87a95aa29",
+      "sha1": "2b76764ca1e5a26e406e42c5f8dbd5b8df915522",
+      "sha256": "35a0f2dd9b35f1cd8487447ffe9c79a391eccd753ba29744bdfa76f8339b4571"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gargoyles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gargoyles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gargoyles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -45,5 +45,41 @@
     "wikidata": "Q1115082",
     "mobygames": 551,
     "igdb": 214456
-  }
+  },
+  "roms": [
+    {
+      "name": "Syndicate Wars (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 16,
+      "crc32": "c133ce3a",
+      "md5": "0b5d79b684c8b6d176d90f2a1ed1793c",
+      "sha1": "a2a19f2fdd2ee00f130491bdce2968c743dc7882"
+    },
+    {
+      "name": "Syndicate Wars (Germany)",
+      "source": "no_intro",
+      "size": 118678848,
+      "crc32": "e0867741",
+      "md5": "490637de246ee14cfd2a178cfe5ff44a",
+      "sha1": "79f7228076e28bf91d030f8e3fb3c062098e6608"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Syndicate%20Wars%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Syndicate%20Wars%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Syndicate%20Wars%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

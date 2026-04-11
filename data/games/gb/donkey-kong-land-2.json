@@ -72,5 +72,65 @@
     "wikidata": "Q2733190",
     "mobygames": 5592,
     "igdb": 1093
-  }
+  },
+  "roms": [
+    {
+      "name": "Donkey Kong Land 2 (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "2827e5d4",
+      "md5": "6e30394fd7ef4a4dc3fe1edd9fc69f72",
+      "sha1": "89cc4f01653a6105ee5c00e10fc65aa1437fd320",
+      "sha256": "7722555df42413c6fd5434b717e82ba4a842cc0df3ef02fd0cd9b45b1bb5f2ca"
+    },
+    {
+      "name": "Donkey Kong Land 2 (Japan) (Proto) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "68e5fc2a",
+      "md5": "f46e92b09399dfbf575aa48b8999a188",
+      "sha1": "af66548c1a96468dae76e61823e9a9fe439c227c",
+      "sha256": "0ebc0d2e3a7525d12bedde15979f54b2ae2b6593191fb70284863ef115991dce"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Donkey%20Kong%20Land%202%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Donkey%20Kong%20Land%202%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Donkey%20Kong%20Land%202%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Donkey%20Kong%20Land%202%20%28Japan%29%20%28Proto%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Donkey%20Kong%20Land%202%20%28Japan%29%20%28Proto%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Donkey%20Kong%20Land%202%20%28Japan%29%20%28Proto%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

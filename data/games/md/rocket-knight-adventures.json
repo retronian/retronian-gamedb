@@ -88,5 +88,100 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Rocket Knight Adventures (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-95046-00",
+      "size": 1048576,
+      "crc32": "8eedfd51",
+      "md5": "baf6d595dcdfd388f57c781e60160997",
+      "sha1": "cb741f868b0eba17819a27e37cda96f33674c342",
+      "sha256": "5a8ca27c0cdd1f198e0e61bbd15dafc7238376f627757bb57d1d40d31115381f"
+    },
+    {
+      "name": "Rocket Knight Adventures (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-95063-00",
+      "size": 1048576,
+      "crc32": "d1c8c1c5",
+      "md5": "6f0df6d8e82f0e05be3aec1d43b34b32",
+      "sha1": "76d33c8549cd86cb1a4d17ac6eb8dd47c2f07d03",
+      "sha256": "040b833996c84e1ac30711287f38c0264c4370cd45fa4d30138e6e972c4d50bc"
+    },
+    {
+      "name": "Rocket Knight Adventures (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95046-00",
+      "size": 1048576,
+      "crc32": "a6efec47",
+      "md5": "ce0fde21d2c418b24c3d904e57df466e",
+      "sha1": "49634bb09c38fa03549577f977e6afb6cebaac48",
+      "sha256": "85831d4f7d35bf233b5581c3ed8c05bac64721f65713426bfa00d2f9a792a7aa"
+    },
+    {
+      "name": "Rocket Knight Adventures (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95046-FF",
+      "size": 1048576,
+      "crc32": "9cbee37b",
+      "md5": "eba69cf9ce2211911ae0d0a78e606087",
+      "sha1": "9e2335dc00f95754a2cdce1f6bc7142e467d173d",
+      "sha256": "7574161ff981fb89aa8aa391637379813dc6e9f98df044ab505bc118b3491308"
+    },
+    {
+      "name": "Rocket Knight Adventures (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-95046-FF",
+      "size": 1048576,
+      "crc32": "8acb071b",
+      "md5": "481e5ebc05b6a2c836eeb5686c06c092",
+      "sha1": "a9593f1afef326bdf0d72a6daf1f631e34d7d043",
+      "sha256": "a4b10f291fbec399f5dfaa32d8c9b698a282483dbbbe8467632bd37e4bd5a428"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Rocket%20Knight%20Adventures%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Rocket%20Knight%20Adventures%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Rocket%20Knight%20Adventures%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Rocket%20Knight%20Adventures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Rocket%20Knight%20Adventures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Rocket%20Knight%20Adventures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

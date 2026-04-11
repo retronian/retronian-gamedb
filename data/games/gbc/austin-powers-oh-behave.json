@@ -35,5 +35,63 @@
     "wikidata": "Q30591082",
     "mobygames": 6247,
     "igdb": 49890
-  }
+  },
+  "roms": [
+    {
+      "name": "Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 4194304,
+      "crc32": "bf99f8cb",
+      "md5": "1cdc49e8f8340c2ce27fd3f5cdd3d618",
+      "sha1": "a5d29d48b9bc3e1fa476e475da24c2d80985188d"
+    },
+    {
+      "name": "Austin Powers - Oh, Behave! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "bb89190e",
+      "md5": "2aba33e89caca45c9091b25a276dd4c6",
+      "sha1": "aa6cb6ab4fe083cbe0274c40bd30e0013a2f7645"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Austin%20Powers%20-%20Oh%2C%20Behave%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Austin%20Powers%20-%20Oh%2C%20Behave%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Austin%20Powers%20-%20Oh%2C%20Behave%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Austin%20Powers%20-%20Oh%2C%20Behave%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Austin%20Powers%20-%20Oh%2C%20Behave%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Austin%20Powers%20-%20Oh%2C%20Behave%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

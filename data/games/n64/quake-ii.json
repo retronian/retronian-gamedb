@@ -81,5 +81,66 @@
     "wikidata": "Q737103",
     "mobygames": 30996,
     "igdb": 262016
-  }
+  },
+  "roms": [
+    {
+      "name": "Quake II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NQ2P",
+      "size": 12582912,
+      "crc32": "82beca21",
+      "md5": "673d4ba4f41a0fe23650f06af53eec50",
+      "sha1": "f99cc966965e8fa0beb9fd768c646e6686e19916",
+      "sha256": "695ca7d96730543d3dac0fa40be7f2a1d365d48700093afd00a42cddff229445"
+    },
+    {
+      "name": "Quake II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NQ2E",
+      "size": 12582912,
+      "crc32": "e6b34387",
+      "md5": "cc93c30c633ff461c29b54ceabefd701",
+      "sha1": "2edb00e602e7c2813a5d6a04dfec80487627237a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Quake%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Quake%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Quake%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Quake%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Quake%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Quake%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

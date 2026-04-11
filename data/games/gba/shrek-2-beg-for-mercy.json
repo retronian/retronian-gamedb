@@ -27,5 +27,65 @@
     "wikidata": "Q29962131",
     "mobygames": 19399,
     "igdb": 49223
-  }
+  },
+  "roms": [
+    {
+      "name": "Shrek 2 - Beg for Mercy (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSIE",
+      "size": 8388608,
+      "crc32": "f1861610",
+      "md5": "c8a0ce6010243c1b4a05458344c9fc31",
+      "sha1": "c5873294bb79b9252da82b02cc53ee7e8f4e663c"
+    },
+    {
+      "name": "Shrek 2 - Beg for Mercy (Europe) (Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSIX",
+      "size": 8388608,
+      "crc32": "b6e091ce",
+      "md5": "b81b9913a787699cf76b0b4807518956",
+      "sha1": "e0699fea7e3bc400675dbbee6aaf961c55b8b083"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shrek%202%20-%20Beg%20for%20Mercy%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shrek%202%20-%20Beg%20for%20Mercy%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shrek%202%20-%20Beg%20for%20Mercy%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shrek%202%20-%20Beg%20for%20Mercy%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shrek%202%20-%20Beg%20for%20Mercy%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shrek%202%20-%20Beg%20for%20Mercy%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

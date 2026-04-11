@@ -18,5 +18,65 @@
     "wikidata": "Q6038366",
     "mobygames": 45730,
     "igdb": 4864
-  }
+  },
+  "roms": [
+    {
+      "name": "Inspector Gadget - Advance Mission (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AIGP",
+      "size": 4194304,
+      "crc32": "406aa0c6",
+      "md5": "f291756b7731354c0d912e8d6337b7fe",
+      "sha1": "3a204ea887d9ed997486e2d649148faa4f31c335"
+    },
+    {
+      "name": "Inspector Gadget - Advance Mission (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AIGE",
+      "size": 4194304,
+      "crc32": "ef131209",
+      "md5": "881dd5c2d845a8fef7fc7badcf47d617",
+      "sha1": "86d4f46980afd3a4627fb204910d36d592684c49"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Inspector%20Gadget%20-%20Advance%20Mission%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Inspector%20Gadget%20-%20Advance%20Mission%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Inspector%20Gadget%20-%20Advance%20Mission%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Inspector%20Gadget%20-%20Advance%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Inspector%20Gadget%20-%20Advance%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Inspector%20Gadget%20-%20Advance%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

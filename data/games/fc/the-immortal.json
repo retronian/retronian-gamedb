@@ -71,5 +71,56 @@
     "wikidata": "Q2592213",
     "mobygames": 2532,
     "igdb": 4444
-  }
+  },
+  "roms": [
+    {
+      "name": "Immortal, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "acd54e76",
+      "md5": "512f142b73390287dea7fa0044aeb490",
+      "sha1": "56a7b53ee6bea58f3acdb9770b5b400ad211ee3a",
+      "sha256": "a4df055a748656aadf5813e708eba0d7a2e7fa94488bf8aec86049f7244e259d"
+    },
+    {
+      "name": "Immortal, The (World) (QUByte Classics)",
+      "source": "no_intro",
+      "size": 393232,
+      "crc32": "215744cd",
+      "md5": "f55ff2b74203020aa7d0f26f3604adda",
+      "sha1": "3b3426ed4b22c609878ec8cee09a43016f29a899",
+      "sha256": "b2eff274978deb8ec09f872b86c04ddd8a766ce7e334974e9b540610c0bbc50f"
+    },
+    {
+      "name": "Immortal, The (USA) (Sample)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "d0123ef7",
+      "md5": "9b03cb404f5f9085599316b19f13df6f",
+      "sha1": "358536857ea210bd151e9b80184314117d83616f",
+      "sha256": "1617fde02439bf2c6ae113a15e84814b6945d66aeec55cf927bb099a33e6b5bc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Immortal%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Immortal%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Immortal%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

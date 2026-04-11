@@ -55,6 +55,15 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Abyss",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2008-01-17",
@@ -62,5 +71,93 @@
     "wikidata": "Q4352279",
     "mobygames": 37464,
     "igdb": 17266
-  }
+  },
+  "roms": [
+    {
+      "name": "From the Abyss (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YVSJ",
+      "size": 33554432,
+      "crc32": "f22b1164",
+      "md5": "1d3839b313cd3121ae03d1c8502a2d7d",
+      "sha1": "f128858d33af729810ee6853110a5e467d0590a1"
+    },
+    {
+      "name": "From the Abyss (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YVSP",
+      "size": 33554432,
+      "crc32": "95e35c1a",
+      "md5": "4e39245158725584c614afd645f90703",
+      "sha1": "17d4fa3eb51808c1fbae5f95583d0f401dcc42fc"
+    },
+    {
+      "name": "From the Abyss (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YVSE",
+      "size": 33554432,
+      "crc32": "6b437e4b",
+      "md5": "45f87fa6298198e6246b75df65f0355a",
+      "sha1": "011e3b6475329c52a917aa1520be2818fa5b27f2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/From%20the%20Abyss%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/From%20the%20Abyss%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/From%20the%20Abyss%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/From%20the%20Abyss%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/From%20the%20Abyss%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/From%20the%20Abyss%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/From%20the%20Abyss%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/From%20the%20Abyss%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/From%20the%20Abyss%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

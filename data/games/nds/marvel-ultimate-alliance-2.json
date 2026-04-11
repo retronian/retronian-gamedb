@@ -63,5 +63,53 @@
     "wikidata": "Q2627580",
     "mobygames": 42710,
     "igdb": 200963
-  }
+  },
+  "roms": [
+    {
+      "name": "Marvel - Ultimate Alliance 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C4ME",
+      "size": 67108864,
+      "crc32": "aee21c62",
+      "md5": "490db1e75ff0f0602061c632d9272f7e",
+      "sha1": "ba04e24a6b143a2822bc4794dd3c5d9a1f5f5f3c"
+    },
+    {
+      "name": "Marvel - Ultimate Alliance 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C4MP",
+      "size": 67108864,
+      "crc32": "abdfe38c",
+      "md5": "e1180a3dce1ca3a93d164eac9a594181",
+      "sha1": "06518f2bd1b2ef1281159084ccdcdcab8ca6bcce"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Marvel%20-%20Ultimate%20Alliance%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Marvel%20-%20Ultimate%20Alliance%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Marvel%20-%20Ultimate%20Alliance%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Marvel%20-%20Ultimate%20Alliance%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

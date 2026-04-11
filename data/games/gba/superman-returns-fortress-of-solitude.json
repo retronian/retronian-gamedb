@@ -54,5 +54,47 @@
     "wikidata": "Q7643850",
     "mobygames": 73970,
     "igdb": 19074
-  }
+  },
+  "roms": [
+    {
+      "name": "Superman Returns - Fortress of Solitude (USA, Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BQXE",
+      "size": 16777216,
+      "crc32": "68215047",
+      "md5": "f9a91a30f730e8482a73ea0c0a71a4fb",
+      "sha1": "1ff9d19032466227ae7aaebb0161c531aaf60428"
+    },
+    {
+      "name": "Superman Returns - Fortress of Solitude (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 16777216,
+      "crc32": "a0fb8e93",
+      "md5": "3a7afb15fc88683bbe93b9486abdeb21",
+      "sha1": "fd4585fc39ef54e1eb901e463d8e6d45ab40fccf",
+      "sha256": "c3aa015c7033e09b0884318dcbcc22be8489d88b3cca7ce655544b20a6deadf4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Superman%20Returns%20-%20Fortress%20of%20Solitude%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Superman%20Returns%20-%20Fortress%20of%20Solitude%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Superman%20Returns%20-%20Fortress%20of%20Solitude%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

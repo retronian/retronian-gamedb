@@ -97,5 +97,105 @@
     "wikidata": "Q2337280",
     "mobygames": 3540,
     "igdb": 3213
-  }
+  },
+  "roms": [
+    {
+      "name": "Yoshi Story (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NYSJ",
+      "size": 16777216,
+      "crc32": "4f44a9ef",
+      "md5": "dd8a0e5472f13ea87b176f0155fa0c66",
+      "sha1": "ff320b4122894c773f465a8996e82a00f3116e83",
+      "sha256": "52acf92dc66018b3ed84b334cb511ed956db8b3013ffc4e8586ae00bd93b0c95"
+    },
+    {
+      "name": "Yoshi's Story (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NYSP",
+      "size": 16777216,
+      "crc32": "f9ffc760",
+      "md5": "2524e5fb8ed4bb8c831c5ac057e8f344",
+      "sha1": "5b56ec1da78456f968129baddc1f233e1fb4f4f3",
+      "sha256": "19d5e75ab2ace98294b7d9c7a5e57955d5f8be8d8d188e288eb31a27555ec5dd"
+    },
+    {
+      "name": "Yoshi's Story (USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NYSE",
+      "size": 16777216,
+      "crc32": "a1453e0d",
+      "md5": "586a092e22604840973b82dfaceac77a",
+      "sha1": "b13072fef6c6df48c07d8822c01e5bc59036f6da",
+      "sha256": "e8a63388c38f8f0bea37e9b13a97f0898ac5496e08ca2028afb8db9a866e0ce9"
+    },
+    {
+      "name": "Yoshi's Story (USA) (En,Ja) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 16777216,
+      "crc32": "19a7091e",
+      "md5": "0543ffdc399361740a5b24b364aba6a6",
+      "sha1": "f489a3cdef729cd1ade23996096fe88501e75079"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Yoshi%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Yoshi%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Yoshi%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Yoshi%27s%20Story%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Yoshi%27s%20Story%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Yoshi%27s%20Story%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Yoshi%27s%20Story%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Yoshi%27s%20Story%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Yoshi%27s%20Story%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -53,5 +53,66 @@
   "external_ids": {
     "wikidata": "Q4546252",
     "mobygames": 86818
-  }
+  },
+  "roms": [
+    {
+      "name": "101 in 1 Explosive Megamix (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CQZP",
+      "size": 33554432,
+      "crc32": "c29d7a43",
+      "md5": "8b4f6c09fb83c89b2bbdd863ec300d6d",
+      "sha1": "74cecdd7056f2ba0c4fe355c78f6ef7fd9ae4ddb",
+      "sha256": "b9788711e9d08ed06fbf0ae0c9ea78b115a1dacab03cc70dd0b31d4dd99a797a"
+    },
+    {
+      "name": "101 in 1 Explosive Megamix (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CQZE",
+      "size": 33554432,
+      "crc32": "61857fae",
+      "md5": "0f1de4253fb6fe457130b01d4e680762",
+      "sha1": "b320735c817c226078e01107ce56a398f22d9318"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/101%20in%201%20Explosive%20Megamix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/101%20in%201%20Explosive%20Megamix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/101%20in%201%20Explosive%20Megamix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/101%20in%201%20Explosive%20Megamix%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/101%20in%201%20Explosive%20Megamix%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/101%20in%201%20Explosive%20Megamix%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

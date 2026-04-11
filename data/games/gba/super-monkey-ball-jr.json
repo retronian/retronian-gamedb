@@ -27,5 +27,75 @@
     "wikidata": "Q4050406",
     "mobygames": 7839,
     "igdb": 6622
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Monkey Ball Jr. (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "0d72f2cc",
+      "md5": "d491342c918651dfe04090ca82ca3439",
+      "sha1": "80d5a688ef345783cc4c6c3a19f23019238b86e9",
+      "sha256": "823af9f7c0ac1784df2517d9cbd39970ada33d8c68e695a1636ad751b6efd2fc"
+    },
+    {
+      "name": "Super Monkey Ball Jr. (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ALUE",
+      "size": 4194304,
+      "crc32": "0a8031f0",
+      "md5": "77edf4f506b3343e15efe61d64944eba",
+      "sha1": "0d994a58b7acdfe9357e5405acebe232128b80fe"
+    },
+    {
+      "name": "Super Monkey Ball Jr. (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ALUP",
+      "size": 8388608,
+      "crc32": "d75da09d",
+      "md5": "1e5a3679bb64a87ea2e23774a672ca7d",
+      "sha1": "9c87fcf42a27644ae5bec273ac3afc3f672b4f94"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Monkey%20Ball%20Jr.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Monkey%20Ball%20Jr.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Monkey%20Ball%20Jr.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Monkey%20Ball%20Jr.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Monkey%20Ball%20Jr.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Monkey%20Ball%20Jr.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

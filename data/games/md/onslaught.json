@@ -45,5 +45,38 @@
     "wikidata": "Q3352809",
     "mobygames": 14496,
     "igdb": 15329
-  }
+  },
+  "roms": [
+    {
+      "name": "Onslaught (USA, Europe) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACLD004-00",
+      "size": 524288,
+      "crc32": "9f19d6df",
+      "md5": "455e836ca5dd9cb782e7455e584cf65a",
+      "sha1": "dc542ddfa878f2aed3a7fcedc4b0f8d503eb5d70",
+      "sha256": "e288f1b5896a8e833272e869b91566c7ac166a43389e61a8b882282b8413253b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Onslaught%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Onslaught%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Onslaught%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -96,5 +96,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Battle of Olympus, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "be68177d",
+      "md5": "7a9b241d305b8592f5c31d2030bdf0fd",
+      "sha1": "4f9d06e9167d530805355bb3b05e8fb4d243a122",
+      "sha256": "442bba709b7cabcdeef0df24da81389bdf3bc24081314ed89f3f3d1282657f29"
+    },
+    {
+      "name": "Battle of Olympus, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "3ccd7fec",
+      "md5": "70154f4853e073acbffcf9f23c9b4042",
+      "sha1": "1b1b4d1e0a67822c9f623f9d3888b5df13c9128f",
+      "sha256": "83a5680115230b39d3695e65da921af9134757dddc263e7dc0aeeafa0ee6fee1"
+    },
+    {
+      "name": "Olympus no Tatakai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "544b1371",
+      "md5": "ec5c39fe7719382d8abdbefd64278f76",
+      "sha1": "9eabc38973349d48f3d512259c44d0a65ad7b313",
+      "sha256": "3927ab867c14ff50219fb457cffcfedea4b80a6e92827ff94a49202586986c06"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Battle%20of%20Olympus%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Battle%20of%20Olympus%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Battle%20of%20Olympus%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Battle%20of%20Olympus%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Battle%20of%20Olympus%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Battle%20of%20Olympus%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Olympus%20no%20Tatakai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Olympus%20no%20Tatakai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Olympus%20no%20Tatakai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

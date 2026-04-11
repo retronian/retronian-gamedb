@@ -27,5 +27,66 @@
     "wikidata": "Q116316251",
     "mobygames": 6810,
     "igdb": 248624
-  }
+  },
+  "roms": [
+    {
+      "name": "Atlantis - The Lost Empire (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATLE",
+      "size": 4194304,
+      "crc32": "8bd224c5",
+      "md5": "b56f85ff2f37c51acd2e2561abbccb64",
+      "sha1": "10d77cb1f9cb1f6670367dda9b6a88909e39b322"
+    },
+    {
+      "name": "Atlantis - The Lost Empire (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATLX",
+      "size": 4194304,
+      "crc32": "b3948dbc",
+      "md5": "45f0b97050a666ce7ab4e3960929f47b",
+      "sha1": "93624eaa9a80cdb791bd14955b55dd7c58c4abbd",
+      "sha256": "398962efa1771a9280c5a56b51b6e8a3f5e45c292b779dd5b033427a4f342a64"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Atlantis%20-%20The%20Lost%20Empire%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Atlantis%20-%20The%20Lost%20Empire%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Atlantis%20-%20The%20Lost%20Empire%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Atlantis%20-%20The%20Lost%20Empire%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Atlantis%20-%20The%20Lost%20Empire%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Atlantis%20-%20The%20Lost%20Empire%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

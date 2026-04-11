@@ -18,5 +18,44 @@
     "wikidata": "Q3187953",
     "mobygames": 10087,
     "igdb": 36742
-  }
+  },
+  "roms": [
+    {
+      "name": "Judge Dredd (France)",
+      "source": "no_intro",
+      "size": 465798960,
+      "crc32": "146d245a",
+      "md5": "ebbbc8bcf88c852ad6a51b76072f5c68",
+      "sha1": "1bf59e9a5758597d1e8fd4b5c2fe90d1deaeea6d"
+    },
+    {
+      "name": "Judge Dredd (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 16,
+      "crc32": "00cd70f1",
+      "md5": "a1e29c60b8a145d6558e8a4f48076e25",
+      "sha1": "3b769673060caa15833cf877fee5aafcd1aec220"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Judge%20Dredd%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Judge%20Dredd%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Judge%20Dredd%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

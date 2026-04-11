@@ -65,6 +65,33 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "ワームス・アルマゲドン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Worms Armageddon",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "웜즈 아마겟돈",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1995-06-01",
@@ -72,5 +99,81 @@
     "wikidata": "Q278771",
     "mobygames": 340,
     "igdb": 159300
-  }
+  },
+  "roms": [
+    {
+      "name": "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "cb04f34d",
+      "md5": "b6b81d98a27596443792f47812f15b67",
+      "sha1": "0bff9f46f2c455e98a5f0d9c0d560eda88d939de"
+    },
+    {
+      "name": "Worms Armageddon (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e241edde",
+      "md5": "7e0df312ccd8f3e25bf3074e17d5aedf",
+      "sha1": "ec587a3660298f95bf85f4471a626727b5fe6d7c"
+    },
+    {
+      "name": "Worms Armageddon (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "66fda365",
+      "md5": "01586c8122da5014abed765147e5a7bb",
+      "sha1": "b0b14b13ec7cffb04efbf0dcdd93a2eea679ea0c"
+    },
+    {
+      "name": "Worms Armageddon (World) (Limited Run Games)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "626dfadb",
+      "md5": "27ce588e0569efa0eb0b8e80049e7edb",
+      "sha1": "5fce1d1b6a7cfa994808d473602f569537dc0231",
+      "sha256": "ac282821dd65c58738acb64c3eb1bb52c88aa23350a5253a7c7ea7b30faf9981"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Worms%20Armageddon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Worms%20Armageddon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Worms%20Armageddon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Worms%20Armageddon%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Worms%20Armageddon%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Worms%20Armageddon%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

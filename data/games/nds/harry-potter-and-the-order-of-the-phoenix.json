@@ -17,5 +17,68 @@
     "wikidata": "Q132558805",
     "mobygames": 198760,
     "igdb": 166336
-  }
+  },
+  "roms": [
+    {
+      "name": "Harry Potter and the Order of the Phoenix (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A5PE",
+      "size": 67108864,
+      "crc32": "68569f36",
+      "md5": "e8cd12e0310567e7d675c0a409fd90c6",
+      "sha1": "cc65fcd0d4c7e6872f57f85922e8e7a1ffa67855",
+      "sha256": "c9b810de086bea49bfc2ef167975fa156fb7bb7aa49dd33c143752ba5b45e7e6"
+    },
+    {
+      "name": "Harry Potter and the Order of the Phoenix (United Kingdom)",
+      "source": "no_intro",
+      "serial": "A5PP",
+      "size": 67108864,
+      "crc32": "50b0b91e",
+      "md5": "927c7cdf8bd7bd6a5ca737fe7965a224",
+      "sha1": "41994ef96f6ee2d1d676fc439cb241ea0d94713a"
+    },
+    {
+      "name": "Harry Potter and the Order of the Phoenix (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A5PX",
+      "size": 67108864,
+      "crc32": "bf1de616",
+      "md5": "0036428a785199c41ad1fbdd46ffd1b7",
+      "sha1": "c2d0848ca3ae3f9bc7b415702b28ce8ec1d383f4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20%28United%20Kingdom%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

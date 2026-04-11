@@ -27,5 +27,44 @@
     "wikidata": "Q4036683",
     "mobygames": 3662,
     "igdb": 43704
-  }
+  },
+  "roms": [
+    {
+      "name": "Critical Depth (Netherlands)",
+      "source": "no_intro",
+      "size": 259022848,
+      "crc32": "4f11ea41",
+      "md5": "876eb99ad2731a5d8ccc8ea0c3a402aa",
+      "sha1": "29bfa8646eb5a5504b16b556d3885d5a824ff9f2"
+    },
+    {
+      "name": "Critical Depth (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 16,
+      "crc32": "7c5f37d0",
+      "md5": "2aa433a534784c9cbaa81ae5a6f80043",
+      "sha1": "5d7a5298c1e7f488053cb79c44c0045a10421959"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Critical%20Depth%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Critical%20Depth%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Critical%20Depth%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -71,5 +71,54 @@
     "wikidata": "Q2619957",
     "mobygames": 46846,
     "igdb": 11683
-  }
+  },
+  "roms": [
+    {
+      "name": "Infinite Space (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C6CP",
+      "size": 268435456,
+      "crc32": "cad46d6f",
+      "md5": "ebf024d3492cdcdab9a99530088d00f9",
+      "sha1": "c410d310a4b0a805f1394b09f867c69053e2af9e",
+      "sha256": "80e7d0db9f938870e3fda9a0afa918b77a1032080e3ff4a85bd5dd93fdfd02e2"
+    },
+    {
+      "name": "Infinite Space (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C6CE",
+      "size": 268435456,
+      "crc32": "4d7a9639",
+      "md5": "4f4299d907603f13b4f5d062c7eb72da",
+      "sha1": "4ef54b2939890a8dea4c1b743036da3277abc215"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Infinite%20Space%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Infinite%20Space%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Infinite%20Space%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Infinite%20Space%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

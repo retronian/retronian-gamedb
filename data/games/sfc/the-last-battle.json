@@ -38,6 +38,24 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Last Battle, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ラストバトル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1994-12-02",
@@ -45,5 +63,47 @@
     "wikidata": "Q7745585",
     "mobygames": 14013,
     "igdb": 42298
-  }
+  },
+  "roms": [
+    {
+      "name": "Last Battle, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "200ec9c8",
+      "md5": "3c9f29d6e1c457156005f90bd9ea2b10",
+      "sha1": "2474c7aa8451d51784a3b852b9806495b4147cfb",
+      "sha256": "cbe8472099d069c8e5d9de4c0fe867b4314a870048e8bb0173085b8fccebacf9"
+    },
+    {
+      "name": "Last Battle, The (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "7abf5579",
+      "md5": "e3cdff850beb3d9afc19a0dd89f28133",
+      "sha1": "ff62732b82f49cd5588b8390f679653be3afff60",
+      "sha256": "f9bd0a62a190891c7e9557d173c8fce025d8623b3813ca4ddc08e20016fb1b9c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Last%20Battle%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Last%20Battle%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Last%20Battle%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

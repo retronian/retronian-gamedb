@@ -69,5 +69,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Selection II - Ankoku no Fuuin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "d09073f6",
+      "md5": "ea0be44bb573550d7ea0ee91232ebdc8",
+      "sha1": "6e524d0894de0db1b3eb4ca0c1075f6ea1a2ffc1",
+      "sha256": "999cd258f3ff14f0d9f55ee776f5679c9dfb4641148819581f149cf603844f7d"
+    },
+    {
+      "name": "Sword of Hope II, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "5b7ff38c",
+      "md5": "64f7f8af18f75a9b3767e4637e693be7",
+      "sha1": "3ccb37fd8e6e39a9e8421ee6f1ae199b4586afc1",
+      "sha256": "33c8a29f6677dafbc4b1f2ec41c5760acd67c1b86f0536ec178a7fc543ba7472"
+    },
+    {
+      "name": "Sword of Hope II, The (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "5f717afa",
+      "md5": "30e941af5b21d0e462e3d00cba0df409",
+      "sha1": "780f666105f1913e3cb2181f89c1035c7698afb5",
+      "sha256": "9af3de7a32a702fe9e7c1faeda5c961cccacd79c9394113b784e3d7559b27613"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Selection%20II%20-%20Ankoku%20no%20Fuuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Selection%20II%20-%20Ankoku%20no%20Fuuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Selection%20II%20-%20Ankoku%20no%20Fuuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sword%20of%20Hope%20II%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sword%20of%20Hope%20II%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sword%20of%20Hope%20II%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

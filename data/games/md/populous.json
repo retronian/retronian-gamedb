@@ -70,5 +70,59 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Populous (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-50026-00",
+      "size": 524288,
+      "crc32": "83d56f64",
+      "md5": "ac95a7a539f4fcb5cd6ca01e0edf2e28",
+      "sha1": "fe388caefbad7c08b699ed2d0e8a62ff1d697a16",
+      "sha256": "6c0b7ba360cf8c29a8b673e756a9d849845e7a0d4e91fc28cc0752857fc6b128"
+    },
+    {
+      "name": "Populous (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-50026-00",
+      "size": 524288,
+      "crc32": "97c26818",
+      "md5": "4c960f022be09f667e3b2d21be21a018",
+      "sha1": "9abd1806c6e921a6df0f71361aee8024d5c3f049",
+      "sha256": "cd4e7c8310501592b6bc2f8b194d02a5b99f594f876f523f17e7231264100194"
+    },
+    {
+      "name": "Populous (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "bd74b31e",
+      "md5": "23495b29851e9d495939a88b627ce2cd",
+      "sha1": "89907c4ba4fd9db4e8ef2271c0253bb0e4b6d52d",
+      "sha256": "22698c6039417c12eb217ad562ffda9a35836ff15e5776b57a8a57ec1229b9cf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Populous%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Populous%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Populous%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

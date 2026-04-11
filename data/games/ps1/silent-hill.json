@@ -90,5 +90,63 @@
     "wikidata": "Q753164",
     "mobygames": 3564,
     "igdb": 480
-  }
+  },
+  "roms": [
+    {
+      "name": "Silent Hill (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 310428368,
+      "crc32": "9e5fb678",
+      "md5": "3edcbdd1edd648071b579cd847994de9",
+      "sha1": "6f96f4cf88abdce757a7727742ee27ff9eae95d2",
+      "sha256": "2f070fcb73f459bf01ce8bbee0dfb77efa3c1fb5f5950a9716b99ffd44f1a8b6"
+    },
+    {
+      "name": "Silent Hill (Germany)",
+      "source": "no_intro",
+      "size": 310447968,
+      "crc32": "50a50ffc",
+      "md5": "d2e5b90dd34282107f3b55076ecba601",
+      "sha1": "8080af6fc77347f50a5e01246c0155cc171b53da"
+    },
+    {
+      "name": "Silent Hill (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 308225872,
+      "crc32": "59453393",
+      "md5": "84dbecba2d661bcf7dc8c8a43ee2dd1c",
+      "sha1": "843634dc57cd851ae432ef2ad498f4b83e3f68a2"
+    },
+    {
+      "name": "Silent Hill (Italy)",
+      "source": "no_intro",
+      "size": 310431776,
+      "crc32": "b628f2a7",
+      "md5": "b678b4037aa10b12e2a02be0f0a71260",
+      "sha1": "abba75af134c4c2d5d99ec1cbcc54fa74b1e3e0f",
+      "sha256": "65b6ea6a618c60e7135e9f87e77232128623e868b7ec658987c714265b719de6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Silent%20Hill%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Silent%20Hill%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Silent%20Hill%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -29,12 +29,53 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Super Slam Dunk",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1994-08-11",
+  "first_release_date": "1993-07-16",
   "external_ids": {
     "wikidata": "Q3962690",
     "mobygames": 159039,
     "igdb": 42452
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Slam Dunk (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "3effc9e5",
+      "md5": "a2097e4262ed80fcf22dd99c25ac38be",
+      "sha1": "40cf03449d3f50c2541a5ba8aeaa8205f553cc4c",
+      "sha256": "e987ceb53cc1407b1ba612b13a7b5391db6c41ea14552c165ae62ad42eeaa0ae"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Slam%20Dunk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Slam%20Dunk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Slam%20Dunk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

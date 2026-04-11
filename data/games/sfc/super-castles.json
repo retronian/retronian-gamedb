@@ -51,5 +51,37 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1994-12-22"
+  "first_release_date": "1994-12-22",
+  "roms": [
+    {
+      "name": "Super Castles (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ff1c41c1",
+      "md5": "84aaaaffeb14ed94344b0495e8beffb1",
+      "sha1": "d85641645089e17ea4bb141ba02d52fa058971ce",
+      "sha256": "301d074e5ca7a9aea3b9cbe55887c1989d3ee6c810255664d46c98b70f2ee600"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Castles%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Castles%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Castles%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

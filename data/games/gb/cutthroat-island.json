@@ -18,5 +18,53 @@
     "wikidata": "Q3007953",
     "mobygames": 12760,
     "igdb": 262152
-  }
+  },
+  "roms": [
+    {
+      "name": "CutThroat Island (Japan) (En) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "6a5f5a0d",
+      "md5": "2997dd5d6d1a50ac5a72a2bb42931de6",
+      "sha1": "51eab74e5d5180497d37fc642c585f202914d1f2",
+      "sha256": "23c99b85e0183341d4350d565eefa175dbef5cc68f2f696515893bef9d5e6707"
+    },
+    {
+      "name": "CutThroat Island (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "eebdd360",
+      "md5": "c5858497d4e8fcfbb7221e327a0e79b5",
+      "sha1": "5e99ea51b383cdcd53874eb027ebd59d2a3156b9",
+      "sha256": "11991b6a9d19dc7eff45a78052648b298109a0ea57323890063f6a47d89ac04b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/CutThroat%20Island%20%28Japan%29%20%28En%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/CutThroat%20Island%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/CutThroat%20Island%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/CutThroat%20Island%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

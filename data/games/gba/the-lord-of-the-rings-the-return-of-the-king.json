@@ -54,5 +54,48 @@
     "wikidata": "Q440046",
     "mobygames": 11115,
     "igdb": 308133
-  }
+  },
+  "roms": [
+    {
+      "name": "Lord of the Rings, The - The Return of the King (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "5a5ef8e3",
+      "md5": "662a615941bc1299de3f4cac0a6bec2d",
+      "sha1": "cb2597e2eb465a7a3f0bd240ef26b556b5c6dd54",
+      "sha256": "46cddd9e05a83f4d8427da620d454b5df7e62ed42cafaa5b75e02e79fbdcc6e8"
+    },
+    {
+      "name": "Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BLRE",
+      "size": 16777216,
+      "crc32": "7590ebfa",
+      "md5": "53dcb149b4593fba9955f842889445b4",
+      "sha1": "ec3d126d37ea6e2ad7030d8a99cf87c6e46c03fd",
+      "sha256": "b5f556593c5fbe3531a4354b047f0bed364a124ceee43f278a48f4d26b0ffa9c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Return%20of%20the%20King%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Return%20of%20the%20King%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Return%20of%20the%20King%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

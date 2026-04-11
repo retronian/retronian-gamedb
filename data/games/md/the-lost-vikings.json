@@ -90,5 +90,89 @@
     "wikidata": "Q1052386",
     "mobygames": 1547,
     "igdb": 144423
-  }
+  },
+  "roms": [
+    {
+      "name": "Lost Vikings, The (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70226-50",
+      "size": 1048576,
+      "crc32": "1f14efc6",
+      "md5": "44752b050421c4e51d1bee96b3fed44e",
+      "sha1": "c977a21d287187c3931202b3501063d71fcaf714",
+      "sha256": "3257917cf1a854ec57888c4a499501811585abd7a929c37acdcd0a4869428562"
+    },
+    {
+      "name": "Lost Vikings, The (Europe) (En,Fr,De) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-.oOOo.",
+      "size": 1048576,
+      "crc32": "17bed25f",
+      "md5": "d23c534b8056b3775cadcd8b5cdc5e04",
+      "sha1": "375eaa9845692db4fdbd0b51985aa0892a8fe425",
+      "sha256": "a536f13d5b74726ddad69e164225a6295a5ad27475c7b4d29bd5511924611e83"
+    },
+    {
+      "name": "Lost Vikings, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-125016-00",
+      "size": 1048576,
+      "crc32": "7ba49edb",
+      "md5": "a8dcb5476855a83702e2f49ebd4e2d57",
+      "sha1": "f00464c111b57c8b23698760cbd377c3c8cfe712",
+      "sha256": "44cf14ee3ce8b211904ed05facbb419114e3bf99d06f6cfa15c05d15758a573f"
+    },
+    {
+      "name": "Lost Vikings, The (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-119216-00",
+      "size": 1048576,
+      "crc32": "63729b74",
+      "md5": "8335ca918a503047fc9cde6a0b082308",
+      "sha1": "1434551cec6f7a9ca6f7f9a8bb4aad4d89b0e3fb",
+      "sha256": "0d71e903be21b77c9a77ee84d5990fd84a07aa7ec876ff733efbf05497388b83"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lost%20Vikings%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lost%20Vikings%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lost%20Vikings%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lost%20Vikings%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lost%20Vikings%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lost%20Vikings%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

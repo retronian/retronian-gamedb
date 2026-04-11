@@ -72,5 +72,74 @@
     "wikidata": "Q6120028",
     "mobygames": 7140,
     "igdb": 144413
-  }
+  },
+  "roms": [
+    {
+      "name": "Sonic Blast Man (Spain) (En)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "5441f25b",
+      "md5": "5476fb3c748f659f168031e4b18f538e",
+      "sha1": "d72fff74e8c779746b2ff37a1ec343ea19026b37",
+      "sha256": "d2233d6310522bbf183b6ca9bbe3e2afaf24de0cc4304bff6d0d547d678aed6f"
+    },
+    {
+      "name": "Sonic Blast Man (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "be523800",
+      "md5": "788ad386a0350c4d0d3faceb0a677c23",
+      "sha1": "ced0eecf48675d3db8fc1e5a7c3d4107f52cb0f9",
+      "sha256": "8c3a2a75f22ead4120bd6e151737acbdca68313988c13a085d4af7f055a93c64"
+    },
+    {
+      "name": "Sonic Blast Man (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "8886396e",
+      "md5": "10eec032e7beaaa85c3e5ace9a323c53",
+      "sha1": "9e153eda423295806b3b7384d0a73e2630d1c314",
+      "sha256": "75a7b5b8ad0329dc828d3201089e125fd55fdfc99d4cec704ffcd7e3036c2410"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sonic%20Blast%20Man%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sonic%20Blast%20Man%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sonic%20Blast%20Man%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sonic%20Blast%20Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sonic%20Blast%20Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sonic%20Blast%20Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

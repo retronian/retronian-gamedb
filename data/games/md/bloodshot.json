@@ -45,5 +45,49 @@
     "wikidata": "Q2906989",
     "mobygames": 16902,
     "igdb": 46399
-  }
+  },
+  "roms": [
+    {
+      "name": "Battle Frenzy (USA) (En,Fr,De,Es) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-88136-00",
+      "size": 2097152,
+      "crc32": "b06674a8",
+      "md5": "3255405caa42b4b3c72d053f73701e60",
+      "sha1": "c32c04966e79cfcae6dde55455f1b32a345a9a8e",
+      "sha256": "ecea48281c62b5874cda198827a542f1c647866e8fd76bcf8463e1e349b42f11"
+    },
+    {
+      "name": "Bloodshot (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T8812650-01",
+      "size": 2097152,
+      "crc32": "f9f2bceb",
+      "md5": "018dfe74603334a17296505ac3c6e599",
+      "sha1": "513005efd123539a905986130d15125085837559",
+      "sha256": "e47e35f9e4bb4e42998b814e81dd91d8a5b2941496a989cab3b7afd27ea2667b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Bloodshot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Bloodshot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Bloodshot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

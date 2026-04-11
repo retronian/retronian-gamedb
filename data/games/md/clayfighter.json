@@ -63,5 +63,67 @@
     "wikidata": "Q2634403",
     "mobygames": 8630,
     "igdb": 46687
-  }
+  },
+  "roms": [
+    {
+      "name": "ClayFighter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-125036-00",
+      "size": 2097152,
+      "crc32": "b12c1bc1",
+      "md5": "c7a12f405a2120594254fce61ea0c516",
+      "sha1": "9cd15c84f4ee85ad8f3a512a0fed000724251758",
+      "sha256": "832d01399fea1416340ac6137f8cda54ba7f0b9496417b0848e27c5ad6a86c15"
+    },
+    {
+      "name": "ClayFighter (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-125036-00",
+      "size": 2097152,
+      "crc32": "1aaf7707",
+      "md5": "98191aadab9bf8d02e8a6e3be1f73a36",
+      "sha1": "1cde95b5c2571555dfd6461c3fd7f15912197d0d",
+      "sha256": "fa0baf1832039c7625fe1428669ec025a272dbf309b5513c038c2b2a3456d1c9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/ClayFighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/ClayFighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/ClayFighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/ClayFighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/ClayFighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/ClayFighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

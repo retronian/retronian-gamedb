@@ -18,5 +18,75 @@
     "wikidata": "Q3038709",
     "mobygames": 33521,
     "igdb": 2580
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Ball Z - Taiketsu (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 8388608,
+      "crc32": "92cabbbe",
+      "md5": "37583a361558c4ba761f2cf5e56010a1",
+      "sha1": "83f777fefed57b926c0fa7de03bd6f2078f97f8b",
+      "sha256": "0d2c9a684faf3055d54c7d1c7506a1ff5bb822d366d397ed966645a3f6948297"
+    },
+    {
+      "name": "Dragon Ball Z - Taiketsu (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDBE",
+      "size": 8388608,
+      "crc32": "64ec07e7",
+      "md5": "b7b1550606411b985b54f75f0750feb1",
+      "sha1": "1fac4e187b8cf0aeb218ca307f10955f432d258d"
+    },
+    {
+      "name": "Dragon Ball Z - Taiketsu (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BDBP",
+      "size": 8388608,
+      "crc32": "d0e79665",
+      "md5": "0fd6897002244985cab200501e1b48c9",
+      "sha1": "c6afecb00a7bba30c483610e695be3588ecd2864"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Taiketsu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dragon%20Ball%20Z%20-%20Taiketsu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Taiketsu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Taiketsu%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dragon%20Ball%20Z%20-%20Taiketsu%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Taiketsu%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

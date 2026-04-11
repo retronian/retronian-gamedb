@@ -64,6 +64,50 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Mega Man Battle Network 3: Black",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Mega Man Battle Network 3: Blue",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Mega Man Battle Network 3: White",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "バトルネットワーク ロックマンエグゼ 3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Battle Network Rockman EXE 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2002-12-06",
@@ -71,5 +115,180 @@
     "wikidata": "Q3091513",
     "mobygames": 9609,
     "igdb": 1758
-  }
+  },
+  "roms": [
+    {
+      "name": "Battle Network - Rockman EXE 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A6BJ",
+      "size": 8388608,
+      "crc32": "1c57724e",
+      "md5": "ee0b14aab3ce1039857ad005636e07a4",
+      "sha1": "2a381543f84dacc0f8310d4516fde0c33b5feca0"
+    },
+    {
+      "name": "Battle Network - Rockman EXE 3 (Japan) (Rev 1) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A6BJ",
+      "size": 8388608,
+      "crc32": "47ccb9b8",
+      "md5": "0644bdce94af8ec7e33f0aee1830b497",
+      "sha1": "e2a7c4abba66d17e073281e9ea44b6a5760b53c6",
+      "sha256": "87c2033bc0c38ac7762baea38116641646e4a73f1842fc24009cc3808f3e94f4"
+    },
+    {
+      "name": "Battle Network - Rockman EXE 3 (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A6BJ",
+      "size": 8388608,
+      "crc32": "e48e6bc9",
+      "md5": "15b8647b2a4e1d62f779703a0a50154a",
+      "sha1": "87e0ab10541eaaa5e9c01f7fad822a3e1bf52278",
+      "sha256": "416aa3d4be363fa3032343c754c924c4d367735dafb5b9158bb2ec234458d2f4"
+    },
+    {
+      "name": "Battle Network - Rockman EXE 3 - Black (Japan) (Promo)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A3XJ",
+      "size": 8388608,
+      "crc32": "1f13c41f",
+      "md5": "0b57d3560459bd31c60667ad64843343",
+      "sha1": "ff65af8fea15ecf5a556595efe414d1211a9ab4e"
+    },
+    {
+      "name": "Battle Network - Rockman EXE 3 - Black (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A3XJ",
+      "size": 8388608,
+      "crc32": "fd57493b",
+      "md5": "ce9f58d790acd6260bd45ca4346fac74",
+      "sha1": "e089a2254496a4791666c8122585cb785e3012fc"
+    },
+    {
+      "name": "Battle Network - Rockman EXE 3 - Black (Japan) (Rev 1) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A3XJ",
+      "size": 8388608,
+      "crc32": "93e89735",
+      "md5": "581a071396ac05540d7f25109e711480",
+      "sha1": "42ed01e9c8fdc0ea7c0703c821322bd196c66be4",
+      "sha256": "c1ee3202d33c6bd875b790dc29862c4fef1def18645e853b774f5a460cc90647"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Battle%20Network%20-%20Rockman%20EXE%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Battle%20Network%20-%20Rockman%20EXE%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Battle%20Network%20-%20Rockman%20EXE%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Battle%20Network%20-%20Rockman%20EXE%203%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Battle%20Network%20-%20Rockman%20EXE%203%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Battle%20Network%20-%20Rockman%20EXE%203%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Battle%20Network%20-%20Rockman%20EXE%203%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Battle%20Network%20-%20Rockman%20EXE%203%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Battle%20Network%20-%20Rockman%20EXE%203%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Battle%20Network%20-%20Rockman%20EXE%203%20-%20Black%20%28Japan%29%20%28Promo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Battle%20Network%20-%20Rockman%20EXE%203%20-%20Black%20%28Japan%29%20%28Promo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Battle%20Network%20-%20Rockman%20EXE%203%20-%20Black%20%28Japan%29%20%28Promo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Battle%20Network%20-%20Rockman%20EXE%203%20-%20Black%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Battle%20Network%20-%20Rockman%20EXE%203%20-%20Black%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Battle%20Network%20-%20Rockman%20EXE%203%20-%20Black%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Battle%20Network%20-%20Rockman%20EXE%203%20-%20Black%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Battle%20Network%20-%20Rockman%20EXE%203%20-%20Black%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Battle%20Network%20-%20Rockman%20EXE%203%20-%20Black%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

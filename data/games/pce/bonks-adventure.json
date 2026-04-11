@@ -80,5 +80,65 @@
     "wikidata": "Q1399011",
     "mobygames": 12481,
     "igdb": 7794
-  }
+  },
+  "roms": [
+    {
+      "name": "Bonk's Adventure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "599ead9b",
+      "md5": "3aa21326050c489ea867de05dd6cb7e5",
+      "sha1": "403c4fbdb617cea5b8cd0c8d06ae988f6aef93bd",
+      "sha256": "457a14f5de9f22f23bab3d1b0e811d21c77e3617c164087271f952e6b2f8d110"
+    },
+    {
+      "name": "Bonk's Adventure (USA, Europe) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "704c801e",
+      "md5": "cc7721fcd414095c810edf8d95c85c52",
+      "sha1": "0c15c2e532964bb42120685db19f6205ae5eb6ad",
+      "sha256": "1fe01690b68d58011a26f8088bae5b9fabd23f441f7a9a0675c2622aac6267ff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Bonk%27s%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Bonk%27s%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Bonk%27s%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Bonk%27s%20Adventure%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Bonk%27s%20Adventure%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Bonk%27s%20Adventure%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

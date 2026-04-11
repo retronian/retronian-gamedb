@@ -63,5 +63,65 @@
     "wikidata": "Q1987326",
     "mobygames": 22853,
     "igdb": 19073
-  }
+  },
+  "roms": [
+    {
+      "name": "Fullmetal Alchemist - Dual Sympathy (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHRP",
+      "size": 33554432,
+      "crc32": "a3472b91",
+      "md5": "a1efb9aa848794fdfd91572828fe4fd0",
+      "sha1": "960f1773c3460d75167302e89e40958f58990da8"
+    },
+    {
+      "name": "Fullmetal Alchemist - Dual Sympathy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHRE",
+      "size": 33554432,
+      "crc32": "fdbf059a",
+      "md5": "a346fd59be16e4ddbaa33facf1533f52",
+      "sha1": "0cdc9e8794d0dfe01fb7df20b116938a057854f0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fullmetal%20Alchemist%20-%20Dual%20Sympathy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fullmetal%20Alchemist%20-%20Dual%20Sympathy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fullmetal%20Alchemist%20-%20Dual%20Sympathy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fullmetal%20Alchemist%20-%20Dual%20Sympathy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fullmetal%20Alchemist%20-%20Dual%20Sympathy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fullmetal%20Alchemist%20-%20Dual%20Sympathy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

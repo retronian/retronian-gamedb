@@ -62,5 +62,78 @@
     "wikidata": "Q3492892",
     "mobygames": 45159,
     "igdb": 5175
-  }
+  },
+  "roms": [
+    {
+      "name": "Spectrobes - Beyond the Portals (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YV4P",
+      "size": 134217728,
+      "crc32": "21558aa6",
+      "md5": "447abd2ab48cdbd98cd4201b0c597736",
+      "sha1": "c8710cd7ec0cb9507cb7e4810ace74ac65f0972f",
+      "sha256": "4680a5fe4276e719d4a0050108d0966b026a838df12fe888ad63f356e9131a5e"
+    },
+    {
+      "name": "Spectrobes - Beyond the Portals (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YV4E",
+      "size": 134217728,
+      "crc32": "5276c359",
+      "md5": "971bcb7e21b96556a21b6fcc4ba88b9d",
+      "sha1": "948f8ba83eca3261c1a57f525a1c0cba91f691e6",
+      "sha256": "c566639b594371ccefedcc944568d5b49a5b0143bf8ac0072a3d1188b56ee172"
+    },
+    {
+      "name": "Spectrobes - Beyond the Portals (Europe) (En,Fr,De,Es,It,Nl) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YV4P",
+      "size": 134217728,
+      "crc32": "06b0e5dd",
+      "md5": "a0bb30f0a0d596b2617dafdc7839e8da",
+      "sha1": "9db14311e8627edbf0076dfbefb38079d81bfd21",
+      "sha256": "331befb517860e04cd7a98559ea148c34817cd2b4158d0a4a982fd50879f83b0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spectrobes%20-%20Beyond%20the%20Portals%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Spectrobes%20-%20Beyond%20the%20Portals%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spectrobes%20-%20Beyond%20the%20Portals%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spectrobes%20-%20Beyond%20the%20Portals%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Spectrobes%20-%20Beyond%20the%20Portals%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spectrobes%20-%20Beyond%20the%20Portals%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,83 @@
     "wikidata": "Q3274185",
     "mobygames": 28978,
     "igdb": 3535
-  }
+  },
+  "roms": [
+    {
+      "name": "Mace - The Dark Age (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NMEP",
+      "size": 12582912,
+      "crc32": "57ddede1",
+      "md5": "523883a766c662e8377cd256755b27b4",
+      "sha1": "19fc1fe13a3c50a5d03d44d2e93440967c7f3618",
+      "sha256": "73762463297ce7b9c82d8d8630b0d523d93ce9753630357dcda9341443ba26d0"
+    },
+    {
+      "name": "Mace - The Dark Age (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NMEE",
+      "size": 12582912,
+      "crc32": "d2a363a6",
+      "md5": "39a2bca1c17cd4cf1a9f3ae2b725b5c6",
+      "sha1": "05d82a2c73ac536180b68137dbb9972a9e8e883e"
+    },
+    {
+      "name": "Mace - The Dark Age (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 13144800,
+      "crc32": "2b23212f",
+      "md5": "3eb81ab11b8c58305a64ce06817d0538",
+      "sha1": "c515895faaa5ebf0d043d285aaf51046b5e28b8f",
+      "sha256": "7be225fb574fcccd1a7f46f0a2c2e0e44709e555a0ec1badb38385246dfaf3b7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mace%20-%20The%20Dark%20Age%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mace%20-%20The%20Dark%20Age%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mace%20-%20The%20Dark%20Age%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mace%20-%20The%20Dark%20Age%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mace%20-%20The%20Dark%20Age%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mace%20-%20The%20Dark%20Age%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mace%20-%20The%20Dark%20Age%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

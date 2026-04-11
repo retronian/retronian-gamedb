@@ -81,5 +81,63 @@
     "wikidata": "Q427198",
     "mobygames": 3400,
     "igdb": 6268
-  }
+  },
+  "roms": [
+    {
+      "name": "Pandemonium! (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 84118912,
+      "crc32": "920abc0f",
+      "md5": "9de4a7aed49e075bbc1df015b857f745",
+      "sha1": "c25a2e761a6b1deead4303565cbbfa93a3e706fe"
+    },
+    {
+      "name": "Pandemonium! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 86543856,
+      "crc32": "229ffa28",
+      "md5": "fe55a13abf397a060dc51b995f79f27b",
+      "sha1": "9df8660f3d55e49c3fe08a0ce1788d7158406120"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Pandemonium%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Pandemonium%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Pandemonium%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Pandemonium%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Pandemonium%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Pandemonium%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

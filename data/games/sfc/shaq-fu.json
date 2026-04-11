@@ -63,5 +63,75 @@
     "wikidata": "Q3278677",
     "mobygames": 14585,
     "igdb": 8536
-  }
+  },
+  "roms": [
+    {
+      "name": "Shaq-Fu (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "ddd55e27",
+      "md5": "72ea79d6da4349eefff22e5d990ba368",
+      "sha1": "b612314468f18009b98c165ca90a49332a532e93",
+      "sha256": "3928aa1f667e6a5f38da17313c8d6ecdfaa62e0655d95764ddd2d5ff262e005c"
+    },
+    {
+      "name": "Shaq-Fu (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "52916c9d",
+      "md5": "9ad77707da7c7e4913a1644b3b6cdfd8",
+      "sha1": "f7afc24ba47086e29e54b6d819542dc058b534f8",
+      "sha256": "c73757eea258e169e506eaef989227a59918060f94117917f338183db14c50b6"
+    },
+    {
+      "name": "Shaq-Fu (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "e14b00ef",
+      "md5": "217400026df568d5f743cc6c82b989f8",
+      "sha1": "5727214955566c22dc945823a04dc674ab69218d",
+      "sha256": "907625e6b089752e6fa923b8f118eb1482431fc5ff8a55808c7848e35b027b8a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Shaq-Fu%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Shaq-Fu%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Shaq-Fu%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Shaq-Fu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Shaq-Fu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Shaq-Fu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

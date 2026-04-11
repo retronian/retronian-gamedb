@@ -71,5 +71,93 @@
   "external_ids": {
     "wikidata": "Q3276899",
     "mobygames": 21893
-  }
+  },
+  "roms": [
+    {
+      "name": "Magic Sword (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "9e50509f",
+      "md5": "d043ccc5b99bdafcdf26e4fe971ef910",
+      "sha1": "1c5bc94edc7d612593c740dce7f21d2f9e917bb6",
+      "sha256": "eebaca7dc37b65bfde71df76725d469c7a66c903e12845da1eca8fd5239a1a71"
+    },
+    {
+      "name": "Magic Sword (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "0b159d53",
+      "md5": "36c8600c796f3a12fc5b8657fb280986",
+      "sha1": "f5a431e46124d7a8638176203cdb351cd1e8423c",
+      "sha256": "89a853d05103df70031d7293d8b833fdcf5bb7b0bdb43f1835c511b6396943d8"
+    },
+    {
+      "name": "Magic Sword (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "27325e4d",
+      "md5": "ad7349eb7afd3d809161ee70bd2c361d",
+      "sha1": "0d64ef4149b71d13d287122f58eca9c580fa7d0f",
+      "sha256": "1d3cceaa05e054b002caeb09fd5fb9e718ec446764f4169d97bc185da76fdf4d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Magic%20Sword%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Magic%20Sword%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Magic%20Sword%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Magic%20Sword%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Magic%20Sword%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Magic%20Sword%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Magic%20Sword%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Magic%20Sword%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Magic%20Sword%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

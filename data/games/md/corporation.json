@@ -44,5 +44,38 @@
   "external_ids": {
     "wikidata": "Q2189424",
     "mobygames": 1487
-  }
+  },
+  "roms": [
+    {
+      "name": "Corporation (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70016-00",
+      "size": 1048576,
+      "crc32": "a80d18aa",
+      "md5": "62f68ff2a01035f415f0911d9afb28f6",
+      "sha1": "520e01abe76120dbd680b9fc34eb1303c780b069",
+      "sha256": "226368b1693af2db21bb1cc640b94d5b021c9ff20fcb86207d2b76590503cc98"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Corporation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Corporation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Corporation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -18,5 +18,53 @@
     "wikidata": "Q106620770",
     "mobygames": 85081,
     "igdb": 25165
-  }
+  },
+  "roms": [
+    {
+      "name": "Victorious - Taking the Lead (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TH2E",
+      "size": 16777216,
+      "crc32": "19896453",
+      "md5": "09775839e6b14826ad82efa1d42c3447",
+      "sha1": "720bb49a294d6b4789d1268852a7b135fac5eb46"
+    },
+    {
+      "name": "Victorious - Taking the Lead (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TH2P",
+      "size": 16777216,
+      "crc32": "cddefea4",
+      "md5": "be2ff57a3b474c0ec95d19abdcf2af3b",
+      "sha1": "4c65019a9cd2f6ee7d7919cd7e7ded3a3c05561c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Victorious%20-%20Taking%20the%20Lead%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Victorious%20-%20Taking%20the%20Lead%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Victorious%20-%20Taking%20the%20Lead%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Victorious%20-%20Taking%20the%20Lead%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

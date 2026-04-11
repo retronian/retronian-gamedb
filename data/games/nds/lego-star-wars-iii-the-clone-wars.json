@@ -72,5 +72,65 @@
     "wikidata": "Q55228",
     "mobygames": 81364,
     "igdb": 194948
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BL9P",
+      "size": 134217728,
+      "crc32": "f2f887ed",
+      "md5": "01791efd85c61f679cdc9865cfe0a843",
+      "sha1": "b3c079d4f25a0e203c9a8dd071a71c780b02f0d5"
+    },
+    {
+      "name": "LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BL9E",
+      "size": 134217728,
+      "crc32": "daca943c",
+      "md5": "56b42c7b270522438e415b991514a0c4",
+      "sha1": "99857c8967b353967632de87eee5e7da1e04b532"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Star%20Wars%20III%20-%20The%20Clone%20Wars%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/LEGO%20Star%20Wars%20III%20-%20The%20Clone%20Wars%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Star%20Wars%20III%20-%20The%20Clone%20Wars%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Star%20Wars%20III%20-%20The%20Clone%20Wars%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/LEGO%20Star%20Wars%20III%20-%20The%20Clone%20Wars%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Star%20Wars%20III%20-%20The%20Clone%20Wars%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

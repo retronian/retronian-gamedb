@@ -59,5 +59,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Cadillac II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "a6c98122",
+      "md5": "679555396bce8beab58d4b79acb966bf",
+      "sha1": "a5d405fe7b4ea23708acb3cb71104f63057df6d4",
+      "sha256": "5d27d04ae68b536ab6deaab59a2934319b69e7f3d196fe00f2563489863d00db"
+    },
+    {
+      "name": "Square Deal - The Game of Two-Dimensional Poker (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "8b882745",
+      "md5": "c9ce9d01b622efce61cd4f002c628203",
+      "sha1": "ace72e1d6607b162bdaa88499db9828444ecd2c0",
+      "sha256": "5b6bdf85e9083f328449b1316f5dd9c2789f4a57bdac5b16d74fe10bbea1b03c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Cadillac%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Cadillac%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Cadillac%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Square%20Deal%20-%20The%20Game%20of%20Two-Dimensional%20Poker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Square%20Deal%20-%20The%20Game%20of%20Two-Dimensional%20Poker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Square%20Deal%20-%20The%20Game%20of%20Two-Dimensional%20Poker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

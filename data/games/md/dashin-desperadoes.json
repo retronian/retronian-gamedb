@@ -18,5 +18,78 @@
     "wikidata": "Q3016739",
     "mobygames": 13768,
     "igdb": 46247
-  }
+  },
+  "roms": [
+    {
+      "name": "Dashin' Desperadoes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-13066-00",
+      "size": 1048576,
+      "crc32": "dcb76fb7",
+      "md5": "e57518fc56217d300c0d3a49271991c3",
+      "sha1": "1d9a12b0df291a21f1e1070af2b13c1f15dbbe67",
+      "sha256": "5fd6c48275668db838d5fa50187519f7f8d1d06e3ff93ffddb748b56957d50d9"
+    },
+    {
+      "name": "Dashin' Desperadoes (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-13093-00",
+      "size": 1048576,
+      "crc32": "98d224a5",
+      "md5": "b1225f6afcb23597e665b32a2c463ed0",
+      "sha1": "d5793276f7a07f4dd8a9035dbb70a7f3ef2448a3",
+      "sha256": "220c5a6ca1310bcd3ed9645f51e0ab1eaff5ebf6249f4cf5cf5070e29d941d0c"
+    },
+    {
+      "name": "Dashin' Desperadoes (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "30103030-01",
+      "size": 1048576,
+      "crc32": "b573e63a",
+      "md5": "a96410d457fcccd0d982b219539521d1",
+      "sha1": "c9bd8599c1d96faf80d9889461cd7ccd08e325b2",
+      "sha256": "d7580019e05b780fd3314a28d014d7ead4d332c39fa7080df51e95be4939dcee"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Dashin%27%20Desperadoes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dashin%27%20Desperadoes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dashin%27%20Desperadoes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Dashin%27%20Desperadoes%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dashin%27%20Desperadoes%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dashin%27%20Desperadoes%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

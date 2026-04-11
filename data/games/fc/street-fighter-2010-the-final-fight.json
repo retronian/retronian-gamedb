@@ -63,5 +63,47 @@
     "wikidata": "Q907744",
     "mobygames": 17733,
     "igdb": 45196
-  }
+  },
+  "roms": [
+    {
+      "name": "Street Fighter 2010 - The Final Fight (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "361fb3ee",
+      "md5": "7b96bd82a741ff571b3d95909ebe616b",
+      "sha1": "255ebb2d7c57ac52fdf2b9476df0ab3af6ed2113",
+      "sha256": "019237819365bd9ddd8e1f7b25a1df9777e97d334beb64f60592c06e1c5bb89a"
+    },
+    {
+      "name": "Street Fighter 2010 - The Final Fight (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "9d05a386",
+      "md5": "abe3b45f391e64c19bb624f894728c8e",
+      "sha1": "bfc56f593420d8dbd575d3c73148876e4d17ad5f",
+      "sha256": "8dc1b683914417e7d6e0beb543711c0c8d0a226d2cd6aeb0a65c3293475890bc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Street%20Fighter%202010%20-%20The%20Final%20Fight%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Street%20Fighter%202010%20-%20The%20Final%20Fight%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Street%20Fighter%202010%20-%20The%20Final%20Fight%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -78,5 +78,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Boxxle (USA, Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "c09cee99",
+      "md5": "239fd20f424ee53d2f11018dbd942df4",
+      "sha1": "f9d5287bc9d6eda9ec36e9b5a8dbc38cf2cffecf",
+      "sha256": "c859503342db1f86dadeb7e6f3d8a8a2918e9b6a7c8756311b7cc7bb0a7e892f"
+    },
+    {
+      "name": "Boxxle (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "24843867",
+      "md5": "312ea1fe2d4734f33ffa617dd4a7676b",
+      "sha1": "3e169f1db16cc1c3ffbc8645aa7ce28194033d26",
+      "sha256": "694607d5970c4d8b5c5f7c3689ab6054f1bbea3fb38d7df6c1cdf3036b1676ce"
+    },
+    {
+      "name": "Soukoban (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "d50d6d0a",
+      "md5": "2fc9be5fa50cfa9c660a2ceaa55344ae",
+      "sha1": "aa0cfcb8e049533bc4ae9afe4e97f5336425d5a7",
+      "sha256": "b9b4ee32ab8b74ffd90d7606715893f4b6bd2a3b97c14b2ac2fc6683cfbe1986"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Boxxle%20%28USA%2C%20Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Boxxle%20%28USA%2C%20Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Boxxle%20%28USA%2C%20Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Boxxle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Boxxle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Boxxle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Soukoban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Soukoban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Soukoban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

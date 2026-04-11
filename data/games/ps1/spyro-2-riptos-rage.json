@@ -81,5 +81,61 @@
     "wikidata": "Q942896",
     "mobygames": 4153,
     "igdb": 1577
-  }
+  },
+  "roms": [
+    {
+      "name": "Spyro 2 - Gateway to Glimmer (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 360261856,
+      "crc32": "76dc156c",
+      "md5": "c0b1c2341204f6868492a9f6ab33ae7a",
+      "sha1": "dd407db80b3d43cd8725566e71c14b71d1feb97b"
+    },
+    {
+      "name": "Spyro 2 - Gateway to Glimmer (Germany)",
+      "source": "no_intro",
+      "size": 360279184,
+      "crc32": "5941b87a",
+      "md5": "ac0a75971953cd04ebbb31f8f124f87f",
+      "sha1": "837d015b86feb74644340d7084cd359cf2dc6d69"
+    },
+    {
+      "name": "Spyro 2 - Gateway to Glimmer (Russia)",
+      "source": "no_intro",
+      "size": 360261376,
+      "crc32": "31ad9d31",
+      "md5": "b6e2770eaa7a526bedb9897323884595",
+      "sha1": "4cabe42a02d559617005dabdd9c6eeaea3949e9c"
+    },
+    {
+      "name": "Spyro 2 - Ripto's Rage! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 367922000,
+      "crc32": "a94ff2d2",
+      "md5": "2deab47f51e7d9be86a9799934fe782c",
+      "sha1": "102d802b7ae7b25aa01791e02e2acbe53e08aede"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Spyro%202%20-%20Ripto%27s%20Rage%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Spyro%202%20-%20Ripto%27s%20Rage%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Spyro%202%20-%20Ripto%27s%20Rage%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

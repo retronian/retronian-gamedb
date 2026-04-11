@@ -45,5 +45,89 @@
     "wikidata": "Q3905830",
     "mobygames": 12345,
     "igdb": 209384
-  }
+  },
+  "roms": [
+    {
+      "name": "Pitfall - L'Expedition Perdue (France)",
+      "source": "no_intro",
+      "serial": "BPHF",
+      "size": 8388608,
+      "crc32": "846f43f3",
+      "md5": "69c1871ad475586884f8f438c8fdfa68",
+      "sha1": "2203f307115653805baedb7285c07624bc12eb76"
+    },
+    {
+      "name": "Pitfall - The Lost Expedition (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BPHP",
+      "size": 8388608,
+      "crc32": "dc6512d6",
+      "md5": "4d424166fab5fe230b46793f8659e8a5",
+      "sha1": "29285189fb416332a042dd108d8f26ff7a6e49b2"
+    },
+    {
+      "name": "Pitfall - The Lost Expedition (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPHE",
+      "size": 8388608,
+      "crc32": "5c11dc26",
+      "md5": "e1b65755d37a64d3ab7605d5dac86b56",
+      "sha1": "edb205a04e694786f8159ac99fb4bfd72e34e4e3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pitfall%20-%20L%27Expedition%20Perdue%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pitfall%20-%20L%27Expedition%20Perdue%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pitfall%20-%20L%27Expedition%20Perdue%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pitfall%20-%20The%20Lost%20Expedition%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pitfall%20-%20The%20Lost%20Expedition%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pitfall%20-%20The%20Lost%20Expedition%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pitfall%20-%20The%20Lost%20Expedition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pitfall%20-%20The%20Lost%20Expedition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pitfall%20-%20The%20Lost%20Expedition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

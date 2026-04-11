@@ -54,5 +54,65 @@
     "wikidata": "Q2182703",
     "mobygames": 8689,
     "igdb": 72809
-  }
+  },
+  "roms": [
+    {
+      "name": "Pin Bot (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 196624,
+      "crc32": "ea70243b",
+      "md5": "3c9ede64d2366cec1f3906351636f93c",
+      "sha1": "ad16bdf92403490c560096f80590ff917fb4c48c",
+      "sha256": "7ec8da73f97c7f510e9b1bf99cf0883de78a96cd050e50cb27fc7b595ecd1eb9"
+    },
+    {
+      "name": "Pin Bot (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 196624,
+      "crc32": "bc67581e",
+      "md5": "26ea0ff1a63a8784c8642626a56b0adb",
+      "sha1": "9ad07bee7b4073a4165da5559d97615e73b25faa",
+      "sha256": "4d471e52f0e974f331c08d305e43972e5aeadccc80946ce7b231f4a8a262e043"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Pin%20Bot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Pin%20Bot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Pin%20Bot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Pin%20Bot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Pin%20Bot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Pin%20Bot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

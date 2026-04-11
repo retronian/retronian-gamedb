@@ -18,5 +18,65 @@
     "wikidata": "Q5018056",
     "mobygames": 22240,
     "igdb": 4740
-  }
+  },
+  "roms": [
+    {
+      "name": "Cake Mania (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AOYP",
+      "size": 33554432,
+      "crc32": "ee4a5de7",
+      "md5": "a77a2234ae222cbba99b414cf9e48be8",
+      "sha1": "8acfd5c964fdd76c55fd0b18fca611c6f683393e"
+    },
+    {
+      "name": "Cake Mania (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AOYE",
+      "size": 16777216,
+      "crc32": "74dd3a4b",
+      "md5": "984f19394b3b4350a413da68ab065f70",
+      "sha1": "30bf997a0e5acb708a9995aa129212ab68e0f5d4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cake%20Mania%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cake%20Mania%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cake%20Mania%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cake%20Mania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cake%20Mania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cake%20Mania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

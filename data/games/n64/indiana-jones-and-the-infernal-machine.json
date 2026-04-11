@@ -81,5 +81,53 @@
     "wikidata": "Q1527683",
     "mobygames": 1442,
     "igdb": 188
-  }
+  },
+  "roms": [
+    {
+      "name": "Indiana Jones and the Infernal Machine (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NIJE",
+      "size": 33554432,
+      "crc32": "4978eb57",
+      "md5": "70de1eab508596b6bbefd168b5d07194",
+      "sha1": "93300d63412d6c7432109b5ad2e4a8b9348e9538"
+    },
+    {
+      "name": "Indiana Jones and the Infernal Machine (Australia) (Proto)",
+      "source": "no_intro",
+      "region": "au",
+      "serial": "NIJP",
+      "size": 33554432,
+      "crc32": "337219be",
+      "md5": "63d7ab29ba3dfc5d5b12c1d9c5832355",
+      "sha1": "8465af5538c4b636834a8b2cd5a7decadf0e8841"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Indiana%20Jones%20and%20the%20Infernal%20Machine%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Indiana%20Jones%20and%20the%20Infernal%20Machine%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Indiana%20Jones%20and%20the%20Infernal%20Machine%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Indiana%20Jones%20and%20the%20Infernal%20Machine%20%28Australia%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    }
+  ]
 }

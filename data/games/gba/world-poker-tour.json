@@ -17,5 +17,65 @@
     "wikidata": "Q115519291",
     "mobygames": 143209,
     "igdb": 23148
-  }
+  },
+  "roms": [
+    {
+      "name": "World Poker Tour (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B26E",
+      "size": 4194304,
+      "crc32": "b18784c1",
+      "md5": "0c112fda9346a9851fa7cb72d80be501",
+      "sha1": "c75851d14a96dea46770945aafeaf9a8f6c12271"
+    },
+    {
+      "name": "World Poker Tour (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BWOP",
+      "size": 4194304,
+      "crc32": "8fa26a97",
+      "md5": "18bfa442d857e038c8ef578b64df0ba2",
+      "sha1": "2f2983d33c547f09cca512b06880bc1faf1d4f54"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/World%20Poker%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/World%20Poker%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/World%20Poker%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/World%20Poker%20Tour%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/World%20Poker%20Tour%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/World%20Poker%20Tour%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

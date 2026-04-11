@@ -18,5 +18,65 @@
     "wikidata": "Q7105842",
     "mobygames": 6076,
     "igdb": 12456
-  }
+  },
+  "roms": [
+    {
+      "name": "Oscar (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "b458fdbc",
+      "md5": "447d7b149f1838deedab1873a9cda1d6",
+      "sha1": "ee40af66f9088ac1b695c8a197d38f85afecddc5",
+      "sha256": "9ef1f56b36b4e5f59caa2482d905d85ea8ef74674c465f9daba7e54520efd683"
+    },
+    {
+      "name": "Oscar (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "cdf463c0",
+      "md5": "9cbba211206b477e31a45c3c2a122708",
+      "sha1": "7d981c08b8f418f80c1b8d565eb46323d087f6ab",
+      "sha256": "0c08e6b817e4d0b333acb910a0bde3d79bd2dc188defc5df9a7c1233fa81c98d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Oscar%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Oscar%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Oscar%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Oscar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Oscar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Oscar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -73,6 +73,15 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": true
+    },
+    {
+      "text": "International Superstar Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1997-06-01",
@@ -80,5 +89,94 @@
     "wikidata": "Q2387749",
     "mobygames": 9130,
     "igdb": 3516
-  }
+  },
+  "roms": [
+    {
+      "name": "International Superstar Soccer 64 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NJPP",
+      "size": 8388608,
+      "crc32": "8c839268",
+      "md5": "376803f28ca8b2133671783419933ca2",
+      "sha1": "3b53fd76bb37b923b0fe61e50057ae773a25170a",
+      "sha256": "87cad89c16530762708eefa49e2c69d5690a406eab8d39554aaceca9efcc4574"
+    },
+    {
+      "name": "International Superstar Soccer 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NJPE",
+      "size": 8388608,
+      "crc32": "0ea249b9",
+      "md5": "6a345402ae1db5ce1041365e36126bce",
+      "sha1": "d2c258ee3844be77049e4af5208f8f2bb073a86e"
+    },
+    {
+      "name": "Jikkyou World Soccer 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NJ3J",
+      "size": 8388608,
+      "crc32": "3ba9e644",
+      "md5": "ef0f425689586850a6f5796124b0c85b",
+      "sha1": "a06528ce7a1c007f3e8dfae199b6e65b3dbc034d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/International%20Superstar%20Soccer%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/International%20Superstar%20Soccer%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/International%20Superstar%20Soccer%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/International%20Superstar%20Soccer%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/International%20Superstar%20Soccer%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/International%20Superstar%20Soccer%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Jikkyou%20World%20Soccer%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Jikkyou%20World%20Soccer%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Jikkyou%20World%20Soccer%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

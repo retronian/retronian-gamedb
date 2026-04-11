@@ -71,5 +71,65 @@
     "wikidata": "Q2081556",
     "mobygames": 10126,
     "igdb": 8047
-  }
+  },
+  "roms": [
+    {
+      "name": "Tiny Toon Adventures 2 - Trouble in Wackyland (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "bc7952e8",
+      "md5": "41f8b0992cd71a3070c0e1c40487fe74",
+      "sha1": "3b115e811154d3c904894ca6dbdda7211e503cd6",
+      "sha256": "3ca46ac0e57187655fd618262abd53872a318daf6fab06795df1c8d7a9485d38"
+    },
+    {
+      "name": "Tiny Toon Adventures 2 - Trouble in Wackyland (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "3a1c095f",
+      "md5": "8ae3b6302d42d3d501a001da2aef56b0",
+      "sha1": "9ea2ddf0ff398551a9f9578e2e1f12524e333815",
+      "sha256": "a9ec70c83d22f35a058f4dc443111db74d33560c1ccf170efa6bd3d8986ae635"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tiny%20Toon%20Adventures%202%20-%20Trouble%20in%20Wackyland%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tiny%20Toon%20Adventures%202%20-%20Trouble%20in%20Wackyland%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tiny%20Toon%20Adventures%202%20-%20Trouble%20in%20Wackyland%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tiny%20Toon%20Adventures%202%20-%20Trouble%20in%20Wackyland%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tiny%20Toon%20Adventures%202%20-%20Trouble%20in%20Wackyland%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tiny%20Toon%20Adventures%202%20-%20Trouble%20in%20Wackyland%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

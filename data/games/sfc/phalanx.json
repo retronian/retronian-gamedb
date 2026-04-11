@@ -63,5 +63,75 @@
     "wikidata": "Q11332146",
     "mobygames": 7142,
     "igdb": 6532
-  }
+  },
+  "roms": [
+    {
+      "name": "Phalanx (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "1fd515d6",
+      "md5": "0630d7d38baee90a849a77722d54c395",
+      "sha1": "f9523cc140c6006b9931ca4a2794c05f83a05865",
+      "sha256": "b8fcbad3c712a2ff69a5f9bb9fbe4c4284f91bbe96fe849275a8bcfcb497d204"
+    },
+    {
+      "name": "Phalanx (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "dc90a8ab",
+      "md5": "6261db3e834e245f99fb2072fc97fde7",
+      "sha1": "67cdb495f4a6b53ab79965a6af6dbbd9990d1060",
+      "sha256": "0663330bc061f4b768fa1806610878ef6e6cf546f36041ae087c8e55703693b8"
+    },
+    {
+      "name": "Phalanx (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "b1a32fe2",
+      "md5": "0add8eefe5f4549e07faa4546f87fa2d",
+      "sha1": "3e4b0d0d7543f485d1b9a98d21889049c0c0e9a0",
+      "sha256": "f34257796808611eebe4273823b6bedcd11f6d017cee65a81c411c5882629564"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Phalanx%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Phalanx%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Phalanx%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Phalanx%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Phalanx%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Phalanx%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

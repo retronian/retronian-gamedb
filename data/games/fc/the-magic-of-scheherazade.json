@@ -69,5 +69,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Arabian Dream Scheherazade (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "fbd70fa2",
+      "md5": "0c5b3c4e95baba3ef5d02772c6275cb2",
+      "sha1": "fec1f07b0a057657dfaeadb07e0320fb53d6d60c",
+      "sha256": "7bb46afd8f1597bf0bca5ac4ca44ca6acf952a6188532e10141ba428d86a3370"
+    },
+    {
+      "name": "Magic of Scheherazade, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6e80baf5",
+      "md5": "5bc50446bebdad2a65551769f03a062a",
+      "sha1": "59b16dd7cd2694eef6a69786f9a9df921dbf3506",
+      "sha256": "3285b58b5aa8c0ab1b9a52402425f5ad0351dfaf09e71594562ec3fdeea03ce6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Arabian%20Dream%20Scheherazade%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Arabian%20Dream%20Scheherazade%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Arabian%20Dream%20Scheherazade%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Magic%20of%20Scheherazade%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Magic%20of%20Scheherazade%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Magic%20of%20Scheherazade%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

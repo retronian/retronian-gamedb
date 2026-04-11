@@ -17,5 +17,56 @@
   "external_ids": {
     "wikidata": "Q115804442",
     "igdb": 50032
-  }
+  },
+  "roms": [
+    {
+      "name": "Cool Bricks (Europe) (Beta) (1999-03-24)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 32768,
+      "crc32": "9754006e",
+      "md5": "4f05f82ad7c0f5aaba6d61438d5d8238",
+      "sha1": "784fffacd2ce97c7a91971d8522e01fe5596de0f",
+      "sha256": "356ebee394d9b5bc2dc4fc9fe2e2df2c3264a9312e85399710dd39d9bfbe2fd9"
+    },
+    {
+      "name": "Cool Bricks (Europe) (Beta) (1999-05-10)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "59d4a387",
+      "md5": "789142292ee4dd3e2d55c444e04f58b4",
+      "sha1": "17d58a23a911813866923773a17cc92a142ae950",
+      "sha256": "9e2f547ff11617280573ee44905220812682f333a19943ec3c7a57e373b1d602"
+    },
+    {
+      "name": "Cool Bricks (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "04fe7790",
+      "md5": "5a7673f1e61cd707bdc880ff76396a3d",
+      "sha1": "0f0410e2ee2ce1a9e6b12399492f8bd2ddf67406"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Cool%20Bricks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Cool%20Bricks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Cool%20Bricks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

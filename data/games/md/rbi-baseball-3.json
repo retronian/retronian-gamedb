@@ -18,5 +18,49 @@
     "wikidata": "Q3414929",
     "mobygames": 14524,
     "igdb": 93414
-  }
+  },
+  "roms": [
+    {
+      "name": "R.B.I. Baseball 3 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48096-00",
+      "size": 524288,
+      "crc32": "d0430946",
+      "md5": "23f6d1b0dbdcc72df44781f19fc619b1",
+      "sha1": "e6d142f6d483f423c2d2271f3895ebf50063a6d5",
+      "sha256": "4de57324212ce640edd49aec0de5ee3b9ad59b86521c60ff788adb64348e7d17"
+    },
+    {
+      "name": "R.B.I. Baseball 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48096-00",
+      "size": 524288,
+      "crc32": "4840348c",
+      "md5": "b013041aba1a4ccbae7fd1e7f6c4739b",
+      "sha1": "fe6d17d8670e046a90d126ee6a11149735a1aeb8",
+      "sha256": "fb443f7c2f50ced52c527f0469a044b7c9ac62aeae6ebbd27c38211256582c72"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/R.B.I.%20Baseball%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/R.B.I.%20Baseball%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/R.B.I.%20Baseball%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

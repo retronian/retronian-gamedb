@@ -81,5 +81,89 @@
     "wikidata": "Q1959943",
     "mobygames": 6609,
     "igdb": 8995
-  }
+  },
+  "roms": [
+    {
+      "name": "NBA Jam (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-81033-00",
+      "size": 2097152,
+      "crc32": "a6c6305a",
+      "md5": "d72f13bc94ad76c90deef86d5a138ff6",
+      "sha1": "2a88b2e1ecf115fa6246397d829448b755a5385e",
+      "sha256": "5aa7e5ccb1931c688f4f0cadea5d4b41440c6c4bbaad83b6bab547ceede31c1d"
+    },
+    {
+      "name": "NBA Jam (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-081326-00",
+      "size": 2097152,
+      "crc32": "10fa248f",
+      "md5": "338b8ed45e02d96f1ed31eaab59eaf43",
+      "sha1": "99c5bc57fdea7f9df0cd8dec54160b162342344d",
+      "sha256": "9ee77c144505a10940976bb48e32600c83d5910c737612868ff6088faf3eb7f4"
+    },
+    {
+      "name": "NBA Jam (USA, Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-081326-01",
+      "size": 2097152,
+      "crc32": "eb8360e6",
+      "md5": "234bf02f7f7b6fdad65890424d3a8a8f",
+      "sha1": "55f2b26a932c69b2c7cb4f24f56b43f24f113a7c",
+      "sha256": "d90d4ca8d00b4dade6d21650da2264fa64016daa779215ac06adfc04da31d610"
+    },
+    {
+      "name": "NBA Jam (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-XXXXX-00",
+      "size": 2097152,
+      "crc32": "e35f7eee",
+      "md5": "b39d40a0c6779c1fc999a983d811b7ee",
+      "sha1": "1aad8b146ec1eb2a9823878fbfddc02efe3f6ad9",
+      "sha256": "90299d02aadedc823d6685992b32f172c7d71ffb4ba4e9bf18f92410224ed16a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/NBA%20Jam%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/NBA%20Jam%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/NBA%20Jam%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/NBA%20Jam%20%28USA%2C%20Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/NBA%20Jam%20%28USA%2C%20Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/NBA%20Jam%20%28USA%2C%20Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

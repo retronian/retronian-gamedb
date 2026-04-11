@@ -27,5 +27,67 @@
     "wikidata": "Q7038903",
     "mobygames": 9024,
     "igdb": 6524
-  }
+  },
+  "roms": [
+    {
+      "name": "Ninja Cop (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANXP",
+      "size": 4194304,
+      "crc32": "c14295b1",
+      "md5": "8f71cc21f97599f376b71a0953db1847",
+      "sha1": "0cfe2bcbf256299060bc4eac51c4dad8ced9939d"
+    },
+    {
+      "name": "Ninja Cop (Europe) (Limited Run Games)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 4194304,
+      "crc32": "82fd50cb",
+      "md5": "3f561dd14404f605fb7d3117f216c44c",
+      "sha1": "001d50a80791ef4f73f79d7e217cddbb9c5896c0",
+      "sha256": "dbb802ec5bc5edf00586fc4e9cb8e02fe9fc8bfa230b7dec0faa6c876f9b25ae"
+    },
+    {
+      "name": "Ninja Five-O (USA) (Limited Run Games)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "a0f5cde4",
+      "md5": "18d2087395473d38c083f4c49ca7afad",
+      "sha1": "a4509556f75c0fe922b5eee2a4c6ddd35b9ffe7a",
+      "sha256": "994688d6900e7cdd66aed5ce26d7488a76f538bcc9518d23abb9b7be51b9cc0b"
+    },
+    {
+      "name": "Ninja Five-O (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANXE",
+      "size": 4194304,
+      "crc32": "eb3954c6",
+      "md5": "04244f72a9b8f17ee33e0b5bff2b8b1f",
+      "sha1": "3bc5789035c7400283b121e9fb3801aafae55364"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ninja%20Cop%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ninja%20Cop%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ninja%20Cop%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

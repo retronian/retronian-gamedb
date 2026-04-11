@@ -54,5 +54,83 @@
     "wikidata": "Q9089201",
     "mobygames": 22106,
     "igdb": 48118
-  }
+  },
+  "roms": [
+    {
+      "name": "Totally Rad (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "7db7693e",
+      "md5": "5bc4a5f9ed9f44ff6503c0a4f8d8dfd7",
+      "sha1": "67c0c4f80b329e5bda2946215b4acf039e3310f4",
+      "sha256": "2e2552f0043d4c8670cebd371a9beb56c1ea24d794bf2c37914c04fe6c781cc4"
+    },
+    {
+      "name": "Totally Rad (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "0d90376f",
+      "md5": "7fd4958accb282676c9f125c1ab1ee69",
+      "sha1": "029fa80d95443b028acfb86087740ec5749aa129",
+      "sha256": "bb96a44f083a7fef6feca5c528b51c43b9033865b1b3da35ca8c83fa5221b0b1"
+    },
+    {
+      "name": "Totally Rad (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "10abd380",
+      "md5": "73d3ade5b80eaa82029f50bab391b03a",
+      "sha1": "7cd9027acdff11c033ae1dbcd369010ac430877c",
+      "sha256": "0d66786a0cc7a733128850bc3cde73586a254167b66d9ace3cb216994d0cece7"
+    },
+    {
+      "name": "Totally Rad (World) (Evercade)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "5ae9b4a2",
+      "md5": "4e3e94e2f6873345b4dd5f7e6d51a05d",
+      "sha1": "a543ebe88c3d339885584c86f09eb057c5b204f9",
+      "sha256": "07317c4e4d307814912024becd1a436f468d862829bde57ea9b25117926d13d3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Totally%20Rad%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Totally%20Rad%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Totally%20Rad%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Totally%20Rad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Totally%20Rad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Totally%20Rad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

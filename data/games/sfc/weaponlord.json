@@ -54,5 +54,74 @@
     "wikidata": "Q3566952",
     "mobygames": 10036,
     "igdb": 38403
-  }
+  },
+  "roms": [
+    {
+      "name": "WeaponLord (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 3145728,
+      "crc32": "019c4b02",
+      "md5": "8bbf9641d30c13012cf747e91c2565ab",
+      "sha1": "8d44045c1c713fed49dc44889949a0629d3d37c6",
+      "sha256": "847c9189580fc92e785c8124cbde4f1d72be75e1941b35021f6b159e0470c1b0"
+    },
+    {
+      "name": "WeaponLord (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 3145728,
+      "crc32": "0e7e7102",
+      "md5": "71213da150ae5e01641dc4035565c6f2",
+      "sha1": "47e4e75a914021839dcd29b2709dc91978932a8c",
+      "sha256": "0b1ba31ae95b61d7d9a0f5509b5836fff84f60915802e3b3ba1170a5c50a4b71"
+    },
+    {
+      "name": "WeaponLord (World) (Evercade)",
+      "source": "no_intro",
+      "size": 4194304,
+      "crc32": "59766a7d",
+      "md5": "e19d75b6d9e56f09c58774d022c20292",
+      "sha1": "fa69d09d3493937a443fc46f3f84c47c0ede9585",
+      "sha256": "38622eaae79b69b29502219456ab97e9705b5dc44eb13a088efc61039d3b2e67"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/WeaponLord%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/WeaponLord%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/WeaponLord%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/WeaponLord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/WeaponLord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/WeaponLord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

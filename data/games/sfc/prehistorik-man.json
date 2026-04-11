@@ -63,5 +63,84 @@
     "wikidata": "Q10353565",
     "mobygames": 37880,
     "igdb": 49030
-  }
+  },
+  "roms": [
+    {
+      "name": "Prehistorik Man (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "b0e4e48a",
+      "md5": "90c3bfef7e6d3c54b23521250d514c69",
+      "sha1": "77c96255ce51ad8abbef06909a6464656329c76f",
+      "sha256": "24affea0883b0556ce760b94a1cda54dc55fd088b8696ce29e2b60f390b0b0eb"
+    },
+    {
+      "name": "Prehistorik Man (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "cb4f87bb",
+      "md5": "fbe14d670f28fa5c67c00dc551204838",
+      "sha1": "8304fc1170507fc1814b2095fb6c2e42887ce5fd",
+      "sha256": "8f387d083de1399bb79e5312c31a6f1757f2a536bfa25cecf1aea77bfd77058b"
+    },
+    {
+      "name": "Prehistorik Man (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "6c0174a3",
+      "md5": "d7236afcd606c88ad93914078958605b",
+      "sha1": "cb3aba215747d83f32cf0031dd78aa6735f7335d",
+      "sha256": "5b7ccf759626474a4a5de3f966725393b43b402d2fd2cf762e532513f146b091"
+    },
+    {
+      "name": "Prehistorik Man (World) (Unl)",
+      "source": "no_intro",
+      "size": 1572864,
+      "crc32": "43b270b8",
+      "md5": "949b52462a7abda1110a72ad327b6f34",
+      "sha1": "d95f133812bc6f7d27afbbe41aa664b3c25d3e96",
+      "sha256": "070dab1067506a3990f6c605970be3f24d845a53ad866d6699502cb6183fcb78"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Prehistorik%20Man%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Prehistorik%20Man%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Prehistorik%20Man%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Prehistorik%20Man%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Prehistorik%20Man%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Prehistorik%20Man%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

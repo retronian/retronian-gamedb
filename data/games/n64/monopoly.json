@@ -27,5 +27,37 @@
     "wikidata": "Q28452238",
     "mobygames": 12338,
     "igdb": 176024
-  }
+  },
+  "roms": [
+    {
+      "name": "Monopoly (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NMOE",
+      "size": 8388608,
+      "crc32": "c8cad8f6",
+      "md5": "d51506edb0a941a00eb45850703b32cb",
+      "sha1": "fd724bdc323aa81d4873768acf789529cc1c08e5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Monopoly%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Monopoly%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Monopoly%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

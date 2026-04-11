@@ -70,5 +70,90 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Alfred Chicken (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "2e19f638",
+      "md5": "5f09960bc839e94957f44ebebb70e920",
+      "sha1": "a9aa7cf61ffa42a4097f0c900ad4463d6fd89a19"
+    },
+    {
+      "name": "Alfred Chicken (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "3cab28d9",
+      "md5": "b83f3c669d22bc74c72743821ae3aaa3",
+      "sha1": "bc7327008de518ddfad0ad5c69896921dc2378e0",
+      "sha256": "fc0b036ab76386f23c67055e7a56a5c5b96453958df057ab06755ba0798ef72d"
+    },
+    {
+      "name": "Alfred Chicken (Japan) (En) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "1089098f",
+      "md5": "a95e6579f8d6048c5e150c41d180c782",
+      "sha1": "e04ddf4df8b5ef70d85e0523d277abfc68c61496",
+      "sha256": "7728277ddc0048755d6a9f5ee09e16e92060a93dbb3bdb26a4133264811527b3"
+    },
+    {
+      "name": "Alfred Chicken (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "3b9c3bc6",
+      "md5": "cac921f8eec70d5ccd8a2db8f473a084",
+      "sha1": "80c39d93ca58d0d6144fe7f7bdd47c3a4fcf0438",
+      "sha256": "944df9d20c715099ef6bf0e418d928684b284d4a4562391a661a7978fa7f5417"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Alfred%20Chicken%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Alfred%20Chicken%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Alfred%20Chicken%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Alfred%20Chicken%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Alfred%20Chicken%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Alfred%20Chicken%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Alfred%20Chicken%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

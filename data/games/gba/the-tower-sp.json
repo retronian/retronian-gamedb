@@ -18,5 +18,65 @@
     "wikidata": "Q7769738",
     "mobygames": 43242,
     "igdb": 6639
-  }
+  },
+  "roms": [
+    {
+      "name": "Tower SP, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BTRE",
+      "size": 8388608,
+      "crc32": "95e05895",
+      "md5": "8e825b6048a72649a9b672858bfc388c",
+      "sha1": "5e338f55b4d2604f381165cc693e4d774c82aedb"
+    },
+    {
+      "name": "Tower SP, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BTRJ",
+      "size": 8388608,
+      "crc32": "ec325c92",
+      "md5": "a5b5b2b18363d37560f48a2fff83f471",
+      "sha1": "287286f6fb0e405fcf57b35eef99139445b663c6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tower%20SP%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tower%20SP%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tower%20SP%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tower%20SP%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tower%20SP%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tower%20SP%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

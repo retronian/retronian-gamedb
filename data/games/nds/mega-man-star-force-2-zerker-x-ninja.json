@@ -17,5 +17,65 @@
     "wikidata": "Q48929895",
     "mobygames": 35092,
     "igdb": 1785
-  }
+  },
+  "roms": [
+    {
+      "name": "Mega Man Star Force 2 - Zerker x Ninja (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YRVE",
+      "size": 33554432,
+      "crc32": "47aa32d1",
+      "md5": "e38d80598aedfbbd7e292daeb513afae",
+      "sha1": "97c7fbaeb9c22b9b588869c6a7518c7940e17ab8"
+    },
+    {
+      "name": "Mega Man Star Force 2 - Zerker x Ninja (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YRVP",
+      "size": 33554432,
+      "crc32": "77aeaad8",
+      "md5": "5bda9b99448b30fbb6b3cf51ee759a2f",
+      "sha1": "abe385475b161e8bdf05f88095a379f7e40f1a14"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20Star%20Force%202%20-%20Zerker%20x%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mega%20Man%20Star%20Force%202%20-%20Zerker%20x%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20Star%20Force%202%20-%20Zerker%20x%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20Star%20Force%202%20-%20Zerker%20x%20Ninja%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mega%20Man%20Star%20Force%202%20-%20Zerker%20x%20Ninja%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20Star%20Force%202%20-%20Zerker%20x%20Ninja%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

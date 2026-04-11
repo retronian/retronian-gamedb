@@ -54,5 +54,75 @@
     "wikidata": "Q2583040",
     "mobygames": 5143,
     "igdb": 3446
-  }
+  },
+  "roms": [
+    {
+      "name": "Bomberman (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "5f6f3c2a",
+      "md5": "22945308eb41396f39c00444be9f251f",
+      "sha1": "dc63680e579764bbacb7f07514f4f49ab888d3b1",
+      "sha256": "b9f98ce3d8b8baf1c6d02c2c0af72f8c0c554e533f13deb8f389853fe33bbf9e"
+    },
+    {
+      "name": "Bomberman (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "9abb4d1f",
+      "md5": "4bece0e426eec02f894399219f1951cf",
+      "sha1": "738bbced47d87cd438d7972eba58c08f5c031a74",
+      "sha256": "43898012a25d837a94ea988e254edfbaa77a82465575d7a52c5ba1dba920362d"
+    },
+    {
+      "name": "Bomberman (USA) (Bomberman Collection)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "3d1f8ece",
+      "md5": "ee98dbf64d0e9e1d30b781dc84e6c485",
+      "sha1": "98ad40e638ab27bcb8ec19b2189ce505f63f2749",
+      "sha256": "9658f2dd249cdcc676824fcf11da96f1392e30711b74f066c0f11cbc13e77b95"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Bomberman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Bomberman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Bomberman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Bomberman%20%28USA%29%20%28Bomberman%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Bomberman%20%28USA%29%20%28Bomberman%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Bomberman%20%28USA%29%20%28Bomberman%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

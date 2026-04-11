@@ -96,5 +96,92 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Pokemon de Panepon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "6bf7e4a6",
+      "md5": "510eb8c9df5d3f71e01f5a7898a0a1f1",
+      "sha1": "110ae6649b4264f88d82760ad6ae4ee7f07db9b2"
+    },
+    {
+      "name": "Pokemon Puzzle Challenge (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "8206b1ce",
+      "md5": "c7a879befd45bbc5cdab7413d86fff76",
+      "sha1": "e40d6a7f78b449e5a55baaaea7e227ab19d510e4"
+    },
+    {
+      "name": "Pokemon Puzzle Challenge (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPNE",
+      "size": 2097152,
+      "crc32": "d06bba96",
+      "md5": "f9ec4cc3c9df3887dc731ccf53663ffb",
+      "sha1": "bbf952412250ae511b3b862566e424ce6a672f99",
+      "sha256": "42e6bf3b26f186f1ddf23d2ab0e78dea423c55562119f1988ffab906e8f86fe6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pokemon%20de%20Panepon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pokemon%20de%20Panepon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pokemon%20de%20Panepon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pokemon%20Puzzle%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pokemon%20Puzzle%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pokemon%20Puzzle%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pokemon%20Puzzle%20Challenge%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pokemon%20Puzzle%20Challenge%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pokemon%20Puzzle%20Challenge%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

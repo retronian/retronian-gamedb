@@ -72,5 +72,65 @@
     "wikidata": "Q204105",
     "mobygames": 139,
     "igdb": 218860
-  }
+  },
+  "roms": [
+    {
+      "name": "Dig Dug (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "0af905c0",
+      "md5": "c4801ac17a34635fdce973354e85faef",
+      "sha1": "9e008ee24c627309b22bf42ec5a3e08af0af8efe",
+      "sha256": "8155a5e721685940d834bb19288aef4950d5b1e488e1318ebda7b16b528e5b68"
+    },
+    {
+      "name": "Dig Dug (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "6c742478",
+      "md5": "9719eaada417782a236a9d84805a512a",
+      "sha1": "951753904389332412d4b0a80b48d7ac61a494fc",
+      "sha256": "2d8fb80ece07198260fb47b6a2e8d0097e2d6ca27fb21bc3c439f90d7880317d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dig%20Dug%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dig%20Dug%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dig%20Dug%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dig%20Dug%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dig%20Dug%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dig%20Dug%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

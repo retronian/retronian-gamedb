@@ -45,5 +45,49 @@
     "wikidata": "Q2332380",
     "mobygames": 15596,
     "igdb": 19494
-  }
+  },
+  "roms": [
+    {
+      "name": "F-22 Interceptor (USA) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50276-00",
+      "size": 786432,
+      "crc32": "bd468c42",
+      "md5": "a8b52e44cd74ae947eede94b85b87d07",
+      "sha1": "a43c6a8c54a6f7be55028a68fb0c9047270b1a18",
+      "sha256": "2122641073ee3915a7e04da1bd85d00760a2e527d4be2cdfe192b86b40b0ab61"
+    },
+    {
+      "name": "F-22 Interceptor (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50276-00",
+      "size": 786432,
+      "crc32": "d6a880a4",
+      "md5": "b93408e73d5331078b93ab773420b7d8",
+      "sha1": "f104e6fab831fb482b0426bae98f04a65a05f392",
+      "sha256": "d2e40a7eed7f8e255fe9cdf5711d3b1db3d380a8dacc9b23a20aa8edaeaa8a7f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/F-22%20Interceptor%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/F-22%20Interceptor%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/F-22%20Interceptor%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

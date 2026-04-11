@@ -45,5 +45,66 @@
     "wikidata": "Q3280267",
     "mobygames": 28890,
     "igdb": 3567
-  }
+  },
+  "roms": [
+    {
+      "name": "Off Road Challenge (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NOFP",
+      "size": 16777216,
+      "crc32": "d9fe9ee7",
+      "md5": "e96fecba52905db14addad7cfd61091f",
+      "sha1": "3476e0eb4048c76107bd2b404d19a136bfc15ad9",
+      "sha256": "fa8bcf7ca006714b7cd7fa7d91f10e3abadce17ac187c5e8d64699fd7ac9cbe3"
+    },
+    {
+      "name": "Off Road Challenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NOFE",
+      "size": 16777216,
+      "crc32": "1a45c5ab",
+      "md5": "af7083fc0abcfd5a2c6a5e971453d831",
+      "sha1": "9e754ca37d69424e9f82a421d5e69d4ad73046c1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Off%20Road%20Challenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Off%20Road%20Challenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Off%20Road%20Challenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Off%20Road%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Off%20Road%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Off%20Road%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

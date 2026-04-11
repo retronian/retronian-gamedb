@@ -27,5 +27,67 @@
     "wikidata": "Q3392932",
     "mobygames": 6657,
     "igdb": 24979
-  }
+  },
+  "roms": [
+    {
+      "name": "Pocahontas (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-239036-00",
+      "size": 4194304,
+      "crc32": "165e7987",
+      "md5": "3a8c3dacdbb7462397cde4013ae29bc8",
+      "sha1": "5ffcdc3e01151837e707ae225a3a845a8b6d3394",
+      "sha256": "7370a7ea7735add38db7aee6a8cfe401d8327a12f0bb51e22c0e4fcf02cbeeef"
+    },
+    {
+      "name": "Pocahontas (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-239036-00",
+      "size": 4194304,
+      "crc32": "6ddd1c6d",
+      "md5": "04d546c82591ce29d7135c0e0fc5fdd2",
+      "sha1": "b57ae70f1d735c8052991053297a0c878f8a9417",
+      "sha256": "abc41905b5c46e9e9a2440b2b23ffcbdf3fcf8da98c1afe159bf28f9e0721587"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pocahontas%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pocahontas%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pocahontas%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pocahontas%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pocahontas%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pocahontas%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

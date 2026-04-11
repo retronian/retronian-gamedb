@@ -53,5 +53,49 @@
     "wikidata": "Q10349861",
     "mobygames": 18330,
     "igdb": 8106
-  }
+  },
+  "roms": [
+    {
+      "name": "Pink Goes to Hollywood (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-101046-00",
+      "size": 1048576,
+      "crc32": "b5804771",
+      "md5": "d05bb061ee9f5880bbbe330843bb4079",
+      "sha1": "fc63d2a2a723f60f2141bc50bd94acef74ba9ab3",
+      "sha256": "3247e273c32dbb647cd5d47778361b3867fd7bacf01c0fa4ecf5858364752d60"
+    },
+    {
+      "name": "Pink Goes to Hollywood (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "?-??????-00",
+      "size": 1048576,
+      "crc32": "56087cff",
+      "md5": "be4a64e914cd345268b005e7c11d378c",
+      "sha1": "5f2631b1850875129efd98d501f6419eb12b9817",
+      "sha256": "6ce8f93ea26c254d58763320b9211345b8569613f7bf605921942def0b3d036e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pink%20Goes%20to%20Hollywood%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pink%20Goes%20to%20Hollywood%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pink%20Goes%20to%20Hollywood%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -55,6 +55,15 @@
       "form": "official",
       "source": "romu",
       "verified": false
+    },
+    {
+      "text": "Digital Devil Monogatari - Megami Tensei II",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1990-04-06",
@@ -62,5 +71,72 @@
     "wikidata": "Q521272",
     "mobygames": 10885,
     "igdb": 48656
-  }
+  },
+  "descriptions": [
+    {
+      "text": "女神転生の続編。より深化した悪魔合体システムとダークな世界観。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Digital Devil Story - Megami Tensei II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "dff60213",
+      "md5": "1bc9c10e96a3f102218b077c3ab6dd54",
+      "sha1": "c466f4d78f384d32265b686e3e7ec5ba8c2df100",
+      "sha256": "fdbe04275a6e34a05a39d75d32041faf4d9cc4e6203916533a4a33ab9b248da8"
+    },
+    {
+      "name": "Digital Devil Story - Megami Tensei II (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "59489aa8",
+      "md5": "6c4c978c393c25d339ff92033a3c9574",
+      "sha1": "ee3bf7b6eff07316df1b4c7ee0fcb2c4989961c1",
+      "sha256": "0df2aa1e2434e4ba4ea68e0b051ff1873255eba7bc03196fb575e4658e2b2f81"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Digital%20Devil%20Story%20-%20Megami%20Tensei%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Digital%20Devil%20Story%20-%20Megami%20Tensei%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Digital%20Devil%20Story%20-%20Megami%20Tensei%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Digital%20Devil%20Story%20-%20Megami%20Tensei%20II%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Digital%20Devil%20Story%20-%20Megami%20Tensei%20II%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Digital%20Devil%20Story%20-%20Megami%20Tensei%20II%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

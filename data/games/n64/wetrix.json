@@ -27,5 +27,96 @@
     "wikidata": "Q3567573",
     "mobygames": 3164,
     "igdb": 3637
-  }
+  },
+  "roms": [
+    {
+      "name": "Wetrix (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NWTP",
+      "size": 8388608,
+      "crc32": "eddc5b06",
+      "md5": "a99e2cb6acef7a004961de5f6dfeeff0",
+      "sha1": "4cc1b6e3aa150cd79093f21e3fbe91a72fb86ad6",
+      "sha256": "17d5917ec3235e9e8aff54201d78bd01aa36377f81ac133ed0248d8ab1c61de5"
+    },
+    {
+      "name": "Wetrix (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NWTJ",
+      "size": 4194304,
+      "crc32": "bad08218",
+      "md5": "e8997bf5662540b184fbf8277d260984",
+      "sha1": "1b1635546cb973ebaa0a4a0940a363ec2c074053",
+      "sha256": "799b8544502af901572ca54e210c082280f57695b538ed6c3a87cccefe840522"
+    },
+    {
+      "name": "Wetrix (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NWTE",
+      "size": 8388608,
+      "crc32": "50cd1f71",
+      "md5": "6e81d3056e409208e4af2d39a2ff0f03",
+      "sha1": "6e40312cf88a9182e93b396b9d82457b1aba7cd6",
+      "sha256": "790f36a3ddd64e4dcd08c479b0b66f9080d0191473e92fa895f53d15706167bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Wetrix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Wetrix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Wetrix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Wetrix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Wetrix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Wetrix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Wetrix%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Wetrix%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Wetrix%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,65 @@
     "wikidata": "Q59436295",
     "mobygames": 36733,
     "igdb": 212667
-  }
+  },
+  "roms": [
+    {
+      "name": "Igor - The Game (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CI5E",
+      "size": 16777216,
+      "crc32": "eed47dc0",
+      "md5": "a250c5c638d2e52086e40683d11017b9",
+      "sha1": "745648da1d62fcad9d5c868d1e3f7604f69e67aa"
+    },
+    {
+      "name": "Igor - The Game (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CI5P",
+      "size": 16777216,
+      "crc32": "de31b021",
+      "md5": "5f455efca2ec6dacb6cbdecbaddb3ef4",
+      "sha1": "1e1fc05d223bf43dce1c02c1d4bf0ba52cc9f5bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Igor%20-%20The%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Igor%20-%20The%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Igor%20-%20The%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Igor%20-%20The%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Igor%20-%20The%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Igor%20-%20The%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

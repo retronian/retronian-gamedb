@@ -81,5 +81,59 @@
     "wikidata": "Q665733",
     "mobygames": 51968,
     "igdb": 166361
-  }
+  },
+  "roms": [
+    {
+      "name": "Harry Potter and the Deathly Hallows - Part 1 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B7HP",
+      "size": 67108864,
+      "crc32": "54dd4a84",
+      "md5": "1c548bfc4f853f7cb020d2f99a894c72",
+      "sha1": "9fe896b961c4587c897c926649be3b69865af0d3"
+    },
+    {
+      "name": "Harry Potter and the Deathly Hallows - Part 1 (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B7HE",
+      "size": 67108864,
+      "crc32": "a14c1499",
+      "md5": "49a3c93d35e07bf4643292468aae8e82",
+      "sha1": "22a13474329e7d7348ce3e701ccce35dc90f7525"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harry%20Potter%20and%20the%20Deathly%20Hallows%20-%20Part%201%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harry%20Potter%20and%20the%20Deathly%20Hallows%20-%20Part%201%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harry%20Potter%20and%20the%20Deathly%20Hallows%20-%20Part%201%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Harry%20Potter%20and%20the%20Deathly%20Hallows%20-%20Part%201%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harry%20Potter%20and%20the%20Deathly%20Hallows%20-%20Part%201%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

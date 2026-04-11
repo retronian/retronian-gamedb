@@ -18,5 +18,75 @@
     "wikidata": "Q2038683",
     "mobygames": 8894,
     "igdb": 1808
-  }
+  },
+  "roms": [
+    {
+      "name": "Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A3CP",
+      "size": 8388608,
+      "crc32": "4aebd704",
+      "md5": "603470cb171bc53491b0a8643f1302ef",
+      "sha1": "6c63ac0e57a0125a73248b75f29c58892d17750e"
+    },
+    {
+      "name": "Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 8388608,
+      "crc32": "fe0d0b86",
+      "md5": "77b95f886779b5c82c726679c498ce09",
+      "sha1": "f00a8ea228f2a569528cebc810a6f54c8db2491c",
+      "sha256": "2ebdf63e788c4ba6f5f6ac68add25b3d89977966158d35d8e6553a4d355bc8cb"
+    },
+    {
+      "name": "Crazy Taxi - Catch a Ride (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A3CE",
+      "size": 8388608,
+      "crc32": "8ec709d6",
+      "md5": "8bcf4e0da6be539f2099c683ff897b43",
+      "sha1": "d41f8528e5d010637ece3a50f22c3c809e49b578"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crazy%20Taxi%20-%20Catch%20a%20Ride%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crazy%20Taxi%20-%20Catch%20a%20Ride%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crazy%20Taxi%20-%20Catch%20a%20Ride%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crazy%20Taxi%20-%20Catch%20a%20Ride%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crazy%20Taxi%20-%20Catch%20a%20Ride%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crazy%20Taxi%20-%20Catch%20a%20Ride%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

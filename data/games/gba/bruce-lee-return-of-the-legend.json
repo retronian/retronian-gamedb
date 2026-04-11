@@ -27,5 +27,65 @@
     "wikidata": "Q4977851",
     "mobygames": 10733,
     "igdb": 6339
-  }
+  },
+  "roms": [
+    {
+      "name": "Bruce Lee - Return of the Legend (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ALEE",
+      "size": 8388608,
+      "crc32": "b2a45a4c",
+      "md5": "73d90562373b2b0882354986aabdd61f",
+      "sha1": "ebf28bfbf6932e386c261b28555294f183a08435"
+    },
+    {
+      "name": "Bruce Lee - Return of the Legend (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ALEP",
+      "size": 8388608,
+      "crc32": "b5ff39dc",
+      "md5": "bd34635cf119a77c121bbf005b3ddfbe",
+      "sha1": "fc1c50a12b76efaeae0bb66c37d0d6cad4998d3c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bruce%20Lee%20-%20Return%20of%20the%20Legend%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bruce%20Lee%20-%20Return%20of%20the%20Legend%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bruce%20Lee%20-%20Return%20of%20the%20Legend%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bruce%20Lee%20-%20Return%20of%20the%20Legend%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bruce%20Lee%20-%20Return%20of%20the%20Legend%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bruce%20Lee%20-%20Return%20of%20the%20Legend%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

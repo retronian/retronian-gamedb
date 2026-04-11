@@ -54,5 +54,65 @@
     "wikidata": "Q7573503",
     "mobygames": 23482,
     "igdb": 49017
-  }
+  },
+  "roms": [
+    {
+      "name": "Spanky's Quest (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "e9ef8136",
+      "md5": "9b66b6cfa9bdb791709b3a30722c7dff",
+      "sha1": "7708270675979f25453e680bc8a6d45b5929afa8",
+      "sha256": "f9b35b1f8925350486865fb06c57751bf7a133cbecd998ce940221d27562abe6"
+    },
+    {
+      "name": "Spanky's Quest (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "6ee7ca79",
+      "md5": "3c268409bf6869a8707839a7dd1ee1c7",
+      "sha1": "8f448eab7e6a05266d62f3564a00813f79314736",
+      "sha256": "6ffe31b21d429801b8e5a460e58bd857e41aef888d19297fc558cf25def0d10d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Spanky%27s%20Quest%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Spanky%27s%20Quest%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Spanky%27s%20Quest%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Spanky%27s%20Quest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Spanky%27s%20Quest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Spanky%27s%20Quest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

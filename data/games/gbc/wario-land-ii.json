@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Wario Land II",
@@ -65,6 +65,15 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Wario Land 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1998-03-02",
@@ -72,5 +81,73 @@
     "wikidata": "Q1635462",
     "mobygames": 5228,
     "igdb": 204786
-  }
+  },
+  "descriptions": [
+    {
+      "text": "「ワリオランド2 盗まれた財宝」では、ワリオが「ワリオランド：スーパーマリオランド3」で彼らの財宝を盗んだことに対する復讐を求めて、キッチンアイランドのブラックシュガーギャングの特別エージェントたちがワリオの新しく建てた城に忍び込み、財宝を奪い返し、城とその周辺をめちゃくちゃにします。ワリオとして、あなたはその場所を片付け、自分のものと呼ぶべき財宝を取り戻さなければなりません。\n\nオリジナルのワリオランドからの変更点として、ワリオは今や一定の範囲で不死です。敵に当たったときに死ぬのではなく、ワリオは各レベルで集めたコインを失います。また、他のワリオに変身することもできます。例えば、蜂に当たると、ワリオは巨大な空気の玉に膨らみ、レベルの上部まで浮かび上がります。鋭い物体に当たるまで、彼は元の姿に戻ることはありません。他にも、ファイアワリオやゾンビワリオなどのタイプがあり、それぞれが他の到達不可能なエリアに行ける利点や、進行を妨げることもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AW2J",
+      "size": 2097152,
+      "crc32": "b30fdbf5",
+      "md5": "a5be435543968412caac1fe7c914472e",
+      "sha1": "cd6266e48df816219fb38d223b0ec6760259616d",
+      "sha256": "521dc62bcb424dc984691659317773740f8cdc1b5649101e1e875c17926e13fc"
+    },
+    {
+      "name": "Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "047bdf80",
+      "md5": "b7598a51e0acc0d74ca8f464826371ed",
+      "sha1": "ae37915058035df4ceedd72d709f91efb4878eff",
+      "sha256": "40f366ccd5bd6a9643dc317db63a286f9104f164f9fc46ff037e548d5e83ed52"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Wario%20Land%202%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Wario%20Land%202%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Wario%20Land%202%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Wario%20Land%20II%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Wario%20Land%20II%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Wario%20Land%20II%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

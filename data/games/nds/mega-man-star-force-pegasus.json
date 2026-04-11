@@ -26,5 +26,65 @@
     "wikidata": "Q88180316",
     "mobygames": 29932,
     "igdb": 1781
-  }
+  },
+  "roms": [
+    {
+      "name": "Mega Man Star Force - Pegasus (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A6AE",
+      "size": 33554432,
+      "crc32": "259e37a9",
+      "md5": "90003490f16b99c4d0b761b15115492f",
+      "sha1": "bea921ccb5f1c7ac3bd1fe4e2b2646dce4629bce"
+    },
+    {
+      "name": "Mega Man Star Force - Pegasus (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A6AP",
+      "size": 33554432,
+      "crc32": "01ee17c6",
+      "md5": "a7538d675044dacd90f5035737a2b332",
+      "sha1": "b0b4a30a8861b5cd3b6c18b4d2252cb9fd9e1b7d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20Star%20Force%20-%20Pegasus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mega%20Man%20Star%20Force%20-%20Pegasus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20Star%20Force%20-%20Pegasus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20Star%20Force%20-%20Pegasus%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mega%20Man%20Star%20Force%20-%20Pegasus%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20Star%20Force%20-%20Pegasus%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

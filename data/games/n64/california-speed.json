@@ -18,5 +18,67 @@
     "wikidata": "Q2933987",
     "mobygames": 8506,
     "igdb": 3335
-  }
+  },
+  "roms": [
+    {
+      "name": "California Speed (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NCLE",
+      "size": 16777216,
+      "crc32": "6f6262cb",
+      "md5": "965ad2fa317f0644e49a89a3219719cb",
+      "sha1": "bd4c070a71ef58499587cb811fb7490b88dd7c0b",
+      "sha256": "32d083c6570a92614f7ed8221b136ca45eb3d06ca98d8a8342e0a366563ba791"
+    },
+    {
+      "name": "California Speed (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NCLP",
+      "size": 16777216,
+      "crc32": "d913b95f",
+      "md5": "29b79bf5812e5f9e5ecef073d59f8915",
+      "sha1": "b0ca8a5c8cbf2d18a91ac1b9df82907613bef479",
+      "sha256": "42461fe5caba754c5a669220cb8352a4907a32c0e1f93accdd1a23e2e44892ec"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/California%20Speed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/California%20Speed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/California%20Speed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/California%20Speed%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/California%20Speed%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/California%20Speed%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

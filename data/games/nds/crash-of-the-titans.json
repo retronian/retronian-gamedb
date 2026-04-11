@@ -17,5 +17,66 @@
     "wikidata": "Q113578463",
     "mobygames": 30937,
     "igdb": 197928
-  }
+  },
+  "roms": [
+    {
+      "name": "Crash of the Titans (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQJE",
+      "size": 134217728,
+      "crc32": "ed0b8be6",
+      "md5": "515a9f6d9d59e0ae25b9d2785a629e32",
+      "sha1": "a1c3346a531b1befbede4c5bb9a4eb390cca0447"
+    },
+    {
+      "name": "Crash of the Titans (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQJP",
+      "size": 134217728,
+      "crc32": "ff19049b",
+      "md5": "7dc87abae8d092aa177e623beb353014",
+      "sha1": "ec76728f8d4a260801d31a4a81ca7e612753e9d2",
+      "sha256": "8a35c8dec15038476f7d53e75f5dd62dd8f845a252cdb5e07f287600e8782657"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Crash%20of%20the%20Titans%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Crash%20of%20the%20Titans%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Crash%20of%20the%20Titans%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Crash%20of%20the%20Titans%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Crash%20of%20the%20Titans%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Crash%20of%20the%20Titans%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

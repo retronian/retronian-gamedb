@@ -54,5 +54,49 @@
     "wikidata": "Q2660069",
     "mobygames": 6670,
     "igdb": 3194
-  }
+  },
+  "roms": [
+    {
+      "name": "Sword of Vermilion (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00005502-00",
+      "size": 655360,
+      "crc32": "ea1bc9ab",
+      "md5": "a742836dc29ee51cf6d985191820ae4e",
+      "sha1": "c18fc75e0c5fa0e98c8664903e978ec4f73ef5d2",
+      "sha256": "bcf1698a01a7e481240a4b01b3e68e31b133d289d9aaea7181e72a4057845eb4"
+    },
+    {
+      "name": "Sword of Vermilion (USA, Europe) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00005502-00",
+      "size": 786432,
+      "crc32": "f38c50bf",
+      "md5": "a8cf66d11fe76da86181d7e8f7f9c759",
+      "sha1": "532d8cb6c969380daef77c6e2ba389716dbbd246",
+      "sha256": "abb3ebd51c370d3543f2cad027e0cd074c61eb93d9897d394e840f6c1523649c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sword%20of%20Vermilion%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sword%20of%20Vermilion%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sword%20of%20Vermilion%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

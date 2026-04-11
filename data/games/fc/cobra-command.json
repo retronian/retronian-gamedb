@@ -45,5 +45,65 @@
     "wikidata": "Q2981165",
     "mobygames": 16644,
     "igdb": 290272
-  }
+  },
+  "roms": [
+    {
+      "name": "Cobra Command (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "d8235b4c",
+      "md5": "625e1eb431fe6c3ff0fe67f4801776c5",
+      "sha1": "bca75f6850c58538284ef2423ca65166239b87e6",
+      "sha256": "a15540d97e471519cbed8db3087280559a698a3bbb0ba627e5058f0c5f9e94f8"
+    },
+    {
+      "name": "Cobra Command (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "d1ec0c2f",
+      "md5": "91df969334dc407a84e80cbcb04d73fe",
+      "sha1": "5975f04d8dce0455e458c0e9317e00a4a3e6d692",
+      "sha256": "968a5c389ef142ee3862a892112f72eb79d6048c5216be3188c2e93399784956"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Cobra%20Command%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Cobra%20Command%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Cobra%20Command%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Cobra%20Command%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Cobra%20Command%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Cobra%20Command%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

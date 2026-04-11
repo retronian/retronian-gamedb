@@ -45,5 +45,49 @@
     "wikidata": "Q2947736",
     "mobygames": 8052,
     "igdb": 18091
-  }
+  },
+  "roms": [
+    {
+      "name": "Chakan (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1047-00",
+      "size": 1048576,
+      "crc32": "046a48de",
+      "md5": "8844a97b65994de94cf398cf4a3217c3",
+      "sha1": "7eae088f0b15e4bcd9a6a38849df5a20446be548",
+      "sha256": "c4fb268b911c4226d6c7e2ec7bfbe6669b691a14c0ba006c294cad79571f02be"
+    },
+    {
+      "name": "Chakan (USA, Europe) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1047-00",
+      "size": 1048576,
+      "crc32": "77b7e85f",
+      "md5": "872395592368d210ae55c7fd5d7077f7",
+      "sha1": "c4fd030560c627908a75acef2de5b908cb9255d6",
+      "sha256": "3a73393238fcc71a0cd1085185c0f0642e493cf8702b5bfb17fe731baa6266f9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Chakan%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Chakan%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Chakan%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

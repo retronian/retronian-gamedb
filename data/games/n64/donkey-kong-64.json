@@ -88,5 +88,134 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Donkey Kong 64 (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NDOP",
+      "size": 33554432,
+      "crc32": "a28c71c6",
+      "md5": "118e9ce360b97a6f8dab2c9f30660bf5",
+      "sha1": "f96af883845308106600d84e0618c1a066dc6676",
+      "sha256": "f704ddc06dda5bee065dd89adcf86aa58bd817684e190094cd0776c0cabba9df"
+    },
+    {
+      "name": "Donkey Kong 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NDOJ",
+      "size": 33554432,
+      "crc32": "919f7e74",
+      "md5": "5b677f4bf93d6578252fcad2c8ceb637",
+      "sha1": "f0ad2b2bbf04d574ed7afbb1bb6a4f0511dcd87d",
+      "sha256": "8a6a5b48b0a4d5d31fa59608e65bafe787b8664fbc9dbaecbcce16e41e8934cd"
+    },
+    {
+      "name": "Donkey Kong 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NDOE",
+      "size": 33554432,
+      "crc32": "d44b4fc6",
+      "md5": "9ec41abf2519fc386cadd0731f6e868c",
+      "sha1": "cf806ff2603640a748fca5026ded28802f1f4a50",
+      "sha256": "b6347d9f1f75d38a88d829b4f80b1acf0d93344170a5fbe9546c484dae416ce3"
+    },
+    {
+      "name": "Donkey Kong 64 (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NDPE",
+      "size": 33554432,
+      "crc32": "c83dfa15",
+      "md5": "98a5836e3a5da7bd0b5819e7498acea2",
+      "sha1": "b4717e602f07ca9be0d4822813c658cd8b99f993",
+      "sha256": "c07b247b60272e17f5f0fe4971b971ea9b492b5f107e92eb65810cf4a6d6ff14"
+    },
+    {
+      "name": "Donkey Kong 64 (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 33554432,
+      "crc32": "acba2248",
+      "md5": "aac2d7fca4080078ec8a3a067285e142",
+      "sha1": "f39476827ccf7f03707de5d79949559a4dac390b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Donkey%20Kong%2064%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Donkey%20Kong%2064%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Donkey%20Kong%2064%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Donkey%20Kong%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Donkey%20Kong%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Donkey%20Kong%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Donkey%20Kong%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Donkey%20Kong%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Donkey%20Kong%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Donkey%20Kong%2064%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Donkey%20Kong%2064%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Donkey%20Kong%2064%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

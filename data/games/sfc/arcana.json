@@ -104,5 +104,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Arcana (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "c891b297",
+      "md5": "cefe028852135a1695ed9f6e692bc0ca",
+      "sha1": "35d04611f815672d02104e174624f9610994b0b5",
+      "sha256": "aac9d6f2b8408e4bbdc83ebbba755428caf8021fefbfac7220fb4c772abd9944"
+    },
+    {
+      "name": "Card Master - Rimusaria no Fuuin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "9e772b8f",
+      "md5": "e6b6e30c8d6793b154c0bf4fca0e4aae",
+      "sha1": "02e73e9d7f39fd3e2217e0d693e8a0d40b650d65",
+      "sha256": "ea1ffa602fa9628dbd5bc9eafc859d942ff918811b34c23230ee5788a7a3534f"
+    },
+    {
+      "name": "Arcana (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "9ed6f34d",
+      "md5": "549f0e50baf3f80c374c805cfea313ae",
+      "sha1": "6080a6339f212b8bf9cc63435a85f730c060af7c",
+      "sha256": "965f16bb86e5737dd7cb0f896ffc5743ec614445ebc7abb5b8fed391149d08e9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Arcana%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Arcana%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Arcana%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Card%20Master%20-%20Rimusaria%20no%20Fuuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Card%20Master%20-%20Rimusaria%20no%20Fuuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Card%20Master%20-%20Rimusaria%20no%20Fuuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

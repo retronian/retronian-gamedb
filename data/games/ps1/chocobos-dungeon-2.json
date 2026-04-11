@@ -64,11 +64,80 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "チョコボの不思議なダンジョン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Chocobo's Dungeon",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "초코보의 불가사의 던전",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Chocobo no Fushigi na Dungeon",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "external_ids": {
     "wikidata": "Q17214830",
     "mobygames": 7680,
     "igdb": 22894
-  }
+  },
+  "first_release_date": "1997-12-22",
+  "roms": [
+    {
+      "name": "Chocobo no Fushigi na Dungeon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 349442896,
+      "crc32": "2fb4cd21",
+      "md5": "8a878a11c59d521ea11d37c2a4510cd2",
+      "sha1": "caa9904171d76ac5c1bd785470cd77e301b32c03",
+      "sha256": "836d48d3d71b9db583ba1e8d25f54fba12b30aa2d12779241a2c472529d39207"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Chocobo%20no%20Fushigi%20na%20Dungeon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Chocobo%20no%20Fushigi%20na%20Dungeon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Chocobo%20no%20Fushigi%20na%20Dungeon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

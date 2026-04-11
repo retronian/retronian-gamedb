@@ -63,5 +63,49 @@
     "wikidata": "Q2059628",
     "mobygames": 7163,
     "igdb": 19770
-  }
+  },
+  "roms": [
+    {
+      "name": "Street Racer (Europe) (Sample)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-177016-50",
+      "size": 1048576,
+      "crc32": "a439a96e",
+      "md5": "d240289db4df2ac27dfbc204652218c9",
+      "sha1": "674e3c5185923a98bd8e9ae9bc0409d0c6503432",
+      "sha256": "82038243e0da1ad339a777be2424cb3dd954b5ca053e72d3cf091e66383e746e"
+    },
+    {
+      "name": "Street Racer (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-177016-00",
+      "size": 1048576,
+      "crc32": "1a58d5fe",
+      "md5": "c2967c23e72387743911bb28beb6f144",
+      "sha1": "95aa250ea47d14d60da9f0fed5b1aad1ff2c1862",
+      "sha256": "5f65d3570431f6413c4ace844d340d595012f8c62b321eea4d3f0a2abd071fd6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Street%20Racer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Street%20Racer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Street%20Racer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

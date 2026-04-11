@@ -87,5 +87,48 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Darius II (World) (Ja) (Darius Cozmic Collection)",
+      "source": "no_intro",
+      "serial": "T-11083-00",
+      "size": 1048576,
+      "crc32": "e8e29be2",
+      "md5": "41857d72e4ff8a685ff3a50a5d06f2a5",
+      "sha1": "a636e4e752683c0e615d0a92017398a8091e6f4d",
+      "sha256": "9dca90e5d649efd269d36ab3127ddad452f205e8106c1c53fdbfc240d3406e67"
+    },
+    {
+      "name": "Darius II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-11083-00",
+      "size": 1048576,
+      "crc32": "25dfe62a",
+      "md5": "4ab80160ba6811a48e0482c402941062",
+      "sha1": "93593e4014e13db90fedc1903a402c6f7d885a2f",
+      "sha256": "eb26c444045a79757c9be1705a77b91e80c35d01f4d8eb722b0637d621bc4bb5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Darius%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Darius%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Darius%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

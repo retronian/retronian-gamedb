@@ -27,5 +27,65 @@
     "wikidata": "Q115616421",
     "mobygames": 34396,
     "igdb": 74908
-  }
+  },
+  "roms": [
+    {
+      "name": "Thunderbirds (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "87eb3022",
+      "md5": "f2bc3114b0b319c6e244dc4d57c0edbd",
+      "sha1": "c0253d05858c80c0acc92931b8287c39d3d15824",
+      "sha256": "5a4703dc92f0eb9fa8e22dfdba4aef2547638e34471646284338d6d3b00736f5"
+    },
+    {
+      "name": "Thunderbirds (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "d145e645",
+      "md5": "d291869d4d6ccf2c59e8fae7b5bcda05",
+      "sha1": "155108009fbf581e5dbb115a64dc29a4fa47f87d",
+      "sha256": "35f7b23437340133ead7dbcbf9a9bd3f6d82cf2ff1150e0e63908c453b353bbb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Thunderbirds%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Thunderbirds%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Thunderbirds%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Thunderbirds%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Thunderbirds%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Thunderbirds%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

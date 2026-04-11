@@ -99,5 +99,53 @@
     "wikidata": "Q840776",
     "mobygames": 39532,
     "igdb": 7468
-  }
+  },
+  "roms": [
+    {
+      "name": "Tom Clancy's EndWar (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YTEE",
+      "size": 33554432,
+      "crc32": "816d41b0",
+      "md5": "ad68983c51103a023647ff426e9608bf",
+      "sha1": "606101f4ddcadb59143d9cf2c9e5e629b11ae35f"
+    },
+    {
+      "name": "Tom Clancy's EndWar (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YTEP",
+      "size": 33554432,
+      "crc32": "073e9898",
+      "md5": "5cedbd9b47b32ffe92bcb788f0037e1d",
+      "sha1": "17d8f66c8bb3a4eccbbb8c4ec7abf992d7f93c0c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tom%20Clancy%27s%20EndWar%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tom%20Clancy%27s%20EndWar%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tom%20Clancy%27s%20EndWar%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tom%20Clancy%27s%20EndWar%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

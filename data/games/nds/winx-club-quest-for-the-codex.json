@@ -45,5 +45,53 @@
     "wikidata": "Q974537",
     "mobygames": 42189,
     "igdb": 75353
-  }
+  },
+  "roms": [
+    {
+      "name": "Winx Club - Quest for the Codex (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWXE",
+      "size": 16777216,
+      "crc32": "01a0c72f",
+      "md5": "687c2b6085d0020a8928b928f92b925e",
+      "sha1": "d82ab295d0fd05333841fe0f1f0ade89d5726da3"
+    },
+    {
+      "name": "Winx Club - Quest for the Codex (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWXP",
+      "size": 16777216,
+      "crc32": "f961e5e3",
+      "md5": "42f8a97d7acb7c341b2339c8bfef026a",
+      "sha1": "7cc1803b4ebef61bbb9175835cc6db2bd48896e7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Winx%20Club%20-%20Quest%20for%20the%20Codex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Winx%20Club%20-%20Quest%20for%20the%20Codex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Winx%20Club%20-%20Quest%20for%20the%20Codex%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Winx%20Club%20-%20Quest%20for%20the%20Codex%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

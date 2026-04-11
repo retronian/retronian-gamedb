@@ -54,5 +54,48 @@
     "wikidata": "Q1481597",
     "mobygames": 7461,
     "igdb": 5434
-  }
+  },
+  "roms": [
+    {
+      "name": "Shadow of the Beast (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50266-00",
+      "size": 1048576,
+      "crc32": "bd385c27",
+      "md5": "ba07d4050b453d68cb2bd7e28fc8f74c",
+      "sha1": "2f6f5165d3aa40213c8020149d5e4b29f86dfba8",
+      "sha256": "200c65b982c94831e3d0e16514d3a06fa0dab9e14e339e50ab18f74cb99c952b"
+    },
+    {
+      "name": "Shadow of the Beast (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 1048576,
+      "crc32": "e0bec681",
+      "md5": "738a8fc4604297266e15e2e9111e30d2",
+      "sha1": "4f5ce1558c73df0b10c69fc4447789ecc3cb6b5c",
+      "sha256": "4f06477a1fcdbb671d78714f360face3f50a48ec70643ef80a0bc35d8ddda6ed"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shadow%20of%20the%20Beast%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shadow%20of%20the%20Beast%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shadow%20of%20the%20Beast%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

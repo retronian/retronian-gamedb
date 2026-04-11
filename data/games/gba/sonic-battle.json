@@ -90,5 +90,95 @@
     "wikidata": "Q610923",
     "mobygames": 11744,
     "igdb": 6600
-  }
+  },
+  "roms": [
+    {
+      "name": "Sonic Battle (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BSBJ",
+      "size": 16777216,
+      "crc32": "7305ac30",
+      "md5": "1c694783acdfd013bdd980a4d8f8f546",
+      "sha1": "ec68166a437895953bbbce256ebefaebb77c0156",
+      "sha256": "1c94bf578c6d6c20175174770460dd30474d6d273514330432cf743a8be50dd4"
+    },
+    {
+      "name": "Sonic Battle (USA) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSBE",
+      "size": 16777216,
+      "crc32": "9ec9d86f",
+      "md5": "100579ef01225c620560f88e65ca423a",
+      "sha1": "8cf4fbbe73f6b1907ab9997caab4c4e7d9708937",
+      "sha256": "536c7d7bdb37862c79d048c351b0c61ffe8380c71e1be8b15d537549272b72a9"
+    },
+    {
+      "name": "Sonic Battle (Europe) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSBP",
+      "size": 16777216,
+      "crc32": "d0f65125",
+      "md5": "7194f25da6be4548f7e0c80f73e3f628",
+      "sha1": "29f19b564020bd4667c33827b39adae7ade74679"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sonic%20Battle%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sonic%20Battle%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sonic%20Battle%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sonic%20Battle%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sonic%20Battle%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sonic%20Battle%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sonic%20Battle%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sonic%20Battle%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sonic%20Battle%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

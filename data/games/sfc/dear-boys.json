@@ -33,5 +33,37 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1994-10-28"
+  "first_release_date": "1994-10-28",
+  "roms": [
+    {
+      "name": "Dear Boys (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "9ed82c00",
+      "md5": "0ba067fda3e1bd7cd42534fe86ff2c39",
+      "sha1": "266b152ad4ff8f7b85c415f76d469a779fb32956",
+      "sha256": "9c7b888836818909aeb402cffe4138416d55ea1530ee528ee5b340aac31d094a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dear%20Boys%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dear%20Boys%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dear%20Boys%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

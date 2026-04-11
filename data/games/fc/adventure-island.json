@@ -82,6 +82,51 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Adventure Island 3",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Adventure Island 3",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Adventure Island III",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Adventure Island 3",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Adventure Island III",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1986-09-12",
@@ -89,5 +134,121 @@
     "wikidata": "Q568489",
     "mobygames": 6628,
     "igdb": 8737
-  }
+  },
+  "roms": [
+    {
+      "name": "Adventure Island (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "995b3fff",
+      "md5": "8597bf7567619fc688198447d6956459",
+      "sha1": "ac34732d64566947891cd1ece23216db32a06eae",
+      "sha256": "f4083971fb7341ba6560fdd8ef588bd6e2ad450a8694a563cec099a5d306d42e"
+    },
+    {
+      "name": "Adventure Island 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "04063067",
+      "md5": "708b6d6e89441562975020ebd53c17af",
+      "sha1": "dae249756b7a511ba31bbb6f1a6c9c1f0b96a7c5",
+      "sha256": "4d232816c6f47e99466e8debbb00ccc81e76df8064a3bd59bde662ffffae8472"
+    },
+    {
+      "name": "Adventure Island III (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "71c39b3b",
+      "md5": "0a1fe7bd31c8e4bd8330969730728103",
+      "sha1": "0f1a093de882abbaa909d68e1addc7e22be619c4",
+      "sha256": "e2bb4904e7c6105e680deaa9406caefbbd8478c4e20eb6f18cc1cdb0cb1a0514"
+    },
+    {
+      "name": "Takahashi Meijin no Bouken-jima III (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "d9d35f73",
+      "md5": "15e17e36d6f72345037c74ce219f76a4",
+      "sha1": "9489253966c64123631c012918a3b7fe52491f6a",
+      "sha256": "d9cbf4362ce643ebcacacb8782f07fdae4364f39e163f99ee2acd087c4d53b10"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Adventure%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Adventure%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Adventure%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Adventure%20Island%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Adventure%20Island%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Adventure%20Island%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Adventure%20Island%20III%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Adventure%20Island%20III%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Adventure%20Island%20III%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Takahashi%20Meijin%20no%20Bouken-jima%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Takahashi%20Meijin%20no%20Bouken-jima%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Takahashi%20Meijin%20no%20Bouken-jima%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

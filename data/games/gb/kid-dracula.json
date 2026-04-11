@@ -96,5 +96,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Akumajou Special - Boku Dracula-kun (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "e8335398",
+      "md5": "63f593e38a526a10ff3fa5aec1c8ccb0",
+      "sha1": "f2f15da8ed94bc8652c23965428f6d767e506e38",
+      "sha256": "6a4f52d2860848faa055423be20daad9fb196f65ea96c2a77ed12468a994c327"
+    },
+    {
+      "name": "Kid Dracula (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "f27294b7",
+      "md5": "24a6b4457a511cc667e9ac25417401ab",
+      "sha1": "f186833a2ccec808210eb4ba669f08401f950e23",
+      "sha256": "b0a1019b6199c923a6a764c15e7bf6d1bb0bef8a042c383f3e3ead74ab171ede"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Akumajou%20Special%20-%20Boku%20Dracula-kun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Akumajou%20Special%20-%20Boku%20Dracula-kun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Akumajou%20Special%20-%20Boku%20Dracula-kun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kid%20Dracula%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kid%20Dracula%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kid%20Dracula%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

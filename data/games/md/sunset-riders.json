@@ -72,5 +72,67 @@
     "wikidata": "Q941354",
     "mobygames": 6693,
     "igdb": 321396
-  }
+  },
+  "roms": [
+    {
+      "name": "Sunset Riders (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-95026-00",
+      "size": 524288,
+      "crc32": "0ff33054",
+      "md5": "cc60b5cd7295df626d81a3ecd30c4133",
+      "sha1": "4a4f2cf397ade091e83e07bb3ffc7aa5862aeedd",
+      "sha256": "1283be0cd816324bac672e3ffc7e80c7f75973da8a08c24909fcc29e1ae01a42"
+    },
+    {
+      "name": "Sunset Riders (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95026-00",
+      "size": 524288,
+      "crc32": "ac30c297",
+      "md5": "19cdf861c543f9c9cd9c8b6b70adeb1c",
+      "sha1": "b40ea5b00f477d7b7448447f15b4c571f5e8ff0d",
+      "sha256": "37b3254d63b73d81341069e49909fd8a020cc8fbdb936de34364e19d6722f140"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sunset%20Riders%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sunset%20Riders%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sunset%20Riders%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sunset%20Riders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sunset%20Riders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sunset%20Riders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

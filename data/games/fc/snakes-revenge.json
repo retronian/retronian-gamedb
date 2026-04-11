@@ -63,5 +63,75 @@
     "wikidata": "Q1152426",
     "mobygames": 7333,
     "igdb": 7848
-  }
+  },
+  "roms": [
+    {
+      "name": "Snake's Revenge (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "df6aee68",
+      "md5": "655fe1d9bb67a63da394ceb00a04b9cd",
+      "sha1": "d4761dc1af9c2e0c14186ad19fd7f811437ca5d6",
+      "sha256": "d221b4c7d16d2f7943713b9f72876d239d37b22c0bd798e5ca4fee9c6c6e5015"
+    },
+    {
+      "name": "Snake's Revenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "b470cf56",
+      "md5": "e731fa39fbbeac8f33c8bc0487f75021",
+      "sha1": "d6a794630ff545250c46e26d6655f887ae10edee",
+      "sha256": "c054fb5668d7a0867fc2df764bd26734c12584d4620a94c47914bb5c4d40b966"
+    },
+    {
+      "name": "Snake's Revenge (USA) (Metal Gear Solid Collection)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "d2318991",
+      "md5": "68800757b16f38e3147dd2812aaaf366",
+      "sha1": "d7c577a9207b243de2b5172d2817626288402ed9",
+      "sha256": "4cf25410451405ac5b50eb546be0b163ed35563579ec15240d90cc766737ab83"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Snake%27s%20Revenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Snake%27s%20Revenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Snake%27s%20Revenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Snake%27s%20Revenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Snake%27s%20Revenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Snake%27s%20Revenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

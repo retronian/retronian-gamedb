@@ -63,5 +63,123 @@
     "wikidata": "Q2710250",
     "mobygames": 26428,
     "igdb": 10617
-  }
+  },
+  "roms": [
+    {
+      "name": "Picross DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AXPJ",
+      "size": 33554432,
+      "crc32": "1666c9ae",
+      "md5": "03fbc114f024d528679ed61b159e0925",
+      "sha1": "9e0fa57c1a4671000014f50937ebbfc8a334e682",
+      "sha256": "fec3b68c03d77dea81d87e23e95b48fbd35f38d6f90527cca5270d5eb4c5d352"
+    },
+    {
+      "name": "Picross DS (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AXPP",
+      "size": 33554432,
+      "crc32": "7303593d",
+      "md5": "85be04d1c454938fecadeb0e3eb09d05",
+      "sha1": "5e5b6e4d88674e6aa8be1206ea110339d5c82b7b"
+    },
+    {
+      "name": "Picross DS (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AXPE",
+      "size": 33554432,
+      "crc32": "35004805",
+      "md5": "a980adb92b4bbda7784cdf960ada8826",
+      "sha1": "236f1349271c0890a9f4f36f1e58fb57eac05a59",
+      "sha256": "534460af58f9f81280f65dd73a5ab5c792da2fb6b416dcc2495cce398477bb5d"
+    },
+    {
+      "name": "Picross DS (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "AXPK",
+      "size": 33554432,
+      "crc32": "5629e18e",
+      "md5": "8dc070acfafbaea072e0a288a32e6eb2",
+      "sha1": "a7668b0c8270d325908681904b47fc5bb3998b47"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Picross%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Picross%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Picross%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Picross%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Picross%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Picross%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Picross%20DS%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Picross%20DS%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Picross%20DS%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Picross%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Picross%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Picross%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
 }

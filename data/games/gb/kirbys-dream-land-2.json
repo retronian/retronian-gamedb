@@ -96,5 +96,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Hoshi no Kirby 2 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "4bedf22c",
+      "md5": "28a8263bb19b7ef3ddcac5ee83f62aee",
+      "sha1": "8487fcc3f9005f6c6819c3d5810f54e78b510d47",
+      "sha256": "16d3cfe3a0b104e94e0ac586a4f047e8ee1792447b2fcf2e91493d361267485f"
+    },
+    {
+      "name": "Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "8dc07c35",
+      "md5": "ddb5bfae32b0ca39cf8ab6c46880126c",
+      "sha1": "8a2898ffa17e25f43793f40c88421d840d372d3c",
+      "sha256": "08ddc36709d551b6c2b768e8280e0213ebe89a5088b34e1cc6c0e14977b8e312"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hoshi%20no%20Kirby%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hoshi%20no%20Kirby%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hoshi%20no%20Kirby%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kirby%27s%20Dream%20Land%202%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kirby%27s%20Dream%20Land%202%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kirby%27s%20Dream%20Land%202%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

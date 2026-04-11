@@ -79,5 +79,107 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Marvel Land (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-14093-01",
+      "size": 1048576,
+      "crc32": "5d162d21",
+      "md5": "0e49ee0eae1094e710c4bd58bee8a6a0",
+      "sha1": "2f7ef2f956d62373dcd5f3808e7501e3660c0658",
+      "sha256": "86a07541741da39b9aa608998ad580241c244aa26d22081a6f489179a5b62dd7"
+    },
+    {
+      "name": "Marvel Land (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-14046-00",
+      "size": 1048576,
+      "crc32": "cd7eeeb7",
+      "md5": "ac2b187f80174678c8e9941d75f55b52",
+      "sha1": "29f290c80f992542e73c9ea95190403cb262b6ad",
+      "sha256": "691539bcffa44c01c5b992a88b024d303e75241f25f5a441998478a64b8294fd"
+    },
+    {
+      "name": "Marvel Land (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-14093-01",
+      "size": 1048576,
+      "crc32": "ce1aed2c",
+      "md5": "3d6a765837082d58fe3d04c00c6b7d0d",
+      "sha1": "d7c13d44c5ac93112cf7f1de32b6865ec28e8cd5",
+      "sha256": "d56ca05f15c3190890e1802466abcaeffb40dace85b2713e29a5518c65bbf2aa"
+    },
+    {
+      "name": "Talmit's Adventure (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1052-50",
+      "size": 1048576,
+      "crc32": "05dc3ffc",
+      "md5": "fe73ff9498cfb35b2e898e6d9d5389c9",
+      "sha1": "be80f96bee64bab159614d29f882442abef9de76",
+      "sha256": "352201ce1b286c1f9d4e4a0fab93f6d51049711c5adb8f306d5bd73480ee1fa9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Marvel%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Marvel%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Marvel%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Marvel%20Land%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Marvel%20Land%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Marvel%20Land%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Talmit%27s%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Talmit%27s%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Talmit%27s%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

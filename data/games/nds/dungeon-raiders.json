@@ -17,5 +17,66 @@
     "wikidata": "Q65056415",
     "mobygames": 144497,
     "igdb": 47714
-  }
+  },
+  "roms": [
+    {
+      "name": "Dungeon Raiders (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CDVP",
+      "size": 16777216,
+      "crc32": "bfbea054",
+      "md5": "82aa73018cdfe4b53999c4e45dd3cd96",
+      "sha1": "8b6c84693717532d1d9aff9ad9e66c455b47da21",
+      "sha256": "2614874b17caccc3d55528a1b87986b04dc71703cdf2062925583d122a1cf1e3"
+    },
+    {
+      "name": "Dungeon Raiders (USA) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CDVE",
+      "size": 16777216,
+      "crc32": "6b17aa5e",
+      "md5": "d6ea1ccd1c832eefb7d5860e03205d84",
+      "sha1": "7f06b931a07b7f7b8291d3915f725f06e65d86c9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dungeon%20Raiders%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dungeon%20Raiders%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dungeon%20Raiders%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dungeon%20Raiders%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dungeon%20Raiders%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dungeon%20Raiders%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

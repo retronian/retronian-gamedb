@@ -72,5 +72,46 @@
     "wikidata": "Q917503",
     "mobygames": 7720,
     "igdb": 281033
-  }
+  },
+  "roms": [
+    {
+      "name": "Gyruss (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "7cbde0cd",
+      "md5": "d22232a3971d4f866fae17fc837fad10",
+      "sha1": "5bdab5756dadc202f1dd09a829d004625bee37f9",
+      "sha256": "21d8cb04f68f148ef181c500db1c5faf788d2a91141ddc6b505aef9d41d3a918"
+    },
+    {
+      "name": "Gyruss (Asia) (Ja) (Pirate)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "086dd112",
+      "md5": "6d40a7c7e7bff6bb3716a1da86a27f19",
+      "sha1": "5dc86b18c5508d57a0cd06b68f8ab0574e01d63c",
+      "sha256": "449750ddfca56e2d28d858180886ef4bd0300f3d60001db54bf845c03c69f78b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gyruss%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gyruss%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gyruss%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

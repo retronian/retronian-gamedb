@@ -45,5 +45,49 @@
     "wikidata": "Q2471057",
     "mobygames": 989,
     "igdb": 19736
-  }
+  },
+  "roms": [
+    {
+      "name": "Garfield - Caught in the Act (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1556-00",
+      "size": 2097152,
+      "crc32": "f0ff078e",
+      "md5": "b8591488ca46b51c1d39b6869fa23006",
+      "sha1": "9fff7dea16c4d0e6c9d6dbaade20c7048bb485ec",
+      "sha256": "6a778422aeca1fd12cb6a414682a6ecd992d8435ac215a4fd9cdbfe7fe702c8a"
+    },
+    {
+      "name": "Garfield - Caught in the Act (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1556-00",
+      "size": 2097152,
+      "crc32": "4a633f40",
+      "md5": "e4213039a4a0781844ccefe1bf501852",
+      "sha1": "ddfce756c9069bdffcf678ea3f674757fe2c9f05",
+      "sha256": "0b13957052a2ce9bd1c9e2efd068a8074fd5e9b141a01192b4957897a8c8aaf6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Garfield%20-%20Caught%20in%20the%20Act%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Garfield%20-%20Caught%20in%20the%20Act%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Garfield%20-%20Caught%20in%20the%20Act%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

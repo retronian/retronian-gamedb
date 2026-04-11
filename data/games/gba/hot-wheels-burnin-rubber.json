@@ -27,5 +27,65 @@
     "wikidata": "Q28127188",
     "mobygames": 73956,
     "igdb": 49295
-  }
+  },
+  "roms": [
+    {
+      "name": "Hot Wheels - Burnin' Rubber (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHWE",
+      "size": 8388608,
+      "crc32": "37dcbb0d",
+      "md5": "8ef10e6b20930b83f2ef3c11a1752793",
+      "sha1": "ce370386736de2243a078eb50d9b72362588b8b5"
+    },
+    {
+      "name": "Hot Wheels - Burnin' Rubber (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHWP",
+      "size": 8388608,
+      "crc32": "4764d029",
+      "md5": "218700b79a0ae3e9d69abf00fe06eb97",
+      "sha1": "4901124cede271b8aa552cd2079dfadc4e9a1c26"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hot%20Wheels%20-%20Burnin%27%20Rubber%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hot%20Wheels%20-%20Burnin%27%20Rubber%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hot%20Wheels%20-%20Burnin%27%20Rubber%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hot%20Wheels%20-%20Burnin%27%20Rubber%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hot%20Wheels%20-%20Burnin%27%20Rubber%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hot%20Wheels%20-%20Burnin%27%20Rubber%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

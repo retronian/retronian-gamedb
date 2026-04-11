@@ -74,12 +74,177 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": false
+    },
+    {
+      "text": "Captain Tsubasa",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Captain Tsubasa",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Captain Tsubasa",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Captain Tsubasa",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1992-05-15",
+  "first_release_date": "1988-04-28",
   "external_ids": {
     "wikidata": "Q3516985",
     "mobygames": 23483,
     "igdb": 48227
-  }
+  },
+  "descriptions": [
+    {
+      "text": "ロビン・フィールドはサッカーが大好きです。彼は、元トッププレイヤーである父と弟のセシルの助けを借りて、世界一の選手を目指しています。国内リーグでの成功を収めた後、ロビンは国内リーグで見られる最高の選手たちで構成される「トップス」でキャリアを続けます。トップスは、世界中の優れた選手が集まるユースワールドカップ「テクモカップ」に参加します。\n\nテクモカップは、RPG要素を組み合わせたサッカーシミュレーターです。ゲームが進むにつれて、ロビンと彼のチームメイトは成長していきます。試合自体は、各瞬間に何をするかの多くの選択肢から成り立っています。攻撃時には、パス、シュート、ドリブルの選択肢があります。そして守備時には、タックル、パスやシュートのカット、ボールを持った相手選手をマークすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Captain Tsubasa (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "0f68ed1b",
+      "md5": "eeb77e6e0e0b5695f9a35f47979c4722",
+      "sha1": "ba366fefe13a3746510acab2fe73d4db1fd8dce4",
+      "sha256": "36ad23826026b8f5fd21914b3dce8df5574a6c37b4f0bb74f1899af93b63d37b"
+    },
+    {
+      "name": "Tecmo Cup - Football Game (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "58e5b02e",
+      "md5": "e35ff927d76a21eb27080f5af3b0b8da",
+      "sha1": "c00484f652d05dd09083557275c2e7184831022f",
+      "sha256": "91aafafecc00d8e506cd9b58e79fafaac594f97283bb7e28c71c5302fc580e1a"
+    },
+    {
+      "name": "Tecmo Cup - Football Game (Spain)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "47f7fe4e",
+      "md5": "9f71fa9d91d7d4a63244d5a32f29afbb",
+      "sha1": "7a5c753c2cf7ebfd5cf2cb21e5b382cfb005f33a",
+      "sha256": "0f47189599b9669c2416fffb6764c280904ae13d00dafa3b21d8f97591c97b99"
+    },
+    {
+      "name": "Tecmo Cup - Soccer Game (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "95f4b3bf",
+      "md5": "6aebf29791156f7f46e1de87801934e7",
+      "sha1": "1b66a0255725fe815e62c47f41bc42f3af9c6d6e",
+      "sha256": "a5f59fa2f6ffad288e0fbe48fb21dc66338824869a5f11de6edcbedb5c9445d0"
+    },
+    {
+      "name": "Tecmo Cup - Soccer Game (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "0f3c0afe",
+      "md5": "8fd664fc042a6766ecb1095b14b61eb3",
+      "sha1": "72ee944c87e66b0d3bb44b129c077121395bf759",
+      "sha256": "a3cad19ee5146e77f1aca1b2788c0ea8f410440fb841791aedc6160fb1ea833d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Captain%20Tsubasa%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Captain%20Tsubasa%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Captain%20Tsubasa%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tecmo%20Cup%20-%20Football%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tecmo%20Cup%20-%20Football%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tecmo%20Cup%20-%20Football%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tecmo%20Cup%20-%20Football%20Game%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tecmo%20Cup%20-%20Football%20Game%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tecmo%20Cup%20-%20Football%20Game%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tecmo%20Cup%20-%20Soccer%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tecmo%20Cup%20-%20Soccer%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tecmo%20Cup%20-%20Soccer%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

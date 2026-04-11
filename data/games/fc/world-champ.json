@@ -18,5 +18,65 @@
     "wikidata": "Q1946500",
     "mobygames": 10314,
     "igdb": 48256
-  }
+  },
+  "roms": [
+    {
+      "name": "World Champ (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "e45276e2",
+      "md5": "7072538b67052eefb5e749085c080699",
+      "sha1": "735634ad748aa1b2922d3419101bf70573c2950b",
+      "sha256": "4f94e534027362f34242c5972272ece5e759891d6f2e56f00465a5deeb9d5ded"
+    },
+    {
+      "name": "World Champ (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "3e2a0797",
+      "md5": "31b2feee215b813038b09840b4b0f56a",
+      "sha1": "9ac778599057b92a9d6ed0d4dfb6c8e41ee9a513",
+      "sha256": "e0411aaef489c1cf061718b524345915965d071316f35b42d4c2be5ac9248250"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/World%20Champ%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/World%20Champ%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/World%20Champ%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/World%20Champ%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/World%20Champ%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/World%20Champ%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

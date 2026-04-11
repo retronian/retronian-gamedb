@@ -54,5 +54,75 @@
     "wikidata": "Q8058309",
     "mobygames": 13772,
     "igdb": 11665
-  }
+  },
+  "roms": [
+    {
+      "name": "Young Merlin (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "d5e69dc4",
+      "md5": "20d12565abe667a0624004c134f79065",
+      "sha1": "8e0da5960039de1d25c18eaaf8f9d8f3b2f125e9",
+      "sha256": "d897f80465d02a92f17e1eecb727b99211ec2fb9c58cbabfa76b35c554096ea6"
+    },
+    {
+      "name": "Young Merlin (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "7ea1afe8",
+      "md5": "b2c941607e09ab246b5cb110756ddb9a",
+      "sha1": "8534ddfa5cee1fa4a2c7ff045bfa5a4c8abeb296",
+      "sha256": "fbe8926fc0149d3e8e2aec20f15640ea6814f4f4b01c3960f3c477f5f17e890f"
+    },
+    {
+      "name": "Young Merlin (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "70c5e2d1",
+      "md5": "afc7cb768477a9a00a8e65ce2789105e",
+      "sha1": "37efc59511a20378f2383137d325f047afdef1f9",
+      "sha256": "d13f4c1be19ddc81bc6d144a31510c524dbb7a08f05a25e820518cd433eae71e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Young%20Merlin%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Young%20Merlin%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Young%20Merlin%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Young%20Merlin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Young%20Merlin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Young%20Merlin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

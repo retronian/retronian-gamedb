@@ -81,5 +81,46 @@
     "wikidata": "Q2995918",
     "mobygames": 15171,
     "igdb": 24978
-  }
+  },
+  "roms": [
+    {
+      "name": "Contra Force (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "12fc738a",
+      "md5": "88705fe769c4f2921d109a15a987584f",
+      "sha1": "e8240b1304ed1924ba6c43375a7c92f9fd717085",
+      "sha256": "ba5337367a2140c72ae40826ff4fb9b86a38798ed129edc9bd519aec8818abfa"
+    },
+    {
+      "name": "Contra Force (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "3fffff72",
+      "md5": "60cf5765253efccc7d5da85fea28cf00",
+      "sha1": "5cf973b4ff55541f1b57306224c74da0bf032bd8",
+      "sha256": "57eeee9e880bfabd55eb51d46de9a7297bc8e757bbcd1c005a9119088dc04e62"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Contra%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Contra%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Contra%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

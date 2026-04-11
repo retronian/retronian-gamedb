@@ -63,5 +63,65 @@
     "wikidata": "Q2329197",
     "mobygames": 32715,
     "igdb": 210446
-  }
+  },
+  "roms": [
+    {
+      "name": "Legend of Spyro, The - The Eternal Night (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 33554432,
+      "crc32": "8d780224",
+      "md5": "cab9244d30ba8144b17e056c8ced76de",
+      "sha1": "6cfa38d08b735e8b6b1c3763aee8a8ed5da52977",
+      "sha256": "39c4720e1ba0ce6c294af03c561fc1b7c9d302aeaf8368e9a379f0bc6115fffc"
+    },
+    {
+      "name": "Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 33554432,
+      "crc32": "a3eed091",
+      "md5": "d34a68ec334336fa5c1e7c6acda6ff6c",
+      "sha1": "0fced99190bce676e83bed31134e2f165ef997b8",
+      "sha256": "a70c7493b0e75ed9f5cbbac57d584d3f4b1bcd65e5afcccbfefd2742cfd81fd2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Legend%20of%20Spyro%2C%20The%20-%20The%20Eternal%20Night%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Legend%20of%20Spyro%2C%20The%20-%20The%20Eternal%20Night%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Legend%20of%20Spyro%2C%20The%20-%20The%20Eternal%20Night%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Legend%20of%20Spyro%2C%20The%20-%20The%20Eternal%20Night%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Legend%20of%20Spyro%2C%20The%20-%20The%20Eternal%20Night%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Legend%20of%20Spyro%2C%20The%20-%20The%20Eternal%20Night%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -34,5 +34,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Pizza Pop! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "a73dc352",
+      "md5": "9befb3ca6283b47b5edbb4cb4c875455",
+      "sha1": "76dd18619ca780ca140555c2eb165623b6758bc1",
+      "sha256": "9e035bcf776b12498bf72046261146febd4f24e01944c1586e05aab9b042bf64"
+    },
+    {
+      "name": "Pizza Pop! (USA, Europe) (Broke Studio)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "f41cb6c9",
+      "md5": "522c564a5d9b588b76962497f6eb01ec",
+      "sha1": "2bafebf7eaf9bad2b407da10de39b2577b9ddd96",
+      "sha256": "1c6d68d74274bfe89eb78c4a5a1ac1a7fcdc4f1236c98f7d621795a2d7bb68c3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Pizza%20Pop%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Pizza%20Pop%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Pizza%20Pop%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

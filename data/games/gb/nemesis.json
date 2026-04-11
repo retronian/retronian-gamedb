@@ -69,5 +69,97 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Nemesis (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "19930ea5",
+      "md5": "4d4eae6560062b9a12d9770653f1a53f",
+      "sha1": "e95e7a476a160bc0a685112d80239a5d669fd192",
+      "sha256": "e807eef2018cb12c73a5395a47936ce0b24b1e8876c10e3dff6b2d30873e52f3"
+    },
+    {
+      "name": "Nemesis (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "b338dae7",
+      "md5": "f5d9206e1a5f8b42485e4dd431a5a2d4",
+      "sha1": "da54433d91970421a87c6595e0f77eefed750ac1",
+      "sha256": "cdb5a619ab1ce1eb0b5704a674245a422afeab78c9fb50cb8f80850361494355"
+    },
+    {
+      "name": "Nemesis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "5110e971",
+      "md5": "1eb7ff636e532321a18885eea660604a",
+      "sha1": "0ad4a8f156bc6899e2337417cedf9e279f8abc08",
+      "sha256": "58c4da647070388c9e77ddf1a0fce6777c63ff96efcd804d0917f555c3e02369"
+    },
+    {
+      "name": "Nemesis (USA) (Rev 1) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "7d448fb5",
+      "md5": "12add4ed6963a6cd303ca0fea892148f",
+      "sha1": "1858b0c85a7221b8de05bb02edb8be21fff1dd6c",
+      "sha256": "4b0de7afc1e6bca23768cc72aaf6e31e6914b5dcaffdc079e8d89cf4093e5224"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nemesis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nemesis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nemesis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nemesis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nemesis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nemesis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nemesis%20%28USA%29%20%28Rev%201%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nemesis%20%28USA%29%20%28Rev%201%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

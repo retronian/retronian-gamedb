@@ -52,5 +52,65 @@
   "external_ids": {
     "wikidata": "Q6148204",
     "igdb": 143439
-  }
+  },
+  "roms": [
+    {
+      "name": "Mystical Ninja Starring Goemon (Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "a1813cd5",
+      "md5": "85ac741a34b971dfc107c15c8a902f07",
+      "sha1": "6a47ec0c2a81741d93687b85f966c6bfca039770",
+      "sha256": "05acf389ac937243e2ac31b982299fb2055c3ec878e02e98ca4489aad2ec42ea"
+    },
+    {
+      "name": "Mystical Ninja Starring Goemon (USA) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "fafb343c",
+      "md5": "feaa1bbb7e532872cf1d37d80af6fdb4",
+      "sha1": "6674baaae85a8eb6e950f1ea30527321c942a9bc",
+      "sha256": "220915c980318a194273d11d7a22836734ae6365ea2d8658956c3be374fc89f0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mystical%20Ninja%20Starring%20Goemon%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mystical%20Ninja%20Starring%20Goemon%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mystical%20Ninja%20Starring%20Goemon%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mystical%20Ninja%20Starring%20Goemon%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mystical%20Ninja%20Starring%20Goemon%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mystical%20Ninja%20Starring%20Goemon%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

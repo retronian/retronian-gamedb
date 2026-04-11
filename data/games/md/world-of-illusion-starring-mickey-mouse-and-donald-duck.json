@@ -73,6 +73,15 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "I Love Mickey and Donald - Fushigi na Magic Box",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1992-12-17",
@@ -80,5 +89,164 @@
     "wikidata": "Q2740256",
     "mobygames": 8619,
     "igdb": 8124
-  }
+  },
+  "descriptions": [
+    {
+      "text": "「ワールド・オブ・イリュージョン」は「キャッスル・オブ・イリュージョン」の続編的な作品です。ミッキーマウスとドナルドダックは魔法の世界に連れて行かれ、家に帰るための冒険を繰り広げます。そのために、彼らは魔法のトリックを使い、2人プレイモードでお互いに協力して進んでいきます。同時期のSEGAコンソール向けの他のディズニーゲームと同様に、ゲームはアニメーションのようなグラフィックで、横スクロールのプラットフォーマーとして楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "I Love Mickey and Donald - Fushigi na Magic Box (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4080-01",
+      "size": 1048576,
+      "crc32": "277bdb4c",
+      "md5": "b44c84ad8ffd258d016538a4a6ce4b2a",
+      "sha1": "849f9707ba7c308a2833368c7fdf5960de78acfd",
+      "sha256": "695024b0306123e76c2c8077b1b13efcada9a2533829de7f5592be945cb7d566"
+    },
+    {
+      "name": "I Love Mickey and Donald - Fushigi na Magic Box (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4080-00",
+      "size": 1048576,
+      "crc32": "cb9ee238",
+      "md5": "edb74bc08734149bf11b7f5b1a184741",
+      "sha1": "c79935fdeb680a1a2e76db1aef2c6897e6ee8e4d",
+      "sha256": "86659f446d1f85d6163a1872ce458680bd5a54afd2ed871bc33b083cca6f9cc7"
+    },
+    {
+      "name": "World of Illusion (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 1048576,
+      "crc32": "d61ff197",
+      "md5": "6dc2ca755c68af473f60899beb47ab9a",
+      "sha1": "219796230f9c35ab038e1c2ce60cbec2c7c268c3",
+      "sha256": "0c51957532698dea37f78af82c708158031517693c3d39d2ea57b8fa9851c9df"
+    },
+    {
+      "name": "World of Illusion starring Mickey Mouse & Donald Duck (USA, Korea) (En) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00004054-01",
+      "size": 1048576,
+      "crc32": "f807176c",
+      "md5": "c6691880c916f95949785cfa4a3a097a",
+      "sha1": "42f9c3e8f3a3b4808a9ab0dd23968709732029c7",
+      "sha256": "7c8c06eb0712248e6a61b3b5f3b659726898880c1cee8c1f17ad2b355a908b6d"
+    },
+    {
+      "name": "World of Illusion starring Mickey Mouse & Donald Duck (USA, Korea) (En) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00004054-01",
+      "size": 1048576,
+      "crc32": "577f680f",
+      "md5": "541367d403fee99c53aab4d4ecd9f866",
+      "sha1": "c3d721dc3d6660156f28728d729a2c0d4bb23fdf",
+      "sha256": "3776577ea411cbd425c71531bb4a8bb2bed77df9e658c9d81c0a9cbe43c1fdeb"
+    },
+    {
+      "name": "World of Illusion Starring Mickey Mouse and Donald Duck (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1070-50",
+      "size": 1048576,
+      "crc32": "121c6a49",
+      "md5": "c6ba2aa696d90bbcc21aec786877fcee",
+      "sha1": "4b7aa8de517516edd9ee5288124f77238fc9ba6b",
+      "sha256": "fac38073769fe9b74de12bf0a2fe53144b4403f211bd15dca5b3ec1f2c63b028"
+    },
+    {
+      "name": "World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1070-00",
+      "size": 1048576,
+      "crc32": "921ebd1c",
+      "md5": "c2c5a4b990ce72f98b7b7f236e66c022",
+      "sha1": "adb0a2edebb6f978c3217075a2f29003a8b025c6",
+      "sha256": "51e48f9ff8d94ddc9aa6f6d744b3227dc7c4d640ba827e8bfe240d1a31b8b498"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/I%20Love%20Mickey%20and%20Donald%20-%20Fushigi%20na%20Magic%20Box%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/I%20Love%20Mickey%20and%20Donald%20-%20Fushigi%20na%20Magic%20Box%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/I%20Love%20Mickey%20and%20Donald%20-%20Fushigi%20na%20Magic%20Box%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/I%20Love%20Mickey%20and%20Donald%20-%20Fushigi%20na%20Magic%20Box%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/I%20Love%20Mickey%20and%20Donald%20-%20Fushigi%20na%20Magic%20Box%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/I%20Love%20Mickey%20and%20Donald%20-%20Fushigi%20na%20Magic%20Box%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/World%20of%20Illusion%20Starring%20Mickey%20Mouse%20and%20Donald%20Duck%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/World%20of%20Illusion%20Starring%20Mickey%20Mouse%20and%20Donald%20Duck%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/World%20of%20Illusion%20Starring%20Mickey%20Mouse%20and%20Donald%20Duck%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/World%20of%20Illusion%20Starring%20Mickey%20Mouse%20and%20Donald%20Duck%20%28USA%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/World%20of%20Illusion%20Starring%20Mickey%20Mouse%20and%20Donald%20Duck%20%28USA%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/World%20of%20Illusion%20Starring%20Mickey%20Mouse%20and%20Donald%20Duck%20%28USA%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

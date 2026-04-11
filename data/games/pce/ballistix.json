@@ -27,5 +27,47 @@
     "wikidata": "Q2881306",
     "mobygames": 2052,
     "igdb": 5878
-  }
+  },
+  "roms": [
+    {
+      "name": "Ballistix (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "8acfc8aa",
+      "md5": "6de6635138b034e133720d11279b8ea7",
+      "sha1": "e687abeb0f94e85fafa52e92b0beb82542f0c368",
+      "sha256": "1a965c5a290540debfd81bf68929f0b0a0a877a0bcfa340d12adab95552ff2ec"
+    },
+    {
+      "name": "Ballistix (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "420fa189",
+      "md5": "9610910760ed0c034961866ceb7d4e23",
+      "sha1": "8f65c5b459b477adc97ab7809ca8e85329f25769",
+      "sha256": "18d520f082517a34b420676fe94803cb38244e41e0d6c57f2f087087d4a3018d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Ballistix%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Ballistix%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Ballistix%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

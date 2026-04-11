@@ -62,5 +62,53 @@
   "external_ids": {
     "wikidata": "Q2707840",
     "mobygames": 9070
-  }
+  },
+  "roms": [
+    {
+      "name": "Kula World (France)",
+      "source": "no_intro",
+      "size": 144268672,
+      "crc32": "76800032",
+      "md5": "a0185be0887f4eb7cb1527e691663b26",
+      "sha1": "7a1dcd4e1a5a5ef0e83af190fabf6eccb87bf48a",
+      "sha256": "5f35331ab0be90e5e9e370f6730683cae0aadf1ef07c1985ce2f326fd35a5372"
+    },
+    {
+      "name": "Kula World (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 144247408,
+      "crc32": "21892dd9",
+      "md5": "7d0ff30e40576f9573fdcb4df7fbaad7",
+      "sha1": "ca4f4a72cd696a18156ac90bb9fe33200c343102"
+    },
+    {
+      "name": "Kula World (Germany)",
+      "source": "no_intro",
+      "size": 144261936,
+      "crc32": "d163688f",
+      "md5": "034a41d75d640ed7e1418f2c5b02e9de",
+      "sha1": "ea20e15628852c836972db3141748bdac6235839"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Kula%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Kula%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Kula%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

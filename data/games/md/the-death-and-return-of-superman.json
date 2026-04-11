@@ -81,5 +81,67 @@
     "wikidata": "Q2527906",
     "mobygames": 7384,
     "igdb": 453
-  }
+  },
+  "roms": [
+    {
+      "name": "Death and Return of Superman, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-15186-00",
+      "size": 2097152,
+      "crc32": "982242d3",
+      "md5": "960a409245913c8adf10c4b3ed23ab04",
+      "sha1": "3534d17801bd5756b10a7f8d7d95f3a8d9b74844",
+      "sha256": "7f7687582a5b30c24bb3b4c5ba779c55047cf7d2c33e76d10e31dfa2d0005734"
+    },
+    {
+      "name": "Death and Return of Superman, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-15186-00",
+      "size": 2097152,
+      "crc32": "cfc440e8",
+      "md5": "d14f262f3d9d46df0ed1d9f2bb6c3442",
+      "sha1": "bc23b7c2fc720371a8b7caed1acb3f457315e0a6",
+      "sha256": "2b0d1abb7f841dd4830835bb7e446dca9dc8fcdf3da7206d320d64e2a018d565"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Death%20and%20Return%20of%20Superman%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Death%20and%20Return%20of%20Superman%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Death%20and%20Return%20of%20Superman%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Death%20and%20Return%20of%20Superman%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Death%20and%20Return%20of%20Superman%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Death%20and%20Return%20of%20Superman%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

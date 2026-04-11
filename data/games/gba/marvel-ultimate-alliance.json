@@ -90,5 +90,65 @@
     "wikidata": "Q2337304",
     "mobygames": 28670,
     "igdb": 197883
-  }
+  },
+  "roms": [
+    {
+      "name": "Marvel - Ultimate Alliance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B4ME",
+      "size": 8388608,
+      "crc32": "a74294db",
+      "md5": "1a9cc177b098fa1762b0e9872590916c",
+      "sha1": "fe621b8d156b85ed2ee77dbc1d2b84d16f330e67"
+    },
+    {
+      "name": "Marvel - Ultimate Alliance (Europe) (En,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B4MP",
+      "size": 8388608,
+      "crc32": "c150790f",
+      "md5": "d64c95901c720f6dbf7b6dab929e617f",
+      "sha1": "75ce19b28cdeade8fbbfb93e284327c13f3c53f6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Marvel%20-%20Ultimate%20Alliance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Marvel%20-%20Ultimate%20Alliance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Marvel%20-%20Ultimate%20Alliance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Marvel%20-%20Ultimate%20Alliance%20%28Europe%29%20%28En%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Marvel%20-%20Ultimate%20Alliance%20%28Europe%29%20%28En%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Marvel%20-%20Ultimate%20Alliance%20%28Europe%29%20%28En%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

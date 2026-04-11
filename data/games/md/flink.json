@@ -18,5 +18,54 @@
     "wikidata": "Q3073740",
     "mobygames": 16666,
     "igdb": 5387
-  }
+  },
+  "roms": [
+    {
+      "name": "Flink (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-113046-00",
+      "size": 1048576,
+      "crc32": "bef9a4f4",
+      "md5": "4b6da602b30589b18be136f60b8000b2",
+      "sha1": "f37518380d3e41598cbff16519ca15fcb751de57",
+      "sha256": "19efa6d3c65a3fc2641427930c04548365e7f202f8526234f186ff259b26e4a5"
+    },
+    {
+      "name": "Flink (Europe) (En,Fr,De) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "47b47afc",
+      "md5": "e60a518d3e5c2a28433ed01173cdb465",
+      "sha1": "f066548b1a65aedf1e38a530d0e69962cee7b9ef",
+      "sha256": "d2d0cdf25586517188a704b59ea4148d9962730581be2e60332a95730c73ba92"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Flink%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Flink%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Flink%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Flink%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

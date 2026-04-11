@@ -63,5 +63,67 @@
     "wikidata": "Q864026",
     "mobygames": 326,
     "igdb": 3641
-  }
+  },
+  "roms": [
+    {
+      "name": "World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "N8WP",
+      "size": 12582912,
+      "crc32": "79f483f7",
+      "md5": "3aa263aca66f3a07bb081b575d66deeb",
+      "sha1": "cd92b2cbb253411fc66544649567d9b1c44bb210",
+      "sha256": "8f99290db186f35b4dd96562edc12138146157df5f48ca4b389a8cef1afe7a49"
+    },
+    {
+      "name": "World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "N8WE",
+      "size": 12582912,
+      "crc32": "13930c26",
+      "md5": "4bef5e9aa9e71205dac1a7060e778235",
+      "sha1": "b496edee84e5e84ead8da6f57a765936b2af2f9f",
+      "sha256": "45f7895bbf19f4f0c0b41e6a32f847236aef08b85d49b8475357ea846c717daa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/World%20Cup%2098%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/World%20Cup%2098%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/World%20Cup%2098%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/World%20Cup%2098%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/World%20Cup%2098%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/World%20Cup%2098%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

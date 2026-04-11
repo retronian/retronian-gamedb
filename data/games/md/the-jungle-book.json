@@ -54,5 +54,102 @@
     "wikidata": "Q1974580",
     "mobygames": 48140,
     "igdb": 6480
-  }
+  },
+  "roms": [
+    {
+      "name": "Jungle Book, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70176-00",
+      "size": 2097152,
+      "crc32": "b9709a99",
+      "md5": "03a83c6c7392549b47b006c6e9c38fe0",
+      "sha1": "b96dcaf595a713eeec54257e8cee6306d7748baf",
+      "sha256": "65f28fd832b8ca2efa86d9c686a883389806ab9d21d22673fae92f994d5cb97e"
+    },
+    {
+      "name": "Jungle Book, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70176-00",
+      "size": 2097152,
+      "crc32": "3fb6d92e",
+      "md5": "2e1c1f784c9463152cd1a772f87677af",
+      "sha1": "306021e52501c9d51afd9c51acf384356c84ffbf",
+      "sha256": "bacfb9ba38dd0df73953598bca6199a32c00959071856a490a85608d56bdac08"
+    },
+    {
+      "name": "Jungle Book, The (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70176-00",
+      "size": 1048576,
+      "crc32": "20b97d87",
+      "md5": "2260d42cf65b4f8aa945ad558d99f6b3",
+      "sha1": "df79f4d61d1de7f9a3ed056f98a94dcad2ae8e18",
+      "sha256": "2260fc874a2c9eb9248112f0d09a22553c1ed1059d49b5af47dfc7302d037a91"
+    },
+    {
+      "name": "Jungle Book, The (World) (Disney Classic Games)",
+      "source": "no_intro",
+      "size": 2097152,
+      "crc32": "f48eb5da",
+      "md5": "53f890e43080af23af86f91e1eea755b",
+      "sha1": "e7419d637f0ad1390bcc33e3a8bfa52dc603bb65",
+      "sha256": "2052363ea3bcdced5d1f667ae05f2d3aa8e17321dda195e09f945a058d62d7f3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Jungle%20Book%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Jungle%20Book%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Jungle%20Book%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Jungle%20Book%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Jungle%20Book%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Jungle%20Book%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Jungle%20Book%2C%20The%20%28World%29%20%28Disney%20Classic%20Games%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Jungle%20Book%2C%20The%20%28World%29%20%28Disney%20Classic%20Games%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Jungle%20Book%2C%20The%20%28World%29%20%28Disney%20Classic%20Games%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

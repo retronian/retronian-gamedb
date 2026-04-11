@@ -33,5 +33,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Super Bowling (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "383bc5d5",
+      "md5": "2f3f6d8461ebb57cb33f031b7d4ea085",
+      "sha1": "15d3e2a9583d61562e08a6ba16799676dc9ba0a0",
+      "sha256": "cda4f88415fbd68f2ceb8de94c930f505c93cd15a60eee26c4a8daa04a7d74d3"
+    },
+    {
+      "name": "Super Bowling (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "94945b50",
+      "md5": "50a1a66163020c19cde18685a928a556",
+      "sha1": "b17492bb3d7ebe9fdcf465c1eeb78944b0484cda",
+      "sha256": "946de556b4f877e54e16b5c828db89c038e50349cfd0ddf8ea96b6541f9d70fa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Bowling%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Bowling%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Bowling%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Bowling%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Bowling%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Bowling%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

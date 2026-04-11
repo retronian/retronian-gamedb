@@ -18,5 +18,65 @@
     "wikidata": "Q114081408",
     "mobygames": 12764,
     "igdb": 42613
-  }
+  },
+  "roms": [
+    {
+      "name": "Eek! The Cat (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "812555a3",
+      "md5": "af7367f02a1aaff00816b7a833e59624",
+      "sha1": "4edeb0755f577474e96864abd91e3042163f9674",
+      "sha256": "3d4715ce44045fbb27b72c0925020a52b748c9236db1e7782ee62f74615182fc"
+    },
+    {
+      "name": "Eek! The Cat (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "216f2fc7",
+      "md5": "93051005958b352dd3ebd2d0545df15e",
+      "sha1": "db072bcb550a0704830a383f7c39fcbf71f5a11b",
+      "sha256": "5d658b63d35e2e0baf48ae3bb04ea5e1553855b34bb39fc2c7ca41fbd3894d52"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Eek%21%20The%20Cat%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Eek%21%20The%20Cat%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Eek%21%20The%20Cat%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Eek%21%20The%20Cat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Eek%21%20The%20Cat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Eek%21%20The%20Cat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

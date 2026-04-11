@@ -123,5 +123,96 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Samurai Shodown (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1184-00",
+      "size": 3145728,
+      "crc32": "c972014f",
+      "md5": "907559061c6a1eafb3763cf6f223f8bf",
+      "sha1": "86384123c49c05b6f90cffd7327c11882f01e9c0",
+      "sha256": "b9db982f4fccf9b93f51edc777256eac4b5ab2ed98e585a9e8886562e106cd42"
+    },
+    {
+      "name": "Samurai Shodown (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-103066-00",
+      "size": 3145728,
+      "crc32": "5bb8b2d4",
+      "md5": "d50b365a99d5efae6164ef084e808ff2",
+      "sha1": "504cc7a948f96ce1989f8e91ffb42acc6a956e47",
+      "sha256": "e57fbd0d52ed6cfad0638ff2c375a902b814600600be2e96e17677e7258ed99e"
+    },
+    {
+      "name": "Samurai Spirits (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4127-00",
+      "size": 3145728,
+      "crc32": "0ea2ae36",
+      "md5": "bbca32ba74536e859db9eda1a046fbd7",
+      "sha1": "54a54996035b220ce72aa7e725f99860e3cd66a0",
+      "sha256": "3689489e0e2c6a5ecf94afafa04a3ca262c4bd40e6e402f271a5d3d1d8beb959"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Samurai%20Shodown%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Samurai%20Shodown%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Samurai%20Shodown%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Samurai%20Shodown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Samurai%20Shodown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Samurai%20Shodown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Samurai%20Spirits%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Samurai%20Spirits%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Samurai%20Spirits%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

@@ -116,5 +116,53 @@
     "wikidata": "Q1143285",
     "mobygames": 6599,
     "igdb": 1652
-  }
+  },
+  "roms": [
+    {
+      "name": "Streets of Rage (World) (En,Ja) (Rev A) (Sega 3D Classics)",
+      "source": "no_intro",
+      "serial": "00001019-01",
+      "size": 524288,
+      "crc32": "e2f161ac",
+      "md5": "6a84a39dc4f4f1aa7c0ff12ec67fbb92",
+      "sha1": "3ce0241ed51223fe59aa577b0c070ed317af1231"
+    },
+    {
+      "name": "Streets of Rage (World) (En,Ja)",
+      "source": "no_intro",
+      "serial": "00001019-00",
+      "size": 524288,
+      "crc32": "bff227c6",
+      "md5": "569cfec15813294a8f0cf88cccc8c151",
+      "sha1": "3d74dbc81f3472a5bde45bf265e636a72a314667",
+      "sha256": "dd44f120446654bb91c448762f3e0cd0d9b034f35d0e3266a4dc34402ada95c0"
+    },
+    {
+      "name": "Streets of Rage (World) (Rev A)",
+      "source": "no_intro",
+      "serial": "00001019-01",
+      "size": 524288,
+      "crc32": "4052e845",
+      "md5": "59a3b22a1899461dceba50d1ade88d3a",
+      "sha1": "731cdf182fe647e4977477ba4dd2e2b46b9b878a",
+      "sha256": "95d7efb98e97f4ffffe68257aef9a855034a36a41b86cf9d332d129f30cb2d4b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Streets%20of%20Rage%20%28World%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Streets%20of%20Rage%20%28World%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Streets%20of%20Rage%20%28World%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

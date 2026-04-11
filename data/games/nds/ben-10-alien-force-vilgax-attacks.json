@@ -26,5 +26,65 @@
     "wikidata": "Q126484629",
     "mobygames": 85172,
     "igdb": 2802
-  }
+  },
+  "roms": [
+    {
+      "name": "Ben 10 - Alien Force - Vilgax Attacks (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BE6E",
+      "size": 33554432,
+      "crc32": "25f7fd6b",
+      "md5": "fb6d37fd9b2f87174d7d96183c618432",
+      "sha1": "3b7f4519031a660c92d228c55bebd29bbfa00ae8"
+    },
+    {
+      "name": "Ben 10 - Alien Force - Vilgax Attacks (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BE6P",
+      "size": 33554432,
+      "crc32": "cb996a39",
+      "md5": "4deca80534ee74ff683134a0555d6435",
+      "sha1": "29922d1cdd8b1f539ead49cef0d4a139f7dadc5c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ben%2010%20-%20Alien%20Force%20-%20Vilgax%20Attacks%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ben%2010%20-%20Alien%20Force%20-%20Vilgax%20Attacks%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ben%2010%20-%20Alien%20Force%20-%20Vilgax%20Attacks%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ben%2010%20-%20Alien%20Force%20-%20Vilgax%20Attacks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ben%2010%20-%20Alien%20Force%20-%20Vilgax%20Attacks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ben%2010%20-%20Alien%20Force%20-%20Vilgax%20Attacks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

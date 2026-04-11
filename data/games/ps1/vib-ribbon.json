@@ -63,5 +63,72 @@
     "wikidata": "Q1757803",
     "mobygames": 6982,
     "igdb": 9676
-  }
+  },
+  "roms": [
+    {
+      "name": "Vib-Ribbon (Germany)",
+      "source": "no_intro",
+      "size": 26808848,
+      "crc32": "cf49da3d",
+      "md5": "105d429cd060c828fdc9e549126d99a8",
+      "sha1": "df4435bd279310605e5315fa5c3c2ba99087ed5c"
+    },
+    {
+      "name": "Vib-Ribbon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 27909024,
+      "crc32": "33e2eb69",
+      "md5": "963fd389126510830f1e00bbe51ae09e",
+      "sha1": "67d78a884bcadc45100715c8c46b954eebe03b8d",
+      "sha256": "23c5e1d25d3390a2a23db978ae9c043b41417c919c4b356c0a24a594e2e4d447"
+    },
+    {
+      "name": "Vib-Ribbon (United Kingdom)",
+      "source": "no_intro",
+      "size": 26783616,
+      "crc32": "59a0482d",
+      "md5": "61c8f1cb85603c40bb139ab58dba214a",
+      "sha1": "3c56657c46f42bc4178522698fbc528a6ce86374",
+      "sha256": "4317c43c223758bbbf6d701451c931ccd15ee1fc7dd37bd6b3ac6b1d1d79da1b"
+    },
+    {
+      "name": "Vib-Ribbon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "29ba317d",
+      "md5": "536278d6d0a4bbe7f1a656c2c5a2e669",
+      "sha1": "95fbfe397a071479e49f0424ea201dca4df6e595"
+    },
+    {
+      "name": "Vib-Ribbon (Spain)",
+      "source": "no_intro",
+      "size": 26794864,
+      "crc32": "e85d885b",
+      "md5": "fd37d6f9140f2b3a26582d9ed6bccbdb",
+      "sha1": "c427f89c538776a749335e61b5298c11239badbb",
+      "sha256": "a49a96f5dbe510434c4a28f94970e08158d67d7315871b684f09c36d6bb80237"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Vib-Ribbon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Vib-Ribbon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Vib-Ribbon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

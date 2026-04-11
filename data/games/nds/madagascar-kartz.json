@@ -45,5 +45,65 @@
     "wikidata": "Q2328977",
     "mobygames": 91577,
     "igdb": 309578
-  }
+  },
+  "roms": [
+    {
+      "name": "Madagascar Kartz (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BMDE",
+      "size": 67108864,
+      "crc32": "eaf2aaa2",
+      "md5": "78b4ad67bddc75b504865eb5f20c055c",
+      "sha1": "896d367c056d121fb8cddb7dff8f7afdf04c628d"
+    },
+    {
+      "name": "Madagascar Kartz (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BMDP",
+      "size": 67108864,
+      "crc32": "54d83ef8",
+      "md5": "3bf21c5a3cc29f96d51ba4aef500aed9",
+      "sha1": "0acabfdf88d6676ec78ae40e48b78fc5a60f9e65"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Madagascar%20Kartz%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Madagascar%20Kartz%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Madagascar%20Kartz%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Madagascar%20Kartz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Madagascar%20Kartz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Madagascar%20Kartz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

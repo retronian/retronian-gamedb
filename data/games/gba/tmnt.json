@@ -63,5 +63,37 @@
     "wikidata": "Q262638",
     "mobygames": 27608,
     "igdb": 146283
-  }
+  },
+  "roms": [
+    {
+      "name": "TMNT (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BEXE",
+      "size": 8388608,
+      "crc32": "916db9d5",
+      "md5": "3dac0a2fb322eebbdad45ecc1ec8a943",
+      "sha1": "6dae74b04cdfe25c4c4535c4553541c71a102357"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/TMNT%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/TMNT%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/TMNT%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

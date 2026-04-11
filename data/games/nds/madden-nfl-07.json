@@ -65,6 +65,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "NFL",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2006-08-22",
@@ -72,5 +81,65 @@
     "wikidata": "Q2290200",
     "mobygames": 73315,
     "igdb": 243009
-  }
+  },
+  "roms": [
+    {
+      "name": "Madden NFL 07 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANFE",
+      "size": 33554432,
+      "crc32": "351edfa2",
+      "md5": "4ecbb8f6ebcbefc601e534957908960e",
+      "sha1": "26c7b5b8b407c9f5c96f63c52a82bcba54c03905"
+    },
+    {
+      "name": "Madden NFL 07 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANFP",
+      "size": 33554432,
+      "crc32": "1d04964b",
+      "md5": "d1c5e8e4f92b510fe555a4aa2c93c10f",
+      "sha1": "f16db2c61be89686306ede63d728ba8fb965db4f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Madden%20NFL%2007%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Madden%20NFL%2007%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Madden%20NFL%2007%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Madden%20NFL%2007%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Madden%20NFL%2007%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Madden%20NFL%2007%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

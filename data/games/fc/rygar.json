@@ -96,5 +96,131 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Rygar (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "6b5478bd",
+      "md5": "11897660b35c518deb410d45970dac3c",
+      "sha1": "1f2315aeafdf747f085cde801fb0ddc4a2465896",
+      "sha256": "ace59144a59977b088782c7c4e49f03e28a118bcf9a32f5948267b9fafb64671"
+    },
+    {
+      "name": "Rygar (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "17b633c2",
+      "md5": "140cd3e701cdacd222ab1a0caa1ec9ca",
+      "sha1": "d6a1c22b8674ec931d676ad6c339e6ec33e5df66",
+      "sha256": "965330fed9f5b8492452f3b53084752e83b7f899a1f88f3c475ece2fde6f9231"
+    },
+    {
+      "name": "Rygar (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "930a783d",
+      "md5": "8b50dea3b7ae2cb8bc91f6197fcd6079",
+      "sha1": "1be8831373bc22708e0d35444fa94c69c821280b",
+      "sha256": "520ef6d7f6beb0eec5f67b57f8ecef284534ba50bfccd751a6be04b512cf9d32"
+    },
+    {
+      "name": "Argos no Senshi (Japan) (FamicomBox)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "5f661dd3",
+      "md5": "b6e3d6157d55b312e9e6e9e301edcc75",
+      "sha1": "64424d632fe72ad51fd4e7ee703e6370d39749b9",
+      "sha256": "3258b0bd63e1bd01bd9deb97ae57ff9d207fcd1c34e751863a0b7c996c42d753"
+    },
+    {
+      "name": "Rygar (USA) (Sample)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "84ac1107",
+      "md5": "785dc0c955247772712f673dc5dc7e38",
+      "sha1": "40fe2bde7de06efb29232adfa577891a5ec4093f",
+      "sha256": "19d9b44fd66760567493ef5dffcb7e7b45ba760ae9359b427f2e5e077a84b88a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rygar%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rygar%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rygar%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rygar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rygar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rygar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rygar%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rygar%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rygar%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Argos%20no%20Senshi%20%28Japan%29%20%28FamicomBox%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Argos%20no%20Senshi%20%28Japan%29%20%28FamicomBox%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Argos%20no%20Senshi%20%28Japan%29%20%28FamicomBox%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

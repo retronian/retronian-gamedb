@@ -72,5 +72,76 @@
     "wikidata": "Q1462437",
     "mobygames": 43903,
     "igdb": 200999
-  }
+  },
+  "roms": [
+    {
+      "name": "James Cameron's Avatar - The Game (USA) (En,Fr,Es) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VAVE",
+      "size": 67108864,
+      "crc32": "06d2de88",
+      "md5": "470fbb0841ef5ba8d3e3d0667b9940bc",
+      "sha1": "74701a4198c13b19f1746e88389959c5cb13c8f5",
+      "sha256": "7baaf520f42dbf9ad2c91588171e570774eff31f5cbe1358f9de127bef9fcf30"
+    },
+    {
+      "name": "James Cameron's Avatar - The Game (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VAVV",
+      "size": 67108864,
+      "crc32": "184c68a0",
+      "md5": "2b2cac82f99db06e3cd3004af4ad5610",
+      "sha1": "217e28d24e478525399ed3c3b9f62f86e508bd1d"
+    },
+    {
+      "name": "James Cameron's Avatar - The Game (Japan) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "VAVJ",
+      "size": 67108864,
+      "crc32": "656ed100",
+      "md5": "8ede7adbc9a1b1fbb1d372518a46f0ee",
+      "sha1": "9f7fef0e1c54862dfd087021f2fcde86fc38a51d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/James%20Cameron%27s%20Avatar%20-%20The%20Game%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/James%20Cameron%27s%20Avatar%20-%20The%20Game%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/James%20Cameron%27s%20Avatar%20-%20The%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/James%20Cameron%27s%20Avatar%20-%20The%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/James%20Cameron%27s%20Avatar%20-%20The%20Game%20%28Japan%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/James%20Cameron%27s%20Avatar%20-%20The%20Game%20%28Japan%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -105,5 +105,77 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Midnight Resistance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-13043-00",
+      "size": 1048576,
+      "crc32": "8f3f6e4d",
+      "md5": "f02a5c603dd2f07864d5c85d21268d74",
+      "sha1": "b11db9fde0955c8aa0ae2d1a234d3295eda75d12",
+      "sha256": "d5c8cb049a75729a92364b2c4df005d18dff5a633967841b60de22fa26f87d06"
+    },
+    {
+      "name": "Midnight Resistance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-13016-00",
+      "size": 1048576,
+      "crc32": "187c6af6",
+      "md5": "809534b635e726f57bf1d95f3e6d7468",
+      "sha1": "6cdd9083e2ff72cfb0099fd57a7f9eade9a74dda",
+      "sha256": "a62343e7971062fac0c408c826499e0bd8f328d1ff703c4cf937c1329ce45edb"
+    },
+    {
+      "name": "Midnight Resistance (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-13016-00",
+      "size": 1048576,
+      "crc32": "7600e829",
+      "md5": "f4e3a8bde41d0da5134a4104f2d794c2",
+      "sha1": "2063068249ee183c47b1c1b9b0c8bb337dbeca51",
+      "sha256": "040e2d1b0bb0a17ae639b475bea8e53a0b2cf923106bade202a9446e7f96f415"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Midnight%20Resistance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Midnight%20Resistance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Midnight%20Resistance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Midnight%20Resistance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Midnight%20Resistance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Midnight%20Resistance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

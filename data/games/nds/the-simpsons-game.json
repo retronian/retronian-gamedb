@@ -81,5 +81,67 @@
     "wikidata": "Q1139044",
     "mobygames": 31222,
     "igdb": 259329
-  }
+  },
+  "roms": [
+    {
+      "name": "Simpsons Game, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YSZP",
+      "size": 134217728,
+      "crc32": "3c1a58f1",
+      "md5": "11415a94bd6e59cdf1cfeaed01d46eba",
+      "sha1": "64aa5f7ac470d7299840058aa52827a53e23c25d",
+      "sha256": "855877d40ecd1dcd60ffc47b5379f13820a50ae9451fe057eaf63866cca7b56a"
+    },
+    {
+      "name": "Simpsons Game, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YSZE",
+      "size": 134217728,
+      "crc32": "b2dcccd3",
+      "md5": "02bdcd04d742770456ec1fb522fd1e74",
+      "sha1": "75a5ac2084470354128b530328d961098a00484e",
+      "sha256": "7b1576bee784b41f89798522c52dae7203770f439521cfc079415db3c398458b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Simpsons%20Game%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Simpsons%20Game%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Simpsons%20Game%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Simpsons%20Game%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Simpsons%20Game%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Simpsons%20Game%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

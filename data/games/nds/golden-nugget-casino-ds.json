@@ -18,5 +18,65 @@
     "wikidata": "Q3110092",
     "mobygames": 88196,
     "igdb": 128369
-  }
+  },
+  "roms": [
+    {
+      "name": "Golden Nugget Casino DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AGNE",
+      "size": 33554432,
+      "crc32": "ec9da3ab",
+      "md5": "3620edd4062106869a450d151c39350f",
+      "sha1": "7b58e6a5e7ece9c9794e86713597034de14765ef"
+    },
+    {
+      "name": "Golden Nugget Casino DS (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AGNP",
+      "size": 33554432,
+      "crc32": "3afa3e78",
+      "md5": "02ed804568c49824710e3d50c644bc9c",
+      "sha1": "a709bb25bd074bf74ea059aaa96fe106e310961c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Golden%20Nugget%20Casino%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Golden%20Nugget%20Casino%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Golden%20Nugget%20Casino%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Golden%20Nugget%20Casino%20DS%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Golden%20Nugget%20Casino%20DS%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Golden%20Nugget%20Casino%20DS%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

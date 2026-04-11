@@ -46,6 +46,15 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": true
+    },
+    {
+      "text": "Kung Fu, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1987-11-21",
@@ -53,5 +62,100 @@
     "wikidata": "Q5099961",
     "mobygames": 34756,
     "igdb": 42127
-  }
+  },
+  "descriptions": [
+    {
+      "text": "『チャイナ・ウォリアー』は、『カンフー・マスター』の精神を受け継いだゲームです。物語は、ワンという名のカンフー戦士がダークエンペラーを倒し、中国を解放するために旅立つというものです。ゲームプレイは横スクロール型で、目的はステージの最後まで進み、ボスと戦うことです。その途中で悪党を叩きのめします。攻撃方法はパンチ、キック、ジャンプキックの3種類のみで、全4ステージがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "China Warrior (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "a2ee361d",
+      "md5": "60bb0116b706fc30a76840ed0b5da458",
+      "sha1": "1933869f66f30da4bc07b9ff6b6c2897b32088f2",
+      "sha256": "3b9f459c864b1274861dd0cd9dd77928769553f69a8403cc5f4d984631ffbc36"
+    },
+    {
+      "name": "Kung Fu, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "b552c906",
+      "md5": "b6f712b2ab6726a80a0e328f58d9e1b2",
+      "sha1": "dabdb21bef771282461f7bfee390a622217159ac",
+      "sha256": "3dd08ada517555dbf001492c72ebfcc5ef31de35b84d6aec2903e2dd70115257"
+    },
+    {
+      "name": "Kung Fu, The (Japan) (Wii Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "3872c2b3",
+      "md5": "4d72d145a429663cf859c4d4aabbcf5c",
+      "sha1": "2612f40b72ac96516678949182465839cd4ee85b",
+      "sha256": "11d3790f68a2258babe688d9b244cedf84fedca26b9ecbd5f2bf1fd2e6fe2d53"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/China%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/China%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/China%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Kung%20Fu%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Kung%20Fu%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Kung%20Fu%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Kung%20Fu%2C%20The%20%28Japan%29%20%28Wii%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Kung%20Fu%2C%20The%20%28Japan%29%20%28Wii%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Kung%20Fu%2C%20The%20%28Japan%29%20%28Wii%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

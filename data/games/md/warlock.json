@@ -63,5 +63,49 @@
     "wikidata": "Q3566321",
     "mobygames": 20396,
     "igdb": 19773
-  }
+  },
+  "roms": [
+    {
+      "name": "Warlock (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81446-00",
+      "size": 2097152,
+      "crc32": "c9b6edb3",
+      "md5": "30ad308fbb8d73deeda5197a1a2e6f0c",
+      "sha1": "870ce90ae5a58838c1e0531abdc0442389189234",
+      "sha256": "5b7da7912d31b36497a3e0f44a422157f639c4c7fb6796fefc6def22d49fecb0"
+    },
+    {
+      "name": "Warlock (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81446-00",
+      "size": 2097152,
+      "crc32": "0a46539b",
+      "md5": "dadf4e342963216f602b85e6271789db",
+      "sha1": "b64f3d0fa74ec93782b4c0441653d72b675e23a7",
+      "sha256": "f2c0ad065c7833876bfbece74f1bce03ffb93907b8d60a2ed6e0a8e1e07c4893"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Warlock%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Warlock%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Warlock%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

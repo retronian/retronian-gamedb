@@ -34,5 +34,37 @@
   "external_ids": {
     "wikidata": "Q7581468",
     "igdb": 48970
-  }
+  },
+  "roms": [
+    {
+      "name": "Spud's Adventure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "70e5ed99",
+      "md5": "c9e8c196d57aab17c4c171816fcd6492",
+      "sha1": "556f6bf41d671a80b0b71d5897c4d8a6ffc7b5b1",
+      "sha256": "966883149824ad2542a03a6402278d1397cdf0cbc0a7ba8410265410426ebfb9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Spud%27s%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Spud%27s%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Spud%27s%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

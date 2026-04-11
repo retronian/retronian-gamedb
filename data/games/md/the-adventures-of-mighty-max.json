@@ -18,5 +18,67 @@
     "wikidata": "Q3519716",
     "mobygames": 16812,
     "igdb": 8121
-  }
+  },
+  "roms": [
+    {
+      "name": "Adventures of Mighty Max, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-164056-00",
+      "size": 1048576,
+      "crc32": "24f1a3bb",
+      "md5": "fc296926083a902b0a6eafdf44e651d3",
+      "sha1": "e60eec1d39b32ce5cc2125cffd3016b4070a65c3",
+      "sha256": "dbfe7ec0b86f2ccc302fd0bed3807c9ca381d65fc0bc6ba5bc4c016ab534d3c9"
+    },
+    {
+      "name": "Adventures of Mighty Max, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-164056-00",
+      "size": 1048576,
+      "crc32": "55f13a00",
+      "md5": "5a0d9a3c53c0aa7c5b3d67387ab90cd6",
+      "sha1": "147364ce2de49a85bb64dd7f1075d9687d4fe89e",
+      "sha256": "0a73f92065950d9ad253ee3f2ccbc2ff743579cd12b31566163ea8ab8b8773db"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Adventures%20of%20Mighty%20Max%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Adventures%20of%20Mighty%20Max%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Adventures%20of%20Mighty%20Max%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Adventures%20of%20Mighty%20Max%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Adventures%20of%20Mighty%20Max%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Adventures%20of%20Mighty%20Max%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

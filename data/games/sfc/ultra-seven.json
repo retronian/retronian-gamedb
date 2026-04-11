@@ -36,5 +36,47 @@
     "wikidata": "Q11289200",
     "mobygames": 54127,
     "igdb": 44428
-  }
+  },
+  "roms": [
+    {
+      "name": "Ultra Seven (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "71b24bee",
+      "md5": "194296f2ae4e496fd5d513e54fa43207",
+      "sha1": "3488bba31a1fcfcb82671c7d6b3402151ad78b9f",
+      "sha256": "42aae4c65093f90e2347b8df45245c37973019c03eee163288226360181775fe"
+    },
+    {
+      "name": "Ultra Seven (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "a099290a",
+      "md5": "05ae54ad8a49accc931d9812292a0e3f",
+      "sha1": "91aa2214e0a80455a370b2843ef930298fbcf87b",
+      "sha256": "75eeecf6ae9f562566ec5305ade186b29321b421051f14dab6c188b9c2972fea"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ultra%20Seven%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ultra%20Seven%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ultra%20Seven%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -53,5 +53,38 @@
   "external_ids": {
     "wikidata": "Q3500405",
     "mobygames": 14695
-  }
+  },
+  "roms": [
+    {
+      "name": "Strider II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-79036-50",
+      "size": 1048576,
+      "crc32": "e85e5270",
+      "md5": "479ce05afb9d7491702be248d0bd20f3",
+      "sha1": "c048bf092745654bb60a437ef1543abfd407093c",
+      "sha256": "9df923d7eedada500521dc4ad0f0dceb51ea85d552e441d495e7b0116b7cd215"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Strider%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Strider%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Strider%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

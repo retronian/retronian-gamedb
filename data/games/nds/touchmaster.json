@@ -38,6 +38,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "TouchMaster 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2007-06-25",
@@ -45,5 +54,103 @@
     "wikidata": "Q2033284",
     "mobygames": 80478,
     "igdb": 23821
-  }
+  },
+  "roms": [
+    {
+      "name": "TouchMaster (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AO8E",
+      "size": 67108864,
+      "crc32": "6b7740c4",
+      "md5": "47299f9875d0f1a9e383944ab9ff4c32",
+      "sha1": "c829906b9f56a403e10bbbdee3c5ec49daaa48cb"
+    },
+    {
+      "name": "TouchMaster (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AO8E",
+      "size": 67108864,
+      "crc32": "fc123adf",
+      "md5": "29448af66614d14d6b4437b41a3d58fa",
+      "sha1": "6a4a64064a00877db7efeb54b3d94ac819b4405b"
+    },
+    {
+      "name": "TouchMaster (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AO8P",
+      "size": 67108864,
+      "crc32": "f2feff45",
+      "md5": "488fd422390aa9eb0274e0d751af9f33",
+      "sha1": "9f0f47ed678fd603ee2880a40b24d06f5635ea0c"
+    },
+    {
+      "name": "TouchMaster 2 (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CCME",
+      "size": 67108864,
+      "crc32": "3e06a893",
+      "md5": "d4fc5d5079bb4d2e8a9bb2b2247b4a56",
+      "sha1": "4c043a23b2a72a4ab5b35456e847e035a917e253"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TouchMaster%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TouchMaster%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TouchMaster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TouchMaster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TouchMaster%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TouchMaster%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TouchMaster%202%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/TouchMaster%202%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TouchMaster%202%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

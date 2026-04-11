@@ -63,5 +63,65 @@
     "wikidata": "Q2281747",
     "mobygames": 8697,
     "igdb": 8946
-  }
+  },
+  "roms": [
+    {
+      "name": "Anticipation (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "ebb47b17",
+      "md5": "8d82f07f36f92687c5ee25f2b612231c",
+      "sha1": "bce1e8d5539d6f92c9b23c8e0a60d1ed5491d2b8",
+      "sha256": "a582daed8f4a0db90bfc7d184a92822fc42c5997512e4a32f63abc1f342f403e"
+    },
+    {
+      "name": "Anticipation (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "d54f3ffc",
+      "md5": "b3cc21b008ed38beecd2939622aba8ca",
+      "sha1": "a3b8d2584d24ef58569d27076aac451d487bc320",
+      "sha256": "18b0069f67d4a0945a38e5eae8ada9b8ad3b05bfd7f03e2f037b9b07d376b0ce"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Anticipation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Anticipation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Anticipation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Anticipation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Anticipation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Anticipation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

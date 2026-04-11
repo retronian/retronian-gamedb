@@ -72,5 +72,107 @@
     "wikidata": "Q54320",
     "mobygames": 6986,
     "igdb": 307080
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "7e3f6bbe",
+      "md5": "8a874449c207af6e4726337ca899e35a",
+      "sha1": "3a6028708d9fb23a27104201fa8725a5dfb3b161",
+      "sha256": "d990ce85310d663c172fbbed74ff0868353fa5944d24f2411a828650aa46d62e"
+    },
+    {
+      "name": "Star Wars (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "b01da1ae",
+      "md5": "63098fde8f2dcb977c9a8f0389e0d033",
+      "sha1": "82c4114312efdc86c578e8683941a950fc2bb4c3",
+      "sha256": "9cf6aa2b4d6a4bb877d33bb6131562c9f41deb369d08c5b60266941bb276561f"
+    },
+    {
+      "name": "Star Wars (USA, Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "5d8deb5b",
+      "md5": "cb1dce08c78c509a876c494d6333f45c",
+      "sha1": "f6563f526fc786c8666d75dfba9e6d42d787ea89",
+      "sha256": "748207e8ee61d86eba84a3ff49b618a1e11c0c3f8ad64dff2f12f3a00f5dd69a"
+    },
+    {
+      "name": "Star Wars (World) (Limited Run Games)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "08838397",
+      "md5": "c1b3f705a5e0786b223e9c2ece073fe5",
+      "sha1": "02bfb690ce171214bfee900069192e0daafc010d",
+      "sha256": "a953444c8690e74ab5f6dc18d2672fd7d4dd23c78035fea5bd9b44d930630232"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Star%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Star%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Star%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Star%20Wars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Star%20Wars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Star%20Wars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Star%20Wars%20%28USA%2C%20Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Star%20Wars%20%28USA%2C%20Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Star%20Wars%20%28USA%2C%20Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Star%20Wars%20%28World%29%20%28Limited%20Run%20Games%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

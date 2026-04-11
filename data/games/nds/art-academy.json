@@ -72,5 +72,66 @@
     "wikidata": "Q3624011",
     "mobygames": 87261,
     "igdb": 22959
-  }
+  },
+  "roms": [
+    {
+      "name": "Art Academy (USA) (En,Fr,Es) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VAAE",
+      "size": 33554432,
+      "crc32": "6e4f4d64",
+      "md5": "9812efe039be566ff134395822c0e24c",
+      "sha1": "27551d10b6487c6e038e2b8eb93b6e0568b88822"
+    },
+    {
+      "name": "Art Academy (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VAAV",
+      "size": 33554432,
+      "crc32": "a45a4235",
+      "md5": "6c523b9d72785d78dec0613a2fd8be66",
+      "sha1": "e256e0e40b5629507a382a1c6dc57cf23c540f83",
+      "sha256": "f48199166208fc7c4589456f81f23e55f2da20b10186a70fc3e1dc6e7a340465"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Art%20Academy%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Art%20Academy%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Art%20Academy%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Art%20Academy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Art%20Academy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Art%20Academy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

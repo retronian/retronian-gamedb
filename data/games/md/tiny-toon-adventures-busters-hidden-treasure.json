@@ -54,5 +54,67 @@
     "wikidata": "Q2666939",
     "mobygames": 24168,
     "igdb": 8049
-  }
+  },
+  "roms": [
+    {
+      "name": "Tiny Toon Adventures - Buster's Hidden Treasure (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-95036-00",
+      "size": 524288,
+      "crc32": "d10fba51",
+      "md5": "f34b286c0abd5eaab6a2e98a1c4c5176",
+      "sha1": "9e63b150cc2ec0ef141e68ffda862aa8db604441",
+      "sha256": "6c6609860b95bbdbb90febd86b024731d8161a63ad1bb819d1a1a483aebfb6a9"
+    },
+    {
+      "name": "Tiny Toon Adventures - Buster's Hidden Treasure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95036-00",
+      "size": 524288,
+      "crc32": "a26d3ae0",
+      "md5": "4831cb1b067887a086467ec51653af48",
+      "sha1": "d8d159c7c5a365242f989cc3aad2352fb27e3af3",
+      "sha256": "de4aae332898cad6977e2965bcff43285d4c03553a50b0ecb7c5ad7e1072280b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Tiny%20Toon%20Adventures%20-%20Buster%27s%20Hidden%20Treasure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Tiny%20Toon%20Adventures%20-%20Buster%27s%20Hidden%20Treasure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Tiny%20Toon%20Adventures%20-%20Buster%27s%20Hidden%20Treasure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Tiny%20Toon%20Adventures%20-%20Buster%27s%20Hidden%20Treasure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Tiny%20Toon%20Adventures%20-%20Buster%27s%20Hidden%20Treasure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Tiny%20Toon%20Adventures%20-%20Buster%27s%20Hidden%20Treasure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

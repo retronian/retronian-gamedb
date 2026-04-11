@@ -18,5 +18,66 @@
     "wikidata": "Q4958201",
     "mobygames": 88524,
     "igdb": 43248
-  }
+  },
+  "roms": [
+    {
+      "name": "Bratz - Girlz Really Rock (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CBGE",
+      "size": 33554432,
+      "crc32": "9a66c11f",
+      "md5": "e4716f29fd6de10170e16dc629917cf5",
+      "sha1": "7b1f4b9b811fa63cb44c8085e7e4902d0572e761"
+    },
+    {
+      "name": "Bratz - Girlz Really Rock (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CBGP",
+      "size": 33554432,
+      "crc32": "2d02f1cd",
+      "md5": "e029ed7bad00954175516648b52ac9d1",
+      "sha1": "8ab92e603e40116af77b543c876dc2eb4c511976",
+      "sha256": "bc6d44d38ab717e26014cf2d9c53c4ba0058b23e585cd3c478199829fec0017e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bratz%20-%20Girlz%20Really%20Rock%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bratz%20-%20Girlz%20Really%20Rock%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bratz%20-%20Girlz%20Really%20Rock%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bratz%20-%20Girlz%20Really%20Rock%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bratz%20-%20Girlz%20Really%20Rock%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bratz%20-%20Girlz%20Really%20Rock%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

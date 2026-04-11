@@ -71,5 +71,93 @@
     "mobygames": 48641,
     "igdb": 49004
   },
-  "first_release_date": "1991-02-28"
+  "first_release_date": "1991-02-28",
+  "roms": [
+    {
+      "name": "F-1 Spirit (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "f9e08783",
+      "md5": "f7caa11fcb8be738e1fd584ac8aad215",
+      "sha1": "4f950151001c2c7e157bc407601d9a8eb9d2523c",
+      "sha256": "03552bd30ac35ac5b37a7e9da06a92ba79386135fc6c340a38af4af7984fd66d"
+    },
+    {
+      "name": "Spirit of F-1, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "2b795480",
+      "md5": "b5a41149d31b00fae3460c5b89c6755b",
+      "sha1": "a777c399bb4b8d3e55ee0e8b29890e20b859d5e4",
+      "sha256": "f3dfed6d221606d08a4a0aeda10eb20829ea6acdf050e69c3161db9eaa6cb87d"
+    },
+    {
+      "name": "World Circuit Series (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "77c3aa0b",
+      "md5": "d9774af8edb8969adfd3693d5d7ab166",
+      "sha1": "9aa2b4330a2b8ffd117a871660f2526c4b2b4753",
+      "sha256": "246d48cb2a6ed53a7cf78d94fc219762aaaea0111467a5fcf415ca76f9170124"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/F-1%20Spirit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/F-1%20Spirit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/F-1%20Spirit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Spirit%20of%20F-1%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Spirit%20of%20F-1%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Spirit%20of%20F-1%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/World%20Circuit%20Series%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/World%20Circuit%20Series%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/World%20Circuit%20Series%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

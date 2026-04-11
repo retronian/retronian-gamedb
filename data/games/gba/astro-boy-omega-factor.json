@@ -81,5 +81,67 @@
     "wikidata": "Q751268",
     "mobygames": 17646,
     "igdb": 6310
-  }
+  },
+  "roms": [
+    {
+      "name": "Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BTAE",
+      "size": 8388608,
+      "crc32": "e8619031",
+      "md5": "c518725055083f6096f3268cf608acda",
+      "sha1": "4d652c24979dd7a08ee683b32d1d8986a5511a87",
+      "sha256": "27d194147f65cc20319e8281e595f27309d7aef10571ba6fc13ab4375c4e9bcd"
+    },
+    {
+      "name": "Astro Boy - Omega Factor (Europe) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BTAP",
+      "size": 8388608,
+      "crc32": "1e2e8937",
+      "md5": "8d5b5381539fcad4df2bc7902a432dee",
+      "sha1": "9a4fc3533bbdb28fd5945bd1ee7d84d992eee12f",
+      "sha256": "06ac840a438c61fe0e15d7b399358706a20d082a4e37d46666a7ca5b02fc55a9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Astro%20Boy%20-%20Omega%20Factor%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Astro%20Boy%20-%20Omega%20Factor%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Astro%20Boy%20-%20Omega%20Factor%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Astro%20Boy%20-%20Omega%20Factor%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Astro%20Boy%20-%20Omega%20Factor%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Astro%20Boy%20-%20Omega%20Factor%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

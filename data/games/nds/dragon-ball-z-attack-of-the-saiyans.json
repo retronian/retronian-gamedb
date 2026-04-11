@@ -45,5 +45,77 @@
     "wikidata": "Q2702457",
     "mobygames": 45710,
     "igdb": 21196
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Ball Z - Attack of the Saiyans (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BRPP",
+      "size": 134217728,
+      "crc32": "4e8c3e1b",
+      "md5": "b6d67064618109c4edf675f3275b87db",
+      "sha1": "f457c2aebd488e1401bd1e6ad3772bc5fb67bc62",
+      "sha256": "c56181b2d8d3a1e552602fe208126dfd82ea8e476067eb79e229039a9acea3ed"
+    },
+    {
+      "name": "Dragon Ball Z - Attack of the Saiyans (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BRPE",
+      "size": 134217728,
+      "crc32": "a9f0b8f9",
+      "md5": "9c83a44ca1880d813eeb1c968dc6931f",
+      "sha1": "b5d8ebbc8813db68270ea02f0e581f6005f54736"
+    },
+    {
+      "name": "Dragon Ball Z - Attack of the Saiyans (USA) (En,Fr) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BRPE",
+      "size": 134217728,
+      "crc32": "e8b48265",
+      "md5": "f825be4299dbba73aed7e82f24939ffc",
+      "sha1": "71192c85d2143a233c5e5a4c29e305bb14adff0f",
+      "sha256": "7c9ca9e77db5e5c8ed8ed0976f337df3bed074fd3362f05f0caeb0fe444b5c48"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Attack%20of%20the%20Saiyans%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dragon%20Ball%20Z%20-%20Attack%20of%20the%20Saiyans%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Attack%20of%20the%20Saiyans%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Attack%20of%20the%20Saiyans%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dragon%20Ball%20Z%20-%20Attack%20of%20the%20Saiyans%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Attack%20of%20the%20Saiyans%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

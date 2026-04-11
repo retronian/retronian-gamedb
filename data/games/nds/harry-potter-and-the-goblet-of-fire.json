@@ -90,5 +90,66 @@
     "wikidata": "Q849901",
     "mobygames": 20610,
     "igdb": 248545
-  }
+  },
+  "roms": [
+    {
+      "name": "Harry Potter and the Goblet of Fire (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHPP",
+      "size": 67108864,
+      "crc32": "1f500e4f",
+      "md5": "713d37e0693e4a88f1f563001125f586",
+      "sha1": "e789ce9fb717b71788a81b7119959611005cc9c1"
+    },
+    {
+      "name": "Harry Potter and the Goblet of Fire (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHPE",
+      "size": 67108864,
+      "crc32": "1fea6117",
+      "md5": "64406da28a6215a5cf84e4311e3b0304",
+      "sha1": "2bc964db3f61c0e0e538c505ab7bfbe5339a54e5",
+      "sha256": "b41d66d65337c69d8ac9aca1eef2c6d9377558d9e110038d5e3c3355c9f55864"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

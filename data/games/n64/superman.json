@@ -72,5 +72,66 @@
     "wikidata": "Q2530979",
     "mobygames": 9239,
     "igdb": 3005
-  }
+  },
+  "roms": [
+    {
+      "name": "Superman (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NSPP",
+      "size": 8388608,
+      "crc32": "bca4ff8c",
+      "md5": "5ab39f2d7a144e1ba243df059560e878",
+      "sha1": "326378f4c05ca48b69d29ca1c72ab8e19b6ee10d",
+      "sha256": "ae0cb81d7fff296f4a079e3ec08255ea9d65979230bb41ab4ae492bf830d56a0"
+    },
+    {
+      "name": "Superman (USA) (Beta) (1998-09-06)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 12582912,
+      "crc32": "719171f1",
+      "md5": "1170033980adc1981505cf958f35f1eb",
+      "sha1": "2b12793230e8a3add22619f51075cb7ca9fc5e2e",
+      "sha256": "6fc819bcf528d1c526a081ab79d6a71360022a4457cee3a425f1884e684ab91b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Superman%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Superman%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Superman%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Superman%20%28USA%29%20%28Beta%29%20%281998-09-06%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Superman%20%28USA%29%20%28Beta%29%20%281998-09-06%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Superman%20%28USA%29%20%28Beta%29%20%281998-09-06%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -46,12 +46,118 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "ザ・ブラック バス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "ザ・ブラックバス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
     }
   ],
-  "first_release_date": "1988-10-18",
+  "first_release_date": "1987-02-06",
   "external_ids": {
     "wikidata": "Q7718244",
     "mobygames": 31939,
     "igdb": 17458
-  }
+  },
+  "roms": [
+    {
+      "name": "Black Bass II, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "3d6822af",
+      "md5": "96c937850b4e78d77e954c130a5f298a",
+      "sha1": "7b06b14d6401014f9499a49c9c2e651acbba6a56",
+      "sha256": "41987dc4b4cd950c4a423802e889a0058f4cd07d7c0b495de3eb24d4401e19a8"
+    },
+    {
+      "name": "Black Bass, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "b9c14183",
+      "md5": "a3958e6f69a5f71a8219fc57c41e62d6",
+      "sha1": "ecc9fc8131a04fd36b49d659180ee50ace27c2ff",
+      "sha256": "5d41545ea3953706989b4f4ded3fd81954ce189b8b2a6111e7aab56b5fe90190"
+    },
+    {
+      "name": "Black Bass, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "1485aab1",
+      "md5": "23483609cc4517382e4890f24c5d16d0",
+      "sha1": "c95e3303909cd8d2e40e5e09d1b809527a186216",
+      "sha256": "308653c62a605c0fa726d0555bc7805b98e83b514bb78c4046378fe5a62e549d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Black%20Bass%20II%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Black%20Bass%20II%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Black%20Bass%20II%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Black%20Bass%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Black%20Bass%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Black%20Bass%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Black%20Bass%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Black%20Bass%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Black%20Bass%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

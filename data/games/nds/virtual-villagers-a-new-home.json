@@ -62,5 +62,32 @@
   "external_ids": {
     "wikidata": "Q2469755",
     "igdb": 200811
-  }
+  },
+  "roms": [
+    {
+      "name": "Virtual Villagers - A New Home (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BVVE",
+      "size": 16777216,
+      "crc32": "ce8a00ff",
+      "md5": "98854a5669ac56fe105c0dcbce821814",
+      "sha1": "222778a3d93b067f52f45452bd293c53a5193987",
+      "sha256": "bad5cb7ca883926a3b590c3e7e8f04473a816df125476f345c2a69b6df64f314"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Virtual%20Villagers%20-%20A%20New%20Home%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Virtual%20Villagers%20-%20A%20New%20Home%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

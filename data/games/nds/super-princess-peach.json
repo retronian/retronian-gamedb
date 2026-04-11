@@ -80,5 +80,123 @@
     "wikidata": "Q1996527",
     "mobygames": 21486,
     "igdb": 20497
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Princess Peach (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ASPJ",
+      "size": 33554432,
+      "crc32": "eedb5a12",
+      "md5": "fef6141a59391d95fe5f91dfacb2a34c",
+      "sha1": "0f8c9b1ff62cbc8bcb611421d20908a1c8379750",
+      "sha256": "96b2efc70bd21af394ab24b08f905a89ef1355b05a529f4122c63878d4d31382"
+    },
+    {
+      "name": "Super Princess Peach (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASPE",
+      "size": 33554432,
+      "crc32": "ba66a82e",
+      "md5": "3c1a8bd8ea761fc505eacabfff19ffa0",
+      "sha1": "706958f81053bc54715ab3afa1e80984b003c3f9"
+    },
+    {
+      "name": "Super Princess Peach (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASPP",
+      "size": 33554432,
+      "crc32": "4aece112",
+      "md5": "771a8e925cef17ddbce3a3f7a246d141",
+      "sha1": "ab7f9db93f7517d4c6db289ff2fed477e5bd0d0b"
+    },
+    {
+      "name": "Super Princess Peach (Japan) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A54J",
+      "size": 33554432,
+      "crc32": "50f3c448",
+      "md5": "1a0906bb420e2adb9785faeea3c62a71",
+      "sha1": "ccef4a26366e3b80a9dc193a54324079cb00f3d1",
+      "sha256": "0b1d2b392d88d6e749d5af882f52ef95b5d654ab82988030d73532678e6ec281"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Princess%20Peach%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Princess%20Peach%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Princess%20Peach%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Princess%20Peach%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Princess%20Peach%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Princess%20Peach%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Princess%20Peach%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Princess%20Peach%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Princess%20Peach%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Princess%20Peach%20%28Japan%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Princess%20Peach%20%28Japan%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Princess%20Peach%20%28Japan%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

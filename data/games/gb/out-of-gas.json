@@ -18,5 +18,53 @@
     "wikidata": "Q7111541",
     "mobygames": 17198,
     "igdb": 49050
-  }
+  },
+  "roms": [
+    {
+      "name": "Out of Gas (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "c3e365b4",
+      "md5": "fe78f234327f0293c653a1e5846cc777",
+      "sha1": "ff90b89b413437b5e3360e28b6a62573619b4558",
+      "sha256": "927451a71c2344041c35ad1eaa4bd1e0d489200d6a944bcad0d25abded3169fb"
+    },
+    {
+      "name": "Out of Gas (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "1b67e8b1",
+      "md5": "0b7cbe56d1cf6370e60699e553d091a1",
+      "sha1": "770ac35c0780cf432235593bd5674e72edd6cf7d",
+      "sha256": "efcce0d4264fbfff4b1b3a0843a681194b2d7a597e842d2895c2eadcfc6998c3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Out%20of%20Gas%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Out%20of%20Gas%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Out%20of%20Gas%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Out%20of%20Gas%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

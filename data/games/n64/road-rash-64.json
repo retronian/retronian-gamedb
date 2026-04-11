@@ -45,5 +45,105 @@
     "wikidata": "Q3434074",
     "mobygames": 3847,
     "igdb": 3589
-  }
+  },
+  "roms": [
+    {
+      "name": "Road Rash 64 (Europe) (Beta) (1999-10-12)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NROP",
+      "size": 33554432,
+      "crc32": "4fb98385",
+      "md5": "436f93c0d8b1650bc308ccf344c08c93",
+      "sha1": "615fed220a13096bb6fc4c5d7902c66fc5a044d7",
+      "sha256": "7d0047fe373a032756bb97468c4db59929468abf3a42b45544e31cc5cbfdbc80"
+    },
+    {
+      "name": "Road Rash 64 (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 33554432,
+      "crc32": "47884c05",
+      "md5": "4d1d8b2bb146a98a66e23189b67ec12f",
+      "sha1": "61d9fffea1565703d656a4468108d45af7199c09",
+      "sha256": "93dcac74d4d4462d555feac7324c4b9ccdb5b12d86e843b10919bd009d727fa1"
+    },
+    {
+      "name": "Road Rash 64 (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NROE",
+      "size": 33554432,
+      "crc32": "e5079d96",
+      "md5": "4a2400af877b161fc7a265e46be53251",
+      "sha1": "cd4d68ceb61a663175bcea7f7492d95c27268838",
+      "sha256": "70822f8b0a6ae09e8eed5789b584c4f4c1622777c621d402ab1797ddbc1e261b"
+    },
+    {
+      "name": "Road Rash 64 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NROP",
+      "size": 33554432,
+      "crc32": "3c664a7b",
+      "md5": "ad922dae446a301e1aafe1dfbad75a2e",
+      "sha1": "816824cb5dc62ee54dc52c0ebb9b2564ecb88133",
+      "sha256": "bfc3324c7689d6b76fbda6e4a431ae5eeb017da9707240d1d21109fda3a1e610"
+    },
+    {
+      "name": "Road Rash 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NROE",
+      "size": 33554432,
+      "crc32": "600b3988",
+      "md5": "28c2373f6d831eec81f6146a809e701b",
+      "sha1": "87727a298f583ec8325f5655088ff21e37b335b2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Road%20Rash%2064%20%28Europe%29%20%28Beta%29%20%281999-10-12%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Road%20Rash%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Road%20Rash%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Road%20Rash%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Road%20Rash%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Road%20Rash%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Road%20Rash%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

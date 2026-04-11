@@ -62,5 +62,65 @@
     "wikidata": "Q2001228",
     "mobygames": 32808,
     "igdb": 6394
-  }
+  },
+  "roms": [
+    {
+      "name": "Dynasty Warriors Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B36E",
+      "size": 16777216,
+      "crc32": "ad5a2a4e",
+      "md5": "2a2661cbc8e3891864fdc1d34f9d1c9b",
+      "sha1": "6839254172e558923cde6a912a5ee537eec5fd40"
+    },
+    {
+      "name": "Dynasty Warriors Advance (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B36P",
+      "size": 16777216,
+      "crc32": "74cdb37a",
+      "md5": "e36e394b1d44b3c50cd8630d54da9e4d",
+      "sha1": "f4e8fb4dbc409c508ce523f45e9f85892bd26a89"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dynasty%20Warriors%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dynasty%20Warriors%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dynasty%20Warriors%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dynasty%20Warriors%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dynasty%20Warriors%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dynasty%20Warriors%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -36,5 +36,53 @@
     "wikidata": "Q388109",
     "mobygames": 74248,
     "igdb": 194236
-  }
+  },
+  "roms": [
+    {
+      "name": "Legend of Kay (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BKYP",
+      "size": 33554432,
+      "crc32": "1059a815",
+      "md5": "7143e11570cec746674aabe8b441e824",
+      "sha1": "d280fca1de64b043e297240d9440fd4831737435"
+    },
+    {
+      "name": "Legend of Kay (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BKYE",
+      "size": 33554432,
+      "crc32": "2dac2dee",
+      "md5": "79760a3fab501a8cd3f6a88aa5f4c58d",
+      "sha1": "8cfeb9fb4e6b5ef0b91be5fad8eb902f549276b2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Legend%20of%20Kay%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Legend%20of%20Kay%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Legend%20of%20Kay%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Legend%20of%20Kay%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

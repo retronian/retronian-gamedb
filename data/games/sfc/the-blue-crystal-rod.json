@@ -20,11 +20,50 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Blue Crystal Rod, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ブルークリスタルロッド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ザ ブルークリスタルロッド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1994-03-25",
   "external_ids": {
     "wikidata": "Q11306715",
     "igdb": 38183
-  }
+  },
+  "roms": [
+    {
+      "name": "Blue Crystal Rod, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "efc21f71",
+      "md5": "a8fe07895a4d7651e99a39b9eb5a3539",
+      "sha1": "5771b2366802f7ff2f5a2402d11beb1da5627dd5",
+      "sha256": "1f7b1e017bd98c9c0f422c3686630168c44e9a82a82faed96c8bfe49b065edee"
+    }
+  ]
 }

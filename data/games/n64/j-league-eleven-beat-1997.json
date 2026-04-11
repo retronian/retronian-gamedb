@@ -29,10 +29,51 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Jリーグサッカーイレブンビート1997",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1997-10-24",
   "external_ids": {
     "wikidata": "Q3156715"
-  }
+  },
+  "roms": [
+    {
+      "name": "J.League Eleven Beat 1997 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NJEJ",
+      "size": 8388608,
+      "crc32": "7d0eed6a",
+      "md5": "30e23d3de446e37e5e7fbef6794a6fc9",
+      "sha1": "0403902145ced0c42252981bc6c8fef2f76ccc08"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/J.League%20Eleven%20Beat%201997%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/J.League%20Eleven%20Beat%201997%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/J.League%20Eleven%20Beat%201997%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

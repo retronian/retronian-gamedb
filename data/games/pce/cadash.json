@@ -61,5 +61,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Cadash (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "bb0b3aef",
+      "md5": "617a4254c05e88145110718951039e61",
+      "sha1": "31c9692ba8c7eab995a6d3ab1e2079b69b47847f",
+      "sha256": "04d9978d41ec53e3bc346aa6ec53ec9a473851ee8ed1d7196a3ef9859a8b69ab"
+    },
+    {
+      "name": "Cadash (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "8dc0d85f",
+      "md5": "d42cf9bda2b8691a63c3f8337daa9b1d",
+      "sha1": "3755cb2b883bc106e58019e1cd82708a63394f35",
+      "sha256": "d6fd957b5f7648cb2ace2410908fac4ee0341445843433e46fa8def8f1a4cbec"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Cadash%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Cadash%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Cadash%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Cadash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Cadash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Cadash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

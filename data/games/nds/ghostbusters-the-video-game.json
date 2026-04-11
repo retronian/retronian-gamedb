@@ -63,5 +63,53 @@
     "wikidata": "Q1514853",
     "mobygames": 41225,
     "igdb": 77275
-  }
+  },
+  "roms": [
+    {
+      "name": "Ghostbusters - The Video Game (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YGQE",
+      "size": 67108864,
+      "crc32": "89c6f92e",
+      "md5": "dd1b54131db884893f7d838f1eea8c7e",
+      "sha1": "29645e44b0f2ab2cd89ce9a99c4a50d95c35d223"
+    },
+    {
+      "name": "Ghostbusters - The Video Game (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YGQP",
+      "size": 67108864,
+      "crc32": "eac6ca42",
+      "md5": "7b67e219a7843f4908461c264f0a13e9",
+      "sha1": "332d8ea3c00a1ba19e9feb87207b3d71a8efa912"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ghostbusters%20-%20The%20Video%20Game%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ghostbusters%20-%20The%20Video%20Game%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ghostbusters%20-%20The%20Video%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ghostbusters%20-%20The%20Video%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

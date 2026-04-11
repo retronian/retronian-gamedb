@@ -89,5 +89,82 @@
   "external_ids": {
     "wikidata": "Q168615",
     "mobygames": 8384
-  }
+  },
+  "roms": [
+    {
+      "name": "1080 Snowboarding (Europe) (En,Ja,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NTEP",
+      "size": 16777216,
+      "crc32": "75a21679",
+      "md5": "632c98cf281cda776e66685b278a4fa6",
+      "sha1": "637d92b08dbfe7c2f9d5e338835b1fce5f4a87d0",
+      "sha256": "a5d47b9b21bc2c234a0e5c8a1f7eb0e893a914e17a0755318b48c5ad15b7d13c"
+    },
+    {
+      "name": "1080 Snowboarding (Japan, USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NTEA",
+      "size": 16777216,
+      "crc32": "08fe81c7",
+      "md5": "fa27089c425dbab99f19245c5c997613",
+      "sha1": "79cd1166c365e5809dec9b62e6d40d6032d5db3a",
+      "sha256": "5e9d7168e5786ba1bd4b643431ba7100ff3d7a09e558acae15438d426c0f34df"
+    },
+    {
+      "name": "1080 Snowboarding (USA) (En,Ja) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 16777216,
+      "crc32": "67e010d2",
+      "md5": "c6061ad1b4446c4db57cdf094da7c534",
+      "sha1": "7266eef53af8f2c21f3e3288258121f97eddfa7e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/1080%20Snowboarding%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/1080%20Snowboarding%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/1080%20Snowboarding%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/1080%20Snowboarding%20%28Japan%2C%20USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/1080%20Snowboarding%20%28Japan%2C%20USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/1080%20Snowboarding%20%28Japan%2C%20USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/1080%20Snowboarding%20%28USA%29%20%28En%2CJa%29%20%28LodgeNet%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

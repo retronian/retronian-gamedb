@@ -83,12 +83,133 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "メタルスラッグ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Metal Slug",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "메탈슬러그",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "合金弹头",
+      "lang": "zh",
+      "script": "Hans",
+      "region": "cn",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Super Vehicle-001",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Super Vehicle-001",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Metal Slug",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1999-01-01",
+  "first_release_date": "1996-05-18",
   "external_ids": {
     "wikidata": "Q1072820",
     "mobygames": 4048,
     "igdb": 191478
-  }
+  },
+  "roms": [
+    {
+      "name": "Metal Slug (Asia)",
+      "source": "no_intro",
+      "size": 204355952,
+      "crc32": "dfca3189",
+      "md5": "5a487bc9cb1876eff0a55d472dc8bc21",
+      "sha1": "4bf8bb89bde4b01ab6dbd438236fcb36fe7ba530"
+    },
+    {
+      "name": "Metal Slug (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "a20c789b",
+      "md5": "baf461ecff43c48b2d28c2befcb578e0",
+      "sha1": "634db0bd1d13d48eb4c911563284c7665571a02f"
+    },
+    {
+      "name": "Metal Slug X (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 194355104,
+      "crc32": "b37e2821",
+      "md5": "44af0515ab3094446535f2d27c0b6fe6",
+      "sha1": "2e6b301998c97173ffec77f64a3c834a8871379c",
+      "sha256": "2bcfa7604d7709451df7ea444da50d1edf0ec17742f298ef7958551b232b1f7b"
+    },
+    {
+      "name": "Metal Slug X (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 73740512,
+      "crc32": "e3af8d67",
+      "md5": "68de9265d4cdc71cdf57b9ca482c4c15",
+      "sha1": "9dbb47a59e7099b8d75316f6c771adea533d2357"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Metal%20Slug%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Metal%20Slug%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Metal%20Slug%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

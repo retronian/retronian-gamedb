@@ -54,5 +54,66 @@
     "wikidata": "Q3434110",
     "mobygames": 46308,
     "igdb": 3590
-  }
+  },
+  "roms": [
+    {
+      "name": "Roadsters (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NRRP",
+      "size": 12582912,
+      "crc32": "997ed5af",
+      "md5": "41f67b5c8bb8daeffd989123846fc063",
+      "sha1": "2ad3bccd29dc879a873c926af03002e36582525a",
+      "sha256": "ba3307883fe81ddeb81ed6a51cb1d4cd9d3353c73ca9007c02212c777b572e2e"
+    },
+    {
+      "name": "Roadsters (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NRRE",
+      "size": 12582912,
+      "crc32": "e4337b92",
+      "md5": "d3644b398c090528e0ed9eb3c140366e",
+      "sha1": "d896ffcba44696bdb7e2048841f287ea5951ad2a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Roadsters%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Roadsters%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Roadsters%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Roadsters%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Roadsters%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Roadsters%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

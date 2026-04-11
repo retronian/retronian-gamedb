@@ -90,5 +90,47 @@
     "wikidata": "Q1707792",
     "mobygames": 1434,
     "igdb": 306463
-  }
+  },
+  "roms": [
+    {
+      "name": "Space Harrier (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "64580427",
+      "md5": "2c476453f2156c7afe10b5ed1fa60955",
+      "sha1": "b59ccab8f7e73d4a9b29ccd8befb78cbcd491fa4",
+      "sha256": "100fd7b5db01e86a357d25c55f888b9274a8cf2e4079a1b59efa809e49502698"
+    },
+    {
+      "name": "Space Harrier (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "43b05eb8",
+      "md5": "b87aba8faae39f238a8b2176daec96f4",
+      "sha1": "948e6a5c30dcf945ab8332009ae4fa3ab231255a",
+      "sha256": "de033172636f5cc214a4d365c7d643cb3ed720c7ca05e035142ac6f60704cb6a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Space%20Harrier%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Space%20Harrier%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Space%20Harrier%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

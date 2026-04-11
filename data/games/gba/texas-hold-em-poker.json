@@ -18,5 +18,65 @@
     "wikidata": "Q7707743",
     "mobygames": 57156,
     "igdb": 18051
-  }
+  },
+  "roms": [
+    {
+      "name": "Texas Hold 'em Poker (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BXAE",
+      "size": 4194304,
+      "crc32": "78b59aac",
+      "md5": "07397d508982f2c340c296d2c057db8a",
+      "sha1": "5fcc9958210d8bde94a429516b15ca669427fe6d"
+    },
+    {
+      "name": "Texas Hold 'em Poker (Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BXAE",
+      "size": 4194304,
+      "crc32": "1a13df6b",
+      "md5": "855cdf29fc72a4c55026aeaca8480bb9",
+      "sha1": "f6d018d9174bf04fd8c90b3173570391f2d11b19"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Texas%20Hold%20%27em%20Poker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Texas%20Hold%20%27em%20Poker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Texas%20Hold%20%27em%20Poker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Texas%20Hold%20%27em%20Poker%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Texas%20Hold%20%27em%20Poker%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Texas%20Hold%20%27em%20Poker%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -61,5 +61,95 @@
     "wikidata": "Q50277087",
     "mobygames": 24495,
     "igdb": 2319
-  }
+  },
+  "roms": [
+    {
+      "name": "Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B24E",
+      "size": 33554432,
+      "crc32": "dd0ac86c",
+      "md5": "2100cf6f17e12cd34f1513647dfa506b",
+      "sha1": "9f4cfc5b5f4859d17169a485462e977c7aac2b89",
+      "sha256": "ad316814c77ed083734d816ebcde2ece390efae8d15bcb6c66d7c2862d82eb68"
+    },
+    {
+      "name": "Pokemon Mystery Dungeon - Red Rescue Team (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B24P",
+      "size": 33554432,
+      "crc32": "c1d18fe4",
+      "md5": "9837da1fdfe900c52f2109d9718d4e85",
+      "sha1": "afee3b060dd5fd4a68afb1b003456aef3a2af073",
+      "sha256": "0f9d125d513d9cba628d97e2c345382eba9ba73b402b24a8fdd81f604c14cbcd"
+    },
+    {
+      "name": "Pokemon Mystery Dungeon - Red Rescue Team (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B9JE",
+      "size": 16777216,
+      "crc32": "f12f908e",
+      "md5": "779a2a4435e0093a7846798270705c76",
+      "sha1": "aa2ab3352e4bcc5069bb11db85432825da61303b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

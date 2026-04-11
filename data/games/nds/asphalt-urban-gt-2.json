@@ -54,5 +54,65 @@
     "wikidata": "Q4807951",
     "mobygames": 25820,
     "igdb": 243029
-  }
+  },
+  "roms": [
+    {
+      "name": "Asphalt - Urban GT 2 (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A4PE",
+      "size": 33554432,
+      "crc32": "02d209bb",
+      "md5": "6fefed7d6251deb1836342c3cbd63d80",
+      "sha1": "7787f4387712779aeb25d4305e79f92d7daa6a1d"
+    },
+    {
+      "name": "Asphalt - Urban GT 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A4PP",
+      "size": 33554432,
+      "crc32": "f830431e",
+      "md5": "9343d2a83c85cc39222e01a79e203283",
+      "sha1": "3b6ce440e98b8b32511948f3f94b27759c6596a6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Asphalt%20-%20Urban%20GT%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Asphalt%20-%20Urban%20GT%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Asphalt%20-%20Urban%20GT%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Asphalt%20-%20Urban%20GT%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Asphalt%20-%20Urban%20GT%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Asphalt%20-%20Urban%20GT%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

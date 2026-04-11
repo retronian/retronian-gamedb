@@ -18,5 +18,64 @@
     "wikidata": "Q113288909",
     "mobygames": 126950,
     "igdb": 67718
-  }
+  },
+  "roms": [
+    {
+      "name": "Evel Knievel (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "dfd6a908",
+      "md5": "5e1b4969a76e069acf2622f7bb05d8d3",
+      "sha1": "0841f55e18fe6e4a50df826703db22681169f2e7"
+    },
+    {
+      "name": "Evel Knievel (USA) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "51e951b5",
+      "md5": "f9c554dfce8383f16e554b61083f0922",
+      "sha1": "24cac6ab0151b33d2b1fd06ee01931802fb98267",
+      "sha256": "5f8d6a6443d7c8a64a87f708da4eb004e84d667cb4a06ab26d4cded66459ec5b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Evel%20Knievel%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Evel%20Knievel%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Evel%20Knievel%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Evel%20Knievel%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Evel%20Knievel%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Evel%20Knievel%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

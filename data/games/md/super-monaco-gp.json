@@ -81,5 +81,99 @@
     "wikidata": "Q2110427",
     "mobygames": 6656,
     "igdb": 4528
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Monaco GP (USA) (En,Ja) (Sega Classic)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "4026-03",
+      "size": 524288,
+      "crc32": "725018ee",
+      "md5": "0948aa1acc9f21a966b052a8ee385884",
+      "sha1": "1947d41598daa3880ecb826303abae2accd1857f",
+      "sha256": "d3c60d34571c5684b0cff5196c7c6db7364bee7d8b91048f0f3ae19d8f1a1db6"
+    },
+    {
+      "name": "Super Monaco GP (Japan, USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "4026-00",
+      "size": 524288,
+      "crc32": "90f9bab3",
+      "md5": "c53dbf0f7172556d08a37cc590bddf8a",
+      "sha1": "631b72e27b394ae6b5a1188dfa980333fc675379",
+      "sha256": "3b64d810cc38d8df7977d1c74749675bb18e8c79f6b0e1248c1b715367f66bc7"
+    },
+    {
+      "name": "Super Monaco GP (World) (En,Ja)",
+      "source": "no_intro",
+      "serial": "4026-01",
+      "size": 524288,
+      "crc32": "b1823595",
+      "md5": "ded2b235f625424f353c13c4d3a2cf89",
+      "sha1": "ed6f80546a7847bf06cf4a62b34d1c3b989e4d3e",
+      "sha256": "9046c9d67f15ab0f68d9e73b0cc516b6fd1637a8db0da4a03dcff8933c12dfa1"
+    },
+    {
+      "name": "Super Monaco GP (World) (En,Ja) (Rev A)",
+      "source": "no_intro",
+      "serial": "4026-02",
+      "size": 524288,
+      "crc32": "be91b28a",
+      "md5": "7c343c0b33f8af9f4719ead8cee7b201",
+      "sha1": "1e49a449367f0ec7ba0331b7b0d074f796e48d58",
+      "sha256": "64cb62cf32cb0e17adaca5fffa1e240b2f8d10cddfbc3e42ff3f5d74a5c434e6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Monaco%20GP%20%28Japan%2C%20USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Monaco%20GP%20%28Japan%2C%20USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Monaco%20GP%20%28Japan%2C%20USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Monaco%20GP%20%28World%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Monaco%20GP%20%28World%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Monaco%20GP%20%28World%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Monaco%20GP%20%28World%29%20%28En%2CJa%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Monaco%20GP%20%28World%29%20%28En%2CJa%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Monaco%20GP%20%28World%29%20%28En%2CJa%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

@@ -18,5 +18,53 @@
     "wikidata": "Q1522331",
     "mobygames": 40053,
     "igdb": 298945
-  }
+  },
+  "roms": [
+    {
+      "name": "Giana Sisters DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZIE",
+      "size": 8388608,
+      "crc32": "33fb6e3e",
+      "md5": "30e4fecc19be66ba6bf3d64269e7c5dc",
+      "sha1": "e958947a0eb7ea989168d0a060119ecd97361b11"
+    },
+    {
+      "name": "Giana Sisters DS (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CYYP",
+      "size": 8388608,
+      "crc32": "0475cb77",
+      "md5": "3b2611dcefac9ffdc746449481a01ade",
+      "sha1": "723e5584dcb42b8fe541aaaa3d2da7aa5d5d1c76"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Giana%20Sisters%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Giana%20Sisters%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Giana%20Sisters%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Giana%20Sisters%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

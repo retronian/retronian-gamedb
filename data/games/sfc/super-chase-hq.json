@@ -45,5 +45,65 @@
     "wikidata": "Q7642247",
     "mobygames": 55821,
     "igdb": 38422
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Chase H.Q. (Australia)",
+      "source": "no_intro",
+      "region": "au",
+      "size": 1048576,
+      "crc32": "01211c80",
+      "md5": "1c05d1b60aa41166d04dc93894f79d05",
+      "sha1": "138320659a5168f59ff3f8e8bebd98a0592a271e",
+      "sha256": "a1daaaaacf723ddfa4fcb406d0218a045d8f8a78674b6449a2322a0306e0af9f"
+    },
+    {
+      "name": "Super Chase H.Q. (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "6ef3b9c7",
+      "md5": "8596f1bdbabf96aa39fd29b24917b916",
+      "sha1": "d962fe88bd6d1bba78386c4f42ec4fd183d8da9b",
+      "sha256": "b839253b878821ff00847491d11452e933baaf303f49dd39d22e3a524ea1ff81"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Chase%20H.Q.%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Chase%20H.Q.%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Chase%20H.Q.%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Chase%20H.Q.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Chase%20H.Q.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Chase%20H.Q.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -63,5 +63,49 @@
     "wikidata": "Q3419958",
     "mobygames": 11542,
     "igdb": 4466
-  }
+  },
+  "roms": [
+    {
+      "name": "Rastan Saga II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-11043-00",
+      "size": 524288,
+      "crc32": "ebacfb5a",
+      "md5": "40337096cb6d3d00a559471b7ddc56e5",
+      "sha1": "e7bd8367ae962af48a2e937bf6ced253f428b03d",
+      "sha256": "05cb8c2c2e39247cb71c2471d1de54aa288390407d6becdd469f2b71953f0655"
+    },
+    {
+      "name": "Rastan Saga II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-11026-00",
+      "size": 524288,
+      "crc32": "c7ee8965",
+      "md5": "c96b3cdf4525f7fba802d2804fed6a33",
+      "sha1": "adec2cb70344ffc720ecdfeb68712bb3d1d0fd9c",
+      "sha256": "e628275675e644e083e01699f7af4bc37e2116080b1ed165a788225feeb48e5c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Rastan%20Saga%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Rastan%20Saga%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Rastan%20Saga%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

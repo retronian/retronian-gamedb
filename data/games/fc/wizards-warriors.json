@@ -96,5 +96,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Densetsu no Kishi - Elrond (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "c0476980",
+      "md5": "48c0e232eacedbd0fee25a9710e8fd1a",
+      "sha1": "f8d576aca1e5f00aa140995a67c34d972b72feb8",
+      "sha256": "d0437994b84a6894430ee9d89e6f1db163895398dbabf2ab72f82508197b33b5"
+    },
+    {
+      "name": "Wizards & Warriors (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "8feb0c03",
+      "md5": "a94d89226b01277f9e78d735d50378c7",
+      "sha1": "d9e206af98c99b4b25df77e476560c5c6cccf5fb",
+      "sha256": "031f66a59d4697431afb50f0f3884ee866394e1b021706585a58ebd1251fec6b"
+    },
+    {
+      "name": "Wizards & Warriors (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "c15a0d3c",
+      "md5": "382fe0f5657280f25cf287ca1c9fb166",
+      "sha1": "f17202964de1ce41389da906a1a20fc8fa118f9d",
+      "sha256": "ab79faab2477e7a938dc44ad1b309c3894c3bdf5e9cc2b007fce79543a1c84e2"
+    },
+    {
+      "name": "Wizards & Warriors (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "b756c4dc",
+      "md5": "40a9d907f889478b21ea19171caf6317",
+      "sha1": "3ea0b59462f710d7188965e8e74c1907efdc370a",
+      "sha256": "22632f6132998bea8332530dbe32c7bb7d3fcb0de17e4af5001b526283f75329"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Densetsu%20no%20Kishi%20-%20Elrond%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Densetsu%20no%20Kishi%20-%20Elrond%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Densetsu%20no%20Kishi%20-%20Elrond%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

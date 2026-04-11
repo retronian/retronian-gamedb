@@ -72,5 +72,66 @@
     "wikidata": "Q3281078",
     "mobygames": 46012,
     "igdb": 248515
-  }
+  },
+  "roms": [
+    {
+      "name": "Meet the Robinsons (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ARNE",
+      "size": 16777216,
+      "crc32": "37433519",
+      "md5": "13e816e43cec31af9a9a07dee1896cc2",
+      "sha1": "1773c73be826d14f08ea47fb5714496c579b891e",
+      "sha256": "fd0301c9aa0a61d9f0dbc058f20ec83ef648af723f6b8c5ff1a9416da2d6d309"
+    },
+    {
+      "name": "Meet the Robinsons (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ARNP",
+      "size": 33554432,
+      "crc32": "4d38e8dd",
+      "md5": "4b256aa5384c82c2d78b59cbccb99b70",
+      "sha1": "265c097bf700e4a0bf6efe7c7fc571e220a9b778"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Meet%20the%20Robinsons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Meet%20the%20Robinsons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Meet%20the%20Robinsons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Meet%20the%20Robinsons%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Meet%20the%20Robinsons%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Meet%20the%20Robinsons%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

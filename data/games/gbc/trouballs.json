@@ -18,5 +18,48 @@
     "wikidata": "Q33890877",
     "mobygames": 13876,
     "igdb": 49987
-  }
+  },
+  "roms": [
+    {
+      "name": "Trouballs (USA) (Beta) (2000-04-02)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 131072,
+      "crc32": "89b2f7da",
+      "md5": "dddbe98001059d52284539a631094799",
+      "sha1": "8a6efcf30643969a82fbbe24b986ad8a79a99a55",
+      "sha256": "301b1eb25cdffec0bb9c224ac5d194035f8ca1c5b112f6b0e5bf9dd0a912e2b4"
+    },
+    {
+      "name": "Trouballs (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "260eed04",
+      "md5": "1b5e155ac68d2c7b89e49c5e1024b45c",
+      "sha1": "dc4d0f608354e7cc32df7501dbacf8c50d70e728",
+      "sha256": "2a9aa5ad0ea2900ca7333128861e37d79ed4a3bc7c308d894d5b15dcceed442c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Trouballs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Trouballs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Trouballs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -52,5 +52,78 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Rolling Thunder 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1140-00",
+      "size": 1048576,
+      "crc32": "c440f292",
+      "md5": "be1185a2620c2d64d75e8827e00e8b3d",
+      "sha1": "e8ae09b2945eac555d6f0d39a1f768724b221357",
+      "sha256": "532fa3f2700308d688ab22bd46bc31b4a389f61c0734d1dddf539dc2488bba03"
+    },
+    {
+      "name": "Rolling Thunder 2 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-14133-00",
+      "size": 1048576,
+      "crc32": "965b2628",
+      "md5": "0a8fa7fc184a55b522e728e395699ec4",
+      "sha1": "6e15ce792fbe01b918b197deea320f953aa989cc",
+      "sha256": "04d7da205ce1bac0d131e75e5996873dcfa17b7dbf54bb88c42028cc3f821696"
+    },
+    {
+      "name": "Rolling Thunder 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-14066-00",
+      "size": 1048576,
+      "crc32": "3ace429b",
+      "md5": "3753ae738edf6f37203763f3a8a6e406",
+      "sha1": "1b451389910e6b353c713f56137863ce2aff109d",
+      "sha256": "b60696ae908c113f6e6130e8e6ec97603d5b0adc70575e3e1467315b3e475567"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Rolling%20Thunder%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Rolling%20Thunder%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Rolling%20Thunder%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Rolling%20Thunder%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Rolling%20Thunder%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Rolling%20Thunder%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

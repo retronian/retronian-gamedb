@@ -53,5 +53,65 @@
     "wikidata": "Q16259130",
     "mobygames": 11130,
     "igdb": 343074
-  }
+  },
+  "roms": [
+    {
+      "name": "Rhapsody - A Musical Adventure (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CM6P",
+      "size": 134217728,
+      "crc32": "60795d09",
+      "md5": "208d1f804b86555e91cdea40726bed8a",
+      "sha1": "42af832f6398bb1c46864f494019765814aa7d86"
+    },
+    {
+      "name": "Rhapsody - A Musical Adventure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CM6E",
+      "size": 134217728,
+      "crc32": "2fc7b31a",
+      "md5": "ae5bc4e2e0212feb16cbecc156b1cb40",
+      "sha1": "e17e449cf51c940ee2ad883a3e401a223e8a048d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rhapsody%20-%20A%20Musical%20Adventure%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rhapsody%20-%20A%20Musical%20Adventure%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rhapsody%20-%20A%20Musical%20Adventure%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rhapsody%20-%20A%20Musical%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rhapsody%20-%20A%20Musical%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rhapsody%20-%20A%20Musical%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

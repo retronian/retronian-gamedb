@@ -72,5 +72,65 @@
     "wikidata": "Q941354",
     "mobygames": 6693,
     "igdb": 276081
-  }
+  },
+  "roms": [
+    {
+      "name": "Sunset Riders (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "64edfc5d",
+      "md5": "04694122095a5bf98965c57de25c1fa3",
+      "sha1": "2ae53e498ff0b66c49cfedebdbbcd679e804058c",
+      "sha256": "ccf785f0e8785af775b8d0af7eb2913dd3e8aefbc48a719d95ae162eb8c8daa6"
+    },
+    {
+      "name": "Sunset Riders (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "52ada404",
+      "md5": "1e1b47d5e5b0d9faa5447273a52fc6ea",
+      "sha1": "50f0d77323a5967aa329c72e7a2d926ed158f667",
+      "sha256": "e9c406d4f773697b9b671e7ddf2207c9d0ab242d7f23e502cdd453fbb264d392"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sunset%20Riders%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sunset%20Riders%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sunset%20Riders%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sunset%20Riders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sunset%20Riders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sunset%20Riders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

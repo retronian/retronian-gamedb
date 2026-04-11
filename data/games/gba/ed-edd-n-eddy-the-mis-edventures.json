@@ -45,5 +45,65 @@
     "wikidata": "Q925748",
     "mobygames": 23747,
     "igdb": 248473
-  }
+  },
+  "roms": [
+    {
+      "name": "Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BEDE",
+      "size": 8388608,
+      "crc32": "64edb487",
+      "md5": "0886eee57b5f9e97d2981a00134fd641",
+      "sha1": "2d4aaad62faf905e4138015261d59360756e7dee"
+    },
+    {
+      "name": "Ed, Edd n Eddy - The Mis-Edventures (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BEDP",
+      "size": 8388608,
+      "crc32": "baa13bc4",
+      "md5": "9ac5ddef9be27d933d366e224fba4163",
+      "sha1": "4423573023841e4977b77bc8ace1ad7cac221f92"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ed%2C%20Edd%20n%20Eddy%20-%20The%20Mis-Edventures%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ed%2C%20Edd%20n%20Eddy%20-%20The%20Mis-Edventures%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ed%2C%20Edd%20n%20Eddy%20-%20The%20Mis-Edventures%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ed%2C%20Edd%20n%20Eddy%20-%20The%20Mis-Edventures%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ed%2C%20Edd%20n%20Eddy%20-%20The%20Mis-Edventures%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ed%2C%20Edd%20n%20Eddy%20-%20The%20Mis-Edventures%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

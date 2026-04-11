@@ -53,5 +53,82 @@
   "external_ids": {
     "wikidata": "Q2442526",
     "mobygames": 17163
-  }
+  },
+  "roms": [
+    {
+      "name": "Asterix (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "097ffe2c",
+      "md5": "812db832566202610bb1e42e643e2b93",
+      "sha1": "7d4ca6925826c0ffca3e3004479b5e9a5b6b311b",
+      "sha256": "d735648ef98d982a982c61ecf0e4e7e229701ecaee66898a452b409b8fd398c8"
+    },
+    {
+      "name": "Asterix (USA) (Proto 3)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "a4cc3c3a",
+      "md5": "2b992d2bd90db504bf4357b4f77b4604",
+      "sha1": "54cd67ea3c3e7646fb5286a6274a40a77f0730cc"
+    },
+    {
+      "name": "Asterix (USA) (Proto 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "6ccfee1f",
+      "md5": "b78f7809624994defcf23d2ec5e17d70",
+      "sha1": "5077f422e513877e9c4e3497111f853376748826"
+    },
+    {
+      "name": "Asterix (USA) (Proto 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "0050b16f",
+      "md5": "efa067c7aaed8dd19777443db9228516",
+      "sha1": "5e2423d1d4a1239af2ccafdd6c0a3f2316ae6b51"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Asterix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Asterix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Asterix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Asterix%20%28USA%29%20%28Proto%203%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Asterix%20%28USA%29%20%28Proto%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Asterix%20%28USA%29%20%28Proto%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

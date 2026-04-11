@@ -72,5 +72,123 @@
     "wikidata": "Q369086",
     "mobygames": 3528,
     "igdb": 1638
-  }
+  },
+  "roms": [
+    {
+      "name": "GoldenEye 007 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NGEP",
+      "size": 12582912,
+      "crc32": "9ec14aeb",
+      "md5": "cff69b70a8ad674a0efe5558765855c9",
+      "sha1": "167c3c433dec1f1eb921736f7d53fac8cb45ee31",
+      "sha256": "40ff3643d3ed0be1b0b88266d298f455c15bd5a6f1a520c9aa2650b5f4b349de"
+    },
+    {
+      "name": "GoldenEye 007 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NGEJ",
+      "size": 12582912,
+      "crc32": "a6be19dd",
+      "md5": "1880da358f875c0740d4a6731e110109",
+      "sha1": "2a5dade32f7fad6c73c659d2026994632c1b3174"
+    },
+    {
+      "name": "GoldenEye 007 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NGEE",
+      "size": 12582912,
+      "crc32": "b6330846",
+      "md5": "70c525880240c1e838b8b1be35666c3b",
+      "sha1": "abe01e4aeb033b6c0836819f549c791b26cfde83",
+      "sha256": "2cdcec8a9f0cb6e36337f3ee39d8ad105dc8afa6ba1c02d466e8f5b771f9a162"
+    },
+    {
+      "name": "GoldenEye 007 (USA, Europe) (Switch Online)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NGEE",
+      "size": 12582912,
+      "crc32": "e3f2b41e",
+      "md5": "ea0e3e6aefa58738a12906298373218b",
+      "sha1": "84accdc54ffaecee312ce6945bfe722ed97e654c",
+      "sha256": "57dc56aa4b8c66a85d6f83c3068960850dd81f8eaea309e1a7602cb969499fbc"
+    },
+    {
+      "name": "GoldenEye 007 (Japan) (Switch Online)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NGEJ",
+      "size": 12582912,
+      "crc32": "92dd6dd5",
+      "md5": "d41f3ef8f65cedfa0d262d25fa968bba",
+      "sha1": "a5f4fbf0ed959edd61762940a20c042e6a02a070",
+      "sha256": "272f656be04c38aa4e7b00bad8a6ea302b98f6a9c19e79773eef0f8ed6ebccf7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/GoldenEye%20007%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/GoldenEye%20007%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/GoldenEye%20007%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/GoldenEye%20007%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/GoldenEye%20007%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/GoldenEye%20007%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/GoldenEye%20007%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/GoldenEye%20007%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/GoldenEye%20007%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/GoldenEye%20007%20%28USA%2C%20Europe%29%20%28Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

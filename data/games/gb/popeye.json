@@ -70,5 +70,34 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Popeye (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "2fb4da21",
+      "md5": "55a2ca284b3b42f6c55d59f9e11c196c",
+      "sha1": "d7c4cfa460e65368477f9394164b67e03310fc69",
+      "sha256": "ea5931abb52ecc81153e654f97064fc73aec9e74d0cd541654ce4970658dfaea"
+    },
+    {
+      "name": "Popeye (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "27e257c6",
+      "md5": "615c8d01fed90d40d6bf00a873dfdb71",
+      "sha1": "2787a3391ef8f29f653cbb9989fe05a58bcf8124"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Popeye%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

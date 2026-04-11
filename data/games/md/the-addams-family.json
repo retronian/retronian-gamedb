@@ -27,5 +27,49 @@
     "wikidata": "Q1989599",
     "mobygames": 4276,
     "igdb": 5342
-  }
+  },
+  "roms": [
+    {
+      "name": "Addams Family, The (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "????????-??",
+      "size": 1048576,
+      "crc32": "2803a5ca",
+      "md5": "f734e0d527d77396ceec2ef754338642",
+      "sha1": "34deb427637d0458ce229b4fe3e55ad7901a0a34",
+      "sha256": "d33b9e32afa7d6bf17280f809e5f4876f6f27e35733d3f366accc0b0e0a1f409"
+    },
+    {
+      "name": "Addams Family, The (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-081236-00",
+      "size": 1048576,
+      "crc32": "71f58614",
+      "md5": "eba5f964addea18b70336d292a08698d",
+      "sha1": "1cd7ac493a448c7486eefde2300240c3675986a9",
+      "sha256": "674adedc52f71cbe1fb9ebd2cf567ad13d6d0bcf1aeb330c4efb9c165c1356bf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Addams%20Family%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Addams%20Family%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Addams%20Family%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

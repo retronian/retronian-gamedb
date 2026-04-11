@@ -54,5 +54,53 @@
     "wikidata": "Q1152102",
     "mobygames": 38248,
     "igdb": 193365
-  }
+  },
+  "roms": [
+    {
+      "name": "Rayman - Raving Rabbids - TV Party (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CRIE",
+      "size": 33554432,
+      "crc32": "77be5315",
+      "md5": "40ba2e18618ba5cd757e78a3e986cda3",
+      "sha1": "0838cca12bda4ffa4ac5a5e8176f301ef921df67"
+    },
+    {
+      "name": "Rayman - Raving Rabbids - TV Party (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CRIP",
+      "size": 33554432,
+      "crc32": "db809995",
+      "md5": "c38cbbd47d9fb79ee3c47e78ad249c59",
+      "sha1": "51d195213b185a25d7c836d834900e75f4e8a877"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rayman%20-%20Raving%20Rabbids%20-%20TV%20Party%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rayman%20-%20Raving%20Rabbids%20-%20TV%20Party%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rayman%20-%20Raving%20Rabbids%20-%20TV%20Party%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rayman%20-%20Raving%20Rabbids%20-%20TV%20Party%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

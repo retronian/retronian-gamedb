@@ -54,5 +54,75 @@
     "wikidata": "Q5259105",
     "mobygames": 13239,
     "igdb": 14640
-  }
+  },
+  "roms": [
+    {
+      "name": "Dennis (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "ccda70a8",
+      "md5": "f7b44a729385c61084681f3f086ffda1",
+      "sha1": "78d2408818b3a953eb9ffe3c5813b6b5c370ada0",
+      "sha256": "3e4e16a5d47197a2f7bc724e3a6875b682f738800c7377ea655a6d7f54156a0e"
+    },
+    {
+      "name": "Dennis the Menace (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "8ee7faa5",
+      "md5": "0ef71b727646941dfa63b8e4c259038f",
+      "sha1": "e7403a677e26134f4d5c1d10908d5f138e9c2b44",
+      "sha256": "a362033d0d7e754d79202b255679186ad799b9e784719614b913ec8c9857ae33"
+    },
+    {
+      "name": "Dennis the Menace (USA) (Beta) (1993-03-03)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "1032241c",
+      "md5": "b0950b9de6a1c5a700a02b362eabb556",
+      "sha1": "123b5ca07d5db51081c8277e58876dd94bbf9cc1",
+      "sha256": "56126f40b9a677040a34e1b78178e0029bead0aafff1bc3fbaaceee854a5acca"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dennis%20the%20Menace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dennis%20the%20Menace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dennis%20the%20Menace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

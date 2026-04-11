@@ -18,5 +18,65 @@
     "wikidata": "Q28671191",
     "mobygames": 9407,
     "igdb": 131067
-  }
+  },
+  "roms": [
+    {
+      "name": "Incredible Hulk, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHLE",
+      "size": 8388608,
+      "crc32": "0b978dfa",
+      "md5": "3b953c03dcc4276324b9bf95624f1c6e",
+      "sha1": "7076ec6b68098b9ace9d8e5f4a6bbfdc66c32e4e"
+    },
+    {
+      "name": "Incredible Hulk, The (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHLP",
+      "size": 8388608,
+      "crc32": "7e00422c",
+      "md5": "3f988d8651e3eb45c4f3b6f41d4373b4",
+      "sha1": "7dba810528a861682197603abeedb08631914055"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Incredible%20Hulk%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Incredible%20Hulk%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Incredible%20Hulk%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Incredible%20Hulk%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Incredible%20Hulk%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Incredible%20Hulk%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

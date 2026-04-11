@@ -45,5 +45,49 @@
     "wikidata": "Q4047674",
     "mobygames": 39725,
     "igdb": 8980
-  }
+  },
+  "roms": [
+    {
+      "name": "Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CPQE",
+      "size": 33554432,
+      "crc32": "ce57a734",
+      "md5": "0a285d2dbe9605cf9baf30f15838729e",
+      "sha1": "b8c5369d1444c8975a7a33bea6fe2eeb503ab030",
+      "sha256": "2179f9d9f1f968752cd9ce8cc4c3b21f868b579863e9f97ee48fa99c5360f6d8"
+    },
+    {
+      "name": "Puzzle Quest - Galactrix (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CPQP",
+      "size": 33554432,
+      "crc32": "bc14e0ea",
+      "md5": "c1b0524ddaa82bd92b6ab88af5613ddb",
+      "sha1": "e3422ddda66dfd634e7b402dee216bf31109b31e",
+      "sha256": "53342c271cb8113a85daf1b291d953396addbde540c64fae7defcde1245dbcc4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20Quest%20-%20Galactrix%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puzzle%20Quest%20-%20Galactrix%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20Quest%20-%20Galactrix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

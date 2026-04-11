@@ -89,5 +89,95 @@
     "wikidata": "Q3048043",
     "mobygames": 23048,
     "igdb": 3408
-  }
+  },
+  "roms": [
+    {
+      "name": "Mickey no Racing Challenge USA (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NMLJ",
+      "size": 33554432,
+      "crc32": "1aecfc56",
+      "md5": "288a514e98972bf9d329167aa29e66b6",
+      "sha1": "5b4f7bad6591de2199c095352a811a2eb7fc6f53"
+    },
+    {
+      "name": "Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NMLP",
+      "size": 33554432,
+      "crc32": "0ae51ea5",
+      "md5": "5ba3dc37860c08a209f24286b8dfec8c",
+      "sha1": "c583ed998a6b422a22ffd3f8376c3cef0c3710d9",
+      "sha256": "2e5e4836c0ede78c7d81da352584172102f5d4f26f187e991f624dc70cbf308e"
+    },
+    {
+      "name": "Mickey's Speedway USA (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NMLE",
+      "size": 33554432,
+      "crc32": "2d4f8f1b",
+      "md5": "0bf64427cf68e49c70e9ec2c9d815209",
+      "sha1": "507341c0a40ca3e9a7cee969b396ee53facfb548",
+      "sha256": "21c0c73d97d578dbf750acfa2a03ac2e224f703d8b9fc4e431356a27b46cf026"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mickey%20no%20Racing%20Challenge%20USA%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mickey%20no%20Racing%20Challenge%20USA%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mickey%20no%20Racing%20Challenge%20USA%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mickey%27s%20Speedway%20USA%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mickey%27s%20Speedway%20USA%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mickey%27s%20Speedway%20USA%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mickey%27s%20Speedway%20USA%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mickey%27s%20Speedway%20USA%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mickey%27s%20Speedway%20USA%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

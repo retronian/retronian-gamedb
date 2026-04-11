@@ -74,6 +74,60 @@
       "form": "official",
       "source": "romu",
       "verified": true
+    },
+    {
+      "text": "King of the Monsters 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "King of the Monsters 2: The Next Thing",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "King of the Monsters 2: The Next Thing",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "キングオブザモンスターズ2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "キング・オブ・ザ・モンスターズ2 Next Thing ネクストシング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "King of the Monsters 2 - Next Thing",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1991-01-01",
@@ -81,5 +135,166 @@
     "wikidata": "Q1999554",
     "mobygames": 9830,
     "igdb": 39466
-  }
+  },
+  "descriptions": [
+    {
+      "text": "怪獣格闘アクションゲームの続編です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "King of the Monsters (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "799b1787",
+      "md5": "5cd22310c303a7440a3f456d91ee8fc2",
+      "sha1": "f97f5c663d5d593eb862bd5f6b7120ee9a4a515e",
+      "sha256": "11a6c5de89b25836c8b66d3e3077bacdcaf52faab5a0f7fe2bc751aa85a8dd68"
+    },
+    {
+      "name": "King of the Monsters (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "825b9607",
+      "md5": "014ddd12b6bd169038cfec3c81c4684c",
+      "sha1": "38fa840c1129293232e2857fd82cab09956fc03c",
+      "sha256": "0b47dbe98934baacf0a05d78a42f9cca52b283444160c46ebb38d78cc456175e"
+    },
+    {
+      "name": "King of the Monsters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "c285c7ff",
+      "md5": "0114bcf4facaa50808d665185f427d75",
+      "sha1": "02e05bb0d95573c75d5c860c251ef4e8582c1d9a",
+      "sha256": "1135858a1ce686a0a163bb0e6f3a4d7cd71c0cd56efbc79677372f2624cf2306"
+    },
+    {
+      "name": "King of the Monsters 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "0b677a37",
+      "md5": "6682d57546fa6cb29109f76645d7c93c",
+      "sha1": "27494e5feb4fd0a6bb407a58b68f8b98fa07810b",
+      "sha256": "a9729d049ce580839bbfef1836a13dc16f2fc934d203ebf7390e0b1c47ea9a2d"
+    },
+    {
+      "name": "King of the Monsters 2 - Next Thing (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "b41aeccc",
+      "md5": "46829f5c062db231731ee33258c54ded",
+      "sha1": "d861c76d138ab1f6aa37fd28909effca152a5e2c",
+      "sha256": "4e8984aeb445334912854b6913d6ff07d9217616b3dadb87d68ebbcffbe02540"
+    },
+    {
+      "name": "King of the Monsters 2 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "0f4f464b",
+      "md5": "4a1012a7338e303d0b7cf5092fb82341",
+      "sha1": "3fe26de39d4409ad65f4dd869ca41f869c05b584",
+      "sha256": "b143f7d8f0b823422a2fcb3f13ccd8687b7a654c74b1be165b998f169bac6da8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/King%20of%20the%20Monsters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/King%20of%20the%20Monsters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/King%20of%20the%20Monsters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/King%20of%20the%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/King%20of%20the%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/King%20of%20the%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/King%20of%20the%20Monsters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/King%20of%20the%20Monsters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/King%20of%20the%20Monsters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/King%20of%20the%20Monsters%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/King%20of%20the%20Monsters%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/King%20of%20the%20Monsters%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/King%20of%20the%20Monsters%202%20-%20Next%20Thing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/King%20of%20the%20Monsters%202%20-%20Next%20Thing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/King%20of%20the%20Monsters%202%20-%20Next%20Thing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

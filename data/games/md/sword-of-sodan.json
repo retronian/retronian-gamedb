@@ -61,5 +61,59 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Sword of Sodan (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-50076-01",
+      "size": 524288,
+      "crc32": "712a5fa0",
+      "md5": "45baefe60c3d5f4da3e88a0c69e6c5af",
+      "sha1": "75d811f180f1d8b889ba7fc9ec578ec8da31670f",
+      "sha256": "31a0e0c94ad10e86674f3000d0991ed8fbdc5bb43fd0b6f6d063b48da5281cc2"
+    },
+    {
+      "name": "Sword of Sodan (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-50076-01",
+      "size": 524288,
+      "crc32": "58edb3f3",
+      "md5": "5d5d8d4bfcde93737cdd0bad207a0550",
+      "sha1": "9c17187e3eb0842c5300f69616a58baa86b769e7",
+      "sha256": "bce744ce3102983bd0a9dd890276ebd71395adfd532370b5772ba8c0a2400811"
+    },
+    {
+      "name": "Sword of Sodan (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50076-01",
+      "size": 524288,
+      "crc32": "9cb8468f",
+      "md5": "7b5c722bccce6f5301dd90b6d6b17f01",
+      "sha1": "088b81c3bcda86b9803b7e3f8067beb21d1d2553",
+      "sha256": "ee292b7ddac4487f020a3d63c6d8a4600c5133ad84fb0dcce4ad84221453d5a9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sword%20of%20Sodan%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sword%20of%20Sodan%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sword%20of%20Sodan%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

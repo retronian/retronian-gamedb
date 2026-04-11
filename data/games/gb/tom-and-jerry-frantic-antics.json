@@ -71,5 +71,52 @@
     "wikidata": "Q3530938",
     "mobygames": 40110,
     "igdb": 307061
-  }
+  },
+  "roms": [
+    {
+      "name": "Tom and Jerry - Frantic Antics! (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "c2dbd1aa",
+      "md5": "cb61afd7708d90d976f585edebcaaa89",
+      "sha1": "9f8adf286e5ce5868c758b1c2f195ef596a3df2b",
+      "sha256": "bcd52c83f3662165baaeff2527fd221c04b734214d5dacb8cdda6fbcb95fbc3b"
+    },
+    {
+      "name": "Tom and Jerry - Frantic Antics! (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "4415cc6b",
+      "md5": "7e5cd07ccb647c0c281309630d70af68",
+      "sha1": "56dd5f7346ea60e6d5e081462c4fa73389777494"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tom%20and%20Jerry%20-%20Frantic%20Antics%21%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tom%20and%20Jerry%20-%20Frantic%20Antics%21%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tom%20and%20Jerry%20-%20Frantic%20Antics%21%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tom%20and%20Jerry%20-%20Frantic%20Antics%21%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

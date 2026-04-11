@@ -35,5 +35,65 @@
     "wikidata": "Q4851779",
     "mobygames": 21501,
     "igdb": 49196
-  }
+  },
+  "roms": [
+    {
+      "name": "Ballistic - Ecks vs. Sever (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AEEE",
+      "size": 8388608,
+      "crc32": "0477f153",
+      "md5": "95abf2bd63a3758b6d86e278ee1fca6e",
+      "sha1": "d66a33c71466ffb6558ba6381156d14f73c8c6d8"
+    },
+    {
+      "name": "Ecks vs. Sever II - Ballistic (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AEEP",
+      "size": 8388608,
+      "crc32": "83297d13",
+      "md5": "0687fdac8b7fbc2d5147ec9f5f4d2525",
+      "sha1": "f294d72470c4001c6ed66baeaa8745edfb011762"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ballistic%20-%20Ecks%20vs.%20Sever%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ballistic%20-%20Ecks%20vs.%20Sever%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ballistic%20-%20Ecks%20vs.%20Sever%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ecks%20vs.%20Sever%20II%20-%20Ballistic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ecks%20vs.%20Sever%20II%20-%20Ballistic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ecks%20vs.%20Sever%20II%20-%20Ballistic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -72,5 +72,94 @@
     "wikidata": "Q665135",
     "mobygames": 58020,
     "igdb": 36312
-  }
+  },
+  "roms": [
+    {
+      "name": "Brave (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TBRE",
+      "size": 67108864,
+      "crc32": "9d1b211a",
+      "md5": "8164f46b2631df3e6d6da0041f6fdaf1",
+      "sha1": "bc669bbadbb0082f9ba5d142e5331592c37a580d",
+      "sha256": "2d7ea16a9181f8750de557acb3d217724f8246af5bc1dfbca91d1565cfed100d"
+    },
+    {
+      "name": "Brave (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TBRP",
+      "size": 67108864,
+      "crc32": "bdb33242",
+      "md5": "83092131ad6d19d145c83104466e1bb6",
+      "sha1": "0431c7cca1a58bb48238fbf96d284caedbd4daf8"
+    },
+    {
+      "name": "Brave (Europe) (En,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TBRY",
+      "size": 67108864,
+      "crc32": "e13f38d6",
+      "md5": "070b244ecaf8ce991466365e2ca68b89",
+      "sha1": "f1aa6a94430a79d6b7ee78a30f65e5897e84256f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Brave%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Brave%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Brave%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Brave%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Brave%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Brave%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Brave%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Brave%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Brave%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

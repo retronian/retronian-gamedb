@@ -52,5 +52,61 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Trip World (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "85d910b9",
+      "md5": "c46e059a69d9b3b4b0b9d8d303c559b3",
+      "sha1": "adc10a23dd33d40740f5c8c086dfcb97b8389286",
+      "sha256": "1edb7f324fa5fd5d3a677e5aa4a7a64d702669fabe0c96a62f34322eda953ad6"
+    },
+    {
+      "name": "Trip World (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "11568e64",
+      "md5": "e0a81dcc3aa0db3896c6f46e0ed3fc80",
+      "sha1": "ac19d49906e72aaebeffa9ab7106eb346a5efa07",
+      "sha256": "8ec192659c0c264a8bbffa739da2b1c7199b8401648afc02df21a8d66db766d6"
+    },
+    {
+      "name": "Trip World (World) (Limited Run Games)",
+      "source": "no_intro",
+      "size": 262144,
+      "crc32": "ec67f1e6",
+      "md5": "379c0c424093a74a915ad444a966307c",
+      "sha1": "16bb82fa8708cbd159388c55e702b9fb9ed5a41f",
+      "sha256": "15c6cfc1b7079e4de48f34e8d0e100dfa25f33818aff0d095251c3c4bd1e65ce"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Trip%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Trip%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Trip%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Trip%20World%20%28World%29%20%28Limited%20Run%20Games%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

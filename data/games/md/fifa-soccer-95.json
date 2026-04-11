@@ -72,5 +72,77 @@
     "wikidata": "Q2712291",
     "mobygames": 8072,
     "igdb": 4539
-  }
+  },
+  "roms": [
+    {
+      "name": "FIFA Soccer 95 (China) (En,Fr,De,Es) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 2097152,
+      "crc32": "cad374e6",
+      "md5": "11b9d8cba8e046ce6713b49634408b71",
+      "sha1": "10a5839d7528849e2cd7564259df5b87e5ebfb58",
+      "sha256": "0e61e1ced649fa32ebc8669d55de0ad3e99f5ff3824c397423a5dfa5aeb849a1"
+    },
+    {
+      "name": "FIFA Soccer 95 (Korea) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "T-50916-01",
+      "size": 2097152,
+      "crc32": "012591f9",
+      "md5": "698a2fcf165e8c9bc5166aecf23771d2",
+      "sha1": "ad1202a2e4166f8266d5633b8c5beb59c6cbd005",
+      "sha256": "b6b1f9666adcccbefeb4bd67dbbbc666b96f4aee566bc459ce11b210f30950fe"
+    },
+    {
+      "name": "FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50916-00",
+      "size": 2097152,
+      "crc32": "b389d036",
+      "md5": "26ac4f884df64349dcf46344db85812b",
+      "sha1": "586f9d0f218cf6bb3388a8610b44b6ebb9538fb5",
+      "sha256": "3a2c8a1485c07c9f876f69d7b51c253b4983665041c9ea64b526759c0b3bebed"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/FIFA%20Soccer%2095%20%28Korea%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/FIFA%20Soccer%2095%20%28Korea%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/FIFA%20Soccer%2095%20%28Korea%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/FIFA%20Soccer%2095%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/FIFA%20Soccer%2095%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/FIFA%20Soccer%2095%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

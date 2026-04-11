@@ -62,5 +62,65 @@
     "wikidata": "Q11680259",
     "mobygames": 72033,
     "igdb": 20774
-  }
+  },
+  "roms": [
+    {
+      "name": "Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YB2P",
+      "size": 67108864,
+      "crc32": "5cf64a5c",
+      "md5": "42f984cfb3109394f56137cdbe35d19e",
+      "sha1": "a6818fae967e9b9651e52d2a3ffa71d048f8a0e1"
+    },
+    {
+      "name": "Bomberman Land Touch! 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YB2E",
+      "size": 33554432,
+      "crc32": "102574df",
+      "md5": "32560afa2d0c36288af6ec3528d40523",
+      "sha1": "5a878a94def8e5af94a176ad384fa5c0cb426aaf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bomberman%20Land%20Touch%21%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bomberman%20Land%20Touch%21%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bomberman%20Land%20Touch%21%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bomberman%20Land%20Touch%21%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bomberman%20Land%20Touch%21%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bomberman%20Land%20Touch%21%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

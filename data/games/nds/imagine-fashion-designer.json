@@ -35,5 +35,65 @@
   "external_ids": {
     "wikidata": "Q16661669",
     "igdb": 197987
-  }
+  },
+  "roms": [
+    {
+      "name": "Imagine - Fashion Designer (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YFHP",
+      "size": 67108864,
+      "crc32": "2d2895c1",
+      "md5": "6ec79bdd455b14b7dfc64a0c32842c6a",
+      "sha1": "d6071ec1f51f352af87703155d9b8ab9fee61782"
+    },
+    {
+      "name": "Imagine - Fashion Designer (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YFHE",
+      "size": 67108864,
+      "crc32": "953c143d",
+      "md5": "64ec8a60ac497d15f9381d68e40592af",
+      "sha1": "7cb59a51dbfa91c2936ac6670a0d3ce0b82a12d4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Fashion%20Designer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Imagine%20-%20Fashion%20Designer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Fashion%20Designer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Fashion%20Designer%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Imagine%20-%20Fashion%20Designer%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Fashion%20Designer%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

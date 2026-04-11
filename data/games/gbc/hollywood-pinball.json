@@ -34,5 +34,63 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Hollywood Pinball (Europe) (En,Fr,De,It) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "8bd1f635",
+      "md5": "9889afc5b4e72c9f96db8e6b4260f6b7",
+      "sha1": "2d179e034dbd19e48aee31ffdc504305444cc84a"
+    },
+    {
+      "name": "Hollywood Pinball (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "77d7e5b7",
+      "md5": "e2b6cfc93021d361ab1cac347499b493",
+      "sha1": "ff77ec892f2331e895774555183fb1cffb88ca6e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hollywood%20Pinball%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hollywood%20Pinball%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hollywood%20Pinball%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hollywood%20Pinball%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hollywood%20Pinball%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hollywood%20Pinball%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

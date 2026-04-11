@@ -65,6 +65,42 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": false
+    },
+    {
+      "text": "ジェノサイド2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": true
+    },
+    {
+      "text": "Genocide 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Genocide 2: Master of the Dark Communion",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "G2 ジェノサイド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1989-07-23",
@@ -72,5 +108,47 @@
     "wikidata": "Q5533450",
     "mobygames": 54754,
     "igdb": 38334
-  }
+  },
+  "roms": [
+    {
+      "name": "Genocide 2 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "de40aa12",
+      "md5": "156e52e1cfc79738f0c731ff24ab0736",
+      "sha1": "947f72ebb7f3b19244103fa5a55c0a5a21267f23",
+      "sha256": "b9ba9e1b9472c09cdcbecda3633d56c95a1a492865d4ad07cd6a79a9f561d570"
+    },
+    {
+      "name": "Genocide 2 (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196608,
+      "crc32": "fd93848b",
+      "md5": "4aa8ca6e4c47a5ee7e6fd59d05706904",
+      "sha1": "715ed2904cc24f781adf99ac4e8a0b0dc54d9826",
+      "sha256": "18dfec7d23af0cd066707c36a29e9fe5691398fb21b151cf0362b528bbdf998a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Genocide%202%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Genocide%202%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Genocide%202%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -62,5 +62,56 @@
     "wikidata": "Q2593819",
     "mobygames": 18356,
     "igdb": 8126
-  }
+  },
+  "roms": [
+    {
+      "name": "Mickey Mouse - Fushigi no Kuni no Daibouken (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "ffbb2d8a",
+      "md5": "7e3a664caa9786fee2a05a2f2d396177",
+      "sha1": "4c25c0b3ae4d4bde0b7b72ff7b084592227b60fe",
+      "sha256": "cb048cb34ff75ad0884d7e096162be332282d9aba21aa80ad2619054de88d3bd"
+    },
+    {
+      "name": "Mickey Mousecapade (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "1d961110",
+      "md5": "d634a9b11b464bc2a6c452baf5a57f3e",
+      "sha1": "c37aa6acfcd64eb51e93e77881babc8c06779bee",
+      "sha256": "9fd557ada52750339c10c47347bb8a2d460efa1a4fd724ae08707275808883c5"
+    },
+    {
+      "name": "Mickey Mouse - Fushigi no Kuni no Daibouken (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 65552,
+      "crc32": "907030ee",
+      "md5": "4b36524cda2312339907f0cc01497196",
+      "sha1": "c5fbee1b9a3a6417f4a5cc3e450113708eef8410",
+      "sha256": "26e925fc9631e1410be14a0d8d7d966606ed0fc88bebc7f536bdb827a617dd07"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mickey%20Mousecapade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mickey%20Mousecapade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mickey%20Mousecapade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

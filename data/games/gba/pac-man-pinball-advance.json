@@ -45,5 +45,65 @@
     "wikidata": "Q7121849",
     "mobygames": 35040,
     "igdb": 6529
-  }
+  },
+  "roms": [
+    {
+      "name": "Pac-Man Pinball Advance (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BP8P",
+      "size": 4194304,
+      "crc32": "3e70bf4d",
+      "md5": "30e7a35f23b2259b65844a667191c556",
+      "sha1": "9bbffe9ff2524d679ef9e8ceb46362f3602d7584"
+    },
+    {
+      "name": "Pac-Man Pinball Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BP8E",
+      "size": 4194304,
+      "crc32": "da4e1109",
+      "md5": "4d7b955b9c19b13d1d776e35ce007f78",
+      "sha1": "dfd93f861e571153e0ae0a65799c5d44e5154373"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pac-Man%20Pinball%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pac-Man%20Pinball%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pac-Man%20Pinball%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pac-Man%20Pinball%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pac-Man%20Pinball%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pac-Man%20Pinball%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

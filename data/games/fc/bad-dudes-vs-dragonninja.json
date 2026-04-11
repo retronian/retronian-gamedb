@@ -80,5 +80,74 @@
   "external_ids": {
     "wikidata": "Q798676",
     "mobygames": 1299
-  }
+  },
+  "roms": [
+    {
+      "name": "Bad Dudes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "ada49341",
+      "md5": "1c1e436fcd3d53408764a83d4b08f98c",
+      "sha1": "26e184e350f50bfa06038379a84f3b685b7509b8",
+      "sha256": "1286ed51643a4627e7b6f389be1d589827b94d626df569c7044e607b8eeacc3c"
+    },
+    {
+      "name": "Bad Dudes vs. Dragon Ninja (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "f372ee5e",
+      "md5": "6e30ac63cd2d8872be98c1c67104996f",
+      "sha1": "39af205d26153ed5229b423358b8788b470cfcdc",
+      "sha256": "5078ee7217b0e57eb3c4a477431263d4dd550d30bd7eeb17f7fb9362e72230cd"
+    },
+    {
+      "name": "Bad Dudes (World) (Evercade)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "7c3e4d4a",
+      "md5": "c0cf0d84d76ab3da9991c3cba41d5ecf",
+      "sha1": "85ecbd11de0ce191fe9ac10c5eaa27d42918c381",
+      "sha256": "ccfe3a40bd6facdb736218a94eb40636169c2b43cf485d77a1dac98bcaef8002"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bad%20Dudes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bad%20Dudes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bad%20Dudes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bad%20Dudes%20vs.%20Dragon%20Ninja%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bad%20Dudes%20vs.%20Dragon%20Ninja%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bad%20Dudes%20vs.%20Dragon%20Ninja%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

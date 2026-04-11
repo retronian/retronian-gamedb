@@ -18,5 +18,61 @@
     "wikidata": "Q25396610",
     "mobygames": 10524,
     "igdb": 85941
-  }
+  },
+  "roms": [
+    {
+      "name": "xXx (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AX3E",
+      "size": 8388608,
+      "crc32": "2b3a2ab2",
+      "md5": "59118d9b87b1809a1cb50b1d42035c7a",
+      "sha1": "8f10c133772d8d4d0f940927d1cd303a1d8bb7ba"
+    },
+    {
+      "name": "xXx (France)",
+      "source": "no_intro",
+      "serial": "AX3F",
+      "size": 8388608,
+      "crc32": "44a77f71",
+      "md5": "2395cca1007ecd7d016860703812c2bc",
+      "sha1": "a47da3b30a45035aac333ebc62f36da6a3d88e0a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/xXx%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/xXx%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/xXx%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/xXx%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/xXx%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/xXx%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

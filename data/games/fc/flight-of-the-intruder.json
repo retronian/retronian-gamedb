@@ -18,5 +18,47 @@
     "wikidata": "Q2800857",
     "mobygames": 2637,
     "igdb": 12102
-  }
+  },
+  "roms": [
+    {
+      "name": "Flight of the Intruder (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "5de5eb1a",
+      "md5": "61ddd2b9df4ce17b97fd92d463b0ee79",
+      "sha1": "a1ab935cc64465783c0812b8df146543d84bcc80",
+      "sha256": "754ec9a8c29d7c2fb8fc5f4fa9309349a9e7b8f5e77f70603f4a7460968911b8"
+    },
+    {
+      "name": "Flight of the Intruder (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "e4adfd8e",
+      "md5": "fa079e8cadffa5f50a5dae77aaf53d45",
+      "sha1": "8a277305b2a5502a6b6f8e00bcefb0dad64e97ee",
+      "sha256": "b971aa055b297e9c3b3b88bd985dc02f16cfbebedbed182b54e3c44f345c4136"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Flight%20of%20the%20Intruder%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Flight%20of%20the%20Intruder%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Flight%20of%20the%20Intruder%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

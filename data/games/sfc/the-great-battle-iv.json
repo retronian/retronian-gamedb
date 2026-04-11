@@ -29,11 +29,80 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Great Battle IV",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "グレイトバトルIV",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Great Battle IV, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1994-01-01",
   "external_ids": {
     "wikidata": "Q11306513",
     "igdb": 42329
-  }
+  },
+  "roms": [
+    {
+      "name": "Great Battle IV, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "fb165a32",
+      "md5": "771f518a8035740cc017287d2e5a7889",
+      "sha1": "fc3eba871192bf3a4c5cd61c38621842223cbed0",
+      "sha256": "7daa5a0df4e175e9b519b022cbc69132e7ecd6b848a9ad0b884ed63b5eddac96"
+    },
+    {
+      "name": "Great Battle IV, The (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "615c4aa7",
+      "md5": "6066ebd56585026661cc86f220fd3f44",
+      "sha1": "f6aa3e11b271175b5403009e22b244c178ebb8a1",
+      "sha256": "2d418bb5a1c14d6c1e1e5cef25f4733531ceaf48387e6ac6d1e77a3c0d724163"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Great%20Battle%20IV%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Great%20Battle%20IV%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Great%20Battle%20IV%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

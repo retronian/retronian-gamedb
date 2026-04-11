@@ -63,5 +63,65 @@
     "wikidata": "Q2049867",
     "mobygames": 21521,
     "igdb": 146059
-  }
+  },
+  "roms": [
+    {
+      "name": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANJE",
+      "size": 33554432,
+      "crc32": "cff70868",
+      "md5": "b2f5dcb15b36d9e9c7edbbc63b800b5d",
+      "sha1": "b901d8f5700488a5a389dedc9ef31b8cd27bbb41"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANJP",
+      "size": 33554432,
+      "crc32": "b39aaf0e",
+      "md5": "a4920cb78cb33675e1cecf6985a691c2",
+      "sha1": "b0bc1631cb3747d09c4ada374b8b64b73b72e3b0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%203%20-%20Mutant%20Nightmare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%203%20-%20Mutant%20Nightmare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%203%20-%20Mutant%20Nightmare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%203%20-%20Mutant%20Nightmare%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%203%20-%20Mutant%20Nightmare%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%203%20-%20Mutant%20Nightmare%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

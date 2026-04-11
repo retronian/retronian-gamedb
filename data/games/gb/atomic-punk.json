@@ -87,5 +87,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Atomic Punk (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "c4720897",
+      "md5": "76010c6ff6bd0c4e8ac934dc69fb96ab",
+      "sha1": "4b364b4c12b83ab7adbec074fac951e2eb63dea8",
+      "sha256": "2df8eb5d48a204d9609e0c12fed81304cc0b23421c5015ab2296d51ffc8b36ad"
+    },
+    {
+      "name": "Bomber Boy (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "ef9595ac",
+      "md5": "fc2d9eb9479543614b6e3d0d63c359aa",
+      "sha1": "a9baddfb693f20057b17c084422d7bfac590f2ba",
+      "sha256": "4bf5e484e7c0ae4db784560431402b26963ca12eb82eea7cd6587cbbb414402b"
+    },
+    {
+      "name": "Dynablaster (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "9677d157",
+      "md5": "2eb9a6891fc79cd878d8bc12d04a0790",
+      "sha1": "3c284831353be165e20b56f3728b0421eaea274a",
+      "sha256": "037b2a8598b37c76fc3105ed2a773878ec0f886c77c3037e14ad9d536d9630dd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Atomic%20Punk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Atomic%20Punk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Atomic%20Punk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dynablaster%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dynablaster%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dynablaster%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

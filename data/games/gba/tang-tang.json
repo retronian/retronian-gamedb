@@ -17,5 +17,65 @@
   "external_ids": {
     "wikidata": "Q7682744",
     "mobygames": 65410
-  }
+  },
+  "roms": [
+    {
+      "name": "Tang Tang (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATAE",
+      "size": 4194304,
+      "crc32": "f5f0c143",
+      "md5": "b8f6082b8f1a88b9dab0565ca19a2e64",
+      "sha1": "e39f7f1851a662a422d31f2b5de94704a6ac6fe7"
+    },
+    {
+      "name": "Tang Tang (Europe) (En,Fr,De,Es,It,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATAP",
+      "size": 4194304,
+      "crc32": "8bfb4cfe",
+      "md5": "4f6d310cc67afaa9424269904229ea3b",
+      "sha1": "4c4852ecdf5a31fb8c72e552575335267fdd1296"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tang%20Tang%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tang%20Tang%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tang%20Tang%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tang%20Tang%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tang%20Tang%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tang%20Tang%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

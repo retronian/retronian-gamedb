@@ -53,5 +53,109 @@
     "wikidata": "Q3009477",
     "mobygames": 86497,
     "igdb": 20412
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Ball - Origins 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BDBP",
+      "size": 67108864,
+      "crc32": "0c335a18",
+      "md5": "931e01403393b28c08fe03b0a2fde0e6",
+      "sha1": "9b5348a3ffa6b97a6083a30e63a3ff6964e7dcef"
+    },
+    {
+      "name": "Dragon Ball - Origins 2 (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDBE",
+      "size": 67108864,
+      "crc32": "cc2f01df",
+      "md5": "d4aa7c8fb9e8069c55d7953e2f2f9782",
+      "sha1": "35c41f24680d449664032f2e69ae227ee8ff8302"
+    },
+    {
+      "name": "Dragon Ball - Origins 2 (USA) (En,Fr,Es) (Beta 4)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDBE",
+      "size": 67108864,
+      "crc32": "c6c351de",
+      "md5": "92b31d06547e7c7f99e1483d3ded76f7",
+      "sha1": "bb654598523f5f44db60c8226d367c9a0035e21d",
+      "sha256": "abda48bb15fabdd098c051b4d3839448408a3aef6b690d9e939fbcdbb058c0f2"
+    },
+    {
+      "name": "Dragon Ball - Origins 2 (USA) (En,Fr,Es) (Beta 3)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDBE",
+      "size": 67108864,
+      "crc32": "b5685b16",
+      "md5": "54a331c8cc833117767edcf376144ceb",
+      "sha1": "3cf24027fe6ad390c365b7a6928d0779ff7498aa",
+      "sha256": "49579c4d77aef47d31d215f603b81e3e08b98e2a828078a111c93b0f430bef5c"
+    },
+    {
+      "name": "Dragon Ball - Origins 2 (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTRJ",
+      "size": 67108864,
+      "crc32": "88e93f24",
+      "md5": "4d9277dafb40de38188206c778b65c5a",
+      "sha1": "1267902be4e7fd87f979b37d6fe1ccecd968b4ac",
+      "sha256": "affd76d93163e444a4593c387443bd69818cdc6dc0e51d6890b4801b65f8eaed"
+    },
+    {
+      "name": "Dragon Ball - Origins 2 (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTRJ",
+      "size": 67108864,
+      "crc32": "a816772f",
+      "md5": "2a2dec6ba05d534fc39ce8bdb4005b15",
+      "sha1": "526c0f21ebbab92312a29cc1c4de9c322602c24f",
+      "sha256": "67607c69ec5e830736f40a86d53ff3fcf33ef7608dce9e75eac6400cf7bb94b5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Ball%20-%20Origins%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dragon%20Ball%20-%20Origins%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Ball%20-%20Origins%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Ball%20-%20Origins%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dragon%20Ball%20-%20Origins%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Ball%20-%20Origins%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

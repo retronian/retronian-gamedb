@@ -33,5 +33,45 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Bowling (Japan) (En) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "26589b79",
+      "md5": "7b29bf304be1f747c83cf516239b9c61",
+      "sha1": "8a29e82be027a82030c1dc7f7cf9bc9ecf010e64"
+    },
+    {
+      "name": "Pocket Bowling (USA) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "3ed30908",
+      "md5": "8d9c413f30885be0bb0fe08a1817c842",
+      "sha1": "5435ccec39ef27d9cab626425671bd81e7fa4d55"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pocket%20Bowling%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pocket%20Bowling%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pocket%20Bowling%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

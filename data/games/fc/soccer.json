@@ -88,5 +88,74 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Soccer (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 40976,
+      "crc32": "4b75c01f",
+      "md5": "05558dd907005827944dc04c91fc52c0",
+      "sha1": "f38dc6a8ef1bfcdc4eaccd3e2a4296e3d61beb78",
+      "sha256": "284ad03d10deab52d3f20b05d1ebdeef9cfa0673b1125b9c546dd67a117e6061"
+    },
+    {
+      "name": "Soccer (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "1f15ac35",
+      "md5": "06bbe9e8ef8d3f6d7b864ef46dcd7ddb",
+      "sha1": "e403509c3455a0aaedc8929d80f3cca57863a36a",
+      "sha256": "389282534c2df8dcafba28b004b9ffa3f0e84fc110696a9a7dfed5c5307fc521"
+    },
+    {
+      "name": "Soccer (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 40976,
+      "crc32": "09f17c40",
+      "md5": "bc850508a49264e7f6f4e87227e18f54",
+      "sha1": "59ea33bf99e0f1abf53739bd03212a5f8e5ee353",
+      "sha256": "86bb91bbc76103c6a790950d9608ee38f9d5f339e3b78b88da2c0aa109617ecb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Soccer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Soccer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Soccer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Soccer%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Soccer%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Soccer%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

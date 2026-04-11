@@ -17,5 +17,65 @@
   "external_ids": {
     "wikidata": "Q3459411",
     "igdb": 49224
-  }
+  },
+  "roms": [
+    {
+      "name": "SD Gundam Force (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BG4J",
+      "size": 8388608,
+      "crc32": "83417478",
+      "md5": "39de567a848af58c088c621c89007c4e",
+      "sha1": "7d1b467392a8417dd41c3ffd85c26d9387eb285f"
+    },
+    {
+      "name": "SD Gundam Force (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BGEE",
+      "size": 8388608,
+      "crc32": "68b21289",
+      "md5": "9530a3e226b2fdfbfb8fd72242793635",
+      "sha1": "f45af1fabfa9c95bc98c6d3cc986cc68afd7ea61"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/SD%20Gundam%20Force%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/SD%20Gundam%20Force%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/SD%20Gundam%20Force%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/SD%20Gundam%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/SD%20Gundam%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/SD%20Gundam%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

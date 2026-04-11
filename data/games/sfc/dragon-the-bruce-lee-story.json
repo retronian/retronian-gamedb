@@ -45,5 +45,75 @@
     "wikidata": "Q2358727",
     "mobygames": 30976,
     "igdb": 18617
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon - The Bruce Lee Story (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "038212ea",
+      "md5": "931c9baff50537c97c69f0b54dd2b3d5",
+      "sha1": "6160cf6801c756a5c20093c5c20490241030fce8",
+      "sha256": "753467f4e343a563a1e4f5da43b731968a47cf3fc035f98575134e680a596f27"
+    },
+    {
+      "name": "Dragon - The Bruce Lee Story (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "407c5c24",
+      "md5": "103152554973d6db6e53013eb10c383f",
+      "sha1": "af3c96d6b26b9a7efc4850b81ede469027b0b173",
+      "sha256": "d98d7da1e7636e067563e2e480d7dfbc013b7e9bdf1329fd61c5cacac0293e1d"
+    },
+    {
+      "name": "Dragon - The Bruce Lee Story (USA) (Beta) (1993-04-23)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 442032,
+      "crc32": "6715e04e",
+      "md5": "2f7db74c66532e1ef33a082a90cb8046",
+      "sha1": "db0058c81772096a20d74b34de4a10128670f889",
+      "sha256": "122c50b1358bee9575e184b980c894021dc0386828c4d5c52a21be61229ecf98"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20-%20The%20Bruce%20Lee%20Story%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20-%20The%20Bruce%20Lee%20Story%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20-%20The%20Bruce%20Lee%20Story%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20-%20The%20Bruce%20Lee%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20-%20The%20Bruce%20Lee%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20-%20The%20Bruce%20Lee%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

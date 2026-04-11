@@ -54,5 +54,64 @@
     "wikidata": "Q4777508",
     "mobygames": 31511,
     "igdb": 71725
-  }
+  },
+  "roms": [
+    {
+      "name": "Antz Racing (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "f625a959",
+      "md5": "cb9c9001a0df32e6f89216e291684836",
+      "sha1": "e4ff55112a76da72f30582476f15358527518cfd",
+      "sha256": "cc31252fcf8df4be20627e3fad382da45fb5076d2e7f457e4c138a0831a6b6bd"
+    },
+    {
+      "name": "Antz Racing (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "dfdf90c0",
+      "md5": "87397db3151f3dd5b53cdfbb24a98588",
+      "sha1": "806e641b911b302f5be2a80b6003f473d1a10a88"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Antz%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Antz%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Antz%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Antz%20Racing%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Antz%20Racing%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Antz%20Racing%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

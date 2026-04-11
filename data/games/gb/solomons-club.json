@@ -34,5 +34,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Solomon's Club (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "701ccdb3",
+      "md5": "45ae101994d2dfb0cec87e8a97e2b5a8",
+      "sha1": "9e4a1c2608da3e245fe3c35c8a9f626c1bd6152e",
+      "sha256": "bda646625c58e08e93f87642427effa9f1aeddfbfe27b348c4f58bad097c417c"
+    },
+    {
+      "name": "Solomon's Club (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "901bff2e",
+      "md5": "cc5fe746d5e216b4a1048453b2068a5d",
+      "sha1": "dc60824a69856a162aee6f7fa86bd2d283fadd32",
+      "sha256": "89adfafd83a292f3b4141aeabb863bf90c4c907d93d162346d08602945794b0f"
+    },
+    {
+      "name": "Solomon's Club (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "cea9622a",
+      "md5": "8a5ccf172f31a0dbfa0600d40b388fdc",
+      "sha1": "36abf2be4a16df8e9fe30307cbd8cb949a9b9bdb",
+      "sha256": "b876faa05d3fa8c9e6d2812a7e17cbc8be83463e1d1536f13e9719ba0e7108b5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Solomon%27s%20Club%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Solomon%27s%20Club%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Solomon%27s%20Club%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Solomon%27s%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Solomon%27s%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Solomon%27s%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Solomon%27s%20Club%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Solomon%27s%20Club%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Solomon%27s%20Club%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

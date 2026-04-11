@@ -63,5 +63,65 @@
     "wikidata": "Q4386839",
     "mobygames": 5429,
     "igdb": 6382
-  }
+  },
+  "roms": [
+    {
+      "name": "Dokapon - Monster Hunter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ADQE",
+      "size": 8388608,
+      "crc32": "5617e407",
+      "md5": "936a8172335ffc3391d182e909942d76",
+      "sha1": "280f9e01a3caee74bc9fde55e6326005ddba5196"
+    },
+    {
+      "name": "Dokapon - Monster Hunter! (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ADQP",
+      "size": 8388608,
+      "crc32": "654df50e",
+      "md5": "18317fa6e27ea0ea7509f1319bc0865c",
+      "sha1": "7d85ef1f0219cfe9010031fc8240053a0575beec"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dokapon%20-%20Monster%20Hunter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dokapon%20-%20Monster%20Hunter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dokapon%20-%20Monster%20Hunter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dokapon%20-%20Monster%20Hunter%21%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dokapon%20-%20Monster%20Hunter%21%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dokapon%20-%20Monster%20Hunter%21%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

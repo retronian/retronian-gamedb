@@ -36,5 +36,65 @@
     "wikidata": "Q389344",
     "mobygames": 7287,
     "igdb": 5450
-  }
+  },
+  "roms": [
+    {
+      "name": "Wings (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWQP",
+      "size": 8388608,
+      "crc32": "6e0d29fc",
+      "md5": "aa78b66d1c1fd334587c0ebe7932d006",
+      "sha1": "deba84aa8d5b19a2777f1d2556cb84e4bb895c77"
+    },
+    {
+      "name": "Wings (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWQE",
+      "size": 8388608,
+      "crc32": "49041bc8",
+      "md5": "9003c10fd78cc0bb83c83cbbdbe03911",
+      "sha1": "9d50a2150ae6ee4aacb23b826344134b63f906c2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Wings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Wings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Wings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Wings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Wings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Wings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

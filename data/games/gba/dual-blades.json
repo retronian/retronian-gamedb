@@ -45,5 +45,65 @@
     "wikidata": "Q5310157",
     "mobygames": 14015,
     "igdb": 6392
-  }
+  },
+  "roms": [
+    {
+      "name": "Dual Blades (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AB9E",
+      "size": 4194304,
+      "crc32": "aff3a0c6",
+      "md5": "efa8473a8125181965f08156c95cc6bb",
+      "sha1": "b37c522b48e80d93231b491b025663f1624e3d75"
+    },
+    {
+      "name": "Dual Blades (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AB9J",
+      "size": 4194304,
+      "crc32": "522f1f51",
+      "md5": "6f152b5eb5292f837b2d75b101ee9d55",
+      "sha1": "4859a9d5b577d21e1228647e195b217ea193f19c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dual%20Blades%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dual%20Blades%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dual%20Blades%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dual%20Blades%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dual%20Blades%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dual%20Blades%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

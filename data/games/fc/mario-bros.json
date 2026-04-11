@@ -88,5 +88,117 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mario Bros. (Europe) (PAL-MA-0)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 24592,
+      "crc32": "ba8659c0",
+      "md5": "9f42bfc880ebc6658140d223dc36edb1",
+      "sha1": "92f14ab203e440bf1427dff418b05b4588c92e51",
+      "sha256": "4d9cec13321c3a5325c1f88a541e0a7fa918ccab59adde14c343abc6d2f034ba"
+    },
+    {
+      "name": "Mario Bros. (World)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "0305e5d6",
+      "md5": "5d7bcc400a2fb5fa27346da345d3bb62",
+      "sha1": "314b6e46e814f955b52ac954f67dab849582fe77",
+      "sha256": "a2a0aa437a735cd36ed29a8e7c5b3dfa10590c6203e893f1668c7995bad2b309"
+    },
+    {
+      "name": "Mario Bros. (Europe) (PAL-MC-0, Classic Series)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 40976,
+      "crc32": "643702d9",
+      "md5": "2fc6dc68e4cbb41f2210df41cb1bc63b",
+      "sha1": "8ff0c2db91b2c7c46c456647da3a9e274c27135e",
+      "sha256": "971ddf336eebe1728513000ef7662efa45e8f50ff97a8ddccad37019d9021ee9"
+    },
+    {
+      "name": "Mario Bros. (World) (Animal Crossing)",
+      "source": "no_intro",
+      "size": 40976,
+      "crc32": "79639dc5",
+      "md5": "d745014af7650d85a9f66d3fde434dd0",
+      "sha1": "cc4dc76971598c9dae33867c6a860e7339ab6832",
+      "sha256": "78f2ff15185bc4789aee7de126f34727e5eb9c2d1b70ddc7589babc42af22186"
+    },
+    {
+      "name": "Mario Bros. (USA) (e-Reader)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "066073a4",
+      "md5": "a6fede3f8f1cb2a2b75ffab1d99d5b81",
+      "sha1": "4b3307d1278ff1f497397f5a1ab435fee8bd9adc",
+      "sha256": "4b9b84b91207ee64eea1ec9217681c34426c144ba16d3e50baa213fe13e7097c"
+    },
+    {
+      "name": "Mario Bros. (Asia) (En) (Whirlwind Manu) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "b6dabc48",
+      "md5": "b796eb17a42e9f27f445611a6c3ca77c",
+      "sha1": "5c5b72b8fbbe9fb78f34ca2455eaa5ba8050e64a",
+      "sha256": "c0bcdc09a7d6e35e023ee0c56f0c4b9ddff4e32473061a0e1894408c06f7d7b3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%20Bros.%20%28Europe%29%20%28PAL-MA-0%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mario%20Bros.%20%28Europe%29%20%28PAL-MA-0%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mario%20Bros.%20%28Europe%29%20%28PAL-MA-0%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%20Bros.%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mario%20Bros.%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mario%20Bros.%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%20Bros.%20%28Europe%29%20%28PAL-MC-0%2C%20Classic%20Series%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mario%20Bros.%20%28Europe%29%20%28PAL-MC-0%2C%20Classic%20Series%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mario%20Bros.%20%28Europe%29%20%28PAL-MC-0%2C%20Classic%20Series%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

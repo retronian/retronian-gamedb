@@ -45,5 +45,105 @@
     "wikidata": "Q3532029",
     "mobygames": 8922,
     "igdb": 3616
-  }
+  },
+  "roms": [
+    {
+      "name": "Top Gear Overdrive (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NRCP",
+      "size": 12582912,
+      "crc32": "0cc70580",
+      "md5": "6c65a252f227aef18df2dd3ce04cc821",
+      "sha1": "bad781b7a3fe73a0127223cd807fafbc4007dccf",
+      "sha256": "f9befa4ff29d2291cf7d82e4b32dcca2e516add8d75365328ea5f7280bea0e97"
+    },
+    {
+      "name": "Top Gear Overdrive (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NRCJ",
+      "size": 12582912,
+      "crc32": "81aafc2b",
+      "md5": "b5691794a851d8b603f0c741d44aa244",
+      "sha1": "be62d75c7ac1067111cd213365a9583550f897f3"
+    },
+    {
+      "name": "Top Gear Overdrive (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NRCE",
+      "size": 12582912,
+      "crc32": "f3e0ff21",
+      "md5": "7818696426c0a429fbfccc4efe8d5570",
+      "sha1": "75ebbe451906ce68b0dd43eef9ee44416452a4f1"
+    },
+    {
+      "name": "Top Gear Overdrive (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 12582912,
+      "crc32": "c1160b09",
+      "md5": "975d01545d0803f20d1ee61385c28eed",
+      "sha1": "2d7ed4805f3fa14412dbaa1bb99375dbd85b2b02",
+      "sha256": "917f2f7ae45bb14a0c588e266f0909a0f2be206bd6b78d33b29be138cedcf46f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Top%20Gear%20Overdrive%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Top%20Gear%20Overdrive%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Top%20Gear%20Overdrive%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Top%20Gear%20Overdrive%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Top%20Gear%20Overdrive%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Top%20Gear%20Overdrive%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Top%20Gear%20Overdrive%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Top%20Gear%20Overdrive%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Top%20Gear%20Overdrive%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

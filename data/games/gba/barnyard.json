@@ -72,5 +72,76 @@
     "wikidata": "Q2736373",
     "mobygames": 27910,
     "igdb": 242988
-  }
+  },
+  "roms": [
+    {
+      "name": "Barnyard (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BBYE",
+      "size": 8388608,
+      "crc32": "ff7987da",
+      "md5": "56c434600bf895c83a485ab8cbe49500",
+      "sha1": "7a6e2bf247ba7ac2420a5eef39b77a5d871785b5"
+    },
+    {
+      "name": "Barnyard (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BBYX",
+      "size": 8388608,
+      "crc32": "f2b06467",
+      "md5": "02cae6ad10eb30da0f76cbd8ca994952",
+      "sha1": "2fe05e2c9dfc02efe415c735f95fa1d4cd12eeb7"
+    },
+    {
+      "name": "Barnyard (USA) (En,Fr,De,Es,It,Nl) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BBYE",
+      "size": 8388608,
+      "crc32": "178cae0d",
+      "md5": "a378742dd5e02c8511198bcf1cb551cb",
+      "sha1": "f5b6e4da35f904a2b290d9852babb9b2346d63b1",
+      "sha256": "c719ce1c79c72cc84b5a102a26837145aab4c267e839d80e2570bae23480d07e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Barnyard%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Barnyard%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Barnyard%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Barnyard%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Barnyard%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Barnyard%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

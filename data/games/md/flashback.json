@@ -81,5 +81,107 @@
     "wikidata": "Q1001925",
     "mobygames": 555,
     "igdb": 4275
-  }
+  },
+  "roms": [
+    {
+      "name": "Flashback (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-79066-50",
+      "size": 2097152,
+      "crc32": "ede60e88",
+      "md5": "afe56361b8bbe014dee830baffa8257d",
+      "sha1": "e9508e7d178d5a6de6a4a78032d97837f37db560",
+      "sha256": "ff8a315882db2bb01fdc876fb5cffb245ae6a999cde063c63ff5ea312e455c67"
+    },
+    {
+      "name": "Flashback (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-15083",
+      "size": 2097152,
+      "crc32": "02fb0747",
+      "md5": "8fa191c0920db05a0e74d49ace265769",
+      "sha1": "4eb372f0da37e343e1b7070b4780fb7c58dac4d8",
+      "sha256": "da4cd143a098d33f98a3347c2ecb7b4433b9a2a9f71a64c974022d83e12fc46c"
+    },
+    {
+      "name": "Flashback (Europe) (En,Fr) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "XXXXXXXX-XX",
+      "size": 2097152,
+      "crc32": "82095cb6",
+      "md5": "048c86fc053b8e3231d1644d744206b4",
+      "sha1": "3c0b25e090d0c1167714e1a7346a289ffb808b49",
+      "sha256": "b602ab75a688c6fd3c32d391a68cc0b5464d509730102f94c0802ee0b3e08ba3"
+    },
+    {
+      "name": "Flashback - The Quest for Identity (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-79066",
+      "size": 2097152,
+      "crc32": "9fefb1ab",
+      "md5": "385e4e66174a76fd4a05639f24b54562",
+      "sha1": "1a44eb9606088692b8559852e8f7b7c1a1472b6e",
+      "sha256": "2fe54a4d562b6b8d469faddbc775cb7de88a2ec9c30b7143a491fba5aa5fe8b5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Flashback%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Flashback%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Flashback%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Flashback%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Flashback%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Flashback%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Flashback%20-%20The%20Quest%20for%20Identity%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Flashback%20-%20The%20Quest%20for%20Identity%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Flashback%20-%20The%20Quest%20for%20Identity%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -45,5 +45,38 @@
     "wikidata": "Q1442104",
     "mobygames": 2107,
     "igdb": 2201
-  }
+  },
+  "roms": [
+    {
+      "name": "Test Drive II - The Duel (USA, Europe) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACLD008-00",
+      "size": 1048576,
+      "crc32": "f9bdf8c5",
+      "md5": "6995faa82bbb2ff6a985a1505d1092d8",
+      "sha1": "cb70e5de149521f20723413cd11c5e661ec63c3e",
+      "sha256": "01d3421cd3e1c905ca2e93d3e61a0fecccc6694708ca0a25e84890592dd44cfc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Test%20Drive%20II%20-%20The%20Duel%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Test%20Drive%20II%20-%20The%20Duel%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Test%20Drive%20II%20-%20The%20Duel%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

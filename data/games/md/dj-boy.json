@@ -54,5 +54,78 @@
     "wikidata": "Q3011278",
     "mobygames": 31762,
     "igdb": 28038
-  }
+  },
+  "roms": [
+    {
+      "name": "DJ Boy (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1139-50",
+      "size": 524288,
+      "crc32": "860e749a",
+      "md5": "99334237bb08083ee70120f54f6973ef",
+      "sha1": "d2f111c240d0165a231c236e9ae6e62e73ca9caa",
+      "sha256": "1fea74cb32058da61800e45e28c5e50c498e5d32209c95e14459a23b0a47e7ab"
+    },
+    {
+      "name": "DJ Boy (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4032-00",
+      "size": 524288,
+      "crc32": "202abaa8",
+      "md5": "ad9540bec43c7584508c14ffdd1ce690",
+      "sha1": "c66b2e00b8a9172a76f5e699730c7d88740b5dd7",
+      "sha256": "83f1e7d041a65352db0e883986db2061ed3b33e072b5e4cbf7d3973112486044"
+    },
+    {
+      "name": "DJ Boy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-33016-00",
+      "size": 524288,
+      "crc32": "dc9f02db",
+      "md5": "6aef0333e2b1a495c867577ccf037493",
+      "sha1": "981f0eeffa28210cc55702413305244aaf36d71c",
+      "sha256": "01a6e923b4f5ab75bb54e40b387bfccfba13f2b71e107f654e0a0a1fae0a933e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/DJ%20Boy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/DJ%20Boy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/DJ%20Boy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/DJ%20Boy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/DJ%20Boy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/DJ%20Boy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

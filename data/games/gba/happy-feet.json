@@ -54,5 +54,65 @@
     "wikidata": "Q5652731",
     "mobygames": 25863,
     "igdb": 243189
-  }
+  },
+  "roms": [
+    {
+      "name": "Happy Feet (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 33554432,
+      "crc32": "b8653e59",
+      "md5": "fe73df04a447bcb43c10a03b275a8426",
+      "sha1": "1eabcfe84bd7558f64197e890a0eda8e76cdbc2c",
+      "sha256": "250c2595cab72a9831cabccb6285f4bfe8d9847cf6493a862a2baec72f3d2953"
+    },
+    {
+      "name": "Happy Feet (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 33554432,
+      "crc32": "98235433",
+      "md5": "2940087ab5440fe73b01fb67b2c1b708",
+      "sha1": "be8373ca6b9969af85303b1ec910ceb28b4f59f6",
+      "sha256": "cc057503f52c8ef083f5a3809f84d5c15da2abb0a301ce0c2ef2496f9b6d43c7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Happy%20Feet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Happy%20Feet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Happy%20Feet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Happy%20Feet%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Happy%20Feet%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Happy%20Feet%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

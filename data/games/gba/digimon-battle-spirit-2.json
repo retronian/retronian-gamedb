@@ -35,5 +35,67 @@
     "wikidata": "Q2003093",
     "mobygames": 113482,
     "igdb": 6375
-  }
+  },
+  "roms": [
+    {
+      "name": "Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDSE",
+      "size": 4194304,
+      "crc32": "c4c246ef",
+      "md5": "db4a8ed843dfb471622f37a8efb35111",
+      "sha1": "b73352f15d23c09c0280bf1e732feeba8f0e6082",
+      "sha256": "6c8e8c45b4ba2d11d98f21934c897b69effa5c5e499f20ae070f7fb5207e2a6a"
+    },
+    {
+      "name": "Digimon - Battle Spirit 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BDSP",
+      "size": 4194304,
+      "crc32": "00c906a3",
+      "md5": "898914fe623432c8cf062764cab39b9e",
+      "sha1": "83469a10e8828d9ee55f7f9bb3c970f7e4ceb149",
+      "sha256": "6362b9ea3f4c9955076953779635101111b3ac37ea43b7cdf22185b494e53495"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Digimon%20-%20Battle%20Spirit%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Digimon%20-%20Battle%20Spirit%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Digimon%20-%20Battle%20Spirit%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Digimon%20-%20Battle%20Spirit%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Digimon%20-%20Battle%20Spirit%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Digimon%20-%20Battle%20Spirit%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

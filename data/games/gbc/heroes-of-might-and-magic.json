@@ -18,5 +18,73 @@
     "wikidata": "Q5743244",
     "mobygames": 75516,
     "igdb": 143578
-  }
+  },
+  "roms": [
+    {
+      "name": "Heroes of Might and Magic (USA) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "bb0672a6",
+      "md5": "6a2a5ab0dc979f162cbfa4389d1cd71f",
+      "sha1": "209d8a9cdd240a8c73d03d8575373bfa53948869"
+    },
+    {
+      "name": "Heroes of Might and Magic (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "e0b9fd3b",
+      "md5": "2ae0c6e8f9831d6e8f1abac86b01e7d6",
+      "sha1": "d6471849187edcf68e61ed98558d9326a44cf2dc"
+    },
+    {
+      "name": "Heroes of Might and Magic (USA) (En,Fr,De) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "0753927e",
+      "md5": "14889eccdacd80ce70fc88a74a216fa6",
+      "sha1": "2ad31a64d113909180fd85dc6707a3c487ec2bfb",
+      "sha256": "a2631cdb254dd334cee57811a03bad788a0450693ec3550474713fc5d73ccd18"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Heroes%20of%20Might%20and%20Magic%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Heroes%20of%20Might%20and%20Magic%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Heroes%20of%20Might%20and%20Magic%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Heroes%20of%20Might%20and%20Magic%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Heroes%20of%20Might%20and%20Magic%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Heroes%20of%20Might%20and%20Magic%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

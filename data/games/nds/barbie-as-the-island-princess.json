@@ -45,5 +45,84 @@
     "wikidata": "Q3634766",
     "mobygames": 85485,
     "igdb": 258856
-  }
+  },
+  "roms": [
+    {
+      "name": "Barbie as the Island Princess (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YBPE",
+      "size": 33554432,
+      "crc32": "a630d13a",
+      "md5": "4752ddc91d30fd93a40b9c6309b2130a",
+      "sha1": "e777e405cfcc953e2e0a7e00c9fbf6b4080ee152"
+    },
+    {
+      "name": "Barbie as the Island Princess (Europe) (Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YBPX",
+      "size": 33554432,
+      "crc32": "a1a0ba2a",
+      "md5": "56b2dd7bcc963ce940a7978d3d63a841",
+      "sha1": "f15bcd7cdef06fa523ddb41735d5ddf370cadb1f"
+    },
+    {
+      "name": "Barbie as the Island Princess (United Kingdom)",
+      "source": "no_intro",
+      "serial": "YBPP",
+      "size": 33554432,
+      "crc32": "bbc99ff6",
+      "md5": "7fef4716b51bdca51e5eaa882d0427df",
+      "sha1": "2158051e259406a27a2eff820e19f50f3251aa14"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Barbie%20as%20the%20Island%20Princess%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Barbie%20as%20the%20Island%20Princess%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Barbie%20as%20the%20Island%20Princess%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Barbie%20as%20the%20Island%20Princess%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Barbie%20as%20the%20Island%20Princess%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Barbie%20as%20the%20Island%20Princess%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Barbie%20as%20the%20Island%20Princess%20%28United%20Kingdom%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Barbie%20as%20the%20Island%20Princess%20%28United%20Kingdom%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

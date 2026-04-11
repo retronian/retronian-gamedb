@@ -69,5 +69,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Deadly Towers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "b2e583ac",
+      "md5": "40522e5bd3268366d009a8fd569268e9",
+      "sha1": "5954b8e3c45de1eb3c98e2ef4c71d069c078cf79",
+      "sha256": "9a9a33dfe4f51e66465c323850be66412010b9f6d156ffe2c563c1ddcc1fa1fa"
+    },
+    {
+      "name": "Mashou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "d288e8c0",
+      "md5": "356f9b8ec08c84efd0d112fe2565ceee",
+      "sha1": "2f5cd17fe7895a88866058bc9e2989aef92bbab2",
+      "sha256": "60b5a4ec96cf76ed7dac75eff5881307ae6e8ab17651f6559a047fdda516fa67"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Deadly%20Towers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Deadly%20Towers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Deadly%20Towers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mashou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mashou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mashou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

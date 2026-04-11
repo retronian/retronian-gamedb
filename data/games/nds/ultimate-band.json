@@ -27,5 +27,65 @@
     "wikidata": "Q7880123",
     "mobygames": 44996,
     "igdb": 5250
-  }
+  },
+  "roms": [
+    {
+      "name": "Ultimate Band (Europe) (En,Fr,De,Es,It,Nl) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CUBP",
+      "size": 67108864,
+      "crc32": "f793fd83",
+      "md5": "f1270898900f4e0801c10341737588e0",
+      "sha1": "b7c5ddd094e0829e553726bfc45ec433a8aef751",
+      "sha256": "6636864bc6fc6583b3433a68e0d9b3405975851ab314dcb26533bee36a1017ba"
+    },
+    {
+      "name": "Ultimate Band (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CUBE",
+      "size": 67108864,
+      "crc32": "4b56a2eb",
+      "md5": "7dd6908555a22d1ea50fb6fbafd88259",
+      "sha1": "85d8f62d0e20d3ae02561f27aaaaa2b745d0c788"
+    },
+    {
+      "name": "Ultimate Band (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CUBP",
+      "size": 67108864,
+      "crc32": "40cccddf",
+      "md5": "6a77917af85c2621dc92ae0ba8f23294",
+      "sha1": "991d39a17761822ace53494bcdf2a4496f8fdef2",
+      "sha256": "079aa158db4d274fa37b39ac70c27d12fb31c3697feb38140cdab652abf46791"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ultimate%20Band%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ultimate%20Band%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ultimate%20Band%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ultimate%20Band%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

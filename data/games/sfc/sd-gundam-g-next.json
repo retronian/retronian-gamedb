@@ -69,5 +69,37 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1995-12-22"
+  "first_release_date": "1995-12-22",
+  "roms": [
+    {
+      "name": "SD Gundam G Next (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "845e420d",
+      "md5": "c87f0ed9f204464bb03200cea5bd290f",
+      "sha1": "356a3d60e9fabff4b4cec66277c9a6b717c958ce",
+      "sha256": "208f5ecb7a82b33629e67f39e96b7aa7a992cb2fcc3d1e4eb959abb0a8b7dd95"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/SD%20Gundam%20G%20Next%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/SD%20Gundam%20G%20Next%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/SD%20Gundam%20G%20Next%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

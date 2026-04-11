@@ -69,5 +69,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Romance of the Three Kingdoms II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-76016-10",
+      "size": 1048576,
+      "crc32": "3d842478",
+      "md5": "e2bc92714f45c1e2b168a41ca09cc7f4",
+      "sha1": "89fc2203b0369565124184690a5a5037ac9c54d7",
+      "sha256": "8dfc8ed93cd8906195005b6aef2a15c7183125ce467b2790b32b6cb9c7597329"
+    },
+    {
+      "name": "Sangokushi II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-76023-10",
+      "size": 1048576,
+      "crc32": "437ba326",
+      "md5": "aa5fbde7b9bc958fb3fe4837e741d612",
+      "sha1": "d9a912caacaa476a890564f62b6ce9cc8f60496e",
+      "sha256": "c58ebd344df5c2df7d73a9c3e6b5abcf8b2b849a597b82c9f998701ffe2d8b37"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Romance%20of%20the%20Three%20Kingdoms%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Romance%20of%20the%20Three%20Kingdoms%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Romance%20of%20the%20Three%20Kingdoms%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sangokushi%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sangokushi%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sangokushi%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

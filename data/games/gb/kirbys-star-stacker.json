@@ -87,5 +87,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Kirby no Kirakira Kids (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "47f42f42",
+      "md5": "8c0f8cfbc339c2a2dea15b6f50793ae2",
+      "sha1": "2c46c42be76eca134e188814345afa390e298811",
+      "sha256": "7e15aac3ac32fa31d904bea395391e75ad326d759a17874e3855f19fd1202bf9"
+    },
+    {
+      "name": "Kirby's Star Stacker (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "91300898",
+      "md5": "f4c0bf35939be6786c099e9eb4635919",
+      "sha1": "3999993d31e457bb279efac3e4a65fe4967ba861",
+      "sha256": "e497ee2ed48507c32bb3a0c89f449d6f3e3e6b3850534f6af814aaa6d5dcefbd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kirby%20no%20Kirakira%20Kids%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kirby%20no%20Kirakira%20Kids%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kirby%20no%20Kirakira%20Kids%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kirby%27s%20Star%20Stacker%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kirby%27s%20Star%20Stacker%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kirby%27s%20Star%20Stacker%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

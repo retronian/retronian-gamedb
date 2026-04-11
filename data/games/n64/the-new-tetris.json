@@ -18,5 +18,76 @@
     "wikidata": "Q3522012",
     "mobygames": 3763,
     "igdb": 3339
-  }
+  },
+  "roms": [
+    {
+      "name": "New Tetris, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NRIP",
+      "size": 12582912,
+      "crc32": "983263d7",
+      "md5": "c4ecfec66eceea23f39632ab6753300f",
+      "sha1": "2392f403b0993f838912cefa83aefd35d34a05a0",
+      "sha256": "1e83aaef23061c68023e3fa3d25ff8b554590fba56c25099079f7d6c55aff7bd"
+    },
+    {
+      "name": "New Tetris, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NRIE",
+      "size": 12582912,
+      "crc32": "528a07fa",
+      "md5": "7a28179b00734c9aa0f0609fafaafd5f",
+      "sha1": "83fff25e82181a6993f28c91b9eeb8430396838b",
+      "sha256": "ef64737d6b7b668bc9d4c8a0349b70e934bb692f272bc8d3d4831299800bbc39"
+    },
+    {
+      "name": "New Tetris, The (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 12582912,
+      "crc32": "d3523b37",
+      "md5": "ac795288c731d4ac2a5159b3e1580bf4",
+      "sha1": "cf52ba144788ecc9c1f7cfd61d7878c6173b1ef6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/New%20Tetris%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/New%20Tetris%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/New%20Tetris%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/New%20Tetris%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/New%20Tetris%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/New%20Tetris%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

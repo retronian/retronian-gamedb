@@ -27,5 +27,67 @@
     "wikidata": "Q2423838",
     "mobygames": 6658,
     "igdb": 19713
-  }
+  },
+  "roms": [
+    {
+      "name": "Phantom 2040 (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-139036-50",
+      "size": 2097152,
+      "crc32": "b024882e",
+      "md5": "46c86c8c4ab3dfd5db09fb23e2023b7b",
+      "sha1": "6d588fac0fed0e2303082e29cde12d94719cca32",
+      "sha256": "afd44a84d70d099f2060d6307fd58ca5afda7c0d5964f59933f3e9088faef516"
+    },
+    {
+      "name": "Phantom 2040 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-139036-00",
+      "size": 2097152,
+      "crc32": "fb36e1f3",
+      "md5": "f2c111cae725e5b31775d04dd4c7b546",
+      "sha1": "260b9f8fbd681bb1fc445538726836f0d423b4cc",
+      "sha256": "26b0ee7dcaea01babcb98c87b9d928987a46ebf86ada765a7f816c5b6485e048"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Phantom%202040%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Phantom%202040%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Phantom%202040%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Phantom%202040%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Phantom%202040%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Phantom%202040%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

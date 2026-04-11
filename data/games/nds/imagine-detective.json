@@ -47,11 +47,56 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Imagine: Detective",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Imagine: Detective",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2009-01-01",
   "external_ids": {
     "wikidata": "Q3769316",
-    "igdb": 7939
-  }
+    "igdb": 7939,
+    "mobygames": 51475
+  },
+  "roms": [
+    {
+      "name": "Imagine - Detective (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDVE",
+      "size": 33554432,
+      "crc32": "72653935",
+      "md5": "c45366e79fc9b6c2f1949cd824f63d25",
+      "sha1": "be3809c2f85839d92eb9a77c35a49eb4c2d4cb31"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Detective%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Detective%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

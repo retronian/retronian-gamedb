@@ -45,5 +45,61 @@
     "wikidata": "Q5730841",
     "mobygames": 81389,
     "igdb": 295621
-  }
+  },
+  "roms": [
+    {
+      "name": "Bob Esponja - Atrapados en el Congelador (Spain)",
+      "source": "no_intro",
+      "serial": "BSOS",
+      "size": 33554432,
+      "crc32": "bb30dcc1",
+      "md5": "7a39e2668a4e8f945c8a2f0c36447014",
+      "sha1": "8d25f282ac5a4fc9d241ce7dd21d458f603f8971"
+    },
+    {
+      "name": "SpongeBob's Truth or Square (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSOE",
+      "size": 33554432,
+      "crc32": "70f7511f",
+      "md5": "4e4cd17d5aa845a91da45e50e4291128",
+      "sha1": "e2d0c58298de9c1b6e2f4b87a0cd857f6172a759"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bob%20Esponja%20-%20Atrapados%20en%20el%20Congelador%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bob%20Esponja%20-%20Atrapados%20en%20el%20Congelador%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bob%20Esponja%20-%20Atrapados%20en%20el%20Congelador%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SpongeBob%27s%20Truth%20or%20Square%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/SpongeBob%27s%20Truth%20or%20Square%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SpongeBob%27s%20Truth%20or%20Square%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

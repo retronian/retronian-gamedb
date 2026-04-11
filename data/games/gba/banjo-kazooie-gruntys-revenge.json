@@ -63,5 +63,85 @@
     "wikidata": "Q806590",
     "mobygames": 10345,
     "igdb": 6318
-  }
+  },
+  "roms": [
+    {
+      "name": "Banjo-Kazooie - Grunty's Revenge (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BKZE",
+      "size": 8388608,
+      "crc32": "dfb5aba3",
+      "md5": "4781a8e513de51ab90292c321ac34374",
+      "sha1": "8f5b7c20e8be0f1e7919915b905c2b182a993cec",
+      "sha256": "36fe9ed931dea1f14080a80071b187087ee437c046df8f62af847d09caa5ae86"
+    },
+    {
+      "name": "Banjo-Kazooie - Grunty's Revenge (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BKZX",
+      "size": 8388608,
+      "crc32": "fb4f38e2",
+      "md5": "1e32d754b8a874d279086f98cf523dfd",
+      "sha1": "f335fede72cd0273fcce925a20ca272ede08c15b",
+      "sha256": "3be0d3cd18628b21472fa79089802e2791d5b0c35478b4f0db61739709ee05b1"
+    },
+    {
+      "name": "Banjo-Kazooie - Grunty's Revenge (Europe) (Beta 2)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 8337992,
+      "crc32": "106ed779",
+      "md5": "43ccab5d3761e9964500a454fdf6776b",
+      "sha1": "f2d3d4f8226c17c5391abcb2a2cbce10c59ab4c7"
+    },
+    {
+      "name": "Banjo-Kazooie - Grunty's Revenge (Europe) (Beta 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 8019096,
+      "crc32": "4e0f10fa",
+      "md5": "3b3cdb2583a22769fb80bae6b334dc81",
+      "sha1": "5a0b6fe8ac36e05de9c2e9b31d8b68ef125f4d96"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Banjo-Kazooie%20-%20Grunty%27s%20Revenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Banjo-Kazooie%20-%20Grunty%27s%20Revenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Banjo-Kazooie%20-%20Grunty%27s%20Revenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Banjo-Kazooie%20-%20Grunty%27s%20Revenge%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Banjo-Kazooie%20-%20Grunty%27s%20Revenge%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Banjo-Kazooie%20-%20Grunty%27s%20Revenge%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

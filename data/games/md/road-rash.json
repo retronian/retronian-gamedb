@@ -56,6 +56,42 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": true
+    },
+    {
+      "text": "Road Rash 3",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Road Rash 3",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Road Rash 3 : Tour de force",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Road Rash 3",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1994-01-01",
@@ -63,5 +99,107 @@
     "wikidata": "Q932493",
     "mobygames": 17194,
     "igdb": 45592
-  }
+  },
+  "roms": [
+    {
+      "name": "Road Rash (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50116-00",
+      "size": 786432,
+      "crc32": "dea53d19",
+      "md5": "543b64ccb26c18edc6c98c12b1302dc0",
+      "sha1": "8ff2b2a58b09c42eeb95f633bd8ea5227ac71358",
+      "sha256": "f7e95580baf30184d4d18a44042ea7a353308a8ed301d8421aed42f7b0f89663"
+    },
+    {
+      "name": "Road Rash (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-XXXXX-XX",
+      "size": 1048576,
+      "crc32": "256a21d2",
+      "md5": "3428cf3bdb5aab0ebfcf0e380d4d1c5d",
+      "sha1": "d822e5c16ee51dd1a030168bb8fd7c918398a82a",
+      "sha256": "2c2403e98759d1c3e688b8dbfae32e76d1c79146545cd1b07507ac18a79b4abc"
+    },
+    {
+      "name": "Road Rash 3 (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-7752-1",
+      "size": 2097152,
+      "crc32": "b6626083",
+      "md5": "e4b400ed10d7573d6e4447492ab8ae2e",
+      "sha1": "2cbba62bc9ab1dc3b3ec18a5eb867643021ac552",
+      "sha256": "ba6e5c7e79626c9a513a2ce9899c25c724df60ecfeafbc0e2da8249f30220bee"
+    },
+    {
+      "name": "Road Rash 3 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50966-00",
+      "size": 2097152,
+      "crc32": "15785956",
+      "md5": "dce9b99a3d692cb4463f9f35d278659b",
+      "sha1": "b2324833bf81223a9626a6060cafc203dd203468",
+      "sha256": "1da6a37c09ab87370334cb26dc0339bee85a6b581d3dc7216dc880a71a52aae6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Road%20Rash%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Road%20Rash%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Road%20Rash%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Road%20Rash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Road%20Rash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Road%20Rash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Road%20Rash%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Road%20Rash%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Road%20Rash%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

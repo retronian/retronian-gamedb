@@ -99,5 +99,89 @@
     "wikidata": "Q220665",
     "mobygames": 8806,
     "igdb": 208860
-  }
+  },
+  "roms": [
+    {
+      "name": "Space Invaders (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AIDE",
+      "size": 4194304,
+      "crc32": "5ea3f3b5",
+      "md5": "2ae83e668d4098f60a686962ae8ea71a",
+      "sha1": "dbb39eadef98a3f8c7de0de889b2932dbe293283"
+    },
+    {
+      "name": "Space Invaders (France)",
+      "source": "no_intro",
+      "serial": "AIDF",
+      "size": 4194304,
+      "crc32": "59372656",
+      "md5": "581120b8e9bbe9b3409ff219ee3d1b78",
+      "sha1": "899d6760c40b52351b7efe7a155304aafe2a77f7"
+    },
+    {
+      "name": "Space Invaders EX (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AIDJ",
+      "size": 4194304,
+      "crc32": "297b9854",
+      "md5": "59facfa52dc4730f506a3fe41466f657",
+      "sha1": "ae8cace77baccdb8f25c9b44ea3cf64d881b91a8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Space%20Invaders%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Space%20Invaders%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Space%20Invaders%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Space%20Invaders%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Space%20Invaders%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Space%20Invaders%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Space%20Invaders%20EX%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Space%20Invaders%20EX%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Space%20Invaders%20EX%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -42,5 +42,65 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1995-03-03"
+  "first_release_date": "1995-03-03",
+  "roms": [
+    {
+      "name": "Super Famista 4 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "7c20accb",
+      "md5": "0f60e8f44b47fd2993c1f40279471c12",
+      "sha1": "0aee41b4a21271092e811234e4b2432f3a231252",
+      "sha256": "b53d27f0d404f077efd14e4b3ae51f7e9d7e3b8676bcb1cb6ee6a38f8b89f667"
+    },
+    {
+      "name": "Super Famista 4 (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "8ea0de90",
+      "md5": "be9549b8e4091a9c3edbc0a8bdca72ea",
+      "sha1": "7951c6bd66d563712e6ca57291dd9321ad00de96",
+      "sha256": "99d7a0bdd34f85e44ce117b663ec9dca1bf96b92844888db2c1d8f2471cfcac8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Famista%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Famista%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Famista%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Famista%204%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Famista%204%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Famista%204%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

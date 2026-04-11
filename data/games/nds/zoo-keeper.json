@@ -54,5 +54,93 @@
     "wikidata": "Q3089311",
     "mobygames": 16463,
     "igdb": 69987
-  }
+  },
+  "roms": [
+    {
+      "name": "Zoo Keeper (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AZKE",
+      "size": 8388608,
+      "crc32": "0989a92c",
+      "md5": "efc743142b2f27c3b75c85960d5b3552",
+      "sha1": "5adf5c9b44ef6482734d9384cc51b3b59b840b87"
+    },
+    {
+      "name": "Zoo Keeper (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AZKP",
+      "size": 8388608,
+      "crc32": "e8cb0841",
+      "md5": "941b3b9b4ce525d24e12c52b60d0a530",
+      "sha1": "1bbd14721ca7aa74261b91f7740422960a0c1c75"
+    },
+    {
+      "name": "Zoo Keeper (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AZKJ",
+      "size": 8388608,
+      "crc32": "717e7fe6",
+      "md5": "93b2692a20e4ce3fcc4c3af8bd70f9f8",
+      "sha1": "963ee9997721f86c9d1a8d9402fd34020cc24457"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Keeper%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Zoo%20Keeper%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoo%20Keeper%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Keeper%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Zoo%20Keeper%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoo%20Keeper%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Keeper%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Zoo%20Keeper%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoo%20Keeper%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

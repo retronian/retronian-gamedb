@@ -51,5 +51,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Desert Commander (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "3b30abea",
+      "md5": "c1b2e3bdc4d2fb2f1ddef25b38abb65c",
+      "sha1": "33e64e8a112f065556dc1b579507e5e7e34b3d92",
+      "sha256": "195339dddde367a67a62d3a0e5b2e8219fba66148c47e0b2423c47c5d57bf12c"
+    },
+    {
+      "name": "Sensha Senryaku - Sabaku no Kitsune (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "d153b33e",
+      "md5": "74aa00a7aa6f26dccf00a435d4b62891",
+      "sha1": "6fef7b6f478f323597b47cdf6878f7b498ba3e1d",
+      "sha256": "189ebd242a0e9c90117655dcbf40e0112d57f4ba47c5e279faaf787aec3bf81a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Desert%20Commander%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Desert%20Commander%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Desert%20Commander%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Sensha%20Senryaku%20-%20Sabaku%20no%20Kitsune%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Sensha%20Senryaku%20-%20Sabaku%20no%20Kitsune%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Sensha%20Senryaku%20-%20Sabaku%20no%20Kitsune%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

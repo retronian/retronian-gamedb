@@ -63,5 +63,65 @@
     "wikidata": "Q2628757",
     "mobygames": 23248,
     "igdb": 200902
-  }
+  },
+  "roms": [
+    {
+      "name": "X-Men - The Official Game (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3XE",
+      "size": 8388608,
+      "crc32": "c87f460a",
+      "md5": "2584c4d9c73888ffc9096a02fafea08c",
+      "sha1": "e53aefa4e6fdab6b9d4d29d19f9c29004e767c94"
+    },
+    {
+      "name": "X-Men - The Official Game (Europe) (En,Fr,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3XP",
+      "size": 8388608,
+      "crc32": "34be6923",
+      "md5": "d20a8685f12452c1699012e2cf1d9b79",
+      "sha1": "2044edc0ae4a0f02277373d99e6ff15a7127d6cc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/X-Men%20-%20The%20Official%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/X-Men%20-%20The%20Official%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/X-Men%20-%20The%20Official%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/X-Men%20-%20The%20Official%20Game%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/X-Men%20-%20The%20Official%20Game%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/X-Men%20-%20The%20Official%20Game%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

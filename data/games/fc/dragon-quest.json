@@ -89,5 +89,37 @@
   "external_ids": {
     "wikidata": "Q2313869",
     "mobygames": 9223
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Quest (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "e9f91164",
+      "md5": "6890874f55ecc9c1d58c0e91aa87042d",
+      "sha1": "5b7c80c3404b93523577521927f7c99ab4a7ad57",
+      "sha256": "f3973016ecc113ec89b8b20f49072a2ff677d6b581920683d9c72acc4b667a3e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

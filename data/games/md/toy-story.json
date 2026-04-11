@@ -80,5 +80,78 @@
     "wikidata": "Q2414752",
     "mobygames": 8943,
     "igdb": 289027
-  }
+  },
+  "roms": [
+    {
+      "name": "Toy Story (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-239046-00",
+      "size": 4194304,
+      "crc32": "8e89a9f3",
+      "md5": "5992b6171bcbb7d7210b8a67db22f1cd",
+      "sha1": "6e7bb9b191389973922a5ab9978205bb9d2664cc",
+      "sha256": "f00027cdbedb4bcf9baa2444347e5548e6765cba10fcdd62c730f8364fce87dc"
+    },
+    {
+      "name": "Toy Story (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-239046-00",
+      "size": 4194304,
+      "crc32": "829fe313",
+      "md5": "23dc9770c2044a05c7351cf83a139d74",
+      "sha1": "49be571cd943fd594949c318a0bdbe6263fdd512",
+      "sha256": "6f6557ad20811d377606264a9c616a88ffc72e0299b18dac1cb1f3388566d587"
+    },
+    {
+      "name": "Toy Story (USA) (Demo)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-239046-00",
+      "size": 4194304,
+      "crc32": "9321bec1",
+      "md5": "f61a31259e41a28aa5946d2a0e3e3bbf",
+      "sha1": "7932c7de237ca333750b98ff3d2832c5f65be851",
+      "sha256": "93f21f32d29415b1108570c12ac31403931c3744ee6cb99b8ce067028d3e2ab7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Toy%20Story%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Toy%20Story%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Toy%20Story%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Toy%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Toy%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Toy%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

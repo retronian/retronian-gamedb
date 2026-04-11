@@ -63,5 +63,65 @@
     "wikidata": "Q507396",
     "mobygames": 41708,
     "igdb": 210229
-  }
+  },
+  "roms": [
+    {
+      "name": "Crash - Mind over Mutant (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CR8E",
+      "size": 67108864,
+      "crc32": "bf3fad70",
+      "md5": "051c5bb40ab3823ed07f720723569b65",
+      "sha1": "24d0e2f9f8064b85ee1876abbc123bda94715ff6"
+    },
+    {
+      "name": "Crash - Mind over Mutant (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CR8P",
+      "size": 67108864,
+      "crc32": "693b162f",
+      "md5": "4d8515f06549a4175935202edd80e307",
+      "sha1": "379f2709554a0e6d44b8dbb393f97411f084da41"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Crash%20-%20Mind%20over%20Mutant%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Crash%20-%20Mind%20over%20Mutant%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Crash%20-%20Mind%20over%20Mutant%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Crash%20-%20Mind%20over%20Mutant%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Crash%20-%20Mind%20over%20Mutant%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Crash%20-%20Mind%20over%20Mutant%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

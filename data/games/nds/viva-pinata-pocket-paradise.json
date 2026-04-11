@@ -45,5 +45,76 @@
     "wikidata": "Q1608742",
     "mobygames": 37771,
     "igdb": 21357
-  }
+  },
+  "roms": [
+    {
+      "name": "Viva Pinata - Pocket Paradise (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CP3P",
+      "size": 134217728,
+      "crc32": "590d74b1",
+      "md5": "1439386737377ccf8d6235b5952aa9c6",
+      "sha1": "807ca6aeda9fcaa41df2ca7a365f6f57a440261a"
+    },
+    {
+      "name": "Viva Pinata - Pocket Paradise (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CP3E",
+      "size": 134217728,
+      "crc32": "3063378a",
+      "md5": "58b83df8dc4b4b21619b91d86d32f274",
+      "sha1": "f56d9611f0e010eecc1a2e88f1d6173f880ef2dc"
+    },
+    {
+      "name": "Viva Pinata - Pocket Paradise (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CP3E",
+      "size": 134217728,
+      "crc32": "5f552299",
+      "md5": "6da320611d2d02fe9468b11e016545c1",
+      "sha1": "75bef2e08b7c70fd09219c9ae8c11cc4de051c5a",
+      "sha256": "a808ddbf37d1b36ef561de337870a75394062a920fe79af9681db3802d2b1e17"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Viva%20Pinata%20-%20Pocket%20Paradise%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Viva%20Pinata%20-%20Pocket%20Paradise%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Viva%20Pinata%20-%20Pocket%20Paradise%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Viva%20Pinata%20-%20Pocket%20Paradise%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Viva%20Pinata%20-%20Pocket%20Paradise%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Viva%20Pinata%20-%20Pocket%20Paradise%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

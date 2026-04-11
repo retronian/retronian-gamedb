@@ -71,5 +71,49 @@
   "external_ids": {
     "wikidata": "Q3062974",
     "mobygames": 44934
-  }
+  },
+  "roms": [
+    {
+      "name": "F1 Circus MD (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-71013-00",
+      "size": 524288,
+      "crc32": "5d30befb",
+      "md5": "211d119a11102a8feccc78e2231a54b5",
+      "sha1": "2efb8d46163e785a57421e726991328024ecd2a7",
+      "sha256": "9e2a69ac596c83f8c02dc30bf6b792f45f8c62aa2e334230d7fc125ab8ec29dc"
+    },
+    {
+      "name": "F1 Circus MD (USA) (Proto) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-71013-00",
+      "size": 524288,
+      "crc32": "cd1a1ad8",
+      "md5": "5428986be40a0256182077ae796d169e",
+      "sha1": "a27b8b28b38967248019c66452563262a5238ce6",
+      "sha256": "299766bb20343397e0d6e70a378bf49006f1300ff05af8a5cd1c2472437231e7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/F1%20Circus%20MD%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/F1%20Circus%20MD%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/F1%20Circus%20MD%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

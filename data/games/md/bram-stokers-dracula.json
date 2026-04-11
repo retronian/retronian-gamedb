@@ -45,5 +45,67 @@
     "wikidata": "Q1406611",
     "mobygames": 323,
     "igdb": 5366
-  }
+  },
+  "roms": [
+    {
+      "name": "Bram Stoker's Dracula (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-93016-50",
+      "size": 1048576,
+      "crc32": "9ba5a063",
+      "md5": "7615423545410607fea545e8463d3169",
+      "sha1": "d1e2bb4febf973e3510118d2ea71b4c6594480a9",
+      "sha256": "37dafdfbdd00ee62dcd03656f60e92beaec07c93b937fcfe51ca2a2107c2002d"
+    },
+    {
+      "name": "Bram Stoker's Dracula (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-93016-01",
+      "size": 1048576,
+      "crc32": "077084a6",
+      "md5": "8b10e54ddf8efac9a4753b4da089b39e",
+      "sha1": "4ede0e75054655acab63f2a41b8c57e1cf137e58",
+      "sha256": "a677a7269435748a223014a1be0195c66bf440345636b141138aaea7d2c29196"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Bram%20Stoker%27s%20Dracula%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Bram%20Stoker%27s%20Dracula%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Bram%20Stoker%27s%20Dracula%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Bram%20Stoker%27s%20Dracula%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Bram%20Stoker%27s%20Dracula%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Bram%20Stoker%27s%20Dracula%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

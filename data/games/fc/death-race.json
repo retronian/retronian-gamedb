@@ -18,5 +18,47 @@
     "wikidata": "Q5247184",
     "mobygames": 27377,
     "igdb": 296182
-  }
+  },
+  "roms": [
+    {
+      "name": "Death Race (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "0859c235",
+      "md5": "3e15726fe64b3be8be9e16ac9f46869a",
+      "sha1": "02ff199b5edf55e066b3e50ae0f6b44776477dbc",
+      "sha256": "c7f91e27e086eb91e2f8e14783d0560980216ef8be1d0a5b8ab571ffc936497c"
+    },
+    {
+      "name": "Death Race (USA) (Beta) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "2a2b955c",
+      "md5": "f63b7d197acf180a9d858ba03ccb49e3",
+      "sha1": "2d26017925d3b1b4dafbd4b180fddfa784e855ff",
+      "sha256": "ef04b4dadd99dbcd79fc55ad4678c7c3bcd46b8b57e5848c32195bc2899b8c4d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Death%20Race%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Death%20Race%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Death%20Race%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

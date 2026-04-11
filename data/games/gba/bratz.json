@@ -18,5 +18,66 @@
     "wikidata": "Q4958188",
     "mobygames": 9499,
     "igdb": 225653
-  }
+  },
+  "roms": [
+    {
+      "name": "Bratz (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A2RE",
+      "size": 4194304,
+      "crc32": "21e5a010",
+      "md5": "8b809080a689886e7877ec89eb82ae99",
+      "sha1": "7372324941f48f5d02f667099de4fafbc96cff86",
+      "sha256": "fb4811eac43aa8763d7ebae1ef8296bcbc71da9623331990a42c6209d1c7e93f"
+    },
+    {
+      "name": "Bratz (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A2RP",
+      "size": 4194304,
+      "crc32": "b30241e2",
+      "md5": "accb22e06c37f68b55d8fa34853f885b",
+      "sha1": "27c83075014fbf4d15a1a91db5f9c9babb8e96d3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bratz%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bratz%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bratz%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bratz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bratz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bratz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -63,5 +63,51 @@
     "wikidata": "Q4740815",
     "mobygames": 54536,
     "igdb": 7753
-  }
+  },
+  "roms": [
+    {
+      "name": "Amazing Penguin (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "3011d5ca",
+      "md5": "d8326bfee457ccb2c0afb8dd6ac11db2",
+      "sha1": "84cc6452823eb05ee38679aec86e3cc6e4a50e6f",
+      "sha256": "db4e590899aab75bceb31e84a2ec77c34b561838a61fd9dc9fda004a0507a01c"
+    },
+    {
+      "name": "Amazing Penguin (World) (Limited Run Games)",
+      "source": "no_intro",
+      "size": 65536,
+      "crc32": "82d4664c",
+      "md5": "b6d37de7ea2b720d1b66cb1db51ee6ba",
+      "sha1": "01f11e0746a511b35b2c873d6a190f6e10204676",
+      "sha256": "4915d03b5689d10cc3250ec0d3594b0d1fcbf47ae3fd178f476495c7151e487a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Amazing%20Penguin%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Amazing%20Penguin%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Amazing%20Penguin%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Amazing%20Penguin%20%28World%29%20%28Limited%20Run%20Games%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

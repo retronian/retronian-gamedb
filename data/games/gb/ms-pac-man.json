@@ -90,5 +90,65 @@
     "wikidata": "Q2141683",
     "mobygames": 576,
     "igdb": 213874
-  }
+  },
+  "roms": [
+    {
+      "name": "Ms. Pac-Man (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "e19f67d7",
+      "md5": "5cfa323ad8d8e4a6d50022d5c64b46fd",
+      "sha1": "c3388250f3fd3e18289edbaf0063ac563e2dfec0",
+      "sha256": "a5c3757a9b460f683a3bc4a0c1dc177228ec392ef7b735c408137d3b86d2123f"
+    },
+    {
+      "name": "Ms. Pac-Man (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "0e5bb1c4",
+      "md5": "ffa8642a18781fbe79df436a761a9775",
+      "sha1": "fcc05f0625d52ace28d21fd8270e71246229cbad",
+      "sha256": "21db857936d7eff3d57d576f0a01a52e012d0dcf5dc8f2a6cdb0e92a131a72b6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ms.%20Pac-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ms.%20Pac-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ms.%20Pac-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ms.%20Pac-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ms.%20Pac-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ms.%20Pac-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

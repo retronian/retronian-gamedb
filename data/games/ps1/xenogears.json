@@ -72,5 +72,57 @@
     "wikidata": "Q583360",
     "mobygames": 4154,
     "igdb": 1346
-  }
+  },
+  "roms": [
+    {
+      "name": "Xenogears (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 784617056,
+      "crc32": "9746255b",
+      "md5": "eb5ae2543fea97a9dba8e86c5cdc6ef0",
+      "sha1": "b02ea5fb4b8f6a9d8f18dbed83cff97b5c606039"
+    },
+    {
+      "name": "Xenogears (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 758743056,
+      "crc32": "1957f322",
+      "md5": "723c52a8539260cb136f400534cd143f",
+      "sha1": "b7e23aba0171194752cedf32c976489c033a3c66"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Xenogears%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Xenogears%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Xenogears%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Xenogears%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Xenogears%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

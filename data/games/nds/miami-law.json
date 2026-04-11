@@ -54,5 +54,75 @@
     "wikidata": "Q6827347",
     "mobygames": 55409,
     "igdb": 20281
-  }
+  },
+  "roms": [
+    {
+      "name": "Miami Crisis (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YNKJ",
+      "size": 67108864,
+      "crc32": "ae3bfa3b",
+      "md5": "8e058e0e56f426c82faa1c69fd5e54a6",
+      "sha1": "e36395042105a08e3a2cacd4bb5f5c1c377f63fa"
+    },
+    {
+      "name": "Miami Crisis (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YNKP",
+      "size": 67108864,
+      "crc32": "7f17e88b",
+      "md5": "5c3084a3ab3c19cc556702ed527cd9c7",
+      "sha1": "2bad1a53c17dcfea77e199e7c893668ed720d39a"
+    },
+    {
+      "name": "Miami Law (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YNKE",
+      "size": 67108864,
+      "crc32": "f59bd935",
+      "md5": "be24e5aacd404410c0ab807182cc5604",
+      "sha1": "ec9a5ba3d51692391c0950e090f73056eb11ad67"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Miami%20Crisis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Miami%20Crisis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Miami%20Crisis%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Miami%20Crisis%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Miami%20Law%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Miami%20Law%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

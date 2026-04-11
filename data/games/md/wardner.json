@@ -78,5 +78,67 @@
   "external_ids": {
     "wikidata": "Q3022851",
     "igdb": 41082
-  }
+  },
+  "roms": [
+    {
+      "name": "Wardner (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-58016-00",
+      "size": 524288,
+      "crc32": "1e369ae2",
+      "md5": "03fcaef50c6a5e889690a25b1433499a",
+      "sha1": "23bd6421f0e3710350e12f9322e75160a699ace8",
+      "sha256": "588d0034be91fa322426521cebb8e6d1a94f849aa7ed246f05dd4f097cb018d4"
+    },
+    {
+      "name": "Wardner no Mori Special (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-58013-00",
+      "size": 524288,
+      "crc32": "80f1035c",
+      "md5": "473332d97eb0bf9b16490379c57a1ada",
+      "sha1": "28844399b73628a3507ca38e855d0afe24c59f4b",
+      "sha256": "229a3c66949f9e565180f5b8d2275419ea40492af9cbccfe7fcbfd72d27a914f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wardner%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wardner%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wardner%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wardner%20no%20Mori%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wardner%20no%20Mori%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wardner%20no%20Mori%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

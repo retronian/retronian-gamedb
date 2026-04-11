@@ -56,6 +56,15 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "ダンジョンエクスプローラー 〜邪神の領域〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2007-11-17",
@@ -63,5 +72,66 @@
     "wikidata": "Q864349",
     "mobygames": 36705,
     "igdb": 42865
-  }
+  },
+  "roms": [
+    {
+      "name": "Dungeon Explorer (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AXJP",
+      "size": 134217728,
+      "crc32": "249c4a34",
+      "md5": "c941bc35e363c7158fa69ec9c98c4abe",
+      "sha1": "43a52d196ed8ed7db880fde081b1b662f07ab996",
+      "sha256": "d20dc6ac2cb100156fc4ccb880241e0124a20197395da84aa357198d136c1c86"
+    },
+    {
+      "name": "Dungeon Explorer - Warriors of Ancient Arts (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AXJE",
+      "size": 67108864,
+      "crc32": "69186202",
+      "md5": "7e82865e586f446cb3194a2257317af0",
+      "sha1": "fe6563de36d82f366c5ab713654ad7fe2f1f53b4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dungeon%20Explorer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dungeon%20Explorer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dungeon%20Explorer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dungeon%20Explorer%20-%20Warriors%20of%20Ancient%20Arts%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dungeon%20Explorer%20-%20Warriors%20of%20Ancient%20Arts%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dungeon%20Explorer%20-%20Warriors%20of%20Ancient%20Arts%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

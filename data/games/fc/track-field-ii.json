@@ -105,5 +105,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Konamic Sports in Seoul (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "3bfdefe1",
+      "md5": "e7c0362918ad341efccc67707229f2fa",
+      "sha1": "71eddec990f0fa9d7f4edb9c424ebd8fb381baa0",
+      "sha256": "406ff9edc9af732c6247a6c203eff601c6eb5c7ee059aa8952f8084df830aa61"
+    },
+    {
+      "name": "Track & Field II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "fd4b1cf6",
+      "md5": "85dbfe0c2f3246c92a0b5c008b34de3f",
+      "sha1": "7474f5ade01e26413fe1c98f51445dfe2dec0076",
+      "sha256": "79395706376ca037c9d92fe02950a73400d0d46da2ce2b13152138f96711b34c"
+    },
+    {
+      "name": "Track & Field II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "f5594831",
+      "md5": "4cd5bf0121d33635e462d6dff78c00b5",
+      "sha1": "a90e980ad2a70e4c91b3c4cb323e9657c5362076",
+      "sha256": "d573e6be6cde2976de544f7608d85a0f13cd71fc75cfe51145157c486ba81243"
+    },
+    {
+      "name": "Track & Field II (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "83385a61",
+      "md5": "27f9595d939886d937c648fdea298dcf",
+      "sha1": "d74bcad2abb4f2184d12dc6cee734c8ea45546b3",
+      "sha256": "3bcd3e9766cb309a8f364cc004f0a867fdb3d79dbca8e2bdcce8abfd0fad8c65"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Konamic%20Sports%20in%20Seoul%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Konamic%20Sports%20in%20Seoul%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Konamic%20Sports%20in%20Seoul%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

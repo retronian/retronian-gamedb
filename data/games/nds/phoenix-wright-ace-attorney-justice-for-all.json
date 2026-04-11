@@ -98,5 +98,123 @@
     "wikidata": "Q645003",
     "mobygames": 24748,
     "igdb": 1427
-  }
+  },
+  "roms": [
+    {
+      "name": "Gyakuten Saiban 2 (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A2GJ",
+      "size": 33554432,
+      "crc32": "40becdc8",
+      "md5": "9c74aca5ed642d031a8f0acbcc85ef06",
+      "sha1": "ff3050bb135882b37b40de8c6098766485c98c18",
+      "sha256": "85e0e265a9d855a5d156a09794571b93fb13eab616814d5df49e9fcec01277fb"
+    },
+    {
+      "name": "Phoenix Wright - Ace Attorney - Justice for All (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A2GE",
+      "size": 33554432,
+      "crc32": "ed50c3e6",
+      "md5": "7ce988f799c18fdee49d09da942fc341",
+      "sha1": "51ee2dde4adbd112e17780b4e5c8637ce5383418",
+      "sha256": "ecc16381aa55c6cd129b8e4e2e9b2726c4afde26d7e881bd8bd1d6d6bf47de0c"
+    },
+    {
+      "name": "Phoenix Wright - Ace Attorney - Justice for All (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A2GP",
+      "size": 33554432,
+      "crc32": "5082b5c0",
+      "md5": "687fbfb9b2d99b2f92d1fa2aca64e7fe",
+      "sha1": "ff2e3e693a103f4ba251abfa6832dc8ed229e1a1"
+    },
+    {
+      "name": "Phoenix Wright - Ace Attorney - Justice for All (Europe) (Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A2GX",
+      "size": 33554432,
+      "crc32": "877728b5",
+      "md5": "857650b582084fc390092be928c9bb36",
+      "sha1": "4fe1c75ff115f2f671954c7c3f8c7a727d04fd8b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Gyakuten%20Saiban%202%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Gyakuten%20Saiban%202%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Gyakuten%20Saiban%202%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Justice%20for%20All%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Justice%20for%20All%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Justice%20for%20All%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Justice%20for%20All%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Justice%20for%20All%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Justice%20for%20All%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Justice%20for%20All%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Justice%20for%20All%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Justice%20for%20All%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

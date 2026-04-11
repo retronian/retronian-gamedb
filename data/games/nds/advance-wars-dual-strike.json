@@ -63,5 +63,86 @@
     "wikidata": "Q2340376",
     "mobygames": 19271,
     "igdb": 1693
-  }
+  },
+  "roms": [
+    {
+      "name": "Advance Wars - Dual Strike (USA) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "WUP-N-DA3E",
+      "size": 33554432,
+      "crc32": "e1c238f5",
+      "md5": "f60c88f2d680623c8b1a05931ee4b6b1",
+      "sha1": "9b1e727a5c57fb2eefff00bf1bd3eecda6e87d51"
+    },
+    {
+      "name": "Advance Wars - Dual Strike (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "WUP-N-DA3P",
+      "size": 33554432,
+      "crc32": "6e85f024",
+      "md5": "5688028e515f2eb068576886625f83e3",
+      "sha1": "63e44444a76495556e75789b98865f21e0b338e9"
+    },
+    {
+      "name": "Advance Wars - Dual Strike (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWRE",
+      "size": 33554432,
+      "crc32": "4d9a91e3",
+      "md5": "6119b65d4f854953a5b85bc692166476",
+      "sha1": "5a8d22d41caa2c0ff41fb4a2b885a6be607e22d9",
+      "sha256": "834860dd973b04984f1ed9cfdfb7e5cb0a108dad4ee37902baffb60ab7621743"
+    },
+    {
+      "name": "Advance Wars - Dual Strike (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWRP",
+      "size": 33554432,
+      "crc32": "c42d8e67",
+      "md5": "e6105bc672701a516b730c31754f7859",
+      "sha1": "03b63875930bd8fdea50902d7d2e0a4614ac36eb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Advance%20Wars%20-%20Dual%20Strike%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Advance%20Wars%20-%20Dual%20Strike%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Advance%20Wars%20-%20Dual%20Strike%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Advance%20Wars%20-%20Dual%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Advance%20Wars%20-%20Dual%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Advance%20Wars%20-%20Dual%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

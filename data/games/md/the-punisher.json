@@ -54,5 +54,67 @@
     "wikidata": "Q2633916",
     "mobygames": 28848,
     "igdb": 19768
-  }
+  },
+  "roms": [
+    {
+      "name": "Punisher, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-12026-00",
+      "size": 2097152,
+      "crc32": "729edd17",
+      "md5": "e4361688368d9da9550b7e2443377232",
+      "sha1": "d11ec72726498e4608eefc1ef2b8a3cadb025394",
+      "sha256": "39bcecfbe293bc44e60c52fdf39851f23c177b7cb00c66a14d9996da0171c414"
+    },
+    {
+      "name": "Punisher, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-12026-00",
+      "size": 2097152,
+      "crc32": "695cd8b8",
+      "md5": "0711541847d139a7dae88958b68f92ee",
+      "sha1": "4ef2675e728903925a7b865daa75ed66bbe24829",
+      "sha256": "4b84bd9e6813233e97bae16e3fb5924aa2c459710131e9be9f1aa025787ccf27"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Punisher%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Punisher%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Punisher%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Punisher%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Punisher%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Punisher%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

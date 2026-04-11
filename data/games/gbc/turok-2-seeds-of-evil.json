@@ -18,5 +18,48 @@
     "wikidata": "Q28452472",
     "mobygames": 30993,
     "igdb": 146696
-  }
+  },
+  "roms": [
+    {
+      "name": "Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 1048576,
+      "crc32": "6eda6a3a",
+      "md5": "28d6c613fdf608fe241fb3ce183aaae5",
+      "sha1": "fb7856af0205cc749174cda9eb51ae137984558c"
+    },
+    {
+      "name": "Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (Beta) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 1048576,
+      "crc32": "dae30864",
+      "md5": "1c146ce4743c94923843f6aa07a15a47",
+      "sha1": "886c73348f4dd50e3ea916f96b8daa2451997dcc",
+      "sha256": "4b365641b4ee5cbea9d5eba28b406c0b4a9fe48a80dd32cea024a0f8bb61309f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Turok%202%20-%20Seeds%20of%20Evil%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Turok%202%20-%20Seeds%20of%20Evil%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Turok%202%20-%20Seeds%20of%20Evil%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

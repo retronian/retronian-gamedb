@@ -63,5 +63,65 @@
     "wikidata": "Q1759528",
     "mobygames": 11270,
     "igdb": 4479
-  }
+  },
+  "roms": [
+    {
+      "name": "Snake Rattle n Roll (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "58edb0c7",
+      "md5": "fd430cd0b7814cff232c30ba32161db8",
+      "sha1": "cd1e36cc8282adce00ddbc728720b1053a7e5b75",
+      "sha256": "d0457f7dccedaf9eb4475b69800765a3aa5d4172abcdc2935473a4983fdc3740"
+    },
+    {
+      "name": "Snake Rattle n Roll (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "b1129c19",
+      "md5": "9e375400ae1981754b112fbe7c32a1a1",
+      "sha1": "65eb0f5402fc5fba4305a33f0ed9a16fcfbc9fee",
+      "sha256": "4e456a9b3872631f9937f2e14747022fe7a91a9dd9b4773ab326715411cc73a9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Snake%20Rattle%20n%20Roll%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Snake%20Rattle%20n%20Roll%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Snake%20Rattle%20n%20Roll%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Snake%20Rattle%20n%20Roll%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Snake%20Rattle%20n%20Roll%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Snake%20Rattle%20n%20Roll%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

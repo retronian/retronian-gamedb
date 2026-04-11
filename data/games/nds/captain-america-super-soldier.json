@@ -72,5 +72,66 @@
     "wikidata": "Q796139",
     "mobygames": 84641,
     "igdb": 203432
-  }
+  },
+  "roms": [
+    {
+      "name": "Captain America - Super Soldier (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BQNP",
+      "size": 67108864,
+      "crc32": "da485268",
+      "md5": "a9ad3a89d6116169f3761f464128f7ff",
+      "sha1": "00b5e66c1d182f2a363f7a9bc0861dfeb8cc5ec5",
+      "sha256": "a050a5d3b9872858be7732d654742da792391455eb37aa08c5c325f8e3155813"
+    },
+    {
+      "name": "Captain America - Super Soldier (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BQNE",
+      "size": 67108864,
+      "crc32": "23372d72",
+      "md5": "5d3e15b291cd3e8069789f084a0a3c53",
+      "sha1": "e40c623000f23a755508a145c622a1685aab32f7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Captain%20America%20-%20Super%20Soldier%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Captain%20America%20-%20Super%20Soldier%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Captain%20America%20-%20Super%20Soldier%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Captain%20America%20-%20Super%20Soldier%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Captain%20America%20-%20Super%20Soldier%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Captain%20America%20-%20Super%20Soldier%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

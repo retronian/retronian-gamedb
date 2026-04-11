@@ -11,6 +11,42 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Batman Beyond: Return of the Joker (videojuego)",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Batman of the Future: Return of the Joker",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Batman Beyond - Return of the Joker",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "バットマン・ビヨンド リターン・オブ・ジョーカー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "2000-01-01",
@@ -18,5 +54,91 @@
     "wikidata": "Q113332390",
     "mobygames": 77982,
     "igdb": 248765
-  }
+  },
+  "roms": [
+    {
+      "name": "Batman Beyond - Return of the Joker (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "b8b1f8f8",
+      "md5": "cdf275a96518efd2236f0bbb5321c0e3",
+      "sha1": "47c8a56fa67d4982ed36fca56ef0f33c451a0c49"
+    },
+    {
+      "name": "Batman Beyond - Return of the Joker (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "b32f4586",
+      "md5": "dd9e7c40f202f2c3963930e195d75f4d",
+      "sha1": "8c69eb7ec5bc809edc8caa255576f919ea722dad",
+      "sha256": "bfb324176949811c6e116cb8e3d434b4937634d95b4f9bdfb54e0157c612dea0"
+    },
+    {
+      "name": "Batman of the Future - Return of the Joker (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "f9d5b399",
+      "md5": "19cd9d45c6bb221613101b22c72593b2",
+      "sha1": "102aa62c873b7316b1b019d895989dcdedb776a9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Batman%20Beyond%20-%20Return%20of%20the%20Joker%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Batman%20Beyond%20-%20Return%20of%20the%20Joker%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Batman%20Beyond%20-%20Return%20of%20the%20Joker%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Batman%20Beyond%20-%20Return%20of%20the%20Joker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Batman%20Beyond%20-%20Return%20of%20the%20Joker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Batman%20Beyond%20-%20Return%20of%20the%20Joker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Batman%20of%20the%20Future%20-%20Return%20of%20the%20Joker%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Batman%20of%20the%20Future%20-%20Return%20of%20the%20Joker%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Batman%20of%20the%20Future%20-%20Return%20of%20the%20Joker%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

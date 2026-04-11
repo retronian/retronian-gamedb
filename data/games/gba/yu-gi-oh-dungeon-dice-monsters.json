@@ -26,5 +26,95 @@
   "external_ids": {
     "wikidata": "Q3573059",
     "igdb": 49211
-  }
+  },
+  "roms": [
+    {
+      "name": "Yu-Gi-Oh! - Dungeon Dice Monsters (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AYDP",
+      "size": 8388608,
+      "crc32": "ee317f69",
+      "md5": "ec2e23cc5fd7a3ea4e32ac7b8d488103",
+      "sha1": "3ded1227698fbdb2ba47f03025cd1934fc184b99"
+    },
+    {
+      "name": "Yu-Gi-Oh! - Dungeon Dice Monsters (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AYDJ",
+      "size": 8388608,
+      "crc32": "51b35e87",
+      "md5": "72f072d0e26a9e3d12b6107598cbaf69",
+      "sha1": "a0ad0cbff3d74bb3e234abcff866994ea602c43a",
+      "sha256": "20ca57cd48243ee54c45f670d6553efe28fab85379db9937ce908a9704b3b6bb"
+    },
+    {
+      "name": "Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AYDE",
+      "size": 8388608,
+      "crc32": "8b5e0a27",
+      "md5": "1ac4901f9a831d6b86ca776bb61f8d8b",
+      "sha1": "fdd69455a072b2f74e6c5c50b96daa0438156b27",
+      "sha256": "298bb77f816272c4e0bb7ab2c75f31f7270621b07e43db2d5198357a4c7b2cb0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20-%20Dungeon%20Dice%20Monsters%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20-%20Dungeon%20Dice%20Monsters%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20-%20Dungeon%20Dice%20Monsters%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20-%20Dungeon%20Dice%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20-%20Dungeon%20Dice%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20-%20Dungeon%20Dice%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20-%20Dungeon%20Dice%20Monsters%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20-%20Dungeon%20Dice%20Monsters%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20-%20Dungeon%20Dice%20Monsters%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

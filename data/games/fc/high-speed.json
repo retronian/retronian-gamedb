@@ -18,5 +18,75 @@
     "wikidata": "Q2513837",
     "mobygames": 7871,
     "igdb": 48156
-  }
+  },
+  "roms": [
+    {
+      "name": "High Speed (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 196624,
+      "crc32": "6416c92b",
+      "md5": "2eaacb90286b8d763d836f0c8110fabd",
+      "sha1": "856b3b750fa4d783da7471f013a9f86c4c3de454",
+      "sha256": "a38b2abfe8b044b5c8a1331f6bed4bed8114d1ecb8689795a480763bb06e6c49"
+    },
+    {
+      "name": "High Speed (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 196624,
+      "crc32": "55c12e4a",
+      "md5": "e055fc623d730a71e72dfe2b3386eb81",
+      "sha1": "317026911e2bf7bc8d5354efe4f5075aa5ac4b5b",
+      "sha256": "6dc78cd21e30151f451971f8b359804575740317c856c9514d4bd06a62c5b94f"
+    },
+    {
+      "name": "High Speed (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 196624,
+      "crc32": "71a40d01",
+      "md5": "cb845e487899d422b7fbcc295770f39c",
+      "sha1": "2e08daa350242bfa6294aa30c05789cd0f5d9d0a",
+      "sha256": "01aa36f228887049ca30eb4f46dbad933a13406d920bc68496ef11d8e6b2f94e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/High%20Speed%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/High%20Speed%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/High%20Speed%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/High%20Speed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/High%20Speed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/High%20Speed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

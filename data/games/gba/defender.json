@@ -65,6 +65,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "ディフェンダー (ゲーム)",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
     }
   ],
   "first_release_date": "1981-01-01",
@@ -72,5 +81,37 @@
     "wikidata": "Q1182593",
     "mobygames": 140,
     "igdb": 150104
-  }
+  },
+  "roms": [
+    {
+      "name": "Defender (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A2FE",
+      "size": 4194304,
+      "crc32": "2e271c13",
+      "md5": "3ecb36c34b0a441bad7a628760575e0c",
+      "sha1": "d9bc7d7a0500c7cf58ce4010071048a6c462b2de"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Defender%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Defender%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Defender%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

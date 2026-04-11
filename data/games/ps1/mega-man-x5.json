@@ -98,5 +98,45 @@
     "wikidata": "Q2467868",
     "mobygames": 3790,
     "igdb": 1745
-  }
+  },
+  "roms": [
+    {
+      "name": "Mega Man X5 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 361237808,
+      "crc32": "d6b02937",
+      "md5": "b26d1da7b0c98f44b2cd665db046eb78",
+      "sha1": "b32374def15c05db45f65bb8bb9bda145787c1dd"
+    },
+    {
+      "name": "RockMan X5 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 373699296,
+      "crc32": "80738d9f",
+      "md5": "d16c4f382576eb14cf87bf9314ea36c4",
+      "sha1": "d00ee09772bfb40dbe6f2d4f450331f499d56f77"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Mega%20Man%20X5%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Mega%20Man%20X5%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Mega%20Man%20X5%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

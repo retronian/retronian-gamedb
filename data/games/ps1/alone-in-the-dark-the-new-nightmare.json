@@ -90,5 +90,40 @@
     "wikidata": "Q2337936",
     "mobygames": 31000,
     "igdb": 1960
-  }
+  },
+  "roms": [
+    {
+      "name": "Alone in the Dark - The New Nightmare (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 749049440,
+      "crc32": "63a1bb02",
+      "md5": "41ba173003added64987136523edc4c9",
+      "sha1": "f8165d60969e00f285fe0a0c0eb7ea578f61a064",
+      "sha256": "9dd9e00a49670050dee7d22eb31e321eab799dac53f8bfcf4e7a83c818400b4d"
+    },
+    {
+      "name": "Alone in the Dark - The New Nightmare (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 752963968,
+      "crc32": "8c156c86",
+      "md5": "e31265fd28efa6007359c9ec51f8add6",
+      "sha1": "379c22f8abdc3d363b84cd1215a8cca6790863bd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -98,5 +98,65 @@
     "wikidata": "Q1755601",
     "mobygames": 46236,
     "igdb": 1708
-  }
+  },
+  "roms": [
+    {
+      "name": "Made in Ore (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "UORJ",
+      "size": 134217728,
+      "crc32": "075a68d1",
+      "md5": "093be44248bcde01b991cdae7546b8e6",
+      "sha1": "80bd873eb5313cf251643a92b6aa7ef18541280b"
+    },
+    {
+      "name": "WarioWare - D.I.Y. (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "UORE",
+      "size": 134217728,
+      "crc32": "d7b9edb0",
+      "md5": "c4e2e4e83634d6dbef3bced08f2d2756",
+      "sha1": "c522cf3edc3bd775543958540bf2efc7d3640c54"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Made%20in%20Ore%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Made%20in%20Ore%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Made%20in%20Ore%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WarioWare%20-%20D.I.Y.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/WarioWare%20-%20D.I.Y.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WarioWare%20-%20D.I.Y.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

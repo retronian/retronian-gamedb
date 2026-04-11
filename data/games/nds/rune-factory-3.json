@@ -71,5 +71,81 @@
   "external_ids": {
     "wikidata": "Q5968518",
     "igdb": 9640
-  }
+  },
+  "roms": [
+    {
+      "name": "Rune Factory 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BRFJ",
+      "size": 134217728,
+      "crc32": "4e0d536f",
+      "md5": "95bfc10af772a288afcb7c6d826d7913",
+      "sha1": "c2842d78fddc12b56c93d420bcbbac92511761a8"
+    },
+    {
+      "name": "Rune Factory 3 - A Fantasy Harvest Moon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BRFE",
+      "size": 134217728,
+      "crc32": "b423f7fc",
+      "md5": "b35fba4883eb46f77c919ecc9b21a369",
+      "sha1": "121b5dfdde869e828f9dfbb2f139e970bf25a8b8"
+    },
+    {
+      "name": "Rune Factory 3 - A Fantasy Harvest Moon (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BRFP",
+      "size": 134217728,
+      "crc32": "25324719",
+      "md5": "dff4eb59778103347e24eac64bc27e9c",
+      "sha1": "30aa6c5cf92c6ddfa07c88cfb1c30cd11be55952"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rune%20Factory%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rune%20Factory%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rune%20Factory%203%20-%20A%20Fantasy%20Harvest%20Moon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rune%20Factory%203%20-%20A%20Fantasy%20Harvest%20Moon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rune%20Factory%203%20-%20A%20Fantasy%20Harvest%20Moon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rune%20Factory%203%20-%20A%20Fantasy%20Harvest%20Moon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rune%20Factory%203%20-%20A%20Fantasy%20Harvest%20Moon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

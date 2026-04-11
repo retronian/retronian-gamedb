@@ -74,6 +74,51 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Sonic the Hedgehog Genesis",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "소닉 더 헤지혹 창세기",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Sonic the Hedgehog Genesis",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Sonic the Hedgehog Genesis",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Sonic the Hedgehog Genesis",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1991-06-23",
@@ -81,5 +126,37 @@
     "wikidata": "Q37123",
     "mobygames": 6579,
     "igdb": 16036
-  }
+  },
+  "roms": [
+    {
+      "name": "Sonic The Hedgehog - Genesis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BIJE",
+      "size": 4194304,
+      "crc32": "027bc70d",
+      "md5": "8105a6012737aac2907b27e4a05ad794",
+      "sha1": "31b9dee3b9289a32218f0e39667a6c2504e3f3d0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sonic%20The%20Hedgehog%20-%20Genesis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sonic%20The%20Hedgehog%20-%20Genesis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sonic%20The%20Hedgehog%20-%20Genesis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

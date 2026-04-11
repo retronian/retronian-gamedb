@@ -54,5 +54,65 @@
     "wikidata": "Q3022202",
     "mobygames": 19513,
     "igdb": 131726
-  }
+  },
+  "roms": [
+    {
+      "name": "Demolition Man (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "31a1b85a",
+      "md5": "2774c68a9a30f491d932319d3a2490db",
+      "sha1": "c9faf420d93d4c7ec4872b26a31b15b9e182b330",
+      "sha256": "3a158e49478bd9a25b487a347c25f401cd0ed1cd1ccf72d8010752139a2143dc"
+    },
+    {
+      "name": "Demolition Man (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "8afe2f91",
+      "md5": "53f35c2e352a75d1bc47339743895da9",
+      "sha1": "b55fac176b1dc86d7aca2e080086184349960c16",
+      "sha256": "752d24fab240f4dd1dfbfea5ec83438998316806ad44488bf8c84430ca5a2cd0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Demolition%20Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Demolition%20Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Demolition%20Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Demolition%20Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Demolition%20Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Demolition%20Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

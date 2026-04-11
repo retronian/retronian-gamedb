@@ -88,5 +88,121 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Metroid (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "967a7369",
+      "md5": "60ed5ab6c1c638808d9ffd98b7ec93f9",
+      "sha1": "7081920bb09a0a8f38067c367340a3f5e8932c64",
+      "sha256": "ae8018ea3b9a65adf8c6c504cffa2fbeb10e213da3e4100078e2fc6974f85076"
+    },
+    {
+      "name": "Metroid (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "d1a02cab",
+      "md5": "397d10e475266ad28144a5fa6ec3c466",
+      "sha1": "2080059bea4563ffff7535e6c0a0f3bc2f34b194",
+      "sha256": "88ad02b0b53012712f3c773a62073847551cec191aeda5d3ec19b22b594640eb"
+    },
+    {
+      "name": "Metroid (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "e6c3fb2b",
+      "md5": "b3703e2546b32510ce780bc9fa31aa3b",
+      "sha1": "2e6ebfb2f6cd6b4042dc5fbf8aa0251df3023b28",
+      "sha256": "b4783dbb2aeaefdb998f4ac232102b9d7f759f521a6e6c40e346e311403e0323"
+    },
+    {
+      "name": "Metroid (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "7432ff84",
+      "md5": "6b2335412ad47e9c2cbc757069409ba9",
+      "sha1": "cbf1d538621c8db63adfdcf6e4dde54e24dff4e0",
+      "sha256": "44fc300fd8ba55411f1f4daaac375ea74a8bb4f5e6ac1f8b2d69974b83374ec4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Metroid%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Metroid%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Metroid%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Metroid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Metroid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Metroid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Metroid%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Metroid%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Metroid%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Metroid%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Metroid%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Metroid%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

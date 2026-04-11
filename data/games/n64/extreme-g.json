@@ -63,5 +63,96 @@
     "wikidata": "Q1385473",
     "mobygames": 9195,
     "igdb": 3485
-  }
+  },
+  "roms": [
+    {
+      "name": "Extreme-G (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NEGP",
+      "size": 8388608,
+      "crc32": "0b71b1ea",
+      "md5": "3b2ca0da0810c95b31df8c1fb8811be2",
+      "sha1": "e7120856ecc9a7f29c21f45130eca0eca8a7bfec",
+      "sha256": "45cfbf079b7c5777ee47f3b86c643eeeb406acb2a84c95ec4ab2b5e2d754107b"
+    },
+    {
+      "name": "Extreme-G (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NEGJ",
+      "size": 8388608,
+      "crc32": "750dc9a7",
+      "md5": "a7cd65e5a4a8838d1cd452ba66e74df6",
+      "sha1": "d9d6f7cc456b530fd3233ef2d8d6b9f845cee043",
+      "sha256": "a4784b478525cef90be5576a1acfde1ca23bac254535952811f22385d5e03601"
+    },
+    {
+      "name": "Extreme-G (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NEGE",
+      "size": 8388608,
+      "crc32": "04cb74ec",
+      "md5": "3e660d3f991c0529e90bfec0244db31a",
+      "sha1": "eb9b273431970a6124319a8fd125f0b2cacd8966",
+      "sha256": "9e67bc574e40ef273759d587972655003d5213e625bfa68d3071dc9782d2071c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Extreme-G%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Extreme-G%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Extreme-G%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Extreme-G%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Extreme-G%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Extreme-G%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Extreme-G%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Extreme-G%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Extreme-G%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

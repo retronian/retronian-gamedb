@@ -35,5 +35,66 @@
   "external_ids": {
     "wikidata": "Q3019864",
     "mobygames": 34311
-  }
+  },
+  "roms": [
+    {
+      "name": "Nanostray 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANXE",
+      "size": 33554432,
+      "crc32": "6a3c2e8f",
+      "md5": "61c21e9e9457794ca6391b3d1bab6965",
+      "sha1": "4f06eaa9e7a40bd4938ea27df24f885f790de0cb",
+      "sha256": "273c869dec32a298b660187499c88b43e24c61a45e27134a7713d5acfc9c5291"
+    },
+    {
+      "name": "Nanostray 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANXP",
+      "size": 33554432,
+      "crc32": "d405b390",
+      "md5": "4b716b855040e68c3b5fe0afee729a68",
+      "sha1": "8ae7328b663d84c1c865e3980c8f161c7d128f51"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nanostray%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Nanostray%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nanostray%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nanostray%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Nanostray%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nanostray%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

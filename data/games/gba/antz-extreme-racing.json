@@ -45,5 +45,66 @@
     "wikidata": "Q4777510",
     "mobygames": 7479,
     "igdb": 248605
-  }
+  },
+  "roms": [
+    {
+      "name": "Antz - Extreme Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANUE",
+      "size": 4194304,
+      "crc32": "f4efc5ed",
+      "md5": "c33cd0b752e2305becd03604dbd90293",
+      "sha1": "ad6ded0f643457d652292bb97e30b1ad442e41da",
+      "sha256": "9bf8c74c87b57205f03501648d297fc9cab6c24f1a5c2be6cddc8db842e7d564"
+    },
+    {
+      "name": "Antz - Extreme Racing (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANZP",
+      "size": 4194304,
+      "crc32": "367927ed",
+      "md5": "4f6338b585af7dd74fe5aad98e0ba176",
+      "sha1": "68fca49cba74dc108f50ec762ab91b6dff5a92b8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Antz%20-%20Extreme%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Antz%20-%20Extreme%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Antz%20-%20Extreme%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Antz%20-%20Extreme%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Antz%20-%20Extreme%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Antz%20-%20Extreme%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

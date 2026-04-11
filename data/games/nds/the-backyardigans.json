@@ -18,5 +18,41 @@
     "wikidata": "Q108749911",
     "mobygames": 78199,
     "igdb": 47879
-  }
+  },
+  "roms": [
+    {
+      "name": "Backyardigans, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BBYE",
+      "size": 8388608,
+      "crc32": "31bafa87",
+      "md5": "8349a256719a2f7e40b68124e3e4d899",
+      "sha1": "fdf95f3a56dbf05fa506310e29fbe79396e40f18"
+    },
+    {
+      "name": "Backyardigans, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BBYP",
+      "size": 8388608,
+      "crc32": "543a663b",
+      "md5": "345846477da8cee336b53fecd440252b",
+      "sha1": "a8aad3019c34d2b26274e573a6bfba32e0d8f8ee"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Backyardigans%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Backyardigans%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

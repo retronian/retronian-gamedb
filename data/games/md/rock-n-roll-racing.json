@@ -63,5 +63,67 @@
     "wikidata": "Q2140297",
     "mobygames": 11544,
     "igdb": 6564
-  }
+  },
+  "roms": [
+    {
+      "name": "Rock 'n' Roll Racing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-125056-50",
+      "size": 1048576,
+      "crc32": "bc5a0562",
+      "md5": "c0e18a6fbf4e6debd51d0e4d05cca73e",
+      "sha1": "c4d84425c007711f006a67d6577fd90f421605e5",
+      "sha256": "b65b7de45420e7618fef1b9bef13076389fdf7e0da8dfec1de23f528dcd170cb"
+    },
+    {
+      "name": "Rock n' Roll Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-125056-00",
+      "size": 1048576,
+      "crc32": "6abab577",
+      "md5": "530c58317b5626fa15b77adab0aacc9d",
+      "sha1": "9793572b6d64c85c1add0721c3be388ac18777d6",
+      "sha256": "1c434759c1ae2aa617dcc23a6a97b843874aba86e6b81a83fc3ee222c822e7d0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Rock%20%27n%27%20Roll%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Rock%20%27n%27%20Roll%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Rock%20%27n%27%20Roll%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Rock%20n%27%20Roll%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Rock%20n%27%20Roll%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Rock%20n%27%20Roll%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

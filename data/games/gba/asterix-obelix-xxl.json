@@ -56,12 +56,81 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Asterix & Obelix: Bash Them All!",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Astérix et Obélix : Paf ! Par Toutatis !",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Asterix & Obelix: Jetzt geht's rund!",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "2004-03-19",
+  "first_release_date": "2002-01-01",
   "external_ids": {
     "wikidata": "Q747882",
     "mobygames": 61508,
     "igdb": 82102
-  }
+  },
+  "roms": [
+    {
+      "name": "Asterix & Obelix - Bash Them All! (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AOBP",
+      "size": 8388608,
+      "crc32": "92360109",
+      "md5": "27dfc6912ed8bbd27a5b5b32a62a4916",
+      "sha1": "9c6fc07a77b0cb8a7265147fdb83b0e6d1d629df"
+    },
+    {
+      "name": "Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BLXP",
+      "size": 8388608,
+      "crc32": "a9b1ece5",
+      "md5": "920882439cd994c2f0ab63d32a64eb80",
+      "sha1": "7145d02143c1a81f6ea72063ac798642b2aaec3c"
+    },
+    {
+      "name": "Asterix & Obelix XXL (Europe) (Fr) (Beta 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 8388608,
+      "crc32": "f6a977a5",
+      "md5": "9f511c25d8d14ffea0f381e157dab483",
+      "sha1": "ba93d8ac8f61c8655665740bb1f6fce97657b50c",
+      "sha256": "0ec9567ceba80b5561f168f299d787e18adc987652b63e2e2960f6661454d1b3"
+    },
+    {
+      "name": "Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl) (Beta 2)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 8388608,
+      "crc32": "52824b58",
+      "md5": "f1032ab0ecb48697ffd4d50b28cccf5f",
+      "sha1": "5cd3d371b81ab1dfb4b01e1b3563117c5054b713",
+      "sha256": "4720f372880d5f69990b05798c2672ce35b9f7d4d6fa90e4e2dd1e89ff710231"
+    }
+  ]
 }

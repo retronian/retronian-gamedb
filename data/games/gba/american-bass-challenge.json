@@ -26,5 +26,94 @@
     "wikidata": "Q4743149",
     "mobygames": 40628,
     "igdb": 6302
-  }
+  },
+  "roms": [
+    {
+      "name": "American Bass Challenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AABE",
+      "size": 4194304,
+      "crc32": "d76ad62d",
+      "md5": "61d4355a0731c3150c36b5a704173c70",
+      "sha1": "1fc03cca393ddbc633d309aae95b42c89e4d0e96",
+      "sha256": "294e7c34a9d2ee37bc005368fcc268dfdc0dfaaade8adddae5d25e2fa33ee418"
+    },
+    {
+      "name": "Super Black Bass Advance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AABJ",
+      "size": 4194304,
+      "crc32": "67c4e470",
+      "md5": "624a73d3cb69e50c0a1cc9de726083ec",
+      "sha1": "2d71d6d29729ac5d3302f1d14e2e774afe7a06a8"
+    },
+    {
+      "name": "Super Black Bass Advance (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AABP",
+      "size": 4194304,
+      "crc32": "91238ad1",
+      "md5": "fe1bd7d414d0a710ef17d38cec1a76cc",
+      "sha1": "f29fa04bcd4c1a2bfd466d6046ac6eb86071b2fc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/American%20Bass%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/American%20Bass%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/American%20Bass%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Black%20Bass%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Black%20Bass%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Black%20Bass%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Black%20Bass%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Black%20Bass%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Black%20Bass%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

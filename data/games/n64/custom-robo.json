@@ -52,5 +52,38 @@
   "external_ids": {
     "wikidata": "Q3007910",
     "igdb": 3462
-  }
+  },
+  "roms": [
+    {
+      "name": "Custom Robo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NCXJ",
+      "size": 16777216,
+      "crc32": "f2fae693",
+      "md5": "a06d2e83cf2628915e8847f609474661",
+      "sha1": "49de08f08400a477485c4798d6cd81d95842c806",
+      "sha256": "9b66c00a983ceccccf17727731173d7c7eeef9f7c13faf44ae89e5d2b9f656c1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Custom%20Robo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Custom%20Robo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Custom%20Robo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

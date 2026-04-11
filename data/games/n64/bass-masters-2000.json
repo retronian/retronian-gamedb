@@ -26,5 +26,55 @@
   "external_ids": {
     "wikidata": "Q2887274",
     "mobygames": 36512
-  }
+  },
+  "roms": [
+    {
+      "name": "Bassmasters 2000 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NB4E",
+      "size": 12582912,
+      "crc32": "6b09092e",
+      "md5": "930c7f6e5863471dde1816d28a10eb88",
+      "sha1": "946b3e08a1a4de4f917ad547bb24f533b737f712",
+      "sha256": "dece8932dfdcb7f42e4118c4f763b198098fee854c90cfe71e8d5bd2e6e02efe"
+    },
+    {
+      "name": "Bassmasters 2000 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 33554432,
+      "crc32": "86f8e439",
+      "md5": "684f4f7cefcc0863710799c8a43dd882",
+      "sha1": "aa5e9d5eccd278bc59d995e31431715d67e93fe2",
+      "sha256": "8c638f6d2e7ad367d7bd207fbdf4d62b12734dd23a54e195427ee6adfe114cd0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bassmasters%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bassmasters%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bassmasters%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bassmasters%202000%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

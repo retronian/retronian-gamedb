@@ -62,5 +62,74 @@
     "wikidata": "Q5094488",
     "mobygames": 17778,
     "igdb": 42114
-  }
+  },
+  "roms": [
+    {
+      "name": "Be Ball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "261f1013",
+      "md5": "5c6227a91d252a12bf2a0d3d5b5fe65d",
+      "sha1": "55d8815a4a432e587fc7483b63b73114fe40e710",
+      "sha256": "e16aacab6731e490ffd16f9893f52c6e1cc6c97ffe9950fce67c68283ef38a6a"
+    },
+    {
+      "name": "Be Ball (Hong Kong) (Ja) (Unl)",
+      "source": "no_intro",
+      "size": 262144,
+      "crc32": "968770f6",
+      "md5": "e2052e10cbb199a841565772be6bb81a",
+      "sha1": "c0ad1d104c41ff742c0529b7699cff7a26055d0c",
+      "sha256": "949f538e6c1ab1b6a1fee1078e2fbfe267670144eb29491332a18b811e2eec2f"
+    },
+    {
+      "name": "Chew-Man-Fu (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "8cd13e9a",
+      "md5": "ff32565f935af07372e1dfd0ac7fbe78",
+      "sha1": "5c742fe5d5af5628ba0e598cb88abd892dc87682",
+      "sha256": "4766db13b679c72d70912e68da83dd02e21b0028529df95a50d3557e995d4ddd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Be%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Be%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Be%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Chew-Man-Fu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Chew-Man-Fu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Chew-Man-Fu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,48 @@
     "wikidata": "Q2414730",
     "mobygames": 888,
     "igdb": 48134
-  }
+  },
+  "roms": [
+    {
+      "name": "Joe & Mac (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "9d6aea16",
+      "md5": "90540561cb17aaf84957b80fce075581",
+      "sha1": "cfdfb8398e79162453a790150dc36c211b94b805",
+      "sha256": "851a79ac18458d60b85f8ed1027558875fa2cc22a2b3656959cfce73cf366b1e"
+    },
+    {
+      "name": "Joe & Mac - Caveman Ninja (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "7b43e3fe",
+      "md5": "5ea5b44a26d38c56de127bc236575c84",
+      "sha1": "447d40aedb93f5477013ff9000a70f2f15c0c8eb",
+      "sha256": "29505233cee5e3821fce7eba4f0bce37de2ecc588127aa86186adb551149b77c"
+    },
+    {
+      "name": "Joe and Mac (Asia) (En) (J-C5) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "a8671ae3",
+      "md5": "7283a7a48611554c226ee26701bd06b2",
+      "sha1": "4db3200b71e3d2fe7d53f700537d02603c131337",
+      "sha256": "2e23a4a6206e44475273eda1bcfe63bae09587c6ca254752be142cbf8a02f81d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Joe%20and%20Mac%20%28Asia%29%20%28En%29%20%28J-C5%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Joe%20and%20Mac%20%28Asia%29%20%28En%29%20%28J-C5%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

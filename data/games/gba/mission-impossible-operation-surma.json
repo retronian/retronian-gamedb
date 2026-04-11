@@ -54,5 +54,66 @@
     "wikidata": "Q2057458",
     "mobygames": 12736,
     "igdb": 248447
-  }
+  },
+  "roms": [
+    {
+      "name": "Mission Impossible - Operation Surma (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AIHP",
+      "size": 4194304,
+      "crc32": "45de1669",
+      "md5": "54068c4366ce9072837003184b361a68",
+      "sha1": "bd320d68873d1b0443ae39635c22e547c748e576",
+      "sha256": "f8d8b2cd133cae19ea867e30f4b9e72bb8865b50d9d0852c6b822a4332507c94"
+    },
+    {
+      "name": "Mission Impossible - Operation Surma (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AIHE",
+      "size": 4194304,
+      "crc32": "f3dc4e3e",
+      "md5": "6ce6741e0a522351047b79851cd2d651",
+      "sha1": "50e09660f2d9588f8cad8c43fca719cc78006e1a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mission%20Impossible%20-%20Operation%20Surma%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mission%20Impossible%20-%20Operation%20Surma%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mission%20Impossible%20-%20Operation%20Surma%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mission%20Impossible%20-%20Operation%20Surma%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mission%20Impossible%20-%20Operation%20Surma%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mission%20Impossible%20-%20Operation%20Surma%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

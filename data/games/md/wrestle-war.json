@@ -54,5 +54,49 @@
     "wikidata": "Q3570110",
     "mobygames": 23577,
     "igdb": 27076
-  }
+  },
+  "roms": [
+    {
+      "name": "Wrestle War (Japan, Europe) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00005502-00",
+      "size": 524288,
+      "crc32": "1cdee87b",
+      "md5": "4f25842f29135ddda34ebd09cfee81f9",
+      "sha1": "65c4815c6271bb7d526d84dac1bf177741e35364",
+      "sha256": "761bbea28a5e4bbe12d018b3446802cabfecbd3a0a0c48c3e36509578c91db6b"
+    },
+    {
+      "name": "Wrestle War (Japan, Europe) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004055-00",
+      "size": 524288,
+      "crc32": "2d162a85",
+      "md5": "276250d5d7309a80973df869e8700e46",
+      "sha1": "1eac51029fd7fb1da1c5546cbd959220244cf3e5",
+      "sha256": "5e01bfabf28a85e3740315cb77718b7f80884b43eddb8409d875a8498b3caa62"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wrestle%20War%20%28Japan%2C%20Europe%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wrestle%20War%20%28Japan%2C%20Europe%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wrestle%20War%20%28Japan%2C%20Europe%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

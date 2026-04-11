@@ -54,5 +54,66 @@
     "wikidata": "Q3063231",
     "mobygames": 21497,
     "igdb": 10682
-  }
+  },
+  "roms": [
+    {
+      "name": "FIFA 64 (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "N7IP",
+      "size": 8388608,
+      "crc32": "ae2583fb",
+      "md5": "9a7006212947ee7648ee1d13162e55e0",
+      "sha1": "eacdf23e27ec1e0639042bf03804222851e4f151",
+      "sha256": "f00e3398a860839631b1e06ad26454029bf0d35b3fa27703fdbe58dc1e89051f"
+    },
+    {
+      "name": "FIFA Soccer 64 (USA) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "N7IE",
+      "size": 8388608,
+      "crc32": "57de7cab",
+      "md5": "cc7c58a032aaba19e72ccbfa6b3eeff6",
+      "sha1": "603c5bf64497dca86c4eb802f97f1c32e75a68a8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/FIFA%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/FIFA%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/FIFA%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/FIFA%20Soccer%2064%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/FIFA%20Soccer%2064%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/FIFA%20Soccer%2064%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -45,5 +45,58 @@
     "wikidata": "Q39070413",
     "mobygames": 31039,
     "igdb": 143008
-  }
+  },
+  "roms": [
+    {
+      "name": "Croc (USA, Europe) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 1048576,
+      "crc32": "fc3db421",
+      "md5": "2de587b4e14baec8df62ea4c4f43cc46",
+      "sha1": "28efcac92d708fcffcdcf7524ca4ab12773fa26f",
+      "sha256": "a30a8c4392c9ed7e87449f3b55314f0b39ceb29cfff418ddf7e54d257f00546c"
+    },
+    {
+      "name": "Croc (USA, Europe) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 1048576,
+      "crc32": "1975c599",
+      "md5": "80dd8c9ce55ee28c0a3ef44ea317ea17",
+      "sha1": "aed10fb27112d5364660e18d444d6173b6c2f3bc",
+      "sha256": "a79b23d007afa801d88bd4fb845600862a22c8c6521190ead0bbf4901c651135"
+    },
+    {
+      "name": "Croc (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "4664a167",
+      "md5": "0552078f981c2ef3977f2dfeee19510a",
+      "sha1": "dac6de548743c6b51a3daa5903c28b7fccdb6cb2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Croc%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Croc%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Croc%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

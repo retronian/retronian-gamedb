@@ -44,5 +44,66 @@
     "wikidata": "Q3782924",
     "mobygames": 8607,
     "igdb": 6428
-  }
+  },
+  "roms": [
+    {
+      "name": "Hamtaro - Ham-Ham Heartbreak (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AH3P",
+      "size": 16777216,
+      "crc32": "ecbd80ea",
+      "md5": "5b565a961547d6d0980c57e2529130e1",
+      "sha1": "b016328e4880f0413b9335c95758ba9c09e53710"
+    },
+    {
+      "name": "Hamtaro - Ham-Ham Heartbreak (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AH3E",
+      "size": 8388608,
+      "crc32": "cd48b673",
+      "md5": "42cca53c94c0bb8e5146631945bf0cd9",
+      "sha1": "2525cc23524068dfb3a2b4e0ce7b736f95023e82",
+      "sha256": "06f359a322fdba920c35ee0c794f1520a7f1b52827e372dd69c5fff648e6ae3d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hamtaro%20-%20Ham-Ham%20Heartbreak%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hamtaro%20-%20Ham-Ham%20Heartbreak%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hamtaro%20-%20Ham-Ham%20Heartbreak%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hamtaro%20-%20Ham-Ham%20Heartbreak%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hamtaro%20-%20Ham-Ham%20Heartbreak%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hamtaro%20-%20Ham-Ham%20Heartbreak%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

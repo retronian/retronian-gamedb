@@ -63,5 +63,65 @@
     "wikidata": "Q2342423",
     "mobygames": 38578,
     "igdb": 21464
-  }
+  },
+  "roms": [
+    {
+      "name": "Sims 2, The - Apartment Pets (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CAPE",
+      "size": 33554432,
+      "crc32": "9d3c8784",
+      "md5": "f024feff00ef66bbc7424ea6357155e2",
+      "sha1": "263e0129cba2d86b424a14b32b914ac0677e7750"
+    },
+    {
+      "name": "Sims 2, The - Apartment Pets (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CAPP",
+      "size": 33554432,
+      "crc32": "a5c114b1",
+      "md5": "0b9bd1f5437cdb1e7b7bd50219754c66",
+      "sha1": "aadfe796382959a0894cc749e8792ee0263d50f8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sims%202%2C%20The%20-%20Apartment%20Pets%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sims%202%2C%20The%20-%20Apartment%20Pets%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sims%202%2C%20The%20-%20Apartment%20Pets%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sims%202%2C%20The%20-%20Apartment%20Pets%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sims%202%2C%20The%20-%20Apartment%20Pets%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sims%202%2C%20The%20-%20Apartment%20Pets%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

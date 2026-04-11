@@ -56,6 +56,33 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Batman - Return of the Joker",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "リターン オフ ザ ジョーカー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "バットマン -リターンオブザジョーカー-",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1991-12-20",
@@ -63,5 +90,54 @@
     "wikidata": "Q555897",
     "mobygames": 5505,
     "igdb": 295663
-  }
+  },
+  "descriptions": [
+    {
+      "text": "犯罪者であふれかえる薄汚い裏社会。さらに悪いことに、ジョーカーが再びその頂点に君臨している！法と秩序は何の意味もない…今までは！なぜなら、バットマンがここにいるからだ - そしてアクションはこれまで以上に熱い！耳をつんざくようなサウンドエフェクト。心拍数を上げる音楽。16ビットのように熱いグラフィック。そして今回は、バットマンが素早く、力強く攻撃する。飛び、跳ね、滑りながら攻撃！そしてジョーカーの心臓を狙う。ケープを羽織った十字軍は、まったく新しい武器を手にしている：バタラン、クロスボウ、ソニックニュートラライザー。さらには、スーパーフューエルのジェットパックまで持っている。そしてボタン一つでさらに強力な武器を使える。バットマンは全力を尽くさなければならない。この世界は非常に暗い場所であり、ジョーカーがどこに隠れているかわからないのだから！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Batman - Return of the Joker (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "de459a47",
+      "md5": "9550fadc917db38cacd0ecfb694f816c",
+      "sha1": "149586120c3ae9c9614fa6e6a5e298cceae16c4d",
+      "sha256": "a88b8b54948fc7e0550dc3e39f2bd2827dfdb71bc15e692f17c00d104f4bdbc4"
+    },
+    {
+      "name": "Batman - Return of the Joker (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "5124bbec",
+      "md5": "97bc907deba1e7d7c9bc72fca0310822",
+      "sha1": "345a332175f58304f91111a13b770662e5ea92c3",
+      "sha256": "152fc252bba7130e786d408eed310b3009b8e05834f8003dfbf514ec804cbaea"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Batman%20-%20Return%20of%20the%20Joker%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Batman%20-%20Return%20of%20the%20Joker%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Batman%20-%20Return%20of%20the%20Joker%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

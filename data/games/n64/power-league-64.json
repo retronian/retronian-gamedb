@@ -26,5 +26,37 @@
   "external_ids": {
     "wikidata": "Q3400907",
     "igdb": 3576
-  }
+  },
+  "roms": [
+    {
+      "name": "Power League 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NPLJ",
+      "size": 8388608,
+      "crc32": "aec21c28",
+      "md5": "8cc73c373016070647030dde492fdc8c",
+      "sha1": "1e0d939c8e278de21c42fa33495e446ed03c027e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Power%20League%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Power%20League%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Power%20League%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -36,5 +36,75 @@
     "wikidata": "Q7828239",
     "mobygames": 90457,
     "igdb": 49454
-  }
+  },
+  "roms": [
+    {
+      "name": "Totally Spies! 2 - Undercover (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B2LE",
+      "size": 8388608,
+      "crc32": "2c8eb8a1",
+      "md5": "27ab3ab9d8c3fee6a38e95ba03fde194",
+      "sha1": "c45561593bf49f70a9bfd509009746f795e1121a"
+    },
+    {
+      "name": "Totally Spies! 2 - Undercover (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B2LP",
+      "size": 8388608,
+      "crc32": "ca245559",
+      "md5": "a5775a65801ccdd6c88778262d9a4d0a",
+      "sha1": "fca3563c20334b215966b4a4f270a03f413517b7"
+    },
+    {
+      "name": "Totally Spies! 2 - Undercover (Europe) (En,Fr,De,Es,It,Nl) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 8388608,
+      "crc32": "5515c841",
+      "md5": "4ea72eaad58ce47c8c914e8a72b78867",
+      "sha1": "1135b9ce13a2b7b7973b6c2b4b609edeeee7c08a",
+      "sha256": "f4489c836db9baeae311101151ac76433c28fdd3591de331659c2d75791feb18"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Totally%20Spies%21%202%20-%20Undercover%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Totally%20Spies%21%202%20-%20Undercover%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Totally%20Spies%21%202%20-%20Undercover%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Totally%20Spies%21%202%20-%20Undercover%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Totally%20Spies%21%202%20-%20Undercover%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Totally%20Spies%21%202%20-%20Undercover%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

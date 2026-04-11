@@ -89,5 +89,72 @@
     "wikidata": "Q2386012",
     "mobygames": 3077,
     "igdb": 1000
-  }
+  },
+  "roms": [
+    {
+      "name": "Abe '99 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "2e6ea295",
+      "md5": "a7f7a732e0717463d695ce55757624c3",
+      "sha1": "c1e25c6d6c64dc00f2ec58898f5801a5aecd54ae"
+    },
+    {
+      "name": "Oddworld - Abe's Exoddus (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 767330320,
+      "crc32": "ebbda72a",
+      "md5": "31bc0bc24266887771aaaed3126cc138",
+      "sha1": "b295caf575ea9e2d293d415aed60a985f4afca1d"
+    },
+    {
+      "name": "Oddworld - Abe's Exoddus (Germany)",
+      "source": "no_intro",
+      "size": 767056816,
+      "crc32": "e86da233",
+      "md5": "026d5d3efe11e5c3130a5ccb3c445902",
+      "sha1": "fab715da322fddb06119ba929e1c35745e74777f"
+    },
+    {
+      "name": "Oddworld - Abe's Exoddus (Italy)",
+      "source": "no_intro",
+      "size": 769411632,
+      "crc32": "5cd97c52",
+      "md5": "51ef51fe7ab416d3f4e474fc72da9274",
+      "sha1": "d0fc25665a1f4d5403f3592d908c32303c5e4c1d"
+    },
+    {
+      "name": "Oddworld - Abe's Exoddus (Spain)",
+      "source": "no_intro",
+      "size": 769370720,
+      "crc32": "534b2efd",
+      "md5": "ea844a57daacd4838ed5c179d9803502",
+      "sha1": "4284f4b4a39a587665d24f3a64b3f7193b323e82"
+    },
+    {
+      "name": "Oddworld - Abe's Exoddus (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 789355568,
+      "crc32": "b9155dd5",
+      "md5": "e3f4fc9c477d264a3c7f0a9ab01fcd5b",
+      "sha1": "23be6901c02b3ac9eba363f23bde3b35a804c8d6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Oddworld%20-%20Abe%27s%20Exoddus%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Oddworld%20-%20Abe%27s%20Exoddus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

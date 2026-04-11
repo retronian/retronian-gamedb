@@ -45,5 +45,65 @@
     "wikidata": "Q1571349",
     "mobygames": 85077,
     "igdb": 287016
-  }
+  },
+  "roms": [
+    {
+      "name": "Ben 10 - Omniverse (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TBEE",
+      "size": 33554432,
+      "crc32": "5380f252",
+      "md5": "497e9dbc6cc5a1bcd911dba7b33e145a",
+      "sha1": "c58cac872e5746b054030e3db5e0f303c3818b36"
+    },
+    {
+      "name": "Ben 10 - Omniverse (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TBEP",
+      "size": 67108864,
+      "crc32": "227fce3b",
+      "md5": "f54cab5245f0dc93faa5df8beb3a0b26",
+      "sha1": "9c77f31882510596013b01c31d9e71fdfd77d473"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ben%2010%20-%20Omniverse%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ben%2010%20-%20Omniverse%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ben%2010%20-%20Omniverse%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ben%2010%20-%20Omniverse%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ben%2010%20-%20Omniverse%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ben%2010%20-%20Omniverse%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

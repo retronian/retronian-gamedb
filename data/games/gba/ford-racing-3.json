@@ -45,5 +45,65 @@
     "wikidata": "Q4895987",
     "mobygames": 18249,
     "igdb": 4870
-  }
+  },
+  "roms": [
+    {
+      "name": "Ford Racing 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BF3E",
+      "size": 4194304,
+      "crc32": "56d38756",
+      "md5": "a3b2dd184e80764a1a3c0d7799089327",
+      "sha1": "fa323718777c3ec1b323341d35d83859f103450f"
+    },
+    {
+      "name": "Ford Racing 3 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BF3P",
+      "size": 4194304,
+      "crc32": "94e3d277",
+      "md5": "3ceccc2582e3c35c5d729ae508dd465f",
+      "sha1": "0cfb4fb42694b64e5fbcbeed58160d9ebdd461b0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ford%20Racing%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ford%20Racing%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ford%20Racing%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ford%20Racing%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ford%20Racing%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ford%20Racing%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

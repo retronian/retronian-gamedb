@@ -71,5 +71,65 @@
     "wikidata": "Q2420037",
     "mobygames": 7087,
     "igdb": 2833
-  }
+  },
+  "roms": [
+    {
+      "name": "Simpsons, The - Bart's Nightmare (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "87328a40",
+      "md5": "fb992889669c10f98854b1c816b65e9d",
+      "sha1": "9f2fa618bb1630267995658b7a3835c39dc0b3bb",
+      "sha256": "d89733d106b2cf45cdc7a97cb84ec44fa4ab132bf7f65db678fdbded1a5015f3"
+    },
+    {
+      "name": "Simpsons, The - Bart's Nightmare (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "ed1c03c2",
+      "md5": "5f8c3fd37130d9b80f1d98d1b7034161",
+      "sha1": "60021b603f6e778171a2dfae2a0fcbc3ea723c38",
+      "sha256": "f0d98e9061d0f6a193bb856de8a592f336dada97c41966e8d03119ba97465413"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Simpsons%2C%20The%20-%20Bart%27s%20Nightmare%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Simpsons%2C%20The%20-%20Bart%27s%20Nightmare%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Simpsons%2C%20The%20-%20Bart%27s%20Nightmare%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Simpsons%2C%20The%20-%20Bart%27s%20Nightmare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Simpsons%2C%20The%20-%20Bart%27s%20Nightmare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Simpsons%2C%20The%20-%20Bart%27s%20Nightmare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

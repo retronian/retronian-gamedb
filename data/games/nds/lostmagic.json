@@ -54,5 +54,93 @@
     "wikidata": "Q373945",
     "mobygames": 22432,
     "igdb": 20522
-  }
+  },
+  "roms": [
+    {
+      "name": "LostMagic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AM9J",
+      "size": 16777216,
+      "crc32": "67a10fc7",
+      "md5": "af5bfdffa59d8df75740b4c37ad55306",
+      "sha1": "90b80e11c2d7c3dcd7edd99accaa150b4b290805"
+    },
+    {
+      "name": "LostMagic (USA) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AM9E",
+      "size": 16777216,
+      "crc32": "65a05916",
+      "md5": "6ea110abe177daaf65ad31a9b17c523a",
+      "sha1": "0ff6238fccb6d75e13bf0a7d672c5ed8811d55f9"
+    },
+    {
+      "name": "LostMagic (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AM9P",
+      "size": 16777216,
+      "crc32": "0e34f28e",
+      "md5": "74d887cffe5d027a92fc507589783220",
+      "sha1": "4fb31e23ab2b9636c9280f25d47137692021af4f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LostMagic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/LostMagic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LostMagic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LostMagic%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/LostMagic%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LostMagic%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LostMagic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/LostMagic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LostMagic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

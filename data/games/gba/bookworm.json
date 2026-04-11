@@ -63,5 +63,37 @@
     "wikidata": "Q4943317",
     "mobygames": 8639,
     "igdb": 8325
-  }
+  },
+  "roms": [
+    {
+      "name": "Bookworm (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BKWE",
+      "size": 4194304,
+      "crc32": "4d540384",
+      "md5": "c64b677831500e85222d85c70e2d23b6",
+      "sha1": "c45d588f8aade81152ae789d62316db9138452b8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bookworm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bookworm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bookworm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

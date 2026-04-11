@@ -54,5 +54,46 @@
     "wikidata": "Q3481709",
     "mobygames": 69282,
     "igdb": 208705
-  }
+  },
+  "roms": [
+    {
+      "name": "Sheep (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 179646960,
+      "crc32": "96afa2af",
+      "md5": "a52b2a57ee29832d615bbc08991e4936",
+      "sha1": "0cb6f50c7d25b7e05013a233d7aaf3a41ad6e154"
+    },
+    {
+      "name": "Sheep (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 193818816,
+      "crc32": "fc32befa",
+      "md5": "76f60f4d7200d0648b4aa70c1b5c6f26",
+      "sha1": "af47ff14c2782331d5513bb767abff466c0f39ac",
+      "sha256": "bca6dfdb5f5c73a3672bfc356c1560bfd830f512ed7f1ca7d453de8145f6acc3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Sheep%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Sheep%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Sheep%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

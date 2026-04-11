@@ -80,5 +80,78 @@
   "external_ids": {
     "wikidata": "Q3515684",
     "mobygames": 22250
-  }
+  },
+  "roms": [
+    {
+      "name": "Target Earth (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-25013-00",
+      "size": 524288,
+      "crc32": "ebaa609d",
+      "md5": "29ed0a6f1f9d93882652b1a649daa53c",
+      "sha1": "6c36c96fd7ecf0cb8a6ef04d28f23729038f6123",
+      "sha256": "9429619862d413e5157f286ef17342189d0167e957901d9552f411eceb242abe"
+    },
+    {
+      "name": "Target Earth (USA, Europe) (Switch Online)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-25046-00",
+      "size": 524288,
+      "crc32": "1d822c3a",
+      "md5": "109cec8f208a5a99f09b3f878c5d735d",
+      "sha1": "e9a02fb63f017115de977c199f6da9a5d7ed31ea",
+      "sha256": "7df1feedf0875137f4995a535ce0ef58584a102c93ebd0690d4de24aff046071"
+    },
+    {
+      "name": "Target Earth (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-25046-00",
+      "size": 524288,
+      "crc32": "cddf62d3",
+      "md5": "ae816c5017578267060fd4733586cba7",
+      "sha1": "e19f7a02f140882e0364f11cd096aec712e56f83",
+      "sha256": "3fdb9dd4e1c98760ec2c57af08f1c172a9f964a695c3f07e8a28c4eb5819082d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Target%20Earth%20%28USA%2C%20Europe%29%20%28Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Target%20Earth%20%28USA%2C%20Europe%29%20%28Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Target%20Earth%20%28USA%2C%20Europe%29%20%28Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Target%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Target%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Target%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

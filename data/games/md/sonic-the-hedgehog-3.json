@@ -81,5 +81,111 @@
     "wikidata": "Q856562",
     "mobygames": 6612,
     "igdb": 375301
-  }
+  },
+  "roms": [
+    {
+      "name": "Sonic The Hedgehog 3 (USA) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1079-00",
+      "size": 2097152,
+      "crc32": "ebc0af69",
+      "md5": "d912b4042e29b96fe62ffb08a2fe1174",
+      "sha1": "a4eeec3b3ff2563c03a0036acb9f89815238fd28",
+      "sha256": "426b1d52bd0637d61480dc5cbc7362e1a4e401472e83fbfabe38d8f38d20a708"
+    },
+    {
+      "name": "Sonic The Hedgehog 3 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00001079-00",
+      "size": 2097152,
+      "crc32": "e4a16a49",
+      "md5": "05ae03e1049dcfe417d38b031dc696fb",
+      "sha1": "fc87a7b411302a576028b7ccd5911b1f266b59b3",
+      "sha256": "ace6af3187c1c2da4e71a1c24fb81f2529cb25057f093f5cb5389842a90d4abf"
+    },
+    {
+      "name": "Sonic The Hedgehog 3 (USA) (Sonic Classic Collection)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1079-00",
+      "size": 2097152,
+      "crc32": "fc0429dd",
+      "md5": "3af1c74639a2586e103caf3a1dcb1f36",
+      "sha1": "7ceb83de0871962fa3cd8fdc0ba8b5dec9a32ca9",
+      "sha256": "471f125ffb940c029100ae8ea0cd80066142e51823dbe7137ceac4647d6f5ed7"
+    },
+    {
+      "name": "Sonic The Hedgehog 3 (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "MK-1079-00",
+      "size": 2097152,
+      "crc32": "f4951d1f",
+      "md5": "eaa77c15fbb36099ee6e6d6015ded368",
+      "sha1": "7b98b21b7274233e962132bc22a7ccdf548c0ddb",
+      "sha256": "f3314b3603fa717cbfecacab3e4b39e03a130d61d058d53fa0acceed17b07012"
+    },
+    {
+      "name": "Sonic The Hedgehog 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1079-00",
+      "size": 2097152,
+      "crc32": "9bc192ce",
+      "md5": "d724ea4dd417fe330c9dcfd955c596b2",
+      "sha1": "75e9c4705259d84112b3e697a6c00a0813d47d71",
+      "sha256": "d6404843c5ba32486f4c8c744acb7e1932069376960d886b1de37969787d3f9c"
+    },
+    {
+      "name": "Sonic The Hedgehog 3 (USA) (Movie Promo)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 4194304,
+      "crc32": "f9881aae",
+      "md5": "2886958811c81211174184d6fa874797",
+      "sha1": "691894261033cef1936a2ad9ef594e30241c7e0b",
+      "sha256": "af36b71b0b2af49e267dbded66552641e6f4a3700f8ca3f61535bd8797f1b2f0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sonic%20The%20Hedgehog%203%20%28USA%29%20%28Sonic%20Classic%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sonic%20The%20Hedgehog%203%20%28USA%29%20%28Sonic%20Classic%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sonic%20The%20Hedgehog%203%20%28USA%29%20%28Sonic%20Classic%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sonic%20The%20Hedgehog%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sonic%20The%20Hedgehog%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sonic%20The%20Hedgehog%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

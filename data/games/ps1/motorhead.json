@@ -54,5 +54,64 @@
     "wikidata": "Q3866405",
     "mobygames": 121,
     "igdb": 22824
-  }
+  },
+  "roms": [
+    {
+      "name": "Motorhead (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 162012560,
+      "crc32": "aa38353b",
+      "md5": "3884f53310e8d7aac36359bebee46b68",
+      "sha1": "ba3b528ebf7bbc962d91d77bb9a1f4c2fecd5133"
+    },
+    {
+      "name": "Motorhead (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 179469168,
+      "crc32": "1e3ce0c3",
+      "md5": "2fb79a56218363a8ff83af15a6ba440e",
+      "sha1": "da20789c3d73adb19e26c1d3aa73174389a3ade8",
+      "sha256": "d4d864a503f433b4fa1a3f5b2ff798d004a56665ea5a9f5e16b1dc0d6983fd23"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Motorhead%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Motorhead%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Motorhead%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Motorhead%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Motorhead%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Motorhead%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

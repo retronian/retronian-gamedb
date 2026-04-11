@@ -63,5 +63,113 @@
     "wikidata": "Q3312139",
     "mobygames": 52749,
     "igdb": 158990
-  }
+  },
+  "roms": [
+    {
+      "name": "Taz-Mania (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "4937a4f6",
+      "md5": "d193730faa0e90e231025ed108d5261a",
+      "sha1": "de3877af6fe4dba8680df79e21e67c4793e7947c",
+      "sha256": "1eb32566ddc4f46485c8e810c232159175f1fc0a4da73a78da763410962a5cb0"
+    },
+    {
+      "name": "Taz-Mania (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "6cc571f5",
+      "md5": "40ba81f7a10b6a2f718d4bcc09fbdf14",
+      "sha1": "8982e64906e4c2370fd7d9c65300e331b992efb5",
+      "sha256": "e3bd2296b860a547bb8594485048d3e1326a416405ed9e91139c75f8927acfe3"
+    },
+    {
+      "name": "Taz-Mania (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "5a5bd63c",
+      "md5": "27bff3902dc9f1245d07c17d76334d6f",
+      "sha1": "32547c4bc5809977b8613a71e827be56ecfac753",
+      "sha256": "43ae0eb15f41c5f103eb2ae5732a855e17b73fa4c2e97d1c43e32cceb1e0622a"
+    },
+    {
+      "name": "Taz-Mania (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "b17230ae",
+      "md5": "35a085f1e81b5f7d57ddf6b88533d4e2",
+      "sha1": "cca964090db6270c625265fa9757ec1fafee64eb",
+      "sha256": "1711fe9010232b41ec406900e5b4ef528dd2beaa97b27d94ed7eef57d63904a0"
+    },
+    {
+      "name": "Taz-Mania (USA) (Beta 2) (1993-03-17)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "1aa76d59",
+      "md5": "159ef16cc1679970c08b0d2a744c8930",
+      "sha1": "200e92dce73b3ce1ad74a7826e2d0a9db21a0939",
+      "sha256": "ed8e1408ee5726c46ae4c2719a4e7495293272df8e208fc17b01db2d19cc681c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Taz-Mania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Taz-Mania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Taz-Mania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Taz-Mania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Taz-Mania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Taz-Mania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Taz-Mania%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Taz-Mania%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Taz-Mania%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

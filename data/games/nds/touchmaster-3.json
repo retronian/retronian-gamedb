@@ -18,5 +18,54 @@
     "wikidata": "Q104552240",
     "mobygames": 90459,
     "igdb": 24335
-  }
+  },
+  "roms": [
+    {
+      "name": "TouchMaster 3 (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C6ME",
+      "size": 67108864,
+      "crc32": "9360d4fe",
+      "md5": "bdce273f29619528019cc2ff3baa9497",
+      "sha1": "b555915ab1eca52a0a839ac91498e7448ccc9f7b"
+    },
+    {
+      "name": "TouchMaster 3 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C6MP",
+      "size": 67108864,
+      "crc32": "86b42fe5",
+      "md5": "ae7459115065f046f97d9e28e251d3cd",
+      "sha1": "91ac18cd55e69136619bf923c5f0ace432aeaaad",
+      "sha256": "92330b1cae18d216c883401b4595bbde354deda5b80ad00fc81f52ac38f7ec3a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TouchMaster%203%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TouchMaster%203%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TouchMaster%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TouchMaster%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -43,5 +43,111 @@
     "wikidata": "Q3093445",
     "mobygames": 35832,
     "igdb": 3375
-  }
+  },
+  "roms": [
+    {
+      "name": "City-Tour GP - Zen-Nihon GT Senshuken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NGTJ",
+      "size": 16777216,
+      "crc32": "e272bdf6",
+      "md5": "2a0bf5a9a136d57af01d199b16899634",
+      "sha1": "2b543707f5bdba52a49d71755615d6cf38e23e76",
+      "sha256": "8229117b9a8f1d9bfb96e9cc05e5dcd3ad4432d63b5f418c621f953ba554026a"
+    },
+    {
+      "name": "GT 64 - Championship Edition (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NGCP",
+      "size": 12582912,
+      "crc32": "6dfb4747",
+      "md5": "628aa3cd492559b705488f634797e045",
+      "sha1": "a4d0d694f521cef69f64acaee3eb420a64f28e4d",
+      "sha256": "928e0763465ddce8109720e529d22cf34fc9567ac965ebe03917e83871e52f28"
+    },
+    {
+      "name": "GT 64 - Championship Edition (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NGCE",
+      "size": 12582912,
+      "crc32": "bc627da7",
+      "md5": "fe81aa381719fada693d803bae7d5eb9",
+      "sha1": "b941246af78748f4e081f496dac0a9e2056d3d8d"
+    },
+    {
+      "name": "GT 64 - Championship Edition (USA) (Beta) (1998-05-25)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 12582912,
+      "crc32": "04b193d8",
+      "md5": "14de8da2f110db66608dae7749d2b2e2",
+      "sha1": "d4d70a8a662a4b555c6b808bcf8fbc8464064f82",
+      "sha256": "7487401909848ea66e227f4aef65d463610dfab30b407db5781ea80d75d67b7f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/City-Tour%20GP%20-%20Zen-Nihon%20GT%20Senshuken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/City-Tour%20GP%20-%20Zen-Nihon%20GT%20Senshuken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/City-Tour%20GP%20-%20Zen-Nihon%20GT%20Senshuken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/GT%2064%20-%20Championship%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/GT%2064%20-%20Championship%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/GT%2064%20-%20Championship%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/GT%2064%20-%20Championship%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/GT%2064%20-%20Championship%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/GT%2064%20-%20Championship%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/GT%2064%20-%20Championship%20Edition%20%28USA%29%20%28Beta%29%20%281998-05-25%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

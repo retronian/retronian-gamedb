@@ -54,5 +54,66 @@
     "wikidata": "Q7004517",
     "mobygames": 89460,
     "igdb": 21523
-  }
+  },
+  "roms": [
+    {
+      "name": "Neves (USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YLPE",
+      "size": 8388608,
+      "crc32": "bd407f37",
+      "md5": "a04435af5fbcb9502cc93c248dec110b",
+      "sha1": "939a195d1db043fad5d85caed9279dad39b89ead"
+    },
+    {
+      "name": "Neves (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YLPP",
+      "size": 8388608,
+      "crc32": "2eee76ec",
+      "md5": "d968cb6c33b3ce88fa34f0d23594e44d",
+      "sha1": "25d4612d8e38ed71ef4d46108ad079cb125b980d",
+      "sha256": "298432a68b2ec45b29eae542273858ad51b71fff8039400a67d8b4ea3da78e8d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Neves%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Neves%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Neves%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Neves%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Neves%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Neves%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

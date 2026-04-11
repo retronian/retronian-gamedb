@@ -45,5 +45,101 @@
     "wikidata": "Q7601015",
     "mobygames": 23263,
     "igdb": 365694
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Trek - The Next Generation (Germany)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "129616b3",
+      "md5": "4d949294f3cda07f2d12e5f73e6caeaa",
+      "sha1": "1b89db710c22c563c764b667c3897d817b05f18a",
+      "sha256": "d083ae47c07daae48719f43f08d1cad58acea9a038fbf146079e6a8597dd853f"
+    },
+    {
+      "name": "Star Trek - The Next Generation (Spain)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "4fded9c4",
+      "md5": "0d7ca0b0355f8eddc2846eaa8dac218c",
+      "sha1": "890ed0aa9453fd1a38eefe77f761155382471a56",
+      "sha256": "081ce217546e1a81d7a0b432865e48197b9d4b098d430e2f5aad9200021ae97d"
+    },
+    {
+      "name": "Star Trek - The Next Generation (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "3a5a56cb",
+      "md5": "c9791e6cd453aeef19c722924521d381",
+      "sha1": "8a50eb7863bf6abf329f218aea8bbd354a1bd970",
+      "sha256": "9c08d6bdf045668d64934c7cc773bb2353ec15e9dc3e3f5d8ea2e02f2a22be40"
+    },
+    {
+      "name": "Star Trek - The Next Generation (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "7d259e57",
+      "md5": "133df46d4944261c84e8b411bef8b2cc",
+      "sha1": "96a37ec4e3a75dabcdb76955deac3baf99ba053f",
+      "sha256": "1fba782a316bd44473916833d98bf3b373524681e3833235d6735da7eae3db2a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Star%20Trek%20-%20The%20Next%20Generation%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Star%20Trek%20-%20The%20Next%20Generation%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Star%20Trek%20-%20The%20Next%20Generation%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Star%20Trek%20-%20The%20Next%20Generation%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Star%20Trek%20-%20The%20Next%20Generation%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Star%20Trek%20-%20The%20Next%20Generation%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Star%20Trek%20-%20The%20Next%20Generation%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Star%20Trek%20-%20The%20Next%20Generation%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Star%20Trek%20-%20The%20Next%20Generation%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Star%20Trek%20-%20The%20Next%20Generation%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

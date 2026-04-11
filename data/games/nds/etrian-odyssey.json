@@ -63,5 +63,65 @@
     "wikidata": "Q2463432",
     "mobygames": 28892,
     "igdb": 14716
-  }
+  },
+  "roms": [
+    {
+      "name": "Etrian Odyssey (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AKYE",
+      "size": 16777216,
+      "crc32": "7f723e35",
+      "md5": "52c259854a469213d1858d7d255519fc",
+      "sha1": "94cd285184d3bafb10af186d478a2a0348ff0bf7"
+    },
+    {
+      "name": "Etrian Odyssey (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AKYP",
+      "size": 33554432,
+      "crc32": "f6484ae2",
+      "md5": "afebad9757a3926c0e28a43cbf504e7a",
+      "sha1": "ad334b04eb33f1aa63251c91209b52901a27557f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Etrian%20Odyssey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Etrian%20Odyssey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Etrian%20Odyssey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Etrian%20Odyssey%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Etrian%20Odyssey%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Etrian%20Odyssey%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

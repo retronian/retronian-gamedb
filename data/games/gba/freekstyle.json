@@ -54,5 +54,76 @@
     "wikidata": "Q4354676",
     "mobygames": 14358,
     "igdb": 242933
-  }
+  },
+  "roms": [
+    {
+      "name": "Freekstyle (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BFSE",
+      "size": 8388608,
+      "crc32": "72434345",
+      "md5": "11289eeb3326a826cda771cee60b6b7f",
+      "sha1": "dcecce5ebc93cfc421094ecb00a50dfe371bad24"
+    },
+    {
+      "name": "Freekstyle (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BFSP",
+      "size": 8388608,
+      "crc32": "96871a23",
+      "md5": "1b1d09ff352571dac46b1790e000876d",
+      "sha1": "7d775a8815c14b1849d33e580960d1a2b76bb518"
+    },
+    {
+      "name": "Freekstyle (Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AGBJ",
+      "size": 8388608,
+      "crc32": "211dfd7f",
+      "md5": "c029793387b430bcfd6601161da51fed",
+      "sha1": "3b6a77bd6ada98a777c9ece406aec0985f7645bd",
+      "sha256": "aaf95d08663eab365fac06763ed721fe399fd0ac397b471eb5c7d1dba6c76a4c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Freekstyle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Freekstyle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Freekstyle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Freekstyle%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Freekstyle%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Freekstyle%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

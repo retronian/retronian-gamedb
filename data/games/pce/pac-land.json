@@ -70,5 +70,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Pac-Land (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "d6e30ccd",
+      "md5": "5cc45bfe5da979c51417e77bfe221a2b",
+      "sha1": "ff74f1812196ec5c64df4b9a78a4697d3b53ef1a",
+      "sha256": "814b8269e340af5e468cb91a79a5abc6b581322924556c5255be86f5a4392774"
+    },
+    {
+      "name": "Pac-Land (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "14fad3ba",
+      "md5": "e77ad358d00d7e052a129fc232556ff1",
+      "sha1": "fc0166da82ed3cf4a4e06fc6c73fd3184ba8bb3b",
+      "sha256": "96af6599a93e74adf835d75dcf074c67b7623bbf2d338e59f88f4eaee89ea9d8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Pac-Land%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Pac-Land%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Pac-Land%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

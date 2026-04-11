@@ -27,5 +27,94 @@
     "wikidata": "Q110817086",
     "mobygames": 58174,
     "igdb": 81538
-  }
+  },
+  "roms": [
+    {
+      "name": "Catz (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AC7E",
+      "size": 8388608,
+      "crc32": "1c163942",
+      "md5": "ad282e767a300f47bff0c26ba673d4ce",
+      "sha1": "0d90b2bb7614e570404c8d2d7fb6e49e8e826da0"
+    },
+    {
+      "name": "Catz (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AC7P",
+      "size": 8388608,
+      "crc32": "e80fa8a2",
+      "md5": "e725a01584d2990407bbbe15eb0d2894",
+      "sha1": "a78012dcf32b78e50c1258f17ba2ec4abc91143f"
+    },
+    {
+      "name": "Catz (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AC7J",
+      "size": 8388608,
+      "crc32": "a14d2e44",
+      "md5": "ede973ff873276c68e5a51cdc7b2f706",
+      "sha1": "a40a7b7e682b1a40a86b5afcf359043d83733aa7",
+      "sha256": "ef1d20aa7f51cf0991f897138f19efa5ac089b4f506d389b74c32499032f7024"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Catz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Catz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Catz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Catz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Catz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Catz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Catz%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Catz%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Catz%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

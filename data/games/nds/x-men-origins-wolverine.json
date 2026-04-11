@@ -63,5 +63,65 @@
     "wikidata": "Q2446057",
     "mobygames": 42391,
     "igdb": 200898
-  }
+  },
+  "roms": [
+    {
+      "name": "X-Men Origins - Wolverine (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CWUP",
+      "size": 67108864,
+      "crc32": "8813334a",
+      "md5": "07e536d189e3d0fb06725f6bd30a05bd",
+      "sha1": "50a3c7254834ec0abd5a4b948841035fd2a987e2"
+    },
+    {
+      "name": "X-Men Origins - Wolverine (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CWUE",
+      "size": 67108864,
+      "crc32": "929c12f9",
+      "md5": "6092b46318f1328b3fd0069b80d0ffa3",
+      "sha1": "ae4273d12f152b009dffd78ca3970c623ba2a6de"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/X-Men%20Origins%20-%20Wolverine%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/X-Men%20Origins%20-%20Wolverine%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/X-Men%20Origins%20-%20Wolverine%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/X-Men%20Origins%20-%20Wolverine%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/X-Men%20Origins%20-%20Wolverine%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/X-Men%20Origins%20-%20Wolverine%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

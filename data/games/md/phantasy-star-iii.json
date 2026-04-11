@@ -97,5 +97,78 @@
     "wikidata": "Q3084448",
     "mobygames": 7749,
     "igdb": 1231
-  }
+  },
+  "roms": [
+    {
+      "name": "Phantasy Star III - Generations of Doom (Brazil)",
+      "source": "no_intro",
+      "region": "br",
+      "serial": "MK-1303-00",
+      "size": 786432,
+      "crc32": "2e9b4c23",
+      "md5": "43b322e74938969b6736c620f9fa6fc3",
+      "sha1": "59ccfc6b85b95666d0e2c85e3e08c847c4a7ad34",
+      "sha256": "c9071512b56d92a35e204fb29c752aa2cb94fb1b59acb9bf2bca4147fe7dcc5d"
+    },
+    {
+      "name": "Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "1303-01",
+      "size": 786432,
+      "crc32": "c6b42b0f",
+      "md5": "82c7bc027685cc8fc6c9e077beb1a75a",
+      "sha1": "59d4914e652672fd1e453c76b8250d17e8ca154e",
+      "sha256": "cb837a2b10b8d219d844a55d8ec25581a57152f5ee8361ab62389354170a21d5"
+    },
+    {
+      "name": "Phantasy Star III - Generations of Doom (USA, Europe) (SEGA Classic Collection)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "1303-01",
+      "size": 786432,
+      "crc32": "1d1c62fb",
+      "md5": "ea7f5732cc220f46960aa2b0f691aa4e",
+      "sha1": "75a139b9f93413753aa512f53bb8da8932f4f24b",
+      "sha256": "1100092b49a19ae49b0fd986ce57d2df01f09996bc1593715f804d7a3b453497"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Phantasy%20Star%20III%20-%20Generations%20of%20Doom%20%28Brazil%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Phantasy%20Star%20III%20-%20Generations%20of%20Doom%20%28Brazil%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Phantasy%20Star%20III%20-%20Generations%20of%20Doom%20%28Brazil%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Phantasy%20Star%20III%20-%20Generations%20of%20Doom%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Phantasy%20Star%20III%20-%20Generations%20of%20Doom%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Phantasy%20Star%20III%20-%20Generations%20of%20Doom%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

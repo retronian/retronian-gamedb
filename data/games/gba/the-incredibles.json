@@ -63,5 +63,65 @@
     "wikidata": "Q2296093",
     "mobygames": 15595,
     "igdb": 210442
-  }
+  },
+  "roms": [
+    {
+      "name": "Incredibles, The (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BICE",
+      "size": 8388608,
+      "crc32": "194d5f6c",
+      "md5": "97cc2aeb06142aedc38b672e90e04a11",
+      "sha1": "091f81ab8bdb4032b772b94e14292b9a2cde5151"
+    },
+    {
+      "name": "Incredibles, The (Europe) (Fr,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BICX",
+      "size": 8388608,
+      "crc32": "77cbdc3b",
+      "md5": "30f5a0d49aa5672707ac5751ebd1996e",
+      "sha1": "2306008618b5e4b61eac29a882f31fd11fde02e9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Incredibles%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Incredibles%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Incredibles%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Incredibles%2C%20The%20%28Europe%29%20%28Fr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Incredibles%2C%20The%20%28Europe%29%20%28Fr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Incredibles%2C%20The%20%28Europe%29%20%28Fr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

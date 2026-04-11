@@ -72,5 +72,46 @@
     "wikidata": "Q13479278",
     "mobygames": 9559,
     "igdb": 4100
-  }
+  },
+  "roms": [
+    {
+      "name": "Tomba! 2 - The Evil Swine Return (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 230839600,
+      "crc32": "0bb3bd3b",
+      "md5": "a21a313c7a0c382514c6bf3d37b7f175",
+      "sha1": "d90d676dc3dc333d3190d9b4b8ebf3ca8a12559f"
+    },
+    {
+      "name": "Tomba! 2 - The Evil Swine Return (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 243466976,
+      "crc32": "4963d1f2",
+      "md5": "5b79649cb149adaf7b86eeff5a0f9007",
+      "sha1": "51de77e716076ad67e68b268bdb79ff7805de276",
+      "sha256": "2503a84cd9a2fe824075e411f87215e31c6c9fca000746a767138fe6ac077aaa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Tomba%21%202%20-%20The%20Evil%20Swine%20Return%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Tomba%21%202%20-%20The%20Evil%20Swine%20Return%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Tomba%21%202%20-%20The%20Evil%20Swine%20Return%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

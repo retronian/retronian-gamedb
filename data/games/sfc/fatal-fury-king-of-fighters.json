@@ -89,5 +89,66 @@
   "external_ids": {
     "wikidata": "Q1074008",
     "mobygames": 10349
-  }
+  },
+  "roms": [
+    {
+      "name": "Fatal Fury (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "SNSP-GN-NOE",
+      "size": 1572864,
+      "crc32": "589ce983",
+      "md5": "36a155555d05d4a04f1ad8f367d8c9ca",
+      "sha1": "e23ac138dfbbf5274ca02b35df350bca5d7729d9",
+      "sha256": "450df78c9b7c92e9f8ce5c2ee0e1dbf939031c1e4f9e10c52c8d8f874364d1d6"
+    },
+    {
+      "name": "Fatal Fury (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1572864,
+      "crc32": "c67257d0",
+      "md5": "44a0e420744a8c77a0832d079dd25476",
+      "sha1": "64069973549122fec281a957b2993f31058e3462",
+      "sha256": "c92f389d25870aada3002775838ec9f69a988120c0238af885fd08d46bd94930"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fatal%20Fury%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fatal%20Fury%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fatal%20Fury%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fatal%20Fury%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fatal%20Fury%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fatal%20Fury%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

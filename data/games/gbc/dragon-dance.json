@@ -18,5 +18,66 @@
     "wikidata": "Q115137359",
     "mobygames": 68652,
     "igdb": 49940
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Dance (USA) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "0602dbe1",
+      "md5": "0c6a0f2add131ca4afd24763fe3c3a04",
+      "sha1": "a28bfabc4db62ad5aa6bfe29114b0878429586cc"
+    },
+    {
+      "name": "Dragon Dance (Europe) (Proto) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "8b0dd3b2",
+      "md5": "e027bb984964e07be2feeaa712715987",
+      "sha1": "76de183317c952276dbdad9d8f0592493652f31e",
+      "sha256": "847b2ee82c0638e01e0c93325dc6e4c4ca2c167eabeae548d52ba84eb14be257"
+    },
+    {
+      "name": "Dragon Dance (USA) (Beta 1) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "a0cd0ed7",
+      "md5": "2ccd7a904115b2a96c8b398a142854e2",
+      "sha1": "7df48e776ce2be88f7a9459530b855cef2f012b6",
+      "sha256": "92541f741dda869c5b69531d0949886ce300333baec21ff4ef773cca80339a1c"
+    },
+    {
+      "name": "Dragon Dance (USA) (Beta 2) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "9a90adbe",
+      "md5": "35168b96a50352217130116bd67cdcc1",
+      "sha1": "5fc97752a98a18b7e2db238d1ab88c6b09e34602",
+      "sha256": "0dc0a8e74f492f1eddad50693686426e6273c581db5027e1d7ef5d4ba9298d1e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Dragon%20Dance%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Dragon%20Dance%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Dragon%20Dance%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

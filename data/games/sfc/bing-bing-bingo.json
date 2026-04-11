@@ -44,5 +44,47 @@
   "external_ids": {
     "wikidata": "Q4914116",
     "igdb": 42310
-  }
+  },
+  "roms": [
+    {
+      "name": "Bing Bing! Bingo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ccd77b37",
+      "md5": "3eb6e19c0ddd27bd6e7d52b360770d92",
+      "sha1": "0334cdb6d2bb039a27d708af22a738ae33cc2301",
+      "sha256": "befa26d2450b4d8fc566260292b75cd7bbdf687eeca613a165c0bc58a71d4e00"
+    },
+    {
+      "name": "Bing Bing! Bingo (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "7d2c4855",
+      "md5": "28939d1a1daa163e529363ffd16ee2a9",
+      "sha1": "090e21abcf63fce10cbc7d4659a62cfaec930295",
+      "sha256": "1d0c6ceeff96747ac13c050aaa54fa5906a434f128c0a60323d5957d937fcfea"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Bing%20Bing%21%20Bingo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Bing%20Bing%21%20Bingo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Bing%20Bing%21%20Bingo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

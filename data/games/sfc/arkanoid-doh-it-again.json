@@ -88,5 +88,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Arkanoid - Doh It Again (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "7a8bbafa",
+      "md5": "2cdba2ea2369bfe29e9b5c59a04c8f8e",
+      "sha1": "03f839819a253eed9a928d8d7cc80fcc245ab23d",
+      "sha256": "389c063721688ef098a2023e18350ee653c7c50ace979e84b04ff306bdda7aba"
+    },
+    {
+      "name": "Arkanoid - Doh It Again (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "b50503a0",
+      "md5": "03d30ca9aaa89738640cf14532ddfe6c",
+      "sha1": "6b08e8fa5c17aa3b435bf611aae7db0abb0a878e",
+      "sha256": "14d3ece30898587eda20c661a4a55ec595ba6352ca1f0bfc177542aa0eef0039"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Arkanoid%20-%20Doh%20It%20Again%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Arkanoid%20-%20Doh%20It%20Again%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Arkanoid%20-%20Doh%20It%20Again%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Arkanoid%20-%20Doh%20It%20Again%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Arkanoid%20-%20Doh%20It%20Again%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Arkanoid%20-%20Doh%20It%20Again%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

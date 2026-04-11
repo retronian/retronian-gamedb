@@ -69,5 +69,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "GunForce (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "11af8992",
+      "md5": "052bba7ae0ffd1dc5796aa7665843cdc",
+      "sha1": "2ccaaa2b9ae0ddb266e20b95fef2d95e3f1fabde",
+      "sha256": "7440a4574a0ca48fe6a8ff011c78ffeab5c889e33e56c84838870bf3b78f6fca"
+    },
+    {
+      "name": "GunForce (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "eeafd816",
+      "md5": "f026a8e4f069513e74895f3e2b627de1",
+      "sha1": "6dc973f31b9506becc5cb6838932a7e90b2b17c3",
+      "sha256": "1ab9a9d67feebe6862c06011e2c4f9bdd4725c8ce1489a0af025298409452988"
+    },
+    {
+      "name": "GunForce (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "6f5c5dc0",
+      "md5": "c77b2f22f465bcb8fd1e6c779d21f2e1",
+      "sha1": "29c3fb9c230972735961bc328903d07df20c87b7",
+      "sha256": "f921297c361f16ad3f1257e91829638fc795f9323172015d7237ed648c8f7515"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/GunForce%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/GunForce%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/GunForce%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/GunForce%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/GunForce%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/GunForce%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

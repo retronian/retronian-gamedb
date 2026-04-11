@@ -107,5 +107,131 @@
     "wikidata": "Q2498075",
     "mobygames": 23758,
     "igdb": 9154
-  }
+  },
+  "roms": [
+    {
+      "name": "Blue Shadow (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "b67c45d1",
+      "md5": "31c4494883474b4edcb50fec66958320",
+      "sha1": "434e2f1401eb5f8aa6f29c9ebb94ef177ffd0577",
+      "sha256": "ee669fc7e406f3481b742c6bbbf4f5650aaad325fa7bc321cce07dddcc2b6aaf"
+    },
+    {
+      "name": "Shadow of the Ninja (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6660ee03",
+      "md5": "50cf3418888625c9ac4b18e9c9227f5d",
+      "sha1": "065a46396ab9360daaa64bf1f478f1c9de27ebbd",
+      "sha256": "e3aa0b3fcc09483adb2bb41bfe527fc6f4d09a1cb632f5d3e20a3dcf2fa868c5"
+    },
+    {
+      "name": "Shadow of the Ninja (USA, Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "9218c9d0",
+      "md5": "09f8b8a95ad1c80e0424491d7e0e622b",
+      "sha1": "14ddf8e49326b2d5fd534faa329fbccb8f2090b3",
+      "sha256": "6725e161ea8bf7ee43fd3810c9955f071f1f594d0896ad2cec124705b98000d9"
+    },
+    {
+      "name": "Shadow of the Ninja (USA) (Sample)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "eedefe3f",
+      "md5": "138c6131b5b3bbe73bd7e86c342cdd91",
+      "sha1": "007027abcbbf28760a50a5ece9542dff627eef49",
+      "sha256": "d525f5c9ca8ee74094a695c86f87afe9e1f78add62fb45d7f259c5a965ada338"
+    },
+    {
+      "name": "Shadow of the Ninja (USA) (Limited Run Games)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "ad036862",
+      "md5": "5324450225b6243f476842c94ffcc912",
+      "sha1": "b8265ab3e98013b1a505f0dde96bf5ce4ca1d7c7",
+      "sha256": "1f4f1521b6fe9ec35ec9cf33166b46f7aad0acbe495dfffbf021c76e87664b9c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Blue%20Shadow%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Blue%20Shadow%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Blue%20Shadow%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Shadow%20of%20the%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Shadow%20of%20the%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Shadow%20of%20the%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Shadow%20of%20the%20Ninja%20%28USA%2C%20Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Shadow%20of%20the%20Ninja%20%28USA%2C%20Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Shadow%20of%20the%20Ninja%20%28USA%2C%20Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Shadow%20of%20the%20Ninja%20%28USA%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Shadow%20of%20the%20Ninja%20%28USA%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Shadow%20of%20the%20Ninja%20%28USA%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

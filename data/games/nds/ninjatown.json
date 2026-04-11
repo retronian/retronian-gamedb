@@ -45,5 +45,53 @@
     "wikidata": "Q7038980",
     "mobygames": 39727,
     "igdb": 2825
-  }
+  },
+  "roms": [
+    {
+      "name": "Ninjatown (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CNJE",
+      "size": 33554432,
+      "crc32": "76bc093b",
+      "md5": "a3aa52272d4cc8bd05ec98bdf4c64bb4",
+      "sha1": "c1e7efb3efeed974add522f77c6ff19112731e6e"
+    },
+    {
+      "name": "Ninjatown (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CNJP",
+      "size": 33554432,
+      "crc32": "557d82fd",
+      "md5": "bae2cfa4e394a1eed16c2997afd6a04f",
+      "sha1": "b9913e6a3ae3f07db47a8c816c86e999a5f2165d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ninjatown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ninjatown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ninjatown%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ninjatown%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

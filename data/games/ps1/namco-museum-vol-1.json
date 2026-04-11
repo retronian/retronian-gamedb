@@ -36,5 +36,65 @@
     "wikidata": "Q2195838",
     "mobygames": 3613,
     "igdb": 20611
-  }
+  },
+  "roms": [
+    {
+      "name": "Namco Museum Vol. 1 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 56087392,
+      "crc32": "f7d95665",
+      "md5": "4a1ae5705b934d80d131b93153cfa37d",
+      "sha1": "5fe9ac3ef269911468b7ff450c9e1ce9d0cdeb16",
+      "sha256": "5ba9be1ff6e70d9dda0d05d59dd00579bba84b657902cff8516f2f63f7221f35"
+    },
+    {
+      "name": "Namco Museum Vol. 1 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 69125984,
+      "crc32": "5ec32dfb",
+      "md5": "5efc341deee16fa32a647fbde90a4f24",
+      "sha1": "96d5e258623530ab29e4cd3644e20bb62f44e24d",
+      "sha256": "aa61eee824c041f532fa9397a768d24827445617fb2eb53c1e24c330b36cb529"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Namco%20Museum%20Vol.%201%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Namco%20Museum%20Vol.%201%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Namco%20Museum%20Vol.%201%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Namco%20Museum%20Vol.%201%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Namco%20Museum%20Vol.%201%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Namco%20Museum%20Vol.%201%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -81,5 +81,95 @@
     "wikidata": "Q1113003",
     "mobygames": 21634,
     "igdb": 8588
-  }
+  },
+  "roms": [
+    {
+      "name": "Pokemon Link! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "APTP",
+      "size": 16777216,
+      "crc32": "b1458da6",
+      "md5": "5af68afc469ee54adc3721d9d8913904",
+      "sha1": "6f1069f7c1656057a068f567ccf54538402efd04"
+    },
+    {
+      "name": "Pokemon Trozei! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APTE",
+      "size": 16777216,
+      "crc32": "ed8751a6",
+      "md5": "ca6ed0d7e8d396af1505f8926e06361b",
+      "sha1": "3b16ac1885cb2472865e6530ba82d93b201ff281",
+      "sha256": "bf7b60153a6fe371e40a2d043e08778be8e5b6a734431ed9053ad0a20f91f126"
+    },
+    {
+      "name": "Pokemon Trozei! (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A55E",
+      "size": 16777216,
+      "crc32": "bfc4e567",
+      "md5": "b1498108c1a1229c38d0f9dba0a2110c",
+      "sha1": "744f96f3eb473442f46c4aa3f0a674a31e19c469",
+      "sha256": "90a9fc4fded6183ad79c89cd2ee5358aef824d0ea6e27c58294434c7b5af03f5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20Link%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20Link%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20Link%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20Trozei%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20Trozei%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20Trozei%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20Trozei%21%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20Trozei%21%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20Trozei%21%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -62,5 +62,54 @@
     "wikidata": "Q4785045",
     "mobygames": 13794,
     "igdb": 26345
-  }
+  },
+  "roms": [
+    {
+      "name": "Arc the Lad II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 333355344,
+      "crc32": "b94f02eb",
+      "md5": "45b5c8dac2af0ad0f5ac32e0760758e3",
+      "sha1": "57fca0939a69861f463f732f242f2063a19ab438"
+    },
+    {
+      "name": "Arc the Lad II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 349743248,
+      "crc32": "5a66ea2c",
+      "md5": "7c161b0e3039d2f8cc72732343049e0e",
+      "sha1": "793d07e00a9795bc7981187515994adee1c9f20e"
+    },
+    {
+      "name": "Arc the Lad II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 357744688,
+      "crc32": "4aa16a72",
+      "md5": "7171a84623a7a225e8193f296bb2e5c8",
+      "sha1": "ed8db3b886083d3fbfec97635cc951e0131ad928"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Arc%20the%20Lad%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Arc%20the%20Lad%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Arc%20the%20Lad%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

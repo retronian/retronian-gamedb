@@ -17,5 +17,65 @@
   "external_ids": {
     "wikidata": "Q7897212",
     "igdb": 6646
-  }
+  },
+  "roms": [
+    {
+      "name": "Uno - Free Fall (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BUIE",
+      "size": 4194304,
+      "crc32": "19fcc78e",
+      "md5": "6ea2c5e69ef027c80c54a6b231706fab",
+      "sha1": "2dacf03965ee248d414d385594cc919f896f032e"
+    },
+    {
+      "name": "Uno - Free Fall (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BUIP",
+      "size": 4194304,
+      "crc32": "414ea9f4",
+      "md5": "214b56eca30b048860579598e935c06a",
+      "sha1": "2ad8bdfc425f9426296c03acd433b296e40eb72e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Uno%20-%20Free%20Fall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Uno%20-%20Free%20Fall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Uno%20-%20Free%20Fall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Uno%20-%20Free%20Fall%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Uno%20-%20Free%20Fall%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Uno%20-%20Free%20Fall%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -36,5 +36,65 @@
     "wikidata": "Q7113488",
     "mobygames": 33264,
     "igdb": 202122
-  }
+  },
+  "roms": [
+    {
+      "name": "Over the Hedge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AH5E",
+      "size": 33554432,
+      "crc32": "e5ec2e81",
+      "md5": "167e3c916df13f1c08c68e704462baba",
+      "sha1": "39a018d4cca691e12e388ab5f7091d6de0bbaa7b"
+    },
+    {
+      "name": "Over the Hedge (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AH5P",
+      "size": 33554432,
+      "crc32": "d5a360e2",
+      "md5": "7324d2b053ebcd3650e916f716e6161a",
+      "sha1": "4c0a4464c70f97640d526b52f63b851f13f48fe4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Over%20the%20Hedge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Over%20the%20Hedge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Over%20the%20Hedge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Over%20the%20Hedge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Over%20the%20Hedge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Over%20the%20Hedge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

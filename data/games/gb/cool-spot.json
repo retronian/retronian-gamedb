@@ -72,5 +72,65 @@
     "wikidata": "Q2712379",
     "mobygames": 682,
     "igdb": 307083
-  }
+  },
+  "roms": [
+    {
+      "name": "Cool Spot (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "1987eacc",
+      "md5": "1ddff2c150456069776f8c79671cb9f7",
+      "sha1": "51efa64a6047879b4b9e6e521e65c9d7f191556f",
+      "sha256": "54b88b39c01d983c7c3fe6b1a9f7a808eaf5f8f6aa75dba42a7ba0ec67b81720"
+    },
+    {
+      "name": "Cool Spot (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "aba1dac9",
+      "md5": "27d7c8ae7cc36c1d5dfd8bd15df57e8d",
+      "sha1": "b23f3259fdec43ce004e536d30255e1c2a642ffc",
+      "sha256": "805c18920e01f4b5746827c201e9a88554f085a8c297ed45f119700fe54da52e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Cool%20Spot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Cool%20Spot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Cool%20Spot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Cool%20Spot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Cool%20Spot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Cool%20Spot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -62,5 +62,149 @@
   "external_ids": {
     "wikidata": "Q3285256",
     "mobygames": 13814
-  }
+  },
+  "roms": [
+    {
+      "name": "Tiger-Heli (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "9b58688c",
+      "md5": "465e0d256ce05b0bc5da2dd0913efc37",
+      "sha1": "68204f03486bdb0fdb7cc48857c088daebdddbe5",
+      "sha256": "c87e7059aadaa55dbc1f4bcf751c207470ff743c4c95d0ce05ad41103f39e54f"
+    },
+    {
+      "name": "Tiger-Heli (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "d9a0eff0",
+      "md5": "1fb5c86c0ae66f598f6bd1c54b089ca9",
+      "sha1": "4d86190038e2cb1ea549b998efdb063649b08f19",
+      "sha256": "fa9c32b711ed8ae3b9393d8e301da8035b5dae7d26238bd72b224ebc8dee1591"
+    },
+    {
+      "name": "Tiger-Heli (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "340fe664",
+      "md5": "be73f5f4261c6d24ad9bdf71aa81034e",
+      "sha1": "f28cbc01faac6af383eecca72e8d759628386bd6",
+      "sha256": "9d8f8976f71e9d2250192117a19da4f828d948be9306511776274808ae8d370b"
+    },
+    {
+      "name": "Tiger-Heli (Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "4e347113",
+      "md5": "848538ece75f52fbca7dd03723242926",
+      "sha1": "8cb607c0f73519922f2f0f6c9f0ad5557613ebd4",
+      "sha256": "11d27ae2287b7769fdb4a640737265a727bc44cf38475028f9ca3113b8c69d2c"
+    },
+    {
+      "name": "Tiger-Heli (USA) (Rev 1) (Possible Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "e163fffb",
+      "md5": "7f6d08a0310af11db93edb9ced9f4723",
+      "sha1": "760dcb39b1b964471836453b482f05b4e8e5e67b",
+      "sha256": "9a5bd5ab7f52ee569392b84689fcdcef88bc40cad74eef1fcab4f9b4b3acf1ed"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tiger-Heli%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tiger-Heli%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tiger-Heli%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tiger-Heli%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tiger-Heli%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tiger-Heli%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tiger-Heli%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tiger-Heli%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tiger-Heli%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tiger-Heli%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tiger-Heli%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tiger-Heli%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tiger-Heli%20%28USA%29%20%28Rev%201%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tiger-Heli%20%28USA%29%20%28Rev%201%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tiger-Heli%20%28USA%29%20%28Rev%201%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

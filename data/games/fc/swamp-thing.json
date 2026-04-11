@@ -18,5 +18,65 @@
     "wikidata": "Q7653353",
     "mobygames": 71271,
     "igdb": 18304
-  }
+  },
+  "roms": [
+    {
+      "name": "Swamp Thing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "92de68f1",
+      "md5": "462a7b560b1fbbb3b9de26b7aeb82730",
+      "sha1": "ea8cbf6b5d818c680acb8c6ca2f315c4f35db713",
+      "sha256": "054f9ff88be4e3abd9f98df8d42d92e388100be3f62c860e5d3b4f3bc4e62c16"
+    },
+    {
+      "name": "Swamp Thing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "5d66859b",
+      "md5": "73658f053af1dc829531ed33812e6dca",
+      "sha1": "6a1eedc2d84c98b5d6b958ead987365851bf99d9",
+      "sha256": "2dd114e969770d4dd0581caf1d98037c87f5e6a6fc9eed893dff7dfbf121e962"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Swamp%20Thing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Swamp%20Thing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Swamp%20Thing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Swamp%20Thing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Swamp%20Thing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Swamp%20Thing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

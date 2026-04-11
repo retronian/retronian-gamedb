@@ -45,5 +45,65 @@
     "wikidata": "Q1001540",
     "mobygames": 588,
     "igdb": 4409
-  }
+  },
+  "roms": [
+    {
+      "name": "Budokan - The Martial Spirit (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-50016-00",
+      "size": 524288,
+      "crc32": "97add5bd",
+      "md5": "4942999ca5961c0d94e2450e33729f09",
+      "sha1": "004f3d6f333795315a072f3f0661ce4e5e91a4ae",
+      "sha256": "f6ec8d1987c462debad6d248bedea9b7d9b270b9ed053c377b0a146924cc184b"
+    },
+    {
+      "name": "Budokan - The Martial Spirit (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "acd9f5fc",
+      "md5": "4d247a5fc611e66dbe46f960292e3656",
+      "sha1": "93bc8242106bc9b2e0a8a974a3f65b559dd2941d",
+      "sha256": "336d73f21dd77105b840dddd7bec4e90316f44003d673598a758115851161f38"
+    },
+    {
+      "name": "Budokan - The Martial Spirit (USA) (Rev 1) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50016-00",
+      "size": 524288,
+      "crc32": "43532e3d",
+      "md5": "14e3eca30411f3f7b962f5f9c305cc38",
+      "sha1": "6af2f007bf65d49eba169bc1540952d87fc5d248",
+      "sha256": "f5f17dcdb4c57075c83d6c90dd296af66d5c647599f483ac23767cf3986851d6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Budokan%20-%20The%20Martial%20Spirit%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Budokan%20-%20The%20Martial%20Spirit%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Budokan%20-%20The%20Martial%20Spirit%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Budokan%20-%20The%20Martial%20Spirit%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

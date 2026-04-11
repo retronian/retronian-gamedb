@@ -72,5 +72,82 @@
     "wikidata": "Q614287",
     "mobygames": 5565,
     "igdb": 4271
-  }
+  },
+  "roms": [
+    {
+      "name": "Primal Rage (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81186-01",
+      "size": 4194304,
+      "crc32": "843479a1",
+      "md5": "03d2bc53190b75bd0d6fd754002be288",
+      "sha1": "51f0051aeaea8a8e0138b11754083d74d413b849",
+      "sha256": "a1a4783c02c832227fe84c019e2ef8576aa56b1559e1b58dad26b01dfbc2170a"
+    },
+    {
+      "name": "Primal Rage (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48426-00",
+      "size": 3145728,
+      "crc32": "2884c6d1",
+      "md5": "abc71fb6a198d36af856783ee94fee36",
+      "sha1": "18fc82ae49948128f2347b8b6d7174c8a0c1bf5f",
+      "sha256": "db4412bff889faf4e7356c8ee68b72f715b961a83f1bce777dadededf8e91cf0"
+    },
+    {
+      "name": "Primal Rage (USA) (Demo 3) (Sega Channel) (Showdown)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-148086-00",
+      "size": 3145728,
+      "crc32": "c9e3f2dc",
+      "md5": "2bff00cc158effc468d183fbdda38b68",
+      "sha1": "55311a667abf486afbcdb6c59707f96b5adede4b",
+      "sha256": "2c945702e59b6025126c0a62dee3edfa90ca6f7e787380e6f2dd28a5e523ba09"
+    },
+    {
+      "name": "Primal Rage (USA) (Demo 2) (Sega Channel) (Rental)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81186-01",
+      "size": 3145728,
+      "crc32": "5e19c1c0",
+      "md5": "e7498342ae38367922770e82b6b1d433",
+      "sha1": "0bb8e39b5acde92f9cfd94b819099914e8dae023",
+      "sha256": "4c8feff640efd07366668d464d4f7407b4f307d8419622545628a261c46e7fa5"
+    },
+    {
+      "name": "Primal Rage (USA) (Demo 1) (Test Drive) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-148096-00",
+      "size": 3145728,
+      "crc32": "9789ea79",
+      "md5": "2aed6bc896ef959030381eb8b33e8d87",
+      "sha1": "139bf74156ed4b8b6f161fe444081e93bb9e04a5",
+      "sha256": "17d82391ad3fd923d1e35eda94cedfa052cd27abd3a9030ccacdca0d4235bb11"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Primal%20Rage%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Primal%20Rage%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Primal%20Rage%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

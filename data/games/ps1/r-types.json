@@ -27,5 +27,64 @@
     "wikidata": "Q88477088",
     "mobygames": 5992,
     "igdb": 22892
-  }
+  },
+  "roms": [
+    {
+      "name": "R-Types (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "9cad49a3",
+      "md5": "2f2231349a215648d8e50f7bff6fc534",
+      "sha1": "f97355fd27c9a847481467ac4cbcd3aba5d1f5bc",
+      "sha256": "3f499211f873d80092baf80d457677e208f18e84e4aeca5fa63bf895f5c5a0aa"
+    },
+    {
+      "name": "R-Types (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 255495296,
+      "crc32": "99316546",
+      "md5": "148810733713dda03fe92df862bb022a",
+      "sha1": "fcb4de63231aa731bf32b8eaff4b495827770c2a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/R-Types%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/R-Types%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/R-Types%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/R-Types%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/R-Types%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/R-Types%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

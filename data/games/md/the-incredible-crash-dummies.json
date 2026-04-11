@@ -63,5 +63,49 @@
     "wikidata": "Q769834",
     "mobygames": 57148,
     "igdb": 2160
-  }
+  },
+  "roms": [
+    {
+      "name": "Incredible Crash Dummies, The (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "????????-??",
+      "size": 1048576,
+      "crc32": "623a920f",
+      "md5": "917e91530179d1751c8759ac835ccf01",
+      "sha1": "6c1db6d8ec7ace551b70ee60026e4a553d50f964",
+      "sha256": "1a0c06284415d567d5977e45f0616558cc87ccbf63360007654b115613895073"
+    },
+    {
+      "name": "Incredible Crash Dummies, The (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-081246-00",
+      "size": 1048576,
+      "crc32": "1f6e574a",
+      "md5": "331d1bd3baf81feb8edaa1a56cab48f1",
+      "sha1": "ca0115dd843e072815c4be86a7a491b26e3c4762",
+      "sha256": "1627739b11458720883bef7da23845d5d1c7e8d40b9ba5dfc46146628ebc960b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Incredible%20Crash%20Dummies%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Incredible%20Crash%20Dummies%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Incredible%20Crash%20Dummies%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

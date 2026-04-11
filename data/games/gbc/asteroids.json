@@ -35,5 +35,37 @@
   "external_ids": {
     "wikidata": "Q51000295",
     "igdb": 150203
-  }
+  },
+  "roms": [
+    {
+      "name": "Asteroids (USA, Europe) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "89d5d936",
+      "md5": "cfac8209d5119235f678303dfb3cc0f2",
+      "sha1": "026f031e1bb787a4390e7873227dcb52a069a6e0",
+      "sha256": "3f0688ed9219c44ce133647f0668cde50fdcba7ed8f04c34c3a0fc5ce596bfe5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Asteroids%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Asteroids%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Asteroids%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

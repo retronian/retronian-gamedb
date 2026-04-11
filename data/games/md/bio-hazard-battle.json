@@ -63,5 +63,60 @@
     "wikidata": "Q2904000",
     "mobygames": 16872,
     "igdb": 4517
-  }
+  },
+  "roms": [
+    {
+      "name": "Bio Hazard Battle (USA, Europe) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "4f19a73d",
+      "md5": "9ce8a021d2e258e7631eddfff3538694",
+      "sha1": "66439a7a4b8cb3f195a5830b62ceb03c68392ac2",
+      "sha256": "b305eec67e4ea9dfe4c93f1bae5c4b7e8405722927510b4c189bfc21fbc6d190"
+    },
+    {
+      "name": "Bio Hazard Battle (USA, Europe) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "G-4087-00",
+      "size": 1048576,
+      "crc32": "dd10dd1a",
+      "md5": "e5d861fb4ce7560978b0d1aa5fbfb967",
+      "sha1": "1445b0babb52d252bf822d8d2eec0eda05b63229",
+      "sha256": "6b20a54792b749bea5072fb908b53c78b6cfd3305453be452d0a4a4c1bade035"
+    },
+    {
+      "name": "Bio Hazard Battle (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1060-00",
+      "size": 1048576,
+      "crc32": "95b0ea2b",
+      "md5": "2d6764f7a96bb8b640a0d18102756ed2",
+      "sha1": "dca9d505302ce9ff1f98c4da95505139c7d3cafc",
+      "sha256": "fb4fc3ae7b131bf831fa410125def0662864f1ee0890bfc6371e4b01a4837a88"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Bio%20Hazard%20Battle%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Bio%20Hazard%20Battle%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Bio%20Hazard%20Battle%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

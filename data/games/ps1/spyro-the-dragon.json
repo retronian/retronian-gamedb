@@ -72,5 +72,79 @@
     "wikidata": "Q858391",
     "mobygames": 3633,
     "igdb": 1576
-  }
+  },
+  "roms": [
+    {
+      "name": "Spyro the Dragon (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 345798448,
+      "crc32": "b309d919",
+      "md5": "040acb99fdb6df3381b6916082d96b2f",
+      "sha1": "03cc6b30ab296d7b05aa4f97f153fde01ba1cf9a"
+    },
+    {
+      "name": "Spyro the Dragon (Germany)",
+      "source": "no_intro",
+      "size": 345805936,
+      "crc32": "21e1ba5a",
+      "md5": "29d3d49b8b42c98fcb281dbef5e8416e",
+      "sha1": "913b6e36932d1c61bed379f59b1a91c21bde8385"
+    },
+    {
+      "name": "Spyro the Dragon (Japan) (PS3 v4.46)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 390986736,
+      "crc32": "5df5df9b",
+      "md5": "6cbc610134e6999187a28bc7905222de",
+      "sha1": "bf6669a5f6379af4b47b54cdd6910bbdbdc5e8b3"
+    },
+    {
+      "name": "Spyro the Dragon (Russia)",
+      "source": "no_intro",
+      "size": 345798576,
+      "crc32": "ecb9d375",
+      "md5": "df20d921800e0afcf5fac89e0a5b136f",
+      "sha1": "96c2e3e3bdfdc8bfe783784faf3f612c200a208e"
+    },
+    {
+      "name": "Spyro the Dragon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 358365712,
+      "crc32": "22f8a210",
+      "md5": "cde1914a9e9c5147849913d6d2c73ff8",
+      "sha1": "39a42c9c78b840be98f0113bab9714c7aa1c22fd"
+    },
+    {
+      "name": "Spyro the Dragon (Japan) (PS3 v4.65)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 387268720,
+      "crc32": "525a4710",
+      "md5": "0ea83b7b193d822e0b40c2fea874ca66",
+      "sha1": "1c3db9fd78c0709b9ae65b74ddc9d7f45f0f46e8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Spyro%20the%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Spyro%20the%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Spyro%20the%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

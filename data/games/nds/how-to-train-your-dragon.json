@@ -54,5 +54,75 @@
     "wikidata": "Q858935",
     "mobygames": 46065,
     "igdb": 228092
-  }
+  },
+  "roms": [
+    {
+      "name": "How to Train Your Dragon (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BHDP",
+      "size": 67108864,
+      "crc32": "f0616f61",
+      "md5": "a8759629cf193a8f702d5fbb99145bb8",
+      "sha1": "cf33723bd79a32f9da587ef3ec299eaf036f19b7"
+    },
+    {
+      "name": "How to Train Your Dragon (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BHDE",
+      "size": 67108864,
+      "crc32": "5f2e802d",
+      "md5": "283135dec9d56f5b033f78b95a12ac7a",
+      "sha1": "18f1f0c621e606c98a152cc16f9734501b816ce1"
+    },
+    {
+      "name": "How to Train Your Dragon (Europe) (Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BHDX",
+      "size": 67108864,
+      "crc32": "9d769df7",
+      "md5": "cddcdb8962b33661f5c9ba5d8887d9b6",
+      "sha1": "c99e9180ed1d8228c0799d4f415dfc5c5e9e496e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/How%20to%20Train%20Your%20Dragon%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/How%20to%20Train%20Your%20Dragon%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/How%20to%20Train%20Your%20Dragon%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/How%20to%20Train%20Your%20Dragon%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/How%20to%20Train%20Your%20Dragon%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/How%20to%20Train%20Your%20Dragon%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

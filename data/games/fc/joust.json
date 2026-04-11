@@ -72,5 +72,47 @@
     "wikidata": "Q1567550",
     "mobygames": 4059,
     "igdb": 278132
-  }
+  },
+  "roms": [
+    {
+      "name": "Joust (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "55ba0b76",
+      "md5": "3277be6bf20087e2dc60f3a65fc8c8f3",
+      "sha1": "3f58d5a3967dd5f144db11bc9e9ab9328c0197be",
+      "sha256": "10251fdeafa409d0c5d88a886d82745fb60b456fda5d2a592bf337bf05c69b20"
+    },
+    {
+      "name": "Joust (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32784,
+      "crc32": "161b88b0",
+      "md5": "91e202a7560e18cb69abf3a352cdd683",
+      "sha1": "050eabcd02ea9e5af7dfbb24b3ca20614d23c1ba",
+      "sha256": "9c47a4797cdf3e46f068020ca6cd6ebfc5ee06d3083b12ded656051a1368ee4e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Joust%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Joust%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Joust%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

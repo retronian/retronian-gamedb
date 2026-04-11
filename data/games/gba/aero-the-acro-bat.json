@@ -96,5 +96,69 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Acrobat Kid (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AAOJ",
+      "size": 4194304,
+      "crc32": "71720e98",
+      "md5": "b14872072d464be5df4f1a1d09c158f6",
+      "sha1": "63bdfe94f51b1e6138ee25fe01549487667ecea1"
+    },
+    {
+      "name": "Aero the Acro-Bat (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AEJE",
+      "size": 1030244,
+      "crc32": "beed50f0",
+      "md5": "8b68e98da32fcee8c235c3c283c20a4c",
+      "sha1": "68c0a00275c7135ca1a116ccced1ecede75819b8",
+      "sha256": "f4e34f444a741b34226b0148d360b537d7333b030e988ebfd8abecc1d7d6ac93"
+    },
+    {
+      "name": "Aero the Acro-Bat (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AAOP",
+      "size": 4194304,
+      "crc32": "a7e98ebe",
+      "md5": "2548856ed56765e0f8267175bc1ac171",
+      "sha1": "11050975c211550a8bea751212ceb8856daea759"
+    },
+    {
+      "name": "Aero the Acro-Bat (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AAOE",
+      "size": 4194304,
+      "crc32": "b47ac020",
+      "md5": "266e48e50827e202a9e74255bf29a554",
+      "sha1": "cdbc609df128127d05c435f59b781958c0e751fd",
+      "sha256": "2d1631c5568a589092f9ed854255977623171ebf62d8eb0dd24e616499c0998e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Acrobat%20Kid%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Acrobat%20Kid%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Acrobat%20Kid%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

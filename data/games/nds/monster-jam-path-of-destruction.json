@@ -18,5 +18,41 @@
     "wikidata": "Q6902739",
     "mobygames": 53753,
     "igdb": 5016
-  }
+  },
+  "roms": [
+    {
+      "name": "Monster Jam - Path of Destruction (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BUJE",
+      "size": 134217728,
+      "crc32": "a4e807c3",
+      "md5": "2fd1f4f25df76352a3f1ad17519155ba",
+      "sha1": "101910c8d9087995b9b65bddb3bd32c88d40a108"
+    },
+    {
+      "name": "Monster Jam - Path of Destruction (Europe) (En,Fr,De,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BUJP",
+      "size": 134217728,
+      "crc32": "9cb0a251",
+      "md5": "d9e8b6dfb6487722dfd046d5871ac6dd",
+      "sha1": "9eee7d614856d2fc41469c4da8c1a2eec53e6f60"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20Jam%20-%20Path%20of%20Destruction%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20Jam%20-%20Path%20of%20Destruction%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

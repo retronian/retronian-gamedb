@@ -27,5 +27,53 @@
     "wikidata": "Q8044275",
     "mobygames": 30874,
     "igdb": 5742
-  }
+  },
+  "roms": [
+    {
+      "name": "Xiaolin Showdown (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AXLP",
+      "size": 67108864,
+      "crc32": "b3391c2c",
+      "md5": "7ccea1a637e07011e55a57be2099598c",
+      "sha1": "f5dba00ea2e997488364a9efd0f0e2c62387b70e"
+    },
+    {
+      "name": "Xiaolin Showdown (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AXLE",
+      "size": 67108864,
+      "crc32": "d58e749b",
+      "md5": "2cfac95a6d9cfde40fa20027ab7a5c10",
+      "sha1": "08c2533090b1b69a713bffc5b547df936f8f2308"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Xiaolin%20Showdown%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Xiaolin%20Showdown%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Xiaolin%20Showdown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Xiaolin%20Showdown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

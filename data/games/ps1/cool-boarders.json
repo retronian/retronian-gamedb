@@ -53,5 +53,90 @@
     "wikidata": "Q3788455",
     "mobygames": 9125,
     "igdb": 20728
-  }
+  },
+  "roms": [
+    {
+      "name": "Cool Boarders (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 44043408,
+      "crc32": "7c84de2d",
+      "md5": "837305ad68e268df708bc9f30e0e407d",
+      "sha1": "a3c3cf12bcd75495b88474eec5fd4f303a0272c8"
+    },
+    {
+      "name": "Cool Boarders (Germany)",
+      "source": "no_intro",
+      "size": 44088944,
+      "crc32": "68664898",
+      "md5": "3009df14d3270a07382ef6af344ad53e",
+      "sha1": "661c01e867bb094c5c593b46beb9b7be3738eb56"
+    },
+    {
+      "name": "Cool Boarders (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 42117648,
+      "crc32": "8add7f60",
+      "md5": "355b43a47f8898474a700bcaebb1a897",
+      "sha1": "efe209f3faa68a1fc275f9083e6d2ea27e7ac99b"
+    },
+    {
+      "name": "Cool Boarders (USA) (v1.00)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 43801296,
+      "crc32": "f04e988e",
+      "md5": "94edb2ac5fe51b487d3eef723528d8de",
+      "sha1": "79a014be65bbc78c2a9e1e85b5169bb211c954ee",
+      "sha256": "19ed9f5b24c627f4966e11baa75d07de5df4a414af2378f2ee930bb8d189858c"
+    },
+    {
+      "name": "Cool Boarders (USA) (v0.00)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 295315264,
+      "crc32": "d3d44302",
+      "md5": "fc69ba78d2d49e4a19ef093040c7f086",
+      "sha1": "1fec0af4a7cae0b68478cbd3239ade0ee0691616"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Cool%20Boarders%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Cool%20Boarders%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Cool%20Boarders%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Cool%20Boarders%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Cool%20Boarders%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Cool%20Boarders%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -27,5 +27,87 @@
     "wikidata": "Q13415771",
     "mobygames": 45604,
     "igdb": 6565
-  }
+  },
+  "roms": [
+    {
+      "name": "Hey Arnold! - The Movie (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AAEE",
+      "size": 4194304,
+      "crc32": "59dfab9e",
+      "md5": "a234f8b94fafc111ab29f235361baf50",
+      "sha1": "26042bbc068390246b3b01f02571659e08414a64"
+    },
+    {
+      "name": "Hey Arnold! - The Movie (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AAEP",
+      "size": 4194304,
+      "crc32": "2b666fed",
+      "md5": "3023f8b53d90af1320f5b686f0f7b868",
+      "sha1": "561a1b4fc09701ba1a7d25006e3a3ea5eba43ec2"
+    },
+    {
+      "name": "Hey Arnold! - The Movie (Europe) (En,Fr,De) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AAEE",
+      "size": 4194304,
+      "crc32": "9e4773ba",
+      "md5": "3e96ed2991e696db50a279e2854c0be5",
+      "sha1": "cebe93ddcb49664f0ffb9fb70dbcb5c91e70d340"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hey%20Arnold%21%20-%20The%20Movie%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hey%20Arnold%21%20-%20The%20Movie%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hey%20Arnold%21%20-%20The%20Movie%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hey%20Arnold%21%20-%20The%20Movie%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hey%20Arnold%21%20-%20The%20Movie%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hey%20Arnold%21%20-%20The%20Movie%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hey%20Arnold%21%20-%20The%20Movie%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hey%20Arnold%21%20-%20The%20Movie%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

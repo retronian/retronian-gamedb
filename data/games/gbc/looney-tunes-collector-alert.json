@@ -54,5 +54,84 @@
     "wikidata": "Q6675674",
     "mobygames": 36943,
     "igdb": 49882
-  }
+  },
+  "roms": [
+    {
+      "name": "Looney Tunes Collector - Alert! (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "54509d24",
+      "md5": "164c4fcfe733d89fff3ddc42b017c5ca",
+      "sha1": "54c4f732a8c328a9331a8a500438b1b1e9472b39"
+    },
+    {
+      "name": "Looney Tunes Collector - Martian Alert! (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "5d85dfad",
+      "md5": "9562a0aad16857f2f1a8e4169163c18a",
+      "sha1": "645c4cf67faf33248d2102f137a605de94305796",
+      "sha256": "db7d9b473efdd7580fedd3af50cbd359231201c8d6b5aca75fd2678b9b74a25e"
+    },
+    {
+      "name": "Looney Tunes Collector - Martian Alert! (Europe) (Fr) (Beta 1) (1999-10-28)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "!none",
+      "size": 2097152,
+      "crc32": "3acb4840",
+      "md5": "5cc6ad2a2406c6c860f36107f6eb414e",
+      "sha1": "4c05c1a15bb90feb09fbc2d8dfbfb42794313936",
+      "sha256": "41a53218978bf82cfcd798cafc5f1af5be4c4bbda9b9aebfde645ee75f4647d9"
+    },
+    {
+      "name": "Looney Tunes Collector - Martian Alert! (Europe) (En,Fr,De,Es,It,Nl) (Beta 2)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "9058eae3",
+      "md5": "2759a17974aa716d3db2cc015cda3ab4",
+      "sha1": "601236c323f4adbe5bd6091fac8871e11d71f105"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Looney%20Tunes%20Collector%20-%20Alert%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Looney%20Tunes%20Collector%20-%20Alert%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Looney%20Tunes%20Collector%20-%20Alert%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Looney%20Tunes%20Collector%20-%20Martian%20Alert%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Looney%20Tunes%20Collector%20-%20Martian%20Alert%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Looney%20Tunes%20Collector%20-%20Martian%20Alert%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

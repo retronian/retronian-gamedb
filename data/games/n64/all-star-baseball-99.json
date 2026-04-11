@@ -17,5 +17,67 @@
     "wikidata": "Q65038242",
     "mobygames": 6533,
     "igdb": 10663
-  }
+  },
+  "roms": [
+    {
+      "name": "All-Star Baseball 99 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NBSP",
+      "size": 12582912,
+      "crc32": "d0de3584",
+      "md5": "ed5f1e12da36dbec8a0a24ed98d4aed5",
+      "sha1": "3ac0d13f2260797dabf99cfedabf7e3676c5b2e2",
+      "sha256": "94c4b3f6964109fe237e158ba5a659d5c05b14361f35f6c36a3e6583434782ef"
+    },
+    {
+      "name": "All-Star Baseball 99 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NBSE",
+      "size": 12582912,
+      "crc32": "6d25b36f",
+      "md5": "78551d23f230b58b9f449cdb4a285761",
+      "sha1": "aa576624f2a66034cb0d6e621ba16a0d3beaca3a",
+      "sha256": "018f19f4174f4efd2c2bb7aabf92a9218436bdbbf2fd65085801d6c86a0a9516"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/All-Star%20Baseball%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/All-Star%20Baseball%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/All-Star%20Baseball%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/All-Star%20Baseball%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/All-Star%20Baseball%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/All-Star%20Baseball%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

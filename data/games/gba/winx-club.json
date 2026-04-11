@@ -18,5 +18,65 @@
     "wikidata": "Q4020483",
     "mobygames": 42107,
     "igdb": 200907
-  }
+  },
+  "roms": [
+    {
+      "name": "WinX Club (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BWIP",
+      "size": 16777216,
+      "crc32": "afcb9ce8",
+      "md5": "e43c1c1ccc83f1606ed3ee3996cc8322",
+      "sha1": "3faddb2187ec863bd181accd8f8b04c36005aeb6"
+    },
+    {
+      "name": "WinX Club (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BWIE",
+      "size": 16777216,
+      "crc32": "1d6950a3",
+      "md5": "80acbed66f2f7a2fc88357f9a2028458",
+      "sha1": "3b3f5c633f48ac218e9da6ac78305eab9c17ab21"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/WinX%20Club%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/WinX%20Club%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/WinX%20Club%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/WinX%20Club%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/WinX%20Club%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/WinX%20Club%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -88,5 +88,56 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Road Fighter (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 24592,
+      "crc32": "e0e3d1b6",
+      "md5": "34c6581b5dbb44af2d441ec45aa9091b",
+      "sha1": "950d0e45dfcaa5252ecfddc8eb0e0f237ce39053",
+      "sha256": "21faf868260bbc26a38127d31e98561679a7d0d17bb04ea747d8a549112e4812"
+    },
+    {
+      "name": "Road Fighter (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "b92054a7",
+      "md5": "278942ecd4606fde731e85e93e8e8edd",
+      "sha1": "0b345debb4e18f4434ef5c20c7a513135366fba3",
+      "sha256": "6b366c269830dd1c72a5e7d2526f8ce60e55cfc477cdb0c360778af00f8186ff"
+    },
+    {
+      "name": "Road Fighter (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "75ea3081",
+      "md5": "b127138661f06db3a2dae58c2ef1476e",
+      "sha1": "afc1a89b0be73f546a196b008f9e4757ccb926bb",
+      "sha256": "96a3b68c85f92c19543f3e50b9aed7af09981cba5eff3dff22f830f33f23f9e9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Road%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Road%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Road%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

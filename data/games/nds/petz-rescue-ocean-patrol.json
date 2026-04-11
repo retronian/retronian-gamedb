@@ -27,5 +27,41 @@
     "wikidata": "Q7179452",
     "mobygames": 89772,
     "igdb": 70534
-  }
+  },
+  "roms": [
+    {
+      "name": "Petz Rescue - Ocean Patrol (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "COSE",
+      "size": 33554432,
+      "crc32": "84ce419d",
+      "md5": "58b3513deeb99e781b0897bb6b048db0",
+      "sha1": "3ace4ef7d233f015edd04af1dc29edb93c9ded70"
+    },
+    {
+      "name": "Planet Rescue - Ocean Patrol (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "COSP",
+      "size": 33554432,
+      "crc32": "6f9fb459",
+      "md5": "cc85993b9f6ee445398f115718918b7a",
+      "sha1": "3b57c49b6905cd5e9cfa8195a43dc498b060f94f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Planet%20Rescue%20-%20Ocean%20Patrol%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Planet%20Rescue%20-%20Ocean%20Patrol%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

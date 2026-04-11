@@ -60,5 +60,96 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Atomic Runner (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK1140-00",
+      "size": 1048576,
+      "crc32": "b3c05418",
+      "md5": "b953ab20d7bd508bd15d369339c67256",
+      "sha1": "ab84274bc98a1f8f808bee3f41645884c95cc840",
+      "sha256": "b580c702bace932e4f8548e604dd9d06caf0e96ad89c3b1244d77bd9e0c17e91"
+    },
+    {
+      "name": "Atomic Runner (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-13073-00",
+      "size": 1048576,
+      "crc32": "0677c210",
+      "md5": "6ddf32102f20c6f91b0d97bb5da5caad",
+      "sha1": "8a6e868fe36f2e5ac01af2557d3798a892e34799",
+      "sha256": "03cf042ee4e0fd90a000e9c880cfffd08d0563016d0fe0fa71644a9edf45c5d8"
+    },
+    {
+      "name": "Chelnov (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-13073-00",
+      "size": 1048576,
+      "crc32": "b2fe74d8",
+      "md5": "d769a45255a31638e336f77f33aba822",
+      "sha1": "ac1ae7b38f6498472bc4f072726a4ca069e41204",
+      "sha256": "81e285404a7522d6b5885d9ae10e645740806aa82c32b72fb340562110aa6676"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Atomic%20Runner%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Atomic%20Runner%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Atomic%20Runner%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Atomic%20Runner%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Atomic%20Runner%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Atomic%20Runner%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Chelnov%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Chelnov%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Chelnov%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

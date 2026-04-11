@@ -71,5 +71,67 @@
   "external_ids": {
     "wikidata": "Q1074008",
     "mobygames": 10349
-  }
+  },
+  "roms": [
+    {
+      "name": "Fatal Fury (Europe, Korea) (En)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1083-00",
+      "size": 2097152,
+      "crc32": "71aa889e",
+      "md5": "e0d332e04a19012c50194ebff346c51e",
+      "sha1": "cf99b7044e3fdf5c2ec76a69c2b7f3b54fa1b2cc",
+      "sha256": "219ac3b2489dc5f90e90017795a34150212cde46aa049d8fcac1a95f5f2234a7"
+    },
+    {
+      "name": "Fatal Fury (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-103016-00",
+      "size": 1572864,
+      "crc32": "98d49170",
+      "md5": "57f13963c9cfdade16cf8207f8889ee5",
+      "sha1": "48b6277fc73368d8e96ba407a66f908c3bd87c39",
+      "sha256": "3616ab02a6b7301b9c370df58b8b216c185eec52c8f474fe8a29c9a473975ec5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Fatal%20Fury%20%28Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Fatal%20Fury%20%28Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Fatal%20Fury%20%28Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Fatal%20Fury%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Fatal%20Fury%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Fatal%20Fury%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

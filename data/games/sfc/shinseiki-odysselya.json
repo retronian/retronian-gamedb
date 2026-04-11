@@ -53,5 +53,47 @@
   "external_ids": {
     "wikidata": "Q7497753",
     "igdb": 42367
-  }
+  },
+  "roms": [
+    {
+      "name": "Shinseiki Odysselya (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "b01ee410",
+      "md5": "5be8d564e855d185c79b1e471245c53b",
+      "sha1": "581de180568d85e4fd6f06c800caeff0e74d43fe",
+      "sha256": "d2e414761d00a6d2aeff171adf7db203a818f701190f9ea827f7a10eaf2eef49"
+    },
+    {
+      "name": "Shinseiki Odysselya (Japan) (Demo)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "de7f3a8d",
+      "md5": "dc031c27ca36ad051d1c411398552207",
+      "sha1": "a2097dbace24813ba4dd16cfd28db80994acb459",
+      "sha256": "39d5b038b2677494ad902edcadcd3428a9e819da042f7cb9fa728186e518af09"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Shinseiki%20Odysselya%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Shinseiki%20Odysselya%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Shinseiki%20Odysselya%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

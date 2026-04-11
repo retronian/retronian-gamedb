@@ -72,5 +72,53 @@
     "wikidata": "Q2529074",
     "mobygames": 42859,
     "igdb": 2192
-  }
+  },
+  "roms": [
+    {
+      "name": "Mini Ninjas (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YNJE",
+      "size": 33554432,
+      "crc32": "c448a4c0",
+      "md5": "12d7554e8ab978b49fe55f4b90e5d8e9",
+      "sha1": "42eeba2398a8a2269f1da3efb8fffabbae1c99f5"
+    },
+    {
+      "name": "Mini Ninjas (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YNJP",
+      "size": 33554432,
+      "crc32": "b10d3ed5",
+      "md5": "ea71d3fe1154c17dce59cce3bc13f607",
+      "sha1": "a5c18bb8198873330fd67ffc1ef7e06741cd5f79"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mini%20Ninjas%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mini%20Ninjas%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mini%20Ninjas%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mini%20Ninjas%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

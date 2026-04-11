@@ -72,5 +72,66 @@
     "wikidata": "Q2312016",
     "mobygames": 25465,
     "igdb": 197882
-  }
+  },
+  "roms": [
+    {
+      "name": "Justice League Heroes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AJLE",
+      "size": 67108864,
+      "crc32": "fa738fe3",
+      "md5": "c679d960e9d03f491b56bb838c2bc7f8",
+      "sha1": "7c8a12028133eebefff8832da6d25b5eaaa945cf"
+    },
+    {
+      "name": "Justice League Heroes (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AJLP",
+      "size": 67108864,
+      "crc32": "13fe70e6",
+      "md5": "371f6c7c22edf88be51f8010d0ddac8e",
+      "sha1": "5a9d6d38288c248e30649c70483e79b17bc3d2c8",
+      "sha256": "ed1e4911022d12ecc6300b36c501184c422040f131e200f00f3236f5c8d367fd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Justice%20League%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Justice%20League%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Justice%20League%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Justice%20League%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Justice%20League%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Justice%20League%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

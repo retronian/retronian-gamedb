@@ -62,5 +62,28 @@
   "external_ids": {
     "wikidata": "Q5654167",
     "igdb": 136875
-  }
+  },
+  "roms": [
+    {
+      "name": "SEGA Smash Pack (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A3PE",
+      "size": 8388608,
+      "crc32": "5c2e97ba",
+      "md5": "763fc686e0e12ddb53e0cf9c0f27854a",
+      "sha1": "612a1a10c769beff1559f4fc81cd71366ee954b3",
+      "sha256": "b86ae6c4df13def0f3c896c8038d61352bb8543703adad163793bcde5c95ac82"
+    },
+    {
+      "name": "SEGA Smash Pack (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A3PP",
+      "size": 8388608,
+      "crc32": "09310fec",
+      "md5": "d76d995cef14fce9129d8b7c9f049568",
+      "sha1": "f3f48af79f6ccd3e10123acf87ccaeb4eb1c916d"
+    }
+  ]
 }

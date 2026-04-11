@@ -18,5 +18,48 @@
     "wikidata": "Q88545029",
     "mobygames": 87196,
     "igdb": 50635
-  }
+  },
+  "roms": [
+    {
+      "name": "Animal Planet - Vet Life (Europe) (En,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BV2P",
+      "size": 33554432,
+      "crc32": "f5f656dc",
+      "md5": "dac026cf8776ed6149a0b922d0e3ce87",
+      "sha1": "3a6637fc6e77a82f348a9dc298add5352caa7e45",
+      "sha256": "913d26dd50c4b7750263007791c5678a48011c6328021be203de709b91d3388c"
+    },
+    {
+      "name": "Animal Planet - Vet Life (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BV2E",
+      "size": 33554432,
+      "crc32": "34be56b9",
+      "md5": "4728f8351e6005d14179e7b8171710bc",
+      "sha1": "76a995210a039147a1a61d561800b10e9e977902"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Animal%20Planet%20-%20Vet%20Life%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Animal%20Planet%20-%20Vet%20Life%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Animal%20Planet%20-%20Vet%20Life%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

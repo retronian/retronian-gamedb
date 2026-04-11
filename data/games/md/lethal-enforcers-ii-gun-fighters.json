@@ -90,5 +90,67 @@
     "wikidata": "Q3236891",
     "mobygames": 22775,
     "igdb": 5398
-  }
+  },
+  "roms": [
+    {
+      "name": "Lethal Enforcers II - Gun Fighters (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-95136-00",
+      "size": 2097152,
+      "crc32": "4bfe045c",
+      "md5": "dcc6c7a80292cfb2ac6700d9f750f77f",
+      "sha1": "0c99f93ef90d6242b198c99a1e940be432ec861f",
+      "sha256": "1e2786f1757efd8ff0674a90cf33bfc5a16395de698105db2ef04e425d756e7d"
+    },
+    {
+      "name": "Lethal Enforcers II - Gun Fighters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95136-00",
+      "size": 2097152,
+      "crc32": "e5fdd28b",
+      "md5": "6847fb802bd0cb9500af865a493896df",
+      "sha1": "823a59b1177665313a1114a622ee98a795141eec",
+      "sha256": "aab816a2f433713eb4fc5377ae265341bd2c72bef9bc7fc41026425944a70ad3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lethal%20Enforcers%20II%20-%20Gun%20Fighters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lethal%20Enforcers%20II%20-%20Gun%20Fighters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lethal%20Enforcers%20II%20-%20Gun%20Fighters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lethal%20Enforcers%20II%20-%20Gun%20Fighters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lethal%20Enforcers%20II%20-%20Gun%20Fighters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lethal%20Enforcers%20II%20-%20Gun%20Fighters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

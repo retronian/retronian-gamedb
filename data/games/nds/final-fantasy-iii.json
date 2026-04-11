@@ -54,5 +54,95 @@
     "wikidata": "Q11331875",
     "mobygames": 25469,
     "igdb": 393
-  }
+  },
+  "roms": [
+    {
+      "name": "Final Fantasy III (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AFFJ",
+      "size": 134217728,
+      "crc32": "54b95690",
+      "md5": "326ee92ba3a4b5395a94b61421d1769a",
+      "sha1": "dfb60307c3987041ca06b7e3642400a09bd8b45f"
+    },
+    {
+      "name": "Final Fantasy III (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFFE",
+      "size": 134217728,
+      "crc32": "27883409",
+      "md5": "61a85ae3bce5d5678587a09ce8df23a2",
+      "sha1": "9ed0244afbf9dcbe022a40c32026fb746cb6e850",
+      "sha256": "1ed4a5e438a513ee6fd6748eee88fc7f196118128607a419e69a2226893806bd"
+    },
+    {
+      "name": "Final Fantasy III (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFFP",
+      "size": 134217728,
+      "crc32": "274d1180",
+      "md5": "d07652de78dafa65458952b72c5a4881",
+      "sha1": "a224dd341f0fa131c3e2c83bfbde8a67a586f2d6",
+      "sha256": "d50e72fe4a0b381caf1298e25e4d0244e7c111ac5b76f4227893eebee2d7c325"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Final%20Fantasy%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Final%20Fantasy%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Final%20Fantasy%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Final%20Fantasy%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Final%20Fantasy%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Final%20Fantasy%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Final%20Fantasy%20III%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Final%20Fantasy%20III%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Final%20Fantasy%20III%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

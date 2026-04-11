@@ -45,5 +45,65 @@
     "wikidata": "Q17042518",
     "mobygames": 26721,
     "igdb": 15839
-  }
+  },
+  "roms": [
+    {
+      "name": "Magical Starsign (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AVCE",
+      "size": 67108864,
+      "crc32": "260e90b2",
+      "md5": "149f87ee73c0d792623c2382463e1d18",
+      "sha1": "e89ab031edf8c8dac9bcc75cd962374278f98edd"
+    },
+    {
+      "name": "Magical Starsign (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AVCP",
+      "size": 67108864,
+      "crc32": "a36a8ee3",
+      "md5": "ddd4ed94a3e2843f0c683f44f05c4df3",
+      "sha1": "72096257137b72e642a90aad7716b66717ead15f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Magical%20Starsign%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Magical%20Starsign%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Magical%20Starsign%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Magical%20Starsign%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Magical%20Starsign%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Magical%20Starsign%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -69,5 +69,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Castle Excellent (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "86528099",
+      "md5": "b1b5bd83febf3ed7aebe2e0827198430",
+      "sha1": "6c301dee5d45970f34d3a2f3f71f37590643c653",
+      "sha256": "7646f5c420ca90f780c6e68bee9f52e2713cc2258686a346e89399b6a9751bb3"
+    },
+    {
+      "name": "Castlequest (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "736c4a25",
+      "md5": "af65aaca01fd64ddfb666b998d5ba741",
+      "sha1": "7f81fe928d1213d98787f921d46d07ae1113e1d7",
+      "sha256": "6ef9b958929ecbe7f26948ccbee17dedad44ce2ad0a05ac5248670a1f4b6aae1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Castlequest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Castlequest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Castlequest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

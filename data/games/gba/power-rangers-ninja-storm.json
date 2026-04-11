@@ -35,5 +35,65 @@
   "external_ids": {
     "wikidata": "Q11888799",
     "igdb": 284965
-  }
+  },
+  "roms": [
+    {
+      "name": "Power Rangers - Ninja Storm (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPWE",
+      "size": 4194304,
+      "crc32": "e8691a0f",
+      "md5": "b9c2fad1c168bfd5d0b5a6930e4e1ad2",
+      "sha1": "16a719d35358c44a9560c83e19eb5f1bca3a1182"
+    },
+    {
+      "name": "Power Rangers - Ninja Storm (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BPWP",
+      "size": 4194304,
+      "crc32": "09d8ed5e",
+      "md5": "f0d1a7bb650ea304b9af7bfc1567a19b",
+      "sha1": "9b131ce8fe535a5b5eef62e725fb41411c3cad88"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Power%20Rangers%20-%20Ninja%20Storm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Power%20Rangers%20-%20Ninja%20Storm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Power%20Rangers%20-%20Ninja%20Storm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Power%20Rangers%20-%20Ninja%20Storm%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Power%20Rangers%20-%20Ninja%20Storm%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Power%20Rangers%20-%20Ninja%20Storm%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

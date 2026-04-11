@@ -98,5 +98,90 @@
     "wikidata": "Q2007022",
     "mobygames": 54556,
     "igdb": 1128
-  }
+  },
+  "roms": [
+    {
+      "name": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 370041648,
+      "crc32": "e5a2f934",
+      "md5": "b90e7cd9dd2265440042b60ce4d1085e",
+      "sha1": "1efc6bf5def9ecc2c7b9ffef5220aaa4af9bf96d"
+    },
+    {
+      "name": "Castlevania - Symphony of the Night (France)",
+      "source": "no_intro",
+      "size": 363928864,
+      "crc32": "2dc35522",
+      "md5": "460652fd833b490d825bf35becaf1ab9",
+      "sha1": "a3c9b22b35e75cb447d4c5415bbf72ac2925819e"
+    },
+    {
+      "name": "Castlevania - Symphony of the Night (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 372818688,
+      "crc32": "6d8afcc2",
+      "md5": "d7d1669b8e5c2fd11a36bb81c59dcf93",
+      "sha1": "f4d0785cdc69ade98eb1edbb31848eef6cfbabfe"
+    },
+    {
+      "name": "Castlevania - Symphony of the Night (United Kingdom)",
+      "source": "no_intro",
+      "size": 364971216,
+      "crc32": "112669f4",
+      "md5": "51c9636975df92f0fcd4a703b3024570",
+      "sha1": "2c8401f03dc86a2fccbce8730b9d70f17aaa3238",
+      "sha256": "e8dd44b2e108dcbf39a4aff18d2c289e58653faeb8a710f9e13ca930b06dac5a"
+    },
+    {
+      "name": "Castlevania - Symphony of the Night (Germany) (En,De)",
+      "source": "no_intro",
+      "serial": "NPEF-00051",
+      "size": 363940208,
+      "crc32": "3f97fcf8",
+      "md5": "fe4a32ae95c1232903c7e249f2747429",
+      "sha1": "3a8e2c5ab0a56d07a57b7ab1f3dd8853e1466e03",
+      "sha256": "ba8273557e11528dc2f7f234d7d31a500211dc6558f0fed92c838eaeee3fb4fc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Akumajou%20Dracula%20X%20-%20Gekka%20no%20Yasoukyoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Akumajou%20Dracula%20X%20-%20Gekka%20no%20Yasoukyoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Akumajou%20Dracula%20X%20-%20Gekka%20no%20Yasoukyoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

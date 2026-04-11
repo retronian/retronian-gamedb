@@ -36,5 +36,96 @@
     "wikidata": "Q3040450",
     "mobygames": 9179,
     "igdb": 3477
-  }
+  },
+  "roms": [
+    {
+      "name": "Dual Heroes (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NDHP",
+      "size": 12582912,
+      "crc32": "5a7e226b",
+      "md5": "f120fadb52b414eb4fb7d13092ac3cdb",
+      "sha1": "061b7956c3aadddc6fdc11aab885f95a71b7f463",
+      "sha256": "292ffc02db47118a4b94a5581394c2edf41d16f0f1d42e9cbfae73dad78f0b2f"
+    },
+    {
+      "name": "Dual Heroes (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NDHJ",
+      "size": 12582912,
+      "crc32": "20f23dde",
+      "md5": "e7652ed5ceceb5b1bc14495c58546d1c",
+      "sha1": "cfd5992bcc3e0d90966d8a6fc6e0813e75473b14",
+      "sha256": "2d390313b93fbc838ddda8225901f994d5953191853ed3f7549f48720767930c"
+    },
+    {
+      "name": "Dual Heroes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NDHE",
+      "size": 12582912,
+      "crc32": "d09f4da8",
+      "md5": "923d65e69f51858c697e0e5759cd038b",
+      "sha1": "8fd879ce53e211d33a689015a78cff3fdd39db09",
+      "sha256": "5715846bd3bf7da5c296e10384b7ff4ff6e94ee315856c4ad275d5c2ed9bd712"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Dual%20Heroes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Dual%20Heroes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Dual%20Heroes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Dual%20Heroes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Dual%20Heroes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Dual%20Heroes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Dual%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Dual%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Dual%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

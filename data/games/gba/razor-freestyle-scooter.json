@@ -27,5 +27,65 @@
     "wikidata": "Q3421384",
     "mobygames": 6372,
     "igdb": 249124
-  }
+  },
+  "roms": [
+    {
+      "name": "Freestyle Scooter (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ARFP",
+      "size": 4194304,
+      "crc32": "0187988f",
+      "md5": "4cba219bcca2320ebf9c33410b6becde",
+      "sha1": "43ce66e7c5e7892350af8e6c905559de007b9ff9"
+    },
+    {
+      "name": "Razor Freestyle Scooter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ARFE",
+      "size": 4194304,
+      "crc32": "ffe38431",
+      "md5": "180a4c25cb809435f85f7fb81bc2495f",
+      "sha1": "8b946e0727ce428e3e75c1b19e4e7749bcc19fe4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Freestyle%20Scooter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Freestyle%20Scooter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Freestyle%20Scooter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Razor%20Freestyle%20Scooter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Razor%20Freestyle%20Scooter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Razor%20Freestyle%20Scooter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

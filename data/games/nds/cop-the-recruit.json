@@ -45,5 +45,66 @@
     "wikidata": "Q1846213",
     "mobygames": 45067,
     "igdb": 8611
-  }
+  },
+  "roms": [
+    {
+      "name": "C.O.P. - The Recruit (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BDUP",
+      "size": 33554432,
+      "crc32": "19280a8a",
+      "md5": "000be3c0fade85d094eb412c285ca8cf",
+      "sha1": "0d9a0bc677497a2705f4446cd8a60f1c58543284",
+      "sha256": "90346d23a891562b93f515faef6a58f599cedd03355a2198543f25adb10c8379"
+    },
+    {
+      "name": "C.O.P. - The Recruit (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDUE",
+      "size": 33554432,
+      "crc32": "20b3c074",
+      "md5": "02be364b23b251797903d5279eee921e",
+      "sha1": "a17b3ad3bb4316e07638ecf352f9c696075435d6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/C.O.P.%20-%20The%20Recruit%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/C.O.P.%20-%20The%20Recruit%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/C.O.P.%20-%20The%20Recruit%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/C.O.P.%20-%20The%20Recruit%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/C.O.P.%20-%20The%20Recruit%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/C.O.P.%20-%20The%20Recruit%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

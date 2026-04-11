@@ -34,5 +34,53 @@
   "external_ids": {
     "wikidata": "Q18357166",
     "igdb": 47954
-  }
+  },
+  "roms": [
+    {
+      "name": "Sesame Street - Ready, Set, Grover! (Europe) (Es,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BYTP",
+      "size": 134217728,
+      "crc32": "3ab7ffdc",
+      "md5": "2c94f04d61c6ab8fec889fc2a95f03a1",
+      "sha1": "55225bbde195cd3162c918c8f38890ed2e3104f4"
+    },
+    {
+      "name": "Sesame Street - Ready, Set, Grover! (Australia)",
+      "source": "no_intro",
+      "region": "au",
+      "serial": "BYTU",
+      "size": 67108864,
+      "crc32": "c11dc784",
+      "md5": "7b07ca7302c377c7437d666488bee3e8",
+      "sha1": "17c7519e696d0e2444298d3a3a75c814248c8e16"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sesame%20Street%20-%20Ready%2C%20Set%2C%20Grover%21%20%28Europe%29%20%28Es%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sesame%20Street%20-%20Ready%2C%20Set%2C%20Grover%21%20%28Europe%29%20%28Es%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sesame%20Street%20-%20Ready%2C%20Set%2C%20Grover%21%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sesame%20Street%20-%20Ready%2C%20Set%2C%20Grover%21%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    }
+  ]
 }

@@ -89,5 +89,103 @@
     "wikidata": "Q610749",
     "mobygames": 6586,
     "igdb": 1720
-  }
+  },
+  "roms": [
+    {
+      "name": "Mega Man 7 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "03579738",
+      "md5": "c533c4ef3d086acec510a6e3b55b3af3",
+      "sha1": "d11e3793f46f2b1bd00150438d394e4b13489a14",
+      "sha256": "81f90a36c07221546c441d67689d951864f071f3218aa96994c0c54e93998a67"
+    },
+    {
+      "name": "Mega Man 7 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "2d947536",
+      "md5": "301d8c4f1b5de2cd10b68686b17b281a",
+      "sha1": "6e7c9c9dd397f771303ee4aec29d106b9f86c832",
+      "sha256": "a255fec32453739903a1954149f19bc9658f4a415600b44badf1d4e5e13a16f9"
+    },
+    {
+      "name": "Rockman 7 - Shukumei no Taiketsu! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "31f18dda",
+      "md5": "e9c126cbd7c68c9e985dc501f625b030",
+      "sha1": "a907f7ece8a8d89126c466079712282d675486ef",
+      "sha256": "704c035cf9236577334de9b935190d8d22fe775fb64ce3008c893b7bd3bfa64a"
+    },
+    {
+      "name": "Rockman 7 - Shukumei no Taiketsu! (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "ee05a1af",
+      "md5": "28de2793d6a51715da1757b5c0d4314d",
+      "sha1": "1702bd66db2860ff2c399af34d62fc1ba59b32bd",
+      "sha256": "1cfdd9e354859834fa554488cde195fb8e249a3d7b03dd432f687c94fd6c1b82"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%207%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%207%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%207%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%207%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%207%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%207%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Rockman%207%20-%20Shukumei%20no%20Taiketsu%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Rockman%207%20-%20Shukumei%20no%20Taiketsu%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Rockman%207%20-%20Shukumei%20no%20Taiketsu%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -97,5 +97,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Golden Axe III (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004093-00",
+      "size": 1048576,
+      "crc32": "c7862ea3",
+      "md5": "7d9f963c9c2e22b542516edd03ada6f6",
+      "sha1": "cd9ecc1df4e01d69af9bebcf45bbd944f1b17f9f",
+      "sha256": "bee1df2f62794c14eedbf8bd0a61da5d9944c0a8e01807fdd3cad812e02638c7"
+    },
+    {
+      "name": "Golden Axe III (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "00004093-00",
+      "size": 1048576,
+      "crc32": "1d90dc83",
+      "md5": "932a2ffb998e59d6bf9292566dfc2a63",
+      "sha1": "13816eb064fe74be42f74ba7e5077832fdf40d42",
+      "sha256": "a8bfde13ef219992fa6b72a9ed02fea91534940cd7cbf19d2e61eb5d22a195ff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Golden%20Axe%20III%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Golden%20Axe%20III%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Golden%20Axe%20III%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Golden%20Axe%20III%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Golden%20Axe%20III%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Golden%20Axe%20III%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

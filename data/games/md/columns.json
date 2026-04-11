@@ -79,5 +79,103 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Columns (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054035-00",
+      "size": 131072,
+      "crc32": "03163d7a",
+      "md5": "2ac307fcd67ab5fc1cbd29bb245196a3",
+      "sha1": "b262a4c2738a499f070777dbe05e2629d211a107",
+      "sha256": "5b496240b6e759ba1234e3dd422066dabcd9a74aea142520f6c7c04389151fc6"
+    },
+    {
+      "name": "Columns (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00054035-01",
+      "size": 131072,
+      "crc32": "d783c244",
+      "md5": "b92d1477992ca143e02bf90ab2e2a118",
+      "sha1": "17ae2595e4d3fb705c9f8f66d5938deca3f95c4e",
+      "sha256": "85c1cbf2eb0a40d1c33dbe05576676381995c4fdab70726e7ea0aa50016eafa7"
+    },
+    {
+      "name": "Columns (World) (Sega Ages)",
+      "source": "no_intro",
+      "serial": "00054035-01",
+      "size": 131072,
+      "crc32": "0a0d1d51",
+      "md5": "7911c61746879d191497064ed7cda400",
+      "sha1": "c674744b134574493ddf4a23872df35b437aa4fa",
+      "sha256": "02e8282fd6fa6c5312e041d48373b18c43db2123d0530fecfb2afb7376e96b6c"
+    },
+    {
+      "name": "Columns (USA, Europe) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00054035-01",
+      "size": 262144,
+      "crc32": "7eec1a45",
+      "md5": "94b2079afe2a55e20135618bc5a947a9",
+      "sha1": "0e25dad4d16d766f2469b9184d09fd65efc50c58",
+      "sha256": "f5a8cffa9d588a8456956b1985e6395ad41c20be3b880f3b8f656d926bcdae3b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Columns%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Columns%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Columns%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Columns%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Columns%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Columns%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Columns%20%28World%29%20%28Sega%20Ages%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Columns%20%28World%29%20%28Sega%20Ages%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Columns%20%28World%29%20%28Sega%20Ages%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

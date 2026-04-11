@@ -80,5 +80,45 @@
     "wikidata": "Q1411913",
     "mobygames": 3191,
     "igdb": 2542
-  }
+  },
+  "roms": [
+    {
+      "name": "Fighting Force (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 85241824,
+      "crc32": "6c50912c",
+      "md5": "97936a2358c4ac1c4c7d13d9756b6385",
+      "sha1": "dccc41506a10837e69be3f5cfa4a0f700b01a830"
+    },
+    {
+      "name": "Fighting Force (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 88577712,
+      "crc32": "0bc39e24",
+      "md5": "fb9e7d562577dca37b4ae747deb525db",
+      "sha1": "276f5301facb9e704b26ffa910ca1f399d82e279"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Fighting%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Fighting%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Fighting%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

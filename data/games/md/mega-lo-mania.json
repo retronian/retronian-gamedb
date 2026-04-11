@@ -87,5 +87,113 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mega lo Mania (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-68053-00",
+      "size": 1048576,
+      "crc32": "a60d8619",
+      "md5": "6d294b1a2c901ae61774754f6f533a34",
+      "sha1": "66e391c69dfbe7329654550ebf4464b4f426c5a0",
+      "sha256": "d95a4a99592ef527e9175ee3f8eaefdb936635f9395738a6755df571b0bbe9df"
+    },
+    {
+      "name": "Mega-lo-Mania (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C-19921-01",
+      "size": 1048576,
+      "crc32": "ab9fed30",
+      "md5": "a4561b736011c91e43c18aa8971cdead",
+      "sha1": "3794cb708b1f54675eb6fb272cfee01e6dbcecc1",
+      "sha256": "0c99461d9787806c53e4ffae0f23a9328de5523e15aafeebe4208e8e3152bfa7"
+    },
+    {
+      "name": "Mega-lo-Mania (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70056-00",
+      "size": 1048576,
+      "crc32": "2148d56d",
+      "md5": "e622bc3c4a61aacc2efc1fe4c580987f",
+      "sha1": "e861551edabe55181ed1b7260169e953af903b5e",
+      "sha256": "6248a695a4ebf00115ef8f979016263ce6123ee66bf09316a1541f875a023c07"
+    },
+    {
+      "name": "Mega-lo-Mania (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-70056-00",
+      "size": 1048576,
+      "crc32": "f90df2c2",
+      "md5": "798250c56708a3e19bfd518d1a1e4887",
+      "sha1": "dcc6b9d82d9a4174b33a23b9ebcb841183edb199",
+      "sha256": "413bfcbe0b37013143eb36812f46538f0b3d0da2c2ddd263a8b1487a824df87a"
+    },
+    {
+      "name": "Mega-lo-Mania (France)",
+      "source": "no_intro",
+      "serial": "T-70056-00",
+      "size": 1048576,
+      "crc32": "3b3231ed",
+      "md5": "1b06184a4c719b8435f574acdab0183d",
+      "sha1": "1fcfc9ee3bffc25388735782b0cdb829a7e40507",
+      "sha256": "549d901fcd5e048b54015cbf9664d3fad67abdffa0c4e1c1824722d1b0bf7a2f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega%20lo%20Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega%20lo%20Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega%20lo%20Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega-lo-Mania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega-lo-Mania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega-lo-Mania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega-lo-Mania%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega-lo-Mania%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega-lo-Mania%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

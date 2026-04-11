@@ -17,5 +17,59 @@
   "external_ids": {
     "wikidata": "Q7928030",
     "igdb": 18309
-  }
+  },
+  "roms": [
+    {
+      "name": "Videomation (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32784,
+      "crc32": "3f0770fd",
+      "md5": "215ec3203a07e2fd3730b8ac186084ff",
+      "sha1": "d076dc6b63c856217a447e5251b5a250927b9bb8",
+      "sha256": "3b33fe1b73d99b1231b1b384ded66504905e3169876648e06bf557edf3ebe7bd"
+    },
+    {
+      "name": "Videomation (USA) (Pirate)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32784,
+      "crc32": "ec8da280",
+      "md5": "bfc7d86c42e48d32ddb9e76b8a7d908c",
+      "sha1": "be130f806f614c7bd281150de75c50ab03d96235",
+      "sha256": "1aa5b18fd68117cbb1bac354899d644c3612a134d901d3219bdff625ff39f811"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Videomation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Videomation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Videomation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Videomation%20%28USA%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Videomation%20%28USA%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,65 @@
     "wikidata": "Q6902738",
     "mobygames": 10671,
     "igdb": 242805
-  }
+  },
+  "roms": [
+    {
+      "name": "Monster Jam - Maximum Destruction (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AJAP",
+      "size": 8388608,
+      "crc32": "c3ad7701",
+      "md5": "2dec48a670f8d26b39c538ff725e2bcf",
+      "sha1": "0469103669dcf6271145c6ae4ee5c61a6f88d66b"
+    },
+    {
+      "name": "Monster Jam - Maximum Destruction (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AJAE",
+      "size": 8388608,
+      "crc32": "43d9b9f1",
+      "md5": "8ebf0a1c78ab2a874057d32d238303ff",
+      "sha1": "efcb8da50cf62d04c1abdee092132e9275c12a4f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Monster%20Jam%20-%20Maximum%20Destruction%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Monster%20Jam%20-%20Maximum%20Destruction%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Monster%20Jam%20-%20Maximum%20Destruction%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Monster%20Jam%20-%20Maximum%20Destruction%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Monster%20Jam%20-%20Maximum%20Destruction%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Monster%20Jam%20-%20Maximum%20Destruction%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

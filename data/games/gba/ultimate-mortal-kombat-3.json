@@ -83,11 +83,126 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Mortal Kombat Advance",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "真人快打：格鬥大賽",
+      "lang": "zh",
+      "script": "Hant",
+      "region": "tw",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Mortal Kombat Advance",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Mortal Kombat Advance",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Mortal Kombat Advance",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Mortal Kombat Advance",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1996-11-28",
   "external_ids": {
     "wikidata": "Q1313980",
-    "mobygames": 6593
-  }
+    "mobygames": 6593,
+    "igdb": 45156
+  },
+  "roms": [
+    {
+      "name": "Mortal Kombat Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AM5E",
+      "size": 8388608,
+      "crc32": "bcdabb47",
+      "md5": "031c29c70dc451c121219816cfbbb527",
+      "sha1": "461b6400eade2eeeeb1faabb3724d8b27c84361d"
+    },
+    {
+      "name": "Mortal Kombat Advance (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AM5P",
+      "size": 8388608,
+      "crc32": "78b4b5c7",
+      "md5": "2b560846665f5afd8b55405933ded4c1",
+      "sha1": "c7e8e46a4a1f3d2067eca4c850c4b1b89bec168b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mortal%20Kombat%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mortal%20Kombat%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mortal%20Kombat%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mortal%20Kombat%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mortal%20Kombat%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mortal%20Kombat%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

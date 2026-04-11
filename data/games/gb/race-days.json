@@ -18,5 +18,65 @@
     "wikidata": "Q7278898",
     "mobygames": 40314,
     "igdb": 49009
-  }
+  },
+  "roms": [
+    {
+      "name": "Race Days (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "442420b3",
+      "md5": "4e4d51039cce43b11f51191dc7a6bcd9",
+      "sha1": "750143b2057b604123972a978a51a14a7e8621bf",
+      "sha256": "4b536434e9f7f52946d8b40a6c07e766b0d71205ba6b4c616aa72a6d226d63c8"
+    },
+    {
+      "name": "Race Days (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "b9ab5319",
+      "md5": "b65938f85944bda47e59c123537abea0",
+      "sha1": "eee5feb39af996804177f4a269d2a41f692120f9",
+      "sha256": "06e15dfa6ef075f704956c467864da425cbb09eb39c1b473535dcd76daa6a2ba"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Race%20Days%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Race%20Days%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Race%20Days%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Race%20Days%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Race%20Days%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Race%20Days%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

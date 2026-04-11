@@ -53,5 +53,65 @@
   "external_ids": {
     "wikidata": "Q5954384",
     "igdb": 15456
-  }
+  },
+  "roms": [
+    {
+      "name": "Ys Strategy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AYSJ",
+      "size": 67108864,
+      "crc32": "bc1d9eb3",
+      "md5": "c5005e81346f0d6ed643a1dc69e3206c",
+      "sha1": "14d6072f9e6887cb2de559843d2893ccb5bf1479"
+    },
+    {
+      "name": "Ys Strategy (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AYSP",
+      "size": 67108864,
+      "crc32": "e457a923",
+      "md5": "36918aa7c06cf94912227256f3079a78",
+      "sha1": "7aed47c481d5184fe5fdf112216786fccfbae071"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ys%20Strategy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ys%20Strategy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ys%20Strategy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ys%20Strategy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ys%20Strategy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ys%20Strategy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

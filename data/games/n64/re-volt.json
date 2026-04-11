@@ -72,5 +72,66 @@
     "wikidata": "Q1065861",
     "mobygames": 369,
     "igdb": 3585
-  }
+  },
+  "roms": [
+    {
+      "name": "Re-Volt (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NRVP",
+      "size": 12582912,
+      "crc32": "81d13a11",
+      "md5": "faa64abb0d222fcc0c6e2515d3805d9f",
+      "sha1": "5ed3cd3888fec080d44ffe345dd50d75e471ff8f",
+      "sha256": "ce619ae064bc608d9a139f95e6bbc9f17fe3898d242943bc92fd0d6fc74915b0"
+    },
+    {
+      "name": "Re-Volt (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NRVE",
+      "size": 12582912,
+      "crc32": "fc0c86d0",
+      "md5": "3fc4d3187435443455f8355b2d3f8934",
+      "sha1": "667fdc39112599bd904f5e7d8d692973e554bd88"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Re-Volt%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Re-Volt%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Re-Volt%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Re-Volt%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Re-Volt%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Re-Volt%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

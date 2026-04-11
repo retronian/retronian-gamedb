@@ -47,12 +47,85 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Ghostbusters II",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1990-12-26",
+  "first_release_date": "1990-10-16",
   "external_ids": {
     "wikidata": "Q8762678",
     "mobygames": 23497,
     "igdb": 317064
-  }
+  },
+  "descriptions": [
+    {
+      "text": "映画「ゴーストバスターズ2」を loosely based した「ゴーストバスターズ2」では、カルパチアのバージゴがニューヨーク市に現れます。彼はダイアナの赤ちゃんを捕らえ、ゴーストバスターズが彼を取り戻すために立ち上がります。そのために、ゴーストバスターズのアイゴン、レイ、ピーター、ウィンストンは、法廷、下水道、アパート、地下、そして美術館を通ってバージゴを追いかけなければなりません。\n\n「ゴーストバスターズ2」は、New Ghostbusters II（NESの2作目のゴーストバスターズIIライセンス）を基にしたトップビューアクションゲームですが、独自の違いがあります。プレイヤーは最初に4人のゴーストバスターズの中から2人を選びます。全員の操作は同じです。最初に選ばれたキャラクターはプレイヤーが直接操作し、プロトンパックを持っています。2人目のゴーストバスターは最初のキャラクターの後を追い、ゴーストトラップを持っています。各レベルの目的は、タイマーが切れる前に定められた数のゴーストを捕まえることです。プレイヤーは上下左右に移動します。1つのボタンを押すと、最初のゴーストバスターの前にプロトンガンを発射し、ゴーストをスタンさせます。もう1つのボタンを押すと、2人目のゴーストバスターの前にトラップを投げ、スタンさせたゴーストを捕まえます。レベルを探索している間、使用していない残りの2人のゴーストバスター（およびゴーストバスターズの会計士ルイ）が時折現れます。彼らに触れると、パワーアップ（しばしば選択したゴーストバスターと入れ替わることもあります）を得ることができ、バキュームガン、インスタントトラップ、無敵などが含まれます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ghostbusters II (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "41423376",
+      "md5": "ff8ac71f09453b667856a8539192101f",
+      "sha1": "c96b152f5351eeec19e1b020c9e0d51d582e2e8c"
+    },
+    {
+      "name": "Ghostbusters II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "69b161bc",
+      "md5": "4067f70f9def39ceb49a258540ce3d66",
+      "sha1": "0ca645c40ca8dc6102b4f3cf56f0e9ae5d1ffc03",
+      "sha256": "82ee28b2f947be0852b866bd52945ff085b64f1b975e98a89f358ea73d674714"
+    },
+    {
+      "name": "Ghostbusters II (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "5821ecd4",
+      "md5": "0841a527b116a52ad26de023b20b1a42",
+      "sha1": "1e2aa42b7e0f974f45fbca35160cda6d5964f0ad",
+      "sha256": "1d47b7e1d6654747e41bd38bf2f6064c23537e9bcea280634f263cdccc6ec5e4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ghostbusters%20II%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ghostbusters%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ghostbusters%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ghostbusters%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

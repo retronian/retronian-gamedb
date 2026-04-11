@@ -18,5 +18,65 @@
     "wikidata": "Q7487409",
     "mobygames": 18794,
     "igdb": 6591
-  }
+  },
+  "roms": [
+    {
+      "name": "Shaman King - Master of Spirits 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B2ME",
+      "size": 16777216,
+      "crc32": "201e3412",
+      "md5": "5af6a63f85fa386c7889695308dc32a4",
+      "sha1": "9ef1df2abf95d356933592292a1dbc9c128133da"
+    },
+    {
+      "name": "Shaman King - Master of Spirits 2 (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B2MP",
+      "size": 16777216,
+      "crc32": "4a74e038",
+      "md5": "971e4440cb014dc10c4c834efaef5114",
+      "sha1": "cb52ef70400c8b09b51cbb967ef022f5f6f9d757"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shaman%20King%20-%20Master%20of%20Spirits%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shaman%20King%20-%20Master%20of%20Spirits%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shaman%20King%20-%20Master%20of%20Spirits%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shaman%20King%20-%20Master%20of%20Spirits%202%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shaman%20King%20-%20Master%20of%20Spirits%202%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shaman%20King%20-%20Master%20of%20Spirits%202%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

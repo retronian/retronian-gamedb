@@ -18,5 +18,66 @@
     "wikidata": "Q4037994",
     "mobygames": 39050,
     "igdb": 210292
-  }
+  },
+  "roms": [
+    {
+      "name": "Elements of Destruction (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YEDE",
+      "size": 8388608,
+      "crc32": "436906ae",
+      "md5": "affc63e2a52ccd3c3afd214f36e58857",
+      "sha1": "d421a52cae2014cbf9fb4be1740942bc55e772bf"
+    },
+    {
+      "name": "Elements of Destruction (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YEDP",
+      "size": 8388608,
+      "crc32": "d254ae0a",
+      "md5": "efaba596a96e9870948fd80c63473ba5",
+      "sha1": "50f79799634604fd1f6763d8a88920814af62561",
+      "sha256": "00e9525788c258c33467208b2c7e16cd8e24d5071a26529be891c4c332637ac6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Elements%20of%20Destruction%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Elements%20of%20Destruction%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Elements%20of%20Destruction%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Elements%20of%20Destruction%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Elements%20of%20Destruction%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Elements%20of%20Destruction%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

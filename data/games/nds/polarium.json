@@ -62,5 +62,89 @@
     "wikidata": "Q1040331",
     "mobygames": 17402,
     "igdb": 6537
-  }
+  },
+  "roms": [
+    {
+      "name": "Chokkan Hitofude (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ASNJ",
+      "size": 8388608,
+      "crc32": "1da5ef2b",
+      "md5": "f9dc69d1f5ac3934ec685cfa9223b087",
+      "sha1": "c1943b1fcde9acf0f86dfe4e3604d1e02081f047",
+      "sha256": "50bb513552cc3a9d8d02a7e6ed55b4ff1fe0e0b81d12f207642642f1478e02af"
+    },
+    {
+      "name": "Polarium (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASNE",
+      "size": 8388608,
+      "crc32": "9b49bd53",
+      "md5": "110d7a308fde39e544d9c9e808ad3f0f",
+      "sha1": "e68f95003f531472c898b933afc47b8877e94f75",
+      "sha256": "e2e7fa55f0e684d837fcfff1b5961ac8799ad33e7cffa2fb8253e10f3bd0d276"
+    },
+    {
+      "name": "Polarium (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASNP",
+      "size": 8388608,
+      "crc32": "7e1223da",
+      "md5": "0afa43dc2ac0359e650c27e5eef38145",
+      "sha1": "d7f5d98b28a22988e4bc53031b3ee32dca6e4f86"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Chokkan%20Hitofude%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Chokkan%20Hitofude%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Chokkan%20Hitofude%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Polarium%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Polarium%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Polarium%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Polarium%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Polarium%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

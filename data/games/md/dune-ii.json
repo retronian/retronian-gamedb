@@ -65,6 +65,51 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Dune",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Dune",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Dune",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Dune",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Dune",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1992-01-01",
@@ -72,5 +117,49 @@
     "wikidata": "Q596631",
     "mobygames": 241,
     "igdb": 86
-  }
+  },
+  "roms": [
+    {
+      "name": "Dune II - The Battle for Arrakis (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70246-00",
+      "size": 1048576,
+      "crc32": "b58ae71d",
+      "md5": "a0797d35cfb48d68ebb8b977d057ba3e",
+      "sha1": "133cc86b43afe133fc9c9142b448340c17fa668e",
+      "sha256": "31979d1d9a5d6fe5c9ae95f3cfc1dd6f9f51e9e075268bb8a9f9ca57da847547"
+    },
+    {
+      "name": "Dune II - The Battle for Arrakis (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70246-50",
+      "size": 1048576,
+      "crc32": "781cb285",
+      "md5": "82fdf686fa9509a782cc5649ac0c86c2",
+      "sha1": "d02cf6e07071cf3d47e867182bf42d67b9e30a3e",
+      "sha256": "9d80396c85f84c96404c4d3b10c42aae33f3ee7274be044558e8b772ef40f7ff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Dune%20II%20-%20The%20Battle%20for%20Arrakis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dune%20II%20-%20The%20Battle%20for%20Arrakis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dune%20II%20-%20The%20Battle%20for%20Arrakis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

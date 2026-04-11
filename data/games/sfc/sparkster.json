@@ -78,5 +78,103 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Sparkster (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "f43c155c",
+      "md5": "03b64e37d5b5f8b92e8681940f2e0f75",
+      "sha1": "c498e8304034121e1266c777900757a37bd5ccfa",
+      "sha256": "21d3c8bec7251015255beab9a7e21a999918be45b6ab771b69e286c88d78418c"
+    },
+    {
+      "name": "Sparkster (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f5a2a976",
+      "md5": "c976764c97910e54ed96c3ae3c20758d",
+      "sha1": "2981b8686b3d2819f8757cd465f60e300a69f759",
+      "sha256": "09101c373a750da252896938c435b6c5066518bba266a1daf9b266595a185014"
+    },
+    {
+      "name": "Sparkster (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "40d11c94",
+      "md5": "e00ef4c1b9e17d5fa2d8367402d28a08",
+      "sha1": "0ac5326401903212c6565a7a982f60a56017c1ef",
+      "sha256": "eaa06470734ea57eff9b888137aa468fcb7bb149a0870a85e68c9db123de4670"
+    },
+    {
+      "name": "Sparkster (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "db18153f",
+      "md5": "1c334c6753689d9158840dc4b3db3e12",
+      "sha1": "7687c46421db138a0ae4a494665d95c3c7842dc9",
+      "sha256": "68c8dbb44197b373bfa4ee674f8429b41161c0d367519bd312eb9b587c366505"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sparkster%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sparkster%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sparkster%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sparkster%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sparkster%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sparkster%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sparkster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sparkster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sparkster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

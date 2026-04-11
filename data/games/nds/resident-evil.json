@@ -91,6 +91,51 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Resident Evil: Deadly Silence",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "惡靈古堡：致命寂靜",
+      "lang": "zh",
+      "script": "Hant",
+      "region": "tw",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Resident Evil: Deadly Silence",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Resident Evil: Deadly Silence",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Resident Evil: Deadly Silence",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1996-03-22",
@@ -98,5 +143,94 @@
     "wikidata": "Q1248594",
     "mobygames": 1195,
     "igdb": 20456
-  }
+  },
+  "roms": [
+    {
+      "name": "Biohazard - Deadly Silence (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ABHJ",
+      "size": 134217728,
+      "crc32": "39d177c4",
+      "md5": "907e320d93e8e5356c12fa4c6f91c592",
+      "sha1": "1b10808729d38e0f2ef10d66156a7493c3f512a6"
+    },
+    {
+      "name": "Resident Evil - Deadly Silence (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ABHE",
+      "size": 134217728,
+      "crc32": "de3e278c",
+      "md5": "3c2bed30e73d5f31e2335557256dba85",
+      "sha1": "b7dee8c12078d347ed28d85f095ab3bdd0e4d87f",
+      "sha256": "e72a5f9180592dde1973150e0fa785be07d4d5cda911999d9e1a90de52c772f3"
+    },
+    {
+      "name": "Resident Evil - Deadly Silence (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ABHP",
+      "size": 134217728,
+      "crc32": "a7db026d",
+      "md5": "272148531186c107296f45d73b9fd615",
+      "sha1": "66caac54e2832796ff5fc130311b51c58466e09f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Biohazard%20-%20Deadly%20Silence%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Biohazard%20-%20Deadly%20Silence%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Biohazard%20-%20Deadly%20Silence%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Resident%20Evil%20-%20Deadly%20Silence%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Resident%20Evil%20-%20Deadly%20Silence%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Resident%20Evil%20-%20Deadly%20Silence%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Resident%20Evil%20-%20Deadly%20Silence%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Resident%20Evil%20-%20Deadly%20Silence%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Resident%20Evil%20-%20Deadly%20Silence%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

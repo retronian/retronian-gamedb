@@ -18,5 +18,46 @@
     "wikidata": "Q5231242",
     "mobygames": 9027,
     "igdb": 6369
-  }
+  },
+  "roms": [
+    {
+      "name": "David Beckham Soccer (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "753bdce4",
+      "md5": "745821122e423c09308ab2a97d645e20",
+      "sha1": "01567d19fcbfeeae38df505ec689998936351380"
+    },
+    {
+      "name": "David Beckham Soccer (USA) (En,Es) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "c08f3254",
+      "md5": "659b233dc37821379ec77f2e066a7619",
+      "sha1": "1d8970ed5aacadd0bdb7e4d78a7eb70a2d0f9650",
+      "sha256": "1e8891fedc8a8b8c5a1ab085babc9858f258a00753421635e76a53258c804e19"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/David%20Beckham%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/David%20Beckham%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/David%20Beckham%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

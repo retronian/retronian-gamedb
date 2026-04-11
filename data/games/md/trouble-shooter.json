@@ -60,5 +60,89 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Battle Mania (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-23013-00",
+      "size": 524288,
+      "crc32": "a76c4a29",
+      "md5": "2857b7730fb7dbc5f7c1ec1a4ba1b0ee",
+      "sha1": "9886dd39cfd8fe505860fc4d0119aacec7484a4e",
+      "sha256": "246e0a8da5d00e054af3fdeca8d54ca713163f9d29bb935336199182a6fe3b51"
+    },
+    {
+      "name": "Battle Mania (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "exercise only",
+      "size": 524288,
+      "crc32": "bf0a017f",
+      "md5": "4ed295fa55e62ded8333981ccb7a31a6",
+      "sha1": "5d707ba8dbbfa8ad7a6ec20735e41b2b84941efe",
+      "sha256": "864ae3983cbe9edf83203b1c6ec9b105691c60e0c3e4fc4905c16ce3192be315"
+    },
+    {
+      "name": "Trouble Shooter (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-23016",
+      "size": 524288,
+      "crc32": "4ab3033c",
+      "md5": "a2d9f8c669a59fe39acb8e23d24e6344",
+      "sha1": "e60aef86ed80283e3f03af581931b57c5487a519",
+      "sha256": "6cd79af88e497dab213a116969ab0c7720fafe4007ee3a18c3fc9441100779bd"
+    },
+    {
+      "name": "Trouble Shooter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-23016",
+      "size": 524288,
+      "crc32": "becfc39b",
+      "md5": "f29c5049a48f37a37b811a22dc731e3c",
+      "sha1": "3fc9ffa49ece5e9cbba1f2a5ba1dfd068b86c65d",
+      "sha256": "cc4e6374eb458776a1d184901851d71ecfa26eaa89853fec65cd9a7a533a00a9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Battle%20Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Battle%20Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Battle%20Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Trouble%20Shooter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Trouble%20Shooter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Trouble%20Shooter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

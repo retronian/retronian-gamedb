@@ -63,5 +63,71 @@
     "wikidata": "Q1967293",
     "mobygames": 4857,
     "igdb": 4695
-  }
+  },
+  "roms": [
+    {
+      "name": "Twisted Metal (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 70375520,
+      "crc32": "fb6ac820",
+      "md5": "a8a552515e185d25ffd149ddea8da463",
+      "sha1": "cf4df720612f1c9e76f66bb2f8ca09c170ce089b"
+    },
+    {
+      "name": "Twisted Metal (Italy)",
+      "source": "no_intro",
+      "size": 70393904,
+      "crc32": "cb46b6a7",
+      "md5": "807c95a0d8b9edcd6629d19b3db5067e",
+      "sha1": "66821e20f626c184d2a9eaa974820259c5c9ef27"
+    },
+    {
+      "name": "Twisted Metal (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 75374416,
+      "crc32": "1e2a79be",
+      "md5": "508aaba2c7b8a3e697016f47e734bb68",
+      "sha1": "5e0bb7b8eb830ead46f11851fe5fd5a34bf45f87"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Twisted%20Metal%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Twisted%20Metal%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Twisted%20Metal%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Twisted%20Metal%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Twisted%20Metal%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Twisted%20Metal%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

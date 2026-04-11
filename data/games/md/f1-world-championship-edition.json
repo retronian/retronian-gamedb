@@ -18,5 +18,69 @@
     "wikidata": "Q2917766",
     "mobygames": 11103,
     "igdb": 12083
-  }
+  },
+  "roms": [
+    {
+      "name": "F1 - World Championship Edition (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-88146-50",
+      "size": 2097152,
+      "crc32": "74cee0a7",
+      "md5": "b274adf5abc70d75f918331bf682cdc0",
+      "sha1": "c50f66c7a220c58ae29a4610faa9ea6e39a54dfe",
+      "sha256": "e6536179dabf7e59674af52742822b4ea6335eebfd142f8d2512768a89373a83"
+    },
+    {
+      "name": "F1 - World Championship Edition (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "2269ed6b",
+      "md5": "df88ecba9c5b49002e6372cab7b27535",
+      "sha1": "6b9984e92eee0044ac245ea534ed667425747e7b",
+      "sha256": "737a97629a7a8a35d476937490c744020dcdd62326236dd142aece993af0b73f"
+    },
+    {
+      "name": "F1 - World Championship Edition (USA) (Proto 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "5a72fce8",
+      "md5": "f222015550b9b02ffe7c2fb2c6fe5d57",
+      "sha1": "7fc01cf070b6fb51af9a7e35f5106f381a682a64",
+      "sha256": "01c9bb3368e7edf412c4ab0af91833f8c202a148a6289164d42544f2f652c8a3"
+    },
+    {
+      "name": "F1 - World Championship Edition (USA) (Proto 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50016-00",
+      "size": 2097152,
+      "crc32": "2613c005",
+      "md5": "5620b7866f2db94824d8e0eebc00ffc8",
+      "sha1": "33c591081687d8e74213cfb2882ca64f496cd701",
+      "sha256": "54466dd671a8f643d9f8a38dc246ab1245d898bd9871d4718f1d9f34d9f4db71"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/F1%20-%20World%20Championship%20Edition%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/F1%20-%20World%20Championship%20Edition%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/F1%20-%20World%20Championship%20Edition%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -18,5 +18,65 @@
     "wikidata": "Q107660310",
     "mobygames": 46180,
     "igdb": 49424
-  }
+  },
+  "roms": [
+    {
+      "name": "Samurai Deeper Kyo (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AOSE",
+      "size": 8388608,
+      "crc32": "4ab65478",
+      "md5": "9d01c59abe3149ca2a9c0900571e6914",
+      "sha1": "57feaabccb511280d18c44c5f2011e45321ecd29"
+    },
+    {
+      "name": "Samurai Deeper Kyo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AOSJ",
+      "size": 8388608,
+      "crc32": "56ead477",
+      "md5": "447bd53611ad8cf526895ccb46303f03",
+      "sha1": "ae8c413efdb57ee4d4aa2bedd6c2c91cce4f711d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Samurai%20Deeper%20Kyo%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Samurai%20Deeper%20Kyo%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Samurai%20Deeper%20Kyo%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Samurai%20Deeper%20Kyo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Samurai%20Deeper%20Kyo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Samurai%20Deeper%20Kyo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

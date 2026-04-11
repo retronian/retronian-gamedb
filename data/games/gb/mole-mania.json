@@ -87,5 +87,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Moguranya (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "82fca204",
+      "md5": "4ff223851bc7e3d19acdbf8034e4829f",
+      "sha1": "16b6355019e4e0eb8871d6cb16aabb971ab1b62a",
+      "sha256": "7b85e04d1f22931bdb5bfc82ce23a71b8a5c690d3b5ed0b383bf61608f319fc5"
+    },
+    {
+      "name": "Mole Mania (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "2c36c74c",
+      "md5": "f28ade3926852a8ad2e449c274683956",
+      "sha1": "37085973519d61e17797693b23016493da56a462",
+      "sha256": "1c8b436fa73bf7f7053858c3a75f8c3995f22d7b3fdc2f232f54984f1e0d8401"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Moguranya%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Moguranya%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Moguranya%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mole%20Mania%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mole%20Mania%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mole%20Mania%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

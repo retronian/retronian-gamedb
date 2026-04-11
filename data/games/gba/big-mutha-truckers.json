@@ -36,5 +36,66 @@
     "wikidata": "Q4906062",
     "mobygames": 8964,
     "igdb": 248456
-  }
+  },
+  "roms": [
+    {
+      "name": "Big Mutha Truckers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B63E",
+      "size": 4194304,
+      "crc32": "574907f4",
+      "md5": "f1be09ac4b8d6a9e2c955cab741669ef",
+      "sha1": "6d48801835c211decd50244e38145823b0c82be5",
+      "sha256": "78a17fd1ed21f93a08e00c5de1038d16a068eba1680c137b87caf6fe98ff819b"
+    },
+    {
+      "name": "Big Mutha Truckers (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B63P",
+      "size": 4194304,
+      "crc32": "c54c02d0",
+      "md5": "34f00ecb5b316478806eeca84cf62e55",
+      "sha1": "78c81fc4e41c7d846e876411f4759a17495aec3f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Big%20Mutha%20Truckers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Big%20Mutha%20Truckers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Big%20Mutha%20Truckers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Big%20Mutha%20Truckers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Big%20Mutha%20Truckers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Big%20Mutha%20Truckers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

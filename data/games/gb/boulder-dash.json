@@ -70,5 +70,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Boulder Dash (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "644aec3e",
+      "md5": "800c1a8f99bea585490673352b5f11f4",
+      "sha1": "01cc570a16bad4c2c33b393620ec9e25f131d1f4",
+      "sha256": "3392d98b440bd9eb13a41b5ea374b83f061ba921311fd75fec16d86eb6d2e735"
+    },
+    {
+      "name": "Boulder Dash (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "b5b3f85b",
+      "md5": "7068df6f82ec8cba4cbe36cc21b86df0",
+      "sha1": "f5a4a5ccda4f559ce85567c4b68f758216aee2d4",
+      "sha256": "b5c6c612687fcf0a8a8e8c5b5d786a49a82439cbc883633051630a3734ff5361"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Boulder%20Dash%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Boulder%20Dash%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Boulder%20Dash%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

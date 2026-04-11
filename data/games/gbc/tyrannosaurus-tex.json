@@ -16,5 +16,40 @@
   "external_ids": {
     "wikidata": "Q7861437",
     "igdb": 159036
-  }
+  },
+  "roms": [
+    {
+      "name": "Tyrannosaurus Tex (World) (Piko Interactive)",
+      "source": "no_intro",
+      "size": 2097152,
+      "crc32": "77bee0c7",
+      "md5": "d794a2c5f75d6b2362aebe684935c694",
+      "sha1": "91f0bb339a31cebc2a5ff047123e11c774674ad0",
+      "sha256": "882c1e9ab1ca21d34dd67d8b9382beb8e5caac6f7a187d3ba65e5cd96db8a0fa"
+    },
+    {
+      "name": "Tyrannosaurus Tex (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "1bd4e588",
+      "md5": "4b355f96ea75826ad0e48055482badea",
+      "sha1": "e2fcc7fcc643f9d7fc61acce6c5ed1f8abc13fa0",
+      "sha256": "4bf0059da50d4f4438fe79ccc18b394e658d800eefa1cb2d0338639cbf0ce185"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Tyrannosaurus%20Tex%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Tyrannosaurus%20Tex%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

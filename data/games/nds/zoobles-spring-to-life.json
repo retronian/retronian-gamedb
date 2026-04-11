@@ -17,5 +17,54 @@
   "external_ids": {
     "wikidata": "Q8074084",
     "igdb": 9753
-  }
+  },
+  "roms": [
+    {
+      "name": "Zoobles! Spring to Life! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZ6P",
+      "size": 67108864,
+      "crc32": "50d9b30d",
+      "md5": "204ba7f09e0534a8f87466d200650ca6",
+      "sha1": "b91b92d3cca6715da23a6a398a91dfc8c3ccb480",
+      "sha256": "6ae3948a3511e981bfa737f6023690262bef72fd1c0fcb90d86ba6fd5d1b4a23"
+    },
+    {
+      "name": "Zoobles! Spring to Life! (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZ6E",
+      "size": 67108864,
+      "crc32": "e4c74235",
+      "md5": "6c374ebfbf574e164c2d4852cf058bae",
+      "sha1": "14f4701ddf0057ae9640b3f51ea9b805747beaab"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoobles%21%20Spring%20to%20Life%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoobles%21%20Spring%20to%20Life%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoobles%21%20Spring%20to%20Life%21%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoobles%21%20Spring%20to%20Life%21%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

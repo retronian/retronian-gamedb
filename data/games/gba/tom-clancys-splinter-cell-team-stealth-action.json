@@ -38,12 +38,181 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "スプリンターセル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tom Clancy's Splinter Cell",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "톰 클랜시의 스프린터 셀",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "细胞分裂",
+      "lang": "zh",
+      "script": "Hans",
+      "region": "cn",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "細胞分裂",
+      "lang": "zh",
+      "script": "Hant",
+      "region": "tw",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tom Clancy's Splinter Cell",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tom Clancy's Splinter Cell",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tom Clancy’s Splinter Cell",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tom Clancy's Splinter Cell",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "2003-01-01",
+  "first_release_date": "2002-11-17",
   "external_ids": {
     "wikidata": "Q3992453",
     "mobygames": 12746,
     "igdb": 134350
-  }
+  },
+  "roms": [
+    {
+      "name": "Tom Clancy's Splinter Cell (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AO4E",
+      "size": 8388608,
+      "crc32": "308ba69c",
+      "md5": "a980189cfb6200a8a092eca53c85af80",
+      "sha1": "dbd089cbdd79c26b2f0b651f74df59b6cbfafbcb"
+    },
+    {
+      "name": "Tom Clancy's Splinter Cell (Europe) (En,Fr,De,Es,It,Nl) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A3BP",
+      "size": 16777216,
+      "crc32": "e07ba799",
+      "md5": "8c130964502931ba6c3d14e1f719a986",
+      "sha1": "3a55f6ed66a3ec7c019221fa2660e2f85954ebae"
+    },
+    {
+      "name": "Tom Clancy's Splinter Cell (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AO4P",
+      "size": 8388608,
+      "crc32": "7ecd29ce",
+      "md5": "ab7b66435bcecb60a786fd62a532e4ab",
+      "sha1": "d623cbd1019665eee78846a2a60d17adaf8ec0fe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tom%20Clancy%27s%20Splinter%20Cell%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tom%20Clancy%27s%20Splinter%20Cell%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tom%20Clancy%27s%20Splinter%20Cell%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tom%20Clancy%27s%20Splinter%20Cell%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tom%20Clancy%27s%20Splinter%20Cell%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tom%20Clancy%27s%20Splinter%20Cell%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tom%20Clancy%27s%20Splinter%20Cell%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tom%20Clancy%27s%20Splinter%20Cell%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tom%20Clancy%27s%20Splinter%20Cell%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

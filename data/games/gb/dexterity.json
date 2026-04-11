@@ -54,5 +54,47 @@
     "wikidata": "Q5268471",
     "mobygames": 54354,
     "igdb": 91263
-  }
+  },
+  "roms": [
+    {
+      "name": "Dexterity (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "659e2283",
+      "md5": "a58f2b1a317cfb1d60b59f3875f6a9c2",
+      "sha1": "85f0a9ff87ece93097a855d238bc6c7014893c08",
+      "sha256": "37dce5c1ea97691d82e93b508db25704d5ca313f3297ec95a8600d18322b48d2"
+    },
+    {
+      "name": "Dexterity (USA, Europe) (Beta) (1990-03-30)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "c9e34ca0",
+      "md5": "5c3a589a29530df94a09d96d463f6a79",
+      "sha1": "4f0ded0dcd67c2ae8f44482ffc1d469618451e7a",
+      "sha256": "c2216be5a0d5f914ed80c4ab3da4b694830f04dc33849ddccd743e7b2c852ba6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dexterity%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dexterity%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dexterity%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

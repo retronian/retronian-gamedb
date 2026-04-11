@@ -73,6 +73,24 @@
       "form": "official",
       "source": "romu",
       "verified": true
+    },
+    {
+      "text": "Ranma 1-2 - Chougi Ranbu Hen",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "らんま½ Ranma Nibunnoichi 超技乱舞篇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1994-04-28",
@@ -80,5 +98,44 @@
     "wikidata": "Q3930133",
     "mobygames": 30980,
     "igdb": 42739
-  }
+  },
+  "descriptions": [
+    {
+      "text": "2Dの1対1の対戦型格闘ゲーム「らんま½ Ranma Nibunnoichi 超技乱舞篇」は、男性武道家が水をかぶることで女性の姿に変身する呪いを受けた冒険を描いた「らんま½」マンガシリーズに基づいています。\n\n「らんま½ : 超技乱舞篇」では、シリーズから12人のキャラクター（男らんまと女らんまを含む）が対戦し、2ラウンド先取の試合で相手を倒すことを目指します。勝者には、願いをかなえてくれる魔法の招き猫が授けられます。\n\nゲームプレイは、2Dのスクロールアリーナでキャラクターを操作し、基本攻撃や必殺技を使って相手を倒すことを目指します。相手の攻撃を避けながら戦うことが重要です。また、キャラクターを「スーパー」モードまでチャージすることができ、これにより追加ダメージを与える必殺技を発動できますが、基本攻撃を行うとスーパー・モードは解除されます。\n\nシングルプレイヤーと対戦モードに加え、2人のプレイヤーがペアのキャラクターを選び、戦闘中に交代することで戦略的な利点を得られるタッグチーム対戦モードも搭載されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ranma 1-2 - Chougi Ranbu Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2621440,
+      "crc32": "0c552b1f",
+      "md5": "8c7dfc3dc5d13b145fc116dbcb84521b",
+      "sha1": "3754284f915c5e7281e1412b932b7ba876f05348",
+      "sha256": "4196951cb9d00f91d61635846132c936a7caf327144f2dff09b1b9e8669275cd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ranma%201-2%20-%20Chougi%20Ranbu%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ranma%201-2%20-%20Chougi%20Ranbu%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ranma%201-2%20-%20Chougi%20Ranbu%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

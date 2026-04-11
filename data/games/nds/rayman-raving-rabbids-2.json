@@ -54,5 +54,65 @@
     "wikidata": "Q1373328",
     "mobygames": 34406,
     "igdb": 193364
-  }
+  },
+  "roms": [
+    {
+      "name": "Rayman - Raving Rabbids 2 (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YRRP",
+      "size": 33554432,
+      "crc32": "b4b41bd8",
+      "md5": "c092b1b0efde9118533d0ae70fae8bfa",
+      "sha1": "0d39847ba64e656d158c383cfd404a32f90ea177"
+    },
+    {
+      "name": "Rayman - Raving Rabbids 2 (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YRRE",
+      "size": 33554432,
+      "crc32": "d6bc2d0f",
+      "md5": "526214080e2525143e513c6410e8387a",
+      "sha1": "f23b13644f8acef712b773419a99ab5f6507d1e1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rayman%20-%20Raving%20Rabbids%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rayman%20-%20Raving%20Rabbids%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rayman%20-%20Raving%20Rabbids%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rayman%20-%20Raving%20Rabbids%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rayman%20-%20Raving%20Rabbids%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rayman%20-%20Raving%20Rabbids%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

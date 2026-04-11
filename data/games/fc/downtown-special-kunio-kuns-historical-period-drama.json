@@ -87,5 +87,47 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1991-07-26"
+  "first_release_date": "1991-07-26",
+  "roms": [
+    {
+      "name": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "a74b96b9",
+      "md5": "244ea67ed19e870081491ebb00aa4d03",
+      "sha1": "1969d1ade58dae232d3778f2be048ea7a06924d4",
+      "sha256": "350ea6727980842ca98afcb2dfc0cb19dc435e276c035cee1e2d20caf5e89456"
+    },
+    {
+      "name": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) (Pirate)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "5ea778c1",
+      "md5": "fc9e6bdbac8b55a8506ae812b77c99b1",
+      "sha1": "b64d8862135a4af5f17f4d58f9b7f4bdb16e68fd",
+      "sha256": "9adf4f1ffeba757ab4f2290eaaf55f70d075f3e38a7124163c4a745fbc89c1ca"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Downtown%20Special%20-%20Kunio-kun%20no%20Jidaigeki%20Da%20yo%20Zenin%20Shuugou%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Downtown%20Special%20-%20Kunio-kun%20no%20Jidaigeki%20Da%20yo%20Zenin%20Shuugou%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Downtown%20Special%20-%20Kunio-kun%20no%20Jidaigeki%20Da%20yo%20Zenin%20Shuugou%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

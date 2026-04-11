@@ -18,5 +18,87 @@
     "wikidata": "Q54826214",
     "mobygames": 69043,
     "igdb": 142712
-  }
+  },
+  "roms": [
+    {
+      "name": "Prince of Persia - The Forgotten Sands (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VPPV",
+      "size": 33554432,
+      "crc32": "784131d7",
+      "md5": "6c09c569aa5eecb02c306846de974bef",
+      "sha1": "c52ede0dfc4ed61e9b69049d61405b965319dfaa"
+    },
+    {
+      "name": "Prince of Persia - The Forgotten Sands (USA) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VPPE",
+      "size": 33554432,
+      "crc32": "922ead91",
+      "md5": "169a7df0962addf7cd93763dcaec0629",
+      "sha1": "0c84c65ee6b3faa4ebc875fee2a3f8b81d38f236"
+    },
+    {
+      "name": "Prince of Persia - The Forgotten Sands (USA) (En,Fr,De,Es,It,Nl) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VPPE",
+      "size": 33554432,
+      "crc32": "2c318a98",
+      "md5": "0c9dc1fc0aceb27de41d4dc9306703cf",
+      "sha1": "aff44287462dc40d071af6edd66cc3897295d3c2",
+      "sha256": "361434023f9c8aeb11c4d76c4c8d6d822edf743a13375b785b5d0305b73877cf"
+    },
+    {
+      "name": "Prince of Persia - The Forgotten Sands (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VPPE",
+      "size": 67108864,
+      "crc32": "94f82cb1",
+      "md5": "99ad4ab33fd157e043d5a5dd46005fd8",
+      "sha1": "425d2b2c12ae7532a04deea6d7682c62e1dea426",
+      "sha256": "5896a06c10da3e70c9237e8f58ce4164c7f22e930b51391fdebcbfbd3179dbb1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Prince%20of%20Persia%20-%20The%20Forgotten%20Sands%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Prince%20of%20Persia%20-%20The%20Forgotten%20Sands%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Prince%20of%20Persia%20-%20The%20Forgotten%20Sands%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Prince%20of%20Persia%20-%20The%20Forgotten%20Sands%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Prince%20of%20Persia%20-%20The%20Forgotten%20Sands%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Prince%20of%20Persia%20-%20The%20Forgotten%20Sands%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -27,5 +27,47 @@
     "wikidata": "Q7642162",
     "mobygames": 50309,
     "igdb": 42430
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Bases Loaded (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "6b971f1e",
+      "md5": "343f36af33fcb8e3264bb980374a5039",
+      "sha1": "2b2523ad38d3597902d4600a7a7752319faee8a9",
+      "sha256": "a8239355631d303ecebfd43fc14e80f148e4ac9937234e29cc87d6f939b033a0"
+    },
+    {
+      "name": "Super Bases Loaded (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "c33751cc",
+      "md5": "557040d35b623ad4ded9f7a91ae6ad9c",
+      "sha1": "db69401e80a58024c1006365755bbaa3dfaeb423",
+      "sha256": "c626f51074303854726e1e579e02e9132308778a86b028096fa658bfed57362d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Bases%20Loaded%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Bases%20Loaded%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Bases%20Loaded%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

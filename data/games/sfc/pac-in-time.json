@@ -61,5 +61,73 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Pac-In-Time (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "348be5ca",
+      "md5": "78fa69ff44ee2f6aaf0808057ecf5b40",
+      "sha1": "7cc73d8a4778ae83787603e1c26c0acba2bc3393",
+      "sha256": "089d3a776db7c549f943fdf121f24667ab4eed2934dedabd9f07fa23322861a7"
+    },
+    {
+      "name": "Pac-In-Time (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "98af5de4",
+      "md5": "ca3aad5e1e9fbd8ff2c477bd01e188e2",
+      "sha1": "95e54e912e6a9fb5220efd258432a525dffab5f3",
+      "sha256": "d1418730e327a515b24fb207990be9d00a2367978d62c248cd7aa1fb19d85a00"
+    },
+    {
+      "name": "Pac-In-Time (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "bb6b3b1f",
+      "md5": "60455599fb4c31c28033d786bad106c1",
+      "sha1": "2c7c5de3352dd4c6221ceb19d146e8ce025ce691",
+      "sha256": "b075ce5f4200d5c0800e43155e42cfc1a650d72d274485acd24a28ed7dbf2ef8"
+    },
+    {
+      "name": "Pac-In-Time (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "44375368",
+      "md5": "1269eeade22c26680798ed6a4262d73c",
+      "sha1": "ed8cea2dcf6742cdb7c22c6440c74768d7040b3c",
+      "sha256": "7fe4cb9c294d66589ff78e225774471ecb7db80df25f2b6199ca25671358072b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pac-In-Time%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pac-In-Time%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pac-In-Time%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pac-In-Time%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

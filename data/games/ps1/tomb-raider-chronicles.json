@@ -107,5 +107,52 @@
     "wikidata": "Q642359",
     "mobygames": 2969,
     "igdb": 1160
-  }
+  },
+  "roms": [
+    {
+      "name": "Tomb Raider Chronicles (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 434149632,
+      "crc32": "b21036e7",
+      "md5": "cc4a08c449f750cfcd6abb0a290baeb9",
+      "sha1": "6fb047c31177b0b2e087a52fb9525c735b7a8c39"
+    },
+    {
+      "name": "Tomb Raider Chronicles (Germany) (588AC44F)",
+      "source": "no_intro",
+      "size": 434142896,
+      "crc32": "588ac44f",
+      "md5": "b2372b098b94714ccf2edc34d16ceb89",
+      "sha1": "86c69a4dbb2a69d61449681956b23ec7b9ec171a"
+    },
+    {
+      "name": "Tomb Raider Chronicles (Germany) (FE050B35)",
+      "source": "no_intro",
+      "size": 434142896,
+      "crc32": "fe050b35",
+      "md5": "08676bfa05c3d7800fab54769f77709e",
+      "sha1": "22ad70177edb069420d1b1199ccef016765994d4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Tomb%20Raider%20Chronicles%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Tomb%20Raider%20Chronicles%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Tomb%20Raider%20Chronicles%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

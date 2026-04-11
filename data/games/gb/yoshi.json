@@ -96,5 +96,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mario & Yoshi (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "4627d88b",
+      "md5": "5cff00db388d27727a1c9fb4c303f40b",
+      "sha1": "9bf642eabdb51625d1ef1ac470666ec8f5f10f77",
+      "sha256": "062c243e167e819bcbea29c63158d1c616d185fd400ce94cbbef6f35cfd990b4"
+    },
+    {
+      "name": "Yoshi (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "f2f4bcca",
+      "md5": "a8804c8514619cc918960c2008ed65d1",
+      "sha1": "1b6e41c2270ce67e6fe15cc4977ef2debdd6e6ce",
+      "sha256": "a41d3ab34e91fccdf6b4e3a203dbf606d1097b702039fdf2f252cb18c4c9f925"
+    },
+    {
+      "name": "Yoshi no Tamago (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "9b6fcc76",
+      "md5": "0ccb1e6beb86d79a7a5dad81eb6c73a9",
+      "sha1": "5cb61dee0eb3f9d35775a607803d06c8cebcb842",
+      "sha256": "970096b7ae14bed8de483f02a1c5ac6ff9259503853c17405eb04bba43687253"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Yoshi%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Yoshi%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Yoshi%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Yoshi%20no%20Tamago%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Yoshi%20no%20Tamago%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Yoshi%20no%20Tamago%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

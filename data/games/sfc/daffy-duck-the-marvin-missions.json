@@ -54,5 +54,75 @@
     "wikidata": "Q1276884",
     "mobygames": 12676,
     "igdb": 8132
-  }
+  },
+  "roms": [
+    {
+      "name": "Daffy Duck - The Marvin Missions (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "f8dee029",
+      "md5": "9e69c8ea3d82c7120099f5252ccc72ca",
+      "sha1": "2a946e8ce8fa20cd54fea874110c39f30671f7a9",
+      "sha256": "a9ababea552f9d7f756e99bfc0f7f88b30898297c762d35d603837475e713f86"
+    },
+    {
+      "name": "Daffy Duck - The Marvin Missions (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "5f02a044",
+      "md5": "b4939c92787efefd6b48aede08973d84",
+      "sha1": "ee4c327f98e50ea7fbf94c79c8844909ae088289",
+      "sha256": "4068add412571bd85adac32dff9835e4a4886077d752adb104fee3908e42b7ef"
+    },
+    {
+      "name": "Daffy Duck - The Marvin Missions (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "03b99d17",
+      "md5": "5b070a6189f3370c38187942530802c9",
+      "sha1": "2413025fe195bb1f3de51c62a8a9b04e49865bce",
+      "sha256": "a9a034df4c0ed42a28f0365b02363149a023832fc64a6f045bccd6b2654857b3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Daffy%20Duck%20-%20The%20Marvin%20Missions%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Daffy%20Duck%20-%20The%20Marvin%20Missions%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Daffy%20Duck%20-%20The%20Marvin%20Missions%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Daffy%20Duck%20-%20The%20Marvin%20Missions%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Daffy%20Duck%20-%20The%20Marvin%20Missions%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Daffy%20Duck%20-%20The%20Marvin%20Missions%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

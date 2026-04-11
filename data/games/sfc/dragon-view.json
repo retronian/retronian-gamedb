@@ -54,5 +54,66 @@
     "wikidata": "Q5305302",
     "mobygames": 12798,
     "igdb": 42635
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon View (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "ab893412",
+      "md5": "0ddd927709d83149122e5ae1d9a1aa1a",
+      "sha1": "b6c1bf197ac5b85b6a691f5942783e6bfccfeb48",
+      "sha256": "a3b1cae3fe55fe52c035ab122e7f850640b0935524496d45b1915ca3c8a934f4"
+    },
+    {
+      "name": "Dragon View (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "dfd01aab",
+      "md5": "31b4a520f22b3b0ef6aa6d08643d7b12",
+      "sha1": "26625a6e54b02591f0d468c24964ba6b286c427a",
+      "sha256": "ef2f185ca9e9c90dec0a8b173c6f7ac1e42d7b43a6cb89b46fed3f5eead82e2f"
+    },
+    {
+      "name": "Dragon View (USA) (Limited Run Games)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "30815962",
+      "md5": "2777da6ef530c25134dca7cd872c9df3",
+      "sha1": "16081880378b7cf1c151b10ff186c56f40618d23",
+      "sha256": "2fa44c3de3b7f9137cd892457930f20a00d7407d2dd7202f83e2818b5e116891"
+    },
+    {
+      "name": "Dragon View (World) (Evercade)",
+      "source": "no_intro",
+      "size": 2621440,
+      "crc32": "37a3f5d2",
+      "md5": "d84a416783c094a5985c5163519718a5",
+      "sha1": "652f25ee1eaf654958755aa74ed91c459377f161",
+      "sha256": "6af352d0e2624b06669a296f25cfa73f5e3cb2d55dfda255dd0595c5f7afdb61"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20View%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20View%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20View%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

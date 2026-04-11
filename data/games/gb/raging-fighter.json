@@ -60,5 +60,81 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Outburst (Japan) (Demo)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "9837ffac",
+      "md5": "745540af345d67cbb5ed750521d69227",
+      "sha1": "4a45cc555b486f5dafa4e844a7b6afceb709a1b9",
+      "sha256": "4109675172a3bef5c4933e6de5fa0e889e937da47a59b0a6d6a7ee6b79ecd95a"
+    },
+    {
+      "name": "Outburst (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "8afcc4b0",
+      "md5": "9da5066fed7d826101a92688aa03059a",
+      "sha1": "2d5a27b675a1f3c0be43e6f662f0159a3b3bf92b",
+      "sha256": "afcbc8cca4ca238149dcea7246ed3af8cede1bdc5320ca3651f09fddb88a34a7"
+    },
+    {
+      "name": "Raging Fighter (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "1ef3bedb",
+      "md5": "1752014c81020e4dbce44c47c301daf9",
+      "sha1": "3e9ae5693208b8c377792c0fb67d682c6158b14d",
+      "sha256": "9e30f9c36cfa1bc1fd6f111fa38a43f3c5907c26d81a65309279eec54a3d05d6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Outburst%20%28Japan%29%20%28Demo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Outburst%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Outburst%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Outburst%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Raging%20Fighter%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Raging%20Fighter%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Raging%20Fighter%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

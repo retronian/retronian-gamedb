@@ -18,5 +18,103 @@
     "wikidata": "Q1845090",
     "mobygames": 9673,
     "igdb": 3483
-  }
+  },
+  "roms": [
+    {
+      "name": "ECW Hardcore Revolution (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NWIP",
+      "size": 33554432,
+      "crc32": "be8feead",
+      "md5": "1830ede2557e8685e6f76d05cc65076a",
+      "sha1": "226cad0c48e9e0d1dc928298518ca8b2d6eae5ed",
+      "sha256": "4902bdb739cea1eb5722a120bf046776eb2bb11bbd9a455f181555f9ea528e48"
+    },
+    {
+      "name": "ECW Hardcore Revolution (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NWIE",
+      "size": 33554432,
+      "crc32": "36d368ef",
+      "md5": "8eebb16b7a4d39ae8bc8cccbc41f0a01",
+      "sha1": "d460dc1eb24ef3e1e27c6b125c8c8d8324a64125",
+      "sha256": "c12c0f6579d9e49762658c73a58bf5b9a82fab154e29952039b7f8d231869d13"
+    },
+    {
+      "name": "ECW Hardcore Revolution (Germany)",
+      "source": "no_intro",
+      "serial": "NWID",
+      "size": 33554432,
+      "crc32": "e9cf3d9f",
+      "md5": "5d1e41aa28169e71b4919fa08f1acd9b",
+      "sha1": "cdabb42be0755d186ad6cae6427fb7c0a12b2e7b",
+      "sha256": "7da42aca9cd1daa7310aab8221085de14779d6d38fefe3dd2b0e09e2f37bb852"
+    },
+    {
+      "name": "ECW Hardcore Revolution (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 134217728,
+      "crc32": "0a239818",
+      "md5": "bc8c8ebe227a75e23fdc339d06aade19",
+      "sha1": "cf4130295df9a7360339a477f1f670d755c45059",
+      "sha256": "245a8859d079dd5425cc3847186e9fb8ee5d0a3a18ecd388749c74d77c839950"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/ECW%20Hardcore%20Revolution%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/ECW%20Hardcore%20Revolution%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/ECW%20Hardcore%20Revolution%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/ECW%20Hardcore%20Revolution%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/ECW%20Hardcore%20Revolution%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/ECW%20Hardcore%20Revolution%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/ECW%20Hardcore%20Revolution%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/ECW%20Hardcore%20Revolution%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/ECW%20Hardcore%20Revolution%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

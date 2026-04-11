@@ -32,5 +32,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Major Title (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "3075cb04",
+      "md5": "1de4a2641dccd601c75edd2858db9d2e",
+      "sha1": "fe75b3082464a90a8fcc9eb0e224d1045b9e4314",
+      "sha256": "cd86d76384f8ebc47ff7cdd5e056835d3e848c2af1d5d4e8eb171d6719ac6f6f"
+    },
+    {
+      "name": "Major Title (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "0e98f71d",
+      "md5": "6634a5aef26affbe074cfac81dbd82c7",
+      "sha1": "2b4a6fe13ad464be863e50c93e9da75ab93ba1ee",
+      "sha256": "a085db2176de7bf853638e645ae1a63155df9bcde98c774284be9e61ff9bfeea"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Major%20Title%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Major%20Title%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Major%20Title%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

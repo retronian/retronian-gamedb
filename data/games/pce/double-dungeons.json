@@ -43,5 +43,121 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Double Dungeons (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "4a1a8c60",
+      "md5": "5ba010cd617c6f2b0f6e926fd4ef8a42",
+      "sha1": "4e81f6cfa47ed941922492889be432041ff99e25",
+      "sha256": "39fde08a056ccc10d9fdf3cd4ef79561ba21c35bc71e8a7ffe24a402df4d464f"
+    },
+    {
+      "name": "Double Dungeons (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "86087b39",
+      "md5": "990b1d0ae114c8da37ce0fe932c26cff",
+      "sha1": "a5a032283f24a4e487715ffb36b3fc4615656b37",
+      "sha256": "ac4c1d7df27943cb4dd0c5111332d8bb453ad21efff0ba4e1def2e6fc5a40e87"
+    },
+    {
+      "name": "Double Dungeons (USA, Europe) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "d189b4ad",
+      "md5": "2b7a15ec3c5a5318cf76d9b162146501",
+      "sha1": "b33f24c74104c8f138e989cd6bd75d2fa389aa34",
+      "sha256": "920015fc076500cb9e0071bdfce661cf18a9f2d3ddad16ee3a764a9803ae8cba"
+    },
+    {
+      "name": "Double Dungeons (Japan) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "d7bf80cc",
+      "md5": "ff3b3e3d3fb91283264735042309983a",
+      "sha1": "c9644c2d30641baa38b4f38f2ca5cbc5b676a030",
+      "sha256": "b86960411d661e48c9c74995a3c4c22ffac9ea37a67c304230a877fe928765d7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Double%20Dungeons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Double%20Dungeons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Double%20Dungeons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Double%20Dungeons%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Double%20Dungeons%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Double%20Dungeons%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Double%20Dungeons%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Double%20Dungeons%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Double%20Dungeons%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Double%20Dungeons%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Double%20Dungeons%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Double%20Dungeons%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

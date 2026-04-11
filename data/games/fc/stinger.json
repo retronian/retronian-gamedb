@@ -96,5 +96,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Stinger (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "617ebd43",
+      "md5": "ad9b8b8c5bac5ccf124fe52628c6543f",
+      "sha1": "6358a6f38cf6b63adc077037b5c62f24e818ec93",
+      "sha256": "0cb8c7d8e98a3ecad734008d2922f33542c3ceafcd08be217e696d16602b6b4b"
+    },
+    {
+      "name": "Stinger (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "2326c674",
+      "md5": "570483d51c208c0ee02b4ca6f0b813dd",
+      "sha1": "f63d7dd5ce8f080010b5fb6d035ad3b541e519c7",
+      "sha256": "bdcfce71522352fa0c60e0eb18de9833a6f878b02d1afd615eaa9ed19685e311"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Stinger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Stinger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Stinger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Stinger%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Stinger%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Stinger%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

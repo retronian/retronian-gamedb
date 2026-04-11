@@ -90,5 +90,80 @@
     "wikidata": "Q1043534",
     "mobygames": 8402,
     "igdb": 84558
-  }
+  },
+  "roms": [
+    {
+      "name": "Galaga (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 40976,
+      "crc32": "5c625c71",
+      "md5": "da6bcc0e9d29095165e78eb6666c98f1",
+      "sha1": "981241a3cef093647bd49cf3167295f2176795ce",
+      "sha256": "26ec9cf545d5c349c29f25285aed666ede719962a2649f4eeed58eb0b312e25c"
+    },
+    {
+      "name": "Galaga (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "2ed7cd88",
+      "md5": "c3b2a6d269f2ff9d014cc976f0336e07",
+      "sha1": "3345115b8bd5b8bb28a29d535bba0d7bd90613d9",
+      "sha256": "dd30ce6363341ace6ccff4efc260dfb6ada05ece3d96328fbec47149a97f40bb"
+    },
+    {
+      "name": "Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "c2fcbf77",
+      "md5": "e126e3a1c87c04800b7e7e037084f6a0",
+      "sha1": "e3a42338f889c0c261adb6513519351ce3a5720d",
+      "sha256": "bdc4f5e8fcb25bff4e62e38a5f64abb9c9dd387308c108aa095e466a8de4eeaf"
+    },
+    {
+      "name": "Galaga (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "87ce29f5",
+      "md5": "3bb9f5c4da5608af009ea512a1e08423",
+      "sha1": "b77b17a9e2bc70de032d5442e439c2d5c04264c2",
+      "sha256": "32ae309d7f287a1d8cc4d32e5be30edaa1820c83c9ca2c899de06c9c6f47c9e3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Galaga%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Galaga%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Galaga%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Galaga%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Galaga%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Galaga%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

@@ -87,5 +87,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Kirby no Pinball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "8b44fb7d",
+      "md5": "c2de4b0c726b579012fef2be578b1920",
+      "sha1": "678ca586f5a2e2fc894fb8e9f7b9efa54fabba44",
+      "sha256": "c1e284407d17a4f73fe11d86d953592152550425547bc82fc804087e406d46ce"
+    },
+    {
+      "name": "Kirby's Pinball Land (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "31cb6526",
+      "md5": "f711ed10307d4ea27223fe965595b123",
+      "sha1": "06efdb138ff56cd9522dece44adadd3fae169c76",
+      "sha256": "43bbc3111fe66b5d87940da810a1a0839ab7d48b50c327807538026241b40295"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kirby%20no%20Pinball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kirby%20no%20Pinball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kirby%20no%20Pinball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kirby%27s%20Pinball%20Land%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kirby%27s%20Pinball%20Land%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kirby%27s%20Pinball%20Land%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

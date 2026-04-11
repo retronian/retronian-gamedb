@@ -18,5 +18,63 @@
     "wikidata": "Q3284542",
     "mobygames": 7894,
     "igdb": 8057
-  }
+  },
+  "roms": [
+    {
+      "name": "Tiny Toon Adventures - Buster Saves the Day (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "7aa371ed",
+      "md5": "8187bb1e84f676f110bdf2166b4498d2",
+      "sha1": "3a30dc722739fbaa9924c855c83be311befc8ff2"
+    },
+    {
+      "name": "Tiny Toon Adventures - Buster Saves the Day (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "800efb3d",
+      "md5": "5a93ecb5781a3338c99e35bd06cc6127",
+      "sha1": "a3953e9ade5367558f7d430d2dfb83d06c361170"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Tiny%20Toon%20Adventures%20-%20Buster%20Saves%20the%20Day%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Tiny%20Toon%20Adventures%20-%20Buster%20Saves%20the%20Day%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Tiny%20Toon%20Adventures%20-%20Buster%20Saves%20the%20Day%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Tiny%20Toon%20Adventures%20-%20Buster%20Saves%20the%20Day%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Tiny%20Toon%20Adventures%20-%20Buster%20Saves%20the%20Day%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Tiny%20Toon%20Adventures%20-%20Buster%20Saves%20the%20Day%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

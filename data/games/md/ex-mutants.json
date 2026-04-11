@@ -18,5 +18,48 @@
     "wikidata": "Q3061720",
     "mobygames": 6983,
     "igdb": 36738
-  }
+  },
+  "roms": [
+    {
+      "name": "Ex-Mutants (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1074-00",
+      "size": 1048576,
+      "crc32": "33b1979f",
+      "md5": "699fdbc714dd0f1c65b91505b6e3c1d4",
+      "sha1": "20b282ff8220291d98853888cfe504692c04e654",
+      "sha256": "7826a95a96109ce57594508a83a5b7c4c265827ffd09ded876610b8dcc9e0936"
+    },
+    {
+      "name": "Ex-Mutants (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "6efba291",
+      "md5": "9a743ef04f84479d17e11f85032d318a",
+      "sha1": "a2d0bfa400c42ad52a60d874de6f00a21d654a73",
+      "sha256": "4e68e4aa4796c01d6c4ecf02441bf3af1c619b25bca11ece26827e17ed36aaa9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ex-Mutants%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ex-Mutants%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ex-Mutants%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -70,5 +70,78 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Side Pocket (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1218-00",
+      "size": 1048576,
+      "crc32": "36e08145",
+      "md5": "49c78f9e16ea62931ecb770a32b393dd",
+      "sha1": "a19cd561397dfda55942cf4f9771b0e815f95f65",
+      "sha256": "d553b40704affd1f3c0c94a4c75a52dc36f3236860736d3ea19ff5b385dcdbae"
+    },
+    {
+      "name": "Side Pocket (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-13083-00",
+      "size": 1048576,
+      "crc32": "336bbf3e",
+      "md5": "213899f86e17e95f41498c0b54d702b0",
+      "sha1": "161c1f67b712d8f4f82115877072486832b913fb",
+      "sha256": "65a96ae56a1c0fb49438e3f4b4fae086983e98bb9136d99998f38a57c6d87a52"
+    },
+    {
+      "name": "Side Pocket (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-13083-00",
+      "size": 1048576,
+      "crc32": "af9f275d",
+      "md5": "469e1360eb70879b1039a686be9dfc3a",
+      "sha1": "2b30982d04628edc620d8d99f7dceb4ed87b41e3",
+      "sha256": "3fae752581f976c1a4cdb01b22afb2591d3638544fae1cd43a2a15eb014efe20"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Side%20Pocket%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Side%20Pocket%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Side%20Pocket%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Side%20Pocket%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Side%20Pocket%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Side%20Pocket%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

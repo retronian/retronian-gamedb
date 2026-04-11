@@ -44,5 +44,44 @@
   "external_ids": {
     "wikidata": "Q11336755",
     "igdb": 62915
-  }
+  },
+  "roms": [
+    {
+      "name": "Bealphareth (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 402848656,
+      "crc32": "fd08fb2f",
+      "md5": "cbf788a86f4987c9f21b16e3b6cbc92b",
+      "sha1": "d7f2e873b4d96e3e47cbbe5a31dc72666cff2798"
+    },
+    {
+      "name": "Bealphareth (Asia)",
+      "source": "no_intro",
+      "size": 402782272,
+      "crc32": "726342b1",
+      "md5": "f75ff2d4499c2e4e896db8d165dcdb6b",
+      "sha1": "5c1af5bed7476cc0867d1693055595360b185a30"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Bealphareth%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Bealphareth%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Bealphareth%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

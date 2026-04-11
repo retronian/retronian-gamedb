@@ -44,5 +44,66 @@
   "external_ids": {
     "wikidata": "Q3093039",
     "mobygames": 9178
-  }
+  },
+  "roms": [
+    {
+      "name": "G.A.S.P!! Fighters' NEXTream (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NGAP",
+      "size": 12582912,
+      "crc32": "5aa63b04",
+      "md5": "316c59dae45c20250a0419a937e7d65b",
+      "sha1": "b069f2c0b6ab4fbd486861c4d3aaf8a149ab4529",
+      "sha256": "dcb4b7c2c53b1505e12db2136af1dea4877ba1be446d4524c2bca18dbe65acd3"
+    },
+    {
+      "name": "G.A.S.P!! Fighters' NEXTream (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NGAJ",
+      "size": 12582912,
+      "crc32": "6ead2d89",
+      "md5": "6c73558de5a1eee6597d7264f9a11b0c",
+      "sha1": "86693e6c1623708438ebf23ab0e78dd6ea8c8fa7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/G.A.S.P%21%21%20Fighters%27%20NEXTream%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/G.A.S.P%21%21%20Fighters%27%20NEXTream%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/G.A.S.P%21%21%20Fighters%27%20NEXTream%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/G.A.S.P%21%21%20Fighters%27%20NEXTream%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/G.A.S.P%21%21%20Fighters%27%20NEXTream%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/G.A.S.P%21%21%20Fighters%27%20NEXTream%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

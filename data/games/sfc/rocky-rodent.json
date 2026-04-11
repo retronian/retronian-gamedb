@@ -45,5 +45,65 @@
     "wikidata": "Q7356001",
     "mobygames": 28802,
     "igdb": 42648
-  }
+  },
+  "roms": [
+    {
+      "name": "Rocky Rodent (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "c7a0f949",
+      "md5": "4fc3ac94832298676754687e07450558",
+      "sha1": "a021a30fee0d2e750b5ef4ff3a304c20bb70583d",
+      "sha256": "f6f3aea282331a70c260d9b28e4788958626564023d0f78f0c9db992d84736b5"
+    },
+    {
+      "name": "Rocky Rodent (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "c81a7b07",
+      "md5": "bb457a174348e3e0d6a05026c1c57f22",
+      "sha1": "07baf0370f1d5b2457e6afff2c256eadc142ab96",
+      "sha256": "7c0f915b581796e5b6dd384ecdc0dad8af4d956492fbcedec628c8845d911d7e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Rocky%20Rodent%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Rocky%20Rodent%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Rocky%20Rodent%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Rocky%20Rodent%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Rocky%20Rodent%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Rocky%20Rodent%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

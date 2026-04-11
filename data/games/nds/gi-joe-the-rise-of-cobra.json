@@ -45,5 +45,65 @@
     "wikidata": "Q288884",
     "mobygames": 41959,
     "igdb": 200914
-  }
+  },
+  "roms": [
+    {
+      "name": "G.I. Joe - The Rise of Cobra (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CJPE",
+      "size": 67108864,
+      "crc32": "30756359",
+      "md5": "0c793c8fe45a2fc5a79aeb4e12f122bb",
+      "sha1": "5a11a3971acc13346e0b9a163234bb3db599205e"
+    },
+    {
+      "name": "G.I. Joe - The Rise of Cobra (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CJPP",
+      "size": 67108864,
+      "crc32": "f13827b9",
+      "md5": "1e0777dd795125aebd4dd073146b428e",
+      "sha1": "b507dec9c4026e89295eb1eee90ab49beecc46f4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/G.I.%20Joe%20-%20The%20Rise%20of%20Cobra%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/G.I.%20Joe%20-%20The%20Rise%20of%20Cobra%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/G.I.%20Joe%20-%20The%20Rise%20of%20Cobra%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/G.I.%20Joe%20-%20The%20Rise%20of%20Cobra%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/G.I.%20Joe%20-%20The%20Rise%20of%20Cobra%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/G.I.%20Joe%20-%20The%20Rise%20of%20Cobra%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

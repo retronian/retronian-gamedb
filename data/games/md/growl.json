@@ -63,5 +63,49 @@
     "wikidata": "Q285065",
     "mobygames": 6661,
     "igdb": 310353
-  }
+  },
+  "roms": [
+    {
+      "name": "Growl (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-11076-00",
+      "size": 524288,
+      "crc32": "f60ef143",
+      "md5": "3152ebc067925b0ca35d20290de0985a",
+      "sha1": "63a08057fe9fd489590f39c5c06709266f625ab0",
+      "sha256": "a3111cc42b4fbaba617e80deacf533ff11fd6c1215259667e8f4392b52498155"
+    },
+    {
+      "name": "Growl (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-11076-00",
+      "size": 524288,
+      "crc32": "aa973de7",
+      "md5": "0f6115db9cee69227fb9b14799d444fb",
+      "sha1": "554885a8ec5fcd238cd6fce667f2c082ab138786",
+      "sha256": "e9c60234eddf01229dcd9f9a10bac31eaa19979fe1d737cd1c26864038b52a6a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Growl%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Growl%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Growl%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

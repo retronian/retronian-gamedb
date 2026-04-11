@@ -53,5 +53,57 @@
     "wikidata": "Q3024823",
     "mobygames": 14873,
     "igdb": 19835
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Ball Z - Buu's Fury (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BG3E",
+      "size": 8388608,
+      "crc32": "01c1707f",
+      "md5": "3a74fce97f1ea2b28c2a50ec3df0acee",
+      "sha1": "f1c4b07554d2a3b1ad2f325307051e775ce68087"
+    },
+    {
+      "name": "Dragon Ball Z - Buu's Fury (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 8388608,
+      "crc32": "c35bbc5d",
+      "md5": "897fbe03b12147f9daf55519d90402cd",
+      "sha1": "2c4ec7176e58dae08b1f52206c7cbfe68ee94c75",
+      "sha256": "87e92fc8743c16989e7ebbc64566beef9ebb66dce08bc070d449501470b0e310"
+    },
+    {
+      "name": "Dragon Ball Z - Buu's Fury (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 8388608,
+      "crc32": "e8ccd531",
+      "md5": "1ec7fbc18c78d747d1505fe0abacbec0",
+      "sha1": "8f1d0dc00a06e943f06f10f88174c775ff437874",
+      "sha256": "8e86040f7ede7ca2aa4c8c396aa41f094e684171f5c582ea61fb39cdf58b62f9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Buu%27s%20Fury%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dragon%20Ball%20Z%20-%20Buu%27s%20Fury%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Buu%27s%20Fury%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

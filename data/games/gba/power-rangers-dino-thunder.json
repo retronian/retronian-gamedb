@@ -36,5 +36,65 @@
     "wikidata": "Q11888796",
     "mobygames": 95450,
     "igdb": 243195
-  }
+  },
+  "roms": [
+    {
+      "name": "Power Rangers - Dino Thunder (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPOE",
+      "size": 4194304,
+      "crc32": "bc193ee7",
+      "md5": "343c3ceb2cf89c5334f325edc4c4cae3",
+      "sha1": "a294b761979bdbec34f975b56a0d88e919236b5f"
+    },
+    {
+      "name": "Power Rangers - Dino Thunder (Europe) (Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BPOX",
+      "size": 4194304,
+      "crc32": "414bfe31",
+      "md5": "d867844ad81a900aba625a5075275247",
+      "sha1": "48e9b2a64528cb6e0fba330f8342b87a96357c41"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Power%20Rangers%20-%20Dino%20Thunder%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Power%20Rangers%20-%20Dino%20Thunder%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Power%20Rangers%20-%20Dino%20Thunder%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Power%20Rangers%20-%20Dino%20Thunder%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Power%20Rangers%20-%20Dino%20Thunder%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Power%20Rangers%20-%20Dino%20Thunder%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

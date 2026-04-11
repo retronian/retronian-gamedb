@@ -18,5 +18,78 @@
     "wikidata": "Q1922754",
     "mobygames": 12257,
     "igdb": 5425
-  }
+  },
+  "roms": [
+    {
+      "name": "Puggsy (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-113016-50",
+      "size": 1048576,
+      "crc32": "5d5c9ade",
+      "md5": "01db4442a585c0cdb7737f53723167c4",
+      "sha1": "89a347f35c4d0d364c284f2f32f708d0378b8735",
+      "sha256": "29bfb5dced0d4b3f68fe940699456f7d3bc02297d1fd5a68548bcaaab0670d9d"
+    },
+    {
+      "name": "Puggsy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-113016",
+      "size": 1048576,
+      "crc32": "70132168",
+      "md5": "2a7290076430f4c735feaf8a46d9bfe6",
+      "sha1": "5f4d1acd1b8580e83952e1083cfa881b0ec5b9fd",
+      "sha256": "89a6d750e95fdeed09210f7e7d97c3dcdb843cfdc741e295f638704c93f7e6b7"
+    },
+    {
+      "name": "Puggsy (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "XXXXXXXX-01",
+      "size": 185078,
+      "crc32": "e13ed54e",
+      "md5": "2cdb70531bce1d00e8b305ba59259e48",
+      "sha1": "10108f33438782b315557314c31d89170dbd28bc",
+      "sha256": "b6f67011097235b3ae0ee8a8d82a058ba0466ec4c75ff228b937545e3cd916e5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Puggsy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Puggsy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Puggsy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Puggsy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Puggsy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Puggsy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

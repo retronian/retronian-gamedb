@@ -63,5 +63,38 @@
     "wikidata": "Q2589086",
     "mobygames": 10167,
     "igdb": 380156
-  }
+  },
+  "roms": [
+    {
+      "name": "RoboCop 3 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-081226-00",
+      "size": 524288,
+      "crc32": "34fb7b27",
+      "md5": "e1c98a74abc694c39c577f1cc4e7a2b6",
+      "sha1": "7860eb700d85801831ea14501b47bcaa1753c9fc",
+      "sha256": "d4be96f3c7d55c9ab5070b66b1f95381ca67f5c6c3a007b69903d9ca573c91be"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/RoboCop%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/RoboCop%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/RoboCop%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -36,5 +36,89 @@
     "wikidata": "Q48703015",
     "mobygames": 19402,
     "igdb": 49218
-  }
+  },
+  "roms": [
+    {
+      "name": "Stuart Little 2 (Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASLP",
+      "size": 8388608,
+      "crc32": "34e4f8c5",
+      "md5": "b5862d95089400c28594a1f5fd09aaa9",
+      "sha1": "1435574b92777a633cec0722300601dcbb5f84ce"
+    },
+    {
+      "name": "Stuart Little 2 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASLE",
+      "size": 8388608,
+      "crc32": "6eb7c688",
+      "md5": "2170ce3d59a6f69d6d5b002088beed7c",
+      "sha1": "fdb6d8098340966456cd05c7babe77b5a204608c"
+    },
+    {
+      "name": "Stuart Little 2 (France)",
+      "source": "no_intro",
+      "serial": "ASLF",
+      "size": 8388608,
+      "crc32": "0827d896",
+      "md5": "0269f1346cfa7942f43039e12ac5f26c",
+      "sha1": "59ab956ef920bdf2a75b36448f557df8538d558a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Stuart%20Little%202%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Stuart%20Little%202%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Stuart%20Little%202%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Stuart%20Little%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Stuart%20Little%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Stuart%20Little%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Stuart%20Little%202%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Stuart%20Little%202%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Stuart%20Little%202%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

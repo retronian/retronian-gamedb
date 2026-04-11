@@ -18,5 +18,66 @@
     "wikidata": "Q3283955",
     "mobygames": 87923,
     "igdb": 2817
-  }
+  },
+  "roms": [
+    {
+      "name": "Ed, Edd n Eddy - Scam of the Century (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A5OE",
+      "size": 16777216,
+      "crc32": "94e976f3",
+      "md5": "4069955135cdcb7ba1f4b9e3a706af7a",
+      "sha1": "5aae815ff93e21e92e8303817c67761e80a706bb"
+    },
+    {
+      "name": "Ed, Edd n Eddy - Scam of the Century (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A5OP",
+      "size": 16777216,
+      "crc32": "c30dc38c",
+      "md5": "a499f520ea1f47f39ae9cd0eca66ff10",
+      "sha1": "3cfe7039be103d4dd887140ab3e3decfac85f78f",
+      "sha256": "65cfdd98647e5bc1b8f2da14f1add94786bf06443a713707ef93e31f9ac4df47"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ed%2C%20Edd%20n%20Eddy%20-%20Scam%20of%20the%20Century%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ed%2C%20Edd%20n%20Eddy%20-%20Scam%20of%20the%20Century%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ed%2C%20Edd%20n%20Eddy%20-%20Scam%20of%20the%20Century%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ed%2C%20Edd%20n%20Eddy%20-%20Scam%20of%20the%20Century%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ed%2C%20Edd%20n%20Eddy%20-%20Scam%20of%20the%20Century%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ed%2C%20Edd%20n%20Eddy%20-%20Scam%20of%20the%20Century%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

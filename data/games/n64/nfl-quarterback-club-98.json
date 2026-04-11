@@ -45,5 +45,67 @@
     "wikidata": "Q9048327",
     "mobygames": 9154,
     "igdb": 3558
-  }
+  },
+  "roms": [
+    {
+      "name": "NFL Quarterback Club 98 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NQ8P",
+      "size": 8388608,
+      "crc32": "34a21417",
+      "md5": "a18ca5dbc85668667aa467add6a62b39",
+      "sha1": "1f00635179fb741fbbcf31ffaff399469da16ecf",
+      "sha256": "493a19ce012a9f37dc2a35671e8d4b8d4e60d66963777de3ef4fc7ce30a3b6fb"
+    },
+    {
+      "name": "NFL Quarterback Club 98 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NQ8E",
+      "size": 8388608,
+      "crc32": "abf0e8f2",
+      "md5": "709f966c30ce6df1833e95740a5a2ab2",
+      "sha1": "8e53de9eb6dcecb3b0bb3e707ef01690de7efab2",
+      "sha256": "937c256ee962095dc57aff47e5196004f02b5e70bbc7fb430bad0ad4d8385a95"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NFL%20Quarterback%20Club%2098%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NFL%20Quarterback%20Club%2098%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NFL%20Quarterback%20Club%2098%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NFL%20Quarterback%20Club%2098%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NFL%20Quarterback%20Club%2098%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NFL%20Quarterback%20Club%2098%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

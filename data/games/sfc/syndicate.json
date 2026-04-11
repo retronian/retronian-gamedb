@@ -70,5 +70,121 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Syndicate (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "fd851819",
+      "md5": "1f801d72860e3488ac3c314674c2e934",
+      "sha1": "98319448aebe93872eb318d6844caa0bfdf401e1",
+      "sha256": "eea3584fe574b1e7ba6c559ef32f86a990f54c7fa36b25242656b4c6dc18e6f0"
+    },
+    {
+      "name": "Syndicate (Europe) (En,Fr,De) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "181cae99",
+      "md5": "04a2b19d4c86cc02b5b3f6f270768e3b",
+      "sha1": "d0f4eb03ed823ec05e1df6e0ed406e638f343b54",
+      "sha256": "268ba88a790adbdb9a943baeb72b7689908fc7bdd111a61bb880a8d6e18b6bc9"
+    },
+    {
+      "name": "Syndicate (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "63c52dc4",
+      "md5": "4b70a19d7ed67b9caeeab9c5a536d2ed",
+      "sha1": "226733c86d0be70b5ef73c14ebe8c7c1761c89f9",
+      "sha256": "a7ba0521eed24ae0357c02e3d55e2c3c5daf2a8f50d9b8745125cb0389cdf7f1"
+    },
+    {
+      "name": "Syndicate (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "d74570d3",
+      "md5": "5699a71da776e5fd8901582c61f3d3cf",
+      "sha1": "591527865e2b90521e36d460148f7482bc94b6a0",
+      "sha256": "c2015d03dd3db08069b2a6ea1ed6b3e1ac1e3a5f804b02295c3cd3717add91ef"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Syndicate%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Syndicate%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Syndicate%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Syndicate%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Syndicate%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Syndicate%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Syndicate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Syndicate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Syndicate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Syndicate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Syndicate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Syndicate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

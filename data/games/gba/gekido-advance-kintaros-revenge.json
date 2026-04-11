@@ -18,5 +18,65 @@
     "wikidata": "Q5530293",
     "mobygames": 65966,
     "igdb": 6418
-  }
+  },
+  "roms": [
+    {
+      "name": "Gekido Advance - Kintaro's Revenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AGEE",
+      "size": 8388608,
+      "crc32": "6bbc5f4d",
+      "md5": "f58a7e485676f66c1c88126675d57eff",
+      "sha1": "720fe1c2ae59a19235c2045d5915d0d0565e555d"
+    },
+    {
+      "name": "Gekido Advance - Kintaro's Revenge (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AGEP",
+      "size": 8388608,
+      "crc32": "2fb5b819",
+      "md5": "cdde24e4b71ac0cb1cf32bab1374f64a",
+      "sha1": "ba690c0857ac235a3e3a8342e2aec41c6e48ed94"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gekido%20Advance%20-%20Kintaro%27s%20Revenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gekido%20Advance%20-%20Kintaro%27s%20Revenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gekido%20Advance%20-%20Kintaro%27s%20Revenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gekido%20Advance%20-%20Kintaro%27s%20Revenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gekido%20Advance%20-%20Kintaro%27s%20Revenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gekido%20Advance%20-%20Kintaro%27s%20Revenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

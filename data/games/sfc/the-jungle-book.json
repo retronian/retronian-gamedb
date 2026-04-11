@@ -63,6 +63,24 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Jungle Book, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ジャングルブック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1993-01-01",
@@ -70,5 +88,152 @@
     "wikidata": "Q1974580",
     "mobygames": 48140,
     "igdb": 204616
-  }
+  },
+  "descriptions": [
+    {
+      "text": "有名なアニメ映画を基にした「ウォルト・ディズニーのジャングルブック」は、野生の動物たちに育てられた少年モーグリを操作するプラットフォームゲームです。あなたの目標は、人間の村を見つけて再び仲間と合流することです。\n\nモーグリは運動能力に優れた少年で、ジャンプしたり、走ったり、つるにぶら下がったり、登ったりすることが得意です。しかし、彼が出会うほとんどの動物は理由もなく敵対的であるため、さまざまな投げ武器（バナナやブーメランなど）を使って自分を守らなければなりません。\n\n各レベルをクリアするために、モーグリは制限時間内に一定数のクリスタルを集める必要があります（その数は難易度によって異なります）。画面の隅にあるコンパスが、最も近いクリスタルの方向を示して助けてくれます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jungle Book, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "392ae185",
+      "md5": "ea22fd957281c0888c97d34a27cf3fa9",
+      "sha1": "108f21e83050bdead3c229398ce3e42085758e56",
+      "sha256": "6d37b2ed794b2f3e5f3d28490ffe89a0ff3c8a0cfc0418bd2aa8e0c66d4868ff"
+    },
+    {
+      "name": "Jungle Book, The (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "ce14892d",
+      "md5": "1bf5ebe464359ef40747cf1fe98001c2",
+      "sha1": "30c2b0119f697cfb3f9ed5cd8871cd56f47f62e0",
+      "sha256": "08f5d4a3a1ac406093e85717f2a90ab9e7952dd912cc0c5d0806ef3ee23de2ca"
+    },
+    {
+      "name": "Jungle Book, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "3511efb3",
+      "md5": "cf539bef183bcb97c192562bb1cb29ec",
+      "sha1": "f9dbb76fb1a62d47f8de4e7db46bfbcb1a038ca5",
+      "sha256": "771a0322d9f5f8e13a52d01e80257a1f75cc693cf4abf74793520eb5f8b5580e"
+    },
+    {
+      "name": "Jungle Book, The (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "bd037a57",
+      "md5": "ec8bb481b2625e63191f069851de064d",
+      "sha1": "15a7f1e233484d1bc6b3688d0e6a394f2cd3c971",
+      "sha256": "db7e40a7cf0d99eed90c650f47649635d4dede26ae851aaca434a0fd6c27ea59"
+    },
+    {
+      "name": "Jungle Book, The (World) (Disney Classic Games)",
+      "source": "no_intro",
+      "size": 2097152,
+      "crc32": "a690cf68",
+      "md5": "342847114beba981a83746a8c1aedb29",
+      "sha1": "f8daa9d605dab709a0f0f5281984168d88594399",
+      "sha256": "7459c6c0377038b2bcfb88d594c460bc4bb45c68c840a890dd16dffb83dbc04d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jungle%20Book%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jungle%20Book%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jungle%20Book%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jungle%20Book%2C%20The%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jungle%20Book%2C%20The%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jungle%20Book%2C%20The%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jungle%20Book%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jungle%20Book%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jungle%20Book%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jungle%20Book%2C%20The%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jungle%20Book%2C%20The%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jungle%20Book%2C%20The%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jungle%20Book%2C%20The%20%28World%29%20%28Disney%20Classic%20Games%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jungle%20Book%2C%20The%20%28World%29%20%28Disney%20Classic%20Games%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jungle%20Book%2C%20The%20%28World%29%20%28Disney%20Classic%20Games%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

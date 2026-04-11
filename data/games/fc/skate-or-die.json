@@ -63,5 +63,65 @@
     "wikidata": "Q1308649",
     "mobygames": 48,
     "igdb": 40929
-  }
+  },
+  "roms": [
+    {
+      "name": "Skate or Die (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "82a6d8d3",
+      "md5": "99f141f95972c6207a65e1b5778be85a",
+      "sha1": "6607d6613635887101c355e22f96c2b7ebdf2fae",
+      "sha256": "a0543673517e83ce07c28ab8d40518d9d64f30d4abebe720c02120b4c5a9d2c1"
+    },
+    {
+      "name": "Skate or Die (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "e6f4d666",
+      "md5": "929b6473618183570cebf8e3b7530587",
+      "sha1": "284079ed0ada09e9dab4af4150972ce8f7b3027c",
+      "sha256": "4cb65e4db9fdc3035be376645d32f6fae24b8d3cc810720a7dc1758bb301cfc6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Skate%20or%20Die%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Skate%20or%20Die%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Skate%20or%20Die%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Skate%20or%20Die%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Skate%20or%20Die%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Skate%20or%20Die%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

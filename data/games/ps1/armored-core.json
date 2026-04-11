@@ -80,5 +80,64 @@
     "wikidata": "Q2450661",
     "mobygames": 6963,
     "igdb": 4144
-  }
+  },
+  "roms": [
+    {
+      "name": "Armored Core (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 235856080,
+      "crc32": "2d55c953",
+      "md5": "af8e1ae95ecd8701a4d896ae76b7df34",
+      "sha1": "35d9e1dbc3723cf148421e3b9061345c4076327a"
+    },
+    {
+      "name": "Armored Core (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 224278608,
+      "crc32": "eca0a45a",
+      "md5": "795360e3b2c78d8e0622dfd69ed44dcb",
+      "sha1": "4b787867f75e6c7ff972a459872e9846560ca300",
+      "sha256": "516bae61dfc7de9dc761269db3a403b503745d93aa904a2cd0d511567868c792"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Armored%20Core%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Armored%20Core%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Armored%20Core%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Armored%20Core%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Armored%20Core%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Armored%20Core%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -63,5 +63,179 @@
     "wikidata": "Q3279736",
     "mobygames": 18043,
     "igdb": 18275
-  }
+  },
+  "roms": [
+    {
+      "name": "Pac-Pix (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APCE",
+      "size": 16777216,
+      "crc32": "f6af8061",
+      "md5": "7e9607d12249ea02f1f076a87f3cc856",
+      "sha1": "724198790b24ebbbeb55a6833214567b96d6b90c",
+      "sha256": "2010cdc2a480fe8a19a0723a0bda8abbc4a8c97abf8fdebe5293c54ef8acf65c"
+    },
+    {
+      "name": "Pac-Pix (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "APCP",
+      "size": 16777216,
+      "crc32": "652fe4bc",
+      "md5": "63bdb68e220f3b19d8d17d77fe530590",
+      "sha1": "bfea6980c2698e7bdb1566f070830f9383ecf005",
+      "sha256": "5aa51017c37660773bc2cd02ff763b2f3ffde9f28f00482949eec53f9649bc96"
+    },
+    {
+      "name": "Pac-Pix (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "APCJ",
+      "size": 16777216,
+      "crc32": "eac3684c",
+      "md5": "a9a83a132883ea764f3f385ec379c0b1",
+      "sha1": "ff7053574368fe97f3d3d70c2275edc604fb5371"
+    },
+    {
+      "name": "Pac-Pix (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "APCK",
+      "size": 16777216,
+      "crc32": "bc4afa6f",
+      "md5": "a77f9231f78013a6fc38598968395dc9",
+      "sha1": "5027570e7545f077d3b44a7eb5a8c57c777ae4ff"
+    },
+    {
+      "name": "Pac-Pix (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A29E",
+      "size": 8388608,
+      "crc32": "fcd83cae",
+      "md5": "936d9c45732e1f658756bc2aad7a6768",
+      "sha1": "cdef1b4e4b5d7365d5be1c7cfc1039f3b5655f34"
+    },
+    {
+      "name": "Pac-Pix (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A29P",
+      "size": 8388608,
+      "crc32": "2fc24ef2",
+      "md5": "5e3c9406ac135ca73f9e65816dd9463d",
+      "sha1": "2d5ea4d94cd2d2289ba1bd2aba9e08f6a8752a01"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pac-Pix%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pac-Pix%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pac-Pix%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pac-Pix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pac-Pix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pac-Pix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pac-Pix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pac-Pix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pac-Pix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pac-Pix%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pac-Pix%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pac-Pix%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pac-Pix%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pac-Pix%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pac-Pix%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pac-Pix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pac-Pix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pac-Pix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

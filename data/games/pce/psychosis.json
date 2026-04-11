@@ -78,5 +78,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Paranoia (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "9893e0e6",
+      "md5": "a53f17bc3492e89c391e280e32397450",
+      "sha1": "b3097e7f163e4a067cf32f290e59657a8b5e271b",
+      "sha256": "c08591dde38a6745a82db7a59eeed0f2c53dde2f112145ad71036a56e0a9a4bc"
+    },
+    {
+      "name": "Psychosis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "6cc10824",
+      "md5": "c23ef1ca95a5aa6789c4172ac66d6b5d",
+      "sha1": "1cfcfc95bb01b24755e1fc9c3dfea393cb3cc3a9",
+      "sha256": "5b9d47aac4ed3c9a898ade3db0151e9007c8d94c2aa9048e03fbe8f1323acf9b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Psychosis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Psychosis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Psychosis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

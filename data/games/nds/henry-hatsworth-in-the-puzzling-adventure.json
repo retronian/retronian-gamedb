@@ -45,5 +45,71 @@
     "wikidata": "Q16259640",
     "mobygames": 40328,
     "igdb": 9601
-  }
+  },
+  "roms": [
+    {
+      "name": "Henry Hatsworth in the Puzzling Adventure (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CQ7P",
+      "size": 67108864,
+      "crc32": "3ef026f5",
+      "md5": "f6117f87104e111ae372979ccf07d5fa",
+      "sha1": "e161b611107ec3d2932bc76843d04997c04dc18a"
+    },
+    {
+      "name": "Henry Hatsworth in the Puzzling Adventure (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CQ7E",
+      "size": 67108864,
+      "crc32": "808a0f6a",
+      "md5": "436010a90927fab3dbf0a0261579762a",
+      "sha1": "e0b344aa0ce6a3f791a9f3a8af82e29e3e1eb06e",
+      "sha256": "ce73416e3624ee3339fa336a78f19343482bab9dd0d5b18f94ec9cb4eb58f722"
+    },
+    {
+      "name": "Henry Hatsworth in the Puzzling Adventure (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CQ7E",
+      "size": 67108864,
+      "crc32": "129484f0",
+      "md5": "63481ba55a5412b8be7b95eb1b3f2850",
+      "sha1": "fa4ebfd5d4d1cd0e18f24aaeeb9eeb44e65ab46c",
+      "sha256": "7c388ff66030eeb8f81e19c0a87e32cb9170dd4242869d3c4902cf983b288ea0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Henry%20Hatsworth%20in%20the%20Puzzling%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Henry%20Hatsworth%20in%20the%20Puzzling%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Henry%20Hatsworth%20in%20the%20Puzzling%20Adventure%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Henry%20Hatsworth%20in%20the%20Puzzling%20Adventure%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Henry%20Hatsworth%20in%20the%20Puzzling%20Adventure%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

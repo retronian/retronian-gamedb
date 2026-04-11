@@ -18,5 +18,93 @@
     "wikidata": "Q4038693",
     "mobygames": 22317,
     "igdb": 228884
-  }
+  },
+  "roms": [
+    {
+      "name": "Felix the Cat (Europe) (Hudson)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "2bc6b149",
+      "md5": "ae94182fcaa26ee54e43a0d1b7c1a5b6",
+      "sha1": "30cee7a6bed8856b79b961b5293300e8a9506efb",
+      "sha256": "711795468f8fd2e59dc570fecdcd24a122549fd05e70c5208624e4723917ab79"
+    },
+    {
+      "name": "Felix the Cat (USA) (Hudson)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "3856f581",
+      "md5": "9ac05a0ec9d615e18c74b4c0b16844e6",
+      "sha1": "b57b1c6e6933432694e920694cfa10dae5c5961b",
+      "sha256": "b1e61cb8025094416d00025fc79487f20b464ac9b57c1925b27d3a6733681352"
+    },
+    {
+      "name": "Felix the Cat (China) (En) (Dragon Co.) (Unl)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 524304,
+      "crc32": "f7c950fb",
+      "md5": "96072d12af5bc7185582f4d28e68b516",
+      "sha1": "de2ed63e242960eecd95b7c4778fdf1a506a6a25",
+      "sha256": "92cf16f6bb7067492156a28e6cde54291e64e81eac06f664bcfbf5e67dfb1f07"
+    },
+    {
+      "name": "Felix the Cat (World) (En)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "e960f805",
+      "md5": "dfcece294fb910edb757333615dcf5a9",
+      "sha1": "3b596a79385fbb5ddda1c05db8ff3c814d54b71b",
+      "sha256": "44ecd00486e1104f006f8db6771e0cb43f020b81bb3433f4369395ca8f4f1a83"
+    },
+    {
+      "name": "Felix the Cat (World) (Ja)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "aafcb310",
+      "md5": "46cb60ba932748fc0dc11cf7532ccedf",
+      "sha1": "c43c0f69242345b00b63a07c5394e6e30106021d",
+      "sha256": "d017be4b0ea1a1c988790f146c2963e4833988a123e415db68d77bbbe46ddc6c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Felix%20the%20Cat%20%28Europe%29%20%28Hudson%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Felix%20the%20Cat%20%28Europe%29%20%28Hudson%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Felix%20the%20Cat%20%28USA%29%20%28Hudson%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Felix%20the%20Cat%20%28USA%29%20%28Hudson%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Felix%20the%20Cat%20%28China%29%20%28En%29%20%28Dragon%20Co.%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Felix%20the%20Cat%20%28China%29%20%28En%29%20%28Dragon%20Co.%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    }
+  ]
 }

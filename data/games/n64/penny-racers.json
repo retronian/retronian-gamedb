@@ -53,5 +53,95 @@
     "wikidata": "Q3374797",
     "mobygames": 38433,
     "igdb": 1292
-  }
+  },
+  "roms": [
+    {
+      "name": "Choro Q 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NCRJ",
+      "size": 8388608,
+      "crc32": "231f9284",
+      "md5": "8287a908e36e79b2d3af0bd22c43ecd9",
+      "sha1": "288cdbabe30349b70ddd68931e697af03e0d2ee8",
+      "sha256": "e54dd88e65c6a14b7d591118c18d1c69551de334dbebba43d70a96162d63ba32"
+    },
+    {
+      "name": "Penny Racers (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NCRP",
+      "size": 8388608,
+      "crc32": "a1d6eb5b",
+      "md5": "20da62ece553ede84d02283174becc8f",
+      "sha1": "9848cc288b388d23e0ae026ef58da8fc936d7605",
+      "sha256": "c2f4887ee2c9129ac9d550b0e8877fcf9066f56474a82967362df4b561f72487"
+    },
+    {
+      "name": "Penny Racers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NCRE",
+      "size": 8388608,
+      "crc32": "c1e57337",
+      "md5": "518b14054a667a3b9e0b72d3bf784e41",
+      "sha1": "1d4fce8ad6b1f0072d89aeb4c3187bc853b750a0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Choro%20Q%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Choro%20Q%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Choro%20Q%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Penny%20Racers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Penny%20Racers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Penny%20Racers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Penny%20Racers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Penny%20Racers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Penny%20Racers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -26,5 +26,42 @@
   "external_ids": {
     "wikidata": "Q25394506",
     "mobygames": 156268
-  }
+  },
+  "roms": [
+    {
+      "name": "Kirikou and the Wild Beasts (Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CK2P",
+      "size": 33554432,
+      "crc32": "d26556cc",
+      "md5": "df58f054afc0e701693ca0832bd9dcbe",
+      "sha1": "5fbf808aa159e5f1f6a03b8a62dfcad9217fbb3e"
+    },
+    {
+      "name": "Kirikou et les Betes Sauvages (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CK2P",
+      "size": 33554432,
+      "crc32": "96dbad3f",
+      "md5": "a568fbbb55d358cbb13e1bfa09708bcd",
+      "sha1": "6b8d216db820b95d33a524c09d3ee9cb5913ded8",
+      "sha256": "f34b7bc594a58a9ac9957b422486ca7dca18b2284994c694147d86fa3dd58a3a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kirikou%20and%20the%20Wild%20Beasts%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kirikou%20and%20the%20Wild%20Beasts%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

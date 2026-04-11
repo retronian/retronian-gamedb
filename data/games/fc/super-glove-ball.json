@@ -18,5 +18,47 @@
     "wikidata": "Q2644797",
     "mobygames": 13678,
     "igdb": 48234
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Glove Ball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "4b013bb5",
+      "md5": "285f65c75a7f64b7d491b0cec6105b79",
+      "sha1": "86aca188a53bf973308446a7b636de773bcd66ce",
+      "sha256": "926682b20626821324b3521d403b23e4bd1f48b1d65a11758be1297fd8d5db9a"
+    },
+    {
+      "name": "Super Glove Ball (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "a70bef36",
+      "md5": "d3ef6900a15d4d5cad7913e9998f42ef",
+      "sha1": "1cdbc0bc4ade80b651eb08bf5459d408750d9fce",
+      "sha256": "03f1a0725ff556db315f5229fb5565b4ea953c80f565e5778d2e165b67c62bd4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Glove%20Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Glove%20Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Glove%20Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

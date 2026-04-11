@@ -82,6 +82,24 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "T.M.N.T. 〜スーパー亀忍者〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "틴에이지 뮤턴트 닌자 터틀스",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1989-05-12",
@@ -89,5 +107,65 @@
     "wikidata": "Q2172154",
     "mobygames": 6932,
     "igdb": 322537
-  }
+  },
+  "roms": [
+    {
+      "name": "Teenage Mutant Hero Turtles (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "38dafcaf",
+      "md5": "d60c64b46f9a6b5ee6a78bfe2fee7d48",
+      "sha1": "aa3a9bf7d3f7ffcb2ef94e81bc65db859e1ca58c",
+      "sha256": "2a9345e608ec0c57470dc6658ce8199ddea9c18076134d9ef2a56f91b0a066d1"
+    },
+    {
+      "name": "Teenage Mutant Hero Turtles (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "b86792a2",
+      "md5": "0d09eb2a381b92377d3694c71f9e0939",
+      "sha1": "f379544d273d48a7301d56816a67903adda49c9b",
+      "sha256": "2c3a63ccbeae1a0ac47b38598f4f7fd61252a18b7a813465b5c483e59b4ed104"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Teenage%20Mutant%20Hero%20Turtles%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Teenage%20Mutant%20Hero%20Turtles%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Teenage%20Mutant%20Hero%20Turtles%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Teenage%20Mutant%20Hero%20Turtles%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Teenage%20Mutant%20Hero%20Turtles%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Teenage%20Mutant%20Hero%20Turtles%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

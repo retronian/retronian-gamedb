@@ -45,5 +45,66 @@
     "wikidata": "Q3028274",
     "mobygames": 88175,
     "igdb": 67853
-  }
+  },
+  "roms": [
+    {
+      "name": "Garfield's Nightmare (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AG5P",
+      "size": 16777216,
+      "crc32": "cab704ba",
+      "md5": "fcbd0b7704976063bf0bce56b6fccc9b",
+      "sha1": "ac8d429b4ef6fa2514e8a007a9fb3f17db743943",
+      "sha256": "0e82b5f40d3d3505dfb4586368668bebaefe0e81d279b8888baa20b5a0699afd"
+    },
+    {
+      "name": "Garfield's Nightmare (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AG5E",
+      "size": 16777216,
+      "crc32": "df5da6d7",
+      "md5": "43a1e0ffa9955d969001d803fe543155",
+      "sha1": "a81f6a3ff858e2ece23a858af5ffa97a1efa34f1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Garfield%27s%20Nightmare%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Garfield%27s%20Nightmare%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Garfield%27s%20Nightmare%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Garfield%27s%20Nightmare%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Garfield%27s%20Nightmare%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Garfield%27s%20Nightmare%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

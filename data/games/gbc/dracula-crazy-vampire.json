@@ -18,5 +18,64 @@
     "wikidata": "Q115778105",
     "mobygames": 63920,
     "igdb": 49941
-  }
+  },
+  "roms": [
+    {
+      "name": "Dracula - Crazy Vampire (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "2f7aef51",
+      "md5": "192aec8dca7656463be56991f497cff3",
+      "sha1": "815f252f761e0fd3f29b7acf32b2360264aefab1",
+      "sha256": "c9d909308a2aa15aad79c8a121635665bf089fac1f0c153237fd666ee94821ca"
+    },
+    {
+      "name": "Dracula - Crazy Vampire (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "283742e4",
+      "md5": "0b943efdf2ca967827a4c7bf951f6448",
+      "sha1": "049727b428b01c5309a86039007c97bed7bf856a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Dracula%20-%20Crazy%20Vampire%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Dracula%20-%20Crazy%20Vampire%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Dracula%20-%20Crazy%20Vampire%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Dracula%20-%20Crazy%20Vampire%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Dracula%20-%20Crazy%20Vampire%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Dracula%20-%20Crazy%20Vampire%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

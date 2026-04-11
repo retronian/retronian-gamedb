@@ -18,5 +18,67 @@
     "wikidata": "Q3486219",
     "mobygames": 20260,
     "igdb": 4548
-  }
+  },
+  "roms": [
+    {
+      "name": "Skeleton Krew (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-115036-00",
+      "size": 2097152,
+      "crc32": "5f872737",
+      "md5": "7ded2700acc1715153f630fa266e0e89",
+      "sha1": "9752fbd8508492dae252ae749393281ed9527de0",
+      "sha256": "ee02b6b68801fc2785abe3561d7e35c52ec10b12f2fb0ec1a113dd7af36553e3"
+    },
+    {
+      "name": "Skeleton Krew (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-115036-00",
+      "size": 2097152,
+      "crc32": "c2e05acb",
+      "md5": "7e9a79a887c4edf56574d7a1cd72c5fd",
+      "sha1": "2a6f6ea7d2fc1f3a396269f9455011ef95266ffc",
+      "sha256": "f71900ac3c9e4e3d6980a9bf50f14c9f29f2da7831237d04bdb88b7561b12c74"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Skeleton%20Krew%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Skeleton%20Krew%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Skeleton%20Krew%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Skeleton%20Krew%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Skeleton%20Krew%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Skeleton%20Krew%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

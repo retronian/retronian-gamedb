@@ -54,5 +54,66 @@
     "wikidata": "Q3284495",
     "mobygames": 30242,
     "igdb": 5221
-  }
+  },
+  "roms": [
+    {
+      "name": "Tiger Woods PGA Tour 08 (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YT8E",
+      "size": 33554432,
+      "crc32": "051a47ac",
+      "md5": "c216ab43a8b4c0eb57be3ee9ea3172b0",
+      "sha1": "9e6955d690f5c4f7f088ca53e688dccb4c59ea05",
+      "sha256": "64a80779c2fda2ed1d71a41f7502d964682cf6dda5f19e58ac367a1d8eef6fcb"
+    },
+    {
+      "name": "Tiger Woods PGA Tour 08 (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YT8P",
+      "size": 33554432,
+      "crc32": "813937dd",
+      "md5": "7a2e7331a78c35c8d00bd1d4ab815233",
+      "sha1": "eae1219d6783c65748da1c2b2e0252347ab75742"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tiger%20Woods%20PGA%20Tour%2008%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tiger%20Woods%20PGA%20Tour%2008%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tiger%20Woods%20PGA%20Tour%2008%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tiger%20Woods%20PGA%20Tour%2008%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tiger%20Woods%20PGA%20Tour%2008%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tiger%20Woods%20PGA%20Tour%2008%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

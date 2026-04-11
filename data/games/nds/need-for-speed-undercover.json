@@ -90,5 +90,76 @@
     "wikidata": "Q471974",
     "mobygames": 96682,
     "igdb": 248137
-  }
+  },
+  "roms": [
+    {
+      "name": "Need for Speed - Undercover (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CNDP",
+      "size": 67108864,
+      "crc32": "dc9b5bbf",
+      "md5": "04596d2a5bff57ceb67282010659b3b2",
+      "sha1": "a6db79681599867b7a9430ea75a26e56c7a6af4d"
+    },
+    {
+      "name": "Need for Speed - Undercover (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CNDE",
+      "size": 67108864,
+      "crc32": "6a6d4676",
+      "md5": "60254c3f09e5c86e1718a7601e6a48b1",
+      "sha1": "e94413f0ac06e21270f52845ac8e07a21ffd08ba"
+    },
+    {
+      "name": "Need for Speed - Undercover (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "CNDK",
+      "size": 67108864,
+      "crc32": "b7c8dbab",
+      "md5": "6a0c0ca6ec739cccd47abcabf2faa3b3",
+      "sha1": "3379cd8e0ee00bc155907ee578bdc821376a8483",
+      "sha256": "e352ee4100509fdd37580a943637c858a5bc30cb10a49720885ecd8ce613fff6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Need%20for%20Speed%20-%20Undercover%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Need%20for%20Speed%20-%20Undercover%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Need%20for%20Speed%20-%20Undercover%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Need%20for%20Speed%20-%20Undercover%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Need%20for%20Speed%20-%20Undercover%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Need%20for%20Speed%20-%20Undercover%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

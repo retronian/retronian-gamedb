@@ -18,5 +18,45 @@
     "wikidata": "Q7808639",
     "mobygames": 7895,
     "igdb": 8058
-  }
+  },
+  "roms": [
+    {
+      "name": "Tiny Toon Adventures - Dizzy's Candy Quest (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "5a0d41aa",
+      "md5": "f2f1e41f5843c54c35e731445d6a2beb",
+      "sha1": "cf8948c148af76c00e7b6b557c5451d9be364f55"
+    },
+    {
+      "name": "Tiny Toon Adventures - Dizzy's Candy Quest (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "23bb87a5",
+      "md5": "b53d2cbd2377cbadb4f55b03fe58cbac",
+      "sha1": "4eb0359a278173ae6c12e9452a7a2a9573a58c77"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Tiny%20Toon%20Adventures%20-%20Dizzy%27s%20Candy%20Quest%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Tiny%20Toon%20Adventures%20-%20Dizzy%27s%20Candy%20Quest%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Tiny%20Toon%20Adventures%20-%20Dizzy%27s%20Candy%20Quest%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

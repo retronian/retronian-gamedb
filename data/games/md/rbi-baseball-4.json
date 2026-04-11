@@ -27,5 +27,60 @@
     "wikidata": "Q3414930",
     "mobygames": 43374,
     "igdb": 46264
-  }
+  },
+  "roms": [
+    {
+      "name": "R.B.I. Baseball 4 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48126-00",
+      "size": 1048576,
+      "crc32": "fecf9b94",
+      "md5": "ea128e0d71ee2884fbdb0d24bb30e51f",
+      "sha1": "37aaac7eda046968f4bff766566ca15b473f9060",
+      "sha256": "63f300e020b45dbf57f353c25aa3c98bc8b690d23f7186d8d79f7692146d9bc4"
+    },
+    {
+      "name": "R.B.I. Baseball 4 (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-48063-00",
+      "size": 1048576,
+      "crc32": "8f4e1005",
+      "md5": "544f6ca30c8fb9ca41778632f811abfc",
+      "sha1": "1cde0942bbbc9e88973ee56da06ccaabdcd34805",
+      "sha256": "b49ca0a2440b13af72c682b2aa63dbc0ca559386b9fc97c801f3b69880bcc8b2"
+    },
+    {
+      "name": "R.B.I. Baseball 4 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48126-00",
+      "size": 1048576,
+      "crc32": "f7420278",
+      "md5": "78d0e912e8f259bc0c3d4ac3d7857ec0",
+      "sha1": "d999e11813dca4fe0ac05f371ff7900806238a69",
+      "sha256": "f05136aebfb3499428c7f4b2fa4105d22c66ec56f8763146856f3e46b6747fac"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/R.B.I.%20Baseball%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/R.B.I.%20Baseball%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/R.B.I.%20Baseball%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

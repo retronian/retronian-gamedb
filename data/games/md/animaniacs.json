@@ -63,5 +63,67 @@
     "wikidata": "Q2709518",
     "mobygames": 5676,
     "igdb": 228407
-  }
+  },
+  "roms": [
+    {
+      "name": "Animaniacs (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-95176-00",
+      "size": 1048576,
+      "crc32": "92b6f255",
+      "md5": "85b4c7b4b839e5b3614ae7b218129e12",
+      "sha1": "c474d13afb04bfdb291cfabe43ffc0931be42dbc",
+      "sha256": "b9079b64436b235619f78e3f2d060c61d1f1bde7f45839c85487032cc23f7769"
+    },
+    {
+      "name": "Animaniacs (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95176-00",
+      "size": 1048576,
+      "crc32": "86224d86",
+      "md5": "ce0a42a75a9e374cf5092f34bf6927b7",
+      "sha1": "7e9d70b5172b4ea9e1b3f5b6009325fa39315a7c",
+      "sha256": "31fbf9d442d578c43788a024336639648d5c7dab4502636e127190c991ff3604"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Animaniacs%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Animaniacs%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Animaniacs%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Animaniacs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Animaniacs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Animaniacs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

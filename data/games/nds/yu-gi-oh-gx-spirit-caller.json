@@ -26,5 +26,60 @@
   "external_ids": {
     "wikidata": "Q13581585",
     "igdb": 20670
-  }
+  },
+  "roms": [
+    {
+      "name": "Yu-Gi-Oh! GX - Spirit Caller (USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AYXE",
+      "size": 134217728,
+      "crc32": "dd754a9f",
+      "md5": "929aa2f0da932735a36a06deafb3cf42",
+      "sha1": "9e53dcc74d8a9db4de6b655d62a1da6f5e9c2a83",
+      "sha256": "16458c4d80269652152b0543d9629a7aeb5c05220c44e60579aa7a77c72c273e"
+    },
+    {
+      "name": "Yu-Gi-Oh! GX - Spirit Caller (Europe) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AYXP",
+      "size": 134217728,
+      "crc32": "0cd5ef7e",
+      "md5": "fdda8095307e4dcb5e3bc66b4e36142e",
+      "sha1": "1da50df7c210fae96dc69b3825554b9ce13b4f75"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Yu-Gi-Oh%21%20GX%20-%20Spirit%20Caller%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Yu-Gi-Oh%21%20GX%20-%20Spirit%20Caller%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Yu-Gi-Oh%21%20GX%20-%20Spirit%20Caller%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Yu-Gi-Oh%21%20GX%20-%20Spirit%20Caller%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Yu-Gi-Oh%21%20GX%20-%20Spirit%20Caller%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -63,5 +63,65 @@
     "wikidata": "Q2472816",
     "mobygames": 12602,
     "igdb": 272843
-  }
+  },
+  "roms": [
+    {
+      "name": "Alfred Chicken (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "6127a283",
+      "md5": "5c6e0fb47d166157fbfec76b5c635e99",
+      "sha1": "26150d6c6056d91287327a8ab07d8e36246d0ce6",
+      "sha256": "bd18176f18dc7c864a36669b2bfbafde83a7b82522f18113c1a9311c88e08c66"
+    },
+    {
+      "name": "Alfred Chicken (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "37d927a2",
+      "md5": "a3ebdac6daf7297c431f8468da953c41",
+      "sha1": "a912e553b44ab419ba32c53d857a7e741fb59fff",
+      "sha256": "d62cb263623797f36ef1ae992d816331a73f9c2f2d43f8a269d0b2dc2e2b8365"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Alfred%20Chicken%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Alfred%20Chicken%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Alfred%20Chicken%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Alfred%20Chicken%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Alfred%20Chicken%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Alfred%20Chicken%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

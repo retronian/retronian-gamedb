@@ -18,5 +18,65 @@
     "wikidata": "Q28451208",
     "mobygames": 42747,
     "igdb": 6410
-  }
+  },
+  "roms": [
+    {
+      "name": "Foster's Home for Imaginary Friends (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BFYE",
+      "size": 4194304,
+      "crc32": "d7c80592",
+      "md5": "1207a415c9acfbd206e5580f34e73ba2",
+      "sha1": "9dcfddf55a2a60db2946e52959d82cb53c63e7df"
+    },
+    {
+      "name": "Foster's Home for Imaginary Friends (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BFYP",
+      "size": 4194304,
+      "crc32": "dee47a85",
+      "md5": "784e266e768506888dd0f656fd7cf715",
+      "sha1": "0b60fdbd2991bbc7e7ff1933cc5947be3e69411d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Foster%27s%20Home%20for%20Imaginary%20Friends%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Foster%27s%20Home%20for%20Imaginary%20Friends%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Foster%27s%20Home%20for%20Imaginary%20Friends%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Foster%27s%20Home%20for%20Imaginary%20Friends%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Foster%27s%20Home%20for%20Imaginary%20Friends%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Foster%27s%20Home%20for%20Imaginary%20Friends%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

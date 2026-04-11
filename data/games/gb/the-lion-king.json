@@ -72,5 +72,147 @@
     "wikidata": "Q134138",
     "mobygames": 2077,
     "igdb": 204572
-  }
+  },
+  "roms": [
+    {
+      "name": "Lion King, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "3430d261",
+      "md5": "fdab70df67c8941ed7b39a0405161545",
+      "sha1": "fbbdb1d2073bafa45943cb5f4d4aae5648120089",
+      "sha256": "cac662f7425aa5284363b1761ae6f3b77b118168869e0daaae88106de5c79bae"
+    },
+    {
+      "name": "Lion King, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "8fc3ca73",
+      "md5": "baf5068c926c2eabea4afe559f2e3cb0",
+      "sha1": "043d29ede2af013c000ff650231c10b3f62d7aca",
+      "sha256": "dad27508244f77aebf33848b13a78388386fdca105b32ca4a216cbe008006d8c"
+    },
+    {
+      "name": "Lion King, The (World) (Disney Classic Games)",
+      "source": "no_intro",
+      "size": 524288,
+      "crc32": "e435ed72",
+      "md5": "73354c52e0315a279a4162d4f6c0586d",
+      "sha1": "170c071db25da7a2b39dd1fb2675aceb8eeb87a1",
+      "sha256": "0d176cada510269454d800541f2c4ee9c067fbb2eeb4cf0694f232b2f0b43d6c"
+    },
+    {
+      "name": "Lion King, The (USA, Europe) (Beta) (1994-03-07)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "4267aac1",
+      "md5": "15f1a2a703e632bbd4f311fe12279249",
+      "sha1": "2a5c3bc3c6e8c853d20c1960948441de289740a2",
+      "sha256": "0b2780a87c988d6f82f0349be17807f330839f4b2ed1ef4d63e0fd959d37d087"
+    },
+    {
+      "name": "Lion King, The (USA, Europe) (Beta) (1994-07-13)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "ba4993be",
+      "md5": "e872272d9da777a9561b6e82f8b1d343",
+      "sha1": "a727db6463e9297e062bf81b30cf24f14d3a190f",
+      "sha256": "65489875938a4419c05a5cfeff211c72d4252dbd65b535e067a5693f7d0c6c57"
+    },
+    {
+      "name": "Lion King, The (USA, Europe) (Beta) (1994-10-07)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "03bd0d82",
+      "md5": "30c998cf3a2c60d580a75989af6f39fb",
+      "sha1": "671dcc37642e9832803dcf866ab1616e8816b673",
+      "sha256": "60f8f7586e4e43c0d9f611fd6f3740a62daea9ffe619ddfbca9083b24ff44bdf"
+    },
+    {
+      "name": "Lion King, The (USA, Europe) (Beta) (1994-10-12)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "eeb5f705",
+      "md5": "acc809b591ea80aef4922268460d7984",
+      "sha1": "5f58001042ec929deb6024c6dd97024811f51acd",
+      "sha256": "de79c856e0c3bbc7670787f987518c1a426eff354a706e90806e40fa288b48c0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lion%20King%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lion%20King%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lion%20King%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lion%20King%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lion%20King%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lion%20King%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lion%20King%2C%20The%20%28World%29%20%28Disney%20Classic%20Games%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lion%20King%2C%20The%20%28World%29%20%28Disney%20Classic%20Games%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lion%20King%2C%20The%20%28World%29%20%28Disney%20Classic%20Games%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lion%20King%2C%20The%20%28USA%2C%20Europe%29%20%28Beta%29%20%281994-07-13%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lion%20King%2C%20The%20%28USA%2C%20Europe%29%20%28Beta%29%20%281994-10-07%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lion%20King%2C%20The%20%28USA%2C%20Europe%29%20%28Beta%29%20%281994-10-12%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

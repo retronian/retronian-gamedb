@@ -56,6 +56,42 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "ドラゴンクエストモンスターズ ジョーカー2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Dragon Quest Monsters: Joker 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Dragon Quest Monsters : Joker 2",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Dragon Quest Monsters: Joker 2",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2006-12-28",
@@ -63,5 +99,190 @@
     "wikidata": "Q2743625",
     "mobygames": 27938,
     "igdb": 21727
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Quest Monsters - Joker (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AJRP",
+      "size": 134217728,
+      "crc32": "bb656caf",
+      "md5": "e002fd814db10e0170bc1f41a013b3f2",
+      "sha1": "ac92cb26f38c8117c3a898a7b8bc5bce73007d2c"
+    },
+    {
+      "name": "Dragon Quest Monsters - Joker (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AJRE",
+      "size": 134217728,
+      "crc32": "48c6c7d3",
+      "md5": "6efd219d6c589df82c9748868d62e3ab",
+      "sha1": "c821129bd0c9ab1569a160401afc0c9e14ad0af3",
+      "sha256": "2d11475a7c392567bfc2cdaa944826a79b36686fc85d7cc0e86b7c755ff32f6f"
+    },
+    {
+      "name": "Dragon Quest Monsters - Joker (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AJRJ",
+      "size": 134217728,
+      "crc32": "badeec6e",
+      "md5": "4c3623e1d5d60c759edb6ec1a4c59769",
+      "sha1": "d4d53a72c329c7fc7cffdec9201ad5efd5452238",
+      "sha256": "a7fa40ba5f2061e6da5ded7c9864d8642f66dbba0c3e4fe267701f298497c20c"
+    },
+    {
+      "name": "Dragon Quest Monsters - Joker 2 (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CJRE",
+      "size": 134217728,
+      "crc32": "f2b17656",
+      "md5": "4c1c41fa75191e2bb22a40f7e34f4e68",
+      "sha1": "d94e1a5ff3c94036acafc6b723b618b45ee3704f"
+    },
+    {
+      "name": "Dragon Quest Monsters - Joker 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CJRP",
+      "size": 134217728,
+      "crc32": "7fff3111",
+      "md5": "f86b4ca34022ef77e734ac04c00ba577",
+      "sha1": "513ac63c7d67211007da6ba7050b179dfafb362a"
+    },
+    {
+      "name": "Dragon Quest Monsters - Joker 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CJRJ",
+      "size": 134217728,
+      "crc32": "d5a37b7e",
+      "md5": "3d79ca98bd27e567e9e59a2990a27ee4",
+      "sha1": "fa7da80d6ba30d1cdaa43a157a5851a97f9e97ea",
+      "sha256": "e68c3af4182860480843a85ac321baa8898a87225f6b502b6bf72759be043fda"
+    },
+    {
+      "name": "Dragon Quest Monsters - Joker 2 (Europe) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "Y8AP",
+      "size": 67108864,
+      "crc32": "14a7ac56",
+      "md5": "eccff81d200e514425794ab7d479d486",
+      "sha1": "4f83555b71a860a7bebecf6f7aa304c73ad32301"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Quest%20Monsters%20-%20Joker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dragon%20Quest%20Monsters%20-%20Joker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Quest%20Monsters%20-%20Joker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Quest%20Monsters%20-%20Joker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dragon%20Quest%20Monsters%20-%20Joker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Quest%20Monsters%20-%20Joker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Quest%20Monsters%20-%20Joker%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dragon%20Quest%20Monsters%20-%20Joker%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Quest%20Monsters%20-%20Joker%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Quest%20Monsters%20-%20Joker%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dragon%20Quest%20Monsters%20-%20Joker%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Quest%20Monsters%20-%20Joker%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Quest%20Monsters%20-%20Joker%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Quest%20Monsters%20-%20Joker%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Quest%20Monsters%20-%20Joker%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Quest%20Monsters%20-%20Joker%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Quest%20Monsters%20-%20Joker%202%20%28Europe%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Quest%20Monsters%20-%20Joker%202%20%28Europe%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -18,5 +18,47 @@
     "wikidata": "Q16266997",
     "mobygames": 27982,
     "igdb": 48222
-  }
+  },
+  "roms": [
+    {
+      "name": "Power Punch II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "b47ee552",
+      "md5": "a70e90c1ead8d4411d8749456c2367e7",
+      "sha1": "af17e140da8a98693d66a3cc7a39d4c334d7fa0d",
+      "sha256": "d16db03fd2e5deb5256971205dc3be51b733484c3d69f78db058f5cb1cf64916"
+    },
+    {
+      "name": "Power Punch II (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "a0b0dc15",
+      "md5": "00dc7f6b7fa18322381fbcf3618c4770",
+      "sha1": "73dbdc955d53f54be35570f5d40a3194aed46487",
+      "sha256": "6cc9f1711165e19e3ccc7a530177249f4db1229003d813a07e53f131ec3f2b88"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Power%20Punch%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Power%20Punch%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Power%20Punch%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -45,5 +45,74 @@
     "wikidata": "Q2617932",
     "mobygames": 7199,
     "igdb": 6393
-  }
+  },
+  "roms": [
+    {
+      "name": "Duke Nukem Advance (World) (En,Fr,De,It) (Evercade)",
+      "source": "no_intro",
+      "size": 8388608,
+      "crc32": "2b077058",
+      "md5": "bffd02ca80738dc0201fece3dcb8b4ce",
+      "sha1": "926b6c74d408cb3ff37a5276ddc3be8e2512c0b3",
+      "sha256": "1e39c17d059d525a86215b12e73e3bcccd4f43885507dfe28432bf79844e30e0"
+    },
+    {
+      "name": "Duke Nukem Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AD9E",
+      "size": 8388608,
+      "crc32": "06570282",
+      "md5": "dfca43fb18b5ee86b3ecab2631862d6f",
+      "sha1": "ef9d2c9910a95e456447ee7288ae5aa659b33ad2"
+    },
+    {
+      "name": "Duke Nukem Advance (Europe) (En,Fr,De,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AD9P",
+      "size": 8388608,
+      "crc32": "dc7dab56",
+      "md5": "54bc72ab1f56930ddb05c66f118d7608",
+      "sha1": "f01522ee46f5aa821adbba0a97b1a745ff9059f5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Duke%20Nukem%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Duke%20Nukem%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Duke%20Nukem%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Duke%20Nukem%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Duke%20Nukem%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Duke%20Nukem%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -17,5 +17,65 @@
     "wikidata": "Q114937151",
     "mobygames": 89276,
     "igdb": 47709
-  }
+  },
+  "roms": [
+    {
+      "name": "My Baby - Boy (Europe) (En,Fr,De,Es,It,Nl,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CBAX",
+      "size": 33554432,
+      "crc32": "7dc8ce4f",
+      "md5": "52e9ed10a8d68026d351fbd33a17ab63",
+      "sha1": "b715d1ab35a6f5e3e5b1d6d7105d305170c1567a"
+    },
+    {
+      "name": "My Baby - Boy (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CBAE",
+      "size": 33554432,
+      "crc32": "70103600",
+      "md5": "1766e9ace1788ec3ef014d42f341220d",
+      "sha1": "2847ab4fbaa0f9b6d25db6b106a2c520ff7e521d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Baby%20-%20Boy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Baby%20-%20Boy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Baby%20-%20Boy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Baby%20-%20Boy%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Baby%20-%20Boy%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Baby%20-%20Boy%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

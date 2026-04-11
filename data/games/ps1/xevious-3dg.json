@@ -54,5 +54,74 @@
     "wikidata": "Q5099488",
     "mobygames": 19958,
     "igdb": 20133
-  }
+  },
+  "roms": [
+    {
+      "name": "Xevious 3D-G+ (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 430160448,
+      "crc32": "3ca0afff",
+      "md5": "a03be5c7cb84d39500b19e3d31d52263",
+      "sha1": "2893b8069e128ba8c39f7f1d4f89ba28c8e9da4a",
+      "sha256": "ab4477013c60b43a0c53e53fcbe2d592bd8266be14c7148fe79899fe5b2c9007"
+    },
+    {
+      "name": "Xevious 3D-G+ (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 420575104,
+      "crc32": "a208a844",
+      "md5": "a91418b2ae03b0fdf26b086d11fea4a2",
+      "sha1": "ee224df1983cca1262b9e79a06a4b5675a02f004"
+    },
+    {
+      "name": "Xevious 3D-G+ (USA) (Placeholder)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 229136,
+      "crc32": "a90b5cf4",
+      "md5": "f778f3c4cc5997f05f8ff7224908fa14",
+      "sha1": "2fd3d7e94470be6dd1a227f47c3e04977a7824ed",
+      "sha256": "9fb806dac16b6d852c2114b19de27d6445d584d202c40aebe6a6904b6d418395"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Xevious%203D-G%2B%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Xevious%203D-G%2B%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Xevious%203D-G%2B%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Xevious%203D-G%2B%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Xevious%203D-G%2B%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Xevious%203D-G%2B%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

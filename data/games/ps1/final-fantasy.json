@@ -74,6 +74,42 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Final Fantasy V",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "파이널 판타지 V",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "最终幻想V",
+      "lang": "zh",
+      "script": "Hans",
+      "region": "cn",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "最終幻想V",
+      "lang": "zh",
+      "script": "Hant",
+      "region": "tw",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1987-12-18",
@@ -81,5 +117,73 @@
     "wikidata": "Q1415970",
     "mobygames": 37334,
     "igdb": 288349
-  }
+  },
+  "roms": [
+    {
+      "name": "Final Fantasy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 58383360,
+      "crc32": "bc56f8a8",
+      "md5": "64d377a42abbecf62a4c570d3318a249",
+      "sha1": "5793ffdaa39e741b7ba039924b1b8df2a596e5ad",
+      "sha256": "4ab02e889499c9f584072b0ef05744b711080409a7a3dbda94f5bb7867b2381d"
+    },
+    {
+      "name": "Final Fantasy V (Asia)",
+      "source": "no_intro",
+      "size": 152836016,
+      "crc32": "8413f572",
+      "md5": "46f2f5e5c775bad82daaf8e7924e2ccb",
+      "sha1": "71ce176e1e3af362a70df81fba427dd9d41a04cb"
+    },
+    {
+      "name": "Final Fantasy V (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 118387600,
+      "crc32": "9760eeef",
+      "md5": "92c133949091fa6ddd2f79d83fe148ce",
+      "sha1": "023b02c35a0328f5bba3e0ac6b970210dc0ed4e6",
+      "sha256": "e568aebeca533477aec695d1fc16045e21e88b94330c555dd3fefd42ca3423fc"
+    },
+    {
+      "name": "Final Fantasy V (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 152853184,
+      "crc32": "e6ef7c47",
+      "md5": "4c095345ca6caebb1a14a634fe9b34b8",
+      "sha1": "48b43be6c3f028e8bb75880b2b305bbf9ff317fc"
+    },
+    {
+      "name": "Final Fantasy V (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 169891344,
+      "crc32": "b17bbc7a",
+      "md5": "4b8c116f61a191789eb799cedd49aae4",
+      "sha1": "e56c2319d4a5b99e6a2365ac6723b5be72133e86"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Final%20Fantasy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Final%20Fantasy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

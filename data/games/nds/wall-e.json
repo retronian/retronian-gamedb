@@ -72,5 +72,295 @@
     "wikidata": "Q1328166",
     "mobygames": 37197,
     "igdb": 320385
-  }
+  },
+  "roms": [
+    {
+      "name": "WALL-E (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YWLP",
+      "size": 33554432,
+      "crc32": "e580b2ba",
+      "md5": "a08dec9273544917d54d0f2efaf1b80f",
+      "sha1": "9b88773bd64cfb99a26a87f2ee3a190ffd1b07ff"
+    },
+    {
+      "name": "WALL-E (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YWLJ",
+      "size": 33554432,
+      "crc32": "75d03242",
+      "md5": "4865375cd517d15252d9c0b2bbf29e5b",
+      "sha1": "95b66d9b7f23863fdaf29473c98ebd44a90e9862"
+    },
+    {
+      "name": "WALL-E (Europe) (En,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YWLX",
+      "size": 33554432,
+      "crc32": "942cdf3d",
+      "md5": "4150250f4d1e5edd2caa4cfa177518d6",
+      "sha1": "82800ee9b10c178f0e5d9d29038eb4f3a99b3654",
+      "sha256": "00e72d332ed3ba0e52957af0f20e5b972e0651c2b73d0c10741431a8463478c7"
+    },
+    {
+      "name": "WALL-E (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "YWLK",
+      "size": 33554432,
+      "crc32": "c4854647",
+      "md5": "577667cb46532c97bc7133cc50f043c8",
+      "sha1": "e9f91e3574d63309370f218f1f72e2b1b4fbabf1",
+      "sha256": "a67c90e0d5615650ee99c5b8356b062ee24c5cde535324c1db976580f386b1d6"
+    },
+    {
+      "name": "WALL-E (Europe) (It,El)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YWLW",
+      "size": 33554432,
+      "crc32": "d3507a04",
+      "md5": "4cfe2119cf86ec62970bd5fb3ae4434f",
+      "sha1": "65689287c870f2ebfa3979d3af7d345498095a49",
+      "sha256": "028b718142718c865d64da20eead2b10c03351919542487124ca53f44e03a4bf"
+    },
+    {
+      "name": "WALL-E (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YWLE",
+      "size": 33554432,
+      "crc32": "10fe7af9",
+      "md5": "e93d53cba4c959a8ae5c9ff28755c83f",
+      "sha1": "187c5bb6d46a906856ef3e829c437dcb194802e2",
+      "sha256": "a037041c6b60dfdc9cdfd86d2a79b28700de61cc354b5d0a8af26a336a5e3392"
+    },
+    {
+      "name": "WALL-E (Europe) (Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YWLY",
+      "size": 33554432,
+      "crc32": "984d71f0",
+      "md5": "0af4fa79470109e71de04ea0dbeb49bc",
+      "sha1": "a55f0da97213f68a9451e6a42c1fb276a1890a63",
+      "sha256": "2fddc5d3aaa448b867c7bdb760188859302d5ffec558b887701e395ad4e9ff0d"
+    },
+    {
+      "name": "WALL-E (Europe) (Es,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YWLZ",
+      "size": 33554432,
+      "crc32": "469e717c",
+      "md5": "b2c32e673e97f7e80f230a0a4b016701",
+      "sha1": "2bc2d7da5b9654d95248d6a97edc651883dd0a96"
+    },
+    {
+      "name": "WALL-E (USA) (En,Fr,Es) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YWLE",
+      "size": 33554432,
+      "crc32": "c6aa73cf",
+      "md5": "a1e27f0f18628d4d1400b4fdde2ab42f",
+      "sha1": "97745ddc1270473792b1a4ffcf241e161b697740"
+    },
+    {
+      "name": "WALL-E (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "Y5VE",
+      "size": 8388608,
+      "crc32": "1aa916dd",
+      "md5": "efed243d09bf69061b5d2803b5032b18",
+      "sha1": "e8fdc0370511b2a20bc066f406c1e9df1c936d14",
+      "sha256": "7f2737a67c23eac52198e033acd5f6ace93a3f18cd96a6734bf30780e005309e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WALL-E%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/WALL-E%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WALL-E%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WALL-E%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/WALL-E%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WALL-E%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WALL-E%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/WALL-E%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WALL-E%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WALL-E%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/WALL-E%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WALL-E%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WALL-E%20%28Europe%29%20%28It%2CEl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/WALL-E%20%28Europe%29%20%28It%2CEl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WALL-E%20%28Europe%29%20%28It%2CEl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WALL-E%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/WALL-E%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WALL-E%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WALL-E%20%28Europe%29%20%28Fr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/WALL-E%20%28Europe%29%20%28Fr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WALL-E%20%28Europe%29%20%28Fr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WALL-E%20%28Europe%29%20%28Es%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/WALL-E%20%28Europe%29%20%28Es%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WALL-E%20%28Europe%29%20%28Es%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WALL-E%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/WALL-E%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WALL-E%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WALL-E%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/WALL-E%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WALL-E%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

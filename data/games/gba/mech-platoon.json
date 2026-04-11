@@ -53,5 +53,66 @@
     "wikidata": "Q6804438",
     "mobygames": 16205,
     "igdb": 6508
-  }
+  },
+  "roms": [
+    {
+      "name": "Mech Platoon (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AKGP",
+      "size": 8388608,
+      "crc32": "4b3e0531",
+      "md5": "1de4ebf40c819e8cfb20b84f6dcdf718",
+      "sha1": "a5190c06f34b1617a6bd102c5d4829f8462d589b",
+      "sha256": "9599e6cc7c0c2ca5abab4a8d1bb24cd4b21eb88ab8d64000169fd9fb7637e854"
+    },
+    {
+      "name": "Mech Platoon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AKGE",
+      "size": 8388608,
+      "crc32": "769fde96",
+      "md5": "ab0999e2d7c13ada9cf374cd0aa47f97",
+      "sha1": "8a9bd790c9cd831366a00cdde72a9f3fec89cb61"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mech%20Platoon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mech%20Platoon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mech%20Platoon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mech%20Platoon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mech%20Platoon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mech%20Platoon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

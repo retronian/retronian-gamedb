@@ -63,5 +63,67 @@
     "wikidata": "Q2527040",
     "mobygames": 1603,
     "igdb": 243941
-  }
+  },
+  "roms": [
+    {
+      "name": "Lemmings 2 - The Tribes (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-113036-00",
+      "size": 2097152,
+      "crc32": "741eb624",
+      "md5": "be93aaaaa9911651befda50cb916d6b9",
+      "sha1": "b56f9e78dee0186c8f8103c7d125e8b497eb0196",
+      "sha256": "afdcc69e3630c4a395bc1c2cf026fd2af53d59006c789d2b23105fc34dbd5165"
+    },
+    {
+      "name": "Lemmings 2 - The Tribes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-113036-00",
+      "size": 2097152,
+      "crc32": "de59a3a3",
+      "md5": "95bc829e8a054853ca2f953a68dc531d",
+      "sha1": "1de84f5c9b25f6af4c2c3e18bb710b9572fc0a10",
+      "sha256": "a0b6e03d6ad4dac6124e32c5370c6b060ac31df8fe057fb1f7d400b633952ca4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lemmings%202%20-%20The%20Tribes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lemmings%202%20-%20The%20Tribes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lemmings%202%20-%20The%20Tribes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lemmings%202%20-%20The%20Tribes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lemmings%202%20-%20The%20Tribes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lemmings%202%20-%20The%20Tribes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

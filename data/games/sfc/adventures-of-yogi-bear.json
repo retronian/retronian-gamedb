@@ -54,5 +54,65 @@
     "wikidata": "Q2020509",
     "mobygames": 25815,
     "igdb": 8010
-  }
+  },
+  "roms": [
+    {
+      "name": "Adventures of Yogi Bear (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "7448d45c",
+      "md5": "4e974bb549016f59a807b7d11240fb37",
+      "sha1": "2f6950f1330709ea4de33995df6b9b9877ece587",
+      "sha256": "8049175767eddbc3e21ca5b94ee23fc225f834ccfab4ded30d2e981b0ef73ab6"
+    },
+    {
+      "name": "Yogi Bear's Cartoon Capers (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "31703471",
+      "md5": "f61510614522a87f0998c06a6f6db16b",
+      "sha1": "f2e7853b18613cba9a529676bb8f91275a400341",
+      "sha256": "163399c955e6d813056826e53fc1a7d21d8958e3d11c6384854cc284412caffb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Adventures%20of%20Yogi%20Bear%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Adventures%20of%20Yogi%20Bear%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Adventures%20of%20Yogi%20Bear%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Yogi%20Bear%27s%20Cartoon%20Capers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Yogi%20Bear%27s%20Cartoon%20Capers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Yogi%20Bear%27s%20Cartoon%20Capers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

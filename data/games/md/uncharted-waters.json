@@ -60,5 +60,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Daikoukai Jidai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-76053-10",
+      "size": 1048576,
+      "crc32": "5a652458",
+      "md5": "113d3425757c0719660b885c4d66f5e3",
+      "sha1": "a4552b23079b161da9ad47ac7cb9c4ecb3731967",
+      "sha256": "8681df55de17a5867a206c10865a46c90f0d7aececd9e665fa5020f740d6797c"
+    },
+    {
+      "name": "Uncharted Waters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-76026-10",
+      "size": 1048576,
+      "crc32": "4edaec59",
+      "md5": "ea5d0387e848f2e0203b8d7da8c57038",
+      "sha1": "a76cf7dd06784cba15fa0c3be0ae92cba71ccade",
+      "sha256": "0fc219a7900e24afea407781da951228ad65625d0ef85baaae749ce7b0cfc1b5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Daikoukai%20Jidai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Daikoukai%20Jidai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Daikoukai%20Jidai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Uncharted%20Waters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Uncharted%20Waters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Uncharted%20Waters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

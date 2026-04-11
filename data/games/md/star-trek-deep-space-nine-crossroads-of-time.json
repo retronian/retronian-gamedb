@@ -36,5 +36,67 @@
     "wikidata": "Q3496985",
     "mobygames": 21349,
     "igdb": 3280
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Trek - Deep Space Nine - Crossroads of Time (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70436-50",
+      "size": 1048576,
+      "crc32": "d4b122f9",
+      "md5": "994671ca4d4a2bde25042ed3eb7ffb0b",
+      "sha1": "efc96336ccd83c31ab48ab48fe1e262c3ebcf0be",
+      "sha256": "f36db4f0d8b4375b8c682b24dc8d088520b33798864d7da3b65b2230e896b083"
+    },
+    {
+      "name": "Star Trek - Deep Space Nine - Crossroads of Time (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-132016-00",
+      "size": 1048576,
+      "crc32": "a771e1a4",
+      "md5": "0eec35fa119138eb472f81b1f227283c",
+      "sha1": "3918dcf48d99d075a6062d967a0f27fb56f89ad2",
+      "sha256": "fb5be05fdbcc1916d7dd1303db02a42be1dff7b0634d9d2786ae4a5ee038b864"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Star%20Trek%20-%20Deep%20Space%20Nine%20-%20Crossroads%20of%20Time%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Star%20Trek%20-%20Deep%20Space%20Nine%20-%20Crossroads%20of%20Time%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Star%20Trek%20-%20Deep%20Space%20Nine%20-%20Crossroads%20of%20Time%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Star%20Trek%20-%20Deep%20Space%20Nine%20-%20Crossroads%20of%20Time%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Star%20Trek%20-%20Deep%20Space%20Nine%20-%20Crossroads%20of%20Time%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Star%20Trek%20-%20Deep%20Space%20Nine%20-%20Crossroads%20of%20Time%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

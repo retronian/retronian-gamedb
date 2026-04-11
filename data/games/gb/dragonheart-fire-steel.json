@@ -35,5 +35,61 @@
   "external_ids": {
     "wikidata": "Q48838042",
     "mobygames": 52966
-  }
+  },
+  "roms": [
+    {
+      "name": "DragonHeart (France)",
+      "source": "no_intro",
+      "size": 524288,
+      "crc32": "8d089356",
+      "md5": "97c000e7b02914512ee05b1159371483",
+      "sha1": "6b01e78df8a7dc3fb171d488cae38501fce3b660",
+      "sha256": "72a9101f7a0b3acbb5d12a842f81d6d5b973bb5d10086f95a09a05ecc0e9aac3"
+    },
+    {
+      "name": "DragonHeart (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "5129a518",
+      "md5": "f9e94b9a134d900a3b971e206f4e826c",
+      "sha1": "1800ceeba6ed491e5f85997c945ab52b09f6e4ba",
+      "sha256": "498d2fc2b818207b3ccde17e203f765cff469e04bd5597b5f4814f4f9a12442a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/DragonHeart%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/DragonHeart%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/DragonHeart%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/DragonHeart%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/DragonHeart%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/DragonHeart%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

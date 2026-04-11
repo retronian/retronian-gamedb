@@ -65,6 +65,33 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Adventures of Lolo II",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "アドベンチャーズ オブ ロロII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "アドベンチャーズ オブ ロロ 2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
     }
   ],
   "first_release_date": "1990-03-20",
@@ -72,5 +99,156 @@
     "wikidata": "Q515649",
     "mobygames": 7505,
     "igdb": 6472
-  }
+  },
+  "descriptions": [
+    {
+      "text": "ロロシリーズ第2弾。前作よりパズルの難易度が上がり、やりごたえ満点。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Adventures of Lolo 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "444e95bd",
+      "md5": "c34d24ccef363ee0cea0379fca95ee5a",
+      "sha1": "d7119ae418addb75906ee84912dd40cd29ec202f",
+      "sha256": "53ad9b5540df0f6185bb6076fb101119470826526b9a22f145a13905b8c1faa6"
+    },
+    {
+      "name": "Adventures of Lolo 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "f4cc279a",
+      "md5": "da9b5dc883a456394ce7b65545ee0952",
+      "sha1": "6e732ac696bb685f4a14879e32bb27d24759d88c",
+      "sha256": "90e150a53bc7ecdc078f9be04e8da2038ea9bc2eee0cf80c97dc1b7ff2db3fe3"
+    },
+    {
+      "name": "Adventures of Lolo II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "1620f77d",
+      "md5": "19dd5c440d1915bee7a89c1f590bf9f4",
+      "sha1": "8a90003596d7b5e9fbfa92c0e0c0c6fbdf604869",
+      "sha256": "b0487bd43116aba75eea2ffcb336db3c472dd6a229f0e0a6808d34ca6508c86e"
+    },
+    {
+      "name": "Adventures of Lolo 2 (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "ae30b974",
+      "md5": "eba68793f8e3a2736c3018dc34954d19",
+      "sha1": "83c7859a327842615d2c886f487aff9e53027dc5",
+      "sha256": "f2edf9ca9a430fc8f6a103e32664cfd4df4ba7ef176b0b25a6ee8fb11b11f332"
+    },
+    {
+      "name": "Adventures of Lolo 2 (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "1eb20b53",
+      "md5": "006daa1c0124cb599822bd384f17fb2d",
+      "sha1": "78697b33cf04a8bf9d4dee3eb2e7f76ddc22efaf",
+      "sha256": "86f94c55cd72157b06b03030a9090066c98bb0b0dbad920de32c5ac7292e22d8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Adventures%20of%20Lolo%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Adventures%20of%20Lolo%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Adventures%20of%20Lolo%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Adventures%20of%20Lolo%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Adventures%20of%20Lolo%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Adventures%20of%20Lolo%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Adventures%20of%20Lolo%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Adventures%20of%20Lolo%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Adventures%20of%20Lolo%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Adventures%20of%20Lolo%202%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Adventures%20of%20Lolo%202%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Adventures%20of%20Lolo%202%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Adventures%20of%20Lolo%202%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Adventures%20of%20Lolo%202%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Adventures%20of%20Lolo%202%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,96 @@
     "wikidata": "Q864177",
     "mobygames": 683,
     "igdb": 238952
-  }
+  },
+  "roms": [
+    {
+      "name": "Lemmings (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1704-00",
+      "size": 1048576,
+      "crc32": "6a1a4579",
+      "md5": "0b00509e9857cb97243e9f2741e90de1",
+      "sha1": "f4b86031e348edb4dcffaf969998f368955828ce",
+      "sha256": "9ee85fb76300894e03cf6d4ad6f2d3791ab8f27b0babae8ee323cfea62cbc093"
+    },
+    {
+      "name": "Lemmings (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-15063-01",
+      "size": 1048576,
+      "crc32": "68c70362",
+      "md5": "03af74df7f90f5bd7286ef3b48f0a6ae",
+      "sha1": "61d468378c06a3d1044a8e11255294b46d0c094d",
+      "sha256": "c80a839efb045d1f8b192d7baff18cf8b8f651e0243b774fa06e5fcb3c6cdab8"
+    },
+    {
+      "name": "Lemmings (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-15063-00",
+      "size": 1048576,
+      "crc32": "f015c2ad",
+      "md5": "b87773c8f0e20490bc601c02ce85da60",
+      "sha1": "83aebf600069cf053282e813d3ab4910f586706e",
+      "sha256": "41aab2593fdb1e7b59501c062165058b476b01634128400040853b692ef9f8b8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lemmings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lemmings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lemmings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lemmings%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lemmings%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lemmings%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lemmings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lemmings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lemmings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

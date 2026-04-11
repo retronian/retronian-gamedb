@@ -54,5 +54,53 @@
     "wikidata": "Q385201",
     "mobygames": 80425,
     "igdb": 201340
-  }
+  },
+  "roms": [
+    {
+      "name": "MySims - Agents (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C38P",
+      "size": 67108864,
+      "crc32": "4796d731",
+      "md5": "1091289081b272e4044f06e6833f0ce2",
+      "sha1": "e72e9325f64d806aff3f40a260f109c121123819"
+    },
+    {
+      "name": "MySims - Agents (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C38E",
+      "size": 67108864,
+      "crc32": "6a57d189",
+      "md5": "640415424e952e77baf8ee9cf751ed25",
+      "sha1": "8ea259394ca0b96ef2d929c6123cbcb9c6639d83"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MySims%20-%20Agents%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MySims%20-%20Agents%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MySims%20-%20Agents%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MySims%20-%20Agents%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

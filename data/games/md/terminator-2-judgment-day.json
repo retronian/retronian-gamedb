@@ -83,6 +83,33 @@
       "form": "official",
       "source": "romu",
       "verified": true
+    },
+    {
+      "text": "ターミネーター2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Terminator 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Terminator 2",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1991-10-31",
@@ -96,6 +123,89 @@
       "text": "タイトルが示すように、これは映画「ターミネーター2：ジャッジメント・デイ」に基づいたアーケードのレールシューティングゲームの家庭用移植版です。最大2人のプレイヤーが、人間の抵抗勢力に仕えるよう再プログラムされたロボットキラーたちと共に、未来と現在のレベルを撃ち抜きます。\n\n両プレイヤーは無限の弾薬を持つマシンガンを操り、連続で発射すると発射レートが低下（オーバーヒート）します。サブ武器（未来ではミサイルランチャー、現在ではショットガン）は弾薬が限られていますが、大きなダメージを与えます。ゲーム内のパワーアップにはサブ武器の弾薬やマシンガン用の冷却剤が含まれ、撃って集めることができます。",
       "lang": "ja",
       "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "T2 - The Arcade Game (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-000000-00",
+      "size": 1048576,
+      "crc32": "94255703",
+      "md5": "eac97bb10a17764668a35598fe41de26",
+      "sha1": "87660389d70d73e5f0f68d672a0843712f7c4c85",
+      "sha256": "e05e03f0b33775e5cc844c5adb8fedd41abb721fd3778ff072092112ba5cbcb9"
+    },
+    {
+      "name": "T2 - The Arcade Game (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-081156-01",
+      "size": 1048576,
+      "crc32": "a1264f17",
+      "md5": "3c2666bcc3c42a4218e46c5aba2bca15",
+      "sha1": "85cc1cf3379d3ce23ca3c03d84fe6e2b3adc9c56",
+      "sha256": "cd2fbb02b42cb0f4e26b4aa5fa1c79ba798c48233ae4e02e19012b08c6848071"
+    },
+    {
+      "name": "T2 - The Arcade Game (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-081023-00",
+      "size": 1048576,
+      "crc32": "5e6fe52c",
+      "md5": "a8116b3d4cb98089cfa78fe4a7f9e5bb",
+      "sha1": "64d0778d38b5eb0664c1b85e0689de637a416654",
+      "sha256": "5263a9297684ce1a685e2442afdcf9f9dce009a1c436e153e82d32dc65974fad"
+    },
+    {
+      "name": "Terminator 2 (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 1048576,
+      "crc32": "5389459e",
+      "md5": "d65d5ac82dc31df5792b011b77be784b",
+      "sha1": "a111df83c429442bf0a46879fb8e0dbc01e1303d",
+      "sha256": "366bceae0ce09a052c96bb4ee11e37954e472b90c3dec0c16ae774bee57803d9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/T2%20-%20The%20Arcade%20Game%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/T2%20-%20The%20Arcade%20Game%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/T2%20-%20The%20Arcade%20Game%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/T2%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/T2%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/T2%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
     }
   ]
 }

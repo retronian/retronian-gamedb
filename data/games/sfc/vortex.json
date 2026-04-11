@@ -72,5 +72,65 @@
     "wikidata": "Q6229862",
     "mobygames": 32542,
     "igdb": 81436
-  }
+  },
+  "roms": [
+    {
+      "name": "Vortex (Europe) (En,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "c6867604",
+      "md5": "142e09e60a279244e99fdef1ae9e7dc4",
+      "sha1": "92daba15d422654c29c01457b572c07f06a2c1bc",
+      "sha256": "150073c04e9c0e8b283a8eb237acea8fda3268c722f922ee42642009e17dc729"
+    },
+    {
+      "name": "Vortex (USA) (En,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "31b1ad00",
+      "md5": "c4a6eb75ed7c81d92d298ca0fe591921",
+      "sha1": "3a71b63605ddecf827d60554c2ddaccdd85b9624",
+      "sha256": "41b5561de9e4984276e52987ea46c5f4fa8526d8141c70c738875a9eb9fe9d70"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Vortex%20%28Europe%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Vortex%20%28Europe%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Vortex%20%28Europe%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Vortex%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Vortex%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Vortex%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

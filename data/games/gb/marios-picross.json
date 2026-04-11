@@ -78,5 +78,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mario no Picross (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "17533700",
+      "md5": "defe3559ef5e8d69ca95289edb6f9f6e",
+      "sha1": "6b72cbff3e224299eff6f79e0110a477b8f840c2",
+      "sha256": "eb13fba45c077e52b6947d53cd36ff2fa2f79be39004681dc8f3b4bd93743173"
+    },
+    {
+      "name": "Mario's Picross (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "f2d652ad",
+      "md5": "ccaf9331318d4dfe3d1ee681928a74fd",
+      "sha1": "9712f37171b8a0cdc99a60170ea7b2aed161195e",
+      "sha256": "0d479d68a4ac800ab9fde8b3db016af718c13a979163b3eb34b00af96550cd3e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mario%20no%20Picross%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mario%20no%20Picross%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mario%20no%20Picross%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mario%27s%20Picross%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mario%27s%20Picross%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mario%27s%20Picross%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

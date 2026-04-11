@@ -35,5 +35,66 @@
   "external_ids": {
     "wikidata": "Q11749207",
     "mobygames": 32004
-  }
+  },
+  "roms": [
+    {
+      "name": "7 Wonders of the Ancient World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "Y7WE",
+      "size": 8388608,
+      "crc32": "14d7a26f",
+      "md5": "178d3a3c1988b505b29145d94f46b9ea",
+      "sha1": "83c1aa3faefe0bff8123b6a3d6dc2e8603af91f8",
+      "sha256": "86f8adf59df9d467bba46a2912641b8fd7c986c8d3cb07fd6a5c03e08fe71172"
+    },
+    {
+      "name": "7 Wonders of the Ancient World (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "Y7WP",
+      "size": 16777216,
+      "crc32": "ee2017f7",
+      "md5": "b8c424935a3a279769ed7547976b5881",
+      "sha1": "a4e9ca9442583040702f276f6ad6f972122837fb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/7%20Wonders%20of%20the%20Ancient%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/7%20Wonders%20of%20the%20Ancient%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/7%20Wonders%20of%20the%20Ancient%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/7%20Wonders%20of%20the%20Ancient%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/7%20Wonders%20of%20the%20Ancient%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/7%20Wonders%20of%20the%20Ancient%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

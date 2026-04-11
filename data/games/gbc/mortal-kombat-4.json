@@ -72,5 +72,60 @@
     "wikidata": "Q925269",
     "mobygames": 1128,
     "igdb": 200683
-  }
+  },
+  "roms": [
+    {
+      "name": "Mortal Kombat 4 (Germany) (En) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "87588725",
+      "md5": "7311f937a542baadf113e9115158cde3",
+      "sha1": "1006b279eab113afe50f84e714a93c63de8cbfcf",
+      "sha256": "d47aaa4ec90c340e61a3e7481000c02d5b6df44ad1c1900479e06318baf12ba9"
+    },
+    {
+      "name": "Mortal Kombat 4 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "4eb71448",
+      "md5": "168ae412b379786f7df07bd8231baf44",
+      "sha1": "ea54fb35cd8c4d4cea234423a81f8f953b1d33e4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Mortal%20Kombat%204%20%28Germany%29%20%28En%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Mortal%20Kombat%204%20%28Germany%29%20%28En%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Mortal%20Kombat%204%20%28Germany%29%20%28En%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Mortal%20Kombat%204%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Mortal%20Kombat%204%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Mortal%20Kombat%204%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

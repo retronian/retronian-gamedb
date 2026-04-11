@@ -63,5 +63,54 @@
     "wikidata": "Q2539807",
     "mobygames": 34521,
     "igdb": 249760
-  }
+  },
+  "roms": [
+    {
+      "name": "Tony Hawk's Proving Ground (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YT9E",
+      "size": 67108864,
+      "crc32": "2f359b53",
+      "md5": "6deaece9c9cced1d6b1cdf8dc32257a1",
+      "sha1": "93ae9a27c71670992c1bde45e1a68457c3c57ca0"
+    },
+    {
+      "name": "Tony Hawk's Proving Ground (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YT9P",
+      "size": 67108864,
+      "crc32": "a9085e77",
+      "md5": "21a5fe6ed8618b9ab4e78bde0983bb77",
+      "sha1": "495dbb885d8c439d0b73f3f035dc29fa53576aac",
+      "sha256": "d4a96f832df3585b2432dc252e76c102b100444d684f25d1e0103690b2e90f47"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tony%20Hawk%27s%20Proving%20Ground%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tony%20Hawk%27s%20Proving%20Ground%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tony%20Hawk%27s%20Proving%20Ground%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tony%20Hawk%27s%20Proving%20Ground%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

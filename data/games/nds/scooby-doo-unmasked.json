@@ -36,5 +36,65 @@
     "wikidata": "Q647667",
     "mobygames": 20426,
     "igdb": 228909
-  }
+  },
+  "roms": [
+    {
+      "name": "Scooby-Doo! - Unmasked (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASDE",
+      "size": 16777216,
+      "crc32": "ad081a1d",
+      "md5": "0259621fe04e410e90679a6b3f2c6de0",
+      "sha1": "88a4e29243670ee2beb30cc6a6eb90a920a62d3a"
+    },
+    {
+      "name": "Scooby-Doo! - Unmasked (Europe) (En,Fr,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASDP",
+      "size": 16777216,
+      "crc32": "2a7af742",
+      "md5": "9e389890347b5e50f058f79dc814d325",
+      "sha1": "ff513d393752833a913d29665f594430483da856"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scooby-Doo%21%20-%20Unmasked%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Scooby-Doo%21%20-%20Unmasked%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scooby-Doo%21%20-%20Unmasked%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scooby-Doo%21%20-%20Unmasked%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Scooby-Doo%21%20-%20Unmasked%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scooby-Doo%21%20-%20Unmasked%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

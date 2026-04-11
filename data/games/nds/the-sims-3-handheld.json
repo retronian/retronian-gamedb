@@ -53,5 +53,53 @@
   "external_ids": {
     "wikidata": "Q97204213",
     "mobygames": 85177
-  }
+  },
+  "roms": [
+    {
+      "name": "Sims 3, The (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VS3V",
+      "size": 134217728,
+      "crc32": "fcbfa6e2",
+      "md5": "0c0522113537d32876123a67578284ef",
+      "sha1": "4e8d9ccf113fa859991433b90568d7ab7a36f773"
+    },
+    {
+      "name": "Sims 3, The (USA) (En,Fr,Es) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VS3E",
+      "size": 134217728,
+      "crc32": "dd214bc5",
+      "md5": "7cdf32d02eeeff592a0a4ab6bec7b5c1",
+      "sha1": "623dea494449e3f60ace691dfbf4f7fd285950f6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sims%203%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sims%203%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sims%203%2C%20The%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sims%203%2C%20The%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

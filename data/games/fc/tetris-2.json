@@ -62,5 +62,65 @@
   "external_ids": {
     "wikidata": "Q11319329",
     "igdb": 263866
-  }
+  },
+  "roms": [
+    {
+      "name": "Tetris 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "8d392a5f",
+      "md5": "3f9e77188ab8cff211c9eef48edc5953",
+      "sha1": "b31a44e9532f8c33bf8ab9e6b2ef290b8edd3bcf",
+      "sha256": "70606ad02026561abef261986ae35f0b998ce0f395cbdc0f89037ff72dfe2680"
+    },
+    {
+      "name": "Tetris 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "88af6c84",
+      "md5": "c1584f3dbcdf9a4e0bcc611e6143f05a",
+      "sha1": "ae5380d4e861176c79a423221bbb0699e3de8e3e",
+      "sha256": "6bfbc5b887d03cd53b7460fbef0e0ac76785af59ace9348c0676439b79d1b3ed"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tetris%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tetris%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

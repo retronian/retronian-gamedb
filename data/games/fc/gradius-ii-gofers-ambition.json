@@ -114,5 +114,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Gradius II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "ac05fff5",
+      "md5": "2e3d053ee47ec7b58a90c132c4248684",
+      "sha1": "58785fce729c02c435b4ce9cacc528b57b822dae",
+      "sha256": "859bbc0fc5fa31dad15a4d24cd1df19140b55a2c4b4b5936eec439f035166cf7"
+    },
+    {
+      "name": "Gradius II (Japan) (En) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "89a4bb77",
+      "md5": "278d148dd43caf6b206f0a14a5a8e491",
+      "sha1": "ac27c3f3ea8a9562d30217aa3c5b3b9408886793",
+      "sha256": "cb3f1d9edd64e242aa052466fa69c476e72285ea6ad5a5412b2ba94cb5504419"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gradius%20II%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gradius%20II%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gradius%20II%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

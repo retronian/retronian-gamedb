@@ -27,5 +27,46 @@
     "wikidata": "Q2098302",
     "mobygames": 7622,
     "igdb": 381643
-  }
+  },
+  "roms": [
+    {
+      "name": "Target - Renegade (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6f2d5e04",
+      "md5": "772a08465bd10363e7d23e9344da5718",
+      "sha1": "257d4a88c03ea3ed373c7e188cdae981a26ed00b",
+      "sha256": "0c61a80dfcaacfa2b36a4f89ae9fa185b10a823fdca585aa8d23978191546265"
+    },
+    {
+      "name": "Target - Renegade (World) (Evercade)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "ef065eb8",
+      "md5": "9c0161d425b5819d174f697c74ec8a52",
+      "sha1": "ab9a0f8940ed62afedbd96b4258b58925329a321",
+      "sha256": "13f2485d5f4331e416471b73fab9a3a8c14e9b19b046b2295bc0a92874401544"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Target%20-%20Renegade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Target%20-%20Renegade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Target%20-%20Renegade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

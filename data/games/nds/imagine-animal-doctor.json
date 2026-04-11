@@ -63,5 +63,66 @@
     "wikidata": "Q16259677",
     "mobygames": 33177,
     "igdb": 4925
-  }
+  },
+  "roms": [
+    {
+      "name": "Imagine - Animal Doctor (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YPVE",
+      "size": 67108864,
+      "crc32": "2be88a54",
+      "md5": "e71e7cf214474a9145d545b709f394f8",
+      "sha1": "7a3c7e10bc6e6d404b59b50857012d1c6562f516"
+    },
+    {
+      "name": "Imagine - Pet Vet (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YPVP",
+      "size": 67108864,
+      "crc32": "8d63bc15",
+      "md5": "a85f438808f09913ba822d0b0a4974de",
+      "sha1": "9654cd71539499dd267e30e97f16266e69366cf5",
+      "sha256": "361b31dfe016acac4977c1fbfb97f6e3da1110dba0bde598be7a450bb3db2102"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Animal%20Doctor%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Imagine%20-%20Animal%20Doctor%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Animal%20Doctor%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Pet%20Vet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Imagine%20-%20Pet%20Vet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Pet%20Vet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -20,10 +20,53 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Sailor Moon R",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "external_ids": {
     "wikidata": "Q109016249",
-    "igdb": 48987
-  }
+    "igdb": 48987,
+    "mobygames": 16898
+  },
+  "first_release_date": "1993-01-01",
+  "roms": [
+    {
+      "name": "Bishoujo Senshi Sailor Moon R (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "4aee5abb",
+      "md5": "39b1e06fae0d6176c6ec4bb98f842eb7",
+      "sha1": "3fe66efa28f97579602eca80fe1765a6f45f762d",
+      "sha256": "8860380ae0afa280619fdca8723aed1393485a22bec442880acc75249cab37f4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Bishoujo%20Senshi%20Sailor%20Moon%20R%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Bishoujo%20Senshi%20Sailor%20Moon%20R%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Bishoujo%20Senshi%20Sailor%20Moon%20R%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

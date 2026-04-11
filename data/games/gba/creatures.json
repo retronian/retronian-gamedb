@@ -72,5 +72,65 @@
     "wikidata": "Q3002413",
     "mobygames": 664,
     "igdb": 313973
-  }
+  },
+  "roms": [
+    {
+      "name": "Creatures (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACTX",
+      "size": 4194304,
+      "crc32": "68206301",
+      "md5": "63afe31b245c10c69e794e2a1d41366b",
+      "sha1": "da03610fce2c684c1dd49daccda6392b7b86d51e"
+    },
+    {
+      "name": "Creatures (Europe) (En,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACTY",
+      "size": 4194304,
+      "crc32": "4f18f57e",
+      "md5": "400ead5c0c15be96de3ebacda5eedda7",
+      "sha1": "2cfe90927401fc2d7f62fcdd2648b2aa0dfa31bf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Creatures%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Creatures%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Creatures%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Creatures%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Creatures%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Creatures%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

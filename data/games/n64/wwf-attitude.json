@@ -45,5 +45,91 @@
     "wikidata": "Q2015773",
     "mobygames": 4833,
     "igdb": 3643
-  }
+  },
+  "roms": [
+    {
+      "name": "WWF Attitude (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NTIP",
+      "size": 33554432,
+      "crc32": "804fe494",
+      "md5": "3fdb2e5f9982fda2c2344a883b8ab6ef",
+      "sha1": "880d3aacae0b3792235404decd294afdad51a0a6",
+      "sha256": "403189fe4c003396404f12589e29ec9d6342d908ef87d9d3fc315aa3fa555c06"
+    },
+    {
+      "name": "WWF Attitude (Germany)",
+      "source": "no_intro",
+      "serial": "NTID",
+      "size": 33554432,
+      "crc32": "ea5d8359",
+      "md5": "b86ec8d19d7d1a50ea900ea10355a735",
+      "sha1": "40c2c6309589755c4cfdbf3e4e39b3788820b199"
+    },
+    {
+      "name": "WWF Attitude (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTIE",
+      "size": 33554432,
+      "crc32": "7a4b3686",
+      "md5": "9faf514cb3dbb742c129deb395dca342",
+      "sha1": "259973eb0ba1d01f1a5fbf3039ed511e6b705f26",
+      "sha256": "a6702c3a7a535b785ad4bd75cdca2e1f15fca59556824b7c54bdae56ecae34d3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WWF%20Attitude%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/WWF%20Attitude%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/WWF%20Attitude%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WWF%20Attitude%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/WWF%20Attitude%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/WWF%20Attitude%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WWF%20Attitude%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/WWF%20Attitude%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/WWF%20Attitude%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

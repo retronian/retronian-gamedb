@@ -54,5 +54,66 @@
     "wikidata": "Q3141079",
     "mobygames": 31965,
     "igdb": 206163
-  }
+  },
+  "roms": [
+    {
+      "name": "Ant Bully, The (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BUYE",
+      "size": 8388608,
+      "crc32": "8d51a101",
+      "md5": "3a64d744d25a221e3f10099a5d55f155",
+      "sha1": "368589e9e80c7a7862002b90adf23ac69dcb38c5",
+      "sha256": "4f52192abda8957a85cac09e6c94d359a58b620959a7f31e6002f57662aaa274"
+    },
+    {
+      "name": "Ant Bully, The (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BUYP",
+      "size": 8388608,
+      "crc32": "52dc386b",
+      "md5": "b9d1da4a076ac3ff5f08fc3a2ab76fc9",
+      "sha1": "a735364887c31a19fa7d250ec830d02220d6a6cd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ant%20Bully%2C%20The%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ant%20Bully%2C%20The%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ant%20Bully%2C%20The%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ant%20Bully%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ant%20Bully%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ant%20Bully%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

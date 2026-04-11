@@ -72,5 +72,64 @@
     "wikidata": "Q1192794",
     "mobygames": 9177,
     "igdb": 209503
-  }
+  },
+  "roms": [
+    {
+      "name": "Missile Command (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "18216e26",
+      "md5": "708f4c9e41d17b8f4fb11cc227fe9989",
+      "sha1": "ba4c1c10cfeb74584338d49a64f835995af734fd"
+    },
+    {
+      "name": "Missile Command (USA) (Rumble Version)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "47543c51",
+      "md5": "1fc58f4e3a2437f4c20c9812162797d8",
+      "sha1": "7bd68586df8754cbc81b2dcbb6e2b5de43f812e8",
+      "sha256": "0b3e5a9611551cc135cebfa67fe3f9aa1a54ef9855c0888b715351035908e126"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Missile%20Command%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Missile%20Command%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Missile%20Command%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Missile%20Command%20%28USA%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Missile%20Command%20%28USA%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Missile%20Command%20%28USA%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

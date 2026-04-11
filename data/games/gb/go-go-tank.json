@@ -43,5 +43,57 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Go! Go! Tank (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "30ae39b6",
+      "md5": "d7bc88e01b7722082b3a5ae729de170e",
+      "sha1": "6a60d5b550355e634ba54d8bd83b51ca55d6874b",
+      "sha256": "7096346b657a8c15bed5b415ce96f75ad3932c44cb133c2f0d034f2098bf10b5"
+    },
+    {
+      "name": "Go! Go! Tank (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "65dfabcb",
+      "md5": "23824d72928a05e9fcf052d42f3c91c6",
+      "sha1": "7f3408c951a161f93394812d34f6d2534658b7d3",
+      "sha256": "da28a447c7f5278d9fa669e4a9592815b588e20c7b5d78be437a613a94034fef"
+    },
+    {
+      "name": "Go! Go! Tank (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "6dcf5e7f",
+      "md5": "9d3d554ace962a9dc4e87544dfa76ed2",
+      "sha1": "18bbee226858af45a81f7da1186938f53511ef73",
+      "sha256": "64a895e8cba136d6a3dd5c115567f619744d7cf227523c391251ca3daf3d9ce3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Go%21%20Go%21%20Tank%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Go%21%20Go%21%20Tank%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Go%21%20Go%21%20Tank%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -51,5 +51,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Bases Loaded 4 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "0dd05476",
+      "md5": "5765b54890e1003577819e29ab3a0e5c",
+      "sha1": "fc7149a5350be337a29e0c414b4a15b0e8c4eb6e",
+      "sha256": "81063cff8fdeae82e6b20747ea676cf1a5c901c1fc7c54c6e03c6a7042f1f92a"
+    },
+    {
+      "name": "Moe Pro! - Saikyou Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "e76e8ca8",
+      "md5": "07ed576edac49d839231aa2fba840126",
+      "sha1": "70941753352506bf0dc654d01ae539ed1e6fb60f",
+      "sha256": "64fe3086367723b42a2d35a0923e0da7cc2ff991587b8caaba2300247a189e71"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bases%20Loaded%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bases%20Loaded%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bases%20Loaded%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Moe%20Pro%21%20-%20Saikyou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Moe%20Pro%21%20-%20Saikyou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Moe%20Pro%21%20-%20Saikyou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

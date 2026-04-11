@@ -72,5 +72,65 @@
     "wikidata": "Q2709426",
     "mobygames": 24308,
     "igdb": 19195
-  }
+  },
+  "roms": [
+    {
+      "name": "MechAssault - Phantom War (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AEAE",
+      "size": 134217728,
+      "crc32": "e04c5e3d",
+      "md5": "91c802b1bdc0b5fd12563941d575dee4",
+      "sha1": "2f69a2e4eccfad9a4d647f5ab116f094e5d0d733"
+    },
+    {
+      "name": "MechAssault - Phantom War (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AEAP",
+      "size": 134217728,
+      "crc32": "f1d44b14",
+      "md5": "aae70541a43a530ccab532e39d272cb3",
+      "sha1": "294551cd3d962c77656c55345e43a7c6a44dc22a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MechAssault%20-%20Phantom%20War%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/MechAssault%20-%20Phantom%20War%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MechAssault%20-%20Phantom%20War%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MechAssault%20-%20Phantom%20War%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/MechAssault%20-%20Phantom%20War%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MechAssault%20-%20Phantom%20War%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

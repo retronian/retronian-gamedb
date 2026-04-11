@@ -45,5 +45,66 @@
     "wikidata": "Q3817367",
     "mobygames": 91303,
     "igdb": 259266
-  }
+  },
+  "roms": [
+    {
+      "name": "Kung Fu Panda - Legendary Warriors (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CKFP",
+      "size": 33554432,
+      "crc32": "bde4061a",
+      "md5": "3c68aeb7ba2a88afcb144ed1cfc53026",
+      "sha1": "55b6cb55744a92d11a6fb02374813a9c20bfeb85",
+      "sha256": "3956cfdcef4e0b6d6567f83356090b693f4d3891b553e9f04075e521632ef440"
+    },
+    {
+      "name": "Kung Fu Panda - Legendary Warriors (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CKFE",
+      "size": 33554432,
+      "crc32": "8bdfe06d",
+      "md5": "d95ad230a781169b62b56e47454fbb8b",
+      "sha1": "b62ad47b05cd87a411508ab1de59aa8884c0d259"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kung%20Fu%20Panda%20-%20Legendary%20Warriors%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kung%20Fu%20Panda%20-%20Legendary%20Warriors%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kung%20Fu%20Panda%20-%20Legendary%20Warriors%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kung%20Fu%20Panda%20-%20Legendary%20Warriors%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kung%20Fu%20Panda%20-%20Legendary%20Warriors%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kung%20Fu%20Panda%20-%20Legendary%20Warriors%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

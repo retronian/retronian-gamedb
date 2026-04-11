@@ -69,5 +69,85 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "New Adventure Island (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "756a1802",
+      "md5": "254434d0b15618dcff7c88d5ebdde248",
+      "sha1": "bea7a4e5445d3a4f8610524471b83216e57f48e2",
+      "sha256": "cb3d99ea5b65f979b28d8a3c6753e9f63aa0aa44f3391e0347e0f5e0d440f85e"
+    },
+    {
+      "name": "New Adventure Island (USA, Europe) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "21db1d10",
+      "md5": "ba0b49331b376dc19e93f77dfa6425d2",
+      "sha1": "5a1d9f4f0a19ed1d00f54208506fb84abb7feb70",
+      "sha256": "edf0a59168f41fdcdf53770e309919de53514c64ff999af2bbb20771c7f714fb"
+    },
+    {
+      "name": "Takahashi Meijin no Shin Bouken-jima (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "e415ea19",
+      "md5": "7bb9c15803e5af75a1e773c29a6db39d",
+      "sha1": "ab179fc81694676f57d0ce2e0834c875f36271b0",
+      "sha256": "7fe109c6f277c3bb7da3ff3935be7389c6a03cab4e0e7dcd8329e7c8eb24ed24"
+    },
+    {
+      "name": "Takahashi Meijin no Shin Bouken-jima (Japan) (En) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "b0a4ef0b",
+      "md5": "68eaac739c7103e228a20e3e1fb669e6",
+      "sha1": "a1904d761d9874f460dfbbcd06d4fcfdc3bcb929",
+      "sha256": "46fe2bb0527034447c6af095a485abc8a1594de65ea3189b33e1fe28b9d9dd60"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/New%20Adventure%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/New%20Adventure%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/New%20Adventure%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/New%20Adventure%20Island%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/New%20Adventure%20Island%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/New%20Adventure%20Island%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

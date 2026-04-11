@@ -54,5 +54,38 @@
     "mobygames": 41716,
     "igdb": 45720
   },
-  "first_release_date": "1990-11-22"
+  "first_release_date": "1990-11-22",
+  "roms": [
+    {
+      "name": "MegaPanel (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-14073-00",
+      "size": 262144,
+      "crc32": "6240f579",
+      "md5": "e38549b6eb3e260e458c6de91059ceeb",
+      "sha1": "1822905930f5f3627e9f9109760205e617295fda",
+      "sha256": "6a6db177f297bff916f0a4fc9799b46d59e9b66982b7ec9a7991a867ba40ac98"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/MegaPanel%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/MegaPanel%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/MegaPanel%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

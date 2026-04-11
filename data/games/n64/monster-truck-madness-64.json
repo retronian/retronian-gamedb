@@ -18,5 +18,67 @@
     "wikidata": "Q110079388",
     "mobygames": 36402,
     "igdb": 10615
-  }
+  },
+  "roms": [
+    {
+      "name": "Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NM3P",
+      "size": 8388608,
+      "crc32": "4731df5c",
+      "md5": "e3b408997d7db91f8219f168c6d57d26",
+      "sha1": "a702b0616030bfc5feb78feaf365eab74f1a8b6e",
+      "sha256": "eb84ef801d3723c3709fc62b5551c5cc83887015d4831392039e99f236eb0c76"
+    },
+    {
+      "name": "Monster Truck Madness 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NM3E",
+      "size": 8388608,
+      "crc32": "3fd0604d",
+      "md5": "514d61d3b3d5e6326869783eb2e84a00",
+      "sha1": "f8c7ae14df7341881346b1ceaf838d2219291279",
+      "sha256": "52501f827a677df01ba3861b1f4616c7e6bb47dc000e174267c8fbed9e4ae3dd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Monster%20Truck%20Madness%2064%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Monster%20Truck%20Madness%2064%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Monster%20Truck%20Madness%2064%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Monster%20Truck%20Madness%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Monster%20Truck%20Madness%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Monster%20Truck%20Madness%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

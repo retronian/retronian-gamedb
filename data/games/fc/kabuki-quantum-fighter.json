@@ -63,5 +63,65 @@
     "wikidata": "Q3191691",
     "mobygames": 11980,
     "igdb": 27623
-  }
+  },
+  "roms": [
+    {
+      "name": "Kabuki - Quantum Fighter (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "c3982b86",
+      "md5": "06a9bb3473bcd626021d465c169d3722",
+      "sha1": "9528911fef41f938f17184daa096d0d0b32699c7",
+      "sha256": "866351cfab3d17c3ed0a500f822d55b7b9739a6bfd8d58231cc30bceed3b68b9"
+    },
+    {
+      "name": "Kabuki - Quantum Fighter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "cfcd4ea8",
+      "md5": "9c524de9fe9604740d6e502b359b3d12",
+      "sha1": "cf9eeb5d3f50e0663e2121c558cbb68f62905d1c",
+      "sha256": "4a2dc8b1c166aa309fda6ee1058c0699ab3039446fd48861508a90f290f88b15"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kabuki%20-%20Quantum%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kabuki%20-%20Quantum%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kabuki%20-%20Quantum%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kabuki%20-%20Quantum%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kabuki%20-%20Quantum%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kabuki%20-%20Quantum%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

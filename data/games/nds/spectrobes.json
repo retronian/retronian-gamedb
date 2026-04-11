@@ -71,5 +71,55 @@
     "wikidata": "Q2539777",
     "mobygames": 27659,
     "igdb": 5174
-  }
+  },
+  "roms": [
+    {
+      "name": "Spectrobes (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASUP",
+      "size": 67108864,
+      "crc32": "397141bd",
+      "md5": "740a9a66307c69e99e9889b5e98be44b",
+      "sha1": "a5eed056cf06fd98935f948085095fd462171467",
+      "sha256": "c1d416111fa879fd12765bab4a8683aa58be00ac6bbafdbfae84f3219cca4ce8"
+    },
+    {
+      "name": "Spectrobes (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASUE",
+      "size": 67108864,
+      "crc32": "a4c2aecd",
+      "md5": "3034b7d57cf6dae0d2ee1132c7a9b46d",
+      "sha1": "114121829efdb64d4cc8cb178f0af1a32cdfe30a",
+      "sha256": "e340480333fd6436fb5dce32ea7ee369680ee67c5cda1d69fddafcf3f885ec3f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spectrobes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spectrobes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spectrobes%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spectrobes%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

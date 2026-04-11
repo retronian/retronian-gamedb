@@ -61,5 +61,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Aerostar (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "dfa3b28a",
+      "md5": "4b4d6e6d4870d36a26e6fe6ad73b0eac",
+      "sha1": "1088817172c10a9080ab6859da85a074569e2cba",
+      "sha256": "9d7e009a90473b95b8a7ba69f7cc9769f95d4cc5de0bf15666ca2b0be44f8da3"
+    },
+    {
+      "name": "Aerostar (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "f6fd275e",
+      "md5": "f777a4526089a83ca758efbf01007ec1",
+      "sha1": "2cb231e616008f2c809e0b2caf40f477689e6d07",
+      "sha256": "cb1d45fca310ef4b7013d094663bddcd209362f272bb3e54ce10540828c8c212"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Aerostar%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Aerostar%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Aerostar%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

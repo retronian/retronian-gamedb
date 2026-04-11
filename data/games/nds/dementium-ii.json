@@ -71,5 +71,87 @@
     "wikidata": "Q1185322",
     "mobygames": 50757,
     "igdb": 20665
-  }
+  },
+  "roms": [
+    {
+      "name": "Dementium II (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDEE",
+      "size": 67108864,
+      "crc32": "0b9a7a60",
+      "md5": "9b617ad35ae90230bc86547acac277c4",
+      "sha1": "a6e032377262245f06a951f434a95b5600ed25b3"
+    },
+    {
+      "name": "Dementium II (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BDEP",
+      "size": 67108864,
+      "crc32": "435f6bad",
+      "md5": "132b21604c8fa10fd252a93ade1c725d",
+      "sha1": "5f1851bcd2ef251542ffff324c51f8942ef1eeef"
+    },
+    {
+      "name": "Dementium II (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTRJ",
+      "size": 19362864,
+      "crc32": "53d3e846",
+      "md5": "2ae4c3cc1b9234c3e6f1e0555f455e62",
+      "sha1": "687fdcb6b408ca5d7b5856285673dd8bb31ac11a",
+      "sha256": "740e46fe8f4bfb32646a6ce3857227e5f93cc992f988e6125b664950466959c4"
+    },
+    {
+      "name": "Dementium II (USA) (En,Fr,De,Es,It) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTRJ",
+      "size": 58129412,
+      "crc32": "454b74b3",
+      "md5": "f92eae13d84f908c0774ca47daa50bd8",
+      "sha1": "c40d18131589b32f76a7e5d421dfae6c1e7604b7",
+      "sha256": "e0e017ad6d06ef3bd095da815a5ae5ca3787c2be0a896ddfc088a2efc2d48d03"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dementium%20II%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dementium%20II%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dementium%20II%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dementium%20II%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dementium%20II%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dementium%20II%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

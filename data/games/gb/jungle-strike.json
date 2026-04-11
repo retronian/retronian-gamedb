@@ -47,6 +47,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Urban Strike",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1993-01-01",
@@ -54,5 +63,93 @@
     "wikidata": "Q3190026",
     "mobygames": 792,
     "igdb": 295048
-  }
+  },
+  "roms": [
+    {
+      "name": "Jungle Strike (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "763ababb",
+      "md5": "2b42dbc0934fdd90bca3a4965520bf37",
+      "sha1": "b4c53804f6d7ed230c092232148e69b53f9eb597",
+      "sha256": "ab8a97f5cf17d6602ab108e9c3e53e8907a7e56c679750526d91bedf870a6c15"
+    },
+    {
+      "name": "Jungle Strike (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "7a8cdbe8",
+      "md5": "3d2eae10e026ca03f6a7a91ae089eb20",
+      "sha1": "ea8b7a5d8d16b4448a3d758fff1f91f27db60292",
+      "sha256": "06609a7d1a3722916374b7b5429f5f461d54ff68e8d6fafbf46169244a731a2f"
+    },
+    {
+      "name": "Urban Strike (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "89625945",
+      "md5": "d42a0f2f9205e81cbbbe132711d69d58",
+      "sha1": "6bc1010aad73d2cde677f897adb77684d9b508ed",
+      "sha256": "5dc5e2639cb40a7bbde7e2d6d2784e6ebb5b8b11091448f83bc93fdb3a2e260d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jungle%20Strike%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jungle%20Strike%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jungle%20Strike%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jungle%20Strike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jungle%20Strike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jungle%20Strike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Urban%20Strike%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Urban%20Strike%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Urban%20Strike%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

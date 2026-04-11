@@ -36,5 +36,35 @@
     "wikidata": "Q2683161",
     "mobygames": 16372,
     "igdb": 248685
-  }
+  },
+  "roms": [
+    {
+      "name": "Wakeboarding Unleashed Featuring Shaun Murray (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWDE",
+      "size": 8388608,
+      "crc32": "a3ccf1ec",
+      "md5": "04d7e6cd55b91ff493e8529fbcf82266",
+      "sha1": "9eb979282fb2084bd205282ea71f18409d5558e2"
+    },
+    {
+      "name": "Wakeboarding Unleashed Featuring Shaun Murray (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWDE",
+      "size": 8388608,
+      "crc32": "cad6376c",
+      "md5": "8bd140d7a98757926e62b6f6b6cdb02a",
+      "sha1": "ab24e4968672379eb2b22cb1b2730eadf5989130"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Wakeboarding%20Unleashed%20Featuring%20Shaun%20Murray%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

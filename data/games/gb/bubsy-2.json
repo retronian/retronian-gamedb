@@ -72,5 +72,65 @@
     "wikidata": "Q2927402",
     "mobygames": 16907,
     "igdb": 307065
-  }
+  },
+  "roms": [
+    {
+      "name": "Bubsy II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "a3164516",
+      "md5": "cd1fa506eea7590b0b24b6bdd153ffa9",
+      "sha1": "f59306da42c5d8bbf41c870828c83bbcf1e2f0ac",
+      "sha256": "e12000683878a88920701f59e4650d7b51673fc449bc68db94b113d72502383c"
+    },
+    {
+      "name": "Bubsy II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "600a6ad5",
+      "md5": "c80413993cb4a5b79c9cdd04235010dd",
+      "sha1": "1ac9bf5043caf428994bca3e80158ca697e94c58",
+      "sha256": "1499fe6fe4ab1e57ba928ad962334f44e3b04828188f8ec718baebe617c41b6c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bubsy%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bubsy%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bubsy%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bubsy%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bubsy%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bubsy%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

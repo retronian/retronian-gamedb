@@ -63,5 +63,45 @@
     "wikidata": "Q3492578",
     "mobygames": 8065,
     "igdb": 4498
-  }
+  },
+  "roms": [
+    {
+      "name": "Space Harrier II (Japan) (En) (Launch Cart)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004002-00",
+      "size": 524288,
+      "crc32": "edc0fb28",
+      "md5": "7954ee34b566ed50465359d1e3a4f704",
+      "sha1": "5836fbe907610ff15286911457049933b7cdd49c",
+      "sha256": "77cc8cb6e7d21eaaadee7b80b44cb4130a4b9541d47352320b80bb4f456672d0"
+    },
+    {
+      "name": "Space Harrier II (World)",
+      "source": "no_intro",
+      "serial": "00004002-01",
+      "size": 524288,
+      "crc32": "e5c9cbb0",
+      "md5": "2864c05f9bf67f92af830f2fa7de1d61",
+      "sha1": "db4285e4ffb69aa9f1ca68c4103fbfd0843f7b86",
+      "sha256": "356beab7e21e63b3e23e3619110e63742993d6f91e307c7cce9c02139708bcbe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Space%20Harrier%20II%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Space%20Harrier%20II%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Space%20Harrier%20II%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

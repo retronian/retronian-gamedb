@@ -47,6 +47,24 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Barkley Shut Up and Jam! 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Barkley: Shut Up and Jam! 2",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1993-01-01",
@@ -54,5 +72,90 @@
     "wikidata": "Q2016787",
     "mobygames": 7102,
     "igdb": 4524
-  }
+  },
+  "roms": [
+    {
+      "name": "Barkley Shut Up and Jam 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-119186-00",
+      "size": 2097152,
+      "crc32": "321bb6bd",
+      "md5": "952e40844509c5739f1e84ea7f9dfd90",
+      "sha1": "b13f13ccc1a21dacd295f30c66695bf97bbeff8d",
+      "sha256": "637b400fe79830368feb52c3d21fd5badeddfe6cea08b7e07fa8f6d34822e5b8"
+    },
+    {
+      "name": "Barkley Shut Up and Jam 2 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-119066-01",
+      "size": 2097152,
+      "crc32": "de27357b",
+      "md5": "3cd93f58822151c27bb9f7a7d3190396",
+      "sha1": "a9f9fa95106d2e1d00800386ba3d56e1483c83db",
+      "sha256": "3b94a16d93f8d6656a0d4f5e3370dffe510e3d985e20c26b71873beb5403dfd0"
+    },
+    {
+      "name": "Barkley Shut Up and Jam! (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-119066-00",
+      "size": 1048576,
+      "crc32": "63fbf497",
+      "md5": "2b27a61cdae4492044bd273c5807de75",
+      "sha1": "fc60a682412b4f7f851c5eb7f6ae68fcee3d2dd1",
+      "sha256": "ddb17a0449cdd4073043eb54ae6ab2edb125eaf833d8c530dec2e32c3fd926ff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Barkley%20Shut%20Up%20and%20Jam%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Barkley%20Shut%20Up%20and%20Jam%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Barkley%20Shut%20Up%20and%20Jam%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Barkley%20Shut%20Up%20and%20Jam%202%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Barkley%20Shut%20Up%20and%20Jam%202%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Barkley%20Shut%20Up%20and%20Jam%21%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Barkley%20Shut%20Up%20and%20Jam%21%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Barkley%20Shut%20Up%20and%20Jam%21%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

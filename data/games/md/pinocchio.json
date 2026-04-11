@@ -54,5 +54,67 @@
     "wikidata": "Q3388790",
     "mobygames": 6747,
     "igdb": 38844
-  }
+  },
+  "roms": [
+    {
+      "name": "Pinocchio (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-239026-00",
+      "size": 3145728,
+      "crc32": "28014bdc",
+      "md5": "99fa6ab3d399e4cff74bb6ff79727efe",
+      "sha1": "7b6c9fdd201341f5319be85b5042870a84e82ae0",
+      "sha256": "030531d52218d5e19f7b0b1a5f29da345d75c47ccf0f25c7362a7bfe12f40142"
+    },
+    {
+      "name": "Pinocchio (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-239026-00",
+      "size": 3145728,
+      "crc32": "cd4128d8",
+      "md5": "bace0d15220dcfc8b8a3efb6668e45ba",
+      "sha1": "ad6098fe3642489d0281b1f168319a753e8bd02a",
+      "sha256": "b2300c473bdd5b9df0cd9d5c7016cae5e15084396156bf34dd2294a3e0fca344"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pinocchio%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pinocchio%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pinocchio%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pinocchio%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pinocchio%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pinocchio%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

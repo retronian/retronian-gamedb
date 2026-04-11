@@ -46,6 +46,24 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Sangokushi III",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "三國志",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1992-02-05",
@@ -53,5 +71,74 @@
     "wikidata": "Q844223",
     "mobygames": 1928,
     "igdb": 5431
-  }
+  },
+  "descriptions": [
+    {
+      "text": "ゲームの開始時に、プレイヤーは古代中国における権力の初期配置を決定する6つのシナリオの中から1つを選びます。シナリオを選んだ後、プレイヤーは自分が操作する武将を決定します。各キャラクターには、戦闘、知力、政治、カリスマ、陸軍指揮、海軍指揮といったいくつかのステータスがあります。プレイヤーは中国の全ての領土を征服することでゲームに勝利します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Romance of the Three Kingdoms III - Dragon of Destiny (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-76086-00",
+      "size": 1310720,
+      "crc32": "7e41c8fe",
+      "md5": "f2623070eb80dcb99f08e0ef37ba114e",
+      "sha1": "a47b0ac13ef8229fbfc89216c8ecb66d72f6f73a",
+      "sha256": "b77a71726f0db387080d32de6bc2940039a14eafa437334024d8baff0988407e"
+    },
+    {
+      "name": "Sangokushi III (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-76093-10",
+      "size": 1572864,
+      "crc32": "a8de6aea",
+      "md5": "b0e87b97d9d4c4f5a1de0fbc2834bf86",
+      "sha1": "c85d03a6bcfeccc66ea3fa3cbda006c83576815f",
+      "sha256": "46791222d6e61e7d6eeb600630770dbad7626d3e9aa26bd1db958b7c534d57d8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Romance%20of%20the%20Three%20Kingdoms%20III%20-%20Dragon%20of%20Destiny%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Romance%20of%20the%20Three%20Kingdoms%20III%20-%20Dragon%20of%20Destiny%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Romance%20of%20the%20Three%20Kingdoms%20III%20-%20Dragon%20of%20Destiny%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sangokushi%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sangokushi%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sangokushi%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

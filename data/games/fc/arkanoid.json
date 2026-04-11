@@ -79,5 +79,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Arkanoid (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 49168,
+      "crc32": "b52a3b7b",
+      "md5": "938bdfa998998d36acf2e2dd8fa737d7",
+      "sha1": "d8c083039d7aa8b3525276bce0ee238ce4a3cf05",
+      "sha256": "27aa7a13ecdf13311cf982f35fd2d2949f9956ef34d97d8abd1311052dc49036"
+    },
+    {
+      "name": "Arkanoid (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 49168,
+      "crc32": "757488e0",
+      "md5": "180bbdcbec8f65010b07d17600d46d84",
+      "sha1": "8dcd680a23b888d0e73133aeb1273ed4453c0216",
+      "sha256": "b2102175e6a46a69890a744326b671a460bf9a4cce696918c278adcac55b4d55"
+    },
+    {
+      "name": "Arkanoid (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 49168,
+      "crc32": "3c9bdcfb",
+      "md5": "a8b39bc3ba90a1d60dbd2bd1d0a59c07",
+      "sha1": "e4e2a8851544443fd3659137f80f9c9563c4c8c2",
+      "sha256": "79177a3dcc788e11a900cdca883d1b1a398d775f6efd6ce5cf551514122c60ae"
+    },
+    {
+      "name": "Arkanoid (Russia) (Pirate)",
+      "source": "no_intro",
+      "size": 40976,
+      "crc32": "7e680bb9",
+      "md5": "f27b376cc9355810163168ac9ce94d2c",
+      "sha1": "377e7120fb245848dc58b284cb099e7678153145",
+      "sha256": "e2cc73486580d539e8aa36fb26356fc2384f72ce2dbb105584860957c9c03111"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Arkanoid%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Arkanoid%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Arkanoid%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Arkanoid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Arkanoid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Arkanoid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Arkanoid%20%28Russia%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Arkanoid%20%28Russia%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

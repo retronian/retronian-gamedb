@@ -63,5 +63,64 @@
     "wikidata": "Q6699624",
     "mobygames": 22573,
     "igdb": 1179
-  }
+  },
+  "roms": [
+    {
+      "name": "Lufia - The Legend Returns (Europe) (En,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "470dcb1d",
+      "md5": "1ff9b71a347a7deed87bcedeb7c5ea70",
+      "sha1": "10faaefba4c97d8392bb0231cf898a77db4f73f2",
+      "sha256": "2fce2730314aaba5c0e1924dbe5fc33b3aa43236e687efc0a008ed43740380e1"
+    },
+    {
+      "name": "Lufia - The Legend Returns (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "5bae3c04",
+      "md5": "a00012533e76649f4e7e1b7aa5a9ee07",
+      "sha1": "9eb52c525620e7bda619f2161961071e8996c0db"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Lufia%20-%20The%20Legend%20Returns%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Lufia%20-%20The%20Legend%20Returns%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Lufia%20-%20The%20Legend%20Returns%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Lufia%20-%20The%20Legend%20Returns%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Lufia%20-%20The%20Legend%20Returns%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Lufia%20-%20The%20Legend%20Returns%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

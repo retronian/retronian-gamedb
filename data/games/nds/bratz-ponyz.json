@@ -18,5 +18,66 @@
     "wikidata": "Q4958207",
     "mobygames": 87658,
     "igdb": 67803
-  }
+  },
+  "roms": [
+    {
+      "name": "Bratz Ponyz (Europe) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YBZP",
+      "size": 16777216,
+      "crc32": "500c4a75",
+      "md5": "9b21bc2dcd48da7f963466759304194f",
+      "sha1": "ad0567eb3e5cb9a3f0322d5f10feaf27d38e71b1",
+      "sha256": "e3816de8ea2ad3a6f36edd32153bc9bccf399e3d815cbced467f317da322e90e"
+    },
+    {
+      "name": "Bratz Ponyz (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YBZE",
+      "size": 16777216,
+      "crc32": "d97fb38c",
+      "md5": "be01d1a129a7ad9665a6d11ecd3e95aa",
+      "sha1": "33c99702ceac1ec684244578dbf3c072280591f3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bratz%20Ponyz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bratz%20Ponyz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bratz%20Ponyz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bratz%20Ponyz%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bratz%20Ponyz%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bratz%20Ponyz%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

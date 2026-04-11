@@ -54,5 +54,65 @@
     "wikidata": "Q16267589",
     "mobygames": 81302,
     "igdb": 345154
-  }
+  },
+  "roms": [
+    {
+      "name": "Hugo - The Evil Mirror (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHJE",
+      "size": 4194304,
+      "crc32": "ed5ca311",
+      "md5": "bbb939c3839fc2d4864fc7be89b60cc4",
+      "sha1": "9603ecc890f0d7b152214736aefc3b98976352d8"
+    },
+    {
+      "name": "Hugo - The Evil Mirror (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHJP",
+      "size": 4194304,
+      "crc32": "9e9d5ad7",
+      "md5": "086490833184ca1c3f7db723c0a23995",
+      "sha1": "083048954da571a63abcfbad6e7d694c6bd48d77"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hugo%20-%20The%20Evil%20Mirror%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hugo%20-%20The%20Evil%20Mirror%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hugo%20-%20The%20Evil%20Mirror%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hugo%20-%20The%20Evil%20Mirror%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%2CPl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hugo%20-%20The%20Evil%20Mirror%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%2CPl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hugo%20-%20The%20Evil%20Mirror%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%2CPl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

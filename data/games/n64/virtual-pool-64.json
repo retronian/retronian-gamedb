@@ -18,5 +18,76 @@
     "wikidata": "Q3560852",
     "mobygames": 61712,
     "igdb": 3624
-  }
+  },
+  "roms": [
+    {
+      "name": "Virtual Pool 64 (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "b58fc734",
+      "md5": "8e7d473161cb685909bc762a32aa850d",
+      "sha1": "b595e31c1599d52ef363c974ea54e52f201795f2"
+    },
+    {
+      "name": "Virtual Pool 64 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NVRP",
+      "size": 4194304,
+      "crc32": "9a6fb0bc",
+      "md5": "ab68fb43f012c1a45af1dbcc8e8c109c",
+      "sha1": "70bd9ece445d6b66ef65afc19b5ea9df5a75dba4",
+      "sha256": "06b14029b7ae53de5d3097b2641563eb2bf402f9920779faada96dc380c082f3"
+    },
+    {
+      "name": "Virtual Pool 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NVRE",
+      "size": 4194304,
+      "crc32": "ad628ded",
+      "md5": "6d3db67319da339df4b68ad0084904d5",
+      "sha1": "4fed63f7ee35f4d3941f0d61175057481d91d2e0",
+      "sha256": "e263c17be9deae7acf8eb1850948c179ec45a1409cd373682cc37c0251881efe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Virtual%20Pool%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Virtual%20Pool%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Virtual%20Pool%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Virtual%20Pool%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Virtual%20Pool%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Virtual%20Pool%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

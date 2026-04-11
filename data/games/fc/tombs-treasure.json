@@ -64,6 +64,33 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Taiyou no Shinden - Asteka 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "太陽の神殿 アステカ2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "太陽の神殿",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1986-10-24",
@@ -71,5 +98,24 @@
     "wikidata": "Q7818702",
     "mobygames": 51402,
     "igdb": 215142
-  }
+  },
+  "descriptions": [
+    {
+      "text": "太陽の神殿アステカ2。アステカ文明をテーマにしたアドベンチャーRPG。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tombs & Treasure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "dffdd09e",
+      "md5": "c97f8c62666bc44a9dea4b1f170bc815",
+      "sha1": "bb4fe88f0e743a0c2d6c1a11a20bc8ca0138079e",
+      "sha256": "debbbbee6287f6b1ccea37bc5e9b28d504ab4d36dcf70371dbd8194e7ce54cee"
+    }
+  ]
 }

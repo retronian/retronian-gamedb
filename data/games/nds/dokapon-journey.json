@@ -53,5 +53,54 @@
     "wikidata": "Q5288722",
     "mobygames": 86939,
     "igdb": 21121
-  }
+  },
+  "roms": [
+    {
+      "name": "Dokapon Journey (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YYJE",
+      "size": 16777216,
+      "crc32": "62749e3a",
+      "md5": "2d4462515b88dd9b3881d2626b552bd8",
+      "sha1": "0cd71012f463c8a4ec2e221956754989c5ecd6a5"
+    },
+    {
+      "name": "Dokapon Journey! - Nakayoku Kenka Shite (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YYJJ",
+      "size": 16777216,
+      "crc32": "7d0cc588",
+      "md5": "efcd6dfc3d825c3cc3d1fa828ba9d735",
+      "sha1": "84d70af6e576879379afe396b21072d5c54375f3",
+      "sha256": "4c6b65d72affd58aa65133c6ee492e96aad1f31a3e98fb7b53c51fca41249425"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dokapon%20Journey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dokapon%20Journey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dokapon%20Journey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dokapon%20Journey%21%20-%20Nakayoku%20Kenka%20Shite%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

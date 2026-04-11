@@ -27,5 +27,65 @@
     "wikidata": "Q6703677",
     "mobygames": 14060,
     "igdb": 13907
-  }
+  },
+  "roms": [
+    {
+      "name": "Lunar Legend (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ALNJ",
+      "size": 8388608,
+      "crc32": "4e044191",
+      "md5": "1e087998d7f24a69579d107f7671f7db",
+      "sha1": "483b2c37330cf914c121801acd9f15776f92eb29"
+    },
+    {
+      "name": "Lunar Legend (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ALNE",
+      "size": 8388608,
+      "crc32": "885266a2",
+      "md5": "ae5ee35f0aadf386cb6918a2d83f5a3b",
+      "sha1": "d7109fa4a03d50e24bd9e61446bdeb03b42732ff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Lunar%20Legend%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Lunar%20Legend%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Lunar%20Legend%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Lunar%20Legend%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Lunar%20Legend%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Lunar%20Legend%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

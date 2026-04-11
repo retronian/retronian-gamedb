@@ -72,5 +72,74 @@
     "wikidata": "Q3282001",
     "mobygames": 22590,
     "igdb": 49033
-  }
+  },
+  "roms": [
+    {
+      "name": "Pac-Attack (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "79941300",
+      "md5": "28584f11a658883e23c01df728645023",
+      "sha1": "b33c5f4f00e54c97dc2be87f42d26e6e72e30399",
+      "sha256": "5bee17196e3195412d49030199a68cb23598eaa1ff5df9dcec030a237112eb3f"
+    },
+    {
+      "name": "Pac-Attack (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "191b1a19",
+      "md5": "dd7dac19618d89c1735885b65a1efcdd",
+      "sha1": "270dbc7ef0b0d25c39cd1ee6badfef6a7a914830",
+      "sha256": "10c8abce67b49f8afbe880d2f13e0fd6d5efc162df34d5941e4a94851f23b2ff"
+    },
+    {
+      "name": "Pac-Attack (World) (Evercade)",
+      "source": "no_intro",
+      "size": 524288,
+      "crc32": "7d1d0e76",
+      "md5": "945a8980e9a1cbfa970fc6873c5c5d79",
+      "sha1": "210c532e4e6b0041777bc3b8eb55ef9496c47b14",
+      "sha256": "e094655d33aead39f49cc52e23e096d985d5f987a99eac1ccc12504ab54a456c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pac-Attack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pac-Attack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pac-Attack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pac-Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pac-Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pac-Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,75 @@
     "wikidata": "Q582642",
     "mobygames": 466,
     "igdb": 281834
-  }
+  },
+  "roms": [
+    {
+      "name": "Marble Madness (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "8039bdd9",
+      "md5": "e944fa259f9695d12bca71481f3382b1",
+      "sha1": "df65ebd1d4831d141e483c3becfa2de5a6d647c4",
+      "sha256": "aeab1fdb3fed05e13c15f5cbc0c3756ccfe2b9f737a91ab96a622168c3f214a7"
+    },
+    {
+      "name": "Marble Madness (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "9882dd5e",
+      "md5": "383be45df6d37550de0b46defc328638",
+      "sha1": "845ce8763d5266b88c4256fce266a264f3fad719",
+      "sha256": "1cb316770b2127666b412034a508f8209c1f1520a2bf751fea8fb300628cd91d"
+    },
+    {
+      "name": "Marble Madness (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "072923d3",
+      "md5": "ed8c88dafcf3cbb06079f417c9237712",
+      "sha1": "b6dc8008c5d109688d7f2bb1fb5b955b84b7ac50",
+      "sha256": "2a82351c8da011e6a80bddfca64e1d3e7efa9b5f8ca9a697a507d617ac2d06ee"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Marble%20Madness%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Marble%20Madness%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Marble%20Madness%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Marble%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Marble%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Marble%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

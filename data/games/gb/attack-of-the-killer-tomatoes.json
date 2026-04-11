@@ -78,5 +78,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Attack of the Killer Tomatoes (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "23068679",
+      "md5": "ba556891321dbbc8dce857ca2cf7d417",
+      "sha1": "96cd454513dfb363cda20bf0e72c6d74132a9487",
+      "sha256": "620a8adf4cbf8d3f1394fea19bd83601d70ac3a93bc840351998c546bd145e00"
+    },
+    {
+      "name": "Attack of the Killer Tomatoes (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "b5b38860",
+      "md5": "3910ce6b44b689a06889693771ded6dc",
+      "sha1": "cbbba5d4f80f2b4ab3e882ceb4f79c293a17904f",
+      "sha256": "ac3656cb5b86c13ad67a486d11d21643fdec306500d989fbd770b5939bab22f0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Attack%20of%20the%20Killer%20Tomatoes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Attack%20of%20the%20Killer%20Tomatoes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Attack%20of%20the%20Killer%20Tomatoes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Attack%20of%20the%20Killer%20Tomatoes%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Attack%20of%20the%20Killer%20Tomatoes%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Attack%20of%20the%20Killer%20Tomatoes%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

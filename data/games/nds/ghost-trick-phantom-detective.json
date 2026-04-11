@@ -71,5 +71,66 @@
     "wikidata": "Q2629796",
     "mobygames": 50004,
     "igdb": 1348
-  }
+  },
+  "roms": [
+    {
+      "name": "Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BGTE",
+      "size": 134217728,
+      "crc32": "5cd93fe5",
+      "md5": "e61d75f376b0733b5479ae869f744855",
+      "sha1": "bcfe74e5592eef3255fd23758b772226960a1b0b",
+      "sha256": "70893fad64333cf2ca12a9c332d5e2d3e83bcae4aac31d7eb635ac320f240685"
+    },
+    {
+      "name": "Ghost Trick - Phantom Detective (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BGTP",
+      "size": 134217728,
+      "crc32": "438b6cee",
+      "md5": "4c4e6c59ea615c1448697e043749b7a7",
+      "sha1": "52ca1554a8a4c5f7391c8332b78d17cea781747e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ghost%20Trick%20-%20Phantom%20Detective%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ghost%20Trick%20-%20Phantom%20Detective%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ghost%20Trick%20-%20Phantom%20Detective%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ghost%20Trick%20-%20Phantom%20Detective%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ghost%20Trick%20-%20Phantom%20Detective%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ghost%20Trick%20-%20Phantom%20Detective%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

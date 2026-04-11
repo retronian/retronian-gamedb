@@ -63,5 +63,65 @@
     "wikidata": "Q1182594",
     "mobygames": 181,
     "igdb": 335821
-  }
+  },
+  "roms": [
+    {
+      "name": "Defender of the Crown (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ADHE",
+      "size": 4194304,
+      "crc32": "de6698fe",
+      "md5": "7ba10bec1582dc62d0a1ac742af9ab7b",
+      "sha1": "efbea6dfa027a578e4f9878768a82c9bd7f2c31c"
+    },
+    {
+      "name": "Defender of the Crown (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ADHP",
+      "size": 4194304,
+      "crc32": "6968959a",
+      "md5": "a6fe988a31724789a21bae6b65cd79b2",
+      "sha1": "4e37071533e946efd4166efc409562cc21af83d2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Defender%20of%20the%20Crown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Defender%20of%20the%20Crown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Defender%20of%20the%20Crown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Defender%20of%20the%20Crown%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Defender%20of%20the%20Crown%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Defender%20of%20the%20Crown%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

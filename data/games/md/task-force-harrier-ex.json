@@ -61,5 +61,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Task Force Harrier EX (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-24053",
+      "size": 1048576,
+      "crc32": "e9a54eed",
+      "md5": "c8d5dda49171c0514b8260122f6f688c",
+      "sha1": "d365d22d9076e98966eb12fdb1d93c3c101f519e",
+      "sha256": "df6ed69f13a916d46da8b64cb6784770c4449f6b74cd6164270548c50825539d"
+    },
+    {
+      "name": "Task Force Harrier EX (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-24036",
+      "size": 1048576,
+      "crc32": "c8bb0257",
+      "md5": "d5b0add1252ac8fd1ecec8b02cf51718",
+      "sha1": "1d36bd69e356f276c582fee247af2f71af1f3bf4",
+      "sha256": "736fb02b96d95e0f5bb9e99d6575db160bc00d5728969a0d9454ffecf2765833"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Task%20Force%20Harrier%20EX%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Task%20Force%20Harrier%20EX%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Task%20Force%20Harrier%20EX%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

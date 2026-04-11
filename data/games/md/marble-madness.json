@@ -88,5 +88,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Marble Madness (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50306-00",
+      "size": 524288,
+      "crc32": "79eba28a",
+      "md5": "ab99c73cffd808ddd93c43e2f52cc92d",
+      "sha1": "059e99fde8726a45a584007186913eb9a01f738e",
+      "sha256": "370ebb651905220f42fbc7f4f8f15cbe913c1b8f46fa831ae3fb6edfa9c8fce6"
+    },
+    {
+      "name": "Marble Madness (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-48113-00",
+      "size": 524288,
+      "crc32": "775bc464",
+      "md5": "23d2c1d23612890ffd137f56e0d37f30",
+      "sha1": "ca343f3e4f945b6f58b08e276dff505ea1ace179",
+      "sha256": "d038a17e7737cf97ef6307a371e07250fda18abc3ffa61a4231cf6de2decebe2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Marble%20Madness%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Marble%20Madness%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Marble%20Madness%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -27,5 +27,65 @@
     "wikidata": "Q8031788",
     "mobygames": 85045,
     "igdb": 5286
-  }
+  },
+  "roms": [
+    {
+      "name": "Wonder World - Amusement Park (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CCWE",
+      "size": 33554432,
+      "crc32": "5d481257",
+      "md5": "2c51e06e388a47b1c370f3910a55c0bc",
+      "sha1": "d384f58f6f7ff87c32c1b6f472526fb87c0c40f7"
+    },
+    {
+      "name": "Wonder World - Amusement Park (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CCWP",
+      "size": 33554432,
+      "crc32": "1bead722",
+      "md5": "2f0b6b248bcdb346afbd093898d8634d",
+      "sha1": "8974adeec3eba465fcbb0498488aad185428cb1e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wonder%20World%20-%20Amusement%20Park%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Wonder%20World%20-%20Amusement%20Park%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wonder%20World%20-%20Amusement%20Park%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wonder%20World%20-%20Amusement%20Park%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Wonder%20World%20-%20Amusement%20Park%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wonder%20World%20-%20Amusement%20Park%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

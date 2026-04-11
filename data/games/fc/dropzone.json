@@ -54,5 +54,47 @@
     "wikidata": "Q5308500",
     "mobygames": 22593,
     "igdb": 30116
-  }
+  },
+  "roms": [
+    {
+      "name": "Dropzone (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "a9d11095",
+      "md5": "6c88cb5d8433b3d9d5d56610ada9036d",
+      "sha1": "189cba4e1548279d1489ede8f0c467d083d2013a",
+      "sha256": "8fa8bff2e3438d3128ebae6f0d0c054631f6640ede30a03a9ac50215bf1d7139"
+    },
+    {
+      "name": "Dropzone (USA) (Proto) (1992-10-06)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "9490046a",
+      "md5": "b1c73d04c7e57cab8d72e6a138e1d121",
+      "sha1": "50b8fc6674a7b02d012c9f23b18d301f6dfe98cb",
+      "sha256": "baf28c1e5abc51fed8e63ef81d73aca75c75fb92c88f64b3ea0942af55588d9b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dropzone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dropzone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dropzone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

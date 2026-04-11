@@ -56,6 +56,50 @@
       "form": "official",
       "source": "romu",
       "verified": true
+    },
+    {
+      "text": "F1 ROC II: Race of Champions",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "F1 ROC II: Race of Champions",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Exhaust Heat II",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "F1 ROC II: Race of Champions",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Exhaust Heat 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1992-02-21",
@@ -69,6 +113,122 @@
       "text": "F1ROCでは、レーシングカーを運転し、世界中のトラックで行われる16レースのシリーズで競います。レースの順位に応じてお金を獲得でき（例えば、1位の場合は$7000）、そのお金を使って車のアップグレードを購入できます。パーツのバランスをうまく取る必要があります。パーツの効果を試すために、購入する前にテストレースを行って車の動作を確認することができます。データはカートリッジに保存されるため、パーツやレース統計を失うことはありません。目標は単純に16のトラックをすべて完走することであり、成績に応じてボーナスがもらえるため、再挑戦してより良い成績を目指すインセンティブがあります。",
       "lang": "ja",
       "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Exhaust Heat (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "af5a3203",
+      "md5": "4e0b85bc923d71205c903f7e2ec5c7ed",
+      "sha1": "72e55565db89fe7c2ca437e602fe15acaa1ecc8f",
+      "sha256": "8ecf3a71ba6b8b75a42ef8d27b52c34d59981c47af0ac71ee05a5f7aa21a8c09"
+    },
+    {
+      "name": "Exhaust Heat (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "5cb9bc35",
+      "md5": "c54c7d62548698620e779aeaabf1a164",
+      "sha1": "745ebf8164ca7be58829c6130c0e06f330cd0748",
+      "sha256": "6c95e8a36b475cfdfebcc727d563c4039f596f50dace94aed93f5b089b555dc3"
+    },
+    {
+      "name": "F1 ROC - Race of Champions (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "2a069989",
+      "md5": "fc0634fb4b58ad5fae19d6096463e8be",
+      "sha1": "30709476a6b5412a5d3975c3baa6a3822d598820",
+      "sha256": "1d38e3af9e3a6409e93f4705b68c42558f558c68f3e83ef2a40e46cf560b26cc"
+    },
+    {
+      "name": "F1-ROC II - Race of Champions (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "3447609e",
+      "md5": "000ba16a5a4c08992ec93d0309d8ed6c",
+      "sha1": "fb81dd15b8a9ddf8f5564d3d2fb934c6f8bfb392",
+      "sha256": "405c33f64701faf40963a4e6a2d0d69420e6751caf436387ddd3e145b25ed46c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Exhaust%20Heat%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Exhaust%20Heat%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Exhaust%20Heat%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Exhaust%20Heat%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Exhaust%20Heat%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Exhaust%20Heat%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/F1%20ROC%20-%20Race%20of%20Champions%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/F1%20ROC%20-%20Race%20of%20Champions%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/F1%20ROC%20-%20Race%20of%20Champions%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/F1-ROC%20II%20-%20Race%20of%20Champions%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/F1-ROC%20II%20-%20Race%20of%20Champions%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/F1-ROC%20II%20-%20Race%20of%20Champions%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
     }
   ]
 }

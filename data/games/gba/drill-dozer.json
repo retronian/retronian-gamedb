@@ -54,5 +54,66 @@
     "wikidata": "Q5307541",
     "mobygames": 21288,
     "igdb": 6390
-  }
+  },
+  "roms": [
+    {
+      "name": "Drill Dozer (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "V49E",
+      "size": 8388608,
+      "crc32": "e60ec183",
+      "md5": "14dab12e795098988d46b96885170538",
+      "sha1": "c1058cc2482b91204100cc8515da99aeb06773f5",
+      "sha256": "95b8a2b69103dcbc6fae3504d6c8d93609f3e228444749670592cefcd6bcf47f"
+    },
+    {
+      "name": "Drill Dozer (Europe) (En,Fr,De,Es,It) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "V49P",
+      "size": 8388608,
+      "crc32": "4c09614e",
+      "md5": "2286cf9c0253344a19ccc19a36ea293f",
+      "sha1": "2246a0f00c3b5f8ae147c764fbc29fcbc097e673"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Drill%20Dozer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Drill%20Dozer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Drill%20Dozer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Drill%20Dozer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Drill%20Dozer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Drill%20Dozer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

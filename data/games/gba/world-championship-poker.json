@@ -27,5 +27,65 @@
     "wikidata": "Q8035484",
     "mobygames": 26152,
     "igdb": 210721
-  }
+  },
+  "roms": [
+    {
+      "name": "World Championship Poker (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BP9E",
+      "size": 4194304,
+      "crc32": "07f15152",
+      "md5": "0d8f24fa168197a151eeb95fd29aef65",
+      "sha1": "1d72864021f88f8db2686c57cfc5176b33ce2015"
+    },
+    {
+      "name": "World Championship Poker (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BP9P",
+      "size": 4194304,
+      "crc32": "4776f86e",
+      "md5": "c6394e32b564c770fe1971fdf2b1e8f2",
+      "sha1": "731ef2646ad83750aff729cb2286de6ee60f8260"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/World%20Championship%20Poker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/World%20Championship%20Poker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/World%20Championship%20Poker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/World%20Championship%20Poker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/World%20Championship%20Poker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/World%20Championship%20Poker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

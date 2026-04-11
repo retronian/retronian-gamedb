@@ -27,5 +27,62 @@
     "wikidata": "Q4035489",
     "mobygames": 10811,
     "igdb": 6343
-  }
+  },
+  "roms": [
+    {
+      "name": "Buffy contre les Vampires - La Colere de Darkhul (France)",
+      "source": "no_intro",
+      "serial": "AVYF",
+      "size": 4194304,
+      "crc32": "339c7586",
+      "md5": "ca775010545c69bb28ec6635fa48cefd",
+      "sha1": "832e11838d7d6da49936a55fcf8686a2abc0f0e8"
+    },
+    {
+      "name": "Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AVYE",
+      "size": 4194304,
+      "crc32": "f5c85beb",
+      "md5": "e8fe8458edbf341e9d7eba0cbec95d46",
+      "sha1": "fb52e2d91850fa222187e5cd839bd6405ab90f25",
+      "sha256": "7c41ec9557f97ee126222c0d45a3541b10fc7561d9e524139e954c1e904254f5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Buffy%20contre%20les%20Vampires%20-%20La%20Colere%20de%20Darkhul%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Buffy%20contre%20les%20Vampires%20-%20La%20Colere%20de%20Darkhul%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Buffy%20contre%20les%20Vampires%20-%20La%20Colere%20de%20Darkhul%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Buffy%20the%20Vampire%20Slayer%20-%20Wrath%20of%20the%20Darkhul%20King%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Buffy%20the%20Vampire%20Slayer%20-%20Wrath%20of%20the%20Darkhul%20King%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Buffy%20the%20Vampire%20Slayer%20-%20Wrath%20of%20the%20Darkhul%20King%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

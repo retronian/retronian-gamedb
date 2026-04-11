@@ -63,5 +63,38 @@
     "wikidata": "Q1545458",
     "mobygames": 281,
     "igdb": 213568
-  }
+  },
+  "roms": [
+    {
+      "name": "Syndicate (USA, Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50906-00",
+      "size": 2097152,
+      "crc32": "95bbf87b",
+      "md5": "f8dbf7f08131243c18ed3626b10d2d55",
+      "sha1": "87442ecc50df508d54d241cbd468b41c926b974d",
+      "sha256": "939c16f36d4d5fbd91347745ab47f7784ec85e5ee5b7281ca31447ac3e565241"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Syndicate%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Syndicate%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Syndicate%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

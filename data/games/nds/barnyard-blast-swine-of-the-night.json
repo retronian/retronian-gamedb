@@ -18,5 +18,65 @@
     "wikidata": "Q4862035",
     "mobygames": 44656,
     "igdb": 47917
-  }
+  },
+  "roms": [
+    {
+      "name": "Barnyard Blast - Swine of the Night (Europe) (En,Fr,De,Es,It,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YQBP",
+      "size": 8388608,
+      "crc32": "35bb6f02",
+      "md5": "995dc073574f3d014cf40969fc536fcd",
+      "sha1": "412fd15aa80968c109cbd6e791e937fae0bed129"
+    },
+    {
+      "name": "Barnyard Blast - Swine of the Night (USA) (En,Fr,Es,Pt)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YQBE",
+      "size": 8388608,
+      "crc32": "29bbe320",
+      "md5": "6d4e32f2196ad58b2be10549c044fb66",
+      "sha1": "a05c409bb5fcabf4a1fb9463cd76ec1ef8c8693e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Barnyard%20Blast%20-%20Swine%20of%20the%20Night%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Barnyard%20Blast%20-%20Swine%20of%20the%20Night%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Barnyard%20Blast%20-%20Swine%20of%20the%20Night%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Barnyard%20Blast%20-%20Swine%20of%20the%20Night%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Barnyard%20Blast%20-%20Swine%20of%20the%20Night%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Barnyard%20Blast%20-%20Swine%20of%20the%20Night%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

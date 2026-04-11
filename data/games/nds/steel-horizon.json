@@ -27,5 +27,65 @@
     "wikidata": "Q16259287",
     "mobygames": 85169,
     "igdb": 20691
-  }
+  },
+  "roms": [
+    {
+      "name": "Steel Horizon (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AS4P",
+      "size": 67108864,
+      "crc32": "38525a6f",
+      "md5": "40a44735b895badb0c34ec46715cc0c0",
+      "sha1": "6d9c2fdc3ccea902d93fe58c277140c72e8e82a8"
+    },
+    {
+      "name": "Steel Horizon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AS4E",
+      "size": 33554432,
+      "crc32": "df1b9b43",
+      "md5": "228fb3385fadc4409a461558bbc84e4d",
+      "sha1": "1ad5968b898d2bdf3580ef2ad0ee0e4272f79819"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Steel%20Horizon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Steel%20Horizon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Steel%20Horizon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Steel%20Horizon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Steel%20Horizon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Steel%20Horizon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

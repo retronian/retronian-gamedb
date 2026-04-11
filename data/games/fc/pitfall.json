@@ -65,6 +65,60 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "スーパーピットフォール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": true
+    },
+    {
+      "text": "Super Pitfall",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "슈퍼 핏폴",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Super Pitfall",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Super Pitfall",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Super Pitfall",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1982-04-20",
@@ -72,5 +126,65 @@
     "wikidata": "Q1573878",
     "mobygames": 8793,
     "igdb": 48233
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Pitfall (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "b8a8b61e",
+      "md5": "1163940bcf6e668bd8c420fbe3a3fd43",
+      "sha1": "226cd59e165fc6a6b329500acf23e9160d976d39",
+      "sha256": "a84b17bd8f6648da1e119bcff245caaa5a31a87f79eb3e6de7dad44caccb9845"
+    },
+    {
+      "name": "Super Pitfall (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "33525ffc",
+      "md5": "177d2ed56cacb4a4dd0892605a817b02",
+      "sha1": "e14b91096dd1f81997075c7050632dd068be65ec",
+      "sha256": "e76fbb3c60152d45c734ddb81648ac328dd7783d18e2d308945db542f4881ca5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Pitfall%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Pitfall%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Pitfall%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Pitfall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Pitfall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Pitfall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -71,5 +71,72 @@
     "wikidata": "Q2713506",
     "mobygames": 9214,
     "igdb": 4097
-  }
+  },
+  "roms": [
+    {
+      "name": "Ore! Tomba (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 184728064,
+      "crc32": "27a1b342",
+      "md5": "05da864bc835ffada93039dab944257f",
+      "sha1": "fce0583b6de79ae8b3e0ea791b05d3a0a4e84b47"
+    },
+    {
+      "name": "Tomba! (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 166284944,
+      "crc32": "203810f1",
+      "md5": "4147b2ea3dd4203301ac6cac3a6c6737",
+      "sha1": "fb137f50f6d7b3314abcafd0eddff761e9960034"
+    },
+    {
+      "name": "Tomba! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 171106816,
+      "crc32": "8cdfe624",
+      "md5": "6072e363b0c7c3ec3602c7b56e2e1da4",
+      "sha1": "9ee45aa486e621c6cf169babf3f896c68896c305"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Ore%21%20Tomba%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Ore%21%20Tomba%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Ore%21%20Tomba%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Tomba%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Tomba%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Tomba%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

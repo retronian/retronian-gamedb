@@ -72,5 +72,77 @@
     "wikidata": "Q3046535",
     "mobygames": 15436,
     "igdb": 27077
-  }
+  },
+  "roms": [
+    {
+      "name": "Ayrton Senna's Super Monaco GP II (Japan, Europe) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00005514-00",
+      "size": 1048576,
+      "crc32": "60af0f76",
+      "md5": "7c31d87425e486b54ee972f7525e6c34",
+      "sha1": "373fb1744170a114ef99802db987bc9aae009032",
+      "sha256": "3a1fdc1bd379b5f60cbd7776756b1a89b145f6bffef55973b4df9ade63f5c689"
+    },
+    {
+      "name": "Ayrton Senna's Super Monaco GP II (USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00001135-00",
+      "size": 1048576,
+      "crc32": "eac8ded6",
+      "md5": "fad33d8300f3af2e1c81d74e2f37b688",
+      "sha1": "1ee87744d86c4bdd4958cc70d77538351aa206e6",
+      "sha256": "c02206602e00dd8e9b6c38943b8a3be41e37d2d21c1768cf342900bce11ab4f0"
+    },
+    {
+      "name": "Ayrton Senna's Super Monaco GP II (USA) (En,Ja) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "27913ead",
+      "md5": "fb537368594ecc81f4624427c62d0464",
+      "sha1": "1ee66611f7579ed47965a2fdaa1a4e2158d17236",
+      "sha256": "f36306fdca2b1083ad32ecca2ee3082dfed7f8052a1ce10bcc4d3b353af8faa5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ayrton%20Senna%27s%20Super%20Monaco%20GP%20II%20%28Japan%2C%20Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ayrton%20Senna%27s%20Super%20Monaco%20GP%20II%20%28Japan%2C%20Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ayrton%20Senna%27s%20Super%20Monaco%20GP%20II%20%28Japan%2C%20Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ayrton%20Senna%27s%20Super%20Monaco%20GP%20II%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ayrton%20Senna%27s%20Super%20Monaco%20GP%20II%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ayrton%20Senna%27s%20Super%20Monaco%20GP%20II%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

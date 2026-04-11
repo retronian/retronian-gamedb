@@ -54,5 +54,66 @@
     "wikidata": "Q7028543",
     "mobygames": 81580,
     "igdb": 248519
-  }
+  },
+  "roms": [
+    {
+      "name": "Nicktoons - Battle for Volcano Island (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AVKE",
+      "size": 16777216,
+      "crc32": "a3343400",
+      "md5": "637567f14179c1ee76799faa8ca9e03e",
+      "sha1": "9502d770cf43867954164d443f4f8b5d1037b1a0"
+    },
+    {
+      "name": "SpongeBob and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AVKP",
+      "size": 16777216,
+      "crc32": "649f30c9",
+      "md5": "47cb0cd6bbd6b6370c43a58c73384947",
+      "sha1": "20c3c55ccd9ef2b99f74c587b95a45aa12f0a1d2",
+      "sha256": "0514ada61394e851773dca38dc1b57440684be0b514d020021c08084dfac30f5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nicktoons%20-%20Battle%20for%20Volcano%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Nicktoons%20-%20Battle%20for%20Volcano%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nicktoons%20-%20Battle%20for%20Volcano%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SpongeBob%20and%20Friends%20-%20Battle%20for%20Volcano%20Island%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/SpongeBob%20and%20Friends%20-%20Battle%20for%20Volcano%20Island%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SpongeBob%20and%20Friends%20-%20Battle%20for%20Volcano%20Island%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

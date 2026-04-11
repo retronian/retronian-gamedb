@@ -36,5 +36,66 @@
     "wikidata": "Q7601000",
     "mobygames": 25293,
     "igdb": 20610
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Trek - Tactical Assault (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATJE",
+      "size": 16777216,
+      "crc32": "6b80853a",
+      "md5": "40c3254d3d0e1f23a670aa8cc990e7fa",
+      "sha1": "f9cf2c973a68d2cc08f25aacce117f8797f9a7f8"
+    },
+    {
+      "name": "Star Trek - Tactical Assault (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATJP",
+      "size": 16777216,
+      "crc32": "591d9ea3",
+      "md5": "1122f854ff0667dacc0d84e2ec246130",
+      "sha1": "3d1109d477192bd150d54ef4236b2b4f56947d79",
+      "sha256": "1b8c29534e8e6f2de0340336cdee722d4f1789480684bce5679005225cddc932"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Trek%20-%20Tactical%20Assault%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Trek%20-%20Tactical%20Assault%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Trek%20-%20Tactical%20Assault%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Trek%20-%20Tactical%20Assault%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Trek%20-%20Tactical%20Assault%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Trek%20-%20Tactical%20Assault%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

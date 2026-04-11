@@ -17,5 +17,47 @@
     "wikidata": "Q125769124",
     "mobygames": 56025,
     "igdb": 24153
-  }
+  },
+  "roms": [
+    {
+      "name": "Suzuki Alstare Extreme Racing (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "0f7264ba",
+      "md5": "54051bc19ce1c0301710d7845717dbad",
+      "sha1": "2489b5c2572246edf3f28f9d62abcda9d63b62bf",
+      "sha256": "5ae217530face3c08a434f6d02fa5fb2d3d7769ee849890af69e3af429347970"
+    },
+    {
+      "name": "Suzuki Alstare Extreme Racing (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "a13cf42e",
+      "md5": "436e02804051d43b9b622bb48f7c67bf",
+      "sha1": "b2816e8585e03b7d547e8acfda716b7adddf3b41",
+      "sha256": "b1caa55811983cbe5b6b71189b28be354ac25322faed5af54bb14de9126017af"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Suzuki%20Alstare%20Extreme%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Suzuki%20Alstare%20Extreme%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Suzuki%20Alstare%20Extreme%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -63,5 +63,66 @@
     "wikidata": "Q3129137",
     "mobygames": 16060,
     "igdb": 46776
-  }
+  },
+  "roms": [
+    {
+      "name": "Heavy Barrel (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "9076c308",
+      "md5": "16d40301b9b6438ab31aae855cbf2239",
+      "sha1": "9855568e9a79282155ee91398e8181e9c93c68a5",
+      "sha256": "b6492a92787092c91633a858224fac1b2304251b710c3dd34d9c5ab9e98d8daa"
+    },
+    {
+      "name": "Heavy Barrel (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "8f53520e",
+      "md5": "31f36ae615778df14e5b1b1abee855e6",
+      "sha1": "738d712eeacae48ae0229ab9fdeb06e8a325842c",
+      "sha256": "583fd645e01b19b3127a584d84b045646947095474fe1fe28842c27eec33f654"
+    },
+    {
+      "name": "Heavy Barrel (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "09505b41",
+      "md5": "63d27b00cad8ca69eaab40393a0cbd3d",
+      "sha1": "f22678004d1d699b15df540e46ad7a3527e7188d",
+      "sha256": "19c6a4b2fc7df15c7b1ac274ff11289c890874d900a285d0fdd7a43f16ad5bc4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Heavy%20Barrel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Heavy%20Barrel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Heavy%20Barrel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Heavy%20Barrel%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Heavy%20Barrel%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

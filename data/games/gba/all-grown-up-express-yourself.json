@@ -27,5 +27,66 @@
     "wikidata": "Q4728774",
     "mobygames": 158959,
     "igdb": 2796
-  }
+  },
+  "roms": [
+    {
+      "name": "All Grown Up! - Express Yourself (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BALE",
+      "size": 4194304,
+      "crc32": "e9c9dd2b",
+      "md5": "d429899cfd9a4858592f34ce9527a159",
+      "sha1": "c9b6d8d4a6c8998fb7770b13049077f572859427",
+      "sha256": "99a5b1aff13936e58bcedc8da98be88712e5fd54d1a0994f45b1b7e38d37640f"
+    },
+    {
+      "name": "Razbitume! - Restez Branches! (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BALX",
+      "size": 4194304,
+      "crc32": "a169b3b5",
+      "md5": "3b6875ab215097e8210b618a2aef1a60",
+      "sha1": "17a5e6533312cd3db742e894cc411b3bf77f007d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/All%20Grown%20Up%21%20-%20Express%20Yourself%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/All%20Grown%20Up%21%20-%20Express%20Yourself%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/All%20Grown%20Up%21%20-%20Express%20Yourself%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Razbitume%21%20-%20Restez%20Branches%21%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Razbitume%21%20-%20Restez%20Branches%21%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Razbitume%21%20-%20Restez%20Branches%21%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

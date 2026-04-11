@@ -47,6 +47,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "TaleSpin",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1991-12-31",
@@ -54,5 +63,49 @@
     "wikidata": "Q2495930",
     "mobygames": 10048,
     "igdb": 138106
-  }
+  },
+  "roms": [
+    {
+      "name": "TaleSpin (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1034-00",
+      "size": 524288,
+      "crc32": "f5c0c8d0",
+      "md5": "2ac0d4208641095358d663b3eb17b397",
+      "sha1": "9b6ab86fea23adb3cfba38b893278d856540c8b8",
+      "sha256": "79fe46431d514aec288e6010b263bc39f5a63c85eb529c147dfeb3987cc7d19b"
+    },
+    {
+      "name": "TaleSpin (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1035-00",
+      "size": 524288,
+      "crc32": "b3e0c7e6",
+      "md5": "7726d676edc7b39e05f08489fd3daa61",
+      "sha1": "f961a592684cd331d7c69275ff38606e39a404c8",
+      "sha256": "297bdf4f8e7356637024486d0f8d68fbb23e3f24c02370b751125ec6b9c3f5f8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/TaleSpin%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/TaleSpin%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/TaleSpin%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

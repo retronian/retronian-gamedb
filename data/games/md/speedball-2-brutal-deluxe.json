@@ -36,5 +36,59 @@
     "wikidata": "Q1883369",
     "mobygames": 273,
     "igdb": 10152
-  }
+  },
+  "roms": [
+    {
+      "name": "Speedball 2 - Brutal Deluxe (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-69026-00",
+      "size": 524288,
+      "crc32": "9fc340a7",
+      "md5": "ae982c9a1de304ada59b089603c7bd9c",
+      "sha1": "4598f1714fd05e74ab758c09263f7948c8ca1883",
+      "sha256": "45662bada0faceb2a70ad545ab74e698634f8e12259ce2f5168cb34ff57341d7"
+    },
+    {
+      "name": "Speedball 2 - Brutal Deluxe (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-69026-00",
+      "size": 524288,
+      "crc32": "13ee48d5",
+      "md5": "992cca7742636d7ee419a785ace5967a",
+      "sha1": "aaa5d1259d3f2fd24157d13a89e727e7b5d05640",
+      "sha256": "59a8634759689cb67d5cc96ba5618e9eba54fa2553d6a0b6f9c1fd6b98102f6c"
+    },
+    {
+      "name": "Speedball 2 - Brutal Deluxe (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "XXXXXXXX-XX",
+      "size": 524288,
+      "crc32": "13c803b7",
+      "md5": "ba6c09a3dc87d54e8d4234de4e847cff",
+      "sha1": "eac8744a01f946af11a36673c63a4b1df2d0742d",
+      "sha256": "87157d4632621fe933a0505d4475ab16da2f303f9cf13a5cec101e44753dcfd2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Speedball%202%20-%20Brutal%20Deluxe%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Speedball%202%20-%20Brutal%20Deluxe%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Speedball%202%20-%20Brutal%20Deluxe%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -44,5 +44,61 @@
   "external_ids": {
     "wikidata": "Q1970300",
     "mobygames": 37018
-  }
+  },
+  "roms": [
+    {
+      "name": "ESPN Speed World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-93166-00",
+      "size": 2097152,
+      "crc32": "f50be478",
+      "md5": "20e80d5615deecd667862cba911b335e",
+      "sha1": "9400a2ee865f11d68c766059318d6fe69987d89b",
+      "sha256": "6830f559e8b5f835a95419c5bed0ceef1d76cf6efab0ddad23ab8dcdc0bc0adf"
+    },
+    {
+      "name": "ESPN Speed World (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-93166-00",
+      "size": 2097152,
+      "crc32": "ab12849a",
+      "md5": "32a74c6ac7b91000e60cae740a0f4e3c",
+      "sha1": "2d69701a22929a751483e6f3ccf126dcccdbd38a",
+      "sha256": "712ff057ef5fd6cae6dd0df4d85b064b409ff3aaebc14121c18fbd68ec482142"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/ESPN%20Speed%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/ESPN%20Speed%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/ESPN%20Speed%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/ESPN%20Speed%20World%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/ESPN%20Speed%20World%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

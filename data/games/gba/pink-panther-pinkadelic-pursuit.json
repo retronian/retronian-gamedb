@@ -53,5 +53,65 @@
     "wikidata": "Q3388751",
     "mobygames": 17097,
     "igdb": 8108
-  }
+  },
+  "roms": [
+    {
+      "name": "Pink Panther - Pinkadelic Pursuit (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AP7P",
+      "size": 8388608,
+      "crc32": "8859b808",
+      "md5": "9bf9cd93bf32f6f6661b266e8adf9f2e",
+      "sha1": "624157219bef246d484ab4738662e4eb4e7de308"
+    },
+    {
+      "name": "Pink Panther - Pinkadelic Pursuit (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APEE",
+      "size": 8388608,
+      "crc32": "1762a578",
+      "md5": "ba7746952e87a2c85927fa691e7230dd",
+      "sha1": "208c1bcf84856f1f2425cdc32abc10d618fca71d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pink%20Panther%20-%20Pinkadelic%20Pursuit%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pink%20Panther%20-%20Pinkadelic%20Pursuit%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pink%20Panther%20-%20Pinkadelic%20Pursuit%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pink%20Panther%20-%20Pinkadelic%20Pursuit%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pink%20Panther%20-%20Pinkadelic%20Pursuit%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pink%20Panther%20-%20Pinkadelic%20Pursuit%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

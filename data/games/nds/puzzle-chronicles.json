@@ -18,5 +18,53 @@
     "wikidata": "Q4047670",
     "mobygames": 47277,
     "igdb": 10732
-  }
+  },
+  "roms": [
+    {
+      "name": "Puzzle Chronicles (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CDBE",
+      "size": 67108864,
+      "crc32": "5c3a21a4",
+      "md5": "836ae3de29cce913e7ad7393bcf87e69",
+      "sha1": "27d4adf07b117b087a572787d07aee8dac1d7e14"
+    },
+    {
+      "name": "Puzzle Chronicles (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CDBP",
+      "size": 67108864,
+      "crc32": "eaeab8df",
+      "md5": "02c7d0ffdc03ecf3653448a65916d709",
+      "sha1": "a994b8428477886a74fd35646b3488dc668f2e84"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puzzle%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20Chronicles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puzzle%20Chronicles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

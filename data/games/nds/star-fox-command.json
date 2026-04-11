@@ -63,5 +63,126 @@
     "wikidata": "Q1346365",
     "mobygames": 23814,
     "igdb": 20556
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Fox Command (Japan) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "WUP-N-DAMJ",
+      "size": 33554432,
+      "crc32": "92467f9d",
+      "md5": "b7b6aeee12e62d6c91cfc7b7871aa31d",
+      "sha1": "be19655e76e3f6246c86e8804a07f80f89c22ed7"
+    },
+    {
+      "name": "Star Fox Command (USA) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "WUP-N-DAME",
+      "size": 33554432,
+      "crc32": "8630e2d2",
+      "md5": "7af8fdfe202c3311dd91275a0d53c3a1",
+      "sha1": "152aa492528dc131eaccc3e5abdec555d03bb8a4"
+    },
+    {
+      "name": "Star Fox Command (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "WUP-N-DAMP",
+      "size": 67108864,
+      "crc32": "dee6a4f1",
+      "md5": "4a99338c55238d415c2d627ba9ccd50b",
+      "sha1": "ab8133742e4b2f80d59cf48b9a8d58974d904e9f"
+    },
+    {
+      "name": "Star Fox Command (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ASFJ",
+      "size": 33554432,
+      "crc32": "618c4089",
+      "md5": "81d9550164d4c0a3756d1271ee063a1a",
+      "sha1": "fe0a3ba974132de5d63429b48ee9d3e8b6d6a318",
+      "sha256": "590c90635f91890810b6b669d44ff57f7dfd58ca609736a50d142a27d3a830d3"
+    },
+    {
+      "name": "Star Fox Command (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASFE",
+      "size": 33554432,
+      "crc32": "89883212",
+      "md5": "8515d2a11b71b405d412ea20201a8e7f",
+      "sha1": "94fbde1387d66b40f5b39262ce49111b9a110783",
+      "sha256": "f35590b0c31a53918daf146dd93f99b9992dc8daada44a6bfb0a9bd862235e96"
+    },
+    {
+      "name": "Star Fox Command (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASFP",
+      "size": 67108864,
+      "crc32": "bd31b347",
+      "md5": "28036c9c903641e5afde81d74b47447c",
+      "sha1": "eb491de49a43429cc4b75986a4f95ac769200147",
+      "sha256": "0f27773c22b4834b72b92aa72eb95b663a0bcd098f5aa4414e6b31241dde9db1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Fox%20Command%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Fox%20Command%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Fox%20Command%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Fox%20Command%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Fox%20Command%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Fox%20Command%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Fox%20Command%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Fox%20Command%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Fox%20Command%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

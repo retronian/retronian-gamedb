@@ -53,5 +53,85 @@
   "external_ids": {
     "wikidata": "Q7642724",
     "mobygames": 7135
-  }
+  },
+  "roms": [
+    {
+      "name": "Super SWIV (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "b6d94361",
+      "md5": "d9b22466b44c0b573917471b26d7c7ac",
+      "sha1": "797a9082f78c8e38d4d5f79e69373139f2552054",
+      "sha256": "70c07b2c7bdff9353d3849e2d4bde2bfa631b29e0743862635c2212ac551cb27"
+    },
+    {
+      "name": "Super SWIV (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "70f28a6d",
+      "md5": "e1140db6e8558b2a5592cfb9e2ef3cc7",
+      "sha1": "40cfde9cfd4c3b175957ffc49163bad8238e64cd",
+      "sha256": "7ffaba3ff620f37085a46c5415857e3b7ed222867cc3cb17873231b5069f6159"
+    },
+    {
+      "name": "Super SWIV (Japan) (En) (Beta 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "4d66b5d7",
+      "md5": "58ee2578428d1b7e3961db7abd60066e",
+      "sha1": "47513aaa534c52472a3ab35a3adec5c211217c8e",
+      "sha256": "7e085e14d558b866fa0dba523df95cab0997508a899f4426b0d000a7f82e48bf"
+    },
+    {
+      "name": "Super SWIV (Japan) (En) (Beta 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ce9b4051",
+      "md5": "b8fa47368395eac5405d35cfed842a86",
+      "sha1": "31bb1fe49802c1a3dfec3057d8a4ecdbc202188c",
+      "sha256": "9fc30f14594478aa4fccd447b1b8f8fabfdd340ee2f6378816b5eac23dac9f93"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20SWIV%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20SWIV%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20SWIV%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20SWIV%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20SWIV%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20SWIV%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

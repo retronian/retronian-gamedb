@@ -18,5 +18,48 @@
     "wikidata": "Q3401627",
     "mobygames": 20439,
     "igdb": 45706
-  }
+  },
+  "roms": [
+    {
+      "name": "Premier Manager 97 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1280-00",
+      "size": 1048576,
+      "crc32": "fccbf69b",
+      "md5": "69f31849f904350bbf05c9b453528643",
+      "sha1": "e2df3b48170e1a7bde46af2adbf939803e267e13",
+      "sha256": "c8327869bb987a03512c5a72a0586ca8eab25e8ee2c19afe1b542fdc56050f2d"
+    },
+    {
+      "name": "Premier Manager 97 (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "MK-1280-00",
+      "size": 1048576,
+      "crc32": "d14d79e6",
+      "md5": "2dd93baecc45de3bfb9d8f43efb8101b",
+      "sha1": "22b3c08644077a4ecfba2c679cf0200ef727d113",
+      "sha256": "7e94e79c8f0b805bd5447bebcb953162c4a31a132d570dd35c05deb0b6ed48b1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Premier%20Manager%2097%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Premier%20Manager%2097%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Premier%20Manager%2097%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

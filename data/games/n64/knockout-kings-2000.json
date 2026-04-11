@@ -29,12 +29,101 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Knockout Kings",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Knockout Kings",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Knockout Kings",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1999-01-01",
+  "first_release_date": "1998-01-01",
   "external_ids": {
     "wikidata": "Q3198035",
     "mobygames": 8466,
     "igdb": 10687
-  }
+  },
+  "roms": [
+    {
+      "name": "Knockout Kings 2000 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NKKP",
+      "size": 16777216,
+      "crc32": "58ce7d80",
+      "md5": "e95d73ff55fbb63e79aa9eab14608584",
+      "sha1": "181d220efaa3e06ac5a7baac4b6a351b762ec384",
+      "sha256": "9b01ba8aae55151d3445bab551150c884959af7a4897566946b43f7bd6ae394f"
+    },
+    {
+      "name": "Knockout Kings 2000 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NKKE",
+      "size": 16777216,
+      "crc32": "074690d6",
+      "md5": "008b473841ce4d9ac050d55f99b4b5d4",
+      "sha1": "ae7229676da9acb39becb03246969693585b7728",
+      "sha256": "e34165bdcfcf6dff6322ec6faf23f59ce38d43417573e6eb41233ebf7309e293"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Knockout%20Kings%202000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Knockout%20Kings%202000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Knockout%20Kings%202000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Knockout%20Kings%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Knockout%20Kings%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Knockout%20Kings%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -54,5 +54,64 @@
     "wikidata": "Q1464617",
     "mobygames": 3227,
     "igdb": 45066
-  }
+  },
+  "roms": [
+    {
+      "name": "Le Mans 24 Hours (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "1b49d07d",
+      "md5": "165550e557314f88decd95a7409a24ce",
+      "sha1": "cb4847cd63c8cc52f04bf4d86d54954be3d8fc1a",
+      "sha256": "a8497fee97ae3d70b955a6b498f6ecd196dab875ba097012075e340a80fd7189"
+    },
+    {
+      "name": "Test Drive Le Mans (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e6d6ac8f",
+      "md5": "adb95251cfd973f8245e6a869925d6da",
+      "sha1": "bf007bf9c22633d67b7b46aef656d136dd2d9b25"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Le%20Mans%2024%20Hours%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Le%20Mans%2024%20Hours%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Le%20Mans%2024%20Hours%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Test%20Drive%20Le%20Mans%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Test%20Drive%20Le%20Mans%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Test%20Drive%20Le%20Mans%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

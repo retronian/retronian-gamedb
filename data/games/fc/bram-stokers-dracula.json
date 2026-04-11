@@ -45,5 +45,65 @@
     "wikidata": "Q1406611",
     "mobygames": 323,
     "igdb": 14340
-  }
+  },
+  "roms": [
+    {
+      "name": "Bram Stoker's Dracula (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "59b6677b",
+      "md5": "840e88f9cc65f4994c9a2a4ad1865f74",
+      "sha1": "19f67174565f0122abac19fa0c9d9bfb459dcde1",
+      "sha256": "34f98c4b5f6b930e8eba63bd65576343a7328618bcd916e92f09afe4a7cc9ff1"
+    },
+    {
+      "name": "Bram Stoker's Dracula (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "cb5d046c",
+      "md5": "373c4ff82d5747dfb601481d71ecba2f",
+      "sha1": "c95ecd5672d94f2c04ed22325782540813bdbb7c",
+      "sha256": "463b53f701bf0d85abe8329f80469b38640bb62db68512e40583f5bab5013539"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bram%20Stoker%27s%20Dracula%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bram%20Stoker%27s%20Dracula%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bram%20Stoker%27s%20Dracula%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bram%20Stoker%27s%20Dracula%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bram%20Stoker%27s%20Dracula%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bram%20Stoker%27s%20Dracula%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

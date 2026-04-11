@@ -35,5 +35,85 @@
   "external_ids": {
     "wikidata": "Q3284571",
     "igdb": 248622
-  }
+  },
+  "roms": [
+    {
+      "name": "Power Rangers - La Force du Temps (France)",
+      "source": "no_intro",
+      "serial": "APRF",
+      "size": 4194304,
+      "crc32": "eb54d898",
+      "md5": "a85abd253b9716a6266442b6f26362c4",
+      "sha1": "687d257da2bb5946c2aa07a7f6e28649505186a8"
+    },
+    {
+      "name": "Power Rangers - Time Force (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APRE",
+      "size": 4194304,
+      "crc32": "70359b35",
+      "md5": "21b6d4d9631896145f94b869de43f543",
+      "sha1": "f43b94941a8d5ea87e15130bedf3dc2e5d893f36"
+    },
+    {
+      "name": "Power Rangers - Time Force (Germany)",
+      "source": "no_intro",
+      "serial": "APRD",
+      "size": 4194304,
+      "crc32": "933f5477",
+      "md5": "f29fe8cae0acb618d7c48fb5e292b367",
+      "sha1": "085fe6df7a7d30b2cabf62df5b03eae21982382c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Power%20Rangers%20-%20La%20Force%20du%20Temps%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Power%20Rangers%20-%20La%20Force%20du%20Temps%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Power%20Rangers%20-%20La%20Force%20du%20Temps%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Power%20Rangers%20-%20Time%20Force%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Power%20Rangers%20-%20Time%20Force%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Power%20Rangers%20-%20Time%20Force%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Power%20Rangers%20-%20Time%20Force%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Power%20Rangers%20-%20Time%20Force%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Power%20Rangers%20-%20Time%20Force%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

@@ -90,5 +90,61 @@
     "wikidata": "Q2165750",
     "mobygames": 3593,
     "igdb": 7357
-  }
+  },
+  "roms": [
+    {
+      "name": "Parasite Eve (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 587392688,
+      "crc32": "7921076b",
+      "md5": "4c205a9abbad53009e43169c7db9bca9",
+      "sha1": "d85847fb39a0318b6c26b5d355d3197d3e67cef9",
+      "sha256": "71323be063e59d4799e547657635470f501545a15f633b8ffc45f2f839580bb1"
+    },
+    {
+      "name": "Parasite Eve (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 578940496,
+      "crc32": "5fdb4b02",
+      "md5": "68b8fd1147c0d7fbd3f01544febf1148",
+      "sha1": "7729047f5f22427103bb50daab72ea82a35e81de"
+    },
+    {
+      "name": "Parasite Eve (Asia)",
+      "source": "no_intro",
+      "size": 587370064,
+      "crc32": "ac264b6a",
+      "md5": "06101e6f8d89a2972253c9faff109b1a",
+      "sha1": "68293b1a0a6355dc590f3a26218d092b383008f8",
+      "sha256": "9138a245028447639d29c29929137625f9d02c0f7655e5e2fbfb0bdae6da27cf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Parasite%20Eve%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Parasite%20Eve%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Parasite%20Eve%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Parasite%20Eve%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

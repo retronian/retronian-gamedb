@@ -45,5 +45,54 @@
     "wikidata": "Q846296",
     "mobygames": 34677,
     "igdb": 5076
-  }
+  },
+  "roms": [
+    {
+      "name": "Ninja Reflex (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YNIE",
+      "size": 134217728,
+      "crc32": "e5a670a1",
+      "md5": "cd7dcd7f81dcf369faf141284644c4a7",
+      "sha1": "0cc35d61f6af4683b8442f23e341345bc81ceaac"
+    },
+    {
+      "name": "Ninja Reflex (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YNIP",
+      "size": 134217728,
+      "crc32": "5e4de745",
+      "md5": "21a027f362fbd059195a2d67b69df7d0",
+      "sha1": "6f6fd281b0e575f61f0ef79d9a9f5241e38e46ab",
+      "sha256": "59497a195dea70253dd190f0e6a5be13b54260d845c77038ebdbd76211ff9889"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ninja%20Reflex%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ninja%20Reflex%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ninja%20Reflex%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ninja%20Reflex%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

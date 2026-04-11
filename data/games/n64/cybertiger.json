@@ -17,5 +17,67 @@
   "external_ids": {
     "wikidata": "Q3008121",
     "mobygames": 8510
-  }
+  },
+  "roms": [
+    {
+      "name": "CyberTiger (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NT4P",
+      "size": 16777216,
+      "crc32": "7319d9af",
+      "md5": "8c4a4cd472d610cda5459b3a92f21d30",
+      "sha1": "ae220ac1cd6d892098937dc639c925f9ef158759",
+      "sha256": "868dbb42eb29614da40e298532f4ae86c4905de8c54b73059e41d2aae42a9fc5"
+    },
+    {
+      "name": "CyberTiger (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NT4E",
+      "size": 16777216,
+      "crc32": "10cc5f15",
+      "md5": "88072f30d4f9cf384b2b3a0300649218",
+      "sha1": "14e0635ccc2a80c77fd0a888a2e7977c55c6e129",
+      "sha256": "cb05fdd1aaed4b8db33094d065e87d6ef123db45516816e6f2565cf09e28f395"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/CyberTiger%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/CyberTiger%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/CyberTiger%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/CyberTiger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/CyberTiger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/CyberTiger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

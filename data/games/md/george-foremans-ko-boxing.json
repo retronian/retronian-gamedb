@@ -17,5 +17,67 @@
   "external_ids": {
     "wikidata": "Q3101570",
     "igdb": 48164
-  }
+  },
+  "roms": [
+    {
+      "name": "George Foreman's KO Boxing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-081116-00",
+      "size": 1048576,
+      "crc32": "bd556381",
+      "md5": "3d4d833f4bddc33ef0483c8b9e9c1cc8",
+      "sha1": "c93298ee3ad6164ce497bd49d0ab6638854acb79",
+      "sha256": "13132459402299315b75a8c0c14eb19a3008a564d2af2479a5f5a8b8300aeb8c"
+    },
+    {
+      "name": "George Foreman's KO Boxing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-081116-00",
+      "size": 1048576,
+      "crc32": "e1fdc787",
+      "md5": "901918b93f0286a4c961ae60ab72d360",
+      "sha1": "62a953cc6ea8535aa7f3f59b40cff0e285d4392a",
+      "sha256": "f651d0e0c1b67caa15b60fd66e459f205f3677e1254af56ada0830c9e5d8a306"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/George%20Foreman%27s%20KO%20Boxing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/George%20Foreman%27s%20KO%20Boxing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/George%20Foreman%27s%20KO%20Boxing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/George%20Foreman%27s%20KO%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/George%20Foreman%27s%20KO%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/George%20Foreman%27s%20KO%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

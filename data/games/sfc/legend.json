@@ -63,5 +63,111 @@
     "wikidata": "Q2010409",
     "mobygames": 15933,
     "igdb": 15247
-  }
+  },
+  "roms": [
+    {
+      "name": "Legend (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "0cac572f",
+      "md5": "313e7f130b73b8f50bc2930ac8a7fe8f",
+      "sha1": "bc544f98599073edc8bf61da3c8762e350310f3c",
+      "sha256": "6379d7d476a29ae2655e30fc20699772af81abefc903f5816872dd46e4e88242"
+    },
+    {
+      "name": "Legend (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "0a6dd870",
+      "md5": "0c684458019a60b0e16acb408f1418ea",
+      "sha1": "8d5595de49178294914d36ffc2b38f078cbd20a0",
+      "sha256": "c7814cee0fc95d6422cf19a3dc8c9a65b60f6f56da75f09cebea02cc5f99261b"
+    },
+    {
+      "name": "Legend (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "42e3774e",
+      "md5": "3de22a38781b518f317cd22630aaf47b",
+      "sha1": "0b636416ed0a2ea7a35afd9572aa8b4163f164d3",
+      "sha256": "bbf304b700c697d25402e21839cc2aa0683c0a10ea7af980bfaf323773ce4e75"
+    },
+    {
+      "name": "Legend (World) (Piko Interactive)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "fa66536d",
+      "md5": "3a8d1e33acd44e15f3f88bea10fa2502",
+      "sha1": "fa868ed108891e84b62f27a92e539b8cb741f7f0",
+      "sha256": "b3bc89c000bec7b2a56d756f954aa98a061973e7b5e5f9e933d12a9face346cb"
+    },
+    {
+      "name": "Legend (World) (QUByte Classics)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "33c648aa",
+      "md5": "99c070d3cdf193582a3413168bba546f",
+      "sha1": "80aca3dd651657d714c702157166900c61e33c7a",
+      "sha256": "e52e73f15004cc45669f360127e4461fdd19dac70c9798805a3be9837b8d5ddb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Legend%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Legend%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Legend%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Legend%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Legend%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Legend%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

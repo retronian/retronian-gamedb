@@ -54,5 +54,76 @@
     "wikidata": "Q1451169",
     "mobygames": 44182,
     "igdb": 248732
-  }
+  },
+  "roms": [
+    {
+      "name": "Nicktoons Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANQE",
+      "size": 4194304,
+      "crc32": "50ab9bb6",
+      "md5": "cc25621658169b41ada436ef99c078e8",
+      "sha1": "ad53fdc15c3e68a4ada8f4d902bfd579c6313025"
+    },
+    {
+      "name": "Nicktoons Racing (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANQP",
+      "size": 4194304,
+      "crc32": "babccefd",
+      "md5": "10eaeb09b2a583574fd0c7f416c68f82",
+      "sha1": "55b145de1810a4a6a8b5716ef4c9e9333a93e3ba"
+    },
+    {
+      "name": "Nicktoons Racing (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANQP",
+      "size": 4194304,
+      "crc32": "4ed6e860",
+      "md5": "e4ae25fc06561245f7726f9a815d5eea",
+      "sha1": "d553a265d1405bb073034e16ea97e1a2df899025",
+      "sha256": "92420f720fa390af264f923285417be7e2dea80a1f9118a80cd39989398b826a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Nicktoons%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Nicktoons%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Nicktoons%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Nicktoons%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Nicktoons%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Nicktoons%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -38,12 +38,88 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "アザーライフ アザードリームス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Azure Dreams",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "2000-01-01",
+  "first_release_date": "1997-11-13",
   "external_ids": {
     "wikidata": "Q113939114",
     "mobygames": 145718,
     "igdb": 228476
-  }
+  },
+  "roms": [
+    {
+      "name": "Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "f9ccab09",
+      "md5": "f6b6ddfaaf03392dc469f4eed49ec15d",
+      "sha1": "81d9acd0e27639f90e38e918a4b0a96fa565d1d9"
+    },
+    {
+      "name": "Azure Dreams (USA) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "71d52876",
+      "md5": "464acbe3c82887db897c39cdba877237",
+      "sha1": "1ebc365058dbb4d4f7ccad6185f4364d584bf250"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Azure%20Dreams%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Azure%20Dreams%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Azure%20Dreams%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Azure%20Dreams%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Azure%20Dreams%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Azure%20Dreams%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

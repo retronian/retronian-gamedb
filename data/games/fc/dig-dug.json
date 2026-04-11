@@ -79,5 +79,52 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Dig Dug (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "76b2c7cc",
+      "md5": "440d3308756edd2a6c8d43a74dd87d41",
+      "sha1": "f211728a6f68bf4b91ed719fdf5bcc4658fea543",
+      "sha256": "5b6292839aa173757910867a9eef0e06d879b6979b3c51567fe270346bde7005"
+    },
+    {
+      "name": "Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "cae115c3",
+      "md5": "477af3d213f5e81a6b1680a673305dde",
+      "sha1": "8ee3f8d953e4f89f1fde96f32481166d249d8e2c",
+      "sha256": "6401dcd4795eedb410ce9f4f6a06ea4d26294d246750b84e3ed5fc8c3c2b8746"
+    },
+    {
+      "name": "Dig Dug (World) (Evercade)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "d4fac017",
+      "md5": "dbbb7382709e2d9782a5475a2cba8edc",
+      "sha1": "f32a8dd2381e7bdb2727944387952964f249ad88",
+      "sha256": "0079c93e0613a03a9568bdf75a57a41a51c8170995af0f38fcf74c6dd8978e93"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dig%20Dug%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dig%20Dug%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dig%20Dug%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

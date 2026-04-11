@@ -62,5 +62,66 @@
     "wikidata": "Q2483445",
     "mobygames": 4146,
     "igdb": 3333
-  }
+  },
+  "roms": [
+    {
+      "name": "Vigilante 8 - 2nd Offense (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NVGP",
+      "size": 12582912,
+      "crc32": "691aa971",
+      "md5": "47661ef1964524b6319b759913f08b62",
+      "sha1": "a2841a8b4c29481d05b52227442c0e419c574e2d",
+      "sha256": "f752fbc6ba026fe4efef6f79df7a8e509762507ad5442ad0aa09a68da484d9e7"
+    },
+    {
+      "name": "Vigilante 8 - 2nd Offense (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NVGE",
+      "size": 12582912,
+      "crc32": "0293203f",
+      "md5": "60cdf7445fad2aba05c958f46691501b",
+      "sha1": "9634247ca456c82a65bb33f552db036ba6f33f79"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Vigilante%208%20-%202nd%20Offense%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Vigilante%208%20-%202nd%20Offense%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Vigilante%208%20-%202nd%20Offense%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Vigilante%208%20-%202nd%20Offense%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Vigilante%208%20-%202nd%20Offense%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Vigilante%208%20-%202nd%20Offense%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

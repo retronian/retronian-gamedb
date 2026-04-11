@@ -51,5 +51,46 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "2000-10-06"
+  "first_release_date": "2000-10-06",
+  "roms": [
+    {
+      "name": "Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "d2cc40c2",
+      "md5": "bf02f5bfc27ef44ceb2878359c7a9e0e",
+      "sha1": "031b00495b3700b2145a741f2d03cc820ffa6fde",
+      "sha256": "6e623ae4539c446fe3d4c81df253b2926142d192d2f2294f4721a2c7dde4467e"
+    },
+    {
+      "name": "Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "f78f7998",
+      "md5": "3a998a2ec99c89696c9b23bbbd87f116",
+      "sha1": "1809154979b289750b572a61da1dc93b1b76360f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Cardcaptor%20Sakura%20-%20Tomoeda%20Shougakkou%20Daiundoukai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Cardcaptor%20Sakura%20-%20Tomoeda%20Shougakkou%20Daiundoukai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Cardcaptor%20Sakura%20-%20Tomoeda%20Shougakkou%20Daiundoukai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

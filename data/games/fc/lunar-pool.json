@@ -105,5 +105,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Lunar Ball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "0112de11",
+      "md5": "9127498b4eadb33e835e36cc693b340c",
+      "sha1": "311d08f220925ca039302c86d47535e78dc2d92a",
+      "sha256": "5f65bee3d2c56410987ebf250842f8927b89f6d0091f649fce6bc14a89abf831"
+    },
+    {
+      "name": "Lunar Pool (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 40976,
+      "crc32": "1ff8447b",
+      "md5": "d40e5fba150bd803d0b8a6c4d4544593",
+      "sha1": "4df0e3aa442f4e45e75e3dd01fc01c14bd6c9f31",
+      "sha256": "784a2653d49ba269f29841a7fcc0a3d3ea53e5c1c08737ffc52591ab4c996fd7"
+    },
+    {
+      "name": "Lunar Pool (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "b6cc24f4",
+      "md5": "d70a1a8627e52dc2ccd5141a5526c5a5",
+      "sha1": "ff9560a863cda4298ffea40a73acad32282b132a",
+      "sha256": "50f3a4f77aa2b9c02523f2082e1552713d830d55b2ecf9135da9893a988a7385"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Lunar%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Lunar%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Lunar%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Lunar%20Pool%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Lunar%20Pool%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Lunar%20Pool%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Lunar%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Lunar%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Lunar%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -45,5 +45,66 @@
     "wikidata": "Q3259844",
     "mobygames": 32836,
     "igdb": 21396
-  }
+  },
+  "roms": [
+    {
+      "name": "Lost in Blue 2 (USA) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AL2E",
+      "size": 67108864,
+      "crc32": "46a817f8",
+      "md5": "2a06a68eedbab28066a98c6013efae78",
+      "sha1": "f89e571db0136ec285eae19e07cafa6169d43272"
+    },
+    {
+      "name": "Lost in Blue 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AL2P",
+      "size": 67108864,
+      "crc32": "50e7d3f9",
+      "md5": "14cb19b0e80ac82de23a3e32d46fea9c",
+      "sha1": "91fdde024268dfcba92a7c573a19d830f7cda406",
+      "sha256": "f07e0c9e14fcb884b6c76deda7e7c548b7befe3ec91ad0fcab454ae2b71ad6c4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Lost%20in%20Blue%202%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Lost%20in%20Blue%202%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Lost%20in%20Blue%202%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Lost%20in%20Blue%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Lost%20in%20Blue%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Lost%20in%20Blue%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

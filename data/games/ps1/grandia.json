@@ -80,5 +80,71 @@
     "wikidata": "Q13462475",
     "mobygames": 5751,
     "igdb": 4127
-  }
+  },
+  "roms": [
+    {
+      "name": "Grandia (Germany)",
+      "source": "no_intro",
+      "size": 875385216,
+      "crc32": "d9d39167",
+      "md5": "275c6f58fe34b7028de1965d33f868c0",
+      "sha1": "e3eb06e982021c9914acba2181cf4cb149872ffb"
+    },
+    {
+      "name": "Grandia (Japan) (PS3 v2.60)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 891279776,
+      "crc32": "197307a4",
+      "md5": "6440ae97d5275cce477ab67ff32f13e9",
+      "sha1": "a555d3724c146310dab698357efeb9575ba349e1"
+    },
+    {
+      "name": "Grandia (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 891821968,
+      "crc32": "e22de703",
+      "md5": "0567fc6f79acd8a329399073d533564d",
+      "sha1": "0a0e2f7ddcfd43ea5f57f1842b4d11c7c1b73b69"
+    },
+    {
+      "name": "Grandia (United Kingdom)",
+      "source": "no_intro",
+      "size": 878453216,
+      "crc32": "ff09ad47",
+      "md5": "d0380d5eef3befaca264ac0f5d20138a",
+      "sha1": "e737ca75bf0f84cba40f9499233aa0a34234b18d",
+      "sha256": "ba2ee1fbfda1a302143ebcb7941882532d3fe5a0ae1468851c512fa781a46a3d"
+    },
+    {
+      "name": "Grandia (Japan) (PS3 v4.46)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "e7378469",
+      "md5": "cfe49821da15a8a1d5de109badc2185d",
+      "sha1": "b77edcdf6ed67c81888573b06547e88d7cf4b98d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Grandia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Grandia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Grandia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

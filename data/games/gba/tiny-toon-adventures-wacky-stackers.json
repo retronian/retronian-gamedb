@@ -27,5 +27,66 @@
     "wikidata": "Q588270",
     "mobygames": 7897,
     "igdb": 6642
-  }
+  },
+  "roms": [
+    {
+      "name": "Tiny Toon Adventures - Wacky Stackers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWSE",
+      "size": 4194304,
+      "crc32": "e03c633e",
+      "md5": "ed37a03ef4b1df0bee663751cc021aa2",
+      "sha1": "fd9d10006bd29945ac16c6f88608a27e15f8f7da"
+    },
+    {
+      "name": "Tiny Toon Adventures - Wacky Stackers (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWSP",
+      "size": 4194304,
+      "crc32": "4ac770b6",
+      "md5": "342e05b38859d830e83722cda6e41409",
+      "sha1": "cd9d810b29070d9f37df219bfd7e52ce9d52d2b0",
+      "sha256": "2ff9e6a63fe9726c98b8271d7948e4b4266bf8bec27d2cd61202c67bb8472a88"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tiny%20Toon%20Adventures%20-%20Wacky%20Stackers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tiny%20Toon%20Adventures%20-%20Wacky%20Stackers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tiny%20Toon%20Adventures%20-%20Wacky%20Stackers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tiny%20Toon%20Adventures%20-%20Wacky%20Stackers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tiny%20Toon%20Adventures%20-%20Wacky%20Stackers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tiny%20Toon%20Adventures%20-%20Wacky%20Stackers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

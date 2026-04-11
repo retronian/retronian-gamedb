@@ -45,5 +45,85 @@
     "wikidata": "Q5959139",
     "mobygames": 28460,
     "igdb": 15841
-  }
+  },
+  "roms": [
+    {
+      "name": "Soldier Blade (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "4bb68b13",
+      "md5": "59d23b7af39ea827eceb1d7e2cc363c0",
+      "sha1": "3b4cc242f68a1d61c83a1a0dbdee23d2ae8f1427",
+      "sha256": "e9901fd864a8fc911316451331ffd2767e1299db93e58c6a00a9a8d661f8741d"
+    },
+    {
+      "name": "Soldier Blade (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "8420b12b",
+      "md5": "e78e5212d85d614060ae31135e4f4bfe",
+      "sha1": "bb6259ecfee3cc28ddbf1b1c1416f281ecccbe31",
+      "sha256": "5a5740bab807b4f4cf6ee260b7a78febdac03ded3a3dd4b5376f27ba86c34feb"
+    },
+    {
+      "name": "Soldier Blade (USA, Europe) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "d2113bf1",
+      "md5": "441fea810ecb8e453d96ae9501e12e9c",
+      "sha1": "07fae30744280c26971ab5f976f0cd81f69be4ef",
+      "sha256": "fc6c19dc93d8ec292475b65c269329399eab6e13d1003d20ad6993b59bfc6a18"
+    },
+    {
+      "name": "Soldier Blade (Japan) (En) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "1d8701c9",
+      "md5": "2bf37a216d1a7aa60c637c74afdc9268",
+      "sha1": "13daf1494689e74074fb81f8eb17d324d20a2190",
+      "sha256": "c84986f47f38eca38ae6d69a37f038c31cc40fdc6abeccd696e4835925dbb9c7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Soldier%20Blade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Soldier%20Blade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Soldier%20Blade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Soldier%20Blade%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Soldier%20Blade%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Soldier%20Blade%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

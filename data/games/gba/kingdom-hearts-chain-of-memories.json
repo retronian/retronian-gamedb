@@ -106,5 +106,94 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Kingdom Hearts - Chain of Memories (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B8CJ",
+      "size": 33554432,
+      "crc32": "8d5a0d84",
+      "md5": "90cb614e8695745f288bf2a7de4b5922",
+      "sha1": "59ec0a0a4ccd1e6acb3bbd7bfb21d63988958cfa",
+      "sha256": "6d659a3fe3c653ba1ad7a29e084f45e3e5b6861788dcd5422706c3ce3ab2edba"
+    },
+    {
+      "name": "Kingdom Hearts - Chain of Memories (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B8CE",
+      "size": 33554432,
+      "crc32": "d031ce67",
+      "md5": "f7b81e3f3bb3b02d973fc6f145ad4416",
+      "sha1": "10729bd884f8fdca7a310b6d606c52e46657aa48"
+    },
+    {
+      "name": "Kingdom Hearts - Chain of Memories (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B8CP",
+      "size": 33554432,
+      "crc32": "772d97fb",
+      "md5": "d369f791d86a969778d2c3a5278d544c",
+      "sha1": "8db73586cdb11b3795907edebf43228dbcd3e6b2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

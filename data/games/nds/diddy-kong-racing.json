@@ -83,6 +83,60 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "ディディーコングレーシングDS",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Diddy Kong Racing DS",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Diddy Kong Racing DS",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Diddy Kong Racing DS",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Diddy Kong Racing DS",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Diddy Kong Racing DS",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1997-11-21",
@@ -90,5 +144,87 @@
     "wikidata": "Q545072",
     "mobygames": 3582,
     "igdb": 20650
-  }
+  },
+  "roms": [
+    {
+      "name": "Diddy Kong Racing (Unknown) (Proto) (Climax, 2004-05-27)",
+      "source": "no_intro",
+      "serial": "!n/a",
+      "size": 385536,
+      "crc32": "4ead89f8",
+      "md5": "621827a01c855e66b7e89f2214ce37f6",
+      "sha1": "0cfe192d23cec4d2d364bf59625e7f8bf00d7f07",
+      "sha256": "3bf7da295dc46ccc131e25b9707bc1eadc2686b82c30247f6c3d521a50303a77"
+    },
+    {
+      "name": "Diddy Kong Racing (Unknown) (Proto) (Climax, 2004-05-31)",
+      "source": "no_intro",
+      "serial": "!n/a",
+      "size": 743424,
+      "crc32": "2191a4f6",
+      "md5": "732624964203d21c77ad010b51ca5134",
+      "sha1": "5e7860176626882854eaee41b972fec55b078c04",
+      "sha256": "8a0ab9cd194c0439d4192fd9481954b8ef1ba04c45bb06f74d7ca3ef0dd7fb32"
+    },
+    {
+      "name": "Diddy Kong Racing DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWDE",
+      "size": 33554432,
+      "crc32": "6446207b",
+      "md5": "46dbee8efb7cb1b1bd7b62c83b5a9e06",
+      "sha1": "bc1c8994e2ae67f7e30c28516dc9717eda790df9",
+      "sha256": "df0f252781d83ac8041409555c89d15be65290c7ca97e9e4a90dfc2f060e148e"
+    },
+    {
+      "name": "Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWDP",
+      "size": 33554432,
+      "crc32": "9fc15ee6",
+      "md5": "7659c2cdc01e96dba19191cbef8d8129",
+      "sha1": "77ff0a8574343d73ba3a09f0e1d9e08b3bfc6ab1",
+      "sha256": "c29bb5a082bc4c8507e08f7ab6fcb2ef825ba079897e32f487c872172cc9946d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Diddy%20Kong%20Racing%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Diddy%20Kong%20Racing%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Diddy%20Kong%20Racing%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Diddy%20Kong%20Racing%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Diddy%20Kong%20Racing%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Diddy%20Kong%20Racing%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

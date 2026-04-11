@@ -36,5 +36,65 @@
     "wikidata": "Q3281949",
     "mobygames": 8030,
     "igdb": 19771
-  }
+  },
+  "roms": [
+    {
+      "name": "WWF Raw (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 3145728,
+      "crc32": "a5a3bfbc",
+      "md5": "c9621e6293ab2de3fe03439ba09969a2",
+      "sha1": "87d4dadad6cdaa3b6cf6b2c1118606bcb5ef74c4",
+      "sha256": "b6cd23c50ca09fb5f46445efd710337fdb6cf45a7daa6aebd259a07d3fdab2b0"
+    },
+    {
+      "name": "WWF Raw (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 3145728,
+      "crc32": "3e0038bf",
+      "md5": "6852754ebd4115e1db335b6492586c8b",
+      "sha1": "aa2f3d719bdcd4f36db05ac2651fb0a242d6e6fb",
+      "sha256": "0af7b0d3022acd24a1fb15865a076519f7f56e7a4b33f12b6d851b3a91e5388c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/WWF%20Raw%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/WWF%20Raw%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/WWF%20Raw%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/WWF%20Raw%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/WWF%20Raw%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/WWF%20Raw%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

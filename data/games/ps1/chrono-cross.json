@@ -72,5 +72,46 @@
     "wikidata": "Q1088142",
     "mobygames": 3810,
     "igdb": 1804
-  }
+  },
+  "roms": [
+    {
+      "name": "Chrono Cross (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 819676288,
+      "crc32": "c658caa8",
+      "md5": "8b689a80dfffcc4215be2fd93c3f3270",
+      "sha1": "e53557b48cb9d5bbfb31c62558274466dee52fed",
+      "sha256": "e6a602472b0db73ed10f27498bf00e9e7d5ba226b93538c6dbd7d76a396b491b"
+    },
+    {
+      "name": "Chrono Cross (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 815561440,
+      "crc32": "8ae00257",
+      "md5": "5321c69fcc2aa83076445a4787ebe9e0",
+      "sha1": "baca857b3f4e2da774263dba67f429ca2eb6bdda"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Chrono%20Cross%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Chrono%20Cross%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Chrono%20Cross%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,41 @@
     "wikidata": "Q2517563",
     "mobygames": 7106,
     "igdb": 210224
-  }
+  },
+  "roms": [
+    {
+      "name": "Mario is Missing! (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "e927d537",
+      "md5": "2614e26a700b7bab98dd0255cd42d5e1",
+      "sha1": "6324588c1425414cfa90758e3841681bb56ed981",
+      "sha256": "de1fce6bbbdfde100da88aa6f59db2768bd359d1ad28b3cbc67e348077c53a84"
+    },
+    {
+      "name": "Mario is Missing! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "9bec7520",
+      "md5": "e0bfa5dd26379347d3f556d0637eb1ec",
+      "sha1": "40b635820bac31c1d9701f480742d23462467cc7",
+      "sha256": "c32d180435d2094578af014861feb6cfa7ded05140f98267b42dc00b836cc5c1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%20is%20Missing%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%20is%20Missing%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

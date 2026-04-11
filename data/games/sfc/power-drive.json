@@ -27,5 +27,47 @@
     "wikidata": "Q16267786",
     "mobygames": 13017,
     "igdb": 12720
-  }
+  },
+  "roms": [
+    {
+      "name": "Power Drive (Europe) (En,Fr,De,Es,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "0bfdca70",
+      "md5": "710893291c4848eacc054b020aadb8ef",
+      "sha1": "9eb647e4cba65f9cebf1188d0c4bcfc67cc698aa",
+      "sha256": "31994f61d637ed9d0ff01cba6f173862f02ae6bb4913ba4f4229b808393d18ec"
+    },
+    {
+      "name": "Power Drive (USA) (En,Fr,De,Es,Pt) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "389507bd",
+      "md5": "d5d2b96baad11b26f259e5afa54e8f98",
+      "sha1": "2768c87bb864dee7c3390a229ec8e8690631b72e",
+      "sha256": "02aa104303baa536e1f43f487dc9d01daa87a31c2d57932f65ef03b2466de1f1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Power%20Drive%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Power%20Drive%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Power%20Drive%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

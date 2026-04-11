@@ -78,5 +78,73 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Game & Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "1ac625da",
+      "md5": "f1bb0127347994b46258adbda0dc0b16",
+      "sha1": "64ccb3b41715080a9aa13970678aa9047fc7a9fd",
+      "sha256": "22d2ab0ba8d90bff2113a1c10a7e8838e71a4603c1d6f43969098fed47e8dba5"
+    },
+    {
+      "name": "Game Boy Gallery 3 (Australia) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "au",
+      "size": 1048576,
+      "crc32": "6935fea1",
+      "md5": "809ec52e50279a174a4908e3ea46dcf6",
+      "sha1": "fde6a70e7ad6a3a116d918435f7efbc1fd95b4cc"
+    },
+    {
+      "name": "Game Boy Gallery 3 (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "149f807e",
+      "md5": "1c7355ed58daf1ebcceea71ba5cbb694",
+      "sha1": "18c3e0a015fa79c8694b8554e3c46fd67f034c71"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Game%20Boy%20Gallery%203%20%28Australia%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Game%20Boy%20Gallery%203%20%28Australia%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Game%20Boy%20Gallery%203%20%28Australia%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Game%20Boy%20Gallery%203%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Game%20Boy%20Gallery%203%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Game%20Boy%20Gallery%203%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

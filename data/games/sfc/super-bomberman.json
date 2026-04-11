@@ -63,5 +63,91 @@
     "wikidata": "Q2702756",
     "mobygames": 6749,
     "igdb": 3450
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Bomberman (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "678501f2",
+      "md5": "ddee4ddff2f3b6e31b8f73d0cb597ef1",
+      "sha1": "82ea3a8a5a049e5b3813b884f2e8b8dbb585f065",
+      "sha256": "ab22f93a2071fc8120fd3db78b2eda44e57e26a574cbdd12a38a7171efd06638"
+    },
+    {
+      "name": "Super Bomberman (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "7989891a",
+      "md5": "cbef5f02304a2b821a0e1642a6307564",
+      "sha1": "843364a881edf3d8cd8f799801a2a6d8f05d7a7d",
+      "sha256": "16e580bf4746da668a440842224376e3577427a2b99580d6d6799eadc1a6f548"
+    },
+    {
+      "name": "Super Bomberman (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "63a8e2c6",
+      "md5": "d83699a009a62480a7e7e9f1bb5bff6e",
+      "sha1": "5b99127cb3c60c5ebce11d9b91bd09914ebc53f2",
+      "sha256": "4efab3f49cbe91ec77b6cba747ddfedfdc0b080c755a8b6ba51234f0676c000f"
+    },
+    {
+      "name": "Super Bomberman (USA) (Beta) (1993-05-11)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "acc4d648",
+      "md5": "d67a1a2b0fac0564d950f8cd45fee3c2",
+      "sha1": "454854d03d14b045673145abcebf3a2a3757d8a1",
+      "sha256": "1d798576c35762d7afc10f6555e76b79c9de5f425681ff70f3af863196a2c9a6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Bomberman%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Bomberman%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Bomberman%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Bomberman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Bomberman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Bomberman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Bomberman%20%28USA%29%20%28Beta%29%20%281993-05-11%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

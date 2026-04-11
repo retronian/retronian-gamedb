@@ -25,5 +25,67 @@
   "first_release_date": "1999-01-01",
   "external_ids": {
     "wikidata": "Q2960825"
-  }
+  },
+  "roms": [
+    {
+      "name": "Charlie Blast's Territory (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NCBP",
+      "size": 4194304,
+      "crc32": "82c1d9e1",
+      "md5": "dd53e1f83e8789d23df6af942ffef236",
+      "sha1": "9a0eb87ba72c1ef4dcb8b80029f29cdeea91fe49",
+      "sha256": "ee5608476461947552c8969c217d9eb34065115ce86769f0b00c0f7817c298d9"
+    },
+    {
+      "name": "Charlie Blast's Territory (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NCBE",
+      "size": 4194304,
+      "crc32": "531f98b5",
+      "md5": "747e76d50dc3c06fd35e146129706a60",
+      "sha1": "30cd3d202ae7f79a1e775c701d84370e2aff498a",
+      "sha256": "7a201d5cc030a921425aa1583edcecdf4394a258819be46c3a0d557c8d1fd7e5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Charlie%20Blast%27s%20Territory%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Charlie%20Blast%27s%20Territory%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Charlie%20Blast%27s%20Territory%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Charlie%20Blast%27s%20Territory%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Charlie%20Blast%27s%20Territory%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Charlie%20Blast%27s%20Territory%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

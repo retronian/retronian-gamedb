@@ -18,5 +18,49 @@
     "wikidata": "Q2741882",
     "mobygames": 8934,
     "igdb": 5341
-  }
+  },
+  "roms": [
+    {
+      "name": "Addams Family Values (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-164046-00",
+      "size": 2097152,
+      "crc32": "b906b992",
+      "md5": "e33d811ef2ad7c6c826b2668415ab678",
+      "sha1": "b7f138e7658a0151ad154ddaed18aea10e114c46",
+      "sha256": "4d56acdb7a419c464b0e612dce0ef3f3ced7665d40de8478264b0492d39f0da3"
+    },
+    {
+      "name": "Addams Family Values (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-XXXXXX-XX",
+      "size": 2097152,
+      "crc32": "b360704b",
+      "md5": "b7976919f5c2b58002b8e248e522618e",
+      "sha1": "256c02bb1aea967c44b44edc8ee7f59c7ccd3809",
+      "sha256": "f2e73d8a57a1c412c2dd9082f341b5b82cfda8737698960a1b12aa77c450a001"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Addams%20Family%20Values%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Addams%20Family%20Values%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Addams%20Family%20Values%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

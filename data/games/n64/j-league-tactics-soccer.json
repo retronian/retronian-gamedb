@@ -11,10 +11,79 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "タクティクス・サッカー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1999-01-15",
   "external_ids": {
     "wikidata": "Q3156718"
-  }
+  },
+  "roms": [
+    {
+      "name": "J.League Tactics Soccer (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NSJJ",
+      "size": 12582912,
+      "crc32": "976a2d12",
+      "md5": "800acc7d609ecdb3e09e68cbd05f5fa0",
+      "sha1": "853cecc41c00f1bbc9972dffb94b78bdb0dfa274"
+    },
+    {
+      "name": "J.League Tactics Soccer (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NSJJ",
+      "size": 12582912,
+      "crc32": "156e705e",
+      "md5": "793dbf504e20c92f6b73b4e8a25a220c",
+      "sha1": "9a47293d82c161f1cb146673ac6ad96c1730c624"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/J.League%20Tactics%20Soccer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/J.League%20Tactics%20Soccer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/J.League%20Tactics%20Soccer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/J.League%20Tactics%20Soccer%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/J.League%20Tactics%20Soccer%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/J.League%20Tactics%20Soccer%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

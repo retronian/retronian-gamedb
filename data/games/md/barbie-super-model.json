@@ -36,5 +36,49 @@
     "wikidata": "Q2016922",
     "mobygames": 20584,
     "igdb": 3317
-  }
+  },
+  "roms": [
+    {
+      "name": "Barbie Super Model (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "d4823175",
+      "md5": "ec12d3cc11daaab593c0a24595e5a078",
+      "sha1": "38fb22e2750db566b1f5004b59f3400a8dfffe1e",
+      "sha256": "260ec9c8128c8e9e0179b2569424b5cfceb3271998a0297ddb92325737fb1544"
+    },
+    {
+      "name": "Barbie Super Model (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-112026-00",
+      "size": 1048576,
+      "crc32": "81c9662b",
+      "md5": "57705b055973733e8b9c25373a80f28c",
+      "sha1": "490f4f7a45ca7f3e13069a498218ae8eaa563e85",
+      "sha256": "5b7e0af3d5aa2f61a05ab447c849c861cfc76360d20b8999a7b0652aaa1f2828"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Barbie%20Super%20Model%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Barbie%20Super%20Model%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Barbie%20Super%20Model%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

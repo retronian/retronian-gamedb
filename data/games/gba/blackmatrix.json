@@ -55,6 +55,15 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Black/Matrix Zero",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1998-08-27",
@@ -62,5 +71,37 @@
     "wikidata": "Q2905269",
     "mobygames": 15783,
     "igdb": 49419
-  }
+  },
+  "roms": [
+    {
+      "name": "Black Matrix Zero (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AXBJ",
+      "size": 8388608,
+      "crc32": "2b2afa2e",
+      "md5": "567c4e75646947464920559892e5747f",
+      "sha1": "697f85513ab5704b8b1d554e087a45bfdb92ec33"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Black%20Matrix%20Zero%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Black%20Matrix%20Zero%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Black%20Matrix%20Zero%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

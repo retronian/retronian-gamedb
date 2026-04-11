@@ -72,5 +72,49 @@
     "wikidata": "Q2891476",
     "mobygames": 31036,
     "igdb": 10510
-  }
+  },
+  "roms": [
+    {
+      "name": "Batman (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1044-50",
+      "size": 524288,
+      "crc32": "61c60c35",
+      "md5": "c4bc694fcc7ee608bd4b857a5ad49f86",
+      "sha1": "c7279c6d45e6533f9de14f65098c289b7534beb3",
+      "sha256": "93860d14494f3c439494acd8b333e4c6f07f2eb9423743e611aa063994cfa8fd"
+    },
+    {
+      "name": "Batman (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-15043-00",
+      "size": 524288,
+      "crc32": "d7b4febf",
+      "md5": "b5b72e1157ace90aa9d0623a5687ecbc",
+      "sha1": "7f96c72cc7bbdb4a7847d1058f5a751b2dc00ab5",
+      "sha256": "b1d9e672c03ae08983c5d392d411704cd8ba4e70940c0f322dc10d8fa8dbbf89"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Batman%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Batman%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Batman%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

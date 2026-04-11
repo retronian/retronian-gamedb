@@ -77,5 +77,37 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Jankenman (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "37b3d081",
+      "md5": "3efc6c34d89a19a434dcf2e8f45e67b9",
+      "sha1": "723f34875166b73c95610a6c146eeac34dd90868",
+      "sha256": "18247a0c222a161e95182e420b3f4d3f7626f6cf3080105b8067a81342fa61da"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jankenman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jankenman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jankenman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

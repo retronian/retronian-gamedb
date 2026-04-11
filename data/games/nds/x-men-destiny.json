@@ -45,5 +45,53 @@
     "wikidata": "Q3078082",
     "mobygames": 53045,
     "igdb": 5302
-  }
+  },
+  "roms": [
+    {
+      "name": "X-Men - Destiny (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BXYE",
+      "size": 67108864,
+      "crc32": "fd310430",
+      "md5": "5d8923de35692f70664bda5154d097b7",
+      "sha1": "dc990ec9418b5d45df166058452495111e76d564"
+    },
+    {
+      "name": "X-Men - Destiny (Europe) (En,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BXYP",
+      "size": 67108864,
+      "crc32": "30c831b0",
+      "md5": "f7c87252f79e7360262f033c11ed430b",
+      "sha1": "5a4eb831e34efd13bbae07d48965102a815355dd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/X-Men%20-%20Destiny%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/X-Men%20-%20Destiny%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/X-Men%20-%20Destiny%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/X-Men%20-%20Destiny%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

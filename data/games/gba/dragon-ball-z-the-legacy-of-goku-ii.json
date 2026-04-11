@@ -62,5 +62,88 @@
   "external_ids": {
     "wikidata": "Q3038740",
     "igdb": 19834
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Ball Z - The Legacy of Goku II (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ALFP",
+      "size": 8388608,
+      "crc32": "20684433",
+      "md5": "d6a12374a2414be686480a4936a2ff48",
+      "sha1": "db36ff52fcd63f753f9d66439aa3d2216701c326",
+      "sha256": "a51382a23fbfba425074fc75821ac653b56134648c31ef80a26181e256a54925"
+    },
+    {
+      "name": "Dragon Ball Z - The Legacy of Goku II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ALFE",
+      "size": 8388608,
+      "crc32": "204142e1",
+      "md5": "4e1565aa1f0627c2bf5e51019440cb70",
+      "sha1": "18e0715dec419f3501c301511530d2edcd590f8b"
+    },
+    {
+      "name": "Dragon Ball Z - The Legacy of Goku II (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 7282372,
+      "crc32": "3c30f5b3",
+      "md5": "7c3dda9b4e34c5551e6413458792b9b3",
+      "sha1": "16f4c593a0ab0e243fbeca7cc1033ac88501e387",
+      "sha256": "abe3610e43048f9720d921d772ea8ede0772ae11d6f8c282ff0de75c6a7f23e5"
+    },
+    {
+      "name": "Dragon Ball Z - The Legacy of Goku II (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 7279012,
+      "crc32": "25f34dbc",
+      "md5": "4891433baa0335ddfb0753d453ee65ab",
+      "sha1": "fc76f3477f19af7415a42a6f38bd5bda43c640d2",
+      "sha256": "dbd4522cba466f54c2f55a10162fead491599d3ae85e88f2b35f6fca00146642"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20The%20Legacy%20of%20Goku%20II%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dragon%20Ball%20Z%20-%20The%20Legacy%20of%20Goku%20II%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dragon%20Ball%20Z%20-%20The%20Legacy%20of%20Goku%20II%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20The%20Legacy%20of%20Goku%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dragon%20Ball%20Z%20-%20The%20Legacy%20of%20Goku%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dragon%20Ball%20Z%20-%20The%20Legacy%20of%20Goku%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

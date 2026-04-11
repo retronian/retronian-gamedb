@@ -44,5 +44,47 @@
   "external_ids": {
     "wikidata": "Q7389506",
     "igdb": 38328
-  }
+  },
+  "roms": [
+    {
+      "name": "SD F-1 Grand Prix (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "2fee01ad",
+      "md5": "5f6793846c883ce0e405a43493660748",
+      "sha1": "d3ef6b754ae4f8bbbe915a8b82824c6b62da58c7",
+      "sha256": "9c8f42a3de7fa334ab62022d06a8220180615245b8c7c7c780d57e8dc9c04db5"
+    },
+    {
+      "name": "SD F-1 Grand Prix (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "e846f7a1",
+      "md5": "1754a8cf60675c45c7aec745fe2add9d",
+      "sha1": "ada4e36fa44c98576697783e2db7a1ab0129413b",
+      "sha256": "9e736296c168f97cd109a0dc34440d14035678f6cc9b9e8b22a4f9ea90d9a7fc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/SD%20F-1%20Grand%20Prix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/SD%20F-1%20Grand%20Prix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/SD%20F-1%20Grand%20Prix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

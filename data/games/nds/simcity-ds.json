@@ -63,5 +63,94 @@
     "wikidata": "Q1192060",
     "mobygames": 28819,
     "igdb": 1494
-  }
+  },
+  "roms": [
+    {
+      "name": "SimCity DS (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AC3P",
+      "size": 67108864,
+      "crc32": "b8a956a7",
+      "md5": "df6c740e2a68b26760e382fe513afc53",
+      "sha1": "b0a66551a7e785ca92a130c28177ca52545286e3"
+    },
+    {
+      "name": "SimCity DS (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AC3E",
+      "size": 67108864,
+      "crc32": "35956fd2",
+      "md5": "9f32b1e77d709b54d32fac25d5c1065f",
+      "sha1": "26dfa431e15f85b492c99781b119e747215c998a"
+    },
+    {
+      "name": "SimCity DS (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "AC3K",
+      "size": 33554432,
+      "crc32": "52f9ba38",
+      "md5": "81747eff1e247417070154666a5fa997",
+      "sha1": "fe52b6b540ae6edbdaa758ec3d1185f40cb62294",
+      "sha256": "3bd48b6510eb2325e39f62df9d0c493fb7af56ba58959e1eebc213a7ceacdf30"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SimCity%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/SimCity%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SimCity%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SimCity%20DS%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/SimCity%20DS%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SimCity%20DS%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SimCity%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/SimCity%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SimCity%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
 }

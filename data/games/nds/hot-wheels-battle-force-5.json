@@ -36,5 +36,53 @@
     "wikidata": "Q5910618",
     "mobygames": 88274,
     "igdb": 4915
-  }
+  },
+  "roms": [
+    {
+      "name": "Hot Wheels - Battle Force 5 (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BHOP",
+      "size": 67108864,
+      "crc32": "0717c9df",
+      "md5": "5cdd9890fee63a6015f12e51741781ee",
+      "sha1": "15511d5b8d1a9da985e5a525bbd58cf280331898"
+    },
+    {
+      "name": "Hot Wheels - Battle Force 5 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BHOE",
+      "size": 67108864,
+      "crc32": "5f3fa78a",
+      "md5": "9ef9b47a3db79ce496e6583d9f2ea8da",
+      "sha1": "f5d06e4250b89471efe435cccfe62af037521421"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hot%20Wheels%20-%20Battle%20Force%205%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hot%20Wheels%20-%20Battle%20Force%205%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hot%20Wheels%20-%20Battle%20Force%205%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hot%20Wheels%20-%20Battle%20Force%205%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

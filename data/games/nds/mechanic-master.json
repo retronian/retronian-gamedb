@@ -18,5 +18,64 @@
     "wikidata": "Q104552530",
     "mobygames": 81210,
     "igdb": 23822
-  }
+  },
+  "roms": [
+    {
+      "name": "Mechanic Master (USA) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 16777216,
+      "crc32": "7eeb3959",
+      "md5": "f0ef93480fe8add816127e36f434bcbc",
+      "sha1": "f6e9e5afc20ddead60edd8593a7626198ceac3d0",
+      "sha256": "bd5fd4ac9869e545f572ea87e4497ccaaae43df62909f8591be54464f06460d8"
+    },
+    {
+      "name": "Mechanic Master (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CCXE",
+      "size": 16777216,
+      "crc32": "b0c5fbfd",
+      "md5": "021fd1f1ca2bbcf925f48a1556d3947e",
+      "sha1": "edf31c456dd25706d5c4b176dac5e82cb908ceb0"
+    },
+    {
+      "name": "Mechanic Master (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CCXP",
+      "size": 16777216,
+      "crc32": "e76d465b",
+      "md5": "bfb65f959191490b79b33a45899bf057",
+      "sha1": "f729e367aadd1af7953727eb222129c6527c8652",
+      "sha256": "ab62bb0c261d2d27198165b09fbc0ab861477243f52e4b8ca7f9813fca8d306d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mechanic%20Master%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mechanic%20Master%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mechanic%20Master%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mechanic%20Master%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

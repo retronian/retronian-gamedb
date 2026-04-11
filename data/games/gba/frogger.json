@@ -38,12 +38,81 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Frogger Advance: The Great Quest",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "2003-10-28",
+  "first_release_date": "2002-05-28",
   "external_ids": {
     "wikidata": "Q18215885",
     "mobygames": 12566,
     "igdb": 6412
-  }
+  },
+  "roms": [
+    {
+      "name": "Frogger Advance - The Great Quest (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFQE",
+      "size": 8388608,
+      "crc32": "b75782c9",
+      "md5": "8451b02ab3fcb7cda5c2da3170bb6002",
+      "sha1": "537ac41923d2e873e388732badead1141c65c1fa"
+    },
+    {
+      "name": "Frogger Advance - The Great Quest (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFQP",
+      "size": 8388608,
+      "crc32": "8873bd29",
+      "md5": "d8de1bc487149bdfd96f03031a8b0ebb",
+      "sha1": "776e2f4306a9561d2130e341764f27f7c16c5637"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Frogger%20Advance%20-%20The%20Great%20Quest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Frogger%20Advance%20-%20The%20Great%20Quest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Frogger%20Advance%20-%20The%20Great%20Quest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Frogger%20Advance%20-%20The%20Great%20Quest%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Frogger%20Advance%20-%20The%20Great%20Quest%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Frogger%20Advance%20-%20The%20Great%20Quest%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

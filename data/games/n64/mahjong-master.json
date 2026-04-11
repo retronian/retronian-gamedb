@@ -25,5 +25,37 @@
   "external_ids": {
     "wikidata": "Q3277757",
     "igdb": 85994
-  }
+  },
+  "roms": [
+    {
+      "name": "Mahjong Master (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NMMJ",
+      "size": 8388608,
+      "crc32": "b68d596f",
+      "md5": "cf0d228e8efdf823a227979bb352dd5b",
+      "sha1": "556dd6dbbec02680e47362552d2babd4f8720050"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mahjong%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mahjong%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mahjong%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -35,5 +35,65 @@
   "external_ids": {
     "wikidata": "Q7683465",
     "igdb": 21532
-  }
+  },
+  "roms": [
+    {
+      "name": "Tank Beat (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AKBE",
+      "size": 33554432,
+      "crc32": "497571dc",
+      "md5": "2ed6b6c49d0731b5c224a7de35533eee",
+      "sha1": "bd9a565fce79ad2987cd13654f2bc4c4d5b26220"
+    },
+    {
+      "name": "Tank Beat (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AKBJ",
+      "size": 33554432,
+      "crc32": "d1472fed",
+      "md5": "3419a1d28afb5aafd89cc1d3f4da3c02",
+      "sha1": "f939075c0ba4f02f55272489aec3cbcae1796f18"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tank%20Beat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tank%20Beat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tank%20Beat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tank%20Beat%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tank%20Beat%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tank%20Beat%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

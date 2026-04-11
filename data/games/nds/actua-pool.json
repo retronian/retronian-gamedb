@@ -17,5 +17,61 @@
   "external_ids": {
     "wikidata": "Q2823769",
     "mobygames": 35994
-  }
+  },
+  "roms": [
+    {
+      "name": "Actua Pool (Europe) (En,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AOLP",
+      "size": 8388608,
+      "crc32": "9f436ce3",
+      "md5": "5099b29abf3a86ffca95d2a6b97e771d",
+      "sha1": "6f4a2f4b07841bb27ab83089529a9610eee7894b"
+    },
+    {
+      "name": "Actua Pool (France)",
+      "source": "no_intro",
+      "serial": "AOLF",
+      "size": 8388608,
+      "crc32": "0750ab7a",
+      "md5": "af2df52507dfae950ce9941228736360",
+      "sha1": "41bd29154c1ed29a865deff099d3a8ed3ecf9067"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Actua%20Pool%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Actua%20Pool%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Actua%20Pool%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Actua%20Pool%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Actua%20Pool%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Actua%20Pool%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

@@ -35,5 +35,66 @@
   "external_ids": {
     "wikidata": "Q6518557",
     "igdb": 248569
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Friends (Europe) (En,Fr,De,Es,It,Nl,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TLJP",
+      "size": 134217728,
+      "crc32": "25bdd597",
+      "md5": "c4b6e134c95261ba381201023ce9331c",
+      "sha1": "db3672e31cba2d8e330242c2abe899a025c40cd4",
+      "sha256": "0ee7d1b02442373d53e7e4336094c99616e2a963055721e70723af77fca86462"
+    },
+    {
+      "name": "LEGO Friends (USA) (En,Fr,Es,Pt)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TLJE",
+      "size": 134217728,
+      "crc32": "9f5c3cb4",
+      "md5": "e4e7031e506b3dfab82ff818616e51eb",
+      "sha1": "b509e225eb4bae5ee88f7706dfc4904da74265c6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/LEGO%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Friends%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/LEGO%20Friends%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Friends%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

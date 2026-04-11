@@ -72,5 +72,67 @@
     "wikidata": "Q2746704",
     "mobygames": 1010,
     "igdb": 14486
-  }
+  },
+  "roms": [
+    {
+      "name": "Sorcerian (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054504-00",
+      "size": 524288,
+      "crc32": "a143a8c5",
+      "md5": "7bfc9a076f70ab4e3ca46f7af14376da",
+      "sha1": "cbd7f0693a0d127138977da7cdf5a7f9440dfd43",
+      "sha256": "a8a309a6b03a8c1d4a17b5d809d7ecf56c5a1b2188e2388038797ad632d985c6"
+    },
+    {
+      "name": "Sorcerian (Japan) (Rev 1) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054504-01",
+      "size": 524288,
+      "crc32": "b60137e0",
+      "md5": "363b4eb3952fdfad444419f7d4b4a1f5",
+      "sha1": "eec01a8fa4de41f7ccd23df4ba94a36570d920d7",
+      "sha256": "25bcd5f235f4d074d1b48110482895089a4363dcea693cde3f23a84fd6112cfb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sorcerian%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sorcerian%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sorcerian%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sorcerian%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sorcerian%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sorcerian%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

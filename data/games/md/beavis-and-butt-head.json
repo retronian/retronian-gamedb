@@ -54,5 +54,78 @@
     "wikidata": "Q2016278",
     "mobygames": 36643,
     "igdb": 7777
-  }
+  },
+  "roms": [
+    {
+      "name": "Beavis and Butt-Head (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-139016-50",
+      "size": 2097152,
+      "crc32": "c7b6435e",
+      "md5": "428f3fd85102f22fc014bc98d32d7851",
+      "sha1": "0d132afbc76589b95a0c617d39122f0715eab2c6",
+      "sha256": "03fd23b788d6bbb1c45d8c889b05b031bba2d32017a1a83c092ecb82edc516fd"
+    },
+    {
+      "name": "Beavis and Butt-Head (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-139016-00",
+      "size": 2097152,
+      "crc32": "f5d7b948",
+      "md5": "8e4d7397374cb03528f4c886120dc3e9",
+      "sha1": "9abfbf8c5d07a11f090a151c2801caee251f1599",
+      "sha256": "31ffc43189f892be91e4cba0dda971039a6c52a2d6295b8ace3669c443507567"
+    },
+    {
+      "name": "Beavis and Butt-Head (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-139016-00",
+      "size": 2097152,
+      "crc32": "81ed5335",
+      "md5": "969ef55c45dd21b6c3dc2222cd0c912c",
+      "sha1": "f9ed871867f543a8d94c47270cd530a5ca410664",
+      "sha256": "dad7723c93054c233bbde8860a786536a57050845214087690a01e96b6841a10"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Beavis%20and%20Butt-Head%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Beavis%20and%20Butt-Head%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Beavis%20and%20Butt-Head%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Beavis%20and%20Butt-Head%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Beavis%20and%20Butt-Head%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Beavis%20and%20Butt-Head%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

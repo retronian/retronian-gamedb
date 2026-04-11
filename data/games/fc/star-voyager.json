@@ -69,5 +69,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Cosmo Genesis (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "fb1fd87d",
+      "md5": "858add221184d96a8545a935cc976afe",
+      "sha1": "73c658e6306d0b7cfd8e35e2c4ffddf8ddb6689b",
+      "sha256": "fc9a67e74b62b67055f7aeb135ef03a8e25a6358df81008f0ac211075a1a9f1a"
+    },
+    {
+      "name": "Star Voyager (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "46ba7034",
+      "md5": "481ef36d5d73d4c27e1cc2458beadf0a",
+      "sha1": "b784b1da747e5f628d0227667556602acaa7d32a",
+      "sha256": "6e9531f32b0a00a8f58aa6174982d1a658915f8831c2cbf27a52ba949498297f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Cosmo%20Genesis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Cosmo%20Genesis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Cosmo%20Genesis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Voyager%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Voyager%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Voyager%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

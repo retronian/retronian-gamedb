@@ -71,5 +71,53 @@
   "external_ids": {
     "wikidata": "Q489995",
     "igdb": 79942
-  }
+  },
+  "roms": [
+    {
+      "name": "MapleStory DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YMPJ",
+      "size": 134217728,
+      "crc32": "18194d7a",
+      "md5": "4094a2831b0d812cb1cea8d749391dcc",
+      "sha1": "0aee6227632a5465e20882c1e3dcb271bc01a68c"
+    },
+    {
+      "name": "MapleStory DS (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "YMPK",
+      "size": 134217728,
+      "crc32": "985a9f45",
+      "md5": "07d1161c391a6606672bbde1dca423b5",
+      "sha1": "9189ee638865f577f06b801716a1aa741675bb02"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MapleStory%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MapleStory%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MapleStory%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MapleStory%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
 }

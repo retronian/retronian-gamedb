@@ -72,5 +72,67 @@
     "wikidata": "Q524267",
     "mobygames": 1540,
     "igdb": 218570
-  }
+  },
+  "roms": [
+    {
+      "name": "Frogger (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50901-00",
+      "size": 524288,
+      "crc32": "ea2e48c0",
+      "md5": "a5ef16bf634e12cb959da662858bae94",
+      "sha1": "c0ccfec43ea859ab1e83293a38cfb302c0191719",
+      "sha256": "8292a47c043cbac14c61db3b7d43f78c0bc0eea3277f7d2ea76eeac415382ddc"
+    },
+    {
+      "name": "Frogger (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50901-00",
+      "size": 524288,
+      "crc32": "fd75bc31",
+      "md5": "d3c5e6f66394fb4fb5bbdf52c6ccbd4e",
+      "sha1": "23ba1eefb2023d014e22712a0c4f19ca34384636",
+      "sha256": "acad5256839bcb17274dc4fbca68f75fff8ed60b5618f0f60920e728c85a3425"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Frogger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Frogger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Frogger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Frogger%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Frogger%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Frogger%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

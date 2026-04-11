@@ -56,12 +56,135 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "ダブルドラゴン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "더블 드래곤",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "双截龙系列",
+      "lang": "zh",
+      "script": "Hans",
+      "region": "cn",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "雙截龍系列",
+      "lang": "zh",
+      "script": "Hant",
+      "region": "tw",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Double Dragon",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Double Dragon",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Double Dragon",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "2003-11-13",
+  "first_release_date": "1987-01-01",
   "external_ids": {
     "wikidata": "Q3714563",
     "mobygames": 1839,
     "igdb": 6384
-  }
+  },
+  "roms": [
+    {
+      "name": "Double Dragon Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDDE",
+      "size": 4194304,
+      "crc32": "764fafb5",
+      "md5": "9f738e440d5a6ebbe5e5dcf8b727bbb3",
+      "sha1": "a08352c4961537e50071982a912ae15a5519f1be"
+    },
+    {
+      "name": "Double Dragon Advance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BDDJ",
+      "size": 4194304,
+      "crc32": "a3330e8f",
+      "md5": "98b3619a09eb08c2c6816c6cd2747527",
+      "sha1": "cb270b06b9161afe9db3abec32b53bfd2e241864"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Double%20Dragon%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Double%20Dragon%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Double%20Dragon%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Double%20Dragon%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Double%20Dragon%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Double%20Dragon%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

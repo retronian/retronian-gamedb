@@ -56,6 +56,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "AD&D ヒルズファー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
     }
   ],
   "first_release_date": "1993-11-04",
@@ -63,5 +72,37 @@
     "wikidata": "Q2306270",
     "mobygames": 506,
     "igdb": 8622
-  }
+  },
+  "roms": [
+    {
+      "name": "Advanced Dungeons & Dragons - Hillsfar (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "63ab8c35",
+      "md5": "8d1ad307fcdcfa3b337aba0f6d7f7bd1",
+      "sha1": "5b212ee25c75449e39fa97f982cc44a3068c358d",
+      "sha256": "839c7e73d0b6a01bb5582f3ba1f8300cd1da443dcec97c1b7ce66c70d5bfd8be"
+    },
+    {
+      "name": "Advanced Dungeons & Dragons - Hillsfar (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "127e8c11",
+      "md5": "b4af1b68fefb05b30d8f3552c55001cb",
+      "sha1": "3d4fd4571326dae6e3344c176ea135b90ae0ad95",
+      "sha256": "b759bfe3371cb07ec10cd7a90b73a2672e590d3801b2ab26d8b771dc5ba73de2"
+    },
+    {
+      "name": "Advanced Dungeons & Dragons - Hillsfar (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "0dfb881f",
+      "md5": "a2466e059bd06c1b1e9ba1a71eccdb25",
+      "sha1": "07e4c1355ff478b9d1f690f1f3469b06970f53fa",
+      "sha256": "982b5e236c583713f57594c2e28bbe9c66d2209d9380be1d14700b722ebd6627"
+    }
+  ]
 }

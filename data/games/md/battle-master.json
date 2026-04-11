@@ -35,5 +35,38 @@
   "external_ids": {
     "wikidata": "Q781306",
     "mobygames": 19581
-  }
+  },
+  "roms": [
+    {
+      "name": "Battlemaster (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-69066-00",
+      "size": 524288,
+      "crc32": "fd2b35e3",
+      "md5": "52d741f606e1b783443bdecf6185c111",
+      "sha1": "c27ad7070ec068cb2eb13a9e6bdfb3b70e55d4ad",
+      "sha256": "1642a221e5e836fbf95e1a4f863ac07742596fe7763447636499da2f25bdbe48"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Battlemaster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Battlemaster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Battlemaster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -63,5 +63,48 @@
     "wikidata": "Q1318068",
     "mobygames": 4835,
     "igdb": 4546
-  }
+  },
+  "roms": [
+    {
+      "name": "WWF WrestleMania - The Arcade Game (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81546-00",
+      "size": 4194304,
+      "crc32": "a5d023f9",
+      "md5": "72a02a9eb90740ef618f8fce968c4a1b",
+      "sha1": "e49ad2f9119b0788bbbb7258908d605c032989b4",
+      "sha256": "30fa4f7c414c5b92c945508283bd7de640cd172358176e13e330cf7f2931c389"
+    },
+    {
+      "name": "WWF WrestleMania - The Arcade Game (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "719d6155",
+      "md5": "31a85dffa93dc8f2db6934fc43b38615",
+      "sha1": "7b76ddf26f11ad0e2da81f1cfe96e60a45fa7c33",
+      "sha256": "7f071a9df2c47085638d6cb1e47d75bcc4bcd64a32fe7716f5c4254086364ab9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/WWF%20WrestleMania%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/WWF%20WrestleMania%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/WWF%20WrestleMania%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

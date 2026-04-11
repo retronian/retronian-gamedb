@@ -54,5 +54,49 @@
     "wikidata": "Q2937645",
     "mobygames": 25707,
     "igdb": 203494
-  }
+  },
+  "roms": [
+    {
+      "name": "Captain Planet and the Planeteers (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1031-00",
+      "size": 524288,
+      "crc32": "7672efa5",
+      "md5": "4f95573c08f905466e01cf8e1bc59a73",
+      "sha1": "b048f922db83802a4a78d1e8197a5ec52b73a89f",
+      "sha256": "a56b87942d1aa192ebcb6e11aae0571454ed45c9e156498fbd7531f795198d60"
+    },
+    {
+      "name": "Captain Planet and the Planeteers (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-95026-00",
+      "size": 524288,
+      "crc32": "bf2cbd3a",
+      "md5": "0edcef2bc04f338a5c7362f3007be037",
+      "sha1": "750770bb43a2d1310b9011f7588cc91e0476826b",
+      "sha256": "ff6c43f36a0170c8e17d62f40043278439179ae9f5ed6a8ce1b0470f1acf6a35"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Captain%20Planet%20and%20the%20Planeteers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Captain%20Planet%20and%20the%20Planeteers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Captain%20Planet%20and%20the%20Planeteers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

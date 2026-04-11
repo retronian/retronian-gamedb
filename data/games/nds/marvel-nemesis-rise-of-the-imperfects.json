@@ -45,5 +45,66 @@
     "wikidata": "Q3179893",
     "mobygames": 68381,
     "igdb": 194232
-  }
+  },
+  "roms": [
+    {
+      "name": "Marvel Nemesis - Rise of the Imperfects (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AMVE",
+      "size": 67108864,
+      "crc32": "0c6ef6b3",
+      "md5": "33363324ef9ab055635cda386f55c456",
+      "sha1": "979f26e5de554d8f152476638e8e058db68e245b"
+    },
+    {
+      "name": "Marvel Nemesis - Rise of the Imperfects (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AMVP",
+      "size": 67108864,
+      "crc32": "03d2b964",
+      "md5": "546bb02c4a1ac90de29fcb587d6740dc",
+      "sha1": "4156c9f3c13ad17ce4158e5ef2ca5b5e0fd007b5",
+      "sha256": "9d246effb352ce08b157a27021db59836de11bc744d36948d4adfaf4146a18d1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Marvel%20Nemesis%20-%20Rise%20of%20the%20Imperfects%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Marvel%20Nemesis%20-%20Rise%20of%20the%20Imperfects%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Marvel%20Nemesis%20-%20Rise%20of%20the%20Imperfects%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Marvel%20Nemesis%20-%20Rise%20of%20the%20Imperfects%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Marvel%20Nemesis%20-%20Rise%20of%20the%20Imperfects%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Marvel%20Nemesis%20-%20Rise%20of%20the%20Imperfects%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

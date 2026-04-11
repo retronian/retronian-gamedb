@@ -63,5 +63,90 @@
     "wikidata": "Q26157664",
     "mobygames": 8877,
     "igdb": 18254
-  }
+  },
+  "roms": [
+    {
+      "name": "Daredevil (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AVLE",
+      "size": 4194304,
+      "crc32": "d438347e",
+      "md5": "ab9f346110d5b97afa4e3e10347d1000",
+      "sha1": "db2bb397b47f1ff247dad5cfa6e35866b1048a7b",
+      "sha256": "bf443816c2d00f373c33040e14d1bddba7e35a18c33de1bfa777f65905b031fa"
+    },
+    {
+      "name": "Daredevil (Germany)",
+      "source": "no_intro",
+      "serial": "AVLD",
+      "size": 4194304,
+      "crc32": "4bb9420e",
+      "md5": "407870e802a39ef43d96e1b211bc6936",
+      "sha1": "2158b70dfdd1d04ee8522e7277dc43c3b2db56fc"
+    },
+    {
+      "name": "Daredevil (Europe) (En,Fr,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AVLX",
+      "size": 4194304,
+      "crc32": "41a9b849",
+      "md5": "f8d9503c529e3608ed4d91fc7315deb3",
+      "sha1": "0445b1d035b287023a94c45d1d77bc091f874acb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Daredevil%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Daredevil%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Daredevil%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Daredevil%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Daredevil%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Daredevil%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Daredevil%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Daredevil%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Daredevil%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

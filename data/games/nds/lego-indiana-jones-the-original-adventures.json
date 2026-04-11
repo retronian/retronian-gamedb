@@ -90,5 +90,55 @@
     "wikidata": "Q74630",
     "mobygames": 34444,
     "igdb": 194936
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Indiana Jones - The Original Adventures (USA) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YLJE",
+      "size": 67108864,
+      "crc32": "61d9a2d5",
+      "md5": "5a3026c24edba888de28a2020d786be5",
+      "sha1": "1d3fb94752ee7b85736f11b7f6aa1194e48e6d0e",
+      "sha256": "856e8b5ee75eab744c4624f52141285586b99ade4ef7a4a109597433cdead8da"
+    },
+    {
+      "name": "LEGO Indiana Jones - The Original Adventures (Europe) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YLJP",
+      "size": 67108864,
+      "crc32": "51d009d4",
+      "md5": "bb610425f9ac59866892cf7e87c4874a",
+      "sha1": "e62449e5a6210fa9a73459db348625c4c964ff5a",
+      "sha256": "02ab40f919cd53470c6c2d5bab92588ace08ab12597c40bfb4a8c38f3132e154"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Indiana%20Jones%20-%20The%20Original%20Adventures%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Indiana%20Jones%20-%20The%20Original%20Adventures%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Indiana%20Jones%20-%20The%20Original%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Indiana%20Jones%20-%20The%20Original%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

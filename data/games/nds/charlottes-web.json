@@ -54,5 +54,47 @@
     "wikidata": "Q3656176",
     "mobygames": 49462,
     "igdb": 248749
-  }
+  },
+  "roms": [
+    {
+      "name": "Charlotte's Web (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACJE",
+      "size": 67108864,
+      "crc32": "402ad3be",
+      "md5": "700eb8802ab9d61314e9099e60840351",
+      "sha1": "69a473b550af31aac257727842299cb8dd1abf56"
+    },
+    {
+      "name": "Charlotte's Web (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACJP",
+      "size": 67108864,
+      "crc32": "625ad315",
+      "md5": "1495b8063dad1ff09c16dea616c17577",
+      "sha1": "864f92b8ae0597f9450e4d9994faec590a4777a5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Charlotte%27s%20Web%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Charlotte%27s%20Web%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Charlotte%27s%20Web%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

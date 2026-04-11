@@ -63,5 +63,89 @@
     "wikidata": "Q180181",
     "mobygames": 96440,
     "igdb": 146882
-  }
+  },
+  "roms": [
+    {
+      "name": "GoldenEye - Au Service du Mal (France)",
+      "source": "no_intro",
+      "serial": "AGEF",
+      "size": 16777216,
+      "crc32": "6ab30ad2",
+      "md5": "ea934912dcf0c88832fbca7cab37618e",
+      "sha1": "2dee5aa731969dcbf6fc86fc14b9eafaf98ec291"
+    },
+    {
+      "name": "GoldenEye - Rogue Agent (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AGEE",
+      "size": 16777216,
+      "crc32": "bb881c67",
+      "md5": "bd2755a39b3fd395ff3d5cced4afe33f",
+      "sha1": "5e6bc99ce165ef9a36c2f9fa2c6e2a9ebac7c711"
+    },
+    {
+      "name": "GoldenEye - Rogue Agent (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AGEP",
+      "size": 16777216,
+      "crc32": "eddd4b97",
+      "md5": "a48c3adbc9deeda638ac5486a0d79b2f",
+      "sha1": "79b3e16ab41bbc38c5d6775d6f4017bec9bf7c38"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/GoldenEye%20-%20Au%20Service%20du%20Mal%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/GoldenEye%20-%20Au%20Service%20du%20Mal%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/GoldenEye%20-%20Au%20Service%20du%20Mal%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/GoldenEye%20-%20Rogue%20Agent%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/GoldenEye%20-%20Rogue%20Agent%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/GoldenEye%20-%20Rogue%20Agent%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/GoldenEye%20-%20Rogue%20Agent%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/GoldenEye%20-%20Rogue%20Agent%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/GoldenEye%20-%20Rogue%20Agent%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

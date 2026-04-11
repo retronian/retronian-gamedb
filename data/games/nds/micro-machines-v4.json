@@ -27,5 +27,67 @@
     "wikidata": "Q3312035",
     "mobygames": 22982,
     "igdb": 8512
-  }
+  },
+  "roms": [
+    {
+      "name": "Micro Machines V4 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AMWP",
+      "size": 67108864,
+      "crc32": "b4f05a0f",
+      "md5": "3985f926d14ab624191beb4af1bbaacc",
+      "sha1": "ca02790053c0e75906cb41dd79e17878c1fe28ae",
+      "sha256": "aae895321228b5f33dc1fb8190d3c7ff10c9cb149c57bfb86720a1e09334998a"
+    },
+    {
+      "name": "Micro Machines V4 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AMWE",
+      "size": 67108864,
+      "crc32": "4e1300e2",
+      "md5": "7604b5c95066a333298212cf44b55a0f",
+      "sha1": "e4e91de582443c17954081c1acac2b514993be6f",
+      "sha256": "d4e85e1cac71e9e29d523eaa3c466cee0600b14740398e6e2e1e57837f796529"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Micro%20Machines%20V4%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Micro%20Machines%20V4%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Micro%20Machines%20V4%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Micro%20Machines%20V4%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Micro%20Machines%20V4%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Micro%20Machines%20V4%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

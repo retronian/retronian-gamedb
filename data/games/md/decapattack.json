@@ -62,5 +62,38 @@
   "external_ids": {
     "wikidata": "Q3020979",
     "mobygames": 7272
-  }
+  },
+  "roms": [
+    {
+      "name": "DEcapAttack (USA, Europe, Korea) (En)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1027-00",
+      "size": 524288,
+      "crc32": "73dc0dd8",
+      "md5": "283c180cede3352dabec75fff677052e",
+      "sha1": "9665f54a6149d71ea72db9c168755e62cb61649c",
+      "sha256": "c098e27151e4494783e07e7007c59113c9d2616d13c80e74135df5c9781e611e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/DEcapAttack%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/DEcapAttack%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/DEcapAttack%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

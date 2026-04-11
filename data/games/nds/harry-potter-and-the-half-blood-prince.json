@@ -90,5 +90,54 @@
     "wikidata": "Q862524",
     "mobygames": 41573,
     "igdb": 166354
-  }
+  },
+  "roms": [
+    {
+      "name": "Harry Potter and the Half-Blood Prince (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CH6P",
+      "size": 67108864,
+      "crc32": "bf79bc51",
+      "md5": "a80865c82fca124ce5ea4282c3ddef8d",
+      "sha1": "90a9400452be4af1c80d8282cff48a68f52df382"
+    },
+    {
+      "name": "Harry Potter and the Half-Blood Prince (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CH6E",
+      "size": 67108864,
+      "crc32": "b56fb363",
+      "md5": "ba3a7f799d5f76e02108dab1bd5e2824",
+      "sha1": "04e078372c7060d4715535795b792eb3564a088d",
+      "sha256": "8b7f2411febf3e1d398233b4e88006285dcec5c13b9f15498f0bf2d48f635945"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harry%20Potter%20and%20the%20Half-Blood%20Prince%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harry%20Potter%20and%20the%20Half-Blood%20Prince%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harry%20Potter%20and%20the%20Half-Blood%20Prince%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harry%20Potter%20and%20the%20Half-Blood%20Prince%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

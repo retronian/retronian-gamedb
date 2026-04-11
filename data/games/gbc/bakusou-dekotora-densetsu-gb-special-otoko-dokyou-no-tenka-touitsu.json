@@ -42,5 +42,36 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "2000-07-21"
+  "first_release_date": "2000-07-21",
+  "roms": [
+    {
+      "name": "Bakusou Dekotora Densetsu GB Special - Otoko Dokyou no Tenka Touitsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "92c8b9b5",
+      "md5": "4d6ce58ac78078d47a807cb326c3919a",
+      "sha1": "50b115869bb9c488b3766c58ee44de63a84ba489"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Bakusou%20Dekotora%20Densetsu%20GB%20Special%20-%20Otoko%20Dokyou%20no%20Tenka%20Touitsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Bakusou%20Dekotora%20Densetsu%20GB%20Special%20-%20Otoko%20Dokyou%20no%20Tenka%20Touitsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Bakusou%20Dekotora%20Densetsu%20GB%20Special%20-%20Otoko%20Dokyou%20no%20Tenka%20Touitsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

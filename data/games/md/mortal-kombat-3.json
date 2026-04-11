@@ -72,5 +72,110 @@
     "wikidata": "Q925253",
     "mobygames": 601,
     "igdb": 1620
-  }
+  },
+  "roms": [
+    {
+      "name": "Mortal Kombat 3 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-81536-50",
+      "size": 4194304,
+      "crc32": "af6de3e8",
+      "md5": "37bc95d82b0c4550e4c28cd3c7a6190b",
+      "sha1": "7f555d647972fee4e86b66e840848e91082f9c2d",
+      "sha256": "c5ff1167b04d9b0908aafcbe1f233a6611bb92846aa5fde9e532347be2547a3d"
+    },
+    {
+      "name": "Mortal Kombat 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-097116-00",
+      "size": 4194304,
+      "crc32": "dd638af6",
+      "md5": "4cca5c00ad312409791123258967d216",
+      "sha1": "55cdcba77f7fcd9994e748524d40c98089344160",
+      "sha256": "d43f5fced516838836487b58603e30b0f8d3b1f30d923e20706d7c6bffa7c18b"
+    },
+    {
+      "name": "Mortal Kombat 3 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 4194304,
+      "crc32": "7ab140e1",
+      "md5": "c7ed32a66bbc2ed2d0ab2da690b178f2",
+      "sha1": "e220766fefc1dacd052724bd705a6ceade12059e",
+      "sha256": "d087691c727536c4b86fd79d47b136a6d1277ea8fced8b882388c617bdc716ae"
+    },
+    {
+      "name": "Mortal Kombat 3 (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 4194304,
+      "crc32": "92528ab9",
+      "md5": "9ca126498776a566fc6e8282b347c764",
+      "sha1": "46f86181857a2da0ee3114e36bbf91afef476295",
+      "sha256": "c399c92d23c4417199810c4eb1b2a6fc45a347280c224ef728a444c6c2ac66bb"
+    },
+    {
+      "name": "Mortal Kombat 3 (USA) (Demo) (Part A) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-148136-00",
+      "size": 3145728,
+      "crc32": "09b95581",
+      "md5": "a50726907c82be863d33e357be8c406a",
+      "sha1": "4d89db0de25fb9042fdba2c7e5d7d16f49dd361a",
+      "sha256": "155e1475e6acb052f7c86fcb16c8bcd849e27da904bdd50c9753968a073753cf"
+    },
+    {
+      "name": "Mortal Kombat 3 (USA) (Demo) (Part B) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-148146-00",
+      "size": 3145728,
+      "crc32": "272f6b20",
+      "md5": "3d51c97b62b581a8f06d2d0d65e912f7",
+      "sha1": "814131a9748989dfa70af4f5ee6ac5d820bbfe35",
+      "sha256": "1dc7284e46cfcdcc76cf107b358229cb1aa543a4e52b1bb8b07cd60351e568cf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mortal%20Kombat%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mortal%20Kombat%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mortal%20Kombat%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mortal%20Kombat%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mortal%20Kombat%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mortal%20Kombat%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -54,5 +54,53 @@
     "wikidata": "Q7434356",
     "mobygames": 101812,
     "igdb": 5143
-  }
+  },
+  "roms": [
+    {
+      "name": "Scooby-Doo! and the Spooky Swamp (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BJ2P",
+      "size": 67108864,
+      "crc32": "1166df98",
+      "md5": "56876346cdd56f89e048fd6fae448456",
+      "sha1": "bcf823f5e50bc0197454c3389673062b19ca9ce4"
+    },
+    {
+      "name": "Scooby-Doo! and the Spooky Swamp (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BJ2E",
+      "size": 67108864,
+      "crc32": "90696169",
+      "md5": "992fdac8807a8c53f03a4d9959742070",
+      "sha1": "e630e8d691a2954ec942fc06bac95dfa82a5f1da"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scooby-Doo%21%20and%20the%20Spooky%20Swamp%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scooby-Doo%21%20and%20the%20Spooky%20Swamp%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scooby-Doo%21%20and%20the%20Spooky%20Swamp%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scooby-Doo%21%20and%20the%20Spooky%20Swamp%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

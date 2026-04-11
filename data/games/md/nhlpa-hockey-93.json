@@ -36,5 +36,71 @@
     "wikidata": "Q3108499",
     "mobygames": 11455,
     "igdb": 42479
-  }
+  },
+  "roms": [
+    {
+      "name": "NHLPA Hockey 93 (USA, Europe) (Rev 1) (Sample)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50236-00",
+      "size": 524288,
+      "crc32": "93e509ea",
+      "md5": "2bada9c8bd631e30a10f50e958638d7a",
+      "sha1": "af5dbf3e70417753164ceeb76be63f51e492626f",
+      "sha256": "91200a8e3658af9609b9fd1cfd6771ff655d5b34ec2ac4d2e8afdad593d6b5e2"
+    },
+    {
+      "name": "NHLPA Hockey 93 (USA, Europe) (Rev 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50396-00",
+      "size": 524288,
+      "crc32": "efa0d2cb",
+      "md5": "d49eba72cb0fffcf33469c23bfb713e4",
+      "sha1": "76c0f3d4665ffcd53adfffaa27fc4dded694f8f7",
+      "sha256": "1254e059331dbe8104a91898c276d5f38cbe0944e4d296dd7209942fc3e68fed"
+    },
+    {
+      "name": "NHLPA Hockey 93 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50396-00",
+      "size": 524288,
+      "crc32": "cbbf4262",
+      "md5": "cb3a005adab1cb99f24a7f8b8e420328",
+      "sha1": "8efc1cacb079ea223966dda065c16c49e584cac2",
+      "sha256": "524e7e61c6096e920ca263a4ed208c002a4ef6cfc17bfda60bf9ecb63c975951"
+    },
+    {
+      "name": "NHLPA Hockey 93 (USA, Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50396-01",
+      "size": 524288,
+      "crc32": "f361d0bf",
+      "md5": "b6fb2ce20122b319631af6b697e64082",
+      "sha1": "2ab048fc7209df28b00ef47f2f686f5b7208466e",
+      "sha256": "69a05a0f73bc6b3f5b5c7aff53bb0a1db8fab4af8eee0c84d92e503214a156a1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/NHLPA%20Hockey%2093%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/NHLPA%20Hockey%2093%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/NHLPA%20Hockey%2093%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

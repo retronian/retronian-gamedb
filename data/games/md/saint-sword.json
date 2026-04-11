@@ -52,5 +52,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Saint Sword (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-11133-00",
+      "size": 524288,
+      "crc32": "3960a00f",
+      "md5": "442556951f840e5774a13f38761269f1",
+      "sha1": "e1e2bbbaf3e64c62fa695d1d1ee3496826951d13",
+      "sha256": "2d914e07998a825fe76c1ca3e21db8545143c51cd6b07fe141bf431026a3c058"
+    },
+    {
+      "name": "Saint Sword (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-11056-00",
+      "size": 524288,
+      "crc32": "44f66bff",
+      "md5": "43db94e560fa38ede534f4c6537283ac",
+      "sha1": "53e376faed7fe20c5ffe78a568dd8d2cf3fe2d1a",
+      "sha256": "1b7596a5e50c2f94325ec12602486a4a5564294f2107341d13b4da003d452257"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Saint%20Sword%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Saint%20Sword%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Saint%20Sword%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

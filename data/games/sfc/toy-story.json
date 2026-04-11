@@ -97,5 +97,93 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1996-04-26"
+  "first_release_date": "1996-04-26",
+  "roms": [
+    {
+      "name": "Toy Story (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 4194304,
+      "crc32": "b144d588",
+      "md5": "288555a2aafb42b3d44d7b2663d1a00b",
+      "sha1": "ccf547dd741bd98762662fdffd964df5b5791092",
+      "sha256": "9ee72ae90f637fa23fb34216bbef3130cd396ff8d0287ea6220315e1734b1927"
+    },
+    {
+      "name": "Toy Story (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "d4af7724",
+      "md5": "fbce0804aa393ee5b6155b1e7553a5c1",
+      "sha1": "89a226ad54a003964aeb343fa10e2f3355fb8f55",
+      "sha256": "03d05e72369a247f21063eec83557bd92debc7ea2f08811e196e1f6245996131"
+    },
+    {
+      "name": "Toy Story (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "8328822b",
+      "md5": "df1d99115ce4a386054b511b62cd5cc6",
+      "sha1": "ffadfea439cb5ca3b84911af6b7bfee478d9f33c",
+      "sha256": "345e795000e74f51704774edfc8049473461761a65eb47cab710caa29e09897b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Toy%20Story%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Toy%20Story%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Toy%20Story%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Toy%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Toy%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Toy%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Toy%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Toy%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Toy%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

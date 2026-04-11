@@ -17,5 +17,53 @@
   "external_ids": {
     "wikidata": "Q7765323",
     "igdb": 47868
-  }
+  },
+  "roms": [
+    {
+      "name": "Sorcerer's Apprentice, The (USA) (En,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BS8E",
+      "size": 67108864,
+      "crc32": "3487edb1",
+      "md5": "10fe1236660b1ac27dc5dea770a9baf4",
+      "sha1": "1218eb5860b507ae0eda6694dbb7e408863bfd2c"
+    },
+    {
+      "name": "Sorcerer's Apprentice, The (Europe) (En,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BS8P",
+      "size": 67108864,
+      "crc32": "4bb78ad2",
+      "md5": "27fd3ae61503835ccceab6d1c138e07b",
+      "sha1": "9088b390635052bb3b8cc2a6124d466608e8cf37"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sorcerer%27s%20Apprentice%2C%20The%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sorcerer%27s%20Apprentice%2C%20The%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sorcerer%27s%20Apprentice%2C%20The%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sorcerer%27s%20Apprentice%2C%20The%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

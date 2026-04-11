@@ -73,12 +73,138 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "ポケットモンスターホワイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pokémon White",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pokémon Blanco",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pokémon Blanc",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pokémon Versione Bianca",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "2012-06-23",
+  "first_release_date": "2010-09-18",
   "external_ids": {
     "wikidata": "Q27302222",
     "mobygames": 58348,
     "igdb": 8353
-  }
+  },
+  "roms": [
+    {
+      "name": "Pocket Monsters - White 2 (Japan) (Rev 1) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "IRDJ",
+      "size": 536870912,
+      "crc32": "a9833314",
+      "md5": "fc61fd45eb0684ba715e40351c6d1e5e",
+      "sha1": "01666f87838c57dc0a65930a916982ad8941d8fb",
+      "sha256": "29292cc6a5b8f75c047f7365d496c02b79d58ffbe2509fb0dd438d84ac21d6ed"
+    },
+    {
+      "name": "Pocket Monsters - White 2 (Korea) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "IRDK",
+      "size": 536870912,
+      "crc32": "d3e316ef",
+      "md5": "c470cf4d9471c4bfa911f292df6fc4f9",
+      "sha1": "3bbb5ff5c443c776b1e59ba51e8b2cd118fb776b"
+    },
+    {
+      "name": "Pokemon - Versione Bianca (Italy) (NDSi Enhanced)",
+      "source": "no_intro",
+      "serial": "IRAI",
+      "size": 268435456,
+      "crc32": "2f025937",
+      "md5": "80821ad5ea8eab99dc5db8ab1e0fa0e0",
+      "sha1": "2e33164d26236dd499f75d1de3123d85e822d502",
+      "sha256": "cf21437f21690ad90179611cfc4cffeb128e4fb0f163e78aedefdeb83053dc98"
+    },
+    {
+      "name": "Pokemon - Versione Bianca 2 (Italy) (NDSi Enhanced)",
+      "source": "no_intro",
+      "serial": "IRDI",
+      "size": 536870912,
+      "crc32": "4d4433d9",
+      "md5": "143304fd40e3d536d30542142165a7b1",
+      "sha1": "b787bdd69fa79d270d08f334b188a61e3454405e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pocket%20Monsters%20-%20White%202%20%28Japan%29%20%28Rev%201%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pocket%20Monsters%20-%20White%202%20%28Japan%29%20%28Rev%201%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20-%20Versione%20Bianca%20%28Italy%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20-%20Versione%20Bianca%20%28Italy%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20-%20Versione%20Bianca%20%28Italy%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20-%20Versione%20Bianca%202%20%28Italy%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20-%20Versione%20Bianca%202%20%28Italy%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

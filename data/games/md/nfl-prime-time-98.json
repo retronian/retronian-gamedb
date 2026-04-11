@@ -36,5 +36,48 @@
     "wikidata": "Q6953737",
     "mobygames": 46915,
     "igdb": 126091
-  }
+  },
+  "roms": [
+    {
+      "name": "NFL 98 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "9f605018",
+      "md5": "d08cdb1ae06076944811cbc1164b76e4",
+      "sha1": "7f17c12e2926b852d096d232d3d296170ec09d4f",
+      "sha256": "e23241a3c5c401e73889aa2465ce81cfedcc7799f156210f1ad7b437dd49bac7"
+    },
+    {
+      "name": "NFL 98 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1243-00",
+      "size": 2097152,
+      "crc32": "f73ec54c",
+      "md5": "80652330e1b3e2892785e27413691e4e",
+      "sha1": "27ea0133251e96c091b5a96024eb099cdca21e40",
+      "sha256": "a843226c48b75b0ef6235dff6e587ebe20eeb4545a7572b8af8f24b9ea2513ac"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/NFL%2098%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/NFL%2098%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/NFL%2098%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

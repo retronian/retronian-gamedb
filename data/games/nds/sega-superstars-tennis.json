@@ -54,5 +54,35 @@
     "wikidata": "Q2451357",
     "mobygames": 33527,
     "igdb": 255326
-  }
+  },
+  "roms": [
+    {
+      "name": "SEGA Superstars Tennis (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YT7P",
+      "size": 67108864,
+      "crc32": "8b1362e2",
+      "md5": "31c0cdab59dd191339166078c59379d5",
+      "sha1": "8d08da9103ab0cbde46dbe3de07d36364aaa29e4"
+    },
+    {
+      "name": "SEGA Superstars Tennis (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YT7E",
+      "size": 67108864,
+      "crc32": "37688131",
+      "md5": "f90e30b3ac42bd6ca8a8bb5139353f3c",
+      "sha1": "f493519bfdbf610ee37af360cdeaca605af0997f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SEGA%20Superstars%20Tennis%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -63,5 +63,90 @@
     "wikidata": "Q3284434",
     "mobygames": 45189,
     "igdb": 248559
-  }
+  },
+  "roms": [
+    {
+      "name": "Monsters vs Aliens (Europe) (En,Fr,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CLIP",
+      "size": 67108864,
+      "crc32": "8d3eeab8",
+      "md5": "2595dcbe95a4e07c8e469742cad82ee3",
+      "sha1": "85e92b89eb29b73f05b7537aa5962d911b1d9a0b"
+    },
+    {
+      "name": "Monsters vs Aliens (Europe) (Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CLIX",
+      "size": 67108864,
+      "crc32": "f15b594b",
+      "md5": "c7ee1bf2d351ce84fa885dd97837b31b",
+      "sha1": "e331b284bc9e309fa5e2f7fc1c209d6e4d3ea59d"
+    },
+    {
+      "name": "Monsters vs Aliens (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CLIE",
+      "size": 67108864,
+      "crc32": "c17b045e",
+      "md5": "16d74b6c0ac04789cc2f407d2e669774",
+      "sha1": "b7a986a2423119205803d8184f4ecf9a78121fd9",
+      "sha256": "05af3a7c28c308618bcf18f25c302fc21142b2f8e35d0ccfc7b9e89b702c4e73"
+    },
+    {
+      "name": "Monsters vs Aliens (Germany)",
+      "source": "no_intro",
+      "serial": "CLID",
+      "size": 67108864,
+      "crc32": "469458c4",
+      "md5": "19af7fe2560eb5508bfd2fc162cb9a9e",
+      "sha1": "f2620a227f2504de4e67fd89205dfcf6685b0290"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monsters%20vs%20Aliens%20%28Europe%29%20%28En%2CFr%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monsters%20vs%20Aliens%20%28Europe%29%20%28En%2CFr%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monsters%20vs%20Aliens%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monsters%20vs%20Aliens%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monsters%20vs%20Aliens%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monsters%20vs%20Aliens%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monsters%20vs%20Aliens%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

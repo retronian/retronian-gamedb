@@ -27,5 +27,65 @@
     "wikidata": "Q97824006",
     "mobygames": 47830,
     "igdb": 94186
-  }
+  },
+  "roms": [
+    {
+      "name": "Top Rank Tennis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "3c4e29b4",
+      "md5": "c7fe0019fdc5887641cd6a1bb193ddd6",
+      "sha1": "2fa95dfe097b31fc1a94a5e864308b417bf832d4",
+      "sha256": "b6d848f3311331f2a73e1705ee08017ba49c22d70746dc3c7979998682a27982"
+    },
+    {
+      "name": "Top Ranking Tennis (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "d577d8e0",
+      "md5": "ea82922267095a2268d76e4f21d4ff93",
+      "sha1": "e628b00e7f88742c99cbb51fae4be0d0cfa77405",
+      "sha256": "f35451551384f5a72037e39b838c65559fa82014569f1f3cc107c2f58043f609"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Top%20Rank%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Top%20Rank%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Top%20Rank%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Top%20Ranking%20Tennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Top%20Ranking%20Tennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Top%20Ranking%20Tennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

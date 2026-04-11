@@ -45,5 +45,75 @@
     "wikidata": "Q1442104",
     "mobygames": 2107,
     "igdb": 2201
-  }
+  },
+  "roms": [
+    {
+      "name": "Duel, The - Test Drive II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "57cbd9af",
+      "md5": "94446e742f5fefd2905c70a2a891b2dc",
+      "sha1": "9f8dbbca96eb6d70f35311a851e110f03ce7d99f",
+      "sha256": "31723de37e332b57e02524469ac9b6ff73e411b9d0efe6e63c77a975af79d66f"
+    },
+    {
+      "name": "Duel, The - Test Drive II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "1cc662cd",
+      "md5": "55a4acec09123b39949d2affb9f7c7c2",
+      "sha1": "038bac2a85d323c6e1950344d6bbc86c6173e293",
+      "sha256": "c9563cb57314588aa3db22b76dc8acfba3e73733dd3538edd90af5a15595830e"
+    },
+    {
+      "name": "Duel, The - Test Drive II (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "ba093e24",
+      "md5": "ef76f860cd8709daf99a60e9dac8d2be",
+      "sha1": "754f30e9d06c304d4938af79d1a4f4999a2d60e0",
+      "sha256": "6b5469111174f313897adefa579c3ad249175dea3b3940ec86c107d6ee2f87cd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Duel%2C%20The%20-%20Test%20Drive%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Duel%2C%20The%20-%20Test%20Drive%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Duel%2C%20The%20-%20Test%20Drive%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Duel%2C%20The%20-%20Test%20Drive%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Duel%2C%20The%20-%20Test%20Drive%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Duel%2C%20The%20-%20Test%20Drive%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

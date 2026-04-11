@@ -62,5 +62,38 @@
   "external_ids": {
     "wikidata": "Q3018106",
     "mobygames": 44344
-  }
+  },
+  "roms": [
+    {
+      "name": "Ultraman (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "16023-0000",
+      "size": 524288,
+      "crc32": "83b4d5fb",
+      "md5": "8952cf5509449e3c2ce61424d4807161",
+      "sha1": "7af1b66555c636664a73ca2091ef92ac800dc5d8",
+      "sha256": "255c48cdbaaa41c8d172287a21f3ae7caf51e39e26d73b5af0becf367965269e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ultraman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ultraman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ultraman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -72,5 +72,84 @@
     "wikidata": "Q2927402",
     "mobygames": 16907,
     "igdb": 7803
-  }
+  },
+  "roms": [
+    {
+      "name": "Bubsy II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "e278e9b4",
+      "md5": "4b6ef2ffc7eec225065689204b1f8e78",
+      "sha1": "e92da82234c8ec4da25179c99709462b4e19837b",
+      "sha256": "be86b8b9c390f1a85384117ce19170567e1234ddb08b538e1361af2feee63869"
+    },
+    {
+      "name": "Bubsy II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "d0d172fa",
+      "md5": "cf5c2ca9af502a0f12cf9504fb0e748a",
+      "sha1": "c501d8779891a501ca4674cc39fc9d82cc05eb8c",
+      "sha256": "2357d344af77d25dda030520ce203045fd9060f83e3b9609a228dba859d9017b"
+    },
+    {
+      "name": "Bubsy II (World) (Steam)",
+      "source": "no_intro",
+      "size": 2097152,
+      "crc32": "9582f89f",
+      "md5": "b7dcd461c6c7e97e4254daf0888b27c3",
+      "sha1": "1f4cb2040b793179d5ba219d366363816558306b",
+      "sha256": "a1ca6b4b1c67b05f0b1eb5543687b51152972713c9436769bdcca28c90edb8da"
+    },
+    {
+      "name": "Bubsy II (USA) (Beta) (1994-07-12)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "d2e5100a",
+      "md5": "fed20a59dc7b9550cd4c552712851c0d",
+      "sha1": "521977d3d09670fbef98ae6342ab5f429f0df1fa",
+      "sha256": "46a566421bf12395c46e449661ce3d3de45427aed9f06b69b921175f1373d597"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Bubsy%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Bubsy%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Bubsy%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Bubsy%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Bubsy%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Bubsy%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

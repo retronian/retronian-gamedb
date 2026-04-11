@@ -81,5 +81,49 @@
     "wikidata": "Q1543256",
     "mobygames": 7887,
     "igdb": 4423
-  }
+  },
+  "roms": [
+    {
+      "name": "Thunder Force III (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-18033-00",
+      "size": 524288,
+      "crc32": "1b3f399a",
+      "md5": "64766dae889d039eb391bc5bf2973f5d",
+      "sha1": "9eadee76eb0509d5a0f16372fc9eac7a883e5f2d",
+      "sha256": "ba651a422cdf72a5379a9661f2ef670af43bbc534e3c575d9bf81948c6b934f2"
+    },
+    {
+      "name": "Thunder Force III (Japan, USA) (En) (Rev 1) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-18033-00",
+      "size": 524288,
+      "crc32": "2b5c2063",
+      "md5": "5d694df1dbe9648ea6533871a6a07c3e",
+      "sha1": "5debc42ff0355e6ade7cf30f778b6a5c682fea7f",
+      "sha256": "3d6414108fe986483fd21f97ffd20d1d9e6313429a68883d1ac817f4abd4204a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Thunder%20Force%20III%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Thunder%20Force%20III%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Thunder%20Force%20III%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

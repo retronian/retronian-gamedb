@@ -29,6 +29,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Widget",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1993-01-01",
@@ -36,5 +45,75 @@
     "wikidata": "Q97584702",
     "mobygames": 33059,
     "igdb": 42495
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Widget (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "1f7ce2a8",
+      "md5": "16e0bf4765143cf6e1cbfc53ec7d9f66",
+      "sha1": "6845eda332b5042f28e353b87bd3da71c267d8d9",
+      "sha256": "b3b81c81f6a46832ab6782f9feaa8903d8c6964d7fb0eddf92d3df53f58fd75b"
+    },
+    {
+      "name": "Super Widget (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "7dd199ec",
+      "md5": "618abbf00946b60da33971199cab5bad",
+      "sha1": "0ad1657ee7037899c19f4e4806c25b379a5c55b3",
+      "sha256": "62d3d650e956f23f3b221f83c5c5bd204afd0e4f4d9c47a3251962323de96089"
+    },
+    {
+      "name": "Super Widget (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "37182ba7",
+      "md5": "d14c2081cba838b0c9b3a0c709039cad",
+      "sha1": "3283faa2ee233a5f757f274bea350ae19f502015",
+      "sha256": "dfeacbd56a55716d69a157ee3a0baaf6e7caae60cac4f6e7e44da558ef17509b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Widget%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Widget%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Widget%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Widget%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Widget%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Widget%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

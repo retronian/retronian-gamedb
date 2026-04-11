@@ -17,5 +17,108 @@
     "wikidata": "Q110621743",
     "mobygames": 80447,
     "igdb": 91721
-  }
+  },
+  "roms": [
+    {
+      "name": "Jonas (USA) (En,Fr,Es) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C7OE",
+      "size": 67108864,
+      "crc32": "1d451bdc",
+      "md5": "40ee8a2db51c76cf2647b44c6a80cf47",
+      "sha1": "5e7371e6cc496023f0452924947c5f93cf6ff1e1"
+    },
+    {
+      "name": "Jonas (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2009-10-29)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C7OP",
+      "size": 67108864,
+      "crc32": "bdbd4367",
+      "md5": "dc02172c53f3dc0e55ed09f3b3b34132",
+      "sha1": "3f06a90cd12d623a4184952a235badff50761dbd",
+      "sha256": "bce4617cf826fa5e13c366471ab01cc1d460c71c5555c8dbcc03924af041e2a1"
+    },
+    {
+      "name": "Jonas (USA) (Beta) (2009-09-10)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C7OE",
+      "size": 67108864,
+      "crc32": "51280323",
+      "md5": "6e183d52a64f922ae5797181c698544f",
+      "sha1": "692f4bef8d80daf90df033b9fe394f6c4b660d7c",
+      "sha256": "07086020f6604ec6cf95ec05afea5e74aec9d01ced19cea0e76ccce80cac11cc"
+    },
+    {
+      "name": "Jonas (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C7OE",
+      "size": 67108864,
+      "crc32": "a29171c8",
+      "md5": "9a61b2c6d9f4672f065251276e0e72cd",
+      "sha1": "4051fcd1edce5a64d9aa385f672c7616ea32d33a",
+      "sha256": "f516376c31389afb3543a9a1585f4fe800042c9118ac1f6162da9d7300006d19"
+    },
+    {
+      "name": "Jonas (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C7OP",
+      "size": 67108864,
+      "crc32": "80f3d288",
+      "md5": "45e2b28ff3a0623e72c9457142db0991",
+      "sha1": "a3d3ab68d7b04c3260820e426128a638f67ab6f8"
+    },
+    {
+      "name": "Jonas (Europe) (En,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C7OX",
+      "size": 67108864,
+      "crc32": "0658ee01",
+      "md5": "bff16458a006b6210fc2010c7b847261",
+      "sha1": "46ec789fa92487829c616b5f3046bd275bcae96d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jonas%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jonas%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jonas%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jonas%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jonas%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jonas%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -45,5 +45,54 @@
     "wikidata": "Q7292884",
     "mobygames": 81014,
     "igdb": 248575
-  }
+  },
+  "roms": [
+    {
+      "name": "Rango (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BXGP",
+      "size": 67108864,
+      "crc32": "27ea74ec",
+      "md5": "8f3e9624e1ebacfd542eb24b7908674c",
+      "sha1": "67e97b35d87eb503b744f8b93059e8a85587aa37",
+      "sha256": "f1656664e517b02917cb1ab6a668d0b25487acf6d91a9e7ee00928334e041ef5"
+    },
+    {
+      "name": "Rango (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BXGE",
+      "size": 67108864,
+      "crc32": "5bdc06bd",
+      "md5": "cf7460500d6cd555aeace0766be60368",
+      "sha1": "8940e664df9bad05b1903f39ec0a5f5a1c431a91"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rango%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rango%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rango%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rango%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

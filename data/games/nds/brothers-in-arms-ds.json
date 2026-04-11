@@ -54,5 +54,66 @@
     "wikidata": "Q2734941",
     "mobygames": 29865,
     "igdb": 21422
-  }
+  },
+  "roms": [
+    {
+      "name": "Brothers in Arms DS (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AI8P",
+      "size": 33554432,
+      "crc32": "16ee4e2a",
+      "md5": "bf6f8cd6990a5935284f5ddba616aa0f",
+      "sha1": "2a6b410e51d03c6de1779c01d7b282542c6b20ec",
+      "sha256": "2dc398c79d5ab90d4359f84ffdfe8559c6901d35008994a145e956a708b18917"
+    },
+    {
+      "name": "Brothers in Arms DS (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AI8E",
+      "size": 33554432,
+      "crc32": "c1bb053c",
+      "md5": "42f2041467d9f13d8278053936db3af0",
+      "sha1": "ad244f426a04b9e3b10d015fd7ac74d0e72cc077"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Brothers%20in%20Arms%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Brothers%20in%20Arms%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Brothers%20in%20Arms%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Brothers%20in%20Arms%20DS%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Brothers%20in%20Arms%20DS%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Brothers%20in%20Arms%20DS%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

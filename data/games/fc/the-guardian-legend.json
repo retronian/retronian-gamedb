@@ -54,5 +54,65 @@
     "wikidata": "Q1950716",
     "mobygames": 7822,
     "igdb": 48058
-  }
+  },
+  "roms": [
+    {
+      "name": "Guardian Legend, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "1add73a2",
+      "md5": "a647901bb57ea0a2277a544010803a4c",
+      "sha1": "c8e14ec496d3b06d7dace37198080ff68a266117",
+      "sha256": "55415273e75efd045ba5f8f37398c337cd4af9c02679f75ff47ef6f3bb18dde4"
+    },
+    {
+      "name": "Guardian Legend, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "5e8d1883",
+      "md5": "ab33dca3502b7632763cf043882fe2e9",
+      "sha1": "9b763c36f0fcfb983083ca7b2fad4550dacd8dcb",
+      "sha256": "8f8bde52d3a8f7f7cc66fc33143d291114c17ca5be54e96bc8992a7d36252d61"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Guardian%20Legend%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Guardian%20Legend%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Guardian%20Legend%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Guardian%20Legend%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Guardian%20Legend%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Guardian%20Legend%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

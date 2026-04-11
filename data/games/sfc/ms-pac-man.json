@@ -90,5 +90,75 @@
     "wikidata": "Q2141683",
     "mobygames": 576,
     "igdb": 131815
-  }
+  },
+  "roms": [
+    {
+      "name": "Ms. Pac-Man (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "37c89424",
+      "md5": "a9f9eb32292e38598c3e2068a304a482",
+      "sha1": "bb833f58ed18e929195bd870ee79f1b1e87ad7fc",
+      "sha256": "886289f0ec8b55bb3972c4a8a52a8d357258e203024952353270ddf31a53250b"
+    },
+    {
+      "name": "Ms. Pac-Man (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "74d210d3",
+      "md5": "f62625b0f5b12482d31f2fc5e7097410",
+      "sha1": "5cf53b3706560e9b3b3ffb2ea688b7ff95475969",
+      "sha256": "007735e68a91cab403f1c955d9d562e9311124e660fa5b32e5c5d0a2e052160e"
+    },
+    {
+      "name": "Ms. Pac-Man (USA) (Beta) (1996-06-18)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "41cae05b",
+      "md5": "831a79e371ccaaa46feda052d98f8859",
+      "sha1": "220bc3da3f385fb3bded1d54e8a4f63cbfbe0394",
+      "sha256": "93f8dd6ff50544a4c602fa9975fcb227bbd27afcd726d2e0a93d34385d808b46"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ms.%20Pac-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ms.%20Pac-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ms.%20Pac-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ms.%20Pac-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ms.%20Pac-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ms.%20Pac-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

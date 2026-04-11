@@ -72,5 +72,65 @@
     "wikidata": "Q633461",
     "mobygames": 468,
     "igdb": 240233
-  }
+  },
+  "roms": [
+    {
+      "name": "FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1572864,
+      "crc32": "8faf17e5",
+      "md5": "ee9652bef0f7930ba02ec06028dd5bd2",
+      "sha1": "b184c03ac65b21ea99d72933383d7a87f2f10c1f",
+      "sha256": "8d02716cc5d50cd66c661ff3516093e8a1787b91699dc8b802b7ddd2c1a3bb17"
+    },
+    {
+      "name": "FIFA Soccer 96 (USA) (En,Fr,De,Es,It,Sv)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1572864,
+      "crc32": "7566347d",
+      "md5": "8b3448cce7440268d34fa7b4c46c5966",
+      "sha1": "07e91bde033b5a53a5723c9db5f3649a99acdb08",
+      "sha256": "26ff143c2f1a4a16ca838cc4b5555e39bbe7208515dca8f1c4b1a00dec61cf09"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/FIFA%20Soccer%2096%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/FIFA%20Soccer%2096%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/FIFA%20Soccer%2096%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/FIFA%20Soccer%2096%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/FIFA%20Soccer%2096%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/FIFA%20Soccer%2096%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -81,5 +81,57 @@
     "wikidata": "Q647249",
     "mobygames": 4275,
     "igdb": 1069
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Mario Land (World)",
+      "source": "no_intro",
+      "size": 65536,
+      "crc32": "90776841",
+      "md5": "b48161623f12f86fec88320166a21fce",
+      "sha1": "3a4ddb39b234a67ffb361ee7abc3d23e0a8b1c89",
+      "sha256": "470d6c45c9bcf7f0397d00c1ae6de727c63dd471049c8eedbefdc540ceea80b4"
+    },
+    {
+      "name": "Super Mario Land (World) (Rev 1)",
+      "source": "no_intro",
+      "size": 65536,
+      "crc32": "2c27ec70",
+      "md5": "b259feb41811c7e4e1dc200167985c84",
+      "sha1": "418203621b887caa090215d97e3f509b79affd3e",
+      "sha256": "49fbd2f61f953d5ef28cab73e357e524c3009ad19fcf30f6a9ee0ae273be41dc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Mario%20Land%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20Mario%20Land%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Super%20Mario%20Land%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Mario%20Land%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20Mario%20Land%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Super%20Mario%20Land%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

@@ -54,5 +54,58 @@
     "wikidata": "Q3094357",
     "mobygames": 11989,
     "igdb": 93373
-  }
+  },
+  "roms": [
+    {
+      "name": "Gaiares (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-49013-03",
+      "size": 1048576,
+      "crc32": "5d8bf68b",
+      "md5": "47e140ae1e70984e6cd638e6e8f8485f",
+      "sha1": "f62e8be872dc116c4cc331c50ae63a63f013eb58",
+      "sha256": "d8c5113f35e8af579f3525972a74042dd45ac5e2bef0dd054e16680377bfa543"
+    },
+    {
+      "name": "Gaiares (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-49013-03",
+      "size": 1048576,
+      "crc32": "d5274dac",
+      "md5": "dfbeb6247b156be132ee01fb5b3f8763",
+      "sha1": "902e92131ab0a5d889e585f0b664a4e32d9da3fc",
+      "sha256": "36018ab0fc44d7809c85597b091ad5cb9add3555f51c1599f05280daa168b32f"
+    },
+    {
+      "name": "Gaiares (World) (Retro-Bit)",
+      "source": "no_intro",
+      "serial": "T-49013 -03",
+      "size": 1048576,
+      "crc32": "2c612fbd",
+      "md5": "f8b42c7e540aa8a6c1594a4b88320bc3",
+      "sha1": "08754497117c07cae1b933649ad8d06f8bfc25fb",
+      "sha256": "4e4adb497e1133e89925b0263641e0dcb78ef2ce31148296f2d5f85df36abb7b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gaiares%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gaiares%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gaiares%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

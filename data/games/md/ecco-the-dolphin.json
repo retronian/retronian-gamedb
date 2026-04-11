@@ -70,5 +70,89 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Ecco the Dolphin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4106-00",
+      "size": 1048576,
+      "crc32": "6520304d",
+      "md5": "fdfc181b6f949788f336662dbabf5929",
+      "sha1": "1440fb5821ebb08048f73a0a71ac22e0cdbcf394",
+      "sha256": "fc015b754ca39e5a75f83482c51e16d4d0feba8294a292f7d3d1bb8a546f189a"
+    },
+    {
+      "name": "Ecco the Dolphin (USA, Europe, Korea) (En)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1042-00",
+      "size": 1048576,
+      "crc32": "45547390",
+      "md5": "18b49fe6ad55975b6021b40b193035f5",
+      "sha1": "2cad130f3118c189d39fd1d46c5c31a5060ce894",
+      "sha256": "48b280520c4f1b36d43a252d4a137443a714f78832e17b729811ac0d28eefef7"
+    },
+    {
+      "name": "Ecco the Dolphin (USA, Europe, Korea) (En) (Rev A) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1042-01",
+      "size": 1048576,
+      "crc32": "6fb62649",
+      "md5": "b951ed4208a1fd0a0798acb7ef066030",
+      "sha1": "f6b71b40e185828acf970095bb213ec5ff3cc927",
+      "sha256": "54993b235f5585df586d75e14a99af74db709174c7fadec0056f424da347a435"
+    },
+    {
+      "name": "Ecco the Dolphin (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "MK-0000-00",
+      "size": 1048576,
+      "crc32": "17e24509",
+      "md5": "fc7352e3ac3c38a851f2d9c1d550be07",
+      "sha1": "2c24350bc21ffa0e6110ab87d475977b69d6c089",
+      "sha256": "cfbc793a41b5b3babf210f7ab2f864950b484b240607208bafef81000fcad7e7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ecco%20the%20Dolphin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ecco%20the%20Dolphin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ecco%20the%20Dolphin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ecco%20the%20Dolphin%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ecco%20the%20Dolphin%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ecco%20the%20Dolphin%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

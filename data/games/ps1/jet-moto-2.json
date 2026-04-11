@@ -53,5 +53,64 @@
     "wikidata": "Q6188861",
     "mobygames": 13981,
     "igdb": 45214
-  }
+  },
+  "roms": [
+    {
+      "name": "Jet Moto 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 120412208,
+      "crc32": "bd54d5d9",
+      "md5": "64c0048b33a9ce42e24969de1178f9f1",
+      "sha1": "0626f469452d6d24a61937acd83e6ecce24b1e33",
+      "sha256": "974d99796a3a4790476510e756931f9488d651fe72c23f5022d98dabf5cc27f6"
+    },
+    {
+      "name": "Jet Rider 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 110531280,
+      "crc32": "d7a4ac5f",
+      "md5": "8763feca98c7e038e0c786633e9d19ec",
+      "sha1": "513ad5af543c8b1ca481095361d321daa3964749"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Jet%20Moto%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Jet%20Moto%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Jet%20Moto%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Jet%20Rider%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Jet%20Rider%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Jet%20Rider%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

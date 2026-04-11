@@ -90,5 +90,95 @@
     "wikidata": "Q2000583",
     "mobygames": 42471,
     "igdb": 8807
-  }
+  },
+  "roms": [
+    {
+      "name": "Scribblenauts (USA) (En,Fr,Es,Pt)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSLE",
+      "size": 33554432,
+      "crc32": "1ab8edde",
+      "md5": "70f474fd6872f7d313ec2e4035830b54",
+      "sha1": "b8fe26bd75168de551b52cddf4d86a4754bd5478",
+      "sha256": "876ece326931608e2a18ab24b22497ed3189238d4514f2a4c047d37d38fc2ec2"
+    },
+    {
+      "name": "Scribblenauts (Europe) (En,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSLX",
+      "size": 33554432,
+      "crc32": "81bc0f3c",
+      "md5": "3153a0ef4cb7c8f6b169ac2ea89895da",
+      "sha1": "fdd52a363567a9690a9b1407267233ddc6daedad"
+    },
+    {
+      "name": "Scribblenauts (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSLP",
+      "size": 33554432,
+      "crc32": "e88e631e",
+      "md5": "133fa1d7623a7380d45aa43b820cb183",
+      "sha1": "bc44dafd0940a1e9f9ad0ef2e8c2458c39e2e1c8",
+      "sha256": "5775a60b4e4ba2af5765e55551ea7467c183e46423871c36c2e75ad244abaae5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scribblenauts%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Scribblenauts%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scribblenauts%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scribblenauts%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Scribblenauts%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scribblenauts%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scribblenauts%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Scribblenauts%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scribblenauts%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -36,5 +36,79 @@
     "wikidata": "Q17177267",
     "mobygames": 18224,
     "igdb": 145181
-  }
+  },
+  "roms": [
+    {
+      "name": "TaleSpin (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "d29ddc91",
+      "md5": "8d0454b8cce374e863d535e2654f326b",
+      "sha1": "4ca2962c76f9015246663564b9c7006b5fa37a03",
+      "sha256": "1a554cdea13a94a7c354122a684a04ba58b81a350ba0ef4a3e627f96a5c7c2b2"
+    },
+    {
+      "name": "TaleSpin (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "de383e73",
+      "md5": "26c65da146faa09505c554447792e493",
+      "sha1": "155eb5458c971a9a84e3be19711994ca2a4c24d8",
+      "sha256": "f20ef9ae0cf8c19f78d1446aa0c66b8e6b9d3ad64d4824cbaad8ad471b4b9a7b"
+    },
+    {
+      "name": "TaleSpin (Spain) (Proto)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "50930d9c",
+      "md5": "59f6995b8b6bf9a65aac966d039a2b27",
+      "sha1": "1b18a74f1725c63153455656b5f7ba01d6abefef",
+      "sha256": "dfd539e224d389bad156f3dae80ed59b5f2af0240abf951379ff993319e3f715"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/TaleSpin%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/TaleSpin%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/TaleSpin%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/TaleSpin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/TaleSpin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/TaleSpin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/TaleSpin%20%28Spain%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

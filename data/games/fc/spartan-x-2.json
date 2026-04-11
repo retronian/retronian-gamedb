@@ -43,5 +43,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Spartan X 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "98a8b3d1",
+      "md5": "3450e85e842f13fe75280122b9265f5e",
+      "sha1": "72cb5e3634d05547e0150650e15b0d19854a6703",
+      "sha256": "50bb673309277782901ad6acbfb8398f6873d0a27a3185214235ce135b1e63d3"
+    },
+    {
+      "name": "Spartan X 2 (Japan) (Retro-Bit Generations)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "9870be7b",
+      "md5": "24dd2b0970101a0b4c040f4c6545398a",
+      "sha1": "5a9d363ee21701922ce44e6d99c3ad84fa065bb6",
+      "sha256": "abd12150c76d384008ee5a70c1b84735b50e4f63e10c619781f11e7681dbdc5d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Spartan%20X%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Spartan%20X%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Spartan%20X%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

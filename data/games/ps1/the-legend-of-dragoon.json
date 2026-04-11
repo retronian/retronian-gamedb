@@ -54,5 +54,54 @@
     "wikidata": "Q2562250",
     "mobygames": 4163,
     "igdb": 3140
-  }
+  },
+  "roms": [
+    {
+      "name": "Legend of Dragoon, The (Japan) (PS3 v3.50)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1217597920,
+      "crc32": "4426cbc2",
+      "md5": "bc08cc9a62277b7d10931563d892a77c",
+      "sha1": "0fa12ef929f80e878f1ce43fd38eef522a4f424e"
+    },
+    {
+      "name": "Legend of Dragoon, The (Japan) (PS3 v4.46)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1217664880,
+      "crc32": "e3e836a4",
+      "md5": "11c4ef98213606e764731c0d13c0c1d1",
+      "sha1": "4ae1e9ddce222f8987564194b939ffa1588aadef"
+    },
+    {
+      "name": "Legend of Dragoon, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1218779792,
+      "crc32": "65c686d1",
+      "md5": "de279c2c8e1b7b4374ef48743de6c250",
+      "sha1": "2b3ed08c9118d8a5647b3fadaf81837a29fa6dc1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Legend%20of%20Dragoon%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Legend%20of%20Dragoon%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Legend%20of%20Dragoon%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

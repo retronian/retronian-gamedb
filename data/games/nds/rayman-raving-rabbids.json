@@ -76,10 +76,58 @@
       "verified": false
     }
   ],
-  "first_release_date": "2006-11-19",
+  "first_release_date": "2006-11-14",
   "external_ids": {
     "wikidata": "Q1982922",
     "mobygames": 25485,
     "igdb": 193363
-  }
+  },
+  "roms": [
+    {
+      "name": "Rayman - Raving Rabbids (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AR5E",
+      "size": 33554432,
+      "crc32": "aa968ccb",
+      "md5": "51582ae361e08acc18a8d3ab6c4d3c43",
+      "sha1": "da64e28984dc33fd1a77f85d1bee204964389f69"
+    },
+    {
+      "name": "Rayman - Raving Rabbids (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AR5P",
+      "size": 33554432,
+      "crc32": "51e00db4",
+      "md5": "e32a534b2dad5c1cb1c302a08797aafa",
+      "sha1": "cbdf7b24c5d92e32e1d0188918225ca4518982b5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rayman%20-%20Raving%20Rabbids%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rayman%20-%20Raving%20Rabbids%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rayman%20-%20Raving%20Rabbids%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rayman%20-%20Raving%20Rabbids%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

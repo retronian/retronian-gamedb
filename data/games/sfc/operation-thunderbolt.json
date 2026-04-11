@@ -54,5 +54,47 @@
     "wikidata": "Q1634991",
     "mobygames": 9344,
     "igdb": 12191
-  }
+  },
+  "roms": [
+    {
+      "name": "Operation Thunderbolt (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1310720,
+      "crc32": "3042b049",
+      "md5": "be4f6b60a2ce518ba46c9f33e4fa0ff5",
+      "sha1": "204b7e98053ca51d6539198379c3fa025c7cb9fb",
+      "sha256": "5cbed0401734142184166917427d24f9e5f107a7adea665e2f4b4101491ad54b"
+    },
+    {
+      "name": "Operation Thunderbolt (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1572864,
+      "crc32": "1ca9d815",
+      "md5": "3f540e334fa48a2dd6977ad7a4b92733",
+      "sha1": "2859d4f88318a1b24c858eb431f525da63b4e8de",
+      "sha256": "f4238a865e418d7cc406aa1fc865976ab86dd47d41b8eee63b999518d6ccc9e6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Operation%20Thunderbolt%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Operation%20Thunderbolt%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Operation%20Thunderbolt%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

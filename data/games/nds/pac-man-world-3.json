@@ -54,5 +54,65 @@
     "wikidata": "Q3046252",
     "mobygames": 20515,
     "igdb": 243196
-  }
+  },
+  "roms": [
+    {
+      "name": "Pac-Man World 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APWE",
+      "size": 33554432,
+      "crc32": "ab0fe036",
+      "md5": "40a92219fb2d1f5905e1cf18684690af",
+      "sha1": "cd4781100a409e4747c432fd0d59bd09a7d614e3"
+    },
+    {
+      "name": "Pac-Man World 3 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "APWP",
+      "size": 33554432,
+      "crc32": "592757b9",
+      "md5": "c64bda6908d73d65973e994ed9363dec",
+      "sha1": "2a02b12da8e6a909d283174992eef74404417c68"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pac-Man%20World%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pac-Man%20World%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pac-Man%20World%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pac-Man%20World%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pac-Man%20World%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pac-Man%20World%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

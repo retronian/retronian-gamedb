@@ -80,5 +80,57 @@
     "wikidata": "Q1026656",
     "mobygames": 8152,
     "igdb": 5692
-  }
+  },
+  "roms": [
+    {
+      "name": "Donkey Kong Jr. Math (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "8622720c",
+      "md5": "5a7c107a1fd814e4698e2289732b901d",
+      "sha1": "f1564e6814945708db2b94ddce153ed0d5c8f5f0",
+      "sha256": "c060e2222310342de44499f2a84e2965b87876c577a7af685db8bd67d6ef1aae"
+    },
+    {
+      "name": "Donkey Kong Jr. no Sansuu Asobi (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "4de9c299",
+      "md5": "b4349c38bf43e3afea31cdcb1cc5cb40",
+      "sha1": "3d95f67ba5fb341c0fc154dcb1683bbb11a7242d",
+      "sha256": "71d1214030005aa17b099a4659a717e09cde783ddb8a8da7e563acf7ce8e0758"
+    },
+    {
+      "name": "Donkey Kong Jr. no Sansuu Asobi (Japan) (Animal Crossing)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "784ae6f3",
+      "md5": "5279a64b9d3325ea2e551968c50af0c0",
+      "sha1": "499d6d10e43649721f697c4e2fd14469f1cebb32",
+      "sha256": "27c16372635561fab693c0a0a27018c18f2efc7035c2b2b82f6f0284daa8f15d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Donkey%20Kong%20Jr.%20Math%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Donkey%20Kong%20Jr.%20Math%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Donkey%20Kong%20Jr.%20Math%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

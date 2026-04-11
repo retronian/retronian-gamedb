@@ -45,5 +45,47 @@
     "wikidata": "Q2088772",
     "mobygames": 27102,
     "igdb": 288843
-  }
+  },
+  "roms": [
+    {
+      "name": "Legendary Wings (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "06d74045",
+      "md5": "7fddfd4a58335f17dccf86209077c885",
+      "sha1": "a87cc03208de69a69d67c59a8b1926e03b3fd598",
+      "sha256": "417576acd75aa2768e3a3bf45e9c6afefeda8ac3d4060b4a7e911e84bfab811b"
+    },
+    {
+      "name": "Legendary Wings (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "d24de3dc",
+      "md5": "6582184949beb872449864f0767792e4",
+      "sha1": "9a8cf059da1f31268b89bda6848d97ec3f630412",
+      "sha256": "b36169478565eddc587513be95fb1c8b06ff654a87c6df0034de2284d09f54e3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Legendary%20Wings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Legendary%20Wings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Legendary%20Wings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

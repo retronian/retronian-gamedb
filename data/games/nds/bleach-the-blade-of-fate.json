@@ -63,5 +63,65 @@
     "wikidata": "Q924810",
     "mobygames": 30600,
     "igdb": 20530
-  }
+  },
+  "roms": [
+    {
+      "name": "Bleach - The Blade of Fate (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ABLP",
+      "size": 134217728,
+      "crc32": "2a0a9c96",
+      "md5": "c551e4ed0676d0a75bdfc401528ad78c",
+      "sha1": "e2829ee20f465a6f52d7e81ebc147f1a68f57354"
+    },
+    {
+      "name": "Bleach - The Blade of Fate (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ABLE",
+      "size": 134217728,
+      "crc32": "fb4e3bc0",
+      "md5": "87ffcdc7c6a372bec1fe881ce1da4bee",
+      "sha1": "053f1d613f12482005b09a553e19077ca47bc853"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bleach%20-%20The%20Blade%20of%20Fate%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bleach%20-%20The%20Blade%20of%20Fate%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bleach%20-%20The%20Blade%20of%20Fate%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bleach%20-%20The%20Blade%20of%20Fate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bleach%20-%20The%20Blade%20of%20Fate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bleach%20-%20The%20Blade%20of%20Fate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

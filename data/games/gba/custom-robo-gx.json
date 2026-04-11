@@ -44,5 +44,37 @@
   "external_ids": {
     "wikidata": "Q5196402",
     "igdb": 3464
-  }
+  },
+  "roms": [
+    {
+      "name": "Custom Robo GX (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ARJJ",
+      "size": 8388608,
+      "crc32": "f533dc13",
+      "md5": "ae35fb67a74c92a3f063408fd0bc4a29",
+      "sha1": "0b5ce051aa1fd83ab0ec79122b07b02bb41096a5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Custom%20Robo%20GX%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Custom%20Robo%20GX%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Custom%20Robo%20GX%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

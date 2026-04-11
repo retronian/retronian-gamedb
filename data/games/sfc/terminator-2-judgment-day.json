@@ -74,6 +74,33 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": true
+    },
+    {
+      "text": "ターミネーター2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Terminator 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Terminator 2",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1991-10-31",
@@ -81,5 +108,177 @@
     "wikidata": "Q3511972",
     "mobygames": 1447,
     "igdb": 12793
-  }
+  },
+  "roms": [
+    {
+      "name": "T2 - The Arcade Game (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "32633fa6",
+      "md5": "3af126f4b6e5e0af52ecc734fa5d12cf",
+      "sha1": "e8de632ece8ced5d797bb213d48365a7a5c82060",
+      "sha256": "d6968f79ec66cec751dcf54a1fd0c7321a8e1b69722d81b10d1969a8415412a6"
+    },
+    {
+      "name": "T2 - The Arcade Game (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "cb5409ff",
+      "md5": "060c2f08f03bfab47ec283b9562f4a2d",
+      "sha1": "e0d076d42f85449cdd688f654c67d7f874fb4744",
+      "sha256": "59cb1c07940e965520fd4e8dcd48d9c5c72db60b301606ed376af5b5d0727632"
+    },
+    {
+      "name": "T2 - The Arcade Game (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "5dc6b9fe",
+      "md5": "49a4cf748b491f6e7bdbfc86f2cf4d16",
+      "sha1": "29597788b9240be9fd1f800ce61a54298986ce73",
+      "sha256": "365f10f9d9f68cc59e769eeb451c417e1ff7415022a625de9976a3b924c0bd61"
+    },
+    {
+      "name": "Terminator 2 - Judgment Day (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "6ee8f433",
+      "md5": "4a82f6a55b17d9bb730aeda043711c58",
+      "sha1": "83790fadbf049ed9065a9973f1edee5ce5efd93c",
+      "sha256": "d92b74678e58360db9b47a7044cedd6c57f191570a5677b1a1bf5e476f92721d"
+    },
+    {
+      "name": "Terminator 2 - Judgment Day (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "ac933465",
+      "md5": "0d1e3d3df062422b90cb18bb085dc4ec",
+      "sha1": "bab24606be3b1ed0c716c9a9beb70d67d20c7fcb",
+      "sha256": "793d70d2014f6364b5c9507f278a0559501dc71b6b2b094309a52eb4a9820b8e"
+    },
+    {
+      "name": "Terminator 2 - Judgment Day (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "f729b19e",
+      "md5": "64e0fdfc5dd759018924791faa77c2f9",
+      "sha1": "c95c46bf2c77e7233792fc1212e90d8fc267c1a3",
+      "sha256": "06db3be569a587d79b51bfc684fd2ebdea977863875aedec88218fbb4169c21b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/T2%20-%20The%20Arcade%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/T2%20-%20The%20Arcade%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/T2%20-%20The%20Arcade%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/T2%20-%20The%20Arcade%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/T2%20-%20The%20Arcade%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/T2%20-%20The%20Arcade%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/T2%20-%20The%20Arcade%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/T2%20-%20The%20Arcade%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/T2%20-%20The%20Arcade%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Terminator%202%20-%20Judgment%20Day%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Terminator%202%20-%20Judgment%20Day%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Terminator%202%20-%20Judgment%20Day%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Terminator%202%20-%20Judgment%20Day%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Terminator%202%20-%20Judgment%20Day%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Terminator%202%20-%20Judgment%20Day%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Terminator%202%20-%20Judgment%20Day%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Terminator%202%20-%20Judgment%20Day%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Terminator%202%20-%20Judgment%20Day%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

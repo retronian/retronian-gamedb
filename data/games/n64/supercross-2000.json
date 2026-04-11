@@ -18,5 +18,67 @@
     "wikidata": "Q3504618",
     "mobygames": 18929,
     "igdb": 3610
-  }
+  },
+  "roms": [
+    {
+      "name": "Supercross 2000 (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NSXP",
+      "size": 16777216,
+      "crc32": "cb5482ec",
+      "md5": "6d58a01ef7a7a7c779d2a66315992c5f",
+      "sha1": "3fa3f859048a65e1e810ed7be98ada0a0b4e49ad",
+      "sha256": "92db4d0ba456d921c077d5bd524c913c297ea888bc78d5018ced70faa6203a59"
+    },
+    {
+      "name": "Supercross 2000 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NSXE",
+      "size": 16777216,
+      "crc32": "094e2a48",
+      "md5": "60347200a1a7cabc0d849ee69ec51df7",
+      "sha1": "8d726c2ef6bc74b0d516067ffd92da00efa07993",
+      "sha256": "2659be83dc4d8795d01d4838383579ad9aecf1a06ef0ea6aebc9588184fb9080"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Supercross%202000%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Supercross%202000%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Supercross%202000%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Supercross%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Supercross%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Supercross%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

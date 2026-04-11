@@ -18,5 +18,75 @@
     "wikidata": "Q6730634",
     "mobygames": 7311,
     "igdb": 12675
-  }
+  },
+  "roms": [
+    {
+      "name": "Magic Boy (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "7718c867",
+      "md5": "311448b02774f68d3e17b65c3dba25d6",
+      "sha1": "1673c38cf9e37f11649ac6183f415815d0256904",
+      "sha256": "be9c42913fee053a8d854054a27a0fb4d1cf6c092b46c7291d2743e94204a323"
+    },
+    {
+      "name": "Magic Boy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "ab57a2f9",
+      "md5": "fd2313f2b0ad28e8de1c6523fa363bd0",
+      "sha1": "2f0b370dc8650f45938663f03a513f9e001391a5",
+      "sha256": "c01fb8989d391d3e343003934937f02bd8ef9aacdad68c32c3d3f56feb72f5b0"
+    },
+    {
+      "name": "Magic Boy (Europe) (Beta) (1993-03-23)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "e6c54883",
+      "md5": "cfadc765f295dc2d27c19ab8a0d230e9",
+      "sha1": "52e9f69a16bd3c1c1f91ab8def42e91e2988825a",
+      "sha256": "b5f9615f844b49f4fb096f66bb9cca9e0b08da7ef289e0f725bb4e02e259dd1b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Magic%20Boy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Magic%20Boy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Magic%20Boy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Magic%20Boy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Magic%20Boy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Magic%20Boy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

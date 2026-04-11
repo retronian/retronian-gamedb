@@ -16,5 +16,65 @@
   "external_ids": {
     "wikidata": "Q120263260",
     "igdb": 49341
-  }
+  },
+  "roms": [
+    {
+      "name": "Tokyo Xtreme Racer Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BTZE",
+      "size": 4194304,
+      "crc32": "ab272800",
+      "md5": "51664a136b5c9383258e58b384a8d9a8",
+      "sha1": "4197339d4add74bb40ed02a8fba5e58096afb487"
+    },
+    {
+      "name": "Tokyo Xtreme Racer Advance (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BTZP",
+      "size": 4194304,
+      "crc32": "bd5f5f4c",
+      "md5": "540379fc48a27baafbd1571dea34c9da",
+      "sha1": "15a306794efdd64651387c1447ae4713892e4b87"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tokyo%20Xtreme%20Racer%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tokyo%20Xtreme%20Racer%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tokyo%20Xtreme%20Racer%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tokyo%20Xtreme%20Racer%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tokyo%20Xtreme%20Racer%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tokyo%20Xtreme%20Racer%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

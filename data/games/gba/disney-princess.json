@@ -17,5 +17,37 @@
   "external_ids": {
     "wikidata": "Q114347810",
     "igdb": 79718
-  }
+  },
+  "roms": [
+    {
+      "name": "Disney Princess (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQPE",
+      "size": 8388608,
+      "crc32": "4a2b9e0b",
+      "md5": "434af1b315a2a337313ac82c3de078ff",
+      "sha1": "fbb2d5c6a209074a92459ec4918a5213bfa0197d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Disney%20Princess%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Disney%20Princess%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Disney%20Princess%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

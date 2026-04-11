@@ -35,5 +35,37 @@
   "external_ids": {
     "wikidata": "Q126974250",
     "igdb": 112195
-  }
+  },
+  "roms": [
+    {
+      "name": "Ys DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AYDJ",
+      "size": 67108864,
+      "crc32": "f8e41c19",
+      "md5": "2fa37647ce41cc65e511cb89293c3de7",
+      "sha1": "995625dd18f8552d1191aac82ca6f78eb4bf2926"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ys%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ys%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ys%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

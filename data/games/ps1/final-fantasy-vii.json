@@ -54,5 +54,88 @@
     "wikidata": "Q214232",
     "mobygames": 858,
     "igdb": 393025
-  }
+  },
+  "roms": [
+    {
+      "name": "Final Fantasy VII (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1390359328,
+      "crc32": "20265495",
+      "md5": "f35b1bf956c4e0ce431815f5fdef4ced",
+      "sha1": "0c49738d3adf3f3d5b77dc3b8522c46bb40b20fa"
+    },
+    {
+      "name": "Final Fantasy VII (France)",
+      "source": "no_intro",
+      "size": 1390719456,
+      "crc32": "f42c6a49",
+      "md5": "fc84ffcc0e1e2243e4fd8c678716ead1",
+      "sha1": "03542b8b0409314b289e17169219328b17d834b9"
+    },
+    {
+      "name": "Final Fantasy VII (Germany)",
+      "source": "no_intro",
+      "size": 1391821744,
+      "crc32": "878eccc2",
+      "md5": "54c6ae48cdf97c93985eb1111b0840c8",
+      "sha1": "fb183789dbc5f7d06cbd1755dc2b7b278ad5ca78"
+    },
+    {
+      "name": "Final Fantasy VII (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1794432416,
+      "crc32": "4cc88f96",
+      "md5": "4b155c72dcbc4eafcf4a0ed0b5d469e1",
+      "sha1": "0b23d15ff10499695e797c456781fe0a02431f65"
+    },
+    {
+      "name": "Final Fantasy VII (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1417420640,
+      "crc32": "68a44910",
+      "md5": "1fecf0cfe8600a2d845ca51fa24909ca",
+      "sha1": "20550a25f85ae9a8a45fb9c7331bf80aec551490"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20VII%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20VII%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Final%20Fantasy%20VII%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20VII%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Final%20Fantasy%20VII%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Final%20Fantasy%20VII%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

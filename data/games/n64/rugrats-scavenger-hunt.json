@@ -27,5 +27,48 @@
     "wikidata": "Q3235097",
     "mobygames": 36133,
     "igdb": 2786
-  }
+  },
+  "roms": [
+    {
+      "name": "Rugrats - Scavenger Hunt (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NRGE",
+      "size": 16777216,
+      "crc32": "a87faf82",
+      "md5": "8c432235a57d34bc4a9b8b290e21e01e",
+      "sha1": "fb2a62f1625630d6f0beb5fd00a32e12155d50e8",
+      "sha256": "d2dab1d3e46d6da4d0b98b2ce26494388e10392bf0fc70255802c4184105439e"
+    },
+    {
+      "name": "Rugrats - Scavenger Hunt (USA) (Beta) (1999-04-02)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 16777216,
+      "crc32": "b839ea50",
+      "md5": "a0e5edf2e5841578325e91470e0b84df",
+      "sha1": "4b359040d63801f89b0f583b13384a529e393f94",
+      "sha256": "949e669fdd33a8a26bd592200254a6c0c49265fd72b753efff3b816e13df7033"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rugrats%20-%20Scavenger%20Hunt%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rugrats%20-%20Scavenger%20Hunt%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rugrats%20-%20Scavenger%20Hunt%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

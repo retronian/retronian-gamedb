@@ -60,5 +60,88 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Super Volley Ball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-30013-00",
+      "size": 262144,
+      "crc32": "9b5c28ea",
+      "md5": "52a44b85c2eda20d150e2e4d742ddc66",
+      "sha1": "d0a57b14dc08fad001e96de72a4111f6c9b22825",
+      "sha256": "bbfb73e61cf35ab6fb68c443a7b53b6277cc7daf0c34112eb460fdc02e4e8246"
+    },
+    {
+      "name": "Super Volley Ball (USA) (Pirate)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "47c6e2d3",
+      "md5": "dfcce98489a01fc785f2a5a677315668",
+      "sha1": "05bd956579edea84989e9f5ed5f451c7f01cd722",
+      "sha256": "ca42d4a09071d94369ef6887ae1adf3fb849b55967d2b6ec701720129903be88"
+    },
+    {
+      "name": "Super Volleyball (USA) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-30016-00",
+      "size": 262144,
+      "crc32": "f706de79",
+      "md5": "38278437da3902525bdae75c7687ecca",
+      "sha1": "b5974d8e0a4f02fedc28cfd85977a4b37da30230",
+      "sha256": "9aa8073efab6895cae12ffe2033ce8d23856c7226f3470303362c54605fbef96"
+    },
+    {
+      "name": "Super Volleyball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-30016-00",
+      "size": 262144,
+      "crc32": "85102799",
+      "md5": "b2007f23346c87e12f54e04aebd55f52",
+      "sha1": "3f00e7f8de50e73346cba06dd44b6dd9461d5c9c",
+      "sha256": "f5f29110397f62c9f0d7dc5a23714a112865e5603fc5e3969fb3006655a548b7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Volley%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Volley%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Volley%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Volleyball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Volleyball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Volleyball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

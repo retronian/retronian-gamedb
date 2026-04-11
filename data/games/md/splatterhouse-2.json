@@ -45,5 +45,88 @@
     "wikidata": "Q2333479",
     "mobygames": 13691,
     "igdb": 46248
-  }
+  },
+  "roms": [
+    {
+      "name": "Splatterhouse 2 (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-14076-00",
+      "size": 1085408,
+      "crc32": "8188c7f4",
+      "md5": "7cbfbff974f4e7dc61e9fc944a96c2b4",
+      "sha1": "7eef50e3770f44e12b8590beaa8f587675191fe4",
+      "sha256": "21f66bc8be7810aeb26f4dfae1875fb9d24af88bd3572d82a0fe6ba60a60ceeb"
+    },
+    {
+      "name": "Splatterhouse 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1061-00",
+      "size": 1048576,
+      "crc32": "2559e03c",
+      "md5": "e82c84434552a2f4d0db073b23cf669c",
+      "sha1": "e01940808006a346b8711a74fbfa173ec872624f",
+      "sha256": "70eff7052836558c05b02c821b2d75ddd1a38113f4154adf37ef16fd0ca0133b"
+    },
+    {
+      "name": "Splatterhouse 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-14076-00",
+      "size": 1048576,
+      "crc32": "2d1766e9",
+      "md5": "d0d14e031b6a62c733414e1039a51df3",
+      "sha1": "59ec19ec442989d2738c055b9290661661d13f8f",
+      "sha256": "d1971413ece9b7b8b5de8589c83bb18695710cef31134010fb117ecf85fb3ea7"
+    },
+    {
+      "name": "Splatterhouse 2 (USA) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-14076-00",
+      "size": 1048576,
+      "crc32": "ed64ce8c",
+      "md5": "73f2bee7480969aba96958bb274e58b0",
+      "sha1": "fd5133bb737e577f9e351cb3b7744c722cbaaa55",
+      "sha256": "5da1c5ccf885c601e028508effb87fd365dae2f1068d109ad703102088c5182b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Splatterhouse%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Splatterhouse%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Splatterhouse%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Splatterhouse%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Splatterhouse%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Splatterhouse%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

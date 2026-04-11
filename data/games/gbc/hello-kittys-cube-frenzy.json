@@ -18,5 +18,45 @@
     "wikidata": "Q5708750",
     "mobygames": 37116,
     "igdb": 299461
-  }
+  },
+  "roms": [
+    {
+      "name": "Hello Kitty's Cube Frenzy (USA) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "937729f6",
+      "md5": "29f236dd1a64c15a7c1f66110579ccc3",
+      "sha1": "6f15379553a0ec8a8174b85a35eaa4085dec6b43"
+    },
+    {
+      "name": "Hello Kitty's Cube Frenzy (Europe) (Proto) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "9606a07f",
+      "md5": "5e374708237a17f322a077daba43ac76",
+      "sha1": "2225da8a68e489c0f562afcb8e90fc9387321af0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hello%20Kitty%27s%20Cube%20Frenzy%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hello%20Kitty%27s%20Cube%20Frenzy%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hello%20Kitty%27s%20Cube%20Frenzy%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

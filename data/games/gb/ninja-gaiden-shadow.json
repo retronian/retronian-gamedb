@@ -89,5 +89,65 @@
     "wikidata": "Q3958954",
     "mobygames": 48220,
     "igdb": 48929
-  }
+  },
+  "roms": [
+    {
+      "name": "Ninja Gaiden Shadow (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "d3741a3a",
+      "md5": "e12c5c2897ed095f8d26c7578afddfda",
+      "sha1": "8aadd7dfb4add75d5ac5351658762e5f56e78c66",
+      "sha256": "efc3b14064153fd16b690034c078188d7d1f424ad210b585aaa4e7b0f7f171ee"
+    },
+    {
+      "name": "Shadow Warriors (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "bcc18e24",
+      "md5": "13dd6801246da226b0c2db339df4a246",
+      "sha1": "f19075aa787cce771077152f0d6c83527b9d7104",
+      "sha256": "6a48d67b888576529da67b47f80e36fe3e5acfa4831f65d99cdc20c8544ee859"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ninja%20Gaiden%20Shadow%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ninja%20Gaiden%20Shadow%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ninja%20Gaiden%20Shadow%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shadow%20Warriors%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shadow%20Warriors%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shadow%20Warriors%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

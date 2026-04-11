@@ -27,5 +27,65 @@
     "wikidata": "Q51297805",
     "mobygames": 33539,
     "igdb": 27602
-  }
+  },
+  "roms": [
+    {
+      "name": "Scooby-Doo 2 - Monsters Unleashed (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BMUE",
+      "size": 8388608,
+      "crc32": "9ff01ddd",
+      "md5": "36a7bb733c433afaf9e416e2c8c0ac9d",
+      "sha1": "98bf2bf16e3cb40569a9692680ca048fdab6cd29"
+    },
+    {
+      "name": "Scooby-Doo 2 - Monsters Unleashed (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BMUX",
+      "size": 8388608,
+      "crc32": "7bdab2cf",
+      "md5": "49c6c446c5f7bc6b61e158994f8896b0",
+      "sha1": "c3da5a04d11cab4e377b1b32c81109d6ea6fd39a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Scooby-Doo%202%20-%20Monsters%20Unleashed%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Scooby-Doo%202%20-%20Monsters%20Unleashed%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Scooby-Doo%202%20-%20Monsters%20Unleashed%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Scooby-Doo%202%20-%20Monsters%20Unleashed%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Scooby-Doo%202%20-%20Monsters%20Unleashed%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Scooby-Doo%202%20-%20Monsters%20Unleashed%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

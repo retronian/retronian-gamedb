@@ -45,5 +45,65 @@
     "wikidata": "Q54845",
     "mobygames": 7719,
     "igdb": 6607
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars - The New Droid Army (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A2WE",
+      "size": 8388608,
+      "crc32": "59c52f98",
+      "md5": "e3d1f21b756890e2a68424173aa8cee5",
+      "sha1": "7770e5caac078460ebaeeaddbd183c2973365c47"
+    },
+    {
+      "name": "Star Wars - The New Droid Army (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A2WP",
+      "size": 8388608,
+      "crc32": "677854af",
+      "md5": "b7112785daa196847e610783cc2e9d8a",
+      "sha1": "4966ce40938df2b0ffd262c6aa6c4461b9fa8922"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Star%20Wars%20-%20The%20New%20Droid%20Army%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Star%20Wars%20-%20The%20New%20Droid%20Army%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Star%20Wars%20-%20The%20New%20Droid%20Army%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Star%20Wars%20-%20The%20New%20Droid%20Army%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Star%20Wars%20-%20The%20New%20Droid%20Army%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Star%20Wars%20-%20The%20New%20Droid%20Army%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

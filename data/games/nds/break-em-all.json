@@ -26,5 +26,37 @@
   "external_ids": {
     "wikidata": "Q16259328",
     "igdb": 20534
-  }
+  },
+  "roms": [
+    {
+      "name": "Break 'em All (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AZVE",
+      "size": 8388608,
+      "crc32": "56c22301",
+      "md5": "8c542879f2b3790c95f1e361b991ab63",
+      "sha1": "97294f1aa38a12093c8ce8908d97d51df54f9ae7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Break%20%27em%20All%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Break%20%27em%20All%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Break%20%27em%20All%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

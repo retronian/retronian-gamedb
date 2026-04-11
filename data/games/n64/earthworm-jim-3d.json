@@ -54,5 +54,67 @@
     "wikidata": "Q2614473",
     "mobygames": 2996,
     "igdb": 3479
-  }
+  },
+  "roms": [
+    {
+      "name": "Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NJMP",
+      "size": 16777216,
+      "crc32": "61a56330",
+      "md5": "bf2df4b86faa2181a7acfe2643fa2293",
+      "sha1": "f02c1afd18c1cbe309472cbe5b3b3f04b22db7ee",
+      "sha256": "4beb08c33592bb98339c9e0d3df3d5511ea8ca064864be744fd07e29c76345e5"
+    },
+    {
+      "name": "Earthworm Jim 3D (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NJME",
+      "size": 16777216,
+      "crc32": "9e6579c5",
+      "md5": "980dfb38ad9a883119de135f45b7db36",
+      "sha1": "eab14f23640cd6148d4888902cdcc00dd6111bf9",
+      "sha256": "fb21478839ba3f73b200a6b305d3d888fc38bf841e85454d68e4e5c8987c9890"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Earthworm%20Jim%203D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Earthworm%20Jim%203D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Earthworm%20Jim%203D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Earthworm%20Jim%203D%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Earthworm%20Jim%203D%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Earthworm%20Jim%203D%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

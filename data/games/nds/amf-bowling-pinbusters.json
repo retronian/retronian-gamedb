@@ -36,5 +36,65 @@
     "wikidata": "Q4652621",
     "mobygames": 87184,
     "igdb": 4672
-  }
+  },
+  "roms": [
+    {
+      "name": "AMF Bowling Pinbusters! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YAFE",
+      "size": 33554432,
+      "crc32": "e9f907d8",
+      "md5": "5bd889b4799ec5a2e1b2a8f6a98cf629",
+      "sha1": "25867a541c8282bbfd4046bf9d8cf469c0b6ae96"
+    },
+    {
+      "name": "AMF Bowling Pinbusters! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YAFP",
+      "size": 33554432,
+      "crc32": "c86ceaf4",
+      "md5": "73a055d3e10b077e8ff83923a3d7440d",
+      "sha1": "eebea1bcfdb884c5b6961fabc8de4dd54446782d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/AMF%20Bowling%20Pinbusters%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/AMF%20Bowling%20Pinbusters%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/AMF%20Bowling%20Pinbusters%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/AMF%20Bowling%20Pinbusters%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/AMF%20Bowling%20Pinbusters%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/AMF%20Bowling%20Pinbusters%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

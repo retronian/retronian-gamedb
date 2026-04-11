@@ -27,5 +27,76 @@
     "wikidata": "Q3359657",
     "mobygames": 65928,
     "igdb": 176028
-  }
+  },
+  "roms": [
+    {
+      "name": "PGA European Tour (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NEAE",
+      "size": 16777216,
+      "crc32": "7cdfcdaa",
+      "md5": "617ceca1d2beffce943ef832326898bf",
+      "sha1": "6e8dfccfe93318a597e99c9186d5e8cdca3be987",
+      "sha256": "ae6ab96248d077b12d994d36e31ba585860e1563641811c0338efe209c0efd13"
+    },
+    {
+      "name": "PGA European Tour Golf (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NEAP",
+      "size": 16777216,
+      "crc32": "6b5ff959",
+      "md5": "0112ffaada116d172abce136e9043a93",
+      "sha1": "f9e838cf5cfd0fa493d5e5f7a7d450a80787c814"
+    },
+    {
+      "name": "PGA European Tour Golf (Europe) (En,De) (Version B.29) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 16777216,
+      "crc32": "c98562e7",
+      "md5": "8b960a89813c363987810c8a06bef258",
+      "sha1": "2044b6bfcf119771486c6b96be9bfe58ef840478",
+      "sha256": "2b19dac0a2c2775a70d8b7a961ba3842a6775d38f8e235773f68336cd4ad6a16"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/PGA%20European%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/PGA%20European%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/PGA%20European%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/PGA%20European%20Tour%20Golf%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/PGA%20European%20Tour%20Golf%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/PGA%20European%20Tour%20Golf%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -35,5 +35,42 @@
   "external_ids": {
     "wikidata": "Q3529536",
     "mobygames": 16502
-  }
+  },
+  "roms": [
+    {
+      "name": "Titeuf - Mega Compet (France) (Beta)",
+      "source": "no_intro",
+      "size": 4194304,
+      "crc32": "c9be7fcf",
+      "md5": "9b4f26154fa4cd9501dfe75fb155207e",
+      "sha1": "1ed43c7419b22b1147bd7e3198de52f4c8d3003d",
+      "sha256": "f637bfbebc5055bdbaa8a391d7e0deebf6dcf8333a9440e7749985ff4fd686ca"
+    },
+    {
+      "name": "Titeuf - Mega Compet (France)",
+      "source": "no_intro",
+      "serial": "BTCF",
+      "size": 4194304,
+      "crc32": "ffd0a045",
+      "md5": "8735e3aaab28d157cd5cb0b0c6666b0d",
+      "sha1": "ff59a9810adc3270295763282c9d86d549f58a6f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Titeuf%20-%20Mega%20Compet%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Titeuf%20-%20Mega%20Compet%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Titeuf%20-%20Mega%20Compet%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

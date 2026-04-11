@@ -42,5 +42,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Adventures of Lolo (Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "176d2eeb",
+      "md5": "8f6b6ef366a787852f664d945c86eb72",
+      "sha1": "e09277358a7fd4f3a6206464dd9d39f3abe66a53",
+      "sha256": "4c156c4d826b9cba5741feb621de60c6294adb36553fc43971794bd2a4ffb34a"
+    },
+    {
+      "name": "Lolo no Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "d6185941",
+      "md5": "5070aaf41d5ae9ee08f988b9aad26af5",
+      "sha1": "2f4a4215e3c95f7f3646ad678c5cd191fce02515",
+      "sha256": "26305d545440a7199fb700e71e5a668b3797aef330f4ecdf604c949efd3e4d45"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Adventures%20of%20Lolo%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Adventures%20of%20Lolo%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Adventures%20of%20Lolo%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lolo%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lolo%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lolo%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

@@ -88,5 +88,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Hyper Marbles (Japan) (Sega Game Toshokan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "83bb2799",
+      "md5": "74eee7f1e3bd336bf684e46622b61212",
+      "sha1": "b2c5c78084b988de1873c89eedfa984124404c0c",
+      "sha256": "4cc350b443b1f195ec32c483c95908220847269bc760114174905e4814f70448"
+    },
+    {
+      "name": "Hyper Marbles (Japan) (Game no Kanzume Otokuyou)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "9ed72146",
+      "md5": "570f91b5c425e3527ec0077c186adaa4",
+      "sha1": "d8dc95512aec41db7c758d4c971dc0194ddb960a",
+      "sha256": "0b864c4feec3f92142d8c5361d524727ca6d17e1a628b895bacda8df36e48c54"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Hyper%20Marbles%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Hyper%20Marbles%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Hyper%20Marbles%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

@@ -54,5 +54,78 @@
     "wikidata": "Q1974823",
     "mobygames": 8817,
     "igdb": 20615
-  }
+  },
+  "roms": [
+    {
+      "name": "Zoop (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-139086-00",
+      "size": 1048576,
+      "crc32": "2e28c13f",
+      "md5": "756520442f022f3b6873ee8a4319c5ff",
+      "sha1": "4f8ad49e55af2152621606c87ba271e8da3f0aee",
+      "sha256": "0475b1db7152019ea823edde6bf55b05e388e2670e40f18c3a53471d79606386"
+    },
+    {
+      "name": "Zoop (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-139086-50",
+      "size": 1048576,
+      "crc32": "0764139f",
+      "md5": "ffee23596eed8b6a50138c6c63349ecc",
+      "sha1": "e78adbbb587daa1bdd9a4fd9355de0a5160fbc43",
+      "sha256": "48b4cd964a5c301d203dc8a3885a860a72a91353d95bbc0654c472a57d01a25a"
+    },
+    {
+      "name": "Zoop (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-139086-00",
+      "size": 1048576,
+      "crc32": "faa490dc",
+      "md5": "c4c9fe0959ee29953cf23c095981ca81",
+      "sha1": "ce34408f98769b03e0f8d62c3dc1261a072691aa",
+      "sha256": "b01b2ce16bc0c9fc3f9dacca61d220668eb83d2ed350e49d9baf6507a374cb38"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Zoop%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Zoop%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Zoop%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Zoop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Zoop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Zoop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

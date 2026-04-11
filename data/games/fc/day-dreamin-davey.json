@@ -44,5 +44,47 @@
   "external_ids": {
     "wikidata": "Q5242819",
     "igdb": 48139
-  }
+  },
+  "roms": [
+    {
+      "name": "Day Dreamin' Davey (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "c58204c5",
+      "md5": "5ac8e8582e3a24a9504e35a9c7daa217",
+      "sha1": "1f7044c357c622a8c714b5e2454efe865709454d",
+      "sha256": "6fafc65ce6c8c737938a4400eda0c33b8ae59a59153c83c07a61f011d226f275"
+    },
+    {
+      "name": "Day Dreamin' Davey (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "1d95a5fc",
+      "md5": "cc6aff53f815fe56ee3a7c5a5fc43600",
+      "sha1": "76f343f7eedc761591d479766e52ab0f41526bc0",
+      "sha256": "b7c5ca15e1f5ed749a47f356ccc593c0d5bda548ad003026a3b10a10f26f9b78"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Day%20Dreamin%27%20Davey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Day%20Dreamin%27%20Davey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Day%20Dreamin%27%20Davey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,65 @@
     "wikidata": "Q3532685",
     "mobygames": 45588,
     "igdb": 12500
-  }
+  },
+  "roms": [
+    {
+      "name": "Total Recall (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "187f3566",
+      "md5": "60bbebe6f62e50e92e5cdd91f95c9da0",
+      "sha1": "db3624baa87c36df0992be4111117e7d586cf9c9",
+      "sha256": "8b4b709a8a3040907c19847b96578e562bb3b2328faeb406dfc688bcd7554677"
+    },
+    {
+      "name": "Total Recall (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "804b6a4f",
+      "md5": "f7636e694eaa0b8c5c99b6bce29a76e1",
+      "sha1": "fabbb3de50a9dfe49d657a9d1746fc0f8034925c",
+      "sha256": "3c264fc64be9b677c6bdf14ad023c1caebf617b91785f3a8c50c51caad5d5ecb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Total%20Recall%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Total%20Recall%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Total%20Recall%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Total%20Recall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Total%20Recall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Total%20Recall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

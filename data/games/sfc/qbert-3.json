@@ -29,6 +29,15 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": true
+    },
+    {
+      "text": "Q-bert 3",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1992-01-01",
@@ -36,5 +45,54 @@
     "wikidata": "Q2091435",
     "mobygames": 7708,
     "igdb": 42469
-  }
+  },
+  "descriptions": [
+    {
+      "text": "このゲームは80年代初頭のコインオペレーションゲームを基にしています。あなたは、2本の足と1本の鼻を持つオレンジのボールを操作します。キュー＊バートは跳ねるのが得意で、ピラミッドの形をしたアイソメトリックグリッドの上を跳びます。キュー＊バート3はこのシンプルな前提をさまざまなテーマやグリッドの形に適用しています。合計20レベルがあり、各レベルには難易度が上がる4つのボードがあります。楽しいジャンプを！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Q-bert 3 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "ea3bc44e",
+      "md5": "37efb68b59c9259b38db72aa90bf96cc",
+      "sha1": "05856b77e44bc47680bae26c11fce92a9d915da8",
+      "sha256": "4634cf71028982eec33575534955e8b2a4763fd0f634fae90518e87db490d03a"
+    },
+    {
+      "name": "Q-bert 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "694cbfe4",
+      "md5": "e926be5b5c41c5bc1d001daf948f27ef",
+      "sha1": "ac67c459cb3910909ea6649b05355d56813d051b",
+      "sha256": "89d57bf308033ef17f770a80080cbeed2d112244635d5b5f860f2016398cd2f6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Q-bert%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Q-bert%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Q-bert%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

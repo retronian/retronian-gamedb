@@ -69,5 +69,109 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Crude Buster (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 1048576,
+      "crc32": "73f038ea",
+      "md5": "b588ac16069569b0af6896e78b247717",
+      "sha1": "d5493e6e68d18328a3296bee2c4b1c67a068d02c",
+      "sha256": "13d1de4afc6825ad9d5e02282f301eb77fd46386517d465e47b8d19a745bf6d8"
+    },
+    {
+      "name": "Crude Buster (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-13063-00",
+      "size": 1048576,
+      "crc32": "affb4b00",
+      "md5": "1b9cc19019765050293fad86215bead7",
+      "sha1": "9122ef0e920133449266cf437a87a110e0343425",
+      "sha256": "c9dcb1ebaf330da317174b79815689175fe3fd71b40e2b3c009f041f66e582f6"
+    },
+    {
+      "name": "Two Crude Dudes (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-13063-00",
+      "size": 1048576,
+      "crc32": "4ba361a7",
+      "md5": "4528ab579d527c36dedac7b738db4aa3",
+      "sha1": "5a386d3f2dd851339f40f2eec339bb5a09f6c3a5",
+      "sha256": "01c897cc8ec4e7e7f4862de676708404d16e6e4bd27377d8e924636cd9051488"
+    },
+    {
+      "name": "Two Crude Dudes (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1141",
+      "size": 1048576,
+      "crc32": "b6d90a10",
+      "md5": "716c52cde8c209d3c3abd54b9d00d132",
+      "sha1": "babf6ec6dac62e7563c4fe9cb278179dc4343ea4",
+      "sha256": "e514782222c6b97a4fc1b8bcea307e1b1910cb1be67daa6979a10adb4cd2432a"
+    },
+    {
+      "name": "Two Crude Dudes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-13026-00",
+      "size": 1048576,
+      "crc32": "721b5744",
+      "md5": "36f90726fa2158885d5265bb4b50c8ee",
+      "sha1": "e8c2faa0de6d370a889426b38538e75c264c4456",
+      "sha256": "ec81bd383a172e61221f84596d3303f8b8c946a417c851d03d75e3eb119bd4b6"
+    },
+    {
+      "name": "Two Crude Dudes (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-13026-00",
+      "size": 1048576,
+      "crc32": "58cc023c",
+      "md5": "3f201d36a3620c38a8a440188dee837f",
+      "sha1": "de1326aa947f16ba005d937b0c692a5ebb838ae2",
+      "sha256": "b3808d71cdcdc3163e6694ab12d60dfe9c1999a5edc5f95250d3dd0a8aa4ffa8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Two%20Crude%20Dudes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Two%20Crude%20Dudes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Two%20Crude%20Dudes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Two%20Crude%20Dudes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Two%20Crude%20Dudes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Two%20Crude%20Dudes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

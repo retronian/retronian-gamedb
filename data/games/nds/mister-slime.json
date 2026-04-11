@@ -36,5 +36,72 @@
     "wikidata": "Q6880303",
     "mobygames": 89155,
     "igdb": 21377
-  }
+  },
+  "roms": [
+    {
+      "name": "Mister Slime (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YS7E",
+      "size": 33554432,
+      "crc32": "0f04af82",
+      "md5": "6234efef84167832b710f8ff88c43c4d",
+      "sha1": "a5b404902847482f8685cc16691eadf1ef03085d"
+    },
+    {
+      "name": "Mr. Slime Jr. (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YS7P",
+      "size": 33554432,
+      "crc32": "4926cd75",
+      "md5": "c6f9a8605b2fbe2122ddeeebb5a97032",
+      "sha1": "6e86289684ddc2586a1bce66cc83b3f2c1868d66"
+    },
+    {
+      "name": "Mr. Slime Jr. (Germany)",
+      "source": "no_intro",
+      "serial": "YS7D",
+      "size": 33554432,
+      "crc32": "b07ac756",
+      "md5": "c4fb3c2aa45293cf19f5a4b2a46cd15e",
+      "sha1": "83a7a516d5810831a6623cb04932b3f8724918f9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mister%20Slime%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mister%20Slime%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mr.%20Slime%20Jr.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mr.%20Slime%20Jr.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mr.%20Slime%20Jr.%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mr.%20Slime%20Jr.%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

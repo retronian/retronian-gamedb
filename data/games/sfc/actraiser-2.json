@@ -71,5 +71,65 @@
     "wikidata": "Q2169654",
     "mobygames": 6797,
     "igdb": 7704
-  }
+  },
+  "roms": [
+    {
+      "name": "Actraiser 2 (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1572864,
+      "crc32": "630e16a1",
+      "md5": "177c67125038a6b0af1d5b47c9865e7e",
+      "sha1": "6cb1b7f7e904d4c1681647f10e3d1a89a44b89b6",
+      "sha256": "4088868318065603b185386334e6ece41e46af62bab729a766b98cf0cbce6a8a"
+    },
+    {
+      "name": "ActRaiser 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1572864,
+      "crc32": "4901f718",
+      "md5": "32cfe65f6dd6e4b58839729a3b1dbd60",
+      "sha1": "17c086f3418f7f51e5472270d756ec5112914b83",
+      "sha256": "71bdd448a30b88725864e55594ebb67a118b1f197a3f9e5dd39dbf23399efa15"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Actraiser%202%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Actraiser%202%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Actraiser%202%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/ActRaiser%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/ActRaiser%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/ActRaiser%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

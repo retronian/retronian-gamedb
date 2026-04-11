@@ -88,5 +88,56 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "BurgerTime (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "09a12136",
+      "md5": "47b1ebfd47e99e1e52ba87008a5a248d",
+      "sha1": "3efc145a140095c81f19310dd91bf24b805cd095",
+      "sha256": "5c577d67e38baf6ca49760ccda6a1a0b4368063e927f1daf80131ea29cbc9c82"
+    },
+    {
+      "name": "BurgerTime (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "1d3fa6af",
+      "md5": "d48df338cc9c0134b7415cf194feabb3",
+      "sha1": "3737eefc3c7b1934e929b551251cf1ea98f5f451",
+      "sha256": "4a1d493c65327711b5e054a681179813a3fabd351b03c309494e275799347ff1"
+    },
+    {
+      "name": "BurgerTime (World) (Evercade)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "3766a2f9",
+      "md5": "ae6e9b63dfea613f1dc3bea0e9094567",
+      "sha1": "884cd11da74f5effd42562fc45b21889c89a15c3",
+      "sha256": "e6362887253538024962cde6dbffec049d2876ec72efb48ff9999486e4eb78b1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/BurgerTime%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/BurgerTime%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/BurgerTime%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

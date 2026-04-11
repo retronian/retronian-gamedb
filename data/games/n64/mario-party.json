@@ -72,5 +72,96 @@
     "wikidata": "Q6507722",
     "mobygames": 3537,
     "igdb": 2327
-  }
+  },
+  "roms": [
+    {
+      "name": "Mario Party (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NLBP",
+      "size": 33554432,
+      "crc32": "da98a5d3",
+      "md5": "9773150709bd804b8e57e35f1d6b0eed",
+      "sha1": "d7ba071c220a71f5e4503e55c98c91ff8f027848",
+      "sha256": "48e6cbb83735ec4e4662866fa99cd6895da97a3b90814f5078bfabd132cbfb9a"
+    },
+    {
+      "name": "Mario Party (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CLBJ",
+      "size": 33554432,
+      "crc32": "4f1adc7b",
+      "md5": "3f556cc3b3a996cd2f471fa0d992d529",
+      "sha1": "37fd6d27f55c468dc36efb92a255f7ab04ffc0a8",
+      "sha256": "2fed99bec5458b07900bbc58cbacf0bbec46b3250ac35de00100310d7265c09d"
+    },
+    {
+      "name": "Mario Party (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CLBE",
+      "size": 33554432,
+      "crc32": "4d60abe5",
+      "md5": "8bc2712139fbf0c56c8ea835802c52dc",
+      "sha1": "1159bd56730094bfc71be30113e1cfc8bacf34f3",
+      "sha256": "ca4fb9605fff4884e9ba4319dfa23d96b7347ce88ffb8d04e6c25a3a9ff9ed6a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Party%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Party%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Party%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Party%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Party%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Party%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

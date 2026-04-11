@@ -72,5 +72,104 @@
     "wikidata": "Q933524",
     "mobygames": 4691,
     "igdb": 3573
-  }
+  },
+  "roms": [
+    {
+      "name": "Pilotwings 64 (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NPWP",
+      "size": 8388608,
+      "crc32": "c902e57c",
+      "md5": "3fcd4969f9a080bd2bcb913ec5d7a3bd",
+      "sha1": "fa4e0a1941eea83e09ca00197569e2464d70ecb0",
+      "sha256": "afe1c8ea27446b6dcf98d8eed92338db0031edf95419bccf4c95be292166fd84"
+    },
+    {
+      "name": "Pilotwings 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NPWJ",
+      "size": 8388608,
+      "crc32": "3d3a84a9",
+      "md5": "e8e6ec0692009009f5dca6827b21f59a",
+      "sha1": "892a5472d9a6811b881d093020de81f72baeeec9"
+    },
+    {
+      "name": "Pilotwings 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NPWE",
+      "size": 8388608,
+      "crc32": "728807e7",
+      "md5": "8b346182730ceaffe5e2ccf6d223c5ef",
+      "sha1": "ec771aedf54ee1b214c25404fb4ec51cfd43191a",
+      "sha256": "32e3056e854bda2e1d79ce5d050548ffcdef51003aacb0a0fd0328c70eff31b2"
+    },
+    {
+      "name": "Pilotwings 64 (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 8388608,
+      "crc32": "29fa9832",
+      "md5": "84ff2eb492778fdc3b734ad18bab38c6",
+      "sha1": "580d65f3d5cae595bf7c62456ff6ea60a4595798"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pilotwings%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Pilotwings%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Pilotwings%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pilotwings%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Pilotwings%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Pilotwings%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pilotwings%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Pilotwings%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Pilotwings%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

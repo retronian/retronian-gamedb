@@ -16,5 +16,65 @@
   "external_ids": {
     "wikidata": "Q120835123",
     "mobygames": 31644
-  }
+  },
+  "roms": [
+    {
+      "name": "Showtime Championship Boxing (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YSYP",
+      "size": 16777216,
+      "crc32": "b8ff2eee",
+      "md5": "f89106ff439a5d58013dcd8be20570f4",
+      "sha1": "66e46a2a24f15f48022598cc794ab42c38b488e3"
+    },
+    {
+      "name": "Showtime Championship Boxing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YSYE",
+      "size": 16777216,
+      "crc32": "bf0d969a",
+      "md5": "b136d585fd4da81c76a647c970c199cd",
+      "sha1": "8b2ecc04dacfb7f46030eb4090c2ef89bfa50a5f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Showtime%20Championship%20Boxing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Showtime%20Championship%20Boxing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Showtime%20Championship%20Boxing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Showtime%20Championship%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Showtime%20Championship%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Showtime%20Championship%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

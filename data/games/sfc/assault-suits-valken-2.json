@@ -71,5 +71,75 @@
   "external_ids": {
     "wikidata": "Q910467",
     "mobygames": 11879
-  }
+  },
+  "roms": [
+    {
+      "name": "Cybernator (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "f493414b",
+      "md5": "38aeb2459240fde2affcc5c498721985",
+      "sha1": "31030745abb1d407859a2184398c08868eae9658",
+      "sha256": "5d42cef66c529939b6038f4ecaf1aeb06acda2dabbf7bcf4e7203f3cb6b43f7a"
+    },
+    {
+      "name": "Cybernator (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "4dfa05b3",
+      "md5": "8376c1bfac08f6fbbf99f26abaee6da0",
+      "sha1": "f629deea9d7cf6903ba8a4b81da96624c0b056ab",
+      "sha256": "ad31b94ce928ecff605e2b89082154671691509e95d38370ed381437f2c36698"
+    },
+    {
+      "name": "Cybernator (USA) (Beta) (1992-11-xx)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "aca397e8",
+      "md5": "e92a796d08d2feb222277f16d110a6c8",
+      "sha1": "acc2b4c01e97b72a83fbb3f4db1bb2e4535ad864",
+      "sha256": "28cbbb0fcd0f3811b2fcceb162b8d87cc2b4e2578b73872a4c0deaaf7aa41f27"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Cybernator%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Cybernator%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Cybernator%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Cybernator%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Cybernator%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Cybernator%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

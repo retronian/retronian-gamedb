@@ -88,5 +88,90 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Donkey Kong (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "3fa5a4f7",
+      "md5": "7fe384b3246062793db416da08ce4b27",
+      "sha1": "40a5ba04660890a4e868033d44279cc994b55b6c",
+      "sha256": "57afa3645f3f485a32a8658184662d6c4e73fc26d489545731eb35c680ea2b5d"
+    },
+    {
+      "name": "Donkey Kong (World) (Rev 1)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "053014ff",
+      "md5": "decca1d26ece603a0f69a5834fb5ddda",
+      "sha1": "6f0ae51888043f04d8aaa8aab005b9b6ce1dfe81",
+      "sha256": "226c6f698f60b0a07157bd031004820789469884615fef7bdd862c3157e89d27"
+    },
+    {
+      "name": "Donkey Kong (World) (Rev 1) (Animal Crossing)",
+      "source": "no_intro",
+      "size": 40976,
+      "crc32": "69a711fd",
+      "md5": "b31689d31455c70c79c3213c0b03eec9",
+      "sha1": "cf3bfe452d89fe1b2ea715248178914b6512136e",
+      "sha256": "0d78bd0e7653887e4ce41752b0a0a869ac3844217e52b8ea72bd8da04450aee2"
+    },
+    {
+      "name": "Donkey Kong (USA) (Rev 1) (e-Reader)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "36bf9f65",
+      "md5": "43e6216d0b51ac66e7a51ac80fffc744",
+      "sha1": "cec1ae9719256efc266de9a7aa91c89fea766baf",
+      "sha256": "640001056dce19626c7242b61d56aa3dcdb0ade7f85a836bf5a5f15c67ece6a6"
+    },
+    {
+      "name": "Donkey Kong (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "3ee94fd3",
+      "md5": "d2a63e2c501a714650cac36ef662b8ea",
+      "sha1": "8202320b27333ce0b23b4b694cf60d8a927401b7",
+      "sha256": "c8a223ef80d98c1ac59c6d9bb88ea54ad72ad7c622a1d3d7f8234dd579e170fa"
+    },
+    {
+      "name": "Donkey Kong (Asia) (En) (Whirlwind Manu) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "d02c08a9",
+      "md5": "7257e3aeb8e7802b013d4d867b3c6382",
+      "sha1": "74fd169ee162f0240b2eecdd7e81af47f1f97633",
+      "sha256": "4886ddc69ee756961b29cb2e8651b333a8ddf522366c565a3746c926839fec0a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Donkey%20Kong%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Donkey%20Kong%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Donkey%20Kong%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Donkey%20Kong%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Donkey%20Kong%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

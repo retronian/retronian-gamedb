@@ -53,5 +53,37 @@
   "external_ids": {
     "wikidata": "Q88240",
     "mobygames": 10257
-  }
+  },
+  "roms": [
+    {
+      "name": "720 Degrees (USA, Europe) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e633841f",
+      "md5": "221a0e464f5f0c3d38494939b1765a24",
+      "sha1": "78c0117c8ee32cfa605ac34eedf707cc535b3987",
+      "sha256": "f66a6c521c706bf3bf4536731becacf1336a711bd40658d853646cd6b20fdb2b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/720%20Degrees%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/720%20Degrees%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/720%20Degrees%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -27,5 +27,65 @@
     "wikidata": "Q3979837",
     "mobygames": 3949,
     "igdb": 8672
-  }
+  },
+  "roms": [
+    {
+      "name": "TV Sports Basketball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "ea54d653",
+      "md5": "36da17b2e751ec8660bb12f9cb2eb6b2",
+      "sha1": "6c0fdeafa9dc1c4b7f935866e5bc620dd3151f3c",
+      "sha256": "0b622f12a9d2218ef84461f316c9ffacb020e5a552ec93dc47b9b07b1aefe7e0"
+    },
+    {
+      "name": "TV Sports Basketball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "10b60601",
+      "md5": "6bfe35219d3e479489befb2921a5ea7b",
+      "sha1": "a4b8766db8acc6e8f76772b278609f80e55af67f",
+      "sha256": "36e2486ca9fc4804a6618ce4d04bd8febea213336874d7054b15612cd8071b69"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/TV%20Sports%20Basketball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/TV%20Sports%20Basketball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/TV%20Sports%20Basketball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/TV%20Sports%20Basketball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/TV%20Sports%20Basketball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/TV%20Sports%20Basketball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -81,5 +81,61 @@
     "wikidata": "Q2564684",
     "mobygames": 5547,
     "igdb": 1089
-  }
+  },
+  "roms": [
+    {
+      "name": "Donkey Kong (Japan, USA) (En) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "edab3378",
+      "md5": "60e55697da19bb160316ec290a7a7437",
+      "sha1": "6ed661bd1d6d8cdd48e1c10f8ca4e8dcba49128e",
+      "sha256": "2781f6b1014336e3318073f162cadd970329c8148fc62b5e795441cd6fd57051"
+    },
+    {
+      "name": "Donkey Kong (World) (Rev 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "size": 524288,
+      "crc32": "f777a5d8",
+      "md5": "4859ec2b18c4fabf489eb570c1d7d326",
+      "sha1": "397ad2ff25627b83e02c71b54c72bb4deb39e0c0",
+      "sha256": "b490c89efe718633b07381def66ce0ed58a5075aabe40c6e644baf2b408a76f4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Donkey%20Kong%20%28Japan%2C%20USA%29%20%28En%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Donkey%20Kong%20%28Japan%2C%20USA%29%20%28En%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Donkey%20Kong%20%28Japan%2C%20USA%29%20%28En%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Donkey%20Kong%20%28World%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Donkey%20Kong%20%28World%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Donkey%20Kong%20%28World%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

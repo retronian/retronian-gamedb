@@ -54,5 +54,47 @@
     "wikidata": "Q3196442",
     "mobygames": 44773,
     "igdb": 15220
-  }
+  },
+  "roms": [
+    {
+      "name": "Imperium (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "2624f8bd",
+      "md5": "c98c3f1b998dfbe2fa17fbc7e69834c9",
+      "sha1": "ca8add81d1b3f0bfdb46d21af6217d47dcde1e64",
+      "sha256": "4dc2b5de98e9109583d9b61b38d26a8216af4dba246ef71350122213630562d0"
+    },
+    {
+      "name": "Imperium (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "2c4b9492",
+      "md5": "5def1a9cdcf4fa129364fe5d2c13e2c3",
+      "sha1": "bf4c617f7fd407847ad72cb7f843dee620180e33",
+      "sha256": "b764711e56cc106c79a9405135992e762344e1fb450cb1774bbbd284a4c789e7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Imperium%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Imperium%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Imperium%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

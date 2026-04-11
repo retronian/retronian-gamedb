@@ -69,5 +69,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Battle Formula (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "90f46294",
+      "md5": "414d9bde879ae15bf64458997220df5c",
+      "sha1": "4cad8f4f1bf1c8ed63e73bf8aeda9ba25184dde6",
+      "sha256": "b9f5b970af30622821b0c1c108e7b5043581d06ae2cd32d833467cd5b3818390"
+    },
+    {
+      "name": "Super Spy Hunter (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "ba7f29cc",
+      "md5": "0c74b1d69df0cb8c19e0439c40de401c",
+      "sha1": "f584dd720941dcb7a94337fdec3ae8c1ed589d1c",
+      "sha256": "c22095c2f1e8f6516587882deaa06f5c266eb64602093ab7bc66bd70fb53639a"
+    },
+    {
+      "name": "Super Spy Hunter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "10f8a664",
+      "md5": "d5b1a95d8d8da10ef638d1a3d050ae67",
+      "sha1": "e1408b9f814bceeb3cd12c9df3e7bd2d47adaaab",
+      "sha256": "f01d6e59d07b5426965d79eb6dc356c3b2ce3f0d6ec7319a1431dd219f99e265"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Spy%20Hunter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Spy%20Hunter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Spy%20Hunter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Spy%20Hunter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Spy%20Hunter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Spy%20Hunter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

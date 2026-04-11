@@ -71,5 +71,77 @@
     "wikidata": "Q5388987",
     "mobygames": 32903,
     "igdb": 20677
-  }
+  },
+  "roms": [
+    {
+      "name": "QuickSpot (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AM7E",
+      "size": 33554432,
+      "crc32": "ecbb6925",
+      "md5": "18474f18ae07c76285d8444db3d1121a",
+      "sha1": "14aee4ed06163604d18a63987b5819cebd8162eb"
+    },
+    {
+      "name": "Unou no Tatsujin - Soukai! Machigai Museum (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AM7J",
+      "size": 33554432,
+      "crc32": "9dee267e",
+      "md5": "dddfa1ca75cf3b11a6d4d6e13ad2287d",
+      "sha1": "09ad0ee19279c7cb1ecc3bf0e3f9c07e7ea870dd",
+      "sha256": "b8afca06b40cdbf106bd3999a019451fe1a37154ede55e00725115719bd5b31d"
+    },
+    {
+      "name": "Unou no Tatsujin - Soukai! Machigai Museum (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AM7J",
+      "size": 33554432,
+      "crc32": "9c4fe69d",
+      "md5": "48c8101631d14da7c89d4ad9255bd3ea",
+      "sha1": "f7660c56e932431acd84cc29984f5b828f308be1",
+      "sha256": "b4c285268d95314e05ade2a88ffdf7a1d96ea80eefecc500a9c216b336009473"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/QuickSpot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/QuickSpot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/QuickSpot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Unou%20no%20Tatsujin%20-%20Soukai%21%20Machigai%20Museum%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Unou%20no%20Tatsujin%20-%20Soukai%21%20Machigai%20Museum%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Unou%20no%20Tatsujin%20-%20Soukai%21%20Machigai%20Museum%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

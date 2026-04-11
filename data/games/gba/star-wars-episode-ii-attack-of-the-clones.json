@@ -45,5 +45,65 @@
     "wikidata": "Q54844",
     "mobygames": 6560,
     "igdb": 18951
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars - Episode II - Attack of the Clones (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AS2E",
+      "size": 8388608,
+      "crc32": "8fb5e2c6",
+      "md5": "f0d3e68e554e44d1df20a16359f13f5f",
+      "sha1": "f02f2a1246d593582436eeba4090f4048671079a"
+    },
+    {
+      "name": "Star Wars - Episode II - Attack of the Clones (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AS2X",
+      "size": 8388608,
+      "crc32": "c492c46d",
+      "md5": "61aa3eabb062688c15ce723546dfc0e8",
+      "sha1": "469d32d6f0ec58f71cdf120bc85b9f18c04fd396"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

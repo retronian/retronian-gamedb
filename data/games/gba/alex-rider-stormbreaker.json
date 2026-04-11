@@ -18,5 +18,66 @@
     "wikidata": "Q4717686",
     "mobygames": 43980,
     "igdb": 2848
-  }
+  },
+  "roms": [
+    {
+      "name": "Alex Rider - Stormbreaker (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BAWE",
+      "size": 4194304,
+      "crc32": "cca55dfd",
+      "md5": "4b5aee04f0f61c5ef9343524bd2ac1d4",
+      "sha1": "e9ba9d340701173ccd3a4d279630e1541ed96a73",
+      "sha256": "16117cd914b7088936c827cdeb7dbe5be382148a77add40fdd1c6a63f9667f98"
+    },
+    {
+      "name": "Alex Rider - Stormbreaker (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BAWX",
+      "size": 4194304,
+      "crc32": "25e8e2cd",
+      "md5": "864d9a4e885f1f32a9072a606c739006",
+      "sha1": "659dbde917fc74d1cec3e41d1fb4cdd249ae04a0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Alex%20Rider%20-%20Stormbreaker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Alex%20Rider%20-%20Stormbreaker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Alex%20Rider%20-%20Stormbreaker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Alex%20Rider%20-%20Stormbreaker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Alex%20Rider%20-%20Stormbreaker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Alex%20Rider%20-%20Stormbreaker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

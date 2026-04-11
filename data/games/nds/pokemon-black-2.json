@@ -80,5 +80,61 @@
     "wikidata": "Q11294161",
     "mobygames": 59629,
     "igdb": 8284
-  }
+  },
+  "roms": [
+    {
+      "name": "Pocket Monsters - Black 2 (Japan) (Rev 1) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "IREJ",
+      "size": 536870912,
+      "crc32": "29c68b2b",
+      "md5": "ecc64d4b1d9d9d161d55ecb23db6fa64",
+      "sha1": "c55fe4412427e63ef28186af53ec114c7fdd9a0a"
+    },
+    {
+      "name": "Pocket Monsters - Black 2 (Korea) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "IREK",
+      "size": 536870912,
+      "crc32": "9928fd8d",
+      "md5": "825feed961b50a9cac3f77d6e127028d",
+      "sha1": "19f99e4f0b7babdb98e3ece9c230c5b51d51170a",
+      "sha256": "e9299ea8715f25850f4cc562875849ff82f73da505e95735fadb5dd1e31639dc"
+    },
+    {
+      "name": "Pokemon - Versione Nera 2 (Italy) (NDSi Enhanced)",
+      "source": "no_intro",
+      "serial": "IREI",
+      "size": 536870912,
+      "crc32": "91e863e7",
+      "md5": "1d5dc87bf37697311d8a3ef53ae2682e",
+      "sha1": "68ec308db75d470f3c1499cc04117fe68fb4e942"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pocket%20Monsters%20-%20Black%202%20%28Japan%29%20%28Rev%201%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pocket%20Monsters%20-%20Black%202%20%28Japan%29%20%28Rev%201%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20-%20Versione%20Nera%202%20%28Italy%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20-%20Versione%20Nera%202%20%28Italy%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

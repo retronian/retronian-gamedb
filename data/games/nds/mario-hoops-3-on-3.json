@@ -81,5 +81,113 @@
     "wikidata": "Q2318304",
     "mobygames": 24103,
     "igdb": 3988
-  }
+  },
+  "roms": [
+    {
+      "name": "Mario Hoops 3 on 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AB3E",
+      "size": 67108864,
+      "crc32": "dc181c6e",
+      "md5": "16026ca004779c5a01be80fcbe2ed5c6",
+      "sha1": "576b9f97a5c570f80eb5faf8fa771b7da004917a"
+    },
+    {
+      "name": "Mario Hoops 3 on 3 (USA) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "WUP-N-DA2E",
+      "size": 67108864,
+      "crc32": "b6a610a3",
+      "md5": "ad0c68c53a226b46d96d33f1ff848f90",
+      "sha1": "12aff374e65cd8a600a972a4ea055404a288a454"
+    },
+    {
+      "name": "Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AB3P",
+      "size": 67108864,
+      "crc32": "84473caf",
+      "md5": "2412d5bc03b4daeb0dd85413faa01957",
+      "sha1": "17f23d8664724282c8994f1afc46a6f60cd019bd"
+    },
+    {
+      "name": "Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "WUP-N-DA2P",
+      "size": 67108864,
+      "crc32": "cca7f463",
+      "md5": "18de55bd734bb91d50b83d62876ecbe9",
+      "sha1": "41fce7aee390a98f9ebabf4e49e6e10c3a222298"
+    },
+    {
+      "name": "Mario Slam Basketball (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "Y2FP",
+      "size": 67108864,
+      "crc32": "6a5a3edd",
+      "md5": "0530d3f26eb6ca048db3f4deb2f7107e",
+      "sha1": "f28ca56f352c32406371214cb242608261a08b90"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mario%20Hoops%203%20on%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mario%20Hoops%203%20on%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mario%20Hoops%203%20on%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mario%20Slam%20Basketball%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mario%20Slam%20Basketball%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mario%20Slam%20Basketball%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mario%20Slam%20Basketball%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mario%20Slam%20Basketball%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mario%20Slam%20Basketball%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

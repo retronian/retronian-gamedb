@@ -89,5 +89,93 @@
     "wikidata": "Q2440904",
     "mobygames": 7020,
     "igdb": 9064
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Adventure Island (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "9a8618d6",
+      "md5": "947f2b011533f99fe33fd2acffd35875",
+      "sha1": "5b7485df4eb9e9198e972fd2377fc7bde826381c",
+      "sha256": "5f6a5a14a147f3d7a271922a113698a41194c6391c5771338cd322c60096636f"
+    },
+    {
+      "name": "Super Adventure Island (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "dcd46848",
+      "md5": "206e6c5c05ac1a83dde21400325a4a7d",
+      "sha1": "74a3671878b1d7c8b3fd5a14677c16b2d5566af0",
+      "sha256": "190999122aacc2cff20c5677b3f60ed938d8a36b696d16cc1bf416705efe151e"
+    },
+    {
+      "name": "Takahashi Meijin no Daibouken-jima (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "37c0ae76",
+      "md5": "5b2a83d6727c4e19192af2878654d301",
+      "sha1": "090742859b1f8ca6077bee80855b53ffda4c0fa1",
+      "sha256": "898bf4598a129c15b12d175c741a6e53e865cbe6a82d1e5882f40a308dd2f746"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Adventure%20Island%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Adventure%20Island%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Adventure%20Island%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Adventure%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Adventure%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Adventure%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Takahashi%20Meijin%20no%20Daibouken-jima%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Takahashi%20Meijin%20no%20Daibouken-jima%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Takahashi%20Meijin%20no%20Daibouken-jima%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

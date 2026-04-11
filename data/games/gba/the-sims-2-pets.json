@@ -17,5 +17,66 @@
   "external_ids": {
     "wikidata": "Q97315277",
     "igdb": 192108
-  }
+  },
+  "roms": [
+    {
+      "name": "Sims 2, The - Pets (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B4OE",
+      "size": 33554432,
+      "crc32": "ec1f4029",
+      "md5": "1d1bb23346b8a9592316a63647c70d76",
+      "sha1": "2e95efa31441f7effaf4dd5f9db97143ca53232d"
+    },
+    {
+      "name": "Sims 2, The - Pets (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B4OX",
+      "size": 33554432,
+      "crc32": "87f8599c",
+      "md5": "58180e01eae5278b9a8dc355d80d21cd",
+      "sha1": "c708fb879bd42407f06441258ff5fe4cf733fb68",
+      "sha256": "ff7ba5c9a372373cf2c223fb87b00ddb8d1f3914a077c96076db1f594e4c0d9f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sims%202%2C%20The%20-%20Pets%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sims%202%2C%20The%20-%20Pets%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sims%202%2C%20The%20-%20Pets%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sims%202%2C%20The%20-%20Pets%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sims%202%2C%20The%20-%20Pets%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sims%202%2C%20The%20-%20Pets%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -27,5 +27,65 @@
     "wikidata": "Q7354209",
     "mobygames": 44187,
     "igdb": 146679
-  }
+  },
+  "roms": [
+    {
+      "name": "Rock'em Sock'em Robots (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BR7E",
+      "size": 4194304,
+      "crc32": "c8896c62",
+      "md5": "567b56a215ff295aca69ac85c4f08273",
+      "sha1": "77cde5839dd0dbec2dfda4062caab969b7308672"
+    },
+    {
+      "name": "Rock'em Sock'em Robots (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BR7P",
+      "size": 4194304,
+      "crc32": "6ad6e952",
+      "md5": "5539d5a40407f017fe2999663fe919d5",
+      "sha1": "841ac8ff060ad9634e5407cd599f0d0e49630894"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rock%27em%20Sock%27em%20Robots%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rock%27em%20Sock%27em%20Robots%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rock%27em%20Sock%27em%20Robots%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rock%27em%20Sock%27em%20Robots%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rock%27em%20Sock%27em%20Robots%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rock%27em%20Sock%27em%20Robots%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

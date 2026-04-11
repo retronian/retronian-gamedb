@@ -63,5 +63,75 @@
     "wikidata": "Q845162",
     "mobygames": 50741,
     "igdb": 6516
-  }
+  },
+  "roms": [
+    {
+      "name": "Radiant Historia (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BRJJ",
+      "size": 134217728,
+      "crc32": "b333c5f5",
+      "md5": "dc1850f9a57e5372d174eec53c30307a",
+      "sha1": "bd4baa5bc32bf4c1d2e178b9bc73ff8c75716ded"
+    },
+    {
+      "name": "Radiant Historia (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BRJE",
+      "size": 134217728,
+      "crc32": "b5a16bbf",
+      "md5": "16983bdc96742e1abb27340040d8f2aa",
+      "sha1": "fa6d2b0e786ed196a911e9036e86d55027cf0fe2"
+    },
+    {
+      "name": "Radiant Historia (Japan) (En,Ja) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 134217728,
+      "crc32": "0424efa3",
+      "md5": "d9929fe2f1139e5124fd9e749e9ac750",
+      "sha1": "0d30f8a21ee1942d498ed4a62b1bea262f36ba82",
+      "sha256": "d06a8e24383694a654fb5b91019fff8541aea94778e8d3dc0c3d9b0d86721de7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Radiant%20Historia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Radiant%20Historia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Radiant%20Historia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Radiant%20Historia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Radiant%20Historia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Radiant%20Historia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

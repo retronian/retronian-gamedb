@@ -63,5 +63,70 @@
     "wikidata": "Q634293",
     "mobygames": 361,
     "igdb": 4415
-  }
+  },
+  "roms": [
+    {
+      "name": "Magic Carpet (Germany)",
+      "source": "no_intro",
+      "size": 85100656,
+      "crc32": "f0d8b730",
+      "md5": "3588f09f6f84004206cb34795e23604a",
+      "sha1": "132f1ddd3f8f9b025dfbca8e5e81e42a76ce6e55"
+    },
+    {
+      "name": "Magic Carpet (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 156096736,
+      "crc32": "1ce12458",
+      "md5": "f384c78334a6dee04cecdd89119d4dc6",
+      "sha1": "61449df20b4424d53a33f76550f20997ccdcf0fa"
+    },
+    {
+      "name": "Magic Carpet (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 87465696,
+      "crc32": "48ffe533",
+      "md5": "bd68a548ad2ae03b4848614090fe2415",
+      "sha1": "a7b7bc1f2652df244279b4bd2099a578aba3bfff",
+      "sha256": "9448c476063a67ce4bc1baba1c09f5570cf2994816c68f48792d91a1a9280804"
+    },
+    {
+      "name": "Magic Carpet (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 84940720,
+      "crc32": "4a0cf8f8",
+      "md5": "1f0f264f51138d8ad1e39e5b5cd83025",
+      "sha1": "add0bba24a5eeba99269a146715eaa886a00e058",
+      "sha256": "ead8297556b4bef3dd328b57a1c3e528e01713d78645a7a863a87232b9d0a4fe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Magic%20Carpet%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Magic%20Carpet%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Magic%20Carpet%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Magic%20Carpet%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

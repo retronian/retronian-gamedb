@@ -89,5 +89,46 @@
     "wikidata": "Q796510",
     "mobygames": 4521,
     "igdb": 1280
-  }
+  },
+  "roms": [
+    {
+      "name": "Breath of Fire IV (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 238223840,
+      "crc32": "a31e69ee",
+      "md5": "e91a5f8ec50e271d26d617c7992e4369",
+      "sha1": "96983d31e5c6cce60d21d087a6ffd0ada000e0d7",
+      "sha256": "da57f6fc35fc6d9e1862a7193ecbf9e9e904a2098f62fa9c0cfc0de94123147b"
+    },
+    {
+      "name": "Breath of Fire IV (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 215925104,
+      "crc32": "d114ad40",
+      "md5": "726d8138f63dbc515314bcfc4b8f00b4",
+      "sha1": "9670ba7da6479d0e90f8015cc4a015940fd4ed4b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Breath%20of%20Fire%20IV%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Breath%20of%20Fire%20IV%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Breath%20of%20Fire%20IV%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

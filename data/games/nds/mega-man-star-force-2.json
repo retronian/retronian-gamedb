@@ -47,11 +47,81 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Mega Man Star Force 2: Zerker x Saurian",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2007-11-22",
   "external_ids": {
     "wikidata": "Q3234598",
-    "igdb": 1784
-  }
+    "igdb": 1784,
+    "mobygames": 35091
+  },
+  "roms": [
+    {
+      "name": "Mega Man Star Force 2 - Zerker x Saurian (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YRWE",
+      "size": 33554432,
+      "crc32": "1e6c4b77",
+      "md5": "907eece95d49379e6f3b95c17bca4344",
+      "sha1": "494171c0fc19823beb5fcc7c0d61f028c97898ca"
+    },
+    {
+      "name": "Mega Man Star Force 2 - Zerker x Saurian (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YRWP",
+      "size": 33554432,
+      "crc32": "1b13922f",
+      "md5": "1f839e1644f0c40915f6e76ebf2fe61e",
+      "sha1": "61191e3fbd9eac3d9e2e68906041f3a765ddac03"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20Star%20Force%202%20-%20Zerker%20x%20Saurian%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mega%20Man%20Star%20Force%202%20-%20Zerker%20x%20Saurian%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20Star%20Force%202%20-%20Zerker%20x%20Saurian%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20Star%20Force%202%20-%20Zerker%20x%20Saurian%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mega%20Man%20Star%20Force%202%20-%20Zerker%20x%20Saurian%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20Star%20Force%202%20-%20Zerker%20x%20Saurian%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

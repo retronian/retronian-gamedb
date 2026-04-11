@@ -38,6 +38,15 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Money Game, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1988-08-10",
@@ -45,5 +54,44 @@
     "wikidata": "Q7751991",
     "mobygames": 54513,
     "igdb": 48770
-  }
+  },
+  "descriptions": [
+    {
+      "text": "ザ マネーゲームは、1988年にソフェルからファミコン向けにリリースされた、株式市場の取引と財務成長をシミュレートするゲームです。プレイヤーは1,000,000円からスタートし、賢く投資して生活環境を小さなアパートからプール付きの豪邸へとアップグレードする必要があります。ゲームには仮想の新聞、電話、コンピュータが搭載されており、日本語の読み書きが求められます。金利、為替、そして車を購入したりデートをしたりするなどの人間関係の管理がゲームプレイに影響を与えます。成功すると結婚や子供が生まれますが、失敗すると不適切な投資判断によって「ゲームオーバー」となります。このゲームは続編のウォールストリートキッドを生み出しましたが、その後は他のスタンドアロンの株式市場ゲームは登場しませんでした。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Money Game, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 163856,
+      "crc32": "f5014d25",
+      "md5": "10472e36965b6e08d401ed60c6d7f9c4",
+      "sha1": "26f61f9e116738124bc49400dd643673a2b07ac9",
+      "sha256": "f5b11fc474b8dd9e6751b6c4e73a9a65769e43b395620982cea1f19e54208f1f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Money%20Game%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Money%20Game%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Money%20Game%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

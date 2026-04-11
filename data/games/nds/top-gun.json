@@ -27,5 +27,93 @@
     "wikidata": "Q56702800",
     "mobygames": 78928,
     "igdb": 22913
-  }
+  },
+  "roms": [
+    {
+      "name": "Top Gun (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "APGJ",
+      "size": 16777216,
+      "crc32": "2d8c12de",
+      "md5": "70a56a084ab002b9504032fa675f0729",
+      "sha1": "97e4f40bca9243ea56a85a3b984631df96f5d2d0"
+    },
+    {
+      "name": "Top Gun (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APGE",
+      "size": 16777216,
+      "crc32": "f4c62f67",
+      "md5": "c29d1f0e9479b0d56a6f58f354b43511",
+      "sha1": "089922ea592638e0bf0217c021c65ed727171334"
+    },
+    {
+      "name": "Top Gun (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "APGP",
+      "size": 16777216,
+      "crc32": "b41d8ec9",
+      "md5": "830f3d1215d2caaebdd8d3b3e5eb9f29",
+      "sha1": "3c9871097ff92b280c47a1b221bd890acb87b426"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Top%20Gun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Top%20Gun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Top%20Gun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Top%20Gun%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Top%20Gun%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Top%20Gun%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Top%20Gun%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Top%20Gun%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Top%20Gun%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

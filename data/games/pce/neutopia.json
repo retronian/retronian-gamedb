@@ -70,5 +70,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Neutopia (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "a9a94e1b",
+      "md5": "eb0789088fc70be42b2f994c1b66be21",
+      "sha1": "95d5fdbd6c9d6da2f288312309c2badd92f89cf4",
+      "sha256": "f64585688d0d8b1173c67c4719e16f16f40defa7b1009c3c35063fc5f634b8b7"
+    },
+    {
+      "name": "Neutopia (USA, Europe) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "811259e5",
+      "md5": "6c521ec727a175fba00ec0b6f21e3a0d",
+      "sha1": "11654c9a8a91cb427ba9fbca8e946b7eccffa96d",
+      "sha256": "81236385c5f51e14cccfbc535403ce459454f11ecff222e0cc0bfc76143a2fad"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Neutopia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Neutopia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Neutopia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Neutopia%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Neutopia%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Neutopia%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

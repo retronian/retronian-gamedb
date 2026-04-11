@@ -18,5 +18,65 @@
     "wikidata": "Q5750391",
     "mobygames": 61183,
     "igdb": 2819
-  }
+  },
+  "roms": [
+    {
+      "name": "Hi Hi Puffy AmiYumi - Kaznapped! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BHHE",
+      "size": 8388608,
+      "crc32": "e613aa43",
+      "md5": "80648fa0cb4fbf49a68c810fc64edaaa",
+      "sha1": "517e513bd1659749bfbab3d335df83a2838ee789"
+    },
+    {
+      "name": "Hi Hi Puffy AmiYumi - Kaznapped! (Europe) (En,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BHHP",
+      "size": 8388608,
+      "crc32": "e5531d04",
+      "md5": "fa70bac809f1801f26472a023330e1dc",
+      "sha1": "4060be81c5a0bc741d759f75cd83823106e5b6b9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hi%20Hi%20Puffy%20AmiYumi%20-%20Kaznapped%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hi%20Hi%20Puffy%20AmiYumi%20-%20Kaznapped%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hi%20Hi%20Puffy%20AmiYumi%20-%20Kaznapped%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hi%20Hi%20Puffy%20AmiYumi%20-%20Kaznapped%21%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hi%20Hi%20Puffy%20AmiYumi%20-%20Kaznapped%21%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hi%20Hi%20Puffy%20AmiYumi%20-%20Kaznapped%21%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

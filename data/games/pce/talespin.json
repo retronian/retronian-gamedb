@@ -49,10 +49,42 @@
       "verified": false
     }
   ],
-  "first_release_date": "1991-12-31",
+  "first_release_date": "1991-01-01",
   "external_ids": {
     "wikidata": "Q2495930",
     "mobygames": 10048,
     "igdb": 145182
-  }
+  },
+  "roms": [
+    {
+      "name": "TaleSpin (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "bae9cecc",
+      "md5": "729f10adbf2b8b90d62ce79a7e48c8d1",
+      "sha1": "987d16a0f329fc6831fc9b6dea1234684925aab4",
+      "sha256": "f611542440d6a3302d73170a52829f248fe34dfb4a794a7f29498a623294d44c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/TaleSpin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/TaleSpin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/TaleSpin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

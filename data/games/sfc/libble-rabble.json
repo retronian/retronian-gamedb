@@ -54,5 +54,46 @@
     "wikidata": "Q6540403",
     "mobygames": 58495,
     "igdb": 37945
-  }
+  },
+  "roms": [
+    {
+      "name": "Libble Rabble (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "6160829b",
+      "md5": "a683932fae8c63f0debf7893191f63c3",
+      "sha1": "1916537fa72e7692d7225c4efc18920a048b1bfc",
+      "sha256": "0f5642dc01f54fe0ebae9af13d8023fa01d5af387777cbf2bf1c56e7403fcf1d"
+    },
+    {
+      "name": "Libble Rabble (World) (Evercade)",
+      "source": "no_intro",
+      "size": 524288,
+      "crc32": "dabc86fb",
+      "md5": "ed72fc0639ae65b00c312dca7bc594db",
+      "sha1": "d9442fc8711ae64e0aa07712822a73296838d199",
+      "sha256": "c6c04bfc7c9fa296426b9ecc5e4c876ef7151425d3e0b77225b4e62a0f7c1c7d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Libble%20Rabble%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Libble%20Rabble%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Libble%20Rabble%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

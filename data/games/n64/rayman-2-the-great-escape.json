@@ -72,5 +72,67 @@
     "wikidata": "Q2292393",
     "mobygames": 2182,
     "igdb": 843
-  }
+  },
+  "roms": [
+    {
+      "name": "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NY2P",
+      "size": 33554432,
+      "crc32": "169a5037",
+      "md5": "5dbbfd5ace8222fa8fe51be113453c13",
+      "sha1": "619ab27ea1645399439ad324566361d3e7ff020e",
+      "sha256": "c80b063de6afe80bb47281efe76406654070e942d5a733fee2668c8e11a2581b"
+    },
+    {
+      "name": "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NY2E",
+      "size": 33554432,
+      "crc32": "02bb4409",
+      "md5": "03aa4d09fde77eed9b95be68e603d233",
+      "sha1": "50558356b059ad3fbaf5fe95380512b9dceaaf52",
+      "sha256": "e9a71380b43e25b998f638480b309e300ad9b8a0439ff36e0a8b5fc4ac132e8a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rayman%202%20-%20The%20Great%20Escape%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rayman%202%20-%20The%20Great%20Escape%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rayman%202%20-%20The%20Great%20Escape%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rayman%202%20-%20The%20Great%20Escape%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rayman%202%20-%20The%20Great%20Escape%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rayman%202%20-%20The%20Great%20Escape%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

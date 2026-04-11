@@ -56,6 +56,33 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "ロックマンエグゼ5DS ツインリーダーズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Mega Man Battle Network 5: Double Team DS",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Mega Man Battle Network 5: Double Team DS",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2004-12-09",
@@ -63,5 +90,65 @@
     "wikidata": "Q2877093",
     "mobygames": 20868,
     "igdb": 124791
-  }
+  },
+  "roms": [
+    {
+      "name": "Mega Man Battle Network 5 - Double Team DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A5TE",
+      "size": 33554432,
+      "crc32": "16f03f13",
+      "md5": "339f0cf5c7b0e1e243c66f40fc7159bc",
+      "sha1": "251ac54ed93e680a64b2fc51f2b806d6b768acfc"
+    },
+    {
+      "name": "Mega Man Battle Network 5 - Double Team DS (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A5TP",
+      "size": 67108864,
+      "crc32": "d239e4e7",
+      "md5": "d55e6f08d7e650efad356360db6f5795",
+      "sha1": "d63757debbd38501288caa136ea21c053991059f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20Battle%20Network%205%20-%20Double%20Team%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mega%20Man%20Battle%20Network%205%20-%20Double%20Team%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20Battle%20Network%205%20-%20Double%20Team%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20Battle%20Network%205%20-%20Double%20Team%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mega%20Man%20Battle%20Network%205%20-%20Double%20Team%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20Battle%20Network%205%20-%20Double%20Team%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

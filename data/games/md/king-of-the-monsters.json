@@ -65,6 +65,33 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "King of the Monsters 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "King of the Monsters 2: The Next Thing",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "King of the Monsters 2: The Next Thing",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1991-01-01",
@@ -78,6 +105,126 @@
       "text": "キング・オブ・ザ・モンスターズは、2人プレイヤー（または1人プレイヤー対コンピュータ）の対戦型ゲームで、プレイヤーは2体の巨大なモンスター（ゴジラのような）を操り、さまざまな都市のロケーションで戦います。\n\n戦いが進むにつれて、都市は徐々に破壊されていきます。プレイヤーはボートなどのオブジェクトを拾い上げて、他のプレイヤーに対する武器として使用することで、景観とインタラクトすることもできます。",
       "lang": "ja",
       "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "King of the Monsters (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4104-00",
+      "size": 1048576,
+      "crc32": "3af7e74e",
+      "md5": "69f1b273f695032f0b542421928e8e9a",
+      "sha1": "119557b565e1246ce68c2e6bc18074ae9b69874d",
+      "sha256": "e3b80de0749ff830e986bfd8eab51f1d84d306c24fabe25f78066508395980fc"
+    },
+    {
+      "name": "King of the Monsters (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1086-50",
+      "size": 1048576,
+      "crc32": "7a94fd49",
+      "md5": "11e05717321fa42f7c66d20613c1d51d",
+      "sha1": "46dc75f1e4d79fd159fcb4a256881375b63d9a2b",
+      "sha256": "a71c52f9ea6e55fac235f7a96f1e609c5cfd96baee67cd1740481275104675f1"
+    },
+    {
+      "name": "King of the Monsters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-103026-00",
+      "size": 1048576,
+      "crc32": "f390d406",
+      "md5": "f3bc95d05f6290a3dceea499b3bba094",
+      "sha1": "b88555b50b12f7d9470e5a9870882ca38100342c",
+      "sha256": "4dfbe3064c3d683f3f31cb1253b970e18e146953f98abb25e1b201815cb2d217"
+    },
+    {
+      "name": "King of the Monsters 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-103056-00",
+      "size": 2097152,
+      "crc32": "ee1638ac",
+      "md5": "65ee5a29e73a4c5c62da5da6920ed4d8",
+      "sha1": "9fa2d329ea443b3e030206fd64d7faa7778d492d",
+      "sha256": "465726a227b1e98b12789f4413e330f0b450d16582d4743da6afdb547e6c84f1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/King%20of%20the%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/King%20of%20the%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/King%20of%20the%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/King%20of%20the%20Monsters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/King%20of%20the%20Monsters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/King%20of%20the%20Monsters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/King%20of%20the%20Monsters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/King%20of%20the%20Monsters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/King%20of%20the%20Monsters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/King%20of%20the%20Monsters%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/King%20of%20the%20Monsters%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/King%20of%20the%20Monsters%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
     }
   ]
 }

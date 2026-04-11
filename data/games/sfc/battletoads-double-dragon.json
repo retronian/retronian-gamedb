@@ -54,5 +54,75 @@
     "wikidata": "Q2532676",
     "mobygames": 6154,
     "igdb": 242267
-  }
+  },
+  "roms": [
+    {
+      "name": "Battletoads-Double Dragon (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "043f3773",
+      "md5": "e4327313c7ad91cf435b96bcea2d19d4",
+      "sha1": "1302d74caf3db924510e58868b095066abdf74f1",
+      "sha256": "8c5f2f8d45d86b27e48313d136477ba6f30989c93748d800ad6bf82f14ecd4a1"
+    },
+    {
+      "name": "Battletoads-Double Dragon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "8b18ac01",
+      "md5": "3c433a8aa73986e1361423303e92785b",
+      "sha1": "bf56f12bdde3e2233d7ffcaf4825b10d92632b77",
+      "sha256": "c7f0269498d190e4fd0f6f880a148fbe3713cd3a632083bac1e5bd18f8172371"
+    },
+    {
+      "name": "Battletoads-Double Dragon (USA) (Retro-Bit)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "f7433e03",
+      "md5": "f827ffbda26a32617a32136d090050ce",
+      "sha1": "b392d00f78e04a35e1c95c1eb5f11bdd0d843efa",
+      "sha256": "3a43f01a766bc77c8155e84367853f531ccf22de85b4cdb0ca44e3c51b3bd250"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Battletoads-Double%20Dragon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Battletoads-Double%20Dragon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Battletoads-Double%20Dragon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Battletoads-Double%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Battletoads-Double%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Battletoads-Double%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -17,5 +17,64 @@
   "external_ids": {
     "wikidata": "Q7897206",
     "igdb": 165365
-  }
+  },
+  "roms": [
+    {
+      "name": "Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "70760cce",
+      "md5": "f1e27ad24bb3bf71d1d7b048ae21f0b5",
+      "sha1": "b33214a4cd05f58dd019a77b1260bf557293c826"
+    },
+    {
+      "name": "Uno (USA) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "f026d509",
+      "md5": "c720b196e885fe116d8b0c2154438c0e",
+      "sha1": "20868148461618d1195570775b183a065781ce35",
+      "sha256": "102dabffa56271534c651579445c13a375e7978f37bdcccc3271e9320c3710fa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Uno%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Uno%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Uno%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Uno%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Uno%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Uno%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -26,5 +26,65 @@
   "external_ids": {
     "wikidata": "Q6952668",
     "igdb": 42482
-  }
+  },
+  "roms": [
+    {
+      "name": "NBA Give 'n Go (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "e52b9af6",
+      "md5": "4bf5287384ff382eb2e83269270e2114",
+      "sha1": "5e56c0d6fead29a10d07816aa1a619ffad7098c3",
+      "sha256": "762f914973fe1a7edd452ea928cd27d7e698f2275e16ef44573c764d5d480cde"
+    },
+    {
+      "name": "NBA Give 'n Go (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "68c8b643",
+      "md5": "5b6433c5c709d9f054f06f4e90485d06",
+      "sha1": "71310d8db76cb7134e9a65cc8a28003ba3bdb5f2",
+      "sha256": "5874b942f974bb906d8cbc33b601a1faf8f14aee8d0995124c8dc84bb4973808"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/NBA%20Give%20%27n%20Go%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/NBA%20Give%20%27n%20Go%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/NBA%20Give%20%27n%20Go%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/NBA%20Give%20%27n%20Go%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/NBA%20Give%20%27n%20Go%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/NBA%20Give%20%27n%20Go%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

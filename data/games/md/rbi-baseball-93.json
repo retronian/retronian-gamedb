@@ -18,5 +18,49 @@
     "wikidata": "Q3414924",
     "mobygames": 46289,
     "igdb": 46203
-  }
+  },
+  "roms": [
+    {
+      "name": "R.B.I. Baseball '93 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48126-00",
+      "size": 1048576,
+      "crc32": "dbea568d",
+      "md5": "858b90a3303a788a2a1158d93bee9c9d",
+      "sha1": "6e6c631e711cbe3f5db7b326b2a1af331b7b7b0c",
+      "sha256": "1726a12ca2dee2c4d641fcba8f35cba6576444c7fb735b5f9c56ae5fdfcb9002"
+    },
+    {
+      "name": "R.B.I. Baseball '93 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48196-00",
+      "size": 1048576,
+      "crc32": "beafce84",
+      "md5": "88f9eeeae1928a64a9f7a7ee221b30f7",
+      "sha1": "4db6cca411ba3d32ad43d572389612935a42e3b3",
+      "sha256": "9812b059fe64321b970ba15ea84c0d737c9a12a62c6f30a085cf766bc1c8f8e1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/R.B.I.%20Baseball%20%2793%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/R.B.I.%20Baseball%20%2793%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/R.B.I.%20Baseball%20%2793%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

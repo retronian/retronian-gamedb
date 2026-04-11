@@ -34,5 +34,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Ninja Burai Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4524-00",
+      "size": 1048576,
+      "crc32": "a8d828a0",
+      "md5": "d1263fb5efd1af669a0df2a45689c3f5",
+      "sha1": "9cc3419ca7ecaf0d106aa896ffc0266c7145fff7",
+      "sha256": "212c70be20c8a29f11c5392a06207e43c2bff07e716a4d3cbf2d046f684a3cef"
+    },
+    {
+      "name": "Ninja Burai Densetsu (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00005502-00",
+      "size": 1048576,
+      "crc32": "49089471",
+      "md5": "cf1e43413cea0a0dbedaa814a4afe1ec",
+      "sha1": "5c7bf27ec6cc81b9a9888025fbfa6dcb57d3eae5",
+      "sha256": "fa13865618c331cdfeb0948d6198cfa88e3696e7462b5c9099c133905bc3f781"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ninja%20Burai%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ninja%20Burai%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ninja%20Burai%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

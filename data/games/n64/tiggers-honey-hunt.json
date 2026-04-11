@@ -45,5 +45,66 @@
     "wikidata": "Q3569363",
     "mobygames": 9171,
     "igdb": 3613
-  }
+  },
+  "roms": [
+    {
+      "name": "Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NT9P",
+      "size": 16777216,
+      "crc32": "d82d5736",
+      "md5": "a09663b596f348d28af846a51375eb81",
+      "sha1": "53944f6c63b2e971abf756efeccab24fa0b96e78",
+      "sha256": "52212186f8b790dcde0deefcef1a066e1ec279f727ce9a4b92d04e769919200d"
+    },
+    {
+      "name": "Tigger's Honey Hunt (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NT9E",
+      "size": 16777216,
+      "crc32": "68c2ac8f",
+      "md5": "f8636514b5b0edebf376c3111d24417a",
+      "sha1": "98db3a0f9025893107e9fb1bb8d0b6bc0ef3e280"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Tigger%27s%20Honey%20Hunt%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Tigger%27s%20Honey%20Hunt%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Tigger%27s%20Honey%20Hunt%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Tigger%27s%20Honey%20Hunt%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Tigger%27s%20Honey%20Hunt%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Tigger%27s%20Honey%20Hunt%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

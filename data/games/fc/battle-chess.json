@@ -63,5 +63,46 @@
     "wikidata": "Q810986",
     "mobygames": 1950,
     "igdb": 280808
-  }
+  },
+  "roms": [
+    {
+      "name": "Battle Chess (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "a3029999",
+      "md5": "22b1a3e7834ed9c8a79b9fb652af9230",
+      "sha1": "0168acb3fdcd173d598960a677849bc5e7bdca20",
+      "sha256": "19ec831f3f7804d1d45105f90fd364f5cee2b5f3d29882ee35438e8686594b27"
+    },
+    {
+      "name": "Battle Chess (World) (Evercade)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "a766c6e8",
+      "md5": "9297aeb50da647464f2259a21f2c8610",
+      "sha1": "1b67fc31edddd3b4f8b0f78ef73ab5e347bc7d72",
+      "sha256": "50db0824ee3d1a48cdf83824984aedb22a201159cc47da1e2ec89aeb1b03d8e9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Battle%20Chess%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Battle%20Chess%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Battle%20Chess%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

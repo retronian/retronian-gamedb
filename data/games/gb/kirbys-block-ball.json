@@ -60,5 +60,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Kirby no Block Ball (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "df3bbcd7",
+      "md5": "6b09cc03750b853bb67845b667d0185e",
+      "sha1": "3fecc964d2c13ad98abac1df49f05c488833ef5a",
+      "sha256": "4fad11cbc8c4e28e183b54cadcfa6f88159e02688131afdf8a769b9929d8e555"
+    },
+    {
+      "name": "Kirby's Block Ball (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "7ad90b4b",
+      "md5": "203db7ddc72359e4db5e9ab42a6f0ba8",
+      "sha1": "a790d96526972d7ceb026ca27ae41ff475ccb2c5",
+      "sha256": "0b5f1ddb0b40b34735c1adf42b46651526d1e55c14c13969659cf04fc2173e16"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kirby%20no%20Block%20Ball%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kirby%20no%20Block%20Ball%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kirby%20no%20Block%20Ball%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kirby%27s%20Block%20Ball%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kirby%27s%20Block%20Ball%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kirby%27s%20Block%20Ball%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

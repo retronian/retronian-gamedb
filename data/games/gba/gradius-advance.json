@@ -53,5 +53,37 @@
   "external_ids": {
     "wikidata": "Q5591947",
     "mobygames": 5310
-  }
+  },
+  "roms": [
+    {
+      "name": "Gradius Advance (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AGAP",
+      "size": 4194304,
+      "crc32": "3722bdfa",
+      "md5": "1227eebff87a8b9d5e713e20cddcb468",
+      "sha1": "1f28db5ac70ae11b2f3414369d1be73accb36f3b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gradius%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gradius%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gradius%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

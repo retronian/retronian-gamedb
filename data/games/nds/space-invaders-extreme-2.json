@@ -71,5 +71,82 @@
   "external_ids": {
     "wikidata": "Q3492586",
     "igdb": 8199
-  }
+  },
+  "roms": [
+    {
+      "name": "Space Invaders Extreme 2 (Europe) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CV8P",
+      "size": 67108864,
+      "crc32": "14554275",
+      "md5": "016afaa8ef9151eb6d64a7f56762bba8",
+      "sha1": "a551450bdbb1af8084fc4347feb0f7fb4a3e4d51",
+      "sha256": "dabeda512afac6118dde7a32ba3c68cb2acccd417f212ffd81ef5ecd6edc9074"
+    },
+    {
+      "name": "Space Invaders Extreme 2 (USA) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CV8E",
+      "size": 67108864,
+      "crc32": "01def6ae",
+      "md5": "e183ed06ca5f9e48a3dd1a1e90f6bb2e",
+      "sha1": "8c488f3666d5490561c0a2117edc48f2ec2a7820"
+    },
+    {
+      "name": "Space Invaders Extreme 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CV8J",
+      "size": 67108864,
+      "crc32": "0abb2a6f",
+      "md5": "63c5d0cf67d514a84d8600efbde2c94c",
+      "sha1": "6a0e9dad775e943590bf9cce1298901627d1b6c5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Space%20Invaders%20Extreme%202%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Space%20Invaders%20Extreme%202%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Space%20Invaders%20Extreme%202%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Space%20Invaders%20Extreme%202%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Space%20Invaders%20Extreme%202%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Space%20Invaders%20Extreme%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Space%20Invaders%20Extreme%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

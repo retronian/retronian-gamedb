@@ -64,6 +64,15 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Lord of King, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1989-11-01",
@@ -71,5 +80,137 @@
     "wikidata": "Q3985728",
     "mobygames": 11945,
     "igdb": 215084
-  }
+  },
+  "descriptions": [
+    {
+      "text": "あなたはアスティアナックス、16歳の少年で、毎晩同じ夢を見ます。それは、助けを求める王女の夢です。ある午後、あなたはキューティという妖精に呼ばれ、レムリアの世界に召喚され、王国の王女を救うことになります。あなたは予言に語られた選ばれし者なのです！\n\nアスティアナックスは「ザ・ロード・オブ・キング」の英語版です。これは野心的なシネマティックダークファンタジーアドベンチャーです。旅の途中で、あなたを強くするパワーアップアイテムや武器のアップグレードを見つけることができます。また、画面上のすべての敵に攻撃を与える魔法の攻撃を解放することもできます。アスティアナックスとして、キューティと共に、ローズバッド王女と王国をブラックホーンの邪悪な軍団から救わなければなりません！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Astyanax (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "c9d85c8e",
+      "md5": "b0c33950e8535954252439a7818f4bda",
+      "sha1": "32a1d20ca2ca10c157ffcf4bec2a4397b6b22a25",
+      "sha256": "7434d2279a3f1901a87ae9d145a55cb9fbe6d0bc77f9143db6367bb5a8588816"
+    },
+    {
+      "name": "Astyanax (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "bef556d1",
+      "md5": "ac72a7f485e40843a8ce28136ff670f6",
+      "sha1": "684d5c6dd88df406af2ee8f4b56efb713e065d03",
+      "sha256": "258e35984b39aee9110caaa57d334c7c77c53e0183175eb4ac9a3ecf63e63a2b"
+    },
+    {
+      "name": "Astyanax (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "1fd49d38",
+      "md5": "18f3a7835f8da8a920af44f780edb413",
+      "sha1": "4a23090d04493d95f908dacdcb0e1853c05a4f33",
+      "sha256": "79254daaab5015704375baeb2c33377ce828c34d974c5b2e15a8527cd167cbd9"
+    },
+    {
+      "name": "Lord of King, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "3e0c98bb",
+      "md5": "981307ac6aebd18f27a575b5a6814edc",
+      "sha1": "9945b83bc322872bf309a580bd56c60b747d3c25",
+      "sha256": "b3d0538ca21578d96916ad8ab10d427e9475a5e6182c638cd72ba0848bed84b4"
+    },
+    {
+      "name": "Astyanax (World) (Evercade)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "84d50713",
+      "md5": "7631f285cd03db744c28fb46fbfdb5b6",
+      "sha1": "868b63822c7a6332c7765b09bfe8b7e950aad13a",
+      "sha256": "1ec79997434694d461cac90a62f35c502ad2c43f11de9e1fc8c9015d69f92571"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Astyanax%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Astyanax%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Astyanax%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Astyanax%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Astyanax%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Astyanax%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Astyanax%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Astyanax%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Astyanax%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Lord%20of%20King%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Lord%20of%20King%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Lord%20of%20King%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

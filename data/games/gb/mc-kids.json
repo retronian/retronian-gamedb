@@ -62,5 +62,37 @@
   "external_ids": {
     "wikidata": "Q6712166",
     "mobygames": 12794
-  }
+  },
+  "roms": [
+    {
+      "name": "McDonaldland (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "81de6c13",
+      "md5": "dcf79d785d5ce187f727f7dc2e00dc8c",
+      "sha1": "fd11d61f961a7e3c69e272ef19eb243b7df89833",
+      "sha256": "550995df4740397fccdc70d480c9a595260afb59bfcea0b0ec50cb5d55cfe9b0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/McDonaldland%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/McDonaldland%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/McDonaldland%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

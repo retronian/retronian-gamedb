@@ -54,5 +54,65 @@
     "wikidata": "Q625317",
     "mobygames": 6158,
     "igdb": 6481
-  }
+  },
+  "roms": [
+    {
+      "name": "Jurassic Park III - The DNA Factor (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ADNE",
+      "size": 8388608,
+      "crc32": "f93dcc2e",
+      "md5": "d596b05b4f52d2880f36db3e7ec9a8e5",
+      "sha1": "ab73f66abd86f53b24661f7319114d01c7354057"
+    },
+    {
+      "name": "Jurassic Park III - The DNA Factor (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ADNP",
+      "size": 8388608,
+      "crc32": "fe89c986",
+      "md5": "534b46bba804c9a81e9c20472c292e87",
+      "sha1": "54aeec4dec1601e85471b0d92f5158fe36ae4429"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jurassic%20Park%20III%20-%20The%20DNA%20Factor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jurassic%20Park%20III%20-%20The%20DNA%20Factor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jurassic%20Park%20III%20-%20The%20DNA%20Factor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jurassic%20Park%20III%20-%20The%20DNA%20Factor%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jurassic%20Park%20III%20-%20The%20DNA%20Factor%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jurassic%20Park%20III%20-%20The%20DNA%20Factor%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

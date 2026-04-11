@@ -87,5 +87,89 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Lethal Enforcers (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-95096-00",
+      "size": 2097152,
+      "crc32": "ca2bf99d",
+      "md5": "b837e85dc4a002a511ca4f2a33f4e1be",
+      "sha1": "b9cc7ff3c6a50b2624358785bcadd1451e23993e",
+      "sha256": "afb7db0900395cdfdc95f8efb577a9aa815a83f95e36b03f5c702640e36360aa"
+    },
+    {
+      "name": "Lethal Enforcers (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-95073-00",
+      "size": 2097152,
+      "crc32": "f25f1e49",
+      "md5": "63038691ac82a02290404745bce53b13",
+      "sha1": "14245fccf4d7e5d1dd4ad5f426507516e71e3a06",
+      "sha256": "2a5f5a49e117e38134fb40d09296533688f0e261ded57dc90534a43560c75ffb"
+    },
+    {
+      "name": "Lethal Enforcers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95096-00",
+      "size": 2097152,
+      "crc32": "51d9a84a",
+      "md5": "849d73aedfd102fae1adc762bfbb6dcd",
+      "sha1": "309b41c6d4159f4f07fe9a76aca4fc4ddf45de63",
+      "sha256": "7ac1a9deb0d95cc2cffb0f7a47ddd831d4c3cc8f7013969a27665271bd2e9e0d"
+    },
+    {
+      "name": "Lethal Enforcers (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95096-FF",
+      "size": 2097152,
+      "crc32": "f4010503",
+      "md5": "d66b3c6eb5f4f4aceb58e62696a2b29a",
+      "sha1": "01a445cf8ed57db1be4bd2aef1107d9e2fbcdb77",
+      "sha256": "451c2c77ee10838c942a26c6090d200bbe72c6e16efb37401e24fc3ea0957718"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lethal%20Enforcers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lethal%20Enforcers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lethal%20Enforcers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lethal%20Enforcers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lethal%20Enforcers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lethal%20Enforcers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

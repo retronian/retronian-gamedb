@@ -91,6 +91,51 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "ヒットラーの復活 トップシークレット",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "바이오닉 코만도",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Hitler no Fukkatsu - Top Secret",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ヒットラーの復活",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ヒットラーの復活 TOP SECRET",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1987-01-01",
@@ -98,5 +143,138 @@
     "wikidata": "Q55620",
     "mobygames": 8779,
     "igdb": 54535
-  }
+  },
+  "descriptions": [
+    {
+      "text": "バイオニックコマンドーでは、特別に選ばれた兵士として、ユニークなバイオニックアームを装備して戦います。このアームは伸縮し、前例のない力と敏捷性を与えてくれます。連射可能で装甲貫通型、熱追尾型の武器を持ち、あなたは2年間の relentless な侵略の後、民の最後の希望となります。あなたの任務は、厳重に警備された砂漠を越え、敵の拠点へと向かいます。一見不可能に思える挑戦が、バイオニックコマンドーだけが耐え抜き、勝利を収めることができる戦いとなります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bionic Commando (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "b1bf86cf",
+      "md5": "018139f614bfcdcc6b30a8d88ee2cd8d",
+      "sha1": "3f8bd2155924af6ce055543fed85e96b1a3716ac",
+      "sha256": "2eacd77b710c1ee8772def389bb64be8a90232702b5979527c74a7909b1336e4"
+    },
+    {
+      "name": "Bionic Commando (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "5d78010d",
+      "md5": "2d5d6b062716385da2ab59c2a005c29d",
+      "sha1": "d3a4bfd995d18c4a386971631759aeca3a7cff8d",
+      "sha256": "ade9a70b5cdb94ff24e2f37a0327262e5f94037580256dc36c483fae729f31f2"
+    },
+    {
+      "name": "Hitler no Fukkatsu - Top Secret (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "36ca1229",
+      "md5": "bef5aece96b8b0e14b448e96596a5e3f",
+      "sha1": "b86aa7638e70f6cc8d2e276a120089bd7167e057",
+      "sha256": "5e85993cff95d5f9a952ab2e80582e9fb6f3da0569b10fea0609819b4e85e172"
+    },
+    {
+      "name": "Hitler no Fukkatsu - Top Secret (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "219c8c90",
+      "md5": "ea5e0346c4395df1349541bc7ddaaa50",
+      "sha1": "3d84982866a1af2bec1414544d2905291440507e",
+      "sha256": "dc2db8c221055c3bbb671f6c7c318d12b9f240253f81dbbe26eeb6e25e588696"
+    },
+    {
+      "name": "Bionic Commando (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "cbe3f1be",
+      "md5": "de3b8c20c22c89c072806bccace234f7",
+      "sha1": "8cf6596828af313c120ac19df060cb3d9714ec9b",
+      "sha256": "71e245ddded8914a8823bc79e7ace9508f67bd0e57aca24cfd22d2c959831c94"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bionic%20Commando%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bionic%20Commando%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bionic%20Commando%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bionic%20Commando%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bionic%20Commando%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bionic%20Commando%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hitler%20no%20Fukkatsu%20-%20Top%20Secret%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hitler%20no%20Fukkatsu%20-%20Top%20Secret%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hitler%20no%20Fukkatsu%20-%20Top%20Secret%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hitler%20no%20Fukkatsu%20-%20Top%20Secret%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hitler%20no%20Fukkatsu%20-%20Top%20Secret%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hitler%20no%20Fukkatsu%20-%20Top%20Secret%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

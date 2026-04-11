@@ -70,5 +70,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Pulseman (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4098-00",
+      "size": 2097152,
+      "crc32": "138a104e",
+      "md5": "b0952bec44386411651ad944c67cf86c",
+      "sha1": "5fd76a5f80e4684b5f9d445ddb893679985684e6",
+      "sha256": "0ae94742bc82f01374297e8dc06dae806d7a5e4ed5537e380446e50c1b63715c"
+    },
+    {
+      "name": "Pulseman (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4068-00",
+      "size": 2097152,
+      "crc32": "99ee9ac9",
+      "md5": "c685c9b8230cb09023b5d8022b1ed3ce",
+      "sha1": "aabc4af24f280e62dc378fce2899b00422631334",
+      "sha256": "07b976cef89e9d2eb6b8afbb41c7a1a979f234a517f37ce344f205b63283e012"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pulseman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pulseman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pulseman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

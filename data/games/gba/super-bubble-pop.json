@@ -18,5 +18,74 @@
     "wikidata": "Q7642226",
     "mobygames": 10211,
     "igdb": 248454
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Bubble Pop (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AVZE",
+      "size": 4194304,
+      "crc32": "5ec8ea61",
+      "md5": "89c947c27346212a2ff412b5d46a51af",
+      "sha1": "0d6d267229fdb4a9877fb5a7e768bd27254c4140"
+    },
+    {
+      "name": "Super Bubble Pop (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AVZP",
+      "size": 4194304,
+      "crc32": "25123d97",
+      "md5": "1fb0b1a3df41397795acf99d8aada8d6",
+      "sha1": "f62396b5502437651d26e1ad27a8ec8c18b4268e"
+    },
+    {
+      "name": "Super Bubble Pop (World) (Evercade)",
+      "source": "no_intro",
+      "size": 4194304,
+      "crc32": "940f385e",
+      "md5": "cbdd36d1fb5b8898bc44f1cb1467787f",
+      "sha1": "fa2c3b84014a84143f519609a8808d13ca33bf22",
+      "sha256": "42f302b34d012637bfd9f31531e7b61f517afa564038b80c278d033f8750f5a4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Bubble%20Pop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Bubble%20Pop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Bubble%20Pop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Bubble%20Pop%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Bubble%20Pop%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Bubble%20Pop%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

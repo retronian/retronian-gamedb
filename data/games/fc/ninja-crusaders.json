@@ -45,5 +45,47 @@
     "wikidata": "Q7038899",
     "mobygames": 29726,
     "igdb": 48193
-  }
+  },
+  "roms": [
+    {
+      "name": "Ninja Crusaders (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "59da359f",
+      "md5": "f9abdb7ecb30002b69e635b67700caa4",
+      "sha1": "7a8c79b269c32da77befd455797864136a39e7fb",
+      "sha256": "1bac48eb3931354c9c221a23d47480b06c897eb042979093460cba98a07a84a9"
+    },
+    {
+      "name": "Ninja Crusaders (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "69660a70",
+      "md5": "0c567b5c45effdff92d3fb6a0b5b7e2f",
+      "sha1": "ea4a1f2234ce758fba21b28b72a44b3a33501f8a",
+      "sha256": "755ab70f05556ef16d4f2ea7253d8566fe147736316789cbd0364719c9567f85"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ninja%20Crusaders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ninja%20Crusaders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ninja%20Crusaders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

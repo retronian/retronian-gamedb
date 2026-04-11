@@ -97,5 +97,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Double Dragon II - The Revenge (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-74023-00",
+      "size": 524288,
+      "crc32": "a8bfdbd6",
+      "md5": "57169954f90bfef473f4952b9633e57a",
+      "sha1": "68dc151ada307ed0ed34f98873e0be5f65f1b573",
+      "sha256": "6967d219ac0d68f93c2522781537781ae3175e87cb4886196a1569e993592dae"
+    },
+    {
+      "name": "Double Dragon II - The Revenge (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-74023-00",
+      "size": 524288,
+      "crc32": "e11f8543",
+      "md5": "97290f63b8c41c59813561679dadeb8a",
+      "sha1": "2e9c5ef4db0c0c233eaf38f9b9e77bce49a5544d",
+      "sha256": "e0b041575221aa08822cee573c987a89c1917188238dff9a52d2a7c06a14e319"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Double%20Dragon%20II%20-%20The%20Revenge%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Double%20Dragon%20II%20-%20The%20Revenge%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Double%20Dragon%20II%20-%20The%20Revenge%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

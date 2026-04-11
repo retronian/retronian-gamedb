@@ -56,12 +56,215 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "サイフォンフィルター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Syphon Filter",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Syphon Filter",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Syphon Filter",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Syphon Filter",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Syphon Filter",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "2000-03-14",
+  "first_release_date": "1999-02-16",
   "external_ids": {
     "wikidata": "Q739782",
     "mobygames": 4243,
     "igdb": 4116
-  }
+  },
+  "roms": [
+    {
+      "name": "Syphon Filter (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 357927520,
+      "crc32": "fcb1b462",
+      "md5": "142d9ebb3bb784d10cf6bb53055276ea",
+      "sha1": "65d9b420adeadbd00a8ded7b67dc3d66155d1afc"
+    },
+    {
+      "name": "Syphon Filter (Germany)",
+      "source": "no_intro",
+      "size": 351143328,
+      "crc32": "b7d370fa",
+      "md5": "95b2ff8d5262e4678f275a4894aed288",
+      "sha1": "e21ffaa91f5bdaf2ad73ba398b193239968bb704"
+    },
+    {
+      "name": "Syphon Filter (Italy)",
+      "source": "no_intro",
+      "size": 356812800,
+      "crc32": "3f034d69",
+      "md5": "22ef1a896c8824c6a4915d7297c8e42a",
+      "sha1": "66e7c12c949c44529fd69ae0690c805f42a7a6b9"
+    },
+    {
+      "name": "Syphon Filter (USA) (v1.00)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 401911728,
+      "crc32": "d52f7e48",
+      "md5": "7ffb3aa92452d59f2a8061547bc98820",
+      "sha1": "de2e498fe05e6d7e1ca4a1d5e687e0ea370ef2f7"
+    },
+    {
+      "name": "Syphon Filter (USA) (v0.00)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 402105600,
+      "crc32": "cf8154e0",
+      "md5": "bb6bde8d3e2db7d487d06a4cefc0893a",
+      "sha1": "65ba8006417b40e800e986d7b20f337fee20bf17"
+    },
+    {
+      "name": "Syphon Filter 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 942143792,
+      "crc32": "b3706a8c",
+      "md5": "8d9365cf44574f5b971226bd755bc13a",
+      "sha1": "5fd6738182603ae2cf17ba42dfdb218fec423186"
+    },
+    {
+      "name": "Syphon Filter 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 923529456,
+      "crc32": "5b656328",
+      "md5": "5f6d0ffac0935f7596301ff9c6c33ae8",
+      "sha1": "065218414de506e532aa2e372d9b0f14243ed117"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Syphon%20Filter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Syphon%20Filter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Syphon%20Filter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Syphon%20Filter%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Syphon%20Filter%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Syphon%20Filter%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Syphon%20Filter%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Syphon%20Filter%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Syphon%20Filter%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Syphon%20Filter%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Syphon%20Filter%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Syphon%20Filter%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Syphon%20Filter%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Syphon%20Filter%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Syphon%20Filter%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

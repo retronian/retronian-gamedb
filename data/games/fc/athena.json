@@ -72,5 +72,47 @@
     "wikidata": "Q55610",
     "mobygames": 13026,
     "igdb": 273076
-  }
+  },
+  "roms": [
+    {
+      "name": "Athena (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "2f03e972",
+      "md5": "13cecbe3e44fa6d5861df89f02b6d268",
+      "sha1": "11956ae2c1120a7720562f3d177fc5d1f16cbe7f",
+      "sha256": "3b2d17ae03bd4d45f22511eb3ce3a7d89ea5436a7975a77baaf3453fce8f1dac"
+    },
+    {
+      "name": "Athena (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "8313fecf",
+      "md5": "edd45ec3e32db77f9409719f42f64696",
+      "sha1": "a120df7168d2fa7e9e993fc9eabea1f7daaa0c00",
+      "sha256": "89403bdb6a6adca1d6335f946f486a03f3bb41f9550be196de51c7da344b0911"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Athena%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Athena%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Athena%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

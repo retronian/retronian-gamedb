@@ -54,5 +54,65 @@
     "wikidata": "Q7193394",
     "mobygames": 48515,
     "igdb": 248453
-  }
+  },
+  "roms": [
+    {
+      "name": "Piglet's Big Game (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A9NX",
+      "size": 8388608,
+      "crc32": "ff5c9636",
+      "md5": "e524b9c64a98cdc79cf88cbdea5ee39a",
+      "sha1": "04000316f19ed5647bb1c87a830d37a29b201687"
+    },
+    {
+      "name": "Piglet's Big Game (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A9NE",
+      "size": 8388608,
+      "crc32": "52919538",
+      "md5": "7aa675f783554e6734239df89e2b7cbe",
+      "sha1": "85b3319dfdabfbfcb2ea6b82b0606ddef2eab935"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Piglet%27s%20Big%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Piglet%27s%20Big%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Piglet%27s%20Big%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Piglet%27s%20Big%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Piglet%27s%20Big%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Piglet%27s%20Big%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

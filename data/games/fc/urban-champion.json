@@ -72,5 +72,52 @@
     "wikidata": "Q668757",
     "mobygames": 12035,
     "igdb": 4624
-  }
+  },
+  "roms": [
+    {
+      "name": "Urban Champion (World)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "e64b806e",
+      "md5": "7596031514fad25169f834cd803c7e71",
+      "sha1": "d130cb806b16094edd0ea93d3c418f5ac77eba6e",
+      "sha256": "240289e9eee2bf757492da5319c1395ca68d0d3cec186767d62a5013812d2591"
+    },
+    {
+      "name": "Urban Champion (USA) (e-Reader)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "403e924c",
+      "md5": "0baf4ac462fcea7b560a12883c05a12b",
+      "sha1": "d09582fc40360df27858f0bcfdb20869e807798f",
+      "sha256": "efa86494fc43a307659d2cd5a579d070cbbed8c19fcd01c86fc44f28e1159927"
+    },
+    {
+      "name": "Urban Champion (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "3750ba33",
+      "md5": "6b0ea4aea8dffe9b1c3d0831e4a01455",
+      "sha1": "82690fca556b53677c8cc54bd47b6e5d0474083a",
+      "sha256": "8518fcc731f9aada3f84bdcb0bc1c06b42e3b690096c374021628ad0493e282c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Urban%20Champion%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Urban%20Champion%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Urban%20Champion%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

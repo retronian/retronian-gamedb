@@ -26,5 +26,75 @@
   "external_ids": {
     "wikidata": "Q5305059",
     "igdb": 14529
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon's Lair (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "864ebdc7",
+      "md5": "eca56bcadb21e1bff5bc3ad62e2153b0",
+      "sha1": "6b4c31ae5374232a0463321c409211289944193c",
+      "sha256": "10243c5e053eba8e46e8e2d53e6d3cbe23e29dd7531e6b68ed65e2e796f9b1cd"
+    },
+    {
+      "name": "Dragon's Lair (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "7f343968",
+      "md5": "a54e0bdacb3fd86d6c327c3d02245a60",
+      "sha1": "365a75d779e2259306e4aa995faa4761a41a8a4d",
+      "sha256": "0952921522c7341afecd7afdb2294acd06f2b081616770237786fa793b68f7c0"
+    },
+    {
+      "name": "Dragon's Lair (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "6ecd37d2",
+      "md5": "2b006044e1725655f2d05715c09e591e",
+      "sha1": "7a387f4a84e92f0ac1c814aae37f1c5d097b44cc",
+      "sha256": "c64afb0ed96cb392db89bcc99b85b06e2fb60a4c15ea002a7f8e60849e6b10eb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%27s%20Lair%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%27s%20Lair%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%27s%20Lair%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%27s%20Lair%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%27s%20Lair%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%27s%20Lair%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

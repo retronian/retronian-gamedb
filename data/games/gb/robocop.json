@@ -79,5 +79,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "RoboCop (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "06d6980b",
+      "md5": "4b248813c7f2317e55690b5c95f163b2",
+      "sha1": "11b22799a4fe7a605c54c7d5fb9b9f61eceffd08",
+      "sha256": "12675f3f7a3000232c05b04b020ec43b91a3caf54bcb8215799aecbc79db3826"
+    },
+    {
+      "name": "RoboCop (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "6088b426",
+      "md5": "421a923ba483f65a967b8455500b8880",
+      "sha1": "39b92e019134dfd4480b957509c3eb64920cecb3",
+      "sha256": "3fdff7449066dfe1528d6347d15cabd03c86c9e815909b603398ad5c5ed752e0"
+    },
+    {
+      "name": "RoboCop (USA, Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "62d56c31",
+      "md5": "a477ac86be35d1fa70b708ad08dc88b8",
+      "sha1": "b858e5a7b5b87578fb14a60a2d9a330a6c8a10eb",
+      "sha256": "02673c553bc99394b34e3420630621a65c1f920a9e7b2ec97a1d838866353926"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/RoboCop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/RoboCop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/RoboCop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/RoboCop%20%28USA%2C%20Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/RoboCop%20%28USA%2C%20Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/RoboCop%20%28USA%2C%20Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

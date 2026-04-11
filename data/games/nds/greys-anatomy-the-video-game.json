@@ -45,5 +45,53 @@
     "wikidata": "Q2442428",
     "mobygames": 45206,
     "igdb": 4897
-  }
+  },
+  "roms": [
+    {
+      "name": "Grey's Anatomy - The Video Game (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CG5P",
+      "size": 67108864,
+      "crc32": "f3fa26e2",
+      "md5": "c3dbfd465e6f7beae0229f15eca89cc8",
+      "sha1": "11c0c61636d1deb67040538d4f02c5a5bb97136f"
+    },
+    {
+      "name": "Grey's Anatomy - The Video Game (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CG5E",
+      "size": 67108864,
+      "crc32": "2d6527b5",
+      "md5": "75a18d6cbffcc5936e2c4c2414007477",
+      "sha1": "892c0a4877de1750a83ab97c31eae156f8e3466c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Grey%27s%20Anatomy%20-%20The%20Video%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Grey%27s%20Anatomy%20-%20The%20Video%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Grey%27s%20Anatomy%20-%20The%20Video%20Game%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Grey%27s%20Anatomy%20-%20The%20Video%20Game%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

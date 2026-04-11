@@ -35,5 +35,66 @@
   "external_ids": {
     "wikidata": "Q5505248",
     "igdb": 6411
-  }
+  },
+  "roms": [
+    {
+      "name": "Frogger's Adventures - Temple of the Frog (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFRE",
+      "size": 4194304,
+      "crc32": "2eb9eee6",
+      "md5": "228cbf6936579b32b8cc6d7b092dad9c",
+      "sha1": "7b4c27009198df18555e63fb5dcad223eaf09815",
+      "sha256": "2dac7cdf9821c7ef672b5700f0114cf8bbe46bd019f85b97478e4c9a937637c5"
+    },
+    {
+      "name": "Frogger's Adventures - Temple of the Frog (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFRP",
+      "size": 4194304,
+      "crc32": "9f8d58aa",
+      "md5": "75af521c08dea3eed23d31c002a3e47f",
+      "sha1": "775243abe242cd748bf9a9648481efe61b93f046"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Frogger%27s%20Adventures%20-%20Temple%20of%20the%20Frog%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Frogger%27s%20Adventures%20-%20Temple%20of%20the%20Frog%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Frogger%27s%20Adventures%20-%20Temple%20of%20the%20Frog%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Frogger%27s%20Adventures%20-%20Temple%20of%20the%20Frog%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Frogger%27s%20Adventures%20-%20Temple%20of%20the%20Frog%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Frogger%27s%20Adventures%20-%20Temple%20of%20the%20Frog%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

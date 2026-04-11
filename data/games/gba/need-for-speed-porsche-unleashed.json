@@ -90,5 +90,65 @@
     "wikidata": "Q1341049",
     "mobygames": 1398,
     "igdb": 248143
-  }
+  },
+  "roms": [
+    {
+      "name": "Need for Speed - Porsche Unleashed (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AZFP",
+      "size": 4194304,
+      "crc32": "1b6b8f88",
+      "md5": "c6a927c20fbb7b5b1570f9e6c804b54b",
+      "sha1": "01191bf203a21cc7e91ebc8ffa4c167625ede952"
+    },
+    {
+      "name": "Need for Speed - Porsche Unleashed (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AZFE",
+      "size": 4194304,
+      "crc32": "99078af4",
+      "md5": "7406c224589f1a2f57feff5eb3c177c3",
+      "sha1": "c57a0652017c47ac2d25a51bf351738cd634272b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Need%20for%20Speed%20-%20Porsche%20Unleashed%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Need%20for%20Speed%20-%20Porsche%20Unleashed%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Need%20for%20Speed%20-%20Porsche%20Unleashed%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Need%20for%20Speed%20-%20Porsche%20Unleashed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Need%20for%20Speed%20-%20Porsche%20Unleashed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Need%20for%20Speed%20-%20Porsche%20Unleashed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

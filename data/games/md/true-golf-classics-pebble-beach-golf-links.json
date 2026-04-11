@@ -36,5 +36,78 @@
     "wikidata": "Q3373888",
     "mobygames": 33405,
     "igdb": 4533
-  }
+  },
+  "roms": [
+    {
+      "name": "Pebble Beach Golf Links (USA) (Rev A) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1231-01",
+      "size": 2097152,
+      "crc32": "d124ce9c",
+      "md5": "6e0a90f45aa7c14662f2a8ee4ba55cdc",
+      "sha1": "961d8837ffcd05d5cd43326e2a652c1f6d8ab3ad",
+      "sha256": "46b38f67c6fc19de3684b3c7670117c33b5f3de1fa1ca4b33403e5bd254fe68c"
+    },
+    {
+      "name": "Pebble Beach Golf Links (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1231-00",
+      "size": 2097152,
+      "crc32": "6cfc7297",
+      "md5": "33ba556c98d908da0481c0a18cd4f7df",
+      "sha1": "53e8e8f11fb9950732409b770b7d9c8dabe85a19",
+      "sha256": "dcbd2407aef78b37145e32e3f37ee9564ba8815794e59e007ea461e40d0b1a7b"
+    },
+    {
+      "name": "Pebble Beach Golf Links (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1231-00",
+      "size": 2097152,
+      "crc32": "95823c43",
+      "md5": "5d00e3e55b83ad10d4021c75b0030c88",
+      "sha1": "c9971710651056b8211b9bbd68eb5d1569e39e1f",
+      "sha256": "d9a5a1c745515265abc4d8ba6d87da6e567336f0aef56076daa5403747de3f9c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pebble%20Beach%20Golf%20Links%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pebble%20Beach%20Golf%20Links%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pebble%20Beach%20Golf%20Links%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pebble%20Beach%20Golf%20Links%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pebble%20Beach%20Golf%20Links%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pebble%20Beach%20Golf%20Links%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

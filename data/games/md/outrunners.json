@@ -61,5 +61,60 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "OutRunners (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4119-00",
+      "size": 2097152,
+      "crc32": "e164a09f",
+      "md5": "c1024e8e850cfc1c0894b394bf863520",
+      "sha1": "4225162ed3cf51e16bfe800ae74a9b026f5dee56",
+      "sha256": "1879ba5d9497a609c38ba8b0798d2c4f7a52408d9646427cf26107ed4648907d"
+    },
+    {
+      "name": "OutRunners (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-13096-00",
+      "size": 2097152,
+      "crc32": "ede636b9",
+      "md5": "dad0322e38b9efaa5551c0aa881fd633",
+      "sha1": "5d00ad7d9dccd9067c4bd716c2ab9c0a18930ae2",
+      "sha256": "abe4e8cb6c853f9d33ee48654eb6c7f98fcc5ecc76aebef1059a24b570799480"
+    },
+    {
+      "name": "OutRunners (USA) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-13096-00",
+      "size": 2097152,
+      "crc32": "98e5b197",
+      "md5": "fd81ff33ecf07d3afc477ef475f28432",
+      "sha1": "7446b8a23dcf233a1305ac70d6b8dd996e69459f",
+      "sha256": "ed5169c23e0f39306900cc39bfbcb920ca8ba950a04cc1787d5e2f279dbda47e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/OutRunners%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/OutRunners%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/OutRunners%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

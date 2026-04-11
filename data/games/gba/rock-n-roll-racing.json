@@ -63,5 +63,65 @@
     "wikidata": "Q2140297",
     "mobygames": 11544,
     "igdb": 6564
-  }
+  },
+  "roms": [
+    {
+      "name": "Rock 'N Roll Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A4RE",
+      "size": 4194304,
+      "crc32": "15f2dd16",
+      "md5": "25a0842e3db8b40eeb39de83285cc13a",
+      "sha1": "44be0a6869f3495c23a5770993116ac80b554bac"
+    },
+    {
+      "name": "Rock 'N Roll Racing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A4RP",
+      "size": 4194304,
+      "crc32": "53d1a142",
+      "md5": "4c56e0d7fd251ab8ebe562c25e0ddfdf",
+      "sha1": "384c95d541e3bae37194304d615befb8242a1f54"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rock%20%27N%20Roll%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rock%20%27N%20Roll%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rock%20%27N%20Roll%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rock%20%27N%20Roll%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rock%20%27N%20Roll%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rock%20%27N%20Roll%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

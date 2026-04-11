@@ -45,5 +45,65 @@
     "wikidata": "Q3281100",
     "mobygames": 32598,
     "igdb": 48707
-  }
+  },
+  "roms": [
+    {
+      "name": "WWF King of the Ring (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 393232,
+      "crc32": "dc4f94fe",
+      "md5": "3fe95b009d75ba1ea8b25807f2d7ac4f",
+      "sha1": "c031f677067a4b20b5cd1ae1e80e68e118eef821",
+      "sha256": "8bf324ed775ad228009d081c056e0fe8250722c0a39bf0a8cbd66d10c0fca4cd"
+    },
+    {
+      "name": "WWF King of the Ring (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "a0069e9b",
+      "md5": "1fdadd937e37c3e5f3a6c141b467cb77",
+      "sha1": "416c18e775172a76487393c8f7b0f3786596e104",
+      "sha256": "240c6c64bedef903ba8ebb85807f5b6bb1f06cc759b47999390a32650adb28c3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/WWF%20King%20of%20the%20Ring%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/WWF%20King%20of%20the%20Ring%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/WWF%20King%20of%20the%20Ring%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/WWF%20King%20of%20the%20Ring%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/WWF%20King%20of%20the%20Ring%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/WWF%20King%20of%20the%20Ring%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

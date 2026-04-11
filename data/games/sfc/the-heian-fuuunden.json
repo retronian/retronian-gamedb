@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "The Heian Fuuunden",
@@ -25,5 +25,37 @@
   "external_ids": {
     "wikidata": "Q10766370",
     "igdb": 42290
-  }
+  },
+  "roms": [
+    {
+      "name": "Heian Fuuunden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "4640d1a2",
+      "md5": "1d00c833f280c50e3e015f45b9bde75f",
+      "sha1": "3b0ca4a24a02c683f8ad140242f6dff96d0d8339",
+      "sha256": "45019d929bddc4c75c84166a4cbefa9fa6df44f2b0958ab45c503918797dd15b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Heian%20Fuuunden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Heian%20Fuuunden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Heian%20Fuuunden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

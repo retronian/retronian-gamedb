@@ -65,6 +65,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Tetris (BPS)",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1984-06-06",
@@ -72,5 +81,242 @@
     "wikidata": "Q71910",
     "mobygames": 1630,
     "igdb": 180278
-  }
+  },
+  "descriptions": [
+    {
+      "text": "このテトリスのバージョンは、有名なブロック積みゲームの多くのコンバージョンの一つであり、任天堂の初代ホームコンソールで最も知られている（が唯一ではない）バージョンです。目的は、4つのタイルで構成されたピースを10×20のウェルに配置し、完全な行を作ることで、それらの行は消えます。行がクリアされるとゲームのペースが上がり、スタックがウェルの上に達するとゲームは終了します。\n\nゲームは「タイプA」と「タイプB」の2つの異なるプレイモードを提供します。「タイプA」は標準のエンドレスモードで、10ラインごとにゲームの速度が上がり、ゲーム開始時にスタートレベルを選択できます。一方「タイプB」は25ラインをクリアするレースで、ドロップ速度とスタートガラージのオプションがあります。どちらのモードでも、成功したプレイにはかわいいアニメーションが報酬として用意されています。また、3つの異なるバックグラウンド曲から選ぶこともできます。",
+      "lang": "ja",
+      "source": "romu"
+    },
+    {
+      "text": "テトリス。BPS版。世界的人気のパズルゲーム。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tetris (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 49168,
+      "crc32": "c99b0fca",
+      "md5": "041cdfcddc52de80da480b0a71065d19",
+      "sha1": "ad03f42ea1cb0673f2cb1c23d6b579ad392647f0",
+      "sha256": "be0b1c543398993d99998028a15e7dac31faea0cb0a4bb1fa6135417e423b12d"
+    },
+    {
+      "name": "Tetris (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 49168,
+      "crc32": "d16ea396",
+      "md5": "886012ac3b3fbf4a244dead999788fe8",
+      "sha1": "3026d28b63d94c921fe58364f8b0659d10b5a0ac",
+      "sha256": "ddb876c302cfd4ee19fabff8e3ede0b6801ded70c49980d1682a32d352953082"
+    },
+    {
+      "name": "Tetris (USA) (Tengen) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 49168,
+      "crc32": "ae473687",
+      "md5": "2aa73cc1b57a42a61e5cb3e84908064d",
+      "sha1": "ae18422396bad1619153f1b156688399a2022a61",
+      "sha256": "53970a2b25819f9514bb7f32a7b568a3f4bdbd8754da9e7b9142020f1ab8ea62"
+    },
+    {
+      "name": "Tetris (Bulletproof) (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 49168,
+      "crc32": "16deb167",
+      "md5": "d270ecffcc8de9c8672b0839c457e666",
+      "sha1": "9b63dc621aa10b6c20d31bca9671fddf6934161e",
+      "sha256": "60a569ff621598b315277ced2b3da74b1ac63229da6d193fb411be906f1cdde3"
+    },
+    {
+      "name": "Tetris (Bulletproof) (Japan) (En) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 49168,
+      "crc32": "c7bf3eaa",
+      "md5": "31d416ada068b7b7dd1c8b80fa572d66",
+      "sha1": "bc983d162f83b92a72eadb643c6be47531c6dc2a",
+      "sha256": "4cf37a83b2fdf3e54f672b1e5d676e42f97d98b37cd5aabc14fd84fc4eb94cba"
+    },
+    {
+      "name": "Tetris (Bulletproof) (Japan) (En) (Rev 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 49168,
+      "crc32": "4b91412f",
+      "md5": "0c3644938c9507ba44184a5c44e76571",
+      "sha1": "bede232928cd6510f2e15fd3758289bce5765465",
+      "sha256": "326eee81d0bcf31132f00a5ab6d928db03cfac7c80a4ebd02e90a7035cce2202"
+    },
+    {
+      "name": "Tetris (USA) (Beta 1) (Tengen) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "dbfe8e04",
+      "md5": "681828027372b042244ef6d1f925ca32",
+      "sha1": "895e6b847147ca38ec557840130c2ace0318232f",
+      "sha256": "59ca0f33974e823a712e26e8a22419e0c360a75624966dee4e26c9d42efd9081"
+    },
+    {
+      "name": "Tetris (USA) (Beta 2) (Tengen) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 40976,
+      "crc32": "77f03139",
+      "md5": "5dffd49e1a4e68d57f3906459d65bbe9",
+      "sha1": "0a136d691a36c21888eaf9620dcd1a270821866e",
+      "sha256": "86ffb485850fce3422ab153a93e94c798b33fc023edd7c6425c4d711e0cadc10"
+    },
+    {
+      "name": "Tetris (USA) (Beta 3) (Tengen) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "7f322ca5",
+      "md5": "f71f1d4fc92cf0558e1ba38de067523a",
+      "sha1": "93395b46ea672861d69b31d4c7499e900b83c639",
+      "sha256": "3eaee9327ba050e17fa63fd6aa10a073a02fbda00bc2d18f0c9ec2353a83a919"
+    },
+    {
+      "name": "Tetris (USA) (Beta 4) (Tengen) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "36e97e56",
+      "md5": "8edafc5f31b4da7d3d8c31f4008ab0c6",
+      "sha1": "9f8dc0db29a97153484b91a95c45f87778fc228e",
+      "sha256": "023581e819a6cb192a44492b1c5924e3ac6af5cde7292312090f6c2ec0b5dcd5"
+    },
+    {
+      "name": "Tetris (Russia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 40976,
+      "crc32": "3aaa551b",
+      "md5": "cc97a0f1cefb361b09abde33ce4421d1",
+      "sha1": "09512b2af5f27e85706703825c500df786eeb6d0",
+      "sha256": "06e9c31b8aa18530723552d88f3c848da5e53c8f250cc25f10871fe4d5471621"
+    },
+    {
+      "name": "Tetris (China) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 65552,
+      "crc32": "376d5fe1",
+      "md5": "f19b90785eeb5a37248f1af3b223acf5",
+      "sha1": "e197fe6f02a5174b99ac4ef8260c9c484b356fed",
+      "sha256": "a877cfc8ad0a16824a0d828bda83dac5dd064e8d46aeb65a6732e36487cb9e20"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tetris%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tetris%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%20%28USA%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tetris%20%28USA%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%20%28USA%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tetris%20%28USA%29%20%28Beta%201%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%20%28USA%29%20%28Beta%201%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tetris%20%28USA%29%20%28Beta%202%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%20%28USA%29%20%28Beta%202%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tetris%20%28USA%29%20%28Beta%203%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%20%28USA%29%20%28Beta%203%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tetris%20%28USA%29%20%28Beta%204%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%20%28USA%29%20%28Beta%204%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

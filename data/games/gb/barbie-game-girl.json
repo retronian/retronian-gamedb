@@ -18,5 +18,52 @@
     "wikidata": "Q3634755",
     "mobygames": 23617,
     "igdb": 45174
-  }
+  },
+  "roms": [
+    {
+      "name": "Barbie - Game Girl (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "94c26cdf",
+      "md5": "159c8ca77e153b1cc5fe6d5d82a091c2",
+      "sha1": "6660e4457a1de3de1947a90c5ea9ff012d50336e",
+      "sha256": "c71663c9172c69b3daded65aaaa3735d1f50379a471af345e8421a6a6c9aaa98"
+    },
+    {
+      "name": "Barbie - Game Girl (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "4660e0ab",
+      "md5": "1a851b27609bedcb993be91bff5978b0",
+      "sha1": "24886a5f26f1969e595f420bf963439ba6a693bd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Barbie%20-%20Game%20Girl%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Barbie%20-%20Game%20Girl%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Barbie%20-%20Game%20Girl%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Barbie%20-%20Game%20Girl%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

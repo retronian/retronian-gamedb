@@ -20,10 +20,42 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Super Mario World 64",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "external_ids": {
     "wikidata": "Q9080572",
     "igdb": 230538
-  }
+  },
+  "first_release_date": "1997-01-01",
+  "roms": [
+    {
+      "name": "Super Mario World (Taiwan) (En) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 2097152,
+      "crc32": "cf540ba6",
+      "md5": "3b5680ea1e383b5c6d90338fc4b4b4b7",
+      "sha1": "517c3a6b091c2c4e8505112a84bae2871243e92c",
+      "sha256": "56260ad82c684b56f061075e900426889c08129839b9e25cce3715b95d4c048d"
+    },
+    {
+      "name": "Super Mario World 64 (Taiwan) (En) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 1048576,
+      "crc32": "e7ac4161",
+      "md5": "394783b469e8dd48f14a0063257b51a9",
+      "sha1": "2ccf970fffd173f1984e69617c330a8f297f3481",
+      "sha256": "a6a53d5d4f9696791042087ce5fb1fb99cc13ff3282bbfb2898f786144838912"
+    }
+  ]
 }

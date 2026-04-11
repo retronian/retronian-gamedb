@@ -54,5 +54,84 @@
     "wikidata": "Q2891857",
     "mobygames": 31828,
     "igdb": 220787
-  }
+  },
+  "roms": [
+    {
+      "name": "Battleship (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "27b7e802",
+      "md5": "8f27afa5fb438a0cbc93e6745a261e5b",
+      "sha1": "f00cfc4faf1c6422b1d8613263a110192ff5b8f1",
+      "sha256": "4e8cd5374a6b5bae6bd3fba10d44ac5978059a3547a87b35850dba0d530c1371"
+    },
+    {
+      "name": "Battleship (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "a7048be1",
+      "md5": "d0c1d27728c61cd8903fd924aa824d47",
+      "sha1": "9d91005d8bbdf62afbab2940a2a9042e9f0522ce",
+      "sha256": "8efee0da7cf785b6a73d47ab3cad155eb19af1ebe35b5829024a2550411c8afd"
+    },
+    {
+      "name": "Battleship (Russia) (Pirate)",
+      "source": "no_intro",
+      "size": 65552,
+      "crc32": "8a0a47c5",
+      "md5": "3a029295b9a21d61012571fc7469fae1",
+      "sha1": "4f872f1c849beab21c0b08133b81b1d85b54b987",
+      "sha256": "c9180bbb37e13c40718fd42d2baaf5bd0b1f78ee899d0777a03e276f1119f783"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Battleship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Battleship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Battleship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Battleship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Battleship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Battleship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Battleship%20%28Russia%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Battleship%20%28Russia%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

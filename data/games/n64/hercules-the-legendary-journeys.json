@@ -18,5 +18,87 @@
     "wikidata": "Q3133955",
     "mobygames": 9180,
     "igdb": 3511
-  }
+  },
+  "roms": [
+    {
+      "name": "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NHCP",
+      "size": 16777216,
+      "crc32": "b1954b08",
+      "md5": "1546877fd85c00a83515005727e5fda5",
+      "sha1": "d2e26f4aecf488f87e1ab36395280385b060d229"
+    },
+    {
+      "name": "Hercules - The Legendary Journeys (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NHCE",
+      "size": 16777216,
+      "crc32": "4948892b",
+      "md5": "6bbd8c42f6ef8f5b9541d6f4db657dd7",
+      "sha1": "5c3c4345be505763fc51a9e3713f5787e4044646",
+      "sha256": "8c7d23b9d9a349561f922c90aa128d85abf5ccafc696a2bcd36a434738bf72bc"
+    },
+    {
+      "name": "Hercules - The Legendary Journeys (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 16777216,
+      "crc32": "87eba0cb",
+      "md5": "5f1304c94e1b355398abd8141657382d",
+      "sha1": "cd42f8a8cafd1adb54b971485bd3c5b35393b361",
+      "sha256": "39f54f55d0a54a8c71597d9950de2422aba9e3a42a40ecf32a2a39359612c40c"
+    },
+    {
+      "name": "Hercules - The Legendary Journeys (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NHCE",
+      "size": 16777216,
+      "crc32": "cf3a5e8f",
+      "md5": "fa1bb2483dae322f2b336878b3b95229",
+      "sha1": "9d1b39b7706d9cd0e98af1c9d5e57aa9d5f7e0a5",
+      "sha256": "ca4603878ff685bef382b4184155179f6812cbe02c98b10569a3156970ffc0b0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Hercules%20-%20The%20Legendary%20Journeys%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Hercules%20-%20The%20Legendary%20Journeys%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Hercules%20-%20The%20Legendary%20Journeys%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Hercules%20-%20The%20Legendary%20Journeys%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Hercules%20-%20The%20Legendary%20Journeys%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Hercules%20-%20The%20Legendary%20Journeys%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

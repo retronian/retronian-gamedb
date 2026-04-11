@@ -47,12 +47,90 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Talespin",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1991-12-31",
+  "first_release_date": "1991-01-01",
   "external_ids": {
     "wikidata": "Q2495930",
     "mobygames": 10048,
     "igdb": 8067
-  }
+  },
+  "roms": [
+    {
+      "name": "TaleSpin (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "c67f3b24",
+      "md5": "ba69a3c08bbcf2a6eaf75017da4bd506",
+      "sha1": "df7872ce33b5a3913b77f7ec94d6a1a186d8e384",
+      "sha256": "2dad0efaa6230ee840aa4344fccfd282e9c6886486e8978c551ed95188a33cfb"
+    },
+    {
+      "name": "TaleSpin (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "8517201e",
+      "md5": "408907e55a9a61f5d8397e87fa8c3696",
+      "sha1": "4e165e55d1d630532d006d527a22c2ab52b04eea",
+      "sha256": "3a705f991ef55d69a462ff55d60cb1eaf39f4c5b5e073b7564df540d96b1bcf2"
+    },
+    {
+      "name": "TaleSpin (World) (The Disney Afternoon Collection)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "55e705dd",
+      "md5": "c24ffa1393d219c3c3943711af7f2398",
+      "sha1": "a0dd38d7991dd5161e12e2551e318b6474d6b699",
+      "sha256": "8c2871da68379f773d6c3af9d59daf3fd228988d73134bafc61c4a5c41d630a2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/TaleSpin%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/TaleSpin%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/TaleSpin%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/TaleSpin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/TaleSpin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/TaleSpin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

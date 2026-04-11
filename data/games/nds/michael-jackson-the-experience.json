@@ -81,5 +81,54 @@
     "wikidata": "Q1308224",
     "mobygames": 51489,
     "igdb": 301726
-  }
+  },
+  "roms": [
+    {
+      "name": "Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BVNP",
+      "size": 67108864,
+      "crc32": "818722f7",
+      "md5": "8690773d96e4ce45ff0b5cd39f54a9b3",
+      "sha1": "f406d2edae85d31b33f104161e240f292e996a97",
+      "sha256": "7a1e4b5fd2907e4ae52baba4464c2f77e4a1ba197db49e6e01120b2a928ddb0e"
+    },
+    {
+      "name": "Michael Jackson - The Experience (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BVNE",
+      "size": 67108864,
+      "crc32": "b881b3b5",
+      "md5": "a1f622f8088eec08f0389166541bc539",
+      "sha1": "3444a4a60c4492107a7304aedf9a922c3ef1da9e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Michael%20Jackson%20-%20The%20Experience%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Michael%20Jackson%20-%20The%20Experience%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Michael%20Jackson%20-%20The%20Experience%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Michael%20Jackson%20-%20The%20Experience%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

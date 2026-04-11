@@ -53,5 +53,47 @@
   "external_ids": {
     "wikidata": "Q4880213",
     "igdb": 7778
-  }
+  },
+  "roms": [
+    {
+      "name": "Beetlejuice (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "8cec72cf",
+      "md5": "4ea797a24bf323707757e5e280f910d2",
+      "sha1": "c60d4193bced19623d56558f128189dd69d6e785",
+      "sha256": "a45620a16723454dbcea092f37e4d107e07c41396c74845ec1f550d68f3ddcec"
+    },
+    {
+      "name": "Beetlejuice (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "a9afaf28",
+      "md5": "cdb7c55c2f4fc670e035d755abd5ec91",
+      "sha1": "ce297c8ee48a0c6fee76a6b9fb5210fc9a7334ab",
+      "sha256": "4e7d0f1c4be3fcc74a5b85674f23e17b7b2227db4edbbd1ff2fd7709663edc3f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Beetlejuice%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Beetlejuice%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Beetlejuice%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

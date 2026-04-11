@@ -90,5 +90,95 @@
     "wikidata": "Q911226",
     "mobygames": 4572,
     "igdb": 399
-  }
+  },
+  "roms": [
+    {
+      "name": "Final Fantasy IV (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YF4J",
+      "size": 134217728,
+      "crc32": "856e17f4",
+      "md5": "7d546fd3ba37b0a0cb7184dbfaeb4c6c",
+      "sha1": "3f4dd18c83136935c879fa53f96fb77b699df47d"
+    },
+    {
+      "name": "Final Fantasy IV (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YF4E",
+      "size": 134217728,
+      "crc32": "264fac77",
+      "md5": "68c977b762d5e95f43a3a39026421c04",
+      "sha1": "11400e26610e9247871ac963576a83ebbebd6cf1",
+      "sha256": "d878ac2792d9185d7e065294754d04bf82377d0853c1924b2358aac5cff6e94a"
+    },
+    {
+      "name": "Final Fantasy IV (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YF4P",
+      "size": 134217728,
+      "crc32": "7a3b1a57",
+      "md5": "f8ad5c8e5f13b9813573b219a559e53a",
+      "sha1": "36d44994dc87bee4524f35e91c3f95e59422f404",
+      "sha256": "c9e8eb6bdea06dbfb4a095d00b1554f1b7b1aed7d979b813180dff1cfa86ca46"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Final%20Fantasy%20IV%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Final%20Fantasy%20IV%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Final%20Fantasy%20IV%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Final%20Fantasy%20IV%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Final%20Fantasy%20IV%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Final%20Fantasy%20IV%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Final%20Fantasy%20IV%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Final%20Fantasy%20IV%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Final%20Fantasy%20IV%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -97,5 +97,113 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Metal Gear (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "6089a299",
+      "md5": "05c7017b784c0e06536485cf9f6e7ce7",
+      "sha1": "39a61568b12ffcf7230d7cdc76322d4a53ca30b4",
+      "sha256": "0f905e50e02351cbcfe70dd9335ea3e3507eba945055ed48eb238cc9e230ea08"
+    },
+    {
+      "name": "Metal Gear (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "24918d54",
+      "md5": "c8b808643a90aeb805556ddae8dc6108",
+      "sha1": "5fbff72f40a9c04240f71ae04188da78efdc1111",
+      "sha256": "da3ce676296d1b01ee4415dc926cf74abde2267d51202e309b9eb006868a7088"
+    },
+    {
+      "name": "Metal Gear (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "25ba3d04",
+      "md5": "0e514c68eb8d82342a71a74c6d52499b",
+      "sha1": "9f7448fddaedc1801e2970e50722ac3cfacd19b8",
+      "sha256": "79095355436222161cb3841ff9b5c7a572e77af11461935e433bd6e8dfd0f164"
+    },
+    {
+      "name": "Metal Gear (Japan) (Metal Gear Solid Collection)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "bbd12340",
+      "md5": "209a90355b52f26af4e8e8fbeec58a47",
+      "sha1": "bdf0b6db2cfb720edf1ef34f3e23f78d2528ab19",
+      "sha256": "df9fd3a7135d348c5fd3c1f1d5c97d64ffe41b2cf41727f5d0f2565ec210fc87"
+    },
+    {
+      "name": "Metal Gear (USA) (Metal Gear Solid Collection)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "572187f5",
+      "md5": "965a9c596b83b0a441c2d6eaca261d7d",
+      "sha1": "03239b687fe72e1f463f32b4c583ab8d0bc1f8fa",
+      "sha256": "21d701a2bbad569fe9493549e187f25d757750cda00009e46b242052e6e841f2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Metal%20Gear%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Metal%20Gear%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Metal%20Gear%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Metal%20Gear%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Metal%20Gear%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Metal%20Gear%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Metal%20Gear%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Metal%20Gear%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Metal%20Gear%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

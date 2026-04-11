@@ -45,5 +45,67 @@
     "wikidata": "Q3007341",
     "mobygames": 31693,
     "igdb": 8939
-  }
+  },
+  "roms": [
+    {
+      "name": "Time Killers (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-100046-00",
+      "size": 2097152,
+      "crc32": "a4f48a1a",
+      "md5": "62339a81ea163378d488c6c18d9d609f",
+      "sha1": "5bc883edd092602aac162b42462442e462d3c881",
+      "sha256": "61efe94b8cb4b424e15e7cc4541f1b45485cbd470eca60f83c8a372f5925a04f"
+    },
+    {
+      "name": "Time Killers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-100046-00",
+      "size": 2097152,
+      "crc32": "4b5f52ac",
+      "md5": "54c4482886c06d78c4a1356168d47c71",
+      "sha1": "91b2dd5463261ca240c4977f58d9c8fd7e770624",
+      "sha256": "858adb2c3d287f4ccb1442758bb05dbec07bf6c8932c4ec44c59d3aa8c6e40a2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Time%20Killers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Time%20Killers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Time%20Killers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Time%20Killers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Time%20Killers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Time%20Killers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

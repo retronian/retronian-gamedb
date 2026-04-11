@@ -88,5 +88,123 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mickey Mania (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "75fddf27",
+      "md5": "25079ae8cf72ed2138e6ca781a2210e9",
+      "sha1": "69a1f2a6541565f86abbb568dbf04a8bb3ac90b0",
+      "sha256": "c4b20031591d8656ddbbaf013037a8c57aed134804923353c88e32da3ca3b680"
+    },
+    {
+      "name": "Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "b6c13316",
+      "md5": "ac416a3a1d727895c404aeebd9633f32",
+      "sha1": "5e7c62d7304cc302367f57d6c2c6b5cdf9f2ac57",
+      "sha256": "a480969dd108c5017ee7cc3f010a2e51b6fbad73059d5b21817a955c843c65b6"
+    },
+    {
+      "name": "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "08806b5b",
+      "md5": "e3f9cc6d8321fa661a30cabe5dce141a",
+      "sha1": "34b11763d672df886789c428f7cf8a567876a57e",
+      "sha256": "0773eb741ce28f963f767fc7dd44678eb3d37ed4dc7fc82bb9cce7d55f1cfc64"
+    },
+    {
+      "name": "Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "b9c629b0",
+      "md5": "dd7a818144d4e668b97f7bfbd684e88f",
+      "sha1": "5695f1614b2333598da4db26606339babd133bd7",
+      "sha256": "ea911a748864edc07c211a0ee21e304856dc387b0b67256f23e6a1a9bdfd8434"
+    },
+    {
+      "name": "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 1) (1994-07-18) (Debug)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "7f768797",
+      "md5": "fe22402478e92908ece759b5219fa77f",
+      "sha1": "52e174d3e45aae2d77d909b1914db51776ef4584",
+      "sha256": "01ea0d98112514752aa97c8ac2bc8755cc7be21f5f1fedff9f3ce96b6ef00416"
+    },
+    {
+      "name": "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "32dd0733",
+      "md5": "8fb63ff30d4d7af9d8dabc592f389e2b",
+      "sha1": "cf0defe9afb10234b7ce8ee52dbbff23428d386f",
+      "sha256": "666b68a5411ffd91bf90803bbea9ea66ee54d819065682527fe60b61be42c3fe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mickey%20Mania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mickey%20Mania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mickey%20Mania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mickey%20Mania%20-%20The%20Timeless%20Adventures%20of%20Mickey%20Mouse%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mickey%20Mania%20-%20The%20Timeless%20Adventures%20of%20Mickey%20Mouse%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mickey%20Mania%20-%20The%20Timeless%20Adventures%20of%20Mickey%20Mouse%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mickey%20Mania%20-%20The%20Timeless%20Adventures%20of%20Mickey%20Mouse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mickey%20Mania%20-%20The%20Timeless%20Adventures%20of%20Mickey%20Mouse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mickey%20Mania%20-%20The%20Timeless%20Adventures%20of%20Mickey%20Mouse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

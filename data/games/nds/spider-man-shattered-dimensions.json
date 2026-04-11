@@ -72,5 +72,65 @@
     "wikidata": "Q729212",
     "mobygames": 48519,
     "igdb": 142254
-  }
+  },
+  "roms": [
+    {
+      "name": "Spider-Man - Shattered Dimensions (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3PE",
+      "size": 67108864,
+      "crc32": "ffba5ffe",
+      "md5": "e36b3a008e56990352814f5e9d8f9e35",
+      "sha1": "89adaf8bc0d510794dfd0f1dc36dcf0ee3811688"
+    },
+    {
+      "name": "Spider-Man - Shattered Dimensions (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3PP",
+      "size": 67108864,
+      "crc32": "1d82aeef",
+      "md5": "64f6c3d017fc5f61eb3740ce2fd8a2a7",
+      "sha1": "b09b7540e93292c8a7bdcc7e45a6b945470f34a3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spider-Man%20-%20Shattered%20Dimensions%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Spider-Man%20-%20Shattered%20Dimensions%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spider-Man%20-%20Shattered%20Dimensions%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spider-Man%20-%20Shattered%20Dimensions%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Spider-Man%20-%20Shattered%20Dimensions%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spider-Man%20-%20Shattered%20Dimensions%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

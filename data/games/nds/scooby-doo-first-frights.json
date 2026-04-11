@@ -54,5 +54,54 @@
     "wikidata": "Q7434350",
     "mobygames": 45552,
     "igdb": 2862
-  }
+  },
+  "roms": [
+    {
+      "name": "Scooby-Doo! - First Frights (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CQVP",
+      "size": 67108864,
+      "crc32": "a5bfabe1",
+      "md5": "b6542afb5fb9da382a03553020406af9",
+      "sha1": "5a5e75569a42d233d6beef16f96ad062482cb144"
+    },
+    {
+      "name": "Scooby-Doo! - First Frights (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CQVE",
+      "size": 67108864,
+      "crc32": "518ed07a",
+      "md5": "4989f2bd739ad3ccb69186d69c020c76",
+      "sha1": "336e09e8eae878d4e4fb7be7535ac905dd603af6",
+      "sha256": "a6c50463eea4eabdac40bed522030ce621b68ae7a12da874529d7210acb1f2bc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scooby-Doo%21%20-%20First%20Frights%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scooby-Doo%21%20-%20First%20Frights%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scooby-Doo%21%20-%20First%20Frights%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scooby-Doo%21%20-%20First%20Frights%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

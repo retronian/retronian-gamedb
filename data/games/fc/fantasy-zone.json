@@ -72,5 +72,47 @@
     "wikidata": "Q2962094",
     "mobygames": 8220,
     "igdb": 202914
-  }
+  },
+  "roms": [
+    {
+      "name": "Fantasy Zone (Japan) (En) (Sunsoft)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "584f706c",
+      "md5": "76dba7dc0d6f61abc11f4d136bc22084",
+      "sha1": "578bc2d91db7c71fabaeb9624b89253ea742c64f",
+      "sha256": "0d74632b64868d3d95519da3087fc3307253a18cb50387f7e9de613441947936"
+    },
+    {
+      "name": "Fantasy Zone (USA) (Tengen) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "2b137c87",
+      "md5": "6da2824ae6604cf06288a4edf684c796",
+      "sha1": "7605d4d8748e63af582b4180a5c940d477a39639",
+      "sha256": "758f8064a595cb3053a8a5a929f4762e988715ee4055daa8c05585a3e895dbff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Fantasy%20Zone%20%28USA%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Fantasy%20Zone%20%28USA%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Fantasy%20Zone%20%28USA%29%20%28Tengen%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -81,5 +81,65 @@
     "wikidata": "Q577926",
     "mobygames": 373,
     "igdb": 362048
-  }
+  },
+  "roms": [
+    {
+      "name": "Earthworm Jim 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AJ4E",
+      "size": 8388608,
+      "crc32": "7496555c",
+      "md5": "41c45028c30a5f0241f5b479a954c745",
+      "sha1": "e500950377b64ecff541b92dde99df5f717abd0e"
+    },
+    {
+      "name": "Earthworm Jim 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AJ4P",
+      "size": 8388608,
+      "crc32": "d211e8da",
+      "md5": "3414c77d76eb093abc478f67ef7ec3b9",
+      "sha1": "231a8c59d10ed12c9ea7a4124942ad3c50f495d7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Earthworm%20Jim%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Earthworm%20Jim%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Earthworm%20Jim%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Earthworm%20Jim%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Earthworm%20Jim%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Earthworm%20Jim%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

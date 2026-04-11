@@ -97,5 +97,78 @@
     "wikidata": "Q840308",
     "mobygames": 4357,
     "igdb": 1187
-  }
+  },
+  "roms": [
+    {
+      "name": "Crash Bandicoot - Warped (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 110333744,
+      "crc32": "bbd53031",
+      "md5": "f09448a4cb8751a2a8330614361ff6eb",
+      "sha1": "9baf720506f00f3310ad13e50523ac71030163a3"
+    },
+    {
+      "name": "Crash Bandicoot 3 - Warped (France)",
+      "source": "no_intro",
+      "size": 140203280,
+      "crc32": "f097fb2f",
+      "md5": "344b0c916238ebe6aa61faf74b389ca9",
+      "sha1": "3313b253cceb7773d59ac6d888fd90850d5a42ca",
+      "sha256": "45e12c83b6b2509d934b346e40e315d920db2bdca3e4dafdae801707e2e9831a"
+    },
+    {
+      "name": "Crash Bandicoot 3 - Warped (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 140179264,
+      "crc32": "b6166b2f",
+      "md5": "1edb9f75208ca108d9d54578bad1b0e2",
+      "sha1": "8c0bf20e32d851af28b8d1156eb102058ee9ec31"
+    },
+    {
+      "name": "Crash Bandicoot 3 - Warped (Germany)",
+      "source": "no_intro",
+      "size": 140223632,
+      "crc32": "fdcfa170",
+      "md5": "a05a08dc69d12660d7383a799399a3b6",
+      "sha1": "fe131e7beb7e97d44394ffc5802e171f7c48051f"
+    },
+    {
+      "name": "Crash Bandicoot 3 - Warped (Italy)",
+      "source": "no_intro",
+      "size": 140197440,
+      "crc32": "e931a0cc",
+      "md5": "8b53ec5b00e3751ecb42e88da9c9383e",
+      "sha1": "f29e0df486de4b3e49ed51b321ae4c2293451a9f"
+    },
+    {
+      "name": "Crash Bandicoot 3 - Warped (Spain)",
+      "source": "no_intro",
+      "size": 140193312,
+      "crc32": "a355cd0c",
+      "md5": "72c59ba36db32697dabb6cdc13261c9a",
+      "sha1": "c8c3e0a2c426445dce0b2b41172b0a1ed089a2ac"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Crash%20Bandicoot%20-%20Warped%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Crash%20Bandicoot%20-%20Warped%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Crash%20Bandicoot%20-%20Warped%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

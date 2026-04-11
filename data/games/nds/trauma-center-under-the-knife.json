@@ -65,6 +65,51 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Trauma Center: Under the Knife 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Trauma Center: Under the Knife 2",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Trauma Center: Under the Knife 2",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Trauma Center: Under the Knife 2",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Trauma Center: Under the Knife 2",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2005-06-16",
@@ -72,5 +117,122 @@
     "wikidata": "Q1857761",
     "mobygames": 20582,
     "igdb": 1526
-  }
+  },
+  "roms": [
+    {
+      "name": "Trauma Center - Under the Knife (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AKDE",
+      "size": 16777216,
+      "crc32": "0622460a",
+      "md5": "a60071bc7adc9bab2d64f454e49e118f",
+      "sha1": "db9ae5a10471fd001dcec2b4d7303b40fc876c57"
+    },
+    {
+      "name": "Trauma Center - Under the Knife (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AKDP",
+      "size": 33554432,
+      "crc32": "8d818387",
+      "md5": "8dad688cd785b93374f36cfc940b672e",
+      "sha1": "9572fc4727f8ed6c65900c11e6d9b3f67243bfc5",
+      "sha256": "2562845e0da2465519aeba8b3e3f029c7471bd5c8d82dd704abc12aa7609e2ce"
+    },
+    {
+      "name": "Trauma Center - Under the Knife 2 (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "Y5UE",
+      "size": 16777216,
+      "crc32": "f69c6aeb",
+      "md5": "4bd4f857e3d1ad85badd6ef795fbeaef",
+      "sha1": "4db5f19a739dc39b9bf2d3422212e25036641dfb"
+    },
+    {
+      "name": "Trauma Center - Under the Knife 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YYKE",
+      "size": 67108864,
+      "crc32": "1497600d",
+      "md5": "c3245d475b8258b3546cd9593aaa6e82",
+      "sha1": "32cc3cef227a76fa107b666311e9fadb28b0e853"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Trauma%20Center%20-%20Under%20the%20Knife%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Trauma%20Center%20-%20Under%20the%20Knife%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Trauma%20Center%20-%20Under%20the%20Knife%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Trauma%20Center%20-%20Under%20the%20Knife%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Trauma%20Center%20-%20Under%20the%20Knife%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Trauma%20Center%20-%20Under%20the%20Knife%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Trauma%20Center%20-%20Under%20the%20Knife%202%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Trauma%20Center%20-%20Under%20the%20Knife%202%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Trauma%20Center%20-%20Under%20the%20Knife%202%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Trauma%20Center%20-%20Under%20the%20Knife%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Trauma%20Center%20-%20Under%20the%20Knife%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Trauma%20Center%20-%20Under%20the%20Knife%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

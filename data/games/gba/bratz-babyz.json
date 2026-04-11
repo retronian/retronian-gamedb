@@ -17,5 +17,66 @@
   "external_ids": {
     "wikidata": "Q4958194",
     "igdb": 6336
-  }
+  },
+  "roms": [
+    {
+      "name": "Bratz - Babyz (Europe) (En,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BBZP",
+      "size": 4194304,
+      "crc32": "08b89540",
+      "md5": "a7b49de9ab6230d8077bbef4d906497b",
+      "sha1": "33b0600b2cc0bfd555bd26bdd73bc9830607a2ac"
+    },
+    {
+      "name": "Bratz - Babyz (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BBZE",
+      "size": 4194304,
+      "crc32": "23e8a494",
+      "md5": "33492e64f810fb02f6dff879b8e0182b",
+      "sha1": "84548f0e15048b024f787cef41c5258293753c1f",
+      "sha256": "c6ab1d4939b7009c56b8433ab95ec470dcdb6447e28cf89d3b0d355ab8015867"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bratz%20-%20Babyz%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bratz%20-%20Babyz%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bratz%20-%20Babyz%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bratz%20-%20Babyz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bratz%20-%20Babyz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bratz%20-%20Babyz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

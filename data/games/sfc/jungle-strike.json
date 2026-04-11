@@ -63,5 +63,65 @@
     "wikidata": "Q3190026",
     "mobygames": 792,
     "igdb": 4368
-  }
+  },
+  "roms": [
+    {
+      "name": "Jungle Strike (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "fb770320",
+      "md5": "555b87d479701e22a3f88e4969b5c877",
+      "sha1": "07d155903f8d7cfa0b66f5e379163282987a635f",
+      "sha256": "2516843fa405ab1aa1f242b57f19977519aefb68599474d2c7065aaef88ecb88"
+    },
+    {
+      "name": "Jungle Strike (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "335487e5",
+      "md5": "ff1044ad900a70dc2fd91abdd67ce1c6",
+      "sha1": "8a37f3c440623306d7b60a484a9f83bd0daace26",
+      "sha256": "8d812ea4fa897274116f7f43bc689e110f1cfbd3f7eb3a1737c2a85d36369159"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jungle%20Strike%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jungle%20Strike%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jungle%20Strike%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jungle%20Strike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jungle%20Strike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jungle%20Strike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -81,5 +81,240 @@
     "wikidata": "Q1142888",
     "mobygames": 31024,
     "igdb": 22301
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Mario 64 DS (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A23E",
+      "size": 16777216,
+      "crc32": "c2da5ca6",
+      "md5": "9e96ccc47a7adcdc16b81181bcfb892d",
+      "sha1": "3aeda3801fb59b4eef8c016e6178a594c4383ea8",
+      "sha256": "6bb202bd16b95ca03b5d8c3ae5f84061c6e858cc4fcef61c5c8528d3c4ed79d0"
+    },
+    {
+      "name": "Super Mario 64 DS (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASMP",
+      "size": 16777216,
+      "crc32": "29715dec",
+      "md5": "867b3d17ad268e10357c9754a77147e5",
+      "sha1": "1367529f2cb23e76ef295cb1727333ae8f0a6cd7",
+      "sha256": "ce5829aaa79f06c67140ed1f45cbca738b0a9d0180538c8c1498472d859db032"
+    },
+    {
+      "name": "Super Mario 64 DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ASMJ",
+      "size": 16777216,
+      "crc32": "aac9842d",
+      "md5": "3d68961ec67d4b6746def9dbe3b95a6b",
+      "sha1": "b4fd22fff422cf55fdb693e7ea471f46d23bb584"
+    },
+    {
+      "name": "Super Mario 64 DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASME",
+      "size": 16777216,
+      "crc32": "e6321562",
+      "md5": "82ea4525a39dc2f484a054cff3f1b834",
+      "sha1": "a5b8bd846725965c588b6fc591f1fe822f7bbdbd",
+      "sha256": "916056a27ffb07d1bae2ce0ca6f6464c1621c737dc96657a7b9eab4d3bccfc87"
+    },
+    {
+      "name": "Super Mario 64 DS (USA, Australia) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASME",
+      "size": 16777216,
+      "crc32": "23a00ddf",
+      "md5": "4ced5213f558e297541cb7314c909401",
+      "sha1": "7bf8a92b259e303899851034d85c531ccdc532e2",
+      "sha256": "14aa4cd7b7a63a1b5dc0aa8f6f83c4a188e94b42027f0bb3c678353527d8b228"
+    },
+    {
+      "name": "Super Mario 64 DS (Japan) (Rev 1) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "WUP-N-DASJ",
+      "size": 16777216,
+      "crc32": "0ebe7432",
+      "md5": "187e639507b4ca1ba2d21f28b8279c4c",
+      "sha1": "668571c057308f824e69d96009e84950410d31af"
+    },
+    {
+      "name": "Super Mario 64 DS (USA) (Rev 1) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "WUP-N-DASE",
+      "size": 16777216,
+      "crc32": "7b4b6099",
+      "md5": "7eefda308542568140e8db35320568bf",
+      "sha1": "1076a3789f8f51b4d5a2572da46500fb34d2c946"
+    },
+    {
+      "name": "Super Mario 64 DS (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "WUP-N-DASP",
+      "size": 16777216,
+      "crc32": "5d9502d1",
+      "md5": "ad72fab77bb9f037ac74c247f2e1ca3d",
+      "sha1": "1e8e16955d87fd25753a02d5950542bb321beb33"
+    },
+    {
+      "name": "Super Mario 64 DS (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ASMJ",
+      "size": 16777216,
+      "crc32": "868f8a89",
+      "md5": "5964dd26fecde4c50e2cc151f8a29e97",
+      "sha1": "699d0ec20951256e8ccd56a2dc9fe107a82f74b8",
+      "sha256": "37c448c516acd19e943cb02feb15ab93d8df6cefea76942dc3a5c2ac237617bb"
+    },
+    {
+      "name": "Super Mario 64 DS (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "ASMK",
+      "size": 16777216,
+      "crc32": "29f0a03e",
+      "md5": "dc187c53fa7c4df740ed93bb6c787c86",
+      "sha1": "d9847fbc412e68cb078b39c507d08cb73488f0c5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Mario%2064%20DS%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Mario%2064%20DS%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Mario%2064%20DS%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Mario%2064%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Mario%2064%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Mario%2064%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Mario%2064%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Mario%2064%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Mario%2064%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Mario%2064%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Mario%2064%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Mario%2064%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Mario%2064%20DS%20%28USA%2C%20Australia%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Mario%2064%20DS%20%28USA%2C%20Australia%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Mario%2064%20DS%20%28USA%2C%20Australia%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Mario%2064%20DS%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Mario%2064%20DS%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Mario%2064%20DS%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Mario%2064%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Mario%2064%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Mario%2064%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
 }

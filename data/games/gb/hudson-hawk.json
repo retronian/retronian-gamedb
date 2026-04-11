@@ -61,5 +61,81 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Hudson Hawk (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "1cb6158c",
+      "md5": "2f53a8739acac44fe6400dfdaed01a81",
+      "sha1": "6dfc4f8269dccec1653854b98fa5c8627cd50ce0",
+      "sha256": "4f9fc4c136b5724b2a7de79085beb7a3bc877dbf248e42299aa860d6077e426b"
+    },
+    {
+      "name": "Hudson Hawk (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "adff7bbd",
+      "md5": "9c1efb1bd07fd91765f680e7e9bc44f1",
+      "sha1": "efdbb5f86d6ff3b3f248b0360ab548ac1ceb1e0e",
+      "sha256": "c91cc7d8afb4201e85da779f964cc36a009e61322d9e9a7b40e52104b988859a"
+    },
+    {
+      "name": "Hudson Hawk (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "d4cd525d",
+      "md5": "d736b55291d7dae4d9c3f1e74fbff0da",
+      "sha1": "07c6a49f7c340d3cc78ca688eb1591853255a6c6",
+      "sha256": "5f763afda7b8bb0d78761c883fd8cd41e79c12b51dd93b415fc2745d403f6a5d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hudson%20Hawk%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hudson%20Hawk%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hudson%20Hawk%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hudson%20Hawk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hudson%20Hawk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hudson%20Hawk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hudson%20Hawk%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

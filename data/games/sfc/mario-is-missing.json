@@ -72,5 +72,123 @@
     "wikidata": "Q2517563",
     "mobygames": 7106,
     "igdb": 210223
-  }
+  },
+  "roms": [
+    {
+      "name": "Mario Is Missing! (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "5e04efb5",
+      "md5": "d5217f2137a4f4df63d83264a9a92bcc",
+      "sha1": "6787b42040b2e6ac79246e6b439af2281a396cd0",
+      "sha256": "294fc335c21f8d011c215336a29017544b66c2f48d6b4b1fab48699fafe40e9d"
+    },
+    {
+      "name": "Mario Is Missing! (France)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "2ec7c6fe",
+      "md5": "3253fbf00a560ed8cafb5d603b25e42e",
+      "sha1": "c7fac77270ecc64cd1541be9a86a007231b06cc6",
+      "sha256": "18f5666860c36fabebc909d262e234bb0bf51a87b55945c134118a4c36b49b52"
+    },
+    {
+      "name": "Mario Is Missing! (Germany)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "f6f739a9",
+      "md5": "12a76fb31efb2cd1a08abd67b914a185",
+      "sha1": "fcd4a8c83efe83e8e15b03d83eb8f3f04a7d532f",
+      "sha256": "c51892c40e64ecc1e3919c66969788dc8659c2caacef389305c7ebdb85400b9a"
+    },
+    {
+      "name": "Mario Is Missing! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e51a3fcd",
+      "md5": "2a2152976e503eaacd9815f44c262d73",
+      "sha1": "93fdfdbef3f44c89881c64eb76146ee09328f245",
+      "sha256": "8267e2f092c86d5a29c9a826db82c7473638e28e2507cdaf5c86981f07cd0bef"
+    },
+    {
+      "name": "Mario Is Missing! (USA) (Beta) (1993-03-10)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "c2448dda",
+      "md5": "3fa54b9950df946b5774e245b19a5430",
+      "sha1": "0936084dc3bf1e2eaf90277e54d0d76a786c187f",
+      "sha256": "19c4839705f038857cc8c9188331e334763ed57daab5cdecf6f8ec51812bd7aa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%20Is%20Missing%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mario%20Is%20Missing%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mario%20Is%20Missing%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%20Is%20Missing%21%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mario%20Is%20Missing%21%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mario%20Is%20Missing%21%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%20Is%20Missing%21%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mario%20Is%20Missing%21%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mario%20Is%20Missing%21%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%20Is%20Missing%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mario%20Is%20Missing%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mario%20Is%20Missing%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

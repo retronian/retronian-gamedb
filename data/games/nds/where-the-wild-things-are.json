@@ -45,5 +45,53 @@
     "wikidata": "Q7993492",
     "mobygames": 85688,
     "igdb": 200809
-  }
+  },
+  "roms": [
+    {
+      "name": "Where the Wild Things Are (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CWQP",
+      "size": 33554432,
+      "crc32": "5e615908",
+      "md5": "b9eb1a55d314ec6306eecc08bf09a344",
+      "sha1": "68e1845edd4f7deb1efa04515214b9cdf77776fa"
+    },
+    {
+      "name": "Where the Wild Things Are (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CWQE",
+      "size": 33554432,
+      "crc32": "bdc93283",
+      "md5": "2d7b40ff88a3c87442a0327580e360b9",
+      "sha1": "72ab659f8c212e0fbe2c644cebfbedf1464ea572"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Where%20the%20Wild%20Things%20Are%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Where%20the%20Wild%20Things%20Are%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Where%20the%20Wild%20Things%20Are%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Where%20the%20Wild%20Things%20Are%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

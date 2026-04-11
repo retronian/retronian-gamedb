@@ -29,11 +29,52 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Puzzle Mania",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1999-01-01",
   "external_ids": {
     "wikidata": "Q11276046",
     "igdb": 213913
-  }
+  },
+  "roms": [
+    {
+      "name": "Puzzle Mania (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 8268208,
+      "crc32": "83c38404",
+      "md5": "d3f06333afd772b26bc13d4c54241569",
+      "sha1": "bbb5b1e6887e78a412e6274424f84a1a28b66531",
+      "sha256": "e7a12a127a4d261aaf948be078f50f3dd10878cf58bcdeab334afc1ac266ccff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Puzzle%20Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Puzzle%20Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Puzzle%20Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

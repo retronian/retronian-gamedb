@@ -17,5 +17,65 @@
   "external_ids": {
     "wikidata": "Q111584698",
     "igdb": 49088
-  }
+  },
+  "roms": [
+    {
+      "name": "Power Racer (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "cf8aeee8",
+      "md5": "8e76d1ce4b251e3a31056feddda92e9b",
+      "sha1": "6e10f59bb4090c0d0e79b57a2e39d9577ce0282e",
+      "sha256": "80a54888674d5056018fcb76f705edeb18abe635a6dd21a788f5e06f8053fd22"
+    },
+    {
+      "name": "Power Racer (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "afc6a949",
+      "md5": "6073cb28e651b48f0bf19e654aab8c7d",
+      "sha1": "c0c8f28a9b66b6c08a0ed4d31a186c3382160c3d",
+      "sha256": "db2c1bd50e6a3503ce7d7a8405083dadbef47d9e9140f848162734aac7ca115c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Power%20Racer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Power%20Racer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Power%20Racer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Power%20Racer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Power%20Racer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Power%20Racer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

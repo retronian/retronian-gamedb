@@ -45,5 +45,94 @@
     "wikidata": "Q16267177",
     "mobygames": 30318,
     "igdb": 2646
-  }
+  },
+  "roms": [
+    {
+      "name": "Namco Museum DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YNME",
+      "size": 16777216,
+      "crc32": "5c663bf7",
+      "md5": "e73c7a1ec06ea44c436d2a3ac00cccfe",
+      "sha1": "034c393904e6882c249281a17d6663c486710b3c"
+    },
+    {
+      "name": "Namco Museum DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YNMJ",
+      "size": 16777216,
+      "crc32": "254ae99f",
+      "md5": "4cb655c7d4670eb1fbb3af957970f873",
+      "sha1": "b4092c72c61f30e96117f0877d1b1198b281d161"
+    },
+    {
+      "name": "Namco Museum DS (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YNMP",
+      "size": 16777216,
+      "crc32": "f7343afa",
+      "md5": "4f68664cd502285d7be0ce8ffc02c2e8",
+      "sha1": "800955ac5f0e90ec3a4e10d57caff008daddc752",
+      "sha256": "bec41b610f31323c269c648edc5e07e743df9062dac8a20321c93a40fb8885bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Namco%20Museum%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Namco%20Museum%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Namco%20Museum%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Namco%20Museum%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Namco%20Museum%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Namco%20Museum%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Namco%20Museum%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Namco%20Museum%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Namco%20Museum%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

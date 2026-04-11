@@ -18,5 +18,65 @@
     "wikidata": "Q19710438",
     "mobygames": 49325,
     "igdb": 21156
-  }
+  },
+  "roms": [
+    {
+      "name": "Teenage Mutant Ninja Turtles - Arcade Attack (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BTNE",
+      "size": 67108864,
+      "crc32": "dad8d83c",
+      "md5": "69e097062ea6cf1cb85aea4d15409a1b",
+      "sha1": "bc072714fe0018bef589f5b5cb9f393fad3ed057"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles - Arcade Attack (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BTNP",
+      "size": 67108864,
+      "crc32": "67a01417",
+      "md5": "cac768f6d04402e56c2d07fea96d5002",
+      "sha1": "04517845f02bddf17e87acc629a47306bf066f3a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20-%20Arcade%20Attack%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20-%20Arcade%20Attack%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20-%20Arcade%20Attack%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20-%20Arcade%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20-%20Arcade%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20-%20Arcade%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

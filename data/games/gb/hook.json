@@ -34,5 +34,109 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Hook (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "370a2c2f",
+      "md5": "b3e011cde1fa6b5bebcac15ac970c4a9",
+      "sha1": "0e0784c238b8a16666157e1ac99cee17feb52c63",
+      "sha256": "b7d90173332600c419a378bad136dfe3b8c181e6c67b8991135400b9ee379392"
+    },
+    {
+      "name": "Hook (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "62d8173c",
+      "md5": "42926474038e4d82e2b7a5e60fbd46c6",
+      "sha1": "90eee3e0434bdf63d00b0e9c5cf6f62626974ca4",
+      "sha256": "d2193731e04b5cdf5826286468776a4e460c6acc31e972f1413781f5ab955816"
+    },
+    {
+      "name": "Hook (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "6765b61b",
+      "md5": "c4e2de3be0bb5608ab903a885afc065d",
+      "sha1": "570d7cc03e80e199e856160912431c21a6ca0f6c",
+      "sha256": "0dc2278500feb3844ba0ceabee289be011da1084903ab1c3fd681c83e7191118"
+    },
+    {
+      "name": "Hook (USA) (Sample)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "c091abc8",
+      "md5": "ac818b043dce5ac97e5c36fb924964a6",
+      "sha1": "0299d84e5f722e9298c1ce190b8e4a785849b868",
+      "sha256": "1f9208cec71fb93a86a01ad508cb06e1a766a37803cea130f00f5c96e17f2a0d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hook%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hook%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hook%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hook%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hook%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hook%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hook%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hook%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hook%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hook%20%28USA%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

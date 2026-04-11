@@ -54,5 +54,65 @@
     "wikidata": "Q7262647",
     "mobygames": 18027,
     "igdb": 81459
-  }
+  },
+  "roms": [
+    {
+      "name": "Puyo Pop (USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APYE",
+      "size": 8388608,
+      "crc32": "0901be49",
+      "md5": "3ee8e61dfe10bbfc15f51fd52eef8e14",
+      "sha1": "338702ea961b17c46a1deb960f5d0df19d7912f9"
+    },
+    {
+      "name": "Puyo Pop (Europe) (En,Ja)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "APYP",
+      "size": 8388608,
+      "crc32": "c85de50e",
+      "md5": "2ea8794792b610dc216324f056000f29",
+      "sha1": "df931351d42d92c0d4ca1623d77d8255a1861819"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Puyo%20Pop%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Puyo%20Pop%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Puyo%20Pop%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Puyo%20Pop%20%28Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Puyo%20Pop%20%28Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Puyo%20Pop%20%28Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

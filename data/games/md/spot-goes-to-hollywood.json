@@ -36,5 +36,67 @@
     "wikidata": "Q3494192",
     "mobygames": 8558,
     "igdb": 4454
-  }
+  },
+  "roms": [
+    {
+      "name": "Spot Goes to Hollywood (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70326-00",
+      "size": 3145728,
+      "crc32": "fbe254ea",
+      "md5": "dd71ff588dbf89c11d7e885cf511d717",
+      "sha1": "be1144c3d9d49dce2d5e1ab598ef0e2b730950b7",
+      "sha256": "1a0d12cffa2f92e41b9a3aeef2f0ea63516d446a9ad7e466350b076ca28fa22c"
+    },
+    {
+      "name": "Spot Goes to Hollywood (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81616-01",
+      "size": 3145728,
+      "crc32": "bdad1cbc",
+      "md5": "f3c5a2a9eae5cffbdc9f87c20fb492fc",
+      "sha1": "064a384f745eeffee3621d55a0278c133abdbc11",
+      "sha256": "39d87a624067000c8c84e08d88d29f6e9acd70a5ddfd52b7981ab98a9977c5d2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Spot%20Goes%20to%20Hollywood%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Spot%20Goes%20to%20Hollywood%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Spot%20Goes%20to%20Hollywood%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Spot%20Goes%20to%20Hollywood%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Spot%20Goes%20to%20Hollywood%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Spot%20Goes%20to%20Hollywood%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

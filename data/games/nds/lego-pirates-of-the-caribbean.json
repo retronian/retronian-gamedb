@@ -72,5 +72,54 @@
     "wikidata": "Q964473",
     "mobygames": 51830,
     "igdb": 283748
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Pirates of the Caribbean - The Video Game (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZDP",
+      "size": 134217728,
+      "crc32": "411a03fd",
+      "md5": "4d3ea182888a4071f4c002b343a3f69d",
+      "sha1": "4c649fc2c8d6b4e6ea3162c6d31a67446da2f50a",
+      "sha256": "0ebb5f18ed3a9c288a476d29b011b33f5667ea840af1953fe5f85d262799dc11"
+    },
+    {
+      "name": "LEGO Pirates of the Caribbean - The Video Game (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZDE",
+      "size": 134217728,
+      "crc32": "4cc2ca03",
+      "md5": "21e448472a20b7af6fcec3bb31827724",
+      "sha1": "0a83684764a1a2c1cd16442f42891eb6c2affa46"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Pirates%20of%20the%20Caribbean%20-%20The%20Video%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Pirates%20of%20the%20Caribbean%20-%20The%20Video%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Pirates%20of%20the%20Caribbean%20-%20The%20Video%20Game%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Pirates%20of%20the%20Caribbean%20-%20The%20Video%20Game%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

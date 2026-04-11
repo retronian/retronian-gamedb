@@ -42,5 +42,37 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1995-01-20"
+  "first_release_date": "1995-01-20",
+  "roms": [
+    {
+      "name": "Stardust Suplex (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2621440,
+      "crc32": "ada27d91",
+      "md5": "44cd660a0a200d765b5d5e4a28f9559c",
+      "sha1": "c87e703ba15cb3a2f6dfa20e4178955486f59d86",
+      "sha256": "3a77e59ae3c0e1bce425cd1bf2b8938df89e8ca8c2ebadbfba2e32e638467e81"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Stardust%20Suplex%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Stardust%20Suplex%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Stardust%20Suplex%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

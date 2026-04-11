@@ -56,6 +56,15 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "ボンバーマン64",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1997-09-26",
@@ -63,5 +72,95 @@
     "wikidata": "Q2909714",
     "mobygames": 3584,
     "igdb": 80368
-  }
+  },
+  "roms": [
+    {
+      "name": "Bomberman 64 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NBMP",
+      "size": 8388608,
+      "crc32": "525339c5",
+      "md5": "b68f49aa8f6f7499184ac6b7b8570f2b",
+      "sha1": "01e50f41733994bf229bee3b3d8aa9fd46441175",
+      "sha256": "412112a3a7dbd712c9d7420028144b47691768aa6a26846c897abae8c9a69157"
+    },
+    {
+      "name": "Bomberman 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16777216,
+      "crc32": "cb9bd3f5",
+      "md5": "d54fd7067bd774e32b57f9c2c0496899",
+      "sha1": "62f091b8b951238a7fb98459257ecc8a9095f6e9",
+      "sha256": "5c7fb711f3885f3d8682955e5c88e4bb47c9bfbb996d8423b6da8f1e8f8884a2"
+    },
+    {
+      "name": "Bomberman 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NBME",
+      "size": 8388608,
+      "crc32": "3ed0e0dc",
+      "md5": "093058ece14c8cc1a887b2087eb5cfe9",
+      "sha1": "8a7648d8105ac4fc1ad942291b2ef89aeca921c9",
+      "sha256": "e6da7c26127788cd894b88b71cc055ff9dec0d0f4f8e10d9b15b40153af2b52a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bomberman%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bomberman%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bomberman%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bomberman%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bomberman%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bomberman%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bomberman%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bomberman%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bomberman%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

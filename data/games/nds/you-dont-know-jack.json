@@ -45,5 +45,32 @@
     "wikidata": "Q8057181",
     "mobygames": 51025,
     "igdb": 5304
-  }
+  },
+  "roms": [
+    {
+      "name": "You Don't Know Jack (USA) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VJCE",
+      "size": 67108864,
+      "crc32": "ca97544c",
+      "md5": "7cc7a7ddd65b58caab657d8483586ac6",
+      "sha1": "979f2ab289d588e274478880b8e0e0bbf727bff4",
+      "sha256": "a7248770c1a6979cd49d67bf0132cff4c3da12add9afb5e2a721d750432b02cd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/You%20Don%27t%20Know%20Jack%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/You%20Don%27t%20Know%20Jack%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

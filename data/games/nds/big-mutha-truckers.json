@@ -36,5 +36,65 @@
     "wikidata": "Q4906062",
     "mobygames": 8964,
     "igdb": 248457
-  }
+  },
+  "roms": [
+    {
+      "name": "Big Mutha Truckers (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AMUP",
+      "size": 8388608,
+      "crc32": "b7b718a5",
+      "md5": "80a52994f4e7918182646534049ce1b2",
+      "sha1": "0b5f88fb0bd39540371ab79fe47d6f3a102a62ee"
+    },
+    {
+      "name": "Big Mutha Truckers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AMUE",
+      "size": 8388608,
+      "crc32": "ded151f6",
+      "md5": "4764509ea6690fbcde3cdb12a5c2966f",
+      "sha1": "82b18106f8d0cc36bce0d69331c4469454a9802c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Big%20Mutha%20Truckers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Big%20Mutha%20Truckers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Big%20Mutha%20Truckers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Big%20Mutha%20Truckers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Big%20Mutha%20Truckers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Big%20Mutha%20Truckers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

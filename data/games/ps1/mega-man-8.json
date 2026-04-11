@@ -80,5 +80,45 @@
     "wikidata": "Q2302721",
     "mobygames": 3732,
     "igdb": 1721
-  }
+  },
+  "roms": [
+    {
+      "name": "Mega Man 8 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 246857712,
+      "crc32": "17dcfab9",
+      "md5": "edcfbdc191e2498445a5fae7e73fb952",
+      "sha1": "aeef5c6ab18e65bc980494c0bdfde316195e6ba2"
+    },
+    {
+      "name": "RockMan 8 - Metal Heroes (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 314442016,
+      "crc32": "d5059aa5",
+      "md5": "30eab3e814a9d44f92e3038068e5959c",
+      "sha1": "79e238497f19dadefb44452441b9f176f0f8a047"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Mega%20Man%208%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Mega%20Man%208%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Mega%20Man%208%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -91,6 +91,15 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": false
+    },
+    {
+      "text": "Legend of Zelda, The - Oracle of Seasons",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "2001-02-27",
@@ -104,6 +113,94 @@
       "text": "ホロドラムの土地は徐々に衰えていっています。闇の将軍オノックスが季節のオラクルを囚え、土地から命を吸い取っています。季節が混乱し、悪の力が横行する中、世界は英雄を求め…リンクを見つけます。彼の冒険は簡単ではありません - 悪の潮流を食い止めるためには、彼自身が季節を操る技を身につけなければなりません。",
       "lang": "ja",
       "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "dbac1357",
+      "md5": "4ca44cbdd4e05c9b3c22da96d3de6338",
+      "sha1": "360b9408e569ba826212eac1ebea1b09573cb48c",
+      "sha256": "35fd809a21df04c7dac16cf76f7cc5d04017e3beabca102d2e378912a48539d9"
+    },
+    {
+      "name": "Legend of Zelda, The - Oracle of Seasons (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "d7e9f5d7",
+      "md5": "f2dc6c4e093e4f8c6cbea80e8dbd62cb",
+      "sha1": "ba1268290fb2b1b70505d2d7b5825fc8a4816a4b",
+      "sha256": "862a51368fb30539279d336b3fe193b43876d2cb15c87a36f5da517804ab3971"
+    },
+    {
+      "name": "Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e42538f0",
+      "md5": "d3c08c1eb4f93b64c30fcb0bb7ff8924",
+      "sha1": "08bf49d7e225c695f64d38131cb720decb84b663",
+      "sha256": "65404de57219f0ab6eacd63ef326ef8a921b9b4448ebcaa48330f70dca97a49f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Zelda%20no%20Densetsu%20-%20Fushigi%20no%20Kinomi%20-%20Daichi%20no%20Shou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Zelda%20no%20Densetsu%20-%20Fushigi%20no%20Kinomi%20-%20Daichi%20no%20Shou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Zelda%20no%20Densetsu%20-%20Fushigi%20no%20Kinomi%20-%20Daichi%20no%20Shou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
     }
   ]
 }

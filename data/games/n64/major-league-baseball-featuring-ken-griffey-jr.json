@@ -35,5 +35,41 @@
     "wikidata": "Q3280559",
     "mobygames": 9095,
     "igdb": 3540
-  }
+  },
+  "roms": [
+    {
+      "name": "Major League Baseball Featuring Ken Griffey Jr. (Australia)",
+      "source": "no_intro",
+      "region": "au",
+      "serial": "NKGP",
+      "size": 16777216,
+      "crc32": "e08f7578",
+      "md5": "152b9939a5f50734d5401980028856b4",
+      "sha1": "e300e8acb110d72bc5bfee4fc4981e09b881300e"
+    },
+    {
+      "name": "Major League Baseball Featuring Ken Griffey Jr. (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NKGE",
+      "size": 16777216,
+      "crc32": "2ef1ea20",
+      "md5": "764f22ad3d0f59667a7f083d2f789b31",
+      "sha1": "54b8c97523089d92754c2582a7b7a43246947122"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Major%20League%20Baseball%20Featuring%20Ken%20Griffey%20Jr.%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Major%20League%20Baseball%20Featuring%20Ken%20Griffey%20Jr.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

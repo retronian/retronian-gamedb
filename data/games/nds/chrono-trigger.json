@@ -53,5 +53,94 @@
   "external_ids": {
     "wikidata": "Q507828",
     "igdb": 20398
-  }
+  },
+  "roms": [
+    {
+      "name": "Chrono Trigger (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YQUJ",
+      "size": 134217728,
+      "crc32": "d33aa850",
+      "md5": "3ab38610753e22b04d5d25c4216274d1",
+      "sha1": "afc91a3f1f6c1bd02845b76416239e4dabfae19f"
+    },
+    {
+      "name": "Chrono Trigger (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YQUE",
+      "size": 134217728,
+      "crc32": "b3836946",
+      "md5": "cb379392a800e236f80b55c84f123e99",
+      "sha1": "11f9e8204e484eab42181b210c9f214584be75bf"
+    },
+    {
+      "name": "Chrono Trigger (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YQUP",
+      "size": 134217728,
+      "crc32": "82b3787c",
+      "md5": "4f3e02394f359aa0b9b4cf680d00e49f",
+      "sha1": "a6c69d789a6f2e31b27fba950423bea3c2f30a37",
+      "sha256": "89809681bc0210a5d973d84110104bc138bce60048d394d42d2a1dcb6a404b2e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Chrono%20Trigger%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Chrono%20Trigger%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Chrono%20Trigger%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Chrono%20Trigger%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Chrono%20Trigger%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Chrono%20Trigger%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Chrono%20Trigger%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Chrono%20Trigger%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Chrono%20Trigger%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -72,5 +72,67 @@
     "wikidata": "Q1153260",
     "mobygames": 28276,
     "igdb": 200959
-  }
+  },
+  "roms": [
+    {
+      "name": "Bionicle Heroes (USA) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BIHE",
+      "size": 16777216,
+      "crc32": "f4fafccf",
+      "md5": "87d4626c1736b29a0e1f81cb6f3306a6",
+      "sha1": "0996770ebfbbf2c272542e1ad4ffb0fcae9c3828",
+      "sha256": "8bd413f0ef3b49d2572f7abb32b9102c6a05d449d4acc6d6df9109d433c467e4"
+    },
+    {
+      "name": "Bionicle Heroes (Europe) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BIHP",
+      "size": 16777216,
+      "crc32": "b8dc715b",
+      "md5": "729bf3ff498b73f09885ba38735a2858",
+      "sha1": "102304aab2816c3483618498cab65c1626f1ced5",
+      "sha256": "a199b7d391f346084a4eaa5703d5d14d423c55acaae0ee70977679fdefbf7b19"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bionicle%20Heroes%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bionicle%20Heroes%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bionicle%20Heroes%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bionicle%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bionicle%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bionicle%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

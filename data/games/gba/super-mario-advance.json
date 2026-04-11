@@ -63,5 +63,94 @@
     "wikidata": "Q3312351",
     "mobygames": 4305,
     "igdb": 81197
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Mario Advance (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AMAE",
+      "size": 4194304,
+      "crc32": "1e4c6d6a",
+      "md5": "ff6b0c48065389b888c7a78731d4b58d",
+      "sha1": "f071d45d8f5cb05b48d7d2b804c6cb6a79ad96fb",
+      "sha256": "d29dec02caacbf449e2a93c6042258b0669542e102eb0e6fd0eb92a5411e0244"
+    },
+    {
+      "name": "Super Mario Advance (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AMZE",
+      "size": 4194304,
+      "crc32": "69924cbd",
+      "md5": "7b0c63d4080f79396c0545a86cc1adba",
+      "sha1": "05e41b04cdcd73194c0f836639c5774779f50a3f"
+    },
+    {
+      "name": "Super Mario Advance (USA, Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AMAE",
+      "size": 4194304,
+      "crc32": "5251f2bf",
+      "md5": "14eb992bd01c4b6b3542ebd30d942726",
+      "sha1": "b646ce9765a5061aac9f1a52346a1f5e42b3d871"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Mario%20Advance%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Mario%20Advance%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Mario%20Advance%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Mario%20Advance%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Mario%20Advance%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Mario%20Advance%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Mario%20Advance%20%28USA%2C%20Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Mario%20Advance%20%28USA%2C%20Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Mario%20Advance%20%28USA%2C%20Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

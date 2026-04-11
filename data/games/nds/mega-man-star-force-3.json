@@ -47,6 +47,24 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Mega Man Star Force 3: Black Ace",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Mega Man Star Force 3: Red Joker",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2008-11-13",
@@ -54,5 +72,53 @@
     "wikidata": "Q4919855",
     "mobygames": 89144,
     "igdb": 1786
-  }
+  },
+  "roms": [
+    {
+      "name": "Mega Man Star Force 3 - Black Ace (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CRBE",
+      "size": 33554432,
+      "crc32": "76b76dc6",
+      "md5": "6713c8e15237a1869348acb53d94b65d",
+      "sha1": "882eea04f7cc46ffd8aa17fd030d3f6366d112e1"
+    },
+    {
+      "name": "Mega Man Star Force 3 - Red Joker (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CRRE",
+      "size": 33554432,
+      "crc32": "8714a7f5",
+      "md5": "eb69df153c53312773052844334a02a1",
+      "sha1": "f7f55361305c7bacba775537c20abbdf26041e67"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20Star%20Force%203%20-%20Black%20Ace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20Star%20Force%203%20-%20Black%20Ace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20Star%20Force%203%20-%20Red%20Joker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20Star%20Force%203%20-%20Red%20Joker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -16,5 +16,65 @@
   "external_ids": {
     "wikidata": "Q121008785",
     "igdb": 8030
-  }
+  },
+  "roms": [
+    {
+      "name": "Tom and Jerry - The Magic Ring (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATJE",
+      "size": 8388608,
+      "crc32": "7dc8e08e",
+      "md5": "c3c7e4250ebfe4ce6020cabd42f08afe",
+      "sha1": "19ed73f1ea71454ed804ed758a697d5e3feda8be"
+    },
+    {
+      "name": "Tom and Jerry - The Magic Ring (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATJP",
+      "size": 8388608,
+      "crc32": "1b7a3819",
+      "md5": "12f06df6ff6d6895dc87665fc4c79144",
+      "sha1": "a221c261b973c9bc859b4c3f45b05c7d77ddf009"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tom%20and%20Jerry%20-%20The%20Magic%20Ring%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tom%20and%20Jerry%20-%20The%20Magic%20Ring%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tom%20and%20Jerry%20-%20The%20Magic%20Ring%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tom%20and%20Jerry%20-%20The%20Magic%20Ring%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tom%20and%20Jerry%20-%20The%20Magic%20Ring%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tom%20and%20Jerry%20-%20The%20Magic%20Ring%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

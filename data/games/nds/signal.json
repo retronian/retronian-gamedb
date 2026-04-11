@@ -34,5 +34,42 @@
   "external_ids": {
     "wikidata": "Q11243347",
     "igdb": 124085
-  }
+  },
+  "roms": [
+    {
+      "name": "Signal (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BKLJ",
+      "size": 268435456,
+      "crc32": "638281a7",
+      "md5": "f88a9820a9c72863926f4a38053c88a1",
+      "sha1": "1c695454a8991ad500ac90e89db15089a52385a7",
+      "sha256": "bf8bfd43e17c6c1f11a912d472f512cd8c9df50d517e13d49c34a1c8db881520"
+    },
+    {
+      "name": "Signal (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BKLJ",
+      "size": 268435456,
+      "crc32": "aeebb206",
+      "md5": "6893dd283a43438320d4bbbfc1d8856c",
+      "sha1": "fc71f3af125e1dea153e4c650fddd7f65b123149"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Signal%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Signal%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -72,5 +72,45 @@
     "wikidata": "Q1068778",
     "mobygames": 1925,
     "igdb": 1842
-  }
+  },
+  "roms": [
+    {
+      "name": "Tom Clancy's Rainbow Six (France)",
+      "source": "no_intro",
+      "size": 115761984,
+      "crc32": "b790032c",
+      "md5": "1f1bdae42b6fb7ee58cbc448e8695499",
+      "sha1": "d7efcb1565009c452e565ec7edff89f528f4ccba"
+    },
+    {
+      "name": "Tom Clancy's Rainbow Six (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 118120752,
+      "crc32": "f21a227d",
+      "md5": "78e97ce84157df16dc16db3dd90bd553",
+      "sha1": "61b1e9b3f61bdf1f9c36b2190b7c06ef3ab0bf2c",
+      "sha256": "195eb9ae304a24931ae795e82602a1dada9e6eebcca757b8010ec32e672315d8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Tom%20Clancy%27s%20Rainbow%20Six%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Tom%20Clancy%27s%20Rainbow%20Six%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Tom%20Clancy%27s%20Rainbow%20Six%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

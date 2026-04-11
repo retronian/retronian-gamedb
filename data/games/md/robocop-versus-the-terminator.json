@@ -81,5 +81,98 @@
     "wikidata": "Q2444666",
     "mobygames": 10381,
     "igdb": 8195
-  }
+  },
+  "roms": [
+    {
+      "name": "RoboCop Versus The Terminator (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70216-50",
+      "size": 2097152,
+      "crc32": "85a93f8d",
+      "md5": "9d54461f3b0ad92c24dabae0c877cfce",
+      "sha1": "21348f50ccb0031108ce3fb999026688e9bef4ed",
+      "sha256": "c740ccf2a228eca0bed7ed17ed89320697008d29fca5594a4ae388a133dc8776"
+    },
+    {
+      "name": "RoboCop Versus The Terminator (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70066-00",
+      "size": 2097152,
+      "crc32": "2487049f",
+      "md5": "968d300afc92f858575f2a99fee8f0ec",
+      "sha1": "a1625783cf1b42d808ad4f56dde5ce1b1884218a",
+      "sha256": "d85f146efbe57bec2475c3c5ae1da887802d37f4ada6554b6c9f7141586fc641"
+    },
+    {
+      "name": "RoboCop Versus The Terminator (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70166",
+      "size": 2097152,
+      "crc32": "bbad77a4",
+      "md5": "cfc3568cc985f7b73dd5afa69c9f28a4",
+      "sha1": "b67b708006145406f2a8dacb237517ededec359a",
+      "sha256": "9d2290fdd65f7fa7ea96af70abcff2fa1bb7c3f0b9f8ada0f03496d84e81a137"
+    },
+    {
+      "name": "RoboCop Versus The Terminator (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-70043-00",
+      "size": 2097152,
+      "crc32": "d444e1f0",
+      "md5": "06f90c41aa7cdae56635fdd11da6c0c7",
+      "sha1": "23f5d494e69a737f2026b5c54984d0d8a98f2cb0",
+      "sha256": "a5fa684136f2e3eb8aa6abdd195ecc1d1f508729e26c4268a985fafa2a558869"
+    },
+    {
+      "name": "RoboCop Versus The Terminator (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70066-00",
+      "size": 2097152,
+      "crc32": "ecebff29",
+      "md5": "c0ec93faf3415b23fd6863861b0f1520",
+      "sha1": "4d35cdf21f50c1cf73bacc9b8747a9eac1141e46",
+      "sha256": "592f12fd656c4673fcf98bc16f220ec9fe7a399ba95b01411c20023ace03ec5a"
+    },
+    {
+      "name": "RoboCop Versus The Terminator (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 2097152,
+      "crc32": "c66a34a6",
+      "md5": "6fac52af7c3a91cb285d766236af7e12",
+      "sha1": "d7c71c35d2ffc7ad802379fdf388388d24d36f77",
+      "sha256": "03f0e3ae099fcc829ea44b2907725d4829c7c333dbc21c9dbc21edf451905fd8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/RoboCop%20Versus%20The%20Terminator%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/RoboCop%20Versus%20The%20Terminator%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/RoboCop%20Versus%20The%20Terminator%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/RoboCop%20Versus%20The%20Terminator%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

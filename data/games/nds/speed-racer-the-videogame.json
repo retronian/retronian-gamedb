@@ -45,5 +45,66 @@
     "wikidata": "Q3286486",
     "mobygames": 44669,
     "igdb": 5176
-  }
+  },
+  "roms": [
+    {
+      "name": "Speed Racer - The Videogame (USA) (En,Fr,Es,Pt)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YYRE",
+      "size": 67108864,
+      "crc32": "a780e985",
+      "md5": "e79e8ed91ebccdb93a4141dcc7436033",
+      "sha1": "a8fa2034b0ab692b9886e84128c31c806e2dc582"
+    },
+    {
+      "name": "Speed Racer - The Videogame (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YYRP",
+      "size": 67108864,
+      "crc32": "e231b00b",
+      "md5": "afe72dce984d3b9e988c0c56891da66e",
+      "sha1": "255c554ab4959fc5d12455df9ef0c55fba98f9c7",
+      "sha256": "af2ef5b115bcafc19a6615d4c0589ca24fed0de1a1df187444d80cfa89565192"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Speed%20Racer%20-%20The%20Videogame%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Speed%20Racer%20-%20The%20Videogame%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Speed%20Racer%20-%20The%20Videogame%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Speed%20Racer%20-%20The%20Videogame%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Speed%20Racer%20-%20The%20Videogame%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Speed%20Racer%20-%20The%20Videogame%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

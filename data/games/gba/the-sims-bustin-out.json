@@ -56,6 +56,24 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Sims, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ザ・シムズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "2003-12-02",
@@ -63,5 +81,100 @@
     "wikidata": "Q951415",
     "mobygames": 11215,
     "igdb": 210728
-  }
+  },
+  "descriptions": [
+    {
+      "text": "ザ・シムズ バスティン・アウトは、ザ・シムズコンソールシリーズの第2作目であり、PCでは初めてリリースされなかったザ・シムズのタイトルです。前作と同じ3D環境とエンジンを使用していますが、『ザ・シムズ: ホットデート』、『ザ・シムズ: スーパースター』、および『ザ・シムズ: リビン・ラージ』の拡張パックからいくつかの新機能が追加されています。バスティン・アウトは、2003年の第4四半期にゲームボーイアドバンス、ゲームキューブ、プレイステーション2、Xbox、N-Gage向けにリリースされました。タイトルが示すように、シムたちは家を出て、シャイニーシングスラボやカサ・カリエンテなどの他の場所を訪れることができます。ゲームモードは2つあり、ミッションベースのプレイが楽しめるバストアウトモードと、オープンエンドのプレイができるフリープレイモードがあります。これはオリジナルのザ・シムズPCゲームに非常に似ています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sims, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B4PJ",
+      "size": 16777216,
+      "crc32": "89956199",
+      "md5": "2b05ef0af7a48729a665a86573ae70b4",
+      "sha1": "227857e4ae380668cbc467f5a7a30c6a3a77a180"
+    },
+    {
+      "name": "Sims, The - Bustin' Out (USA, Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASIE",
+      "size": 16777216,
+      "crc32": "abaf519c",
+      "md5": "e429ce307fe06dbcd7724552ff0339d7",
+      "sha1": "fb5662172fadebf4577f6f6f163741fc041c11e6"
+    },
+    {
+      "name": "Sims, The - Bustin' Out (USA) (En,Fr,De,Es,It,Nl) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASIE",
+      "size": 16777216,
+      "crc32": "d1183501",
+      "md5": "eb73bdf597637bed97885296a68250df",
+      "sha1": "7038fa0e4cb8aeac9e48a0b45574db66cba39e73"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sims%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sims%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sims%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sims%2C%20The%20-%20Bustin%27%20Out%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sims%2C%20The%20-%20Bustin%27%20Out%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sims%2C%20The%20-%20Bustin%27%20Out%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sims%2C%20The%20-%20Bustin%27%20Out%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sims%2C%20The%20-%20Bustin%27%20Out%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sims%2C%20The%20-%20Bustin%27%20Out%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,60 @@
     "wikidata": "Q2742792",
     "mobygames": 16901,
     "igdb": 46238
-  }
+  },
+  "roms": [
+    {
+      "name": "Blaster Master 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-15076-00",
+      "size": 1048576,
+      "crc32": "c11e4ba1",
+      "md5": "dd38021ff9cb67cfc24a1ad7447e4e3e",
+      "sha1": "20c9b85f543ef8e66a97e6403cf486045f295d48",
+      "sha256": "aee6ed1d7703a59861611d080886b359e3dcee9206cb6addcee39c246bc61772"
+    },
+    {
+      "name": "Blaster Master 2 (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-15076-00",
+      "size": 1048576,
+      "crc32": "08f78c70",
+      "md5": "c20ce14fdebdbdc8eeaa075edf684376",
+      "sha1": "973cd6b8c7d29c9d14ac45631b99fd4ae4ca5713",
+      "sha256": "8f2822c51892a2aa6fccc6ad2e641ee5a38aa6f2c5ffcfeffb12350953b27a8f"
+    },
+    {
+      "name": "Blaster Master 2 (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "?-??????-00",
+      "size": 1048576,
+      "crc32": "a867f619",
+      "md5": "fbab06de57da037218e2d0a33d0dff19",
+      "sha1": "d9978c408d4eb3029b4c7305da68f6ec6eb7b17b",
+      "sha256": "38f13740640b38a1eb6f87451dd54615b00e7b5690a32f1774b22238729420d6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Blaster%20Master%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Blaster%20Master%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Blaster%20Master%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

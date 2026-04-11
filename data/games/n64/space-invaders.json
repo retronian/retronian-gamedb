@@ -99,5 +99,38 @@
     "wikidata": "Q220665",
     "mobygames": 8806,
     "igdb": 18133
-  }
+  },
+  "roms": [
+    {
+      "name": "Space Invaders (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NIVE",
+      "size": 8388608,
+      "crc32": "60f7ff8e",
+      "md5": "c72417e0f8f043f9f11851633c4b1a57",
+      "sha1": "6850205eace572ae1aa31100320ad8df1b8db37e",
+      "sha256": "c5075e54bd06fe05881f9ff0f590366afb1c917adb0dc24f3d573c51d6e26a2d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Space%20Invaders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Space%20Invaders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Space%20Invaders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

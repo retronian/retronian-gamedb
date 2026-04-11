@@ -45,5 +45,75 @@
     "wikidata": "Q2748100",
     "mobygames": 20307,
     "igdb": 4493
-  }
+  },
+  "roms": [
+    {
+      "name": "Olympic Summer Games (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "3ed21333",
+      "md5": "8ab1fe6f37d3c826b01a09be6c36933b",
+      "sha1": "2b217cbb0f499227412edc3a36ac453639c1be4a",
+      "sha256": "d9860f4f9b5e71290c5419b88c49b545f947a35cfe0549c2f32e54f05bc55815"
+    },
+    {
+      "name": "Olympic Summer Games (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "6b882d11",
+      "md5": "f082072b16e7ed337503ec4df334171f",
+      "sha1": "878916b1ce5c535c5d167499ec282e2a6a0b824f",
+      "sha256": "a137f4fc1c635f706d10e0c7927e71f52da171ce2d27394ce0deb451b5bed8ae"
+    },
+    {
+      "name": "Olympic Summer Games (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "08f70a8c",
+      "md5": "393d7aeffa667255cf4f592ac92c222a",
+      "sha1": "47ba787ad6db6097e940d9c1b8c93f255fe1f253",
+      "sha256": "ca85980e19dd6daab5422fa199ca81c144676c24ca0ba05a848c69a1a1c03d04"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Olympic%20Summer%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Olympic%20Summer%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Olympic%20Summer%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Olympic%20Summer%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Olympic%20Summer%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Olympic%20Summer%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

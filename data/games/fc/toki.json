@@ -96,5 +96,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "JuJu Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "e8f3df28",
+      "md5": "e561156e9109ee24157e46be25124bf9",
+      "sha1": "4d1169362af38bdfbe2bb6d0392ee763bc67eb3c",
+      "sha256": "c992a268cea37f126327fa3be4b8fe871bd985545272348f40d6b88192396ae8"
+    },
+    {
+      "name": "Toki (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "5bebc151",
+      "md5": "0eb304daf918dfe4bdd99f75e8ab4fdd",
+      "sha1": "8b37754e3a6cb732269fc8fb7151ec9b16153f4c",
+      "sha256": "f8807ba85818475a1f24dc1e40f219f10ed3393ddee0a8d77d6be732379bc6e1"
+    },
+    {
+      "name": "Toki (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "ff238cac",
+      "md5": "ec24d585a79c6c8ae6a9477fe96ed0fd",
+      "sha1": "a2ff602cd781fba8c40f8872567d2a1750d420bb",
+      "sha256": "afb3b80b668c5912c0af03eac668fee923cc3eb65bc324d3843bd23deb134f97"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/JuJu%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/JuJu%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/JuJu%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Toki%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Toki%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Toki%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Toki%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Toki%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Toki%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

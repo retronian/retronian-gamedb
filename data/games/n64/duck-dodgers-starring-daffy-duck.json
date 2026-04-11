@@ -54,5 +54,88 @@
     "wikidata": "Q3011830",
     "mobygames": 14070,
     "igdb": 3336
-  }
+  },
+  "roms": [
+    {
+      "name": "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NDUP",
+      "size": 16777216,
+      "crc32": "c61f6bb9",
+      "md5": "1408fcf68b60d845f090107ef355a7e5",
+      "sha1": "5499b5284c04cee98186e68198d6bfe73fee0cdb",
+      "sha256": "296938fb1192d721944e2036b988262af9c556cf432ff9353623495f7e297bb9"
+    },
+    {
+      "name": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NDUE",
+      "size": 16777216,
+      "crc32": "3177a905",
+      "md5": "02192b4b3797983bbe5e452336584208",
+      "sha1": "2c840e2991d6a2af63c4efe830240fc49d93fc9a",
+      "sha256": "2bbfe0cfc6aff7b623ae53673b8f91e9008cc5749fe07920712e0d0f9abe3fc5"
+    },
+    {
+      "name": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 2) (2000-03-07)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 16777216,
+      "crc32": "0046b0ec",
+      "md5": "3539968f22ee1d04e64fd6697112501e",
+      "sha1": "8a8e3f304bf875a7e3651bf3a38ee50bc8d1db1a",
+      "sha256": "a7030fcc57f4fbc74ea688e292e24bba12be0b4070ec1effead1224c7e0de649"
+    },
+    {
+      "name": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 16777216,
+      "crc32": "f2012442",
+      "md5": "95816b46a52b7b5a6acee19288b01384",
+      "sha1": "53febb3e7511f581f15cdf3d6ff65e1527ad3348",
+      "sha256": "bac2d18a2dc57499c9637ef6351df0963bdb8200afdfc9be68df9989758599f9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Daffy%20Duck%20Starring%20as%20Duck%20Dodgers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Daffy%20Duck%20Starring%20as%20Duck%20Dodgers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Daffy%20Duck%20Starring%20as%20Duck%20Dodgers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Duck%20Dodgers%20Starring%20Daffy%20Duck%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Duck%20Dodgers%20Starring%20Daffy%20Duck%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Duck%20Dodgers%20Starring%20Daffy%20Duck%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -79,5 +79,57 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Fantasy Zone (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "e8c3573d",
+      "md5": "0c5fc299491c50c2d2f532308597a159",
+      "sha1": "7c419163d860691dfea9720639921190e20e3c97",
+      "sha256": "2aedb10b9c99c69557c17a9658a8e072474172193f9f83ee1fd45374f29f06a3"
+    },
+    {
+      "name": "Fantasy Zone (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "72cb0f9d",
+      "md5": "9f3078e85b7604f5df6d858dea879696",
+      "sha1": "9dfc979fdf65d6425504aff68dc80e83c69e7b40",
+      "sha256": "2adab7b01cca1b4a5a4e11aefb97a907d442033eeac3d14e57a43419e4f4aac4"
+    },
+    {
+      "name": "Fantasy Zone (Japan) (En) (PC Engine Mini)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "4d3f879a",
+      "md5": "10919258a46d93985cefed8e4fcce547",
+      "sha1": "2c1bf3cb5c5c6b9932f01a4210d0d0eae4e19652",
+      "sha256": "abad88fe7472db5192d5b7697b8c870eee8dd1c86e96c5b76b4dcc3f4938e398"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Fantasy%20Zone%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Fantasy%20Zone%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Fantasy%20Zone%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

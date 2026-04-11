@@ -54,5 +54,67 @@
     "wikidata": "Q2616525",
     "mobygames": 21657,
     "igdb": 3647
-  }
+  },
+  "roms": [
+    {
+      "name": "Xena - Warrior Princess - The Talisman of Fate (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NXFP",
+      "size": 12582912,
+      "crc32": "d3932f88",
+      "md5": "ec2bcb1b7fc7d068be1f39e79e49a842",
+      "sha1": "2fa884f36bd370d844ed1e57c4357510584fe3e2",
+      "sha256": "07173ba69bda3c300c2c2353a241fcaa1d9fe5eaf9abb56fe815433fc1343696"
+    },
+    {
+      "name": "Xena - Warrior Princess - The Talisman of Fate (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NXFE",
+      "size": 12582912,
+      "crc32": "7da93999",
+      "md5": "1ac234649d28f09e82c0d11abb17f03b",
+      "sha1": "e3316269b8466fe1fb968ac9338e6acdc0379970",
+      "sha256": "d336e2c20edb20d68b9bb8e725c2661e8da8c54598b786ac01b02da86830e71f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Xena%20-%20Warrior%20Princess%20-%20The%20Talisman%20of%20Fate%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Xena%20-%20Warrior%20Princess%20-%20The%20Talisman%20of%20Fate%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Xena%20-%20Warrior%20Princess%20-%20The%20Talisman%20of%20Fate%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Xena%20-%20Warrior%20Princess%20-%20The%20Talisman%20of%20Fate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Xena%20-%20Warrior%20Princess%20-%20The%20Talisman%20of%20Fate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Xena%20-%20Warrior%20Princess%20-%20The%20Talisman%20of%20Fate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

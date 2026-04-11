@@ -27,5 +27,52 @@
     "wikidata": "Q16679552",
     "mobygames": 56360,
     "igdb": 49007
-  }
+  },
+  "roms": [
+    {
+      "name": "Flintstones, The - King Rock Treasure Island (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "508282d0",
+      "md5": "25dfaca5120462af05532aaf4756776a",
+      "sha1": "4ea1609dc273623c677aaa0accd0cd8d4a03efca",
+      "sha256": "ea23466633ac0f9c458d43adfae6f8beb11cabadced33d3926e72c2da8b5c106"
+    },
+    {
+      "name": "Flintstones, The - King Rock Treasure Island (Japan) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "437600bb",
+      "md5": "9013cecbec67b980010ac3979a042d8c",
+      "sha1": "bf6ba87bbc9ce4252c91f0e72121ab7c496a7dec"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Flintstones%2C%20The%20-%20King%20Rock%20Treasure%20Island%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Flintstones%2C%20The%20-%20King%20Rock%20Treasure%20Island%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Flintstones%2C%20The%20-%20King%20Rock%20Treasure%20Island%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Flintstones%2C%20The%20-%20King%20Rock%20Treasure%20Island%20%28Japan%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -70,5 +70,78 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Klax (Japan) (Namco)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-14063-00",
+      "size": 262144,
+      "crc32": "1afcc1da",
+      "md5": "96ad3cb020f4389a5f2a36884e7344c4",
+      "sha1": "f084f7a3851161523ab7e9cffb2f729563c17643",
+      "sha256": "a0ae038b9c485c9c768dff92169657219ae6f719894f3f9589ca7797f58ba57a"
+    },
+    {
+      "name": "Klax (USA, Europe) (Tengen)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48016-00",
+      "size": 262144,
+      "crc32": "248cd09e",
+      "md5": "3dfce8def728e2e249917307b8e38ca5",
+      "sha1": "b7c07baf74b945549e067405566eeaa6856dd6b1",
+      "sha256": "6a9299ce95830b6399c315e0adf738cd55d344f85224ffbf6836607d10d68231"
+    },
+    {
+      "name": "Klax (USA, Europe) (Tengen) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48016-00",
+      "size": 262144,
+      "crc32": "b6b9c758",
+      "md5": "d7326d17c87d94e434ac5b27283ae830",
+      "sha1": "11dda8dd630760dd35c3cddd1375445c75429e1c",
+      "sha256": "93b9c929acff2a1c7d114c9c0cfc2ae7f0f0c0524d4376a00dfcbdeb8c886759"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Klax%20%28Japan%29%20%28Namco%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Klax%20%28Japan%29%20%28Namco%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Klax%20%28Japan%29%20%28Namco%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Klax%20%28USA%2C%20Europe%29%20%28Tengen%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Klax%20%28USA%2C%20Europe%29%20%28Tengen%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Klax%20%28USA%2C%20Europe%29%20%28Tengen%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

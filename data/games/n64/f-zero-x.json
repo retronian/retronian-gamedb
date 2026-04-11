@@ -98,5 +98,116 @@
     "wikidata": "Q2609497",
     "mobygames": 4047,
     "igdb": 3489
-  }
+  },
+  "roms": [
+    {
+      "name": "F-Zero X (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NFZP",
+      "size": 16777216,
+      "crc32": "2d6f7e8b",
+      "md5": "ee79a8fe287b5dcaea584439363342fc",
+      "sha1": "af9038bcb543a2b4faaab876dbdab4663859e092",
+      "sha256": "1fb61b96aba61ed061201d1267c2dca6532abb12420dc951648b4b06f1eeb181"
+    },
+    {
+      "name": "F-Zero X (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CFZJ",
+      "size": 16777216,
+      "crc32": "6b1cef83",
+      "md5": "58d200d43620007314304f4e6c9e6528",
+      "sha1": "a418b0151521b76691fa03f8658c8b567c69498b",
+      "sha256": "fa28ed5fd250ee7a948919a28720b8d02bd2b5dd59c5c629e04dde8875bd90d5"
+    },
+    {
+      "name": "F-Zero X (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CFZE",
+      "size": 16777216,
+      "crc32": "0b561fba",
+      "md5": "753437d0d8ada1d12f3f9cf0f0a5171f",
+      "sha1": "5f658e88ffa9de23cba6986a8fd3d3a90d7b4340",
+      "sha256": "2be0f861c30752bbdfa727753a454108bc973c27ad814744f191b1278c1f482d"
+    },
+    {
+      "name": "F-Zero X (USA) (Beta) (The Legend of Zelda - Ocarina of Time leftover data)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CFZE",
+      "size": 33554432,
+      "crc32": "68fe1cec",
+      "md5": "95bf2153aaad6faff3fb42fecd2f0200",
+      "sha1": "6aa870ec53602650638b50d7c89cac026be481f0",
+      "sha256": "8cef0e399c0524052b758109abe894c709a72540a42c4a2118064a5cddf01b6d"
+    },
+    {
+      "name": "F-Zero X (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 16777216,
+      "crc32": "1c753f3f",
+      "md5": "036ec306fc0a6bc3afd967ede4cf4a6f",
+      "sha1": "2a7cd80ce10a654f3844c602268d66cdbe78230d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/F-Zero%20X%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/F-Zero%20X%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/F-Zero%20X%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/F-Zero%20X%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/F-Zero%20X%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/F-Zero%20X%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/F-Zero%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/F-Zero%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/F-Zero%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -63,5 +63,65 @@
     "wikidata": "Q2331936",
     "mobygames": 7335,
     "igdb": 48185
-  }
+  },
+  "roms": [
+    {
+      "name": "Cosmic Spacehead (Europe) (En,Fr,De,Es) (Unl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "9d521e2d",
+      "md5": "e8e6607fefc7c85747bba89343ae2a2c",
+      "sha1": "b37cf0431a585ff30d5d7891b9b78a6de3bdb047",
+      "sha256": "ddf66ace5f829238945a8dd108c694643c2fe5f96883a3fa7128daca1a126cf1"
+    },
+    {
+      "name": "Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "73969599",
+      "md5": "82078e12dae312b91e64bc0b03d21026",
+      "sha1": "df69fcc5fa9a4c74ff529e35abeb392c6dc3014c",
+      "sha256": "71e4011eccbe76c10150eb8ac37d29b720b5ea60826a069c5e7c7f6e5de22067"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Cosmic%20Spacehead%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Cosmic%20Spacehead%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Cosmic%20Spacehead%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Linus%20Spacehead%27s%20Cosmic%20Crusade%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Linus%20Spacehead%27s%20Cosmic%20Crusade%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Linus%20Spacehead%27s%20Cosmic%20Crusade%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

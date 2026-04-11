@@ -72,5 +72,42 @@
     "wikidata": "Q583301",
     "mobygames": 44329,
     "igdb": 240333
-  }
+  },
+  "roms": [
+    {
+      "name": "FIFA 10 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BFAP",
+      "size": 33554432,
+      "crc32": "5c97092e",
+      "md5": "b2d00241696d99116ac6791d021e8195",
+      "sha1": "816b4e3f74ad54eedfb5c322982d1acc4f84bcef"
+    },
+    {
+      "name": "FIFA 10 (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "BFAK",
+      "size": 33554432,
+      "crc32": "9f87be3b",
+      "md5": "6903f1a491e3b01fd97939cc37464606",
+      "sha1": "dfb553aa4e66102be90771e7bf816a96954f8887",
+      "sha256": "4e06ac153db370e3e786286946555be1d70306bdee6923a27870ed562048c3bf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/FIFA%2010%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/FIFA%2010%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

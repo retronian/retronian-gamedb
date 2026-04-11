@@ -63,5 +63,65 @@
     "wikidata": "Q6314922",
     "mobygames": 6160,
     "igdb": 6482
-  }
+  },
+  "roms": [
+    {
+      "name": "Jurassic Park III - Dino Attack (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AJQP",
+      "size": 8388608,
+      "crc32": "ddceb011",
+      "md5": "875c78f20ab82d8b8e72b18d4b1fe4cc",
+      "sha1": "71632636a8d40762bbfdcf8deea667629cc9e0b9"
+    },
+    {
+      "name": "Jurassic Park III - Island Attack (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AJQE",
+      "size": 8388608,
+      "crc32": "1e7048d2",
+      "md5": "ccae308baca9baecaba1ab670dcc27c8",
+      "sha1": "493349429d78ea040204f2a74526e790f3092dc2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jurassic%20Park%20III%20-%20Dino%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jurassic%20Park%20III%20-%20Dino%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jurassic%20Park%20III%20-%20Dino%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jurassic%20Park%20III%20-%20Island%20Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jurassic%20Park%20III%20-%20Island%20Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jurassic%20Park%20III%20-%20Island%20Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

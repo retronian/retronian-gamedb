@@ -78,5 +78,56 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Ikari III (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "0b4bca07",
+      "md5": "924c1646e44ff92115f1c0c790255b3f",
+      "sha1": "fe5c6e7a554d201b4ea35720437927123078c62e",
+      "sha256": "76aa4a5d88d8adefb25ff95684890865fc89d85d2b1e1b73c17085defed22c43"
+    },
+    {
+      "name": "Ikari III - The Rescue (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "aae7dda6",
+      "md5": "3240b6f579445bf90f57968ece120822",
+      "sha1": "7ee312dfdb9bb2d205b263e145e13cd4f9e35594",
+      "sha256": "8e189a3d8f587dcdf6d3ad596e78b59fbae9edbc6b46b5a45769e2da13e64d6c"
+    },
+    {
+      "name": "Ikari III (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "8c309902",
+      "md5": "8a1e5eeaf85cb5f7f53186c902dad88a",
+      "sha1": "20c7a9c30b683fb2153eeb94dbcc10590a0e83fc",
+      "sha256": "fc248b654874a04be9fd7489a9d94b9db4d5ef4660093ad88e1b65fe7ddc7932"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ikari%20III%20-%20The%20Rescue%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ikari%20III%20-%20The%20Rescue%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ikari%20III%20-%20The%20Rescue%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

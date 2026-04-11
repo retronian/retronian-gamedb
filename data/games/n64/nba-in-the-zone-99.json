@@ -27,5 +27,66 @@
     "wikidata": "Q65038690",
     "mobygames": 9152,
     "igdb": 72053
-  }
+  },
+  "roms": [
+    {
+      "name": "NBA in the Zone '99 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NB2E",
+      "size": 12582912,
+      "crc32": "eab083b8",
+      "md5": "6cbf4014c053e16852a3db80aeb4c853",
+      "sha1": "6964baec49592e64c34782b55e234c7bd32c8a99"
+    },
+    {
+      "name": "NBA Pro 99 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NB2P",
+      "size": 12582912,
+      "crc32": "588e60e8",
+      "md5": "c5ebbdd41eaea8bd02cf520640ccccdf",
+      "sha1": "5decf930d859e8b834a5f897955880556ca6aadf",
+      "sha256": "765bb9b7b8f7a5660ac27459b92ef111e58ff710a88ff70599622492f0b2b96e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NBA%20in%20the%20Zone%20%2799%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NBA%20in%20the%20Zone%20%2799%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NBA%20in%20the%20Zone%20%2799%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NBA%20Pro%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NBA%20Pro%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NBA%20Pro%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

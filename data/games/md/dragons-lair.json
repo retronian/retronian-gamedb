@@ -71,5 +71,32 @@
   "external_ids": {
     "wikidata": "Q1255182",
     "mobygames": 1503
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon's Lair (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-11136-00",
+      "size": 524288,
+      "crc32": "a33eb522",
+      "md5": "8edba746c8a5881714ce3c6dad6c3bc9",
+      "sha1": "d29ec9588dcbc27a4ef3f838191b767235a6ff17",
+      "sha256": "41eaebc035d90628949a27a4ecf79f968f84654a7798b67169540820bc9e2faf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dragon%27s%20Lair%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dragon%27s%20Lair%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

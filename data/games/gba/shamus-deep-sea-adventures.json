@@ -18,5 +18,66 @@
     "wikidata": "Q7487800",
     "mobygames": 95496,
     "igdb": 4099
-  }
+  },
+  "roms": [
+    {
+      "name": "Shamu's Deep Sea Adventures (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 33554432,
+      "crc32": "7ecb7529",
+      "md5": "c06c0fc7fa844f14930c59453fa998d4",
+      "sha1": "1927b344bba21bcd80544a55734234610972f373",
+      "sha256": "2048f9b160995cc1f7ff4f733d1d6f80e53415f0e523a9e636b95b041f09d3ec"
+    },
+    {
+      "name": "Shamu's Deep Sea Adventures (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BBAP",
+      "size": 33554432,
+      "crc32": "5a507f49",
+      "md5": "16f99099d8674858400004a0052f31ba",
+      "sha1": "790ece3803a2eaef32c20beee78abe861548d2a7",
+      "sha256": "2153175d97c14fb6ba035d95a732e45e6a56e7f1ed7cebbdbc268647c4748fb6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shamu%27s%20Deep%20Sea%20Adventures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shamu%27s%20Deep%20Sea%20Adventures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shamu%27s%20Deep%20Sea%20Adventures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shamu%27s%20Deep%20Sea%20Adventures%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shamu%27s%20Deep%20Sea%20Adventures%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shamu%27s%20Deep%20Sea%20Adventures%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

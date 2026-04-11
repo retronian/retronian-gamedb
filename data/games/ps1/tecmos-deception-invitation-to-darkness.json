@@ -79,5 +79,65 @@
     "wikidata": "Q7692722",
     "mobygames": 7673,
     "igdb": 20801
-  }
+  },
+  "roms": [
+    {
+      "name": "Kokumeikan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 197313024,
+      "crc32": "64c5dc08",
+      "md5": "6011944d962692cdc93444a2d0c5643b",
+      "sha1": "33d82d9bba4db6d0bcfc0ca28f1f619850794512",
+      "sha256": "16d74cc39f628a12d184c3a8bfc31c232b391e38fab045f014afc879dcea48ca"
+    },
+    {
+      "name": "Tecmo's Deception - Invitation to Darkness (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 194878288,
+      "crc32": "e7bd4172",
+      "md5": "e089dfb2ec9bda0ada0250ec377e9d0b",
+      "sha1": "6fdd9ecd22082c1e5bd5538df0b37895ef79c2c7",
+      "sha256": "108211f737909a8eefbff7670f82935c6f5e439407cb72f73fb7033ea39fed54"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Kokumeikan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Kokumeikan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Kokumeikan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Tecmo%27s%20Deception%20-%20Invitation%20to%20Darkness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Tecmo%27s%20Deception%20-%20Invitation%20to%20Darkness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Tecmo%27s%20Deception%20-%20Invitation%20to%20Darkness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

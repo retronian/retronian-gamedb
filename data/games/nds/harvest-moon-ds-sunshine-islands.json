@@ -55,11 +55,74 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Harvest Moon: Sunshine Islands",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2008-02-21",
   "external_ids": {
     "wikidata": "Q2080010",
     "igdb": 3389
-  }
+  },
+  "roms": [
+    {
+      "name": "Harvest Moon DS - Sunshine Islands (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YB3P",
+      "size": 67108864,
+      "crc32": "b0c1d962",
+      "md5": "12d19015bf11f8ea4ff9bff6df84096a",
+      "sha1": "16c2ab582000d4757f82299c4933daa909e17e79"
+    },
+    {
+      "name": "Harvest Moon DS - Sunshine Islands (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YB3E",
+      "size": 67108864,
+      "crc32": "64bc246b",
+      "md5": "54f804eae41aaf0ec50f11dc6c77bbcb",
+      "sha1": "bbb18e8a4aa9fd845223d679c0e9207dc9374477"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harvest%20Moon%20DS%20-%20Sunshine%20Islands%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harvest%20Moon%20DS%20-%20Sunshine%20Islands%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harvest%20Moon%20DS%20-%20Sunshine%20Islands%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Harvest%20Moon%20DS%20-%20Sunshine%20Islands%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harvest%20Moon%20DS%20-%20Sunshine%20Islands%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

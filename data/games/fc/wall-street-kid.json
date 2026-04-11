@@ -55,6 +55,42 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Money Game 2 - Kabutochou no Kiseki, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ザ・マネーゲーム2 兜町の奇跡",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Money Game II, The - Kabutochou no Kiseki",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "マネーゲームII 兜町の奇蹟",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1990-06-01",
@@ -62,5 +98,72 @@
     "wikidata": "Q7751994",
     "mobygames": 216885,
     "igdb": 48261
-  }
+  },
+  "descriptions": [
+    {
+      "text": "マネーゲーム2兜町の奇跡。株式投資をテーマにした経済シミュレーション。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Money Game II, The - Kabutochou no Kiseki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "fad933e9",
+      "md5": "8eabc4e1b10b9902ed43d6cb8aed9a81",
+      "sha1": "c3401ed65abb2bfda26a8ad65a7819e9fa793f03",
+      "sha256": "ca5ef49bf7dd65fc87724767d9705f0c59180c943057ecfd0e21a7463310100e"
+    },
+    {
+      "name": "Wall Street Kid (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "e256aed4",
+      "md5": "6daac011632dc64159a1583920dd711a",
+      "sha1": "caba8f34159eba1ecff38dd7097218c63c240ad7",
+      "sha256": "385817e252c45e08b6b04cfaddaccc52f27b18a2cc2f7be5ce07af327b8dca6f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Money%20Game%20II%2C%20The%20-%20Kabutochou%20no%20Kiseki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Money%20Game%20II%2C%20The%20-%20Kabutochou%20no%20Kiseki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Money%20Game%20II%2C%20The%20-%20Kabutochou%20no%20Kiseki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wall%20Street%20Kid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wall%20Street%20Kid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wall%20Street%20Kid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

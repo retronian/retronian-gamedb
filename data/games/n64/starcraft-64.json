@@ -17,5 +17,118 @@
   "external_ids": {
     "wikidata": "Q60029557",
     "igdb": 9067
-  }
+  },
+  "roms": [
+    {
+      "name": "StarCraft 64 (Australia)",
+      "source": "no_intro",
+      "region": "au",
+      "serial": "NSQP",
+      "size": 33554432,
+      "crc32": "2639dae2",
+      "md5": "72b60fac5ee257fa387b43c57632d50c",
+      "sha1": "bd8ab8994be02368c844234006e5c11509ce2894",
+      "sha256": "f2267c9325d608f283830a7d568dcd9a2fc126f93b1c7d3ea23a34082031c19a"
+    },
+    {
+      "name": "StarCraft 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NSQE",
+      "size": 33554432,
+      "crc32": "4e4c7ec9",
+      "md5": "559f71b861f639b6376d891e3023414b",
+      "sha1": "a36d91b5aac7bb95df0d7de5f9814f5270e25c2b",
+      "sha256": "e7d21880c13953b45b8f8db6b2b6cfa02daa29d35b23799a967e96f21001b020"
+    },
+    {
+      "name": "StarCraft 64 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 33554432,
+      "crc32": "b0e1654f",
+      "md5": "3eb732a8d004263ad8eb0da59a29582a",
+      "sha1": "472573d057e42653b7413861319b9f7342f2467d"
+    },
+    {
+      "name": "StarCraft 64 (Germany) (Proto)",
+      "source": "no_intro",
+      "serial": "NSQD",
+      "size": 33554432,
+      "crc32": "2b1c9fe4",
+      "md5": "356a5d3d59e0adef6efae6096fc20f77",
+      "sha1": "bc585da421caba45f5eb87caa6d7a138a09e9b43"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/StarCraft%2064%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/StarCraft%2064%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/StarCraft%2064%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/StarCraft%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/StarCraft%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/StarCraft%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/StarCraft%2064%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/StarCraft%2064%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/StarCraft%2064%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/StarCraft%2064%20%28Germany%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/StarCraft%2064%20%28Germany%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/StarCraft%2064%20%28Germany%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

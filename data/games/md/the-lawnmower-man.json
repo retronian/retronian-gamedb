@@ -27,5 +27,49 @@
     "wikidata": "Q956155",
     "mobygames": 898,
     "igdb": 5397
-  }
+  },
+  "roms": [
+    {
+      "name": "Lawnmower Man, The (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "12345678-00",
+      "size": 524288,
+      "crc32": "f3a1bf70",
+      "md5": "3c9e3d48ec96525181ac0745a45f9354",
+      "sha1": "00a0399e0751a24c5545db718718ab294500231f",
+      "sha256": "41466d4b1f0e5668b7262290321eeeaaa6e17e5172b47df388c3bf3347b17c82"
+    },
+    {
+      "name": "Lawnmower Man, The (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48336-00",
+      "size": 1048576,
+      "crc32": "a7cacd59",
+      "md5": "a82335504728f3e160f2ea9fe8e0e969",
+      "sha1": "9e19ac92bc06954985dd97a9a7f55ef87e8c7364",
+      "sha256": "473c96e5aba8cfbdad542fbfe6ad7fde336d46e2e7db86e91842c4b071385f80"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lawnmower%20Man%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lawnmower%20Man%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lawnmower%20Man%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

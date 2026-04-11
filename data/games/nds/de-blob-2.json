@@ -54,5 +54,66 @@
     "wikidata": "Q3647935",
     "mobygames": 56103,
     "igdb": 207100
-  }
+  },
+  "roms": [
+    {
+      "name": "de Blob 2 (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VD2V",
+      "size": 67108864,
+      "crc32": "9b6fe140",
+      "md5": "f7c8df17fb6b822e4c4118461d8cd18b",
+      "sha1": "be1f88734ec613589e1289bb8b4fd50eba7fbfde",
+      "sha256": "36c1d5ca145dd0d51682b215d88b6cc72141d57b03ee2045f1a07a5accb0aa39"
+    },
+    {
+      "name": "de Blob 2 (USA) (En,Fr) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VD2E",
+      "size": 67108864,
+      "crc32": "27e748e9",
+      "md5": "d313712b05604b75a7202d508a38c835",
+      "sha1": "05a95def5364812619532b1438fe0f825dfe21b9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/de%20Blob%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/de%20Blob%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/de%20Blob%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/de%20Blob%202%20%28USA%29%20%28En%2CFr%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/de%20Blob%202%20%28USA%29%20%28En%2CFr%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/de%20Blob%202%20%28USA%29%20%28En%2CFr%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

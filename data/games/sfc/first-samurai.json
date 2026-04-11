@@ -61,5 +61,130 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "First Samurai (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "5685773a",
+      "md5": "4a1bb571c917b1a410fef58b5614547d",
+      "sha1": "e6ca5b727d83c31a5aab8ef31af272dcfd4bbbb8",
+      "sha256": "b7ab3afb4f63b95c2ceafcaf03fd691fe9fc53b173d7fd22a8a111b40f8713b3"
+    },
+    {
+      "name": "First Samurai (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "9b855ed0",
+      "md5": "e5400fd97a513b5a42f815a1715750d4",
+      "sha1": "93f142fb27f778576a8e0ccc06e8fef60eaf637b",
+      "sha256": "6b913a664dafa2739438e0fb8df24abc61261a4c80d88786e9bb572d4217ecb5"
+    },
+    {
+      "name": "First Samurai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "b249401b",
+      "md5": "78d8898b37390d3a29a44d2c71458fb1",
+      "sha1": "e59c07f46b0a2a562b929ebd6da715e984cc9ff1",
+      "sha256": "77434d6d2ef83d08e2dc80f6aed65a1368064b0428da46a8c48dd9caae4bc83b"
+    },
+    {
+      "name": "First Samurai (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "4f0a1e2a",
+      "md5": "8a72b499041f58ee065d314f445a67a3",
+      "sha1": "02ae2e06e34af12bd9b1f000bb03af79b1e38269",
+      "sha256": "4c1354337efa788169387458fa6bdbcf4be0c98369920af2bd876ad98d29070f"
+    },
+    {
+      "name": "First Samurai (World) (QUByte Classics)",
+      "source": "no_intro",
+      "size": 524288,
+      "crc32": "2b8ba13b",
+      "md5": "7648be5380826fe30d1dd705020cc74b",
+      "sha1": "deb137d4ce8d90d22b294bf416388450d353d59f",
+      "sha256": "a9901b35d7600b07dd368cce6d45bf1ee68ce9c34550d04902ca5f164002fb70"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/First%20Samurai%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/First%20Samurai%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/First%20Samurai%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/First%20Samurai%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/First%20Samurai%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/First%20Samurai%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/First%20Samurai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/First%20Samurai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/First%20Samurai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/First%20Samurai%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/First%20Samurai%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/First%20Samurai%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

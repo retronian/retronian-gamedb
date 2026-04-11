@@ -45,5 +45,65 @@
     "wikidata": "Q4986378",
     "mobygames": 51888,
     "igdb": 16086
-  }
+  },
+  "roms": [
+    {
+      "name": "Build-a-Lot (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CL7E",
+      "size": 16777216,
+      "crc32": "b934f9df",
+      "md5": "71cbd0a6a7a16f93763154da5b96a3fd",
+      "sha1": "0ac97b4e3ce0d2232a15bff4d8bfc8e4facc3298"
+    },
+    {
+      "name": "Build-a-Lot (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CL7P",
+      "size": 16777216,
+      "crc32": "6bd2ef60",
+      "md5": "94bee3eccc3162d921bb7d168e8907a4",
+      "sha1": "147f266623ae177b6815a4453d56e121b38e81da"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Build-a-Lot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Build-a-Lot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Build-a-Lot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Build-a-Lot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Build-a-Lot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Build-a-Lot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

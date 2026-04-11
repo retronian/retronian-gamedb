@@ -18,5 +18,48 @@
     "wikidata": "Q116737645",
     "mobygames": 81774,
     "igdb": 141423
-  }
+  },
+  "roms": [
+    {
+      "name": "Angel Cat Sugar (Europe) (Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C5OX",
+      "size": 16777216,
+      "crc32": "b9c9cf83",
+      "md5": "af0cd2204461100e4360df979b68f8f0",
+      "sha1": "cb1786a0f0281544c22eab0d0453eb4273bcf7bd",
+      "sha256": "dd99ae743ec58c33cca5507b9b6e647dddc60502f08a681967cc57bfbe363504"
+    },
+    {
+      "name": "Angel Cat Sugar (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C5OP",
+      "size": 16777216,
+      "crc32": "e61f21fb",
+      "md5": "ce40f8c8e5568c092a0335591eaf48f2",
+      "sha1": "de44d00fa3ea34f03c088c67f9afea68e4611e19"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Angel%20Cat%20Sugar%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Angel%20Cat%20Sugar%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Angel%20Cat%20Sugar%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

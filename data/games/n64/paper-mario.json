@@ -88,5 +88,105 @@
     "wikidata": "Q149998",
     "mobygames": 5498,
     "igdb": 3340
-  }
+  },
+  "roms": [
+    {
+      "name": "Mario Story (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NMQJ",
+      "size": 41943040,
+      "crc32": "bd60ca66",
+      "md5": "df54f17fb84fb5b5bcf6aa9af65b0942",
+      "sha1": "b9cca3ff260b9ff427d981626b82f96de73586d3",
+      "sha256": "a62c669817f87fba067248962f6737d9a8d27e78a843798d739d9d2a39d73874"
+    },
+    {
+      "name": "Paper Mario (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NMQP",
+      "size": 50331648,
+      "crc32": "9fc00ce3",
+      "md5": "3b5c99f5e7dba06bf8237e58f6d4196b",
+      "sha1": "1273275142b79f7443f55bd35679a19670adfe3a",
+      "sha256": "5540ccd817201a3f5174295dde7fce7e2a6f79f081209a4b6b7eec7d9c4b88e4"
+    },
+    {
+      "name": "Paper Mario (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NMQE",
+      "size": 41943040,
+      "crc32": "a7f5cd7e",
+      "md5": "a722f8161ff489943191330bf8416496",
+      "sha1": "3837f44cda784b466c9a2d99df70d77c322b97a0",
+      "sha256": "9ec6d2a5c2fca81ab86312328779fd042b5f3b920bf65df9f6b87b376883cb5b"
+    },
+    {
+      "name": "Paper Mario (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 67108864,
+      "crc32": "f845af4e",
+      "md5": "09d387fb3898bc993a267dad4b523fb0",
+      "sha1": "c54905138e67daaddc6def94e76f626c4fbc81f7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Paper%20Mario%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Paper%20Mario%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Paper%20Mario%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Paper%20Mario%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Paper%20Mario%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Paper%20Mario%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

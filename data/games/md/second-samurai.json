@@ -36,5 +36,48 @@
     "wikidata": "Q3477018",
     "mobygames": 16408,
     "igdb": 4422
-  }
+  },
+  "roms": [
+    {
+      "name": "Second Samurai (World) (QUByte Classics)",
+      "source": "no_intro",
+      "serial": "T-113106-50",
+      "size": 1048576,
+      "crc32": "12d646b8",
+      "md5": "2ea988757c849eb4a875d3a01c75367a",
+      "sha1": "24824ebfa5a62a8c42bd581d0662b5213aba83d2",
+      "sha256": "53e3f0ce85b79ca9668d2ce34573b0ccb49b1367bbb0e063150d1e72f5a7f181"
+    },
+    {
+      "name": "Second Samurai (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-113106-50",
+      "size": 1048576,
+      "crc32": "78e92143",
+      "md5": "333f15e8bc4ecacf168b399a988fe1e7",
+      "sha1": "72bfe0d4c56d9600a39fae00399fef157eb1fe6f",
+      "sha256": "a636037c6772db0dd91ccdc504896a5d01cd6846e7678f6ee49c0c32c16f987b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Second%20Samurai%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Second%20Samurai%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Second%20Samurai%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

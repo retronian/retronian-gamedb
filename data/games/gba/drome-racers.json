@@ -63,5 +63,66 @@
     "wikidata": "Q5308263",
     "mobygames": 56078,
     "igdb": 22244
-  }
+  },
+  "roms": [
+    {
+      "name": "Drome Racers (Europe) (En,Fr,De,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AOEX",
+      "size": 8388608,
+      "crc32": "d6101bc0",
+      "md5": "585a0f57c4db96b18dbf15f9c0c2fa6f",
+      "sha1": "de8d38ab95ac072a9d96989ba04d895d46b841ae",
+      "sha256": "189b8fe5dfb7935fd5d0c405731842874d7da8ddc81d8a1834210e504cb5eafa"
+    },
+    {
+      "name": "Drome Racers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AOEE",
+      "size": 8388608,
+      "crc32": "ad356fb9",
+      "md5": "9f39a0635363f9e534a4b48c64d52322",
+      "sha1": "bf810c4a61b03d3d76063633695e45fdd9f789f7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Drome%20Racers%20%28Europe%29%20%28En%2CFr%2CDe%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Drome%20Racers%20%28Europe%29%20%28En%2CFr%2CDe%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Drome%20Racers%20%28Europe%29%20%28En%2CFr%2CDe%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Drome%20Racers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Drome%20Racers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Drome%20Racers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

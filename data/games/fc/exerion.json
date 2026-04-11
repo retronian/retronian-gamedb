@@ -70,5 +70,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Exerion (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "79757534",
+      "md5": "f0e7698aad182f7b2d612c767e77b445",
+      "sha1": "0ed823e7f4c0cc9e9e8a0566a7e13cf57a6f7902",
+      "sha256": "e0ee59638fb7242bf2bc9750e17110ba58e39b75feef4c040827df670eb1ec15"
+    },
+    {
+      "name": "Exerion (Taiwan) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 24592,
+      "crc32": "bc8ea6c6",
+      "md5": "6c87429b78520ae9b09b311f2276c3bf",
+      "sha1": "4dad56032626add9fb373794fd110b57048197ae",
+      "sha256": "41f029869e51a20ecb037ff1c5d5985b658e0381ba3bb3a59ac555aa67c6c803"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Exerion%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Exerion%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Exerion%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

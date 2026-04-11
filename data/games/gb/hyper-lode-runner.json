@@ -27,5 +27,60 @@
     "wikidata": "Q5957619",
     "mobygames": 44377,
     "igdb": 48980
-  }
+  },
+  "roms": [
+    {
+      "name": "Hyper Lode Runner (World) (Rev 1)",
+      "source": "no_intro",
+      "size": 32768,
+      "crc32": "b3a86164",
+      "md5": "dc79b733997e469e961e2d850448db23",
+      "sha1": "261da795c7b4155f1b8083acc55da78699c8a0de",
+      "sha256": "bc551a36b67b18b64a21320a51db6d2025930991437d15b5d53f1217a942bd0f"
+    },
+    {
+      "name": "Hyper Lode Runner (Japan) (En) (Possible Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "3fc21b74",
+      "md5": "9d20f9cc539c953a3da5962bea455d18",
+      "sha1": "37d0f2cbac0f95af8b22dea0c882612681ec5cc8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hyper%20Lode%20Runner%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hyper%20Lode%20Runner%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hyper%20Lode%20Runner%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hyper%20Lode%20Runner%20%28Japan%29%20%28En%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hyper%20Lode%20Runner%20%28Japan%29%20%28En%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hyper%20Lode%20Runner%20%28Japan%29%20%28En%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

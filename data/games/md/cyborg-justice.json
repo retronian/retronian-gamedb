@@ -18,5 +18,49 @@
     "wikidata": "Q3008217",
     "mobygames": 31356,
     "igdb": 46236
-  }
+  },
+  "roms": [
+    {
+      "name": "Cyborg Justice (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1024-00",
+      "size": 524288,
+      "crc32": "ab0d1269",
+      "md5": "d2d8c19c67e14a0d509a454bd880bbdd",
+      "sha1": "6d0c72fa5e53d897390707eb4c6d3e86e6772215",
+      "sha256": "826fbba970b28114fa1065e178a0bda3e7043195aa98dd08f443ca2f5a2c4bd4"
+    },
+    {
+      "name": "Cyborg Justice (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1024-00",
+      "size": 524288,
+      "crc32": "bb84928c",
+      "md5": "fcd83676eb392c53b71b76eb603a7767",
+      "sha1": "5544f4fa8b58f80aec5d365d8dc63485993007f9",
+      "sha256": "f1727d862e1ea63cac99663e91f5046217ce312d5bdc55352ed2c9818aea3541"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Cyborg%20Justice%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Cyborg%20Justice%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Cyborg%20Justice%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

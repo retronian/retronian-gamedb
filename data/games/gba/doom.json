@@ -90,5 +90,37 @@
     "wikidata": "Q189784",
     "mobygames": 1068,
     "igdb": 259941
-  }
+  },
+  "roms": [
+    {
+      "name": "Doom (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ADME",
+      "size": 8388608,
+      "crc32": "58c641b3",
+      "md5": "a4078f38dbb47ab22a9c74b725f3e481",
+      "sha1": "af2b2206777651c7993c1ae9008d07c31430207e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Doom%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Doom%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Doom%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

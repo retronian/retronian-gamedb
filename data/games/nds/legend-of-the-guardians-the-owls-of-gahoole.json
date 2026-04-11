@@ -44,5 +44,53 @@
   "external_ids": {
     "wikidata": "Q26180570",
     "igdb": 4968
-  }
+  },
+  "roms": [
+    {
+      "name": "Legend of the Guardians - The Owls of Ga'Hoole (USA) (En,Fr,Es,Pt)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CUAE",
+      "size": 67108864,
+      "crc32": "16381fce",
+      "md5": "f016591aaa0c443dd313da51076d87d3",
+      "sha1": "7aa83cc824cdefaec214d1255e6c170dbc82c6aa"
+    },
+    {
+      "name": "Legend of the Guardians - The Owls of Ga'Hoole (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CUAP",
+      "size": 67108864,
+      "crc32": "e208c83b",
+      "md5": "3996d8154e98b52476912a1269c87a6a",
+      "sha1": "8ae80fd45ca3c1f9adb5109cd70c72dc9254d8e2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Legend%20of%20the%20Guardians%20-%20The%20Owls%20of%20Ga%27Hoole%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Legend%20of%20the%20Guardians%20-%20The%20Owls%20of%20Ga%27Hoole%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Legend%20of%20the%20Guardians%20-%20The%20Owls%20of%20Ga%27Hoole%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Legend%20of%20the%20Guardians%20-%20The%20Owls%20of%20Ga%27Hoole%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

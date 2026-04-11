@@ -71,5 +71,78 @@
     "wikidata": "Q2863368",
     "mobygames": 10340,
     "igdb": 12869
-  }
+  },
+  "roms": [
+    {
+      "name": "Arnold Palmer Tournament Golf (USA, Europe) (Rev A) (Beta) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00001203-01",
+      "size": 524288,
+      "crc32": "09b67c70",
+      "md5": "bca822ac1361480ed4474444eafb78d5",
+      "sha1": "9aa39a64741347d11c8556326596e09c1a4193ef",
+      "sha256": "16bc2dc1e6b7b9c0cfe48078a3d21545a3fe7486af22d0496a1302461c5b1b3e"
+    },
+    {
+      "name": "Arnold Palmer Tournament Golf (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00001203-00",
+      "size": 524288,
+      "crc32": "35b995ef",
+      "md5": "c77d184d22c4e6a5a365e99a0721aebb",
+      "sha1": "76ab194beafcf9e9d5bc40a8e70e2a01d7e42a5b",
+      "sha256": "bd9770385accfe5c3f4e670c2557d123694dde86cdeda17ade360b8ac3dfdc0e"
+    },
+    {
+      "name": "Ozaki Naomichi no Super Masters (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004014-00",
+      "size": 524288,
+      "crc32": "088ba825",
+      "md5": "da0c9622e14da9c9aa9a45a99fc9e791",
+      "sha1": "662a87d679066aad0638b2ffb01c807d9f376121",
+      "sha256": "3f817d17b3b4cb7c632ab7d3346d97b834c52243ffd8dffe5777c8d17860748e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Arnold%20Palmer%20Tournament%20Golf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Arnold%20Palmer%20Tournament%20Golf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Arnold%20Palmer%20Tournament%20Golf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ozaki%20Naomichi%20no%20Super%20Masters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ozaki%20Naomichi%20no%20Super%20Masters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ozaki%20Naomichi%20no%20Super%20Masters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

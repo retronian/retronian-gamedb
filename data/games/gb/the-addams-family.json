@@ -29,11 +29,161 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "The Addams Family",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "The Addams Family",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "The Addams Family",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "The Addams Family",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "アダムス・ファミリー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "Addams Family, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "external_ids": {
     "wikidata": "Q116972218",
     "mobygames": 45661,
     "igdb": 14208
-  }
+  },
+  "descriptions": [
+    {
+      "text": "「アダムス・ファミリー」は、同名の映画を基にした横スクロールのプラットフォーマーです。プレイヤーはゴメスの役割を担い、行方不明の家族を探します。彼は森や墓地など、邸宅の6つの異なるエリアを探索しなければなりません。これらは基本的なプラットフォームレベルで、プレイヤーは左から右へ移動しながらジャンプを繰り返し、敵を避けます。他のバージョンのゲームとは異なり、彼は投げナイフなどの武器を使うことができます。その他の違いとして、独自のレベルデザインと異なる健康システムがあります。ゴメスは5つのハートを持っており、これは実質的にライフメーターのように機能します。なぜなら、攻撃を受けるとハートの一部が減るだけだからです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-01",
+  "roms": [
+    {
+      "name": "Addams Family, The (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "28fa451e",
+      "md5": "8814b9ec76241a6ac4deefa00ebebad8",
+      "sha1": "2246dbdb6c58c77814cf034ae9224be8e73c5084",
+      "sha256": "5aead278cb3161461487bf21c9b06dbe5f766e439dac9833941ba67a3c1fe742"
+    },
+    {
+      "name": "Addams Family, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "4c749c14",
+      "md5": "dc2f4d927edda442de2148af590bebb5",
+      "sha1": "10a7d1491001657272755559ed593cc4400014ee",
+      "sha256": "97e29133d0d7ce09da37146675aa8823acfe4ac4977695cb51203958651ea376"
+    },
+    {
+      "name": "Addams Family, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "c170a732",
+      "md5": "f629f0b6d156bec6acb9e6b9da4ad4e3",
+      "sha1": "8710ceecbe3e7ade67c0362cc3b455aceb67a90d",
+      "sha256": "f267738e785f43a09c92511bcbb7f16d2e8acbe43b36f75bee35ff3fb0c21621"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Addams%20Family%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Addams%20Family%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Addams%20Family%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Addams%20Family%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Addams%20Family%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Addams%20Family%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Addams%20Family%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Addams%20Family%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Addams%20Family%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

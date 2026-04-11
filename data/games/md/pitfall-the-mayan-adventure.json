@@ -45,5 +45,67 @@
     "wikidata": "Q2083777",
     "mobygames": 2399,
     "igdb": 5410
-  }
+  },
+  "roms": [
+    {
+      "name": "Pitfall - The Mayan Adventure (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-130036-50",
+      "size": 2097152,
+      "crc32": "c9198e19",
+      "md5": "afb791f94ddec643f4d351530fdf36f0",
+      "sha1": "b7c5f6e5f422c7bb5ec3177328d963c9beace24f",
+      "sha256": "94291309b17697c60e9df215affb98314254b0a4f9a808ff54b041221de34e9c"
+    },
+    {
+      "name": "Pitfall - The Mayan Adventure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-130036-00",
+      "size": 2097152,
+      "crc32": "f917e34f",
+      "md5": "6a80d2d34cdfafd03703b0fe76d10399",
+      "sha1": "f2067e7d974f03bf922286241119dac7c0ecabff",
+      "sha256": "e9b1cea140798a4c080e62e921a68a5ed03be6d82610c3466d46e28bbe9626cc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pitfall%20-%20The%20Mayan%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pitfall%20-%20The%20Mayan%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pitfall%20-%20The%20Mayan%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pitfall%20-%20The%20Mayan%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pitfall%20-%20The%20Mayan%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pitfall%20-%20The%20Mayan%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

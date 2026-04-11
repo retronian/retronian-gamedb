@@ -83,6 +83,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Ms. Pac-Man Maze Madness",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1980-05-22",
@@ -90,5 +99,65 @@
     "wikidata": "Q173626",
     "mobygames": 138,
     "igdb": 239193
-  }
+  },
+  "roms": [
+    {
+      "name": "Ms. Pac-Man - Maze Madness (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPCE",
+      "size": 4194304,
+      "crc32": "dde5df02",
+      "md5": "279af1b9d55efdcea19593a42f8ce23d",
+      "sha1": "1c28602604e760fffc09cb84db6377a9b148d103"
+    },
+    {
+      "name": "Ms. Pac-Man - Maze Madness (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BPCP",
+      "size": 4194304,
+      "crc32": "6e03fd6a",
+      "md5": "2330d9d78363285a7a59a844cfe4e506",
+      "sha1": "042ebfa7a5ce645c22099a276c8c6e0d2f6a1a77"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ms.%20Pac-Man%20-%20Maze%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ms.%20Pac-Man%20-%20Maze%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ms.%20Pac-Man%20-%20Maze%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ms.%20Pac-Man%20-%20Maze%20Madness%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ms.%20Pac-Man%20-%20Maze%20Madness%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ms.%20Pac-Man%20-%20Maze%20Madness%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -71,5 +71,124 @@
     "wikidata": "Q623083",
     "mobygames": 24784,
     "igdb": 20581
-  }
+  },
+  "roms": [
+    {
+      "name": "Contact (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ACOJ",
+      "size": 67108864,
+      "crc32": "772720f0",
+      "md5": "e85105ab2b1239f51e06779aff8cf6ba",
+      "sha1": "fec95e0e32e8df60009cecfc4f2cf82463bd961f"
+    },
+    {
+      "name": "Contact (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACOE",
+      "size": 67108864,
+      "crc32": "36dfab8a",
+      "md5": "5a5d111f90f182aff76b6b488d365807",
+      "sha1": "afbebf7d2229ee8cf6f04d0935ce2b44827a128b",
+      "sha256": "c9fc8b9d34620a4471638175069099912a76a242c62352acd5d0a3495429080e"
+    },
+    {
+      "name": "Contact (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACOP",
+      "size": 67108864,
+      "crc32": "6c1b1ede",
+      "md5": "170f7650a7218904110203b999c6f632",
+      "sha1": "aa279385e66405ec33926fb1ef571eff3f66f45b",
+      "sha256": "669dd8bfdc59aa15fc7df037f5e24b5df5b39c10bbf11d8e6d3e8f324ab84b53"
+    },
+    {
+      "name": "Contact (Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACOP",
+      "size": 67108864,
+      "crc32": "031cab50",
+      "md5": "64baed718d160d99a3537e5aa8f63c0b",
+      "sha1": "b00e417f2d4c43e0720eccf4f4e15ebf1bb1fa88",
+      "sha256": "c61af5078b001343a83f14fd5458eec5615cd8643ed6c9389b9cbf19b9fd23ab"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Contact%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Contact%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Contact%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Contact%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Contact%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Contact%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Contact%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Contact%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Contact%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Contact%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Contact%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Contact%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

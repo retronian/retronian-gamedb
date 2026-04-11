@@ -17,5 +17,65 @@
   "external_ids": {
     "wikidata": "Q5278473",
     "mobygames": 36585
-  }
+  },
+  "roms": [
+    {
+      "name": "DinoCity (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "c495320a",
+      "md5": "beba697f6b24ed4cf82fede9565f580d",
+      "sha1": "881e37862a065e048f47c115dba078c3f9d5c023",
+      "sha256": "a7612dbb5fd122090d4fcbffec81d295c0911ff5c83fa865c441c7b3996fcc92"
+    },
+    {
+      "name": "DinoCity (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "94152717",
+      "md5": "3623efce83f8c52fb7e2ce173c487288",
+      "sha1": "817eac2e9e84f3a2f7263fdee12d09181f14ac09",
+      "sha256": "7dbfc44d28a46e6d399628e43086aa9fd0b2abeda4c108751a5ad91c102c3aaf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/DinoCity%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/DinoCity%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/DinoCity%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/DinoCity%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/DinoCity%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/DinoCity%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

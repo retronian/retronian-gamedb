@@ -18,5 +18,67 @@
     "wikidata": "Q3314408",
     "mobygames": 9199,
     "igdb": 3411
-  }
+  },
+  "roms": [
+    {
+      "name": "Milo's Astro Lanes (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NBRP",
+      "size": 4194304,
+      "crc32": "c08ce624",
+      "md5": "43b02af2789990a14f77ce020e6f135c",
+      "sha1": "77da41c16cd8989291a82159a15ce98d155916a6",
+      "sha256": "c66522df27baed11ac5caf126820bef22c92d6602b25acfc369a5bd1afe39c64"
+    },
+    {
+      "name": "Milo's Astro Lanes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NBRE",
+      "size": 4194304,
+      "crc32": "172fca97",
+      "md5": "4f256146bac4a3dde5ad0d5f9c909251",
+      "sha1": "7a0246e367ff84b46c0bec9a6b760d3b67b13041",
+      "sha256": "5e2901b55a23f748c013257e9697a4b63ed3cc24504b809fb7964c538bd75380"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Milo%27s%20Astro%20Lanes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Milo%27s%20Astro%20Lanes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Milo%27s%20Astro%20Lanes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Milo%27s%20Astro%20Lanes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Milo%27s%20Astro%20Lanes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Milo%27s%20Astro%20Lanes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,65 @@
     "wikidata": "Q7396363",
     "mobygames": 15593,
     "igdb": 6582
-  }
+  },
+  "roms": [
+    {
+      "name": "Sabre Wulf (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWUP",
+      "size": 8388608,
+      "crc32": "9e3eab8d",
+      "md5": "6714ce5d3c2f6988776ec92e36b9ddda",
+      "sha1": "49084091f79dfec46b4fbce62e897985cafbc147"
+    },
+    {
+      "name": "Sabre Wulf (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWUE",
+      "size": 8388608,
+      "crc32": "73787a16",
+      "md5": "b4b8e9fbb47a947850f127465c8bee40",
+      "sha1": "d8803e742253e4b6712bdf07d49d3d7ed7fb23d6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sabre%20Wulf%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sabre%20Wulf%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sabre%20Wulf%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Sabre%20Wulf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Sabre%20Wulf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Sabre%20Wulf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

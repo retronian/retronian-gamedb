@@ -63,5 +63,49 @@
     "wikidata": "Q3516989",
     "mobygames": 15088,
     "igdb": 46596
-  }
+  },
+  "roms": [
+    {
+      "name": "Tecmo Super NBA Basketball (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-36033-00",
+      "size": 1048576,
+      "crc32": "79f33eb6",
+      "md5": "6c4dc1b2efcbeb1216f3a002a5a15b46",
+      "sha1": "07f160e6eb7e358f54e4fdabfc95bb5525c57fc9",
+      "sha256": "530a2c36a82e6da8a5eee013df02031ea3e35eb9d8bf4267f5ce4330a36ee1c8"
+    },
+    {
+      "name": "Tecmo Super NBA Basketball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-36026-00",
+      "size": 1048576,
+      "crc32": "53913991",
+      "md5": "d6de12d1e1a2c21a93367a041a3b3f4b",
+      "sha1": "ac7aa724d6464fbd8e3144a49f3821ff6e42f67a",
+      "sha256": "e9e378c692769226f19e95b56282203eaba0b5c09fec9110e430b475b3082b69"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Tecmo%20Super%20NBA%20Basketball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Tecmo%20Super%20NBA%20Basketball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Tecmo%20Super%20NBA%20Basketball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

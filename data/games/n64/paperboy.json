@@ -72,5 +72,67 @@
     "wikidata": "Q1330205",
     "mobygames": 4577,
     "igdb": 19370
-  }
+  },
+  "roms": [
+    {
+      "name": "Paperboy (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NYPP",
+      "size": 12582912,
+      "crc32": "f00c5053",
+      "md5": "b7f2eb7989c9c00096655d087d72ec51",
+      "sha1": "7db4808042b9651b47592e814ac4c125b51d4d2f",
+      "sha256": "d4fab7f0a04d4c7dfc21ec66d3ae83a65c857bb346549e4a41ee6f2008086efa"
+    },
+    {
+      "name": "Paperboy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NYPE",
+      "size": 12582912,
+      "crc32": "f27114e6",
+      "md5": "c4cbcb54b010a5a71fe5caa391e5c25f",
+      "sha1": "b043c47b9758fa6bb289ca7dba2068bda6cafa3a",
+      "sha256": "12cc5490a22e4af0fee6d40d15fda0281049860c61a5e30d864a071083191819"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Paperboy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Paperboy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Paperboy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Paperboy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Paperboy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Paperboy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

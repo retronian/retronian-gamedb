@@ -72,5 +72,47 @@
     "wikidata": "Q2000330",
     "mobygames": 6926,
     "igdb": 1874
-  }
+  },
+  "roms": [
+    {
+      "name": "North & South (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "abb1cb93",
+      "md5": "23a58feb8e6721f01b81a240e030ca7f",
+      "sha1": "c7efdcca1a518074cd31f80e64c2dee2bee7bba2",
+      "sha256": "142fa6fe8962e55d7e26c3be2f20e79062f4369cbb5e8a151d056c4439c62db5"
+    },
+    {
+      "name": "North and South (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "ba63264d",
+      "md5": "ba4432d93db06a25e131a0c3225c5930",
+      "sha1": "a6eb07d7606bb7414f420244d14d7aa715a1b327",
+      "sha256": "0cabc479fa5fd579b2e5b3534c4017e3826d63f48a62e2b3104840ec52d82468"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/North%20and%20South%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/North%20and%20South%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/North%20and%20South%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

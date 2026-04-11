@@ -18,5 +18,61 @@
     "wikidata": "Q125415157",
     "mobygames": 36280,
     "igdb": 149282
-  }
+  },
+  "roms": [
+    {
+      "name": "Mahjong (Germany) (En,De)",
+      "source": "no_intro",
+      "serial": "AXOP",
+      "size": 16777216,
+      "crc32": "b40710f2",
+      "md5": "49778e96895c3d65e296aca2aad7736f",
+      "sha1": "2c700c23325025ce4aad6514f0d6ff29ee884341"
+    },
+    {
+      "name": "Mahjong (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AXOX",
+      "size": 16777216,
+      "crc32": "b69c3bd9",
+      "md5": "da7e737a78629c73658bc6064ad14380",
+      "sha1": "ad1cc74ac17e53343d6aa54ee5f60f96448181a8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mahjong%20%28Germany%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mahjong%20%28Germany%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mahjong%20%28Germany%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mahjong%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mahjong%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mahjong%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

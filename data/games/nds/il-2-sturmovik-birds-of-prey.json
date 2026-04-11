@@ -63,5 +63,53 @@
     "wikidata": "Q1255599",
     "mobygames": 44720,
     "igdb": 193298
-  }
+  },
+  "roms": [
+    {
+      "name": "IL-2 Sturmovik - Birds of Prey (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BIRP",
+      "size": 16777216,
+      "crc32": "deea0792",
+      "md5": "2e5eb9dbf436362337562be030e7f5ec",
+      "sha1": "5ff7fa2b2d2831b54b415c3b1f8aa7237fd0e2c8"
+    },
+    {
+      "name": "IL-2 Sturmovik - Birds of Prey (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BIRE",
+      "size": 16777216,
+      "crc32": "bbfc2343",
+      "md5": "e5dee0f503ca47a9f13dfad784f45dc5",
+      "sha1": "319495fbbbbf78a9242e6cbd634e0e8e5fa7ec42"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/IL-2%20Sturmovik%20-%20Birds%20of%20Prey%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/IL-2%20Sturmovik%20-%20Birds%20of%20Prey%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/IL-2%20Sturmovik%20-%20Birds%20of%20Prey%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/IL-2%20Sturmovik%20-%20Birds%20of%20Prey%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -107,5 +107,47 @@
     "wikidata": "Q3516981",
     "mobygames": 8021,
     "igdb": 285769
-  }
+  },
+  "roms": [
+    {
+      "name": "Tecmo Bowl (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "e4f29760",
+      "md5": "dc2732dba9121aad355fa2e1dfbbb069",
+      "sha1": "a3d7559db6aebf77ec6a682b7d39c1976f80c7a1",
+      "sha256": "1f3c9ff627b0445e57a7425bc433c0476a0eeafe25ea5c6522b102d1ef8f875e"
+    },
+    {
+      "name": "Tecmo Bowl GB (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "cfd74e34",
+      "md5": "dc8b474c2a31da3a494c80970d2892bf",
+      "sha1": "2447006c578e1df0256e9155c8b65fa2a6b0004b",
+      "sha256": "e2fbeb9e95581f4dc1c9f43fc768e617fe407a0b36cc5ee620c65361b134ccec"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tecmo%20Bowl%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tecmo%20Bowl%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tecmo%20Bowl%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -36,5 +36,57 @@
     "wikidata": "Q7306858",
     "mobygames": 54589,
     "igdb": 45087
-  }
+  },
+  "roms": [
+    {
+      "name": "Reel Fishing II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 260726048,
+      "crc32": "8bf7bdf9",
+      "md5": "44198511f3b318058965e2c2fa2fc8fd",
+      "sha1": "b2fe1857a2accb714f2015dbcb4a480cf4b796cd",
+      "sha256": "aec12a494e87b287f3e32bf6aa9b7fb84f67d5d37ffd87ec524ccb14fb8e4c4a"
+    },
+    {
+      "name": "Reel Fishing II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 175605712,
+      "crc32": "80f49acf",
+      "md5": "a6b7a365697336ecf8161d5a39d5e69b",
+      "sha1": "ea081d5b1be1ac7a453172997284a327c4669c5c",
+      "sha256": "13121757d115a9458e1cb2d7f9c62399c849ce064fae5174da71474b45d2b774"
+    },
+    {
+      "name": "Reel Fishing II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 237722464,
+      "crc32": "b6dd6329",
+      "md5": "57f00859b31f2938dd245515a81d5090",
+      "sha1": "600650e54ba7ead9b70fe0ba04ac7e5ce5e76c4f",
+      "sha256": "70b8aa48b24e1019d05c2ed6bc3bf5798ce4dfcb0e9a895e91c4590053d39284"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Reel%20Fishing%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Reel%20Fishing%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Reel%20Fishing%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

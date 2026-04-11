@@ -18,5 +18,65 @@
     "wikidata": "Q7975976",
     "mobygames": 15137,
     "igdb": 7646
-  }
+  },
+  "roms": [
+    {
+      "name": "Wayne's World (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "94eae7e4",
+      "md5": "88b5f1a795fcbd1bd5e7eea8f795bf9d",
+      "sha1": "a41f878dfb852724e0cabe6ed4cff73cb81aabb9",
+      "sha256": "ff2fbe5e2db39b0c7639df8588e7e49234a1f06c19f5225fd948e13ec0cfae87"
+    },
+    {
+      "name": "Wayne's World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "0d426a15",
+      "md5": "45a4bca91f659b9020d9f69faf53ae23",
+      "sha1": "0681d155d6ba4c315afbb52fbb3b7c053a0935ff",
+      "sha256": "56ba3d585bf6b701e342d86a0bd164ab0a97dfbd5df46b3a964506842633459c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wayne%27s%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wayne%27s%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wayne%27s%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wayne%27s%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wayne%27s%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wayne%27s%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

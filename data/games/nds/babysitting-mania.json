@@ -27,5 +27,65 @@
     "wikidata": "Q4838549",
     "mobygames": 87272,
     "igdb": 47979
-  }
+  },
+  "roms": [
+    {
+      "name": "Babysitting Mania (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CBYE",
+      "size": 33554432,
+      "crc32": "f6ffaea6",
+      "md5": "8497023033624d62312871f07646ef3c",
+      "sha1": "d4aed2cdcbafa07f8bc2740f62a04cd9d0665a97"
+    },
+    {
+      "name": "Babysitting Mania (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CBYP",
+      "size": 33554432,
+      "crc32": "c2a4cbca",
+      "md5": "93bf5409b2b78e78e4f52aa09836ae94",
+      "sha1": "daaab25c10e8a98cda6393c22e93ced28554e1d6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Babysitting%20Mania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Babysitting%20Mania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Babysitting%20Mania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Babysitting%20Mania%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Babysitting%20Mania%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Babysitting%20Mania%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

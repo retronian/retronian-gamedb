@@ -79,5 +79,75 @@
     "wikidata": "Q1010202",
     "mobygames": 13541,
     "igdb": 73926
-  }
+  },
+  "roms": [
+    {
+      "name": "Ghost Lion (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "385876b3",
+      "md5": "4030be9b71f3c7b17f81c028093b1a65",
+      "sha1": "85cbd2673b686c40fe823140cd114db6f223ee12",
+      "sha256": "0caba7ce915e33b35ab943ff4c7e4034d92d9ac351d00f72193ffe0dc0c06c43"
+    },
+    {
+      "name": "White Lion Densetsu - Pyramid no Kanata ni (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "b92e873f",
+      "md5": "8e948535197f5b517c11edbecc320ce2",
+      "sha1": "83b293601812c61c749db347c02edff6f6ae38e4",
+      "sha256": "eb835cf2466839d947566893bd223b0819de084a5fea997c52e48664399d8f0c"
+    },
+    {
+      "name": "Ghost Lion (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "cee5879e",
+      "md5": "988eae04b3d091c4ffa787eab94ad082",
+      "sha1": "81b13f5a0f6e9490b98f2d7cab0b659547b66383",
+      "sha256": "592fca9b84d072906134a27ffff5f4b4ff26ce0be626ec8390dbd68f0552b481"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ghost%20Lion%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ghost%20Lion%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ghost%20Lion%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/White%20Lion%20Densetsu%20-%20Pyramid%20no%20Kanata%20ni%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/White%20Lion%20Densetsu%20-%20Pyramid%20no%20Kanata%20ni%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/White%20Lion%20Densetsu%20-%20Pyramid%20no%20Kanata%20ni%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -18,5 +18,65 @@
     "wikidata": "Q67203578",
     "mobygames": 35286,
     "igdb": 6527
-  }
+  },
+  "roms": [
+    {
+      "name": "Over the Hedge - Hammy Goes Nuts! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BH7E",
+      "size": 8388608,
+      "crc32": "b9d4e9e7",
+      "md5": "691ea58d7b3c1adb7c6e01792bd2d140",
+      "sha1": "6ab82fa0763bf8ac6e837a83075bcf0609eb2127"
+    },
+    {
+      "name": "Over the Hedge - Hammy Goes Nuts! (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BH7P",
+      "size": 8388608,
+      "crc32": "8f1b100d",
+      "md5": "ec77810214f9b39fdc7fe1f2f1cf5cc3",
+      "sha1": "f616dffa5a4be92c75af8952218946893921436d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Over%20the%20Hedge%20-%20Hammy%20Goes%20Nuts%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Over%20the%20Hedge%20-%20Hammy%20Goes%20Nuts%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Over%20the%20Hedge%20-%20Hammy%20Goes%20Nuts%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Over%20the%20Hedge%20-%20Hammy%20Goes%20Nuts%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Over%20the%20Hedge%20-%20Hammy%20Goes%20Nuts%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Over%20the%20Hedge%20-%20Hammy%20Goes%20Nuts%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

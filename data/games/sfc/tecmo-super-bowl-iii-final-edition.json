@@ -54,5 +54,65 @@
     "wikidata": "Q7692735",
     "mobygames": 15087,
     "igdb": 42445
-  }
+  },
+  "roms": [
+    {
+      "name": "Tecmo Super Bowl III - Final Edition (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "f06c34e3",
+      "md5": "54a61236464ba8dedca795e641890637",
+      "sha1": "2438dd4c12a00a82c1c8df3395432cae19e72cc9",
+      "sha256": "3f688aeeb0ce1647b88d6a5932d179ff3e6b81b20fa82492e8c6642ae910e1a5"
+    },
+    {
+      "name": "Tecmo Super Bowl III - Final Edition (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "8ef1411f",
+      "md5": "5ee901377b87e1c5c80c71b8ab6e2dd3",
+      "sha1": "9af8fe77351b9d0c853d91b689ae8c41efb618e3",
+      "sha256": "8cfd4c5525f4bd4bba5af7e2323f1e61f27ce97c6d5617cfa685c9276fbf6407"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tecmo%20Super%20Bowl%20III%20-%20Final%20Edition%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tecmo%20Super%20Bowl%20III%20-%20Final%20Edition%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tecmo%20Super%20Bowl%20III%20-%20Final%20Edition%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tecmo%20Super%20Bowl%20III%20-%20Final%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tecmo%20Super%20Bowl%20III%20-%20Final%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tecmo%20Super%20Bowl%20III%20-%20Final%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

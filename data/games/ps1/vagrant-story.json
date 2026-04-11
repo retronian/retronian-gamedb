@@ -90,5 +90,86 @@
     "wikidata": "Q1536626",
     "mobygames": 3728,
     "igdb": 2216
-  }
+  },
+  "roms": [
+    {
+      "name": "Vagrant Story (Germany)",
+      "source": "no_intro",
+      "size": 97347216,
+      "crc32": "990db935",
+      "md5": "9c91bce16afadb718ee9493b0d1b1dd4",
+      "sha1": "3584bdd02d72cc5dae51bbc22faa6c7754a2087a"
+    },
+    {
+      "name": "Vagrant Story (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 108404288,
+      "crc32": "017092bc",
+      "md5": "f8cceae5a72b076cfe4c53c9728f659f",
+      "sha1": "95e58922b8def89b5e1b5795649bb525786a39d6",
+      "sha256": "bace093e5824c939bd298f84fecc0f013a75da41ae9b3a0e7a647583dd106118"
+    },
+    {
+      "name": "Vagrant Story (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 100681520,
+      "crc32": "e0971fa1",
+      "md5": "594c76bcf24150516dbe57145ffdbd67",
+      "sha1": "c713a09ba2ac112da8ae73458393ca906e7c7324"
+    },
+    {
+      "name": "Vagrant Story (United Kingdom)",
+      "source": "no_intro",
+      "size": 16,
+      "crc32": "a7b4151f",
+      "md5": "2d66f009c680efd6b0b5396cefaf7828",
+      "sha1": "d0cb480026b53b8c87ca7d2c5b49a71f1879d0cc"
+    },
+    {
+      "name": "Vagrant Story (Asia) (Ja)",
+      "source": "no_intro",
+      "size": 108390016,
+      "crc32": "69743bc5",
+      "md5": "4c6ceb507237e7d7d007a2dc3d335555",
+      "sha1": "47f1e5f79285810bd7c9c88426f604cd62991145",
+      "sha256": "fb40a3b9f3566fea2a0c006cd5dd2a7b122b24b715beda36d46303d22610dad2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Vagrant%20Story%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Vagrant%20Story%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Vagrant%20Story%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Vagrant%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Vagrant%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Vagrant%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

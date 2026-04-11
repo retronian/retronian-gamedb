@@ -53,5 +53,38 @@
   "external_ids": {
     "wikidata": "Q2941476",
     "mobygames": 47813
-  }
+  },
+  "roms": [
+    {
+      "name": "Castleween (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWNP",
+      "size": 4194304,
+      "crc32": "11a9b76e",
+      "md5": "f146baf10cf767d2313c4da94a5845eb",
+      "sha1": "bbda9c6708d8dd5a7ea6fbf6b7d128287de2bd82",
+      "sha256": "60b115710731989bb601173bbc090a3e94f27e7df5dbfdad0fdfb210999ae9e7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Castleween%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Castleween%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Castleween%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

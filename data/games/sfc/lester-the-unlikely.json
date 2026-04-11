@@ -96,5 +96,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Lester the Unlikely (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "1a52fee5",
+      "md5": "bb8e9e7429145404f0e4186ad0161fc8",
+      "sha1": "3cc5406045f28dc48163d360d30313d23c1ef9b8",
+      "sha256": "a2c1970670e2831e47e24ced01bf4ba5aba05cac3773bf524c62d689c35687e1"
+    },
+    {
+      "name": "Odekake Lester - Lelele no Le (^^; (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "8d89a8e8",
+      "md5": "8b915a1115b4b1e0fc588173341ee83a",
+      "sha1": "0ec5e8c1b0fa17301a5b6b335f98552bb3a6d7d2",
+      "sha256": "5ef287b4d60dfc177ae8236bcbf4f9a199656d7605fcd0483385b3eb93a3549e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Lester%20the%20Unlikely%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Lester%20the%20Unlikely%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Lester%20the%20Unlikely%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Odekake%20Lester%20-%20Lelele%20no%20Le%20%28%5E%5E%3B%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Odekake%20Lester%20-%20Lelele%20no%20Le%20%28%5E%5E%3B%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Odekake%20Lester%20-%20Lelele%20no%20Le%20%28%5E%5E%3B%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

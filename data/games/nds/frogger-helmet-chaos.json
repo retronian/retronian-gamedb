@@ -18,5 +18,65 @@
     "wikidata": "Q864188",
     "mobygames": 36959,
     "igdb": 11481
-  }
+  },
+  "roms": [
+    {
+      "name": "Frogger - Helmet Chaos (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFGE",
+      "size": 67108864,
+      "crc32": "512d11a9",
+      "md5": "25ebe181496570e9525b9965c8beb464",
+      "sha1": "046f02647c7bc29991fafc1016eb54ccc122248d"
+    },
+    {
+      "name": "Frogger - Helmet Chaos (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFGP",
+      "size": 67108864,
+      "crc32": "c095ac3c",
+      "md5": "7138ad2446c3e8ae89bfb573143e972d",
+      "sha1": "d7a98673502626a2785b19f18864bba7182b7217"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Frogger%20-%20Helmet%20Chaos%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Frogger%20-%20Helmet%20Chaos%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Frogger%20-%20Helmet%20Chaos%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Frogger%20-%20Helmet%20Chaos%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Frogger%20-%20Helmet%20Chaos%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Frogger%20-%20Helmet%20Chaos%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

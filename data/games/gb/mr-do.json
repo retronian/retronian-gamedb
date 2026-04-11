@@ -72,5 +72,65 @@
     "wikidata": "Q1557589",
     "mobygames": 9764,
     "igdb": 365697
-  }
+  },
+  "roms": [
+    {
+      "name": "Mr. Do! (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "cf84ac77",
+      "md5": "d8fafe7e8bf3d169d03b48ea23262fd5",
+      "sha1": "83663a2d49cfe41e6d9a6aad6157d7d8f024e969",
+      "sha256": "0cf3db98d60df76ba6d3a17f293f2c8641ff660baa0ce1abed2751de405cb1e1"
+    },
+    {
+      "name": "Mr. Do! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "a1122fc0",
+      "md5": "65e455737df458e59cc7b0892b95e6cd",
+      "sha1": "1262a3119e7d7cb724863afa0ac467756f2fe611",
+      "sha256": "c19f7ec9ff29fa438d7ef189f81711dcaedaa55c86b192d6d9020f5f7dc22702"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mr.%20Do%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mr.%20Do%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mr.%20Do%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mr.%20Do%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mr.%20Do%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mr.%20Do%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

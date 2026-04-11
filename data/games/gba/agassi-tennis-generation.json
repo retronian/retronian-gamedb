@@ -18,5 +18,66 @@
     "wikidata": "Q4691423",
     "mobygames": 24125,
     "igdb": 248735
-  }
+  },
+  "roms": [
+    {
+      "name": "Agassi Tennis Generation (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACEE",
+      "size": 4194304,
+      "crc32": "8ba179b8",
+      "md5": "4411d6ac05f6e818a16409894d1ec943",
+      "sha1": "1797251886d165e136ce6ba564ad8c8ec865d829",
+      "sha256": "d8ecc97ceba5a80793ac5ff63a7952fb0adffaa6481d6032f3d5bb25c755c2f4"
+    },
+    {
+      "name": "Agassi Tennis Generation (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACEP",
+      "size": 4194304,
+      "crc32": "90d759e2",
+      "md5": "d9ea8c0a5cb934ddc7801389faba43e2",
+      "sha1": "43261f3d13cfd75034d0836f91f64ae800273c06"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Agassi%20Tennis%20Generation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Agassi%20Tennis%20Generation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Agassi%20Tennis%20Generation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Agassi%20Tennis%20Generation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Agassi%20Tennis%20Generation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Agassi%20Tennis%20Generation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

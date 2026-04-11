@@ -36,5 +36,65 @@
     "wikidata": "Q4654930",
     "mobygames": 23744,
     "igdb": 69810
-  }
+  },
+  "roms": [
+    {
+      "name": "ATV Quad Frenzy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATVE",
+      "size": 16777216,
+      "crc32": "c2c45790",
+      "md5": "1627868759088708adb43a4eb77a06aa",
+      "sha1": "1789d8a576b36f020f865191057bcb68dccf7cae"
+    },
+    {
+      "name": "ATV Quad Frenzy (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATVP",
+      "size": 33554432,
+      "crc32": "7f58b941",
+      "md5": "94ae38525c50a69661b686b0f5d0485b",
+      "sha1": "5a22060ebeff7a62f2879e58f9448cc74342c0e8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/ATV%20Quad%20Frenzy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/ATV%20Quad%20Frenzy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/ATV%20Quad%20Frenzy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/ATV%20Quad%20Frenzy%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/ATV%20Quad%20Frenzy%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/ATV%20Quad%20Frenzy%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

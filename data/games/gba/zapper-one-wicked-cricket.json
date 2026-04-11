@@ -45,5 +45,65 @@
     "wikidata": "Q3574828",
     "mobygames": 7714,
     "igdb": 47332
-  }
+  },
+  "roms": [
+    {
+      "name": "Zapper (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AZPP",
+      "size": 4194304,
+      "crc32": "8753a1c5",
+      "md5": "eb7ba1c777b946bd9842b6238676f799",
+      "sha1": "08b1d2aa6b37d76d2b19688d01aca778aa6e7f26"
+    },
+    {
+      "name": "Zapper - One Wicked Cricket! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AZPE",
+      "size": 4194304,
+      "crc32": "6751a4ef",
+      "md5": "9a83e6571c9543a1a4d658564f02be4c",
+      "sha1": "1561c4e1f4ab945299f2dfb5bb7df532ec4d4067"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Zapper%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Zapper%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Zapper%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Zapper%20-%20One%20Wicked%20Cricket%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Zapper%20-%20One%20Wicked%20Cricket%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Zapper%20-%20One%20Wicked%20Cricket%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

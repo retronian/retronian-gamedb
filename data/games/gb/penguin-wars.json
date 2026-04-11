@@ -114,5 +114,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "King of the Zoo (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "d2d648c4",
+      "md5": "61e363e80ac331a3d5f71c59044862f9",
+      "sha1": "683fcb45cf98f8d84c221ffb180b06bf81c1cf74",
+      "sha256": "8a8e8ccab3a968f84042804ef8ae52fbc54bef4bedc751040d903f7d0f470eb5"
+    },
+    {
+      "name": "Penguin Wars (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "eecff7f3",
+      "md5": "9c17a77f10f8c8024addc299cfd74b8b",
+      "sha1": "2c00f5678d55dcb865b596fcb1dbecd2c9213988",
+      "sha256": "4d435dd6008cd2a7b7a4343bee188a717eedebec1acc98eefedd0a71ed1e6ab3"
+    },
+    {
+      "name": "Penguin-kun Wars VS. (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "c169606d",
+      "md5": "6edab4cbbfeb6f5a04af669a31559f1c",
+      "sha1": "f19e870e95c03288b019ef6bac3966bf74dd48fb",
+      "sha256": "9d38d6db23b0114f1844974a00f39d9d635edb8917877c939b37e72efd0f5063"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/King%20of%20the%20Zoo%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/King%20of%20the%20Zoo%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/King%20of%20the%20Zoo%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Penguin%20Wars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Penguin%20Wars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Penguin%20Wars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Penguin-kun%20Wars%20VS.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Penguin-kun%20Wars%20VS.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Penguin-kun%20Wars%20VS.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

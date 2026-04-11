@@ -27,5 +27,76 @@
     "wikidata": "Q1634362",
     "mobygames": 4389,
     "igdb": 3593
-  }
+  },
+  "roms": [
+    {
+      "name": "Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NR2P",
+      "size": 12582912,
+      "crc32": "30f21f89",
+      "md5": "681df5a32e857e77194106b35304d6b5",
+      "sha1": "090a027612140e90ffbbd7c48dec77005f7b0a69",
+      "sha256": "fbc02c5a58f42f88de3ae595ddce3ebbfd6d866f1c39ea346addcedca997cd2a"
+    },
+    {
+      "name": "Rush 2 - Extreme Racing USA (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NR2E",
+      "size": 12582912,
+      "crc32": "9eb14ea8",
+      "md5": "6a925ab624ee3b343231d799733ba898",
+      "sha1": "01b0a31b1accc18061e8c85f6c5edf0dbd79f097",
+      "sha256": "a59e65822d46775ca91d98b1220bcdea9acb54e48e56a7b5c026a3a877c08eb5"
+    },
+    {
+      "name": "Rush 2 - Extreme Racing USA (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 12582912,
+      "crc32": "c7e9d391",
+      "md5": "50600a350427bf3e34f33c3b8a4c4470",
+      "sha1": "1556edd66c54bf6ec200915ac4265f078c1555a2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rush%202%20-%20Extreme%20Racing%20USA%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rush%202%20-%20Extreme%20Racing%20USA%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rush%202%20-%20Extreme%20Racing%20USA%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rush%202%20-%20Extreme%20Racing%20USA%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rush%202%20-%20Extreme%20Racing%20USA%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rush%202%20-%20Extreme%20Racing%20USA%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

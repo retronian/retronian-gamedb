@@ -71,5 +71,65 @@
     "wikidata": "Q2716205",
     "mobygames": 17431,
     "igdb": 190013
-  }
+  },
+  "roms": [
+    {
+      "name": "Wario's Woods (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "80b112ca",
+      "md5": "1b559446ce5caf763bd10f133ad58d25",
+      "sha1": "b1e58e076f353cbd704ac0743f0a00a276570d89",
+      "sha256": "ee151f6adc7e1fda2367513dc13b26cf777f0f63849b2eb777520ca9e26338e5"
+    },
+    {
+      "name": "Wario's Woods (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "2d1004f1",
+      "md5": "f5c1bd28f88529473ab205b3f364def8",
+      "sha1": "1d814276114bd5cafb6ab041305ce83e8093dc10",
+      "sha256": "be420715152394e0e4a25ab10931b67f92f910cfcf7793e31dfee1c6334808e5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wario%27s%20Woods%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wario%27s%20Woods%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wario%27s%20Woods%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wario%27s%20Woods%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wario%27s%20Woods%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wario%27s%20Woods%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

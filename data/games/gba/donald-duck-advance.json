@@ -16,5 +16,93 @@
   "external_ids": {
     "wikidata": "Q3035980",
     "igdb": 63272
-  }
+  },
+  "roms": [
+    {
+      "name": "Donald Duck Advance (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ADKP",
+      "size": 8388608,
+      "crc32": "4c086a5e",
+      "md5": "028807ea1e01c6645d38e228f6915a31",
+      "sha1": "25d775890227ebc5ab6fd867ee81c02ba716e50e"
+    },
+    {
+      "name": "Donald Duck Advance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AADJ",
+      "size": 8388608,
+      "crc32": "0195de8f",
+      "md5": "6300ac165dca85a863c5346b8a23ede1",
+      "sha1": "40b8f2c6ba5f2f4ec94b0768dc8aa3906569413c"
+    },
+    {
+      "name": "Donald Duck Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ADKE",
+      "size": 8388608,
+      "crc32": "936daab2",
+      "md5": "8384aa8735b5a036fdddb5da430cb25b",
+      "sha1": "020081ad9dda023adf604b790ddfc95fcf2a7835"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Donald%20Duck%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Donald%20Duck%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Donald%20Duck%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Donald%20Duck%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Donald%20Duck%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Donald%20Duck%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Donald%20Duck%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Donald%20Duck%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Donald%20Duck%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

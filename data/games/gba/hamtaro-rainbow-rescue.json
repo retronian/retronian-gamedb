@@ -44,5 +44,48 @@
     "wikidata": "Q3782925",
     "mobygames": 22445,
     "igdb": 6427
-  }
+  },
+  "roms": [
+    {
+      "name": "Hamtaro - Rainbow Rescue (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A84P",
+      "size": 16777216,
+      "crc32": "5d051081",
+      "md5": "4a4a77b12b463a758a143642f96b1846",
+      "sha1": "b6446397744c10eb08f112f005e995dd9954a675"
+    },
+    {
+      "name": "Hamtaro - Rainbow Rescue (USA) (Proto) (2003-07-29)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A84E",
+      "size": 8388608,
+      "crc32": "5c5b934d",
+      "md5": "ff65d0c1dfba11ee40adec6aaba89e06",
+      "sha1": "b081395415fae9cd59963a5b85bc7cc0d5623cb9",
+      "sha256": "6c6049894c2abe2dd925482249e342b79c9a33c8867f9a37686976472c0075b8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hamtaro%20-%20Rainbow%20Rescue%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hamtaro%20-%20Rainbow%20Rescue%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hamtaro%20-%20Rainbow%20Rescue%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

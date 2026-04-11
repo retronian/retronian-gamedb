@@ -97,5 +97,119 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Earthworm Jim (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 3145728,
+      "crc32": "84ab251b",
+      "md5": "92a672f453d6b2de0a201fe612c73302",
+      "sha1": "56840e992021dda27d230430de39293c6660ff6c",
+      "sha256": "4a96f3c0a7694a1d8235e2bf03b583ed2e99488d1dc0e26691db003fd23191f7"
+    },
+    {
+      "name": "Earthworm Jim (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "6f8ed108",
+      "md5": "34a3d2a256c774a5f412cef5ab4e6370",
+      "sha1": "b2d41af059ec7a00090b4e895a3ce451a73d2179",
+      "sha256": "3e873261797a4c0bb204e640350bf985d951a3c991dd65197ee72a0b74a6012b"
+    },
+    {
+      "name": "Earthworm Jim (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 3145728,
+      "crc32": "3a4a47eb",
+      "md5": "25fdebdec0e83132d8f24e9ac5bfc45f",
+      "sha1": "3b666f44ea7574caafb9d64cd4d4c74dd3f81a61",
+      "sha256": "4579e437279f79eedd6b9cf648a814df2ab2c83d937a1bcec1578d28965fb9a0"
+    },
+    {
+      "name": "Earthworm Jim (Europe) (Beta) (1994-08-04)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 3145728,
+      "crc32": "b1eaad9e",
+      "md5": "5c94254c9541e600c1c4cdf254e7cbaf",
+      "sha1": "681d17432e2d337aaeeab4039117733c35575235",
+      "sha256": "1965ed30f883699a1ac3fbceba04275fa6f543f196e721394080f6291679aeef"
+    },
+    {
+      "name": "Earthworm Jim (USA) (Beta) (1994-08-19)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 3145728,
+      "crc32": "00a79820",
+      "md5": "607d7ee9efc0a8efdfdbc6ccb6579901",
+      "sha1": "6305dd176e0ab3dfd71eb764a8e3acf1b90758f2",
+      "sha256": "627a838a3d0758e4edb08549debe43f6babfb1a27988b2961b27aa95fc47451b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Earthworm%20Jim%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Earthworm%20Jim%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Earthworm%20Jim%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Earthworm%20Jim%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Earthworm%20Jim%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Earthworm%20Jim%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Earthworm%20Jim%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Earthworm%20Jim%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Earthworm%20Jim%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Earthworm%20Jim%20%28USA%29%20%28Beta%29%20%281994-08-19%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

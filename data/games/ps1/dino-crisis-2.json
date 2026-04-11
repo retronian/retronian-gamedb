@@ -90,5 +90,64 @@
     "wikidata": "Q1467263",
     "mobygames": 3625,
     "igdb": 4132
-  }
+  },
+  "roms": [
+    {
+      "name": "Dino Crisis 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 339963760,
+      "crc32": "8cc8d7d7",
+      "md5": "2dd9237247ef95a9c1a9e0a53b2630f9",
+      "sha1": "f7128f7c6015f3b9dc1bb0f10093a536463c0909",
+      "sha256": "ed2d1bd3920adda715ad4b8ffc3cb72b7031b465ce4e05dfa5a7f8609603b68e"
+    },
+    {
+      "name": "Dino Crisis 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 333256592,
+      "crc32": "83e6120a",
+      "md5": "cb2126f4c068578c8e541b015c543d36",
+      "sha1": "2418e1f207f4f2d53ba13d8a73525f0be9132f60"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Dino%20Crisis%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Dino%20Crisis%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Dino%20Crisis%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Dino%20Crisis%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Dino%20Crisis%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Dino%20Crisis%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

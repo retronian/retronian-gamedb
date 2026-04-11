@@ -97,5 +97,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Gradius - The Interstellar Assault (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "90f87d57",
+      "md5": "e10f788da29e18934c3e9161b25b96c7",
+      "sha1": "7a50fdf0b8ad15556c933df0657fae0a2cd8bc92",
+      "sha256": "2ed249eb86d4fd01e10efd1787a545f4921c19dc0e00b5c516b8bbdfe4c4aedc"
+    },
+    {
+      "name": "Nemesis II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "ac5b062d",
+      "md5": "c4dc3987a841a428f837db26bddc586e",
+      "sha1": "f2797d5fa272cecc8ce89f6326a29cad332f72d1",
+      "sha256": "904e0085c3ad97eb8d9de47decd12c9c12f88ce76964527da8db1fa79603a896"
+    },
+    {
+      "name": "Nemesis II - The Return of the Hero (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "c3e62a35",
+      "md5": "ba760b6d4b96baf0fa2e7ad6e4498a95",
+      "sha1": "ee59da08c23102ab99a28c5da9ceaf222e7fb461",
+      "sha256": "89fe8f0c84f938abc996e160e4820a9958c01191fd0868aacd439b3c93f51849"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Gradius%20-%20The%20Interstellar%20Assault%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Gradius%20-%20The%20Interstellar%20Assault%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Gradius%20-%20The%20Interstellar%20Assault%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nemesis%20II%20-%20The%20Return%20of%20the%20Hero%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nemesis%20II%20-%20The%20Return%20of%20the%20Hero%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nemesis%20II%20-%20The%20Return%20of%20the%20Hero%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

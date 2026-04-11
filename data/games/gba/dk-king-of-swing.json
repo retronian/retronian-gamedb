@@ -78,5 +78,122 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Bura Bura Donkey (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BBKJ",
+      "size": 8388608,
+      "crc32": "89b09753",
+      "md5": "cb6451eb458a51ac7d1757d2f419dd3c",
+      "sha1": "ec5671abbb5dc39531f2e3630fc968ee050e12b2",
+      "sha256": "4686a9864b0dcc711242cc4e52c17fd06797af6c9855401820d8aca49aa2bc54"
+    },
+    {
+      "name": "DK - King of Swing (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BBKP",
+      "size": 16777216,
+      "crc32": "f93b73d9",
+      "md5": "1d8b145985bb38f9de77405c9f1fa60b",
+      "sha1": "80717dcdb1844f826da116c9278dfd1386c92fc1"
+    },
+    {
+      "name": "DK - King of Swing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BBKE",
+      "size": 8388608,
+      "crc32": "d610b239",
+      "md5": "054223e916f9a4f543812ae795145cb5",
+      "sha1": "8f8b10b09d5169b097840df36cca5c67c216beda"
+    },
+    {
+      "name": "DK - King of Swing (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BWGE",
+      "size": 8388608,
+      "crc32": "049626d1",
+      "md5": "90d814291cc18d1e9e07378c42d67c2d",
+      "sha1": "d704ea9311c6ac9773bb70181de86ba0843583fd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bura%20Bura%20Donkey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bura%20Bura%20Donkey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bura%20Bura%20Donkey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/DK%20-%20King%20of%20Swing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/DK%20-%20King%20of%20Swing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/DK%20-%20King%20of%20Swing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/DK%20-%20King%20of%20Swing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/DK%20-%20King%20of%20Swing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/DK%20-%20King%20of%20Swing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/DK%20-%20King%20of%20Swing%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/DK%20-%20King%20of%20Swing%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/DK%20-%20King%20of%20Swing%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

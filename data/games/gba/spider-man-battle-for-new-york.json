@@ -63,5 +63,65 @@
     "wikidata": "Q3493448",
     "mobygames": 159036,
     "igdb": 6604
-  }
+  },
+  "roms": [
+    {
+      "name": "Spider-Man - Battle for New York (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BC9E",
+      "size": 16777216,
+      "crc32": "6310ba16",
+      "md5": "833c3fac4ba420d0a3e4ade9184e2bf0",
+      "sha1": "66561b33af0f427b74950ed0ab33afd0ec68957e"
+    },
+    {
+      "name": "Spider-Man - Battle for New York (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BC9P",
+      "size": 16777216,
+      "crc32": "ad2c404c",
+      "md5": "02a1d4f4efd3553d9a890cad60ad62c4",
+      "sha1": "ff31b61ecae695b7e67e39a9fb46999d3cfd4632"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spider-Man%20-%20Battle%20for%20New%20York%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spider-Man%20-%20Battle%20for%20New%20York%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spider-Man%20-%20Battle%20for%20New%20York%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spider-Man%20-%20Battle%20for%20New%20York%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spider-Man%20-%20Battle%20for%20New%20York%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spider-Man%20-%20Battle%20for%20New%20York%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -65,6 +65,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Rayman 3",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1995-09-01",
@@ -72,5 +81,104 @@
     "wikidata": "Q13219473",
     "mobygames": 2247,
     "igdb": 49843
-  }
+  },
+  "roms": [
+    {
+      "name": "Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AYZP",
+      "size": 8388608,
+      "crc32": "8f34b14f",
+      "md5": "870cfbf9950eea5db33c118564233db3",
+      "sha1": "064f6b09732f4225f5964d0e8bd386affb83e3d7"
+    },
+    {
+      "name": "Rayman 3 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AYZE",
+      "size": 16777216,
+      "crc32": "c3adbc41",
+      "md5": "3cc4c3494a707402f53fc6b6e770994a",
+      "sha1": "bfb9a22d0f53cd71aa4c5afe8cce2caf721140b8",
+      "sha256": "5aab6c1e4e0e8d25abaa1af5a4e2890a895a03eac1dd231690129c21f73b767c"
+    },
+    {
+      "name": "Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AYZP",
+      "size": 8388608,
+      "crc32": "29f83314",
+      "md5": "14d8dddf41901b02db25a04ab587664b",
+      "sha1": "21b7296d29486ccab68bdfa45ab24b9d370d052c"
+    },
+    {
+      "name": "Rayman 3 (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AYZE",
+      "size": 8388608,
+      "crc32": "d1613266",
+      "md5": "a8c8ff92a6b366fc0e363eb80201c367",
+      "sha1": "1a8fb488aac9af4d3d42046750bdf429f48ac391"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rayman%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rayman%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rayman%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rayman%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rayman%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rayman%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rayman%203%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rayman%203%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rayman%203%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

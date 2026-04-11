@@ -35,5 +35,94 @@
     "wikidata": "Q16838717",
     "mobygames": 17889,
     "igdb": 3497
-  }
+  },
+  "roms": [
+    {
+      "name": "Flying Dragon (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NFDP",
+      "size": 12582912,
+      "crc32": "c3066e59",
+      "md5": "add115aad0ab7d33bfd243936d809178",
+      "sha1": "3f4462d85d5b5ddc6edaeef45b682eeff7f4b144",
+      "sha256": "a67ca1d9a3297429524dfde1bc9cd27d7b9b727c4aa336510211b6d2ef070e0e"
+    },
+    {
+      "name": "Flying Dragon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NFDE",
+      "size": 12582912,
+      "crc32": "91bc9aeb",
+      "md5": "272b359d8f8ac48acbf053c262f422e4",
+      "sha1": "5472fe1dcaaacaecba8d1bed8eab4a2146e58665"
+    },
+    {
+      "name": "Hiryuu no Ken Twin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NHKJ",
+      "size": 12582912,
+      "crc32": "ba6a687e",
+      "md5": "73084495f3209c54900525436bbbc531",
+      "sha1": "c7a76b061c383600378e52a39dada8d2be58325b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Flying%20Dragon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Flying%20Dragon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Flying%20Dragon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Flying%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Flying%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Flying%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Hiryuu%20no%20Ken%20Twin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Hiryuu%20no%20Ken%20Twin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Hiryuu%20no%20Ken%20Twin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

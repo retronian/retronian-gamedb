@@ -36,5 +36,88 @@
     "wikidata": "Q2108451",
     "mobygames": 91412,
     "igdb": 4921
-  }
+  },
+  "roms": [
+    {
+      "name": "iCarly (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VICP",
+      "size": 134217728,
+      "crc32": "c07cc7ce",
+      "md5": "58a68f6628231388f3ddf93ff6cdf0a7",
+      "sha1": "8f63005ffa1ea95978817edea6838276245267ce"
+    },
+    {
+      "name": "iCarly (USA) (Beta) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTRJ",
+      "size": 10294272,
+      "crc32": "907eb0ec",
+      "md5": "08ae37ede489061f41aa3664c02584ad",
+      "sha1": "484f583a0dc4b79193470dcb32d3f46f40414df3",
+      "sha256": "66a347bae797a51cca2b363153d7c075d455ad94e92991c5515c43e9fc7386e1"
+    },
+    {
+      "name": "iCarly (USA) (En,Fr) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VICE",
+      "size": 67108864,
+      "crc32": "d6f159bb",
+      "md5": "c0023b9bb08fe85c9fd73bdea06342ac",
+      "sha1": "4f3ab4c12c05c11795f8f36c595ff908a10bbfb0",
+      "sha256": "8ff16ae45a987845776d0be4e1e63518875e22d48befb72ef7d6c1575e1483b0"
+    },
+    {
+      "name": "iCarly (Australia) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "au",
+      "serial": "VICU",
+      "size": 67108864,
+      "crc32": "d37da4c0",
+      "md5": "43593a1be6959ced28c39959d8821d52",
+      "sha1": "205f2745c653e72955f13d7b5482b56b5c4c0b00",
+      "sha256": "f3795f22cfdad4e14913fcf0fc707b88950f4a7c7e3a315d3fbb96da1f8104d8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/iCarly%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/iCarly%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/iCarly%20%28USA%29%20%28En%2CFr%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/iCarly%20%28USA%29%20%28En%2CFr%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/iCarly%20%28Australia%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/iCarly%20%28Australia%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    }
+  ]
 }

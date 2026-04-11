@@ -45,5 +45,65 @@
     "wikidata": "Q3966420",
     "mobygames": 8129,
     "igdb": 159226
-  }
+  },
+  "roms": [
+    {
+      "name": "Spectre (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "00c029c0",
+      "md5": "a1fcc7c9ed8005b901dae1772944bf9c",
+      "sha1": "6f365405361072bcf5dc1dcad02dca96a25023a8",
+      "sha256": "140dd8d935ed5df58fcfc0ad7ea10f825e6f5022f07e60b4335205641b21452e"
+    },
+    {
+      "name": "Spectre (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "ade6e0d8",
+      "md5": "03aa4f7fadd0a4b816650fed899adb51",
+      "sha1": "b74350eaec9452241dd93aaa0aa2b5cfaa3afbfd",
+      "sha256": "fe2371bed45f5e244ce3ef8585894c0ffa4272e3f58c2f4795ef91fb1ee54b15"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Spectre%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Spectre%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Spectre%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Spectre%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Spectre%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Spectre%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

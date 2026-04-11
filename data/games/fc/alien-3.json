@@ -54,5 +54,84 @@
     "wikidata": "Q2836804",
     "mobygames": 20370,
     "igdb": 273014
-  }
+  },
+  "roms": [
+    {
+      "name": "Alien 3 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "a2911d53",
+      "md5": "684a2b5bb9d126804629db41756f2c9c",
+      "sha1": "f37bc72e27712c4b559c2da08d5b05985809b313",
+      "sha256": "f11a6f348fc83e5a6760d669426f00824280d38fe576291eb6c3d735b630db29"
+    },
+    {
+      "name": "Alien 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6d5af3e9",
+      "md5": "0bf678349fe2b6e8637cf6a7fadc6b1f",
+      "sha1": "a6732e8c1c262be949a27c821eda144cb7dc1a28",
+      "sha256": "0d3e5af7e703c892e470edf1b19a2bb5531682dd0e01e7b9677954846c7ca2ad"
+    },
+    {
+      "name": "Alien 3 (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "d69e2995",
+      "md5": "4fa0ee624a97ee09c514343aec430f80",
+      "sha1": "1f5274ac9caaed2a9035dde3e75d2b6a22a1fac4",
+      "sha256": "e050ca7830386adfe1aed9b22f2c9965e2af92797f72f20f1a299daa90d32b01"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Alien%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Alien%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Alien%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Alien%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Alien%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Alien%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Alien%203%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Alien%203%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

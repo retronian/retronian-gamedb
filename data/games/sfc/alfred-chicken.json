@@ -63,5 +63,47 @@
     "wikidata": "Q2472816",
     "mobygames": 12602,
     "igdb": 44455
-  }
+  },
+  "roms": [
+    {
+      "name": "Alfred Chicken (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "e344627b",
+      "md5": "84ec7562b5d178951a60f85e79d3ae3e",
+      "sha1": "10b4bb69733286b1997de882383e4eaf2a574210",
+      "sha256": "a4b1e125b421c5a58e2fd73edc4d58b31d7a596c07dee263c565f00ee712223f"
+    },
+    {
+      "name": "Alfred Chicken (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "2c2503a0",
+      "md5": "0938241fe24e7cc49a8a2a63269df6c0",
+      "sha1": "0c0456b6a52cc97691982521cc0dadcbe0ef104b",
+      "sha256": "c92640bf60f2197d02902fd50e77a3b121ec514c9fa5c4d09e13ca5315715539"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Alfred%20Chicken%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Alfred%20Chicken%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Alfred%20Chicken%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

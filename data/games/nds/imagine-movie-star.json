@@ -27,5 +27,53 @@
     "wikidata": "Q108941075",
     "mobygames": 87531,
     "igdb": 7925
-  }
+  },
+  "roms": [
+    {
+      "name": "Imagine - Movie Star (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CIME",
+      "size": 16777216,
+      "crc32": "cd1b851b",
+      "md5": "f3cbc885e8053114409d582d1bdc189c",
+      "sha1": "641ab6b442f7abdf90686ef0caa53102c990444e"
+    },
+    {
+      "name": "Imagine - Movie Star (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CIMP",
+      "size": 33554432,
+      "crc32": "098605f5",
+      "md5": "b2f78f14be3fbc6131378142192cb7a2",
+      "sha1": "95acc84b5672fb8ff0ba640f228e1116932a303d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Movie%20Star%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Movie%20Star%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Movie%20Star%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Movie%20Star%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

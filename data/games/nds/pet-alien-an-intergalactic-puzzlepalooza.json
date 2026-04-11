@@ -36,5 +36,53 @@
     "wikidata": "Q2836807",
     "mobygames": 89641,
     "igdb": 8120
-  }
+  },
+  "roms": [
+    {
+      "name": "Pet Alien (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ALJP",
+      "size": 16777216,
+      "crc32": "876ae0c0",
+      "md5": "03f9db5b12b5ac330d4ee409719a8bc8",
+      "sha1": "3a4e847c06d2921fa88a122cdef49a34c9419a30"
+    },
+    {
+      "name": "Pet Alien - An Intergalactic Puzzlepalooza (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ALJE",
+      "size": 16777216,
+      "crc32": "0e51204f",
+      "md5": "34005bbc1b726458b9a515ee0cabd42b",
+      "sha1": "959d2b98eecd9ec6945ec876e6417cd4630c8ef1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pet%20Alien%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pet%20Alien%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pet%20Alien%20-%20An%20Intergalactic%20Puzzlepalooza%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pet%20Alien%20-%20An%20Intergalactic%20Puzzlepalooza%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

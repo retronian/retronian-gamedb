@@ -18,5 +18,76 @@
     "wikidata": "Q3437940",
     "mobygames": 3789,
     "igdb": 2644
-  }
+  },
+  "roms": [
+    {
+      "name": "Rocket - Robot on Wheels (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NSUP",
+      "size": 12582912,
+      "crc32": "7de5d20d",
+      "md5": "427c5457d4a29a222811f0caa9cca7b9",
+      "sha1": "a1aa086f0826bee4be71c16bc67468b8d8a49065",
+      "sha256": "1ecb0f1620413c8b219856f78255a18f53b03efd25cb065fa1c7e172aa099d4f"
+    },
+    {
+      "name": "Rocket - Robot on Wheels (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NSUE",
+      "size": 12582912,
+      "crc32": "e0399f23",
+      "md5": "c2907eb2f9a350793317ece878a3b8e3",
+      "sha1": "622d71a44da0b81ea68092cac9198c66154a4f4a"
+    },
+    {
+      "name": "Rocket - Robot on Wheels (Europe) (En,Fr,De) (Beta) (1999-09-29)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 16777216,
+      "crc32": "725dbfaf",
+      "md5": "7e25d9fc66a32fd5f0db43dfd9953365",
+      "sha1": "e71b55674692fddc896b0ab7fa57d8271c2e160e",
+      "sha256": "95de440d601bcf551d001346bbe3299fa953be397ca024478d31a803c3a0d391"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rocket%20-%20Robot%20on%20Wheels%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rocket%20-%20Robot%20on%20Wheels%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rocket%20-%20Robot%20on%20Wheels%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rocket%20-%20Robot%20on%20Wheels%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rocket%20-%20Robot%20on%20Wheels%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rocket%20-%20Robot%20on%20Wheels%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

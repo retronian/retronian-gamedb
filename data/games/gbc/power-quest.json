@@ -45,5 +45,64 @@
     "wikidata": "Q7236403",
     "mobygames": 48796,
     "igdb": 67765
-  }
+  },
+  "roms": [
+    {
+      "name": "Power Quest (Europe) (En-US,En-GB,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "30e1e567",
+      "md5": "3286d6b332edfb46d8504bceba7e55d7",
+      "sha1": "b9b41a90baba13888ac8f3788b96935f4d394c2c"
+    },
+    {
+      "name": "Power Quest (USA) (En-US,En-GB,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "dad6f6b4",
+      "md5": "ac1f4ad52996882c60ce83cac01e9ccf",
+      "sha1": "d1665784a007c122d65f43bd2751db6b395ff3cd",
+      "sha256": "8fe813c33c533bbee15419090eac90205f7a04ba1aa9ab6943ad7a27c31378e6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Power%20Quest%20%28Europe%29%20%28En-US%2CEn-GB%2CFr%2CDe%2CEs%2CIt%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Power%20Quest%20%28Europe%29%20%28En-US%2CEn-GB%2CFr%2CDe%2CEs%2CIt%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Power%20Quest%20%28Europe%29%20%28En-US%2CEn-GB%2CFr%2CDe%2CEs%2CIt%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Power%20Quest%20%28USA%29%20%28En-US%2CEn-GB%2CFr%2CDe%2CEs%2CIt%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Power%20Quest%20%28USA%29%20%28En-US%2CEn-GB%2CFr%2CDe%2CEs%2CIt%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Power%20Quest%20%28USA%29%20%28En-US%2CEn-GB%2CFr%2CDe%2CEs%2CIt%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

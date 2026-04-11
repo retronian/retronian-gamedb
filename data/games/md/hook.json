@@ -18,5 +18,67 @@
     "wikidata": "Q3140325",
     "mobygames": 2916,
     "igdb": 78146
-  }
+  },
+  "roms": [
+    {
+      "name": "Hook (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-93026-01",
+      "size": 1048576,
+      "crc32": "2c48e712",
+      "md5": "70b7314bb4f542cedc0ca9422808f269",
+      "sha1": "67031af6ec4b771bd8d69a44c9945562a063593e",
+      "sha256": "ca17537b56c170ae848e88a92ebae7f1c0ab6af36789ade1cf9855a852f4df86"
+    },
+    {
+      "name": "Hook (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-93026-50",
+      "size": 1048576,
+      "crc32": "a154433a",
+      "md5": "0206e412933f236f0ab9ba20973bd74e",
+      "sha1": "da5da918e92211d9a4108c2b39b29b8583242cbb",
+      "sha256": "48c89c55eb2a961772c7986bd0b7811aa49a1829c44f143a343b837992d7e1b5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Hook%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Hook%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Hook%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Hook%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Hook%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Hook%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

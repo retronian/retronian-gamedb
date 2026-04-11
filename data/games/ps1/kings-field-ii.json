@@ -55,6 +55,24 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "King's Field III",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "King's Field III",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1995-07-21",
@@ -62,5 +80,63 @@
     "wikidata": "Q2304471",
     "mobygames": 6059,
     "igdb": 9500
-  }
+  },
+  "roms": [
+    {
+      "name": "King's Field II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 72279280,
+      "crc32": "88828d3b",
+      "md5": "a69e2f1d8edfcba17b218b435029ac5b",
+      "sha1": "09c1cda04024720b65873edc9338bbd7ef20a144"
+    },
+    {
+      "name": "King's Field III (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 333896144,
+      "crc32": "7a72fb88",
+      "md5": "c9d64d3b38f4957123e3aff5716a6ea7",
+      "sha1": "30ce12f0e43f86185c1e55b9eeccf62a535b140e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/King%27s%20Field%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/King%27s%20Field%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/King%27s%20Field%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/King%27s%20Field%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/King%27s%20Field%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/King%27s%20Field%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

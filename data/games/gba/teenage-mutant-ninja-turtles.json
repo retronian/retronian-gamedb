@@ -63,5 +63,65 @@
     "wikidata": "Q2196889",
     "mobygames": 10839,
     "igdb": 146004
-  }
+  },
+  "roms": [
+    {
+      "name": "Teenage Mutant Ninja Turtles (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BNTE",
+      "size": 8388608,
+      "crc32": "f6c36783",
+      "md5": "660b52e20c76807f03bb97bf49e15aa1",
+      "sha1": "edfdea2bef553aee1915e7c900977520d9e6fc0a"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BNTP",
+      "size": 8388608,
+      "crc32": "15bdf0ad",
+      "md5": "dc4ea1eb92d51b8c18b58611ad652ccc",
+      "sha1": "f425099c7bdde046a78eeb2a963612343d8d2ee5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

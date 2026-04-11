@@ -45,5 +45,41 @@
     "wikidata": "Q2625129",
     "mobygames": 62406,
     "igdb": 203136
-  }
+  },
+  "roms": [
+    {
+      "name": "Amazing Spider-Man, The (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TAMP",
+      "size": 33554432,
+      "crc32": "456fc615",
+      "md5": "47afef56558e746dabe814dddde806ae",
+      "sha1": "eccc9261d812ba83add10ffb34231bde2512ac3e"
+    },
+    {
+      "name": "Amazing Spider-Man, The (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TAME",
+      "size": 33554432,
+      "crc32": "3b12a5d4",
+      "md5": "ff511b7ad07363dd0d2e02990a24beb4",
+      "sha1": "150b9d5dbf82c23bdbc9b92083c19478b60be3ba"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Amazing%20Spider-Man%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Amazing%20Spider-Man%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -63,5 +63,65 @@
     "wikidata": "Q592758",
     "mobygames": 23281,
     "igdb": 240364
-  }
+  },
+  "roms": [
+    {
+      "name": "FIFA Street 2 (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFSP",
+      "size": 33554432,
+      "crc32": "efc1f097",
+      "md5": "6d4262281f429b65ec1abc5ffa6dd5b0",
+      "sha1": "bb5bb93d47d89f3a5e82d1df2e76ed7569c86f89"
+    },
+    {
+      "name": "FIFA Street 2 (USA) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFSE",
+      "size": 33554432,
+      "crc32": "ea31b9a6",
+      "md5": "3ca794d2ac0805ae17944c79db17c423",
+      "sha1": "9350991c70bd6cf137ee82d5d26fd20018b29f3d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/FIFA%20Street%202%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/FIFA%20Street%202%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/FIFA%20Street%202%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/FIFA%20Street%202%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/FIFA%20Street%202%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/FIFA%20Street%202%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

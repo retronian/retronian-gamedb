@@ -74,6 +74,42 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "ときめきメモリアル Girl's Side 3rd Story",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tokimeki Memorial Girl's Side: 3rd Story",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tokimeki Memorial Girl's Side: 3rd Story",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tokimeki Memorial Girl's Side: 3rd Story",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2002-05-20",
@@ -81,5 +117,31 @@
     "wikidata": "Q2543552",
     "mobygames": 45815,
     "igdb": 47863
-  }
+  },
+  "roms": [
+    {
+      "name": "Tokimeki Memorial Girl's Side - 3rd Story (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B3SJ",
+      "size": 536870912,
+      "crc32": "2b796c86",
+      "md5": "ece1efba16d654b6ec111989c9be75c3",
+      "sha1": "70f3a98f7a356af4c50c864ce9d3dc41160d434c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tokimeki%20Memorial%20Girl%27s%20Side%20-%203rd%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tokimeki%20Memorial%20Girl%27s%20Side%20-%203rd%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

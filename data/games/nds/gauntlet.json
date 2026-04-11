@@ -63,5 +63,66 @@
     "wikidata": "Q734758",
     "mobygames": 9071,
     "igdb": 81204
-  }
+  },
+  "roms": [
+    {
+      "name": "Gauntlet (USA) (En,Fr,Es) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YGNE",
+      "size": 67108864,
+      "crc32": "ae3a578b",
+      "md5": "8380ce863ea1f3e533c87eda03da805e",
+      "sha1": "672390e2707be6eb989e89b43a274104de0021a9"
+    },
+    {
+      "name": "Gauntlet (Europe) (En,Fr,De,Es,It) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YGNP",
+      "size": 67108864,
+      "crc32": "88f2e3f8",
+      "md5": "7a848f57e7cb5b66d43f0e1117a649b7",
+      "sha1": "ade1dc1ce1d6ba31c1f3dc8648e2772de810662c",
+      "sha256": "262ef4e83dde70c0468cd4bf69445443bcf8a4d7a57cc82938bb10e505bd1a00"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Gauntlet%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Gauntlet%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Gauntlet%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Gauntlet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Gauntlet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Gauntlet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

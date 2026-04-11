@@ -18,5 +18,70 @@
     "wikidata": "Q3093019",
     "mobygames": 20677,
     "igdb": 363999
-  }
+  },
+  "roms": [
+    {
+      "name": "G-LOC - Air Battle (USA) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1120-00",
+      "size": 1048576,
+      "crc32": "c6bc06fd",
+      "md5": "466f9b8bff4b267ae64a0c62dd78c1a5",
+      "sha1": "9c0c4e4194fb615c2b651e1862a499b3e31f1952",
+      "sha256": "0ce53944e1127940f34cd5f3ededb25b743997751c274fe3c13a84c74fbcf2f9"
+    },
+    {
+      "name": "G-LOC - Air Battle (World)",
+      "source": "no_intro",
+      "serial": "MK-1120-00",
+      "size": 1048576,
+      "crc32": "f2af886e",
+      "md5": "59b8fcc1e0c2113d841025e7ee0d152f",
+      "sha1": "81bb08c4080ca9a8af65597d1c7b11ce902c8d9e",
+      "sha256": "892069902b53325e1eade44321440edce48b74d2cf077bc0696d25c3005374e2"
+    },
+    {
+      "name": "G-LOC - Air Battle (World) (Beta)",
+      "source": "no_intro",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "175c7e63",
+      "md5": "6398a354781f5872eb9e846824a1602a",
+      "sha1": "ccbedc9d3c05e212e4e2bea6824999a3c1fd2006",
+      "sha256": "491c71e1b7a462d4678e41e8c33314df9da642360babd94d8593352ac70b2061"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/G-LOC%20-%20Air%20Battle%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/G-LOC%20-%20Air%20Battle%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/G-LOC%20-%20Air%20Battle%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/G-LOC%20-%20Air%20Battle%20%28World%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/G-LOC%20-%20Air%20Battle%20%28World%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/G-LOC%20-%20Air%20Battle%20%28World%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

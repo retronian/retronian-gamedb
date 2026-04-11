@@ -63,5 +63,75 @@
     "wikidata": "Q2106124",
     "mobygames": 8427,
     "igdb": 14590
-  }
+  },
+  "roms": [
+    {
+      "name": "Cobra Triangle (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "5808d744",
+      "md5": "0ba0360ae1b95339a4c441b7600ea241",
+      "sha1": "98eb93122675cda7e3c42c095b540f0291e29dd8",
+      "sha256": "807368350001ece1b1e96aaf62d83acb9de064aa863f66bbb850e74cd509c114"
+    },
+    {
+      "name": "Cobra Triangle (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "59a8d51b",
+      "md5": "39a6b823659f85e11faa1de93f1007a4",
+      "sha1": "8fcfe79076a10d0de1398c7db70cd386b5e5d28c",
+      "sha256": "1e7b5be831deb01f76b080843d2f53171e9e86631e85e07db617ca1c9556c0aa"
+    },
+    {
+      "name": "Cobra Triangle (USA) (Evercade)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "3f7c1136",
+      "md5": "3ad1cbab81b6f3f44a61aa949ac0366f",
+      "sha1": "c049eef61b7261819ba601345164723649936ada",
+      "sha256": "63e606bf87b8ae98d8734c1ec9e80d83eb105afa129377d0344e0a708425f996"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Cobra%20Triangle%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Cobra%20Triangle%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Cobra%20Triangle%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Cobra%20Triangle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Cobra%20Triangle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Cobra%20Triangle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

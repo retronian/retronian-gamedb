@@ -83,6 +83,51 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "クロックタワー2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "钟楼惊魂2",
+      "lang": "zh",
+      "script": "Hans",
+      "region": "cn",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "時鐘塔2",
+      "lang": "zh",
+      "script": "Hant",
+      "region": "tw",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Clock Tower 2",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Clock Tower",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1995-09-14",
@@ -90,5 +135,63 @@
     "wikidata": "Q953511",
     "mobygames": 20472,
     "igdb": 19287
-  }
+  },
+  "roms": [
+    {
+      "name": "Clock Tower - The First Fear (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 58353200,
+      "crc32": "fc7f03ce",
+      "md5": "a9dcc4a9d12f25f6b00c3222bbaabd25",
+      "sha1": "33869dc7ffd3753b82630ee77b5da0c5fef6cd94"
+    },
+    {
+      "name": "Clock Tower 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 217321040,
+      "crc32": "5c3b6e75",
+      "md5": "8ea27cbfea3957b97020d90654a73bd8",
+      "sha1": "e0315140e638342052bd59d26cdd4c0b913e8f31"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Clock%20Tower%20-%20The%20First%20Fear%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Clock%20Tower%20-%20The%20First%20Fear%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Clock%20Tower%20-%20The%20First%20Fear%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Clock%20Tower%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Clock%20Tower%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Clock%20Tower%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

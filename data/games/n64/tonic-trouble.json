@@ -27,5 +27,77 @@
     "wikidata": "Q776134",
     "mobygames": 2765,
     "igdb": 3614
-  }
+  },
+  "roms": [
+    {
+      "name": "Tonic Trouble (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "!none",
+      "size": 16777216,
+      "crc32": "ee66a35e",
+      "md5": "8882e815f8798f437ee95c9bdf8eb7e3",
+      "sha1": "be4be4a81eabd9cf9926d04dbc28f3eb84818f19",
+      "sha256": "8bb9bb43d2778fe77fd45eb5f58928aca58c75b8d81aeb0185894edcd4f2b660"
+    },
+    {
+      "name": "Tonic Trouble (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NTTP",
+      "size": 16777216,
+      "crc32": "b4322403",
+      "md5": "3d3573a855835a98de29d598c35590e0",
+      "sha1": "81909104362baeb7ae3793c08c3d138e96105bbf",
+      "sha256": "03ec2d3d3ba63bd394313589333b8d6781331bc3cca06321beddae76e747bcb6"
+    },
+    {
+      "name": "Tonic Trouble (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTTE",
+      "size": 16777216,
+      "crc32": "1c04ba12",
+      "md5": "7d3e935156844de0002db875e1076a5c",
+      "sha1": "38f9837159d6aa69ca656d8005eccf099c129537"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Tonic%20Trouble%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Tonic%20Trouble%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Tonic%20Trouble%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Tonic%20Trouble%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Tonic%20Trouble%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Tonic%20Trouble%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -54,5 +54,49 @@
     "wikidata": "Q3194351",
     "mobygames": 20986,
     "igdb": 46540
-  }
+  },
+  "roms": [
+    {
+      "name": "Kawasaki Superbike Challenge (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-000000-00",
+      "size": 1048576,
+      "crc32": "55934d1b",
+      "md5": "29da0d26615fc89885ef201b03bf1355",
+      "sha1": "a66446d5c3d07ce211d7198faf4ea3ff6dbfa0b9",
+      "sha256": "82e4e5ab89a7e3aa07ec2b50e6131dea0e83ed81ebba065dced4ab9dc5d63fee"
+    },
+    {
+      "name": "Kawasaki Superbike Challenge (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48356-00",
+      "size": 1048576,
+      "crc32": "631cc8e9",
+      "md5": "159dd6bef1cf7df913fd4ac98138d9e7",
+      "sha1": "fa7e07bbab70a7b5c32a0f2713494b2c10ce8e1e",
+      "sha256": "5944eb350a8f710a0bf54ade7bc94b27195f870ee981f6330f32ee28209004a2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Kawasaki%20Superbike%20Challenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Kawasaki%20Superbike%20Challenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Kawasaki%20Superbike%20Challenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

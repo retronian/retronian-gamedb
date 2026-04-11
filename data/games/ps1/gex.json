@@ -81,5 +81,63 @@
     "wikidata": "Q5554965",
     "mobygames": 8333,
     "igdb": 4309
-  }
+  },
+  "roms": [
+    {
+      "name": "Gex (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 124146928,
+      "crc32": "ee104004",
+      "md5": "4942db981240b78e84f24fbf5b6a0f69",
+      "sha1": "c83efb7ac948d3db168fd62aae0a0b484cbdffa8"
+    },
+    {
+      "name": "Gex (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 126464288,
+      "crc32": "44f67def",
+      "md5": "889de8ba3f0dd99004764e65f963edb1",
+      "sha1": "39c3e18120f9cd26f803cd6cf64aeb7265ca5035"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Gex%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Gex%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Gex%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Gex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Gex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Gex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

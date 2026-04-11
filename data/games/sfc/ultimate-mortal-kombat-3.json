@@ -99,5 +99,65 @@
     "wikidata": "Q1313980",
     "mobygames": 6593,
     "igdb": 1621
-  }
+  },
+  "roms": [
+    {
+      "name": "Ultimate Mortal Kombat 3 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 4194304,
+      "crc32": "1c4c54d2",
+      "md5": "8085eeea42c0f7da8f91a37fdf683769",
+      "sha1": "ee419f3a567e1f0d88d568df641d1af16d4db148",
+      "sha256": "03540084486c21724819515d1cb967c658f7f08ec180855fa7c191ca13d8bef1"
+    },
+    {
+      "name": "Ultimate Mortal Kombat 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "f5bfe41e",
+      "md5": "0644da71f79d405a22934daa1474cefc",
+      "sha1": "09c094ca1114bcb6d5917e989686ca79b96cf9ea",
+      "sha256": "cb2fdfce61858063bf4c9da4228381c3ec3abe423f4d378cddd174ae4adb261e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ultimate%20Mortal%20Kombat%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ultimate%20Mortal%20Kombat%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ultimate%20Mortal%20Kombat%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ultimate%20Mortal%20Kombat%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ultimate%20Mortal%20Kombat%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ultimate%20Mortal%20Kombat%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

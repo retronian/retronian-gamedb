@@ -36,5 +36,49 @@
     "wikidata": "Q591978",
     "mobygames": 3142,
     "igdb": 12089
-  }
+  },
+  "roms": [
+    {
+      "name": "Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 524288,
+      "crc32": "46447e7a",
+      "md5": "2b3655b2935c727ee6400721fb5b4451",
+      "sha1": "b320174d3b43f30b477818a27b4da30462a52003",
+      "sha256": "7dcdb8a9d8b72ea1250dbd15cd4e4279e07821be9df14d53298298851c19bc80"
+    },
+    {
+      "name": "Fantastic Dizzy (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 524288,
+      "crc32": "831c20d6",
+      "md5": "0bb9af88822bf6bf2c27ace339f33ea6",
+      "sha1": "c75e52747897f22a8c55aab8c79f607ad5742d3d",
+      "sha256": "4b808b9361a85886326e0838ab943b1d5ffb2cdad23cfe97d8b6414aa39e7600"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Fantastic%20Dizzy%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Fantastic%20Dizzy%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Fantastic%20Dizzy%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

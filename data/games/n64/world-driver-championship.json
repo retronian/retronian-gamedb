@@ -18,5 +18,66 @@
     "wikidata": "Q3291346",
     "mobygames": 4390,
     "igdb": 3642
-  }
+  },
+  "roms": [
+    {
+      "name": "World Driver Championship (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NWOP",
+      "size": 16777216,
+      "crc32": "76151df6",
+      "md5": "431de8f6611a8131b536f0ede1f330d9",
+      "sha1": "7b054d1580cc263429eb6961ad6ed6e0140e1df0",
+      "sha256": "535c6b9430f74e36e1347f20e656eeb662af699c40a868e1d4a6bdd3c577f7d4"
+    },
+    {
+      "name": "World Driver Championship (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NWOE",
+      "size": 16777216,
+      "crc32": "5e4acbfa",
+      "md5": "7c567a5bb1ad4cbe414fb6bbff66e336",
+      "sha1": "93227776f59b42e9fb1c942eba9d5b465eeb3979"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/World%20Driver%20Championship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/World%20Driver%20Championship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/World%20Driver%20Championship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/World%20Driver%20Championship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/World%20Driver%20Championship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/World%20Driver%20Championship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

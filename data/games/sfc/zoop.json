@@ -54,5 +54,81 @@
     "wikidata": "Q1974823",
     "mobygames": 8817,
     "igdb": 20615
-  }
+  },
+  "roms": [
+    {
+      "name": "Zoop (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "afd45d27",
+      "md5": "45c4ea9f916ecb36b123f53f4bd7aa62",
+      "sha1": "3b83fc765b5ad329d5f114aceac1685c1d827697",
+      "sha256": "8905baf103de182d33b3620b3f108a156b163a2c9505828fd3d4191d2e42eff1"
+    },
+    {
+      "name": "Zoop (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "06f0e94c",
+      "md5": "0b7a524e5470eca3ed29b75e427a7cf4",
+      "sha1": "051c767b843fc4112e0b06c2f81b65abbac9e7fc",
+      "sha256": "a3f1abf2740ff64042d82f7a940fb4269ece57d7c6967571549d8b60b20f305a"
+    },
+    {
+      "name": "Zoop (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "3758068a",
+      "md5": "9b3c1ffb0e4ffeb56d07ebed5f64bf01",
+      "sha1": "eb271d8dc7f2ec04cddf1dd9cc7e24e51563d547",
+      "sha256": "fdb49a00bf0bbf2323693fb85c008e8b0b1f1ede74e9e09fcb63a5e1e971a0a8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zoop%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Zoop%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Zoop%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zoop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Zoop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Zoop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zoop%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -54,5 +54,67 @@
     "wikidata": "Q3108064",
     "mobygames": 7258,
     "igdb": 4531
-  }
+  },
+  "roms": [
+    {
+      "name": "X-Men (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1057-00",
+      "size": 1048576,
+      "crc32": "0b78ca97",
+      "md5": "26c49c46b8e2574dde481132bbd34fd4",
+      "sha1": "111d696b317ad5b57bc66e037a935d3f123d41c2",
+      "sha256": "d1a3ee5bd3f3fc5205e8d259572ff9c7b245c3d051c295a5539c1654006976e1"
+    },
+    {
+      "name": "X-Men (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1057-00",
+      "size": 1048576,
+      "crc32": "f71b21b4",
+      "md5": "63274bdd105d2abf265aa2d2934635c5",
+      "sha1": "2f2b5d018c98b78faf9ab6b172947f5cd65d5cf0",
+      "sha256": "49f601abfa61f23f70420a2cc0c4cc90273540b4d199fb61d516f6344e9067ef"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/X-Men%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/X-Men%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/X-Men%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/X-Men%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/X-Men%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/X-Men%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

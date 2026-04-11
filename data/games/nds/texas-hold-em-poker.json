@@ -11,6 +11,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Texas Hold'Em Poker DS",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2004-11-01",
@@ -18,5 +27,65 @@
     "wikidata": "Q7707743",
     "mobygames": 57156,
     "igdb": 18051
-  }
+  },
+  "roms": [
+    {
+      "name": "Texas Hold 'em Poker DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATHE",
+      "size": 33554432,
+      "crc32": "85a26e1c",
+      "md5": "d6614840fd6219be85989e4bae0cd0df",
+      "sha1": "c1b4d647751f8b7ddafeac760ab80f5a2e50ccb8"
+    },
+    {
+      "name": "Texas Hold 'em Poker DS (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATHP",
+      "size": 67108864,
+      "crc32": "2655987d",
+      "md5": "64996e134c269cfddd617bc844c02bda",
+      "sha1": "e4b27d91450b5fe06963dca5cd250e919a8a5673"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Texas%20Hold%20%27em%20Poker%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Texas%20Hold%20%27em%20Poker%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Texas%20Hold%20%27em%20Poker%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Texas%20Hold%20%27em%20Poker%20DS%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Texas%20Hold%20%27em%20Poker%20DS%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Texas%20Hold%20%27em%20Poker%20DS%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

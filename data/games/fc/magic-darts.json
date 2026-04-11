@@ -45,5 +45,75 @@
     "wikidata": "Q6730681",
     "mobygames": 33437,
     "igdb": 48182
-  }
+  },
+  "roms": [
+    {
+      "name": "Magic Darts (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "1cb8f82a",
+      "md5": "6248f372783a2101c6b00780b3a46a8d",
+      "sha1": "2c59b2018b9c3314d55e61d79ca2490fc78e67bc",
+      "sha256": "6fef645b147404548543ecc6fece7e255bb424c7e7170aa7bccb57fa32431d0e"
+    },
+    {
+      "name": "Magic Darts (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "a2212c81",
+      "md5": "3eba43103aaf4ddf0e2ab25917c45477",
+      "sha1": "9707b990a982117b2440d49b068b2e6cd7e5cea8",
+      "sha256": "8ded6b637af847a8a68ba695bcaa64a4fa4c4078bd5a63e93adfc4036aa7d6c6"
+    },
+    {
+      "name": "Magic Darts (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "e5f0dff1",
+      "md5": "14101cd92c7b8f0e96b11294ff0d96d3",
+      "sha1": "4f7c6fa1c8d55046b93d797a45e2866a361bced9",
+      "sha256": "ae36061d201b7fd83e267ff9a29c048f6d76824d23423dc8faf6028ace074038"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Magic%20Darts%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Magic%20Darts%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Magic%20Darts%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Magic%20Darts%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Magic%20Darts%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Magic%20Darts%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

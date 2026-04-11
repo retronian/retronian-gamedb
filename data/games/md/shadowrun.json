@@ -70,5 +70,107 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Shadowrun (Asia) (En)",
+      "source": "no_intro",
+      "serial": "MK-1352-00",
+      "size": 2097152,
+      "crc32": "d32199f7",
+      "md5": "e1c549eb7a842594a99ab8993d01b427",
+      "sha1": "e28bb51227abcc71aaf18d445d3651054247c662",
+      "sha256": "590e62f743c7f6149d79af0977714c2a2aa94648e904fdce82e272408390de48"
+    },
+    {
+      "name": "Shadowrun (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1352-00",
+      "size": 2097152,
+      "crc32": "fbb92909",
+      "md5": "53090bcd67a0b6262f71ef7c5838c02b",
+      "sha1": "a06a281d39e845bff446a541b2ff48e1d93143c2",
+      "sha256": "92a614491fc3ea12a6df32459cce08b48574b7b814e244c07eb860dc5c6edb7e"
+    },
+    {
+      "name": "Shadowrun (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1352-00",
+      "size": 2097152,
+      "crc32": "2455add2",
+      "md5": "90efddf5c0e68e4202e2d5da5ad6820a",
+      "sha1": "2d52cb444802ae6fda8d50b1af5fab10826bc00d",
+      "sha256": "8a6414bb7db1b57af167704223e0a4f6e81e3fb2b49963c7bf7a96c1ae5457d4"
+    },
+    {
+      "name": "Shadowrun (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1352-00",
+      "size": 2097152,
+      "crc32": "bbb5e2fa",
+      "md5": "87d2724ded5aa9c9179d793cc3d97bd2",
+      "sha1": "4bb4f490ff22c380df471b63faeb8835f9cf5cb6",
+      "sha256": "f4d561249c13dda411bb2b636f10ab31d1ae9de84df1cb295ee5d4eb676bcdcc"
+    },
+    {
+      "name": "Shadowrun (USA) (Beta 4)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1352-00",
+      "size": 2097152,
+      "crc32": "6e2bbca8",
+      "md5": "ad9f56a5585fa61e827478208648d740",
+      "sha1": "37b0aecf9d72fa662cadec9c2eba9bbe6fea35d2",
+      "sha256": "adee7ad14c3e02e1bcc7406fd1c4c4c781f48f095705f971144ad7dbe2de69a8"
+    },
+    {
+      "name": "Shadowrun (USA) (Beta 3)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1352-00",
+      "size": 2097152,
+      "crc32": "2a964bcd",
+      "md5": "a02b249b5e7ac40342107524a81be6e9",
+      "sha1": "01591ae041031a4820caeb0bfcb1772e8b633352",
+      "sha256": "07755599e08aae7d715dfa0a7a9c7babe089bf01518531523c0d933892b4c02c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shadowrun%20%28Asia%29%20%28En%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shadowrun%20%28Asia%29%20%28En%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shadowrun%20%28Asia%29%20%28En%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shadowrun%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shadowrun%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shadowrun%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

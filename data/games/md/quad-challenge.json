@@ -27,5 +27,48 @@
     "wikidata": "Q3412560",
     "mobygames": 43131,
     "igdb": 46212
-  }
+  },
+  "roms": [
+    {
+      "name": "Quad Challenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-14056-00",
+      "size": 524288,
+      "crc32": "74736a80",
+      "md5": "9059e6c9ee0fc3fb80975e6f7c3a935b",
+      "sha1": "c7db4cd8b5dc8c0927824e9ddf1257591305d99a",
+      "sha256": "168ce5e22849e11e446f7086a95d63889bc9f4e775846a48bb19adf27d416fb9"
+    },
+    {
+      "name": "Quad Challenge (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-14056-00",
+      "size": 561120,
+      "crc32": "8d46f0fa",
+      "md5": "67ccc569fa16481177859cf4f43c83f4",
+      "sha1": "20f3ec7b53d7dab5d55728ba9241935c26327c5a",
+      "sha256": "3beff7631a2a5887d8060e20f81379974b6e7e7ebcfc37d93c3a3362a7c41dbe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Quad%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Quad%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Quad%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

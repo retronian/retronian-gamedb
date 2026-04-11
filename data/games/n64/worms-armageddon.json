@@ -36,5 +36,77 @@
     "wikidata": "Q953922",
     "mobygames": 633,
     "igdb": 948
-  }
+  },
+  "roms": [
+    {
+      "name": "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NWUP",
+      "size": 12582912,
+      "crc32": "6bfff27b",
+      "md5": "44fc2a7f028f0b6f71b255f672c8b495",
+      "sha1": "34042046e3cfa44723c32f6d366052483edb80d7",
+      "sha256": "d79ebabeef2d0a913c910497e73bf7d188c012fd578ec66a855d7bdbaa6d5bdc"
+    },
+    {
+      "name": "Worms Armageddon (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NADE",
+      "size": 12582912,
+      "crc32": "5471ae3b",
+      "md5": "491d4db6718302489bf05fb962c73651",
+      "sha1": "3b17b36ba91737b86aa56ecb1b48a89444b53572"
+    },
+    {
+      "name": "Worms Armageddon (USA) (En,Fr,Es) (Limited Run Games)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NADE",
+      "size": 12582912,
+      "crc32": "85f1e911",
+      "md5": "096c6f823f32f931cc1319855578049d",
+      "sha1": "a07cd80155b0845b8f1d9c30a9e5af169a447897",
+      "sha256": "794945d2db742007d6ca98787827a31834db9684513a563c6b31e13612a8fcee"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Worms%20Armageddon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Worms%20Armageddon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Worms%20Armageddon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Worms%20Armageddon%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Worms%20Armageddon%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Worms%20Armageddon%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

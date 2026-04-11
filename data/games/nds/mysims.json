@@ -44,5 +44,94 @@
     "wikidata": "Q1750429",
     "mobygames": 30511,
     "igdb": 201339
-  }
+  },
+  "roms": [
+    {
+      "name": "MySims (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQIP",
+      "size": 33554432,
+      "crc32": "57ec9d99",
+      "md5": "789ded10d34d287700d6d62c9963d392",
+      "sha1": "bfb5c073d6e30235eaef3c4471082a4a2129db41"
+    },
+    {
+      "name": "MySims (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQIE",
+      "size": 33554432,
+      "crc32": "b97162a2",
+      "md5": "6243fb6f744b05c9995067b51a324638",
+      "sha1": "dd16436544eae19e0e5c6863b75858cee0d1e18f"
+    },
+    {
+      "name": "MySims (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "AQIK",
+      "size": 33554432,
+      "crc32": "1d0d68c3",
+      "md5": "876be896a4ee1fddaae45e1f139321de",
+      "sha1": "39436ccabd2e6707722a39767a509e0498d58d06",
+      "sha256": "a018c78f125192969ce2a0b5ae2f7460aa14359c60c84158fce2c0ffcde6c711"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MySims%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/MySims%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MySims%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MySims%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/MySims%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MySims%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MySims%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/MySims%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MySims%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
 }

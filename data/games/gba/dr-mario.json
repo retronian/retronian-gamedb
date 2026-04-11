@@ -100,6 +100,42 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "ドクターマリオ&パネルでポン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": true
+    },
+    {
+      "text": "Dr. Mario and Puzzle League",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Dr. Mario & Puzzle League",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Dr. Mario & Puzzle League",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1990-07-27",
@@ -107,5 +143,24 @@
     "wikidata": "Q1198580",
     "mobygames": 6116,
     "igdb": 22549
-  }
+  },
+  "descriptions": [
+    {
+      "text": "「ドクターマリオ」と「パネルでポン」は、任天堂の最も人気のあるパズルゲームの2つを再現した作品です。「ドクターマリオ」はすでにGBAでクラシックNESシリーズのタイトルとしてリリースされていますが、デュアルパックに含まれているバージョンは、元のNESタイトルの単なるエミュレーションではなく、Game Boy Advanceハードウェアに特化して強化されています。「パネルでポン」は元々「テトリスアタック」として誕生しましたが、数年前にGame Boy Colorで「ポケモンパズルチャレンジ」として再ブランド化されました。GBA版もGBAのより高性能なグラフィックハードウェアに合わせて強化されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dr. Mario & Panel de Pon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BZPJ",
+      "size": 8388608,
+      "crc32": "129bf78f",
+      "md5": "2705c33d0c7cf9b0aff99c1b64d4465d",
+      "sha1": "fc4371a6e16116182c70eee6e8a1b53df0fc693c"
+    }
+  ]
 }

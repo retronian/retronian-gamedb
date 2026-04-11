@@ -63,5 +63,65 @@
     "wikidata": "Q3196363",
     "mobygames": 26089,
     "igdb": 40238
-  }
+  },
+  "roms": [
+    {
+      "name": "Kickle Cubicle (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "9ac7de03",
+      "md5": "de73825094a042b46bd7e153edc6701c",
+      "sha1": "017fa37a2d6ac2c6700cf42f7df09b289cf93fea",
+      "sha256": "140e2d4e81b1ccdd42f7d5d41c03333def30db18bc57a8c8166eb65dd82c610d"
+    },
+    {
+      "name": "Kickle Cubicle (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "76a93ed8",
+      "md5": "7472b9945c22c56fd2e3835f3a4e34fb",
+      "sha1": "0c2a482047176bc4877af5b4b0fdbea5ce132cd5",
+      "sha256": "41894aefb3a52d3f02175a4b5c364c4f6cea356af7b61b3252cd6cff40211912"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kickle%20Cubicle%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kickle%20Cubicle%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kickle%20Cubicle%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kickle%20Cubicle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kickle%20Cubicle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kickle%20Cubicle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

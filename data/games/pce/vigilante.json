@@ -97,5 +97,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Vigilante (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "e4124fe0",
+      "md5": "4333192a22a121772356d3821d445a69",
+      "sha1": "a43ddb6b9d70c7597788abd363b5df719b70bc46",
+      "sha256": "2581fae9ab10ca6da900c09c68594e632d394b9a1eb885f4cd01e0f1382a1cb6"
+    },
+    {
+      "name": "Vigilante (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "79d49a0d",
+      "md5": "589f7ceb0bd851f6442e53858a0dc51c",
+      "sha1": "f77d83af4f1e733faf813b5e78ecc2cbb19d3b25",
+      "sha256": "a6d0c3a9a9f0b212ff862f2a1cca21e5ffda124c037c3afbcde042bd39d49c55"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Vigilante%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Vigilante%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Vigilante%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

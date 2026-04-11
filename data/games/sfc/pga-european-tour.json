@@ -18,5 +18,65 @@
     "wikidata": "Q2394252",
     "mobygames": 14586,
     "igdb": 12713
-  }
+  },
+  "roms": [
+    {
+      "name": "PGA European Tour (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "be94e60d",
+      "md5": "ab689e7f367c039d8a0655611bbddb8b",
+      "sha1": "cc1e7ddde84a6c7b8998d5be0555a79f10bcce52",
+      "sha256": "f1300299860d2ddbc157a8c387199866155de4becf144051385ad124b7ec0c44"
+    },
+    {
+      "name": "PGA European Tour (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "914f2ea3",
+      "md5": "f517ca4cffba9e977b243b06434c7972",
+      "sha1": "b962d72c943d33a9cb55c5a05d779f0a836c46c3",
+      "sha256": "5abfb974ca0e56aabb3f4126817d14a546c57a5a5c6042d31196063d80996698"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/PGA%20European%20Tour%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/PGA%20European%20Tour%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/PGA%20European%20Tour%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/PGA%20European%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/PGA%20European%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/PGA%20European%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

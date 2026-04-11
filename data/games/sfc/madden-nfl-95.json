@@ -54,5 +54,65 @@
     "wikidata": "Q3275484",
     "mobygames": 22464,
     "igdb": 4506
-  }
+  },
+  "roms": [
+    {
+      "name": "Madden NFL 95 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "4b0c7993",
+      "md5": "6a966d433ed26b0cdf2e55b2d34be748",
+      "sha1": "470ccc62b77d3f6b6fb5de704e4be8d2ac12888f",
+      "sha256": "7d6e8c2d20862e00a12d16111152fd74c708115f23f08e38a2b98946ef866012"
+    },
+    {
+      "name": "Madden NFL 95 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "021a3f69",
+      "md5": "592f4c8dc4aaf84857154c63e9a533ab",
+      "sha1": "80761ea62cb673b0a4814c2f8321c237cd45890f",
+      "sha256": "0ad77ae7af231313e1369a52d1622b88e3751aa5ec774628df7071f9e4244abc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Madden%20NFL%2095%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Madden%20NFL%2095%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Madden%20NFL%2095%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Madden%20NFL%2095%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Madden%20NFL%2095%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Madden%20NFL%2095%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -54,5 +54,61 @@
     "wikidata": "Q5232709",
     "mobygames": 28459,
     "igdb": 37712
-  }
+  },
+  "roms": [
+    {
+      "name": "Final Soldier (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "af2dd2af",
+      "md5": "fe5b3f899f0ee5994508f259bbb74cfe",
+      "sha1": "ce89c6ea5d9eb36a642742ecad9c35c16b761c49",
+      "sha256": "9af9e2ee8cadb39461394a811cd05424159c069389e48882a61d6ee3f6faf78c"
+    },
+    {
+      "name": "Final Soldier (World) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "size": 524288,
+      "crc32": "06835d94",
+      "md5": "a09f962fc2940fc12c88322aa6bbed43",
+      "sha1": "f52e2a9c5df042eb04c98fbfa38c8399ca4c7f85",
+      "sha256": "8f72aa3cc0d2d316a3a163429ebe32bbd1590975c87c1a90fb57c9fb56761bfd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Final%20Soldier%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Final%20Soldier%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Final%20Soldier%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Final%20Soldier%20%28World%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Final%20Soldier%20%28World%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Final%20Soldier%20%28World%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

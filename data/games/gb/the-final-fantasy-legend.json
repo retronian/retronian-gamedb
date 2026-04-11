@@ -97,5 +97,61 @@
     "wikidata": "Q643018",
     "mobygames": 5936,
     "igdb": 396
-  }
+  },
+  "roms": [
+    {
+      "name": "Final Fantasy Legend, The (World) (Collection of SaGa)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "00388844",
+      "md5": "11922d8a4f3c5bd68acdc18f0579ea57",
+      "sha1": "42450483c9894863c7543f9695c0cbaffdcb7e99",
+      "sha256": "87a05b57152b4934d0894946ecec4288c18df721416c83389c7bdd6f5a252701"
+    },
+    {
+      "name": "Final Fantasy Legend, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "8046148f",
+      "md5": "d5c27ff8cb1b69cb56df4ff170e2baf0",
+      "sha1": "901dfc83c72e172d35a376835807fc788444a9bb",
+      "sha256": "e5b1d116a8fb01b7a7213f906b3ef1bcc91a18f6826b01ee1bccd89429a0d906"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Final%20Fantasy%20Legend%2C%20The%20%28World%29%20%28Collection%20of%20SaGa%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Final%20Fantasy%20Legend%2C%20The%20%28World%29%20%28Collection%20of%20SaGa%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Final%20Fantasy%20Legend%2C%20The%20%28World%29%20%28Collection%20of%20SaGa%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Final%20Fantasy%20Legend%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Final%20Fantasy%20Legend%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Final%20Fantasy%20Legend%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

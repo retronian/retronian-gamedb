@@ -17,5 +17,76 @@
     "wikidata": "Q135442715",
     "mobygames": 30958,
     "igdb": 249165
-  }
+  },
+  "roms": [
+    {
+      "name": "Tom Clancy's Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AR6E",
+      "size": 8388608,
+      "crc32": "23575bf2",
+      "md5": "509e3a1fe6284a75c84315a64bd33f43",
+      "sha1": "6862d369daf3709a5de9458ceb3f8200b78b8160"
+    },
+    {
+      "name": "Tom Clancy's Rainbow Six - Rogue Spear (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AR6P",
+      "size": 8388608,
+      "crc32": "6863ce1a",
+      "md5": "e58339b1d1426d9b51ad0b8bad3e87c3",
+      "sha1": "092179cd51657a4572fa855eb3e5bc3f46c1d76f"
+    },
+    {
+      "name": "Tom Clancy's Rainbow Six - Rogue Spear (USA, Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 7963152,
+      "crc32": "666e31b5",
+      "md5": "29151401cf5f8f500ec2e1cd311f6ebc",
+      "sha1": "d8426022537149670871817ff9336261b31172b5",
+      "sha256": "61efe26c1b5350fd13354a8a508fecbc484acec516a2e86f616e422c26b72f9e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tom%20Clancy%27s%20Rainbow%20Six%20-%20Rogue%20Spear%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tom%20Clancy%27s%20Rainbow%20Six%20-%20Rogue%20Spear%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tom%20Clancy%27s%20Rainbow%20Six%20-%20Rogue%20Spear%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tom%20Clancy%27s%20Rainbow%20Six%20-%20Rogue%20Spear%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tom%20Clancy%27s%20Rainbow%20Six%20-%20Rogue%20Spear%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tom%20Clancy%27s%20Rainbow%20Six%20-%20Rogue%20Spear%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

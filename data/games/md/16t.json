@@ -33,5 +33,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "16t (Japan) (Game no Kanzume Otokuyou)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "98149eaf",
+      "md5": "15361874deab5a8c3a7611a81f041131",
+      "sha1": "ff564e8db95697103caca81c45efb29f47e7e7e0",
+      "sha256": "44d8cd5b8355d223f281ce607657e36545f532ae22cba5ef484fefef62953a58"
+    },
+    {
+      "name": "16t (Japan) (Sega Game Toshokan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "537f04b6",
+      "md5": "325965a3a8c6a47ee8efd59e4abfc25f",
+      "sha1": "fd978f7f643311de21de17ed7ed1e7c737b518ee",
+      "sha256": "94cfa6b26980c657db6e63c3e0062bf6186f7610f4b248bdc22299997c2468b4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/16t%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/16t%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/16t%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

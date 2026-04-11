@@ -52,5 +52,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Spirit (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "01a76935",
+      "md5": "0a459d74f0545f4538705276422be34e",
+      "sha1": "09b037fde801b71d1ff343c40ff5a58372b9a514",
+      "sha256": "f912b281be21b72f403dfc56ffb4123581c5a703fe058cd0b0665f78e06aea0c"
+    },
+    {
+      "name": "Dragon Spirit (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "086f148c",
+      "md5": "1fe13078c7aba4ef0777d5a470d56986",
+      "sha1": "3bdd082360335232715633b469da71ab2597279d",
+      "sha256": "f502fd6aa604c8ac42a1808f656355994a1424dcca3ebef9d4d899565f7da99b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Dragon%20Spirit%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Dragon%20Spirit%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Dragon%20Spirit%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

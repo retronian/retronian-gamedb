@@ -62,5 +62,85 @@
   "external_ids": {
     "wikidata": "Q1750961",
     "mobygames": 13723
-  }
+  },
+  "roms": [
+    {
+      "name": "Driv3r (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3RP",
+      "size": 8388608,
+      "crc32": "b617b354",
+      "md5": "48d7f169a879773bab490c4c1a9dfd5b",
+      "sha1": "3e4da1cd2a5915d2218cd59e061baeb3a08be1c6"
+    },
+    {
+      "name": "Driv3r (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3RE",
+      "size": 8388608,
+      "crc32": "6c66cfbe",
+      "md5": "3fbc7fda7d0bbaa03ec037e710cf1dd8",
+      "sha1": "df2238fc239bdd0226a1b39deef06fa521eae48e"
+    },
+    {
+      "name": "Driv3r (Europe) (Es) (Beta 2)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 8388608,
+      "crc32": "58e1f5a6",
+      "md5": "7154c6dbd189d69598d1f50b533a3019",
+      "sha1": "0451521254325271e7ec13276fc25c9b7dcc47b0",
+      "sha256": "51c7d2a1742ae97e12d7bf9388910a95f62f1e1fca122bc8cf79503707691975"
+    },
+    {
+      "name": "Driv3r (Europe) (Beta 3)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 8388608,
+      "crc32": "3399d79d",
+      "md5": "a7265630754bd040cb54f7fb27fdb9f9",
+      "sha1": "0c48036d7797ba0229b8466d30054a1784d41e77",
+      "sha256": "f7e5b6ece22322d6cf6526ab9cab105f569c45d03fd4ca8737684fee6d4b84bf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Driv3r%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Driv3r%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Driv3r%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Driv3r%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Driv3r%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Driv3r%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

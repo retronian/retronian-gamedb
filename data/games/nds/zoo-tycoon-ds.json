@@ -35,5 +35,102 @@
   "external_ids": {
     "wikidata": "Q1965927",
     "igdb": 18598
-  }
+  },
+  "roms": [
+    {
+      "name": "Zoo Tycoon DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AZTE",
+      "size": 16777216,
+      "crc32": "b5536940",
+      "md5": "c148696aaa120e6ebb45620c5445afd0",
+      "sha1": "192e5ebedf5521ca1734f51350ed605db247d6ac",
+      "sha256": "170894a29f6ec85f8e44c0670667ff6117498da821a5046ae4ee06e45987af6f"
+    },
+    {
+      "name": "Zoo Tycoon DS (Europe) (Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AZTY",
+      "size": 16777216,
+      "crc32": "0cef0287",
+      "md5": "5cf395820c4b41128fcea3500509b5d3",
+      "sha1": "318793ab20e6f929736e2567191cd228b4732c0b"
+    },
+    {
+      "name": "Zoo Tycoon DS (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AZTX",
+      "size": 16777216,
+      "crc32": "21184cff",
+      "md5": "7e97edd4412722e6ebd64dfa72f6b828",
+      "sha1": "e00522843e746f62741e32d23e09b02740a0524d",
+      "sha256": "e4e1db40fd819a4a70581a3d44c8eaa3818c0693455d5c382b4cedda0bba1511"
+    },
+    {
+      "name": "Zoo Tycoon DS (United Kingdom)",
+      "source": "no_intro",
+      "serial": "AZTP",
+      "size": 16777216,
+      "crc32": "d51957fe",
+      "md5": "fbb46aaca4daab94a43a9b877a789dfb",
+      "sha1": "6692f8d30a472280e61b634d11e058ec162970af",
+      "sha256": "ff70263bbd7bb25513465cac032d1dd478f9cce596bc8322234b3c68d9bf169d"
+    },
+    {
+      "name": "Zoo Tycoon DS (USA) (Beta) (2005-03-29)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 16777216,
+      "crc32": "b4697b08",
+      "md5": "e7ff2e73d52fd1c7b28209ba1745081e",
+      "sha1": "7d30ae0992236cf8c574543b41355515ec8c891d",
+      "sha256": "3927c657dc96d60d63681acfa869f4c342e3e02f500a6936da2e0c197981f2ad"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Tycoon%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoo%20Tycoon%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Tycoon%20DS%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoo%20Tycoon%20DS%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Tycoon%20DS%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoo%20Tycoon%20DS%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Tycoon%20DS%20%28United%20Kingdom%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

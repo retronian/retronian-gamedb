@@ -35,5 +35,65 @@
   "external_ids": {
     "wikidata": "Q3182391",
     "igdb": 4882
-  }
+  },
+  "roms": [
+    {
+      "name": "Garfield Gets Real (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YGFE",
+      "size": 16777216,
+      "crc32": "110c6e3c",
+      "md5": "c7c60fd4ee32215f0d055db3618c021c",
+      "sha1": "c5c42a8df57fb7215922e0f64f0b74f4f99c2702"
+    },
+    {
+      "name": "Garfield Gets Real (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YGFP",
+      "size": 16777216,
+      "crc32": "62c5d502",
+      "md5": "b5d091ac302b311cbecae0f928e47bbf",
+      "sha1": "042939d17884952b0a758b0cfa3214e885c5b203"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Garfield%20Gets%20Real%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Garfield%20Gets%20Real%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Garfield%20Gets%20Real%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Garfield%20Gets%20Real%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Garfield%20Gets%20Real%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Garfield%20Gets%20Real%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

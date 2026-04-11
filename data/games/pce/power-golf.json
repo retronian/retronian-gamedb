@@ -45,5 +45,47 @@
     "wikidata": "Q7236322",
     "mobygames": 46295,
     "igdb": 42100
-  }
+  },
+  "roms": [
+    {
+      "name": "Power Golf (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "ed1d3843",
+      "md5": "8a524c7491bd6614e9c92bb7117a57f3",
+      "sha1": "a9a05cacbcae9031fc95b54ace08864a97affd6e",
+      "sha256": "7548bcec72b21492d1e027fe259300efc486a31960dea38b1420a11d88c63aef"
+    },
+    {
+      "name": "Power Golf (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "ea324f07",
+      "md5": "c9acd977deb987ad2c63d43e57be2f35",
+      "sha1": "ff0a18094daecd56091f04f76b35551c303520b9",
+      "sha256": "d1147e2c70e7d902238905d3ef245266b69119d61a1313623a298de2e887cfee"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Power%20Golf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Power%20Golf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Power%20Golf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

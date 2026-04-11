@@ -80,5 +80,49 @@
     "wikidata": "Q3046442",
     "mobygames": 17563,
     "igdb": 5377
-  }
+  },
+  "roms": [
+    {
+      "name": "Earnest Evans (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49176-01",
+      "size": 1048576,
+      "crc32": "a243816d",
+      "md5": "6a2d2ac410a424fcb66a72ec0dff9484",
+      "sha1": "cb5a2a928e2c2016f915e07e1d148672563183f0",
+      "sha256": "f486384520e2a6f81f75549a003ab611e606490f7b7dd3018c7a4586d2fe52ad"
+    },
+    {
+      "name": "Earnest Evans (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49176-01",
+      "size": 1048576,
+      "crc32": "11475fac",
+      "md5": "88e130fe3401078d64feb4199be44656",
+      "sha1": "6ca1610f2898e5f45343314fbff4ce8df74248a0",
+      "sha256": "3e4c5f6b393aa699df80874ceb6678991f0764c1252bdc2483b2d20cc970a8c3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Earnest%20Evans%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Earnest%20Evans%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Earnest%20Evans%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

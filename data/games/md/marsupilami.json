@@ -18,5 +18,67 @@
     "wikidata": "Q3295079",
     "mobygames": 24447,
     "igdb": 18142
-  }
+  },
+  "roms": [
+    {
+      "name": "Marsupilami (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1841-00",
+      "size": 2097152,
+      "crc32": "e09bbd70",
+      "md5": "7914adf64ff1156c767ae550334c44b5",
+      "sha1": "d2b8358ef261f8b5ad54a58e89f3999312d0cec9",
+      "sha256": "6bfd8f32dcd425fbb97e90a8ab1037a1f2cba7c8be2690d9822028b2012fd9b4"
+    },
+    {
+      "name": "Marsupilami (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1841-00",
+      "size": 2097152,
+      "crc32": "c76558df",
+      "md5": "9cf141681e68407d1e5279f7a35d6d53",
+      "sha1": "3e761bdbf4ab8cb43d4a8d99e22b7de896884819",
+      "sha256": "519f0dd1088cc96ea9ad66d6d76d1bfd04f2a292e96a30d81be0381e8a2e8fbd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Marsupilami%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Marsupilami%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Marsupilami%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Marsupilami%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Marsupilami%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Marsupilami%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

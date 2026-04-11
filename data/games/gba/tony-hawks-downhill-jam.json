@@ -36,5 +36,65 @@
     "wikidata": "Q1565986",
     "mobygames": 26215,
     "igdb": 210450
-  }
+  },
+  "roms": [
+    {
+      "name": "Tony Hawk's Downhill Jam (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BXSE",
+      "size": 16777216,
+      "crc32": "37b0b53d",
+      "md5": "4088fad3d25305c46072b8865e095eef",
+      "sha1": "0d40f012093838b667cd3b79caabb43adca8f034"
+    },
+    {
+      "name": "Tony Hawk's Downhill Jam (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BXSP",
+      "size": 16777216,
+      "crc32": "4a975f48",
+      "md5": "a6c6879b9dcf9a67991f4cf81462498c",
+      "sha1": "1d50c04eb8ede1cf9776e392f0275688ed7f69cb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tony%20Hawk%27s%20Downhill%20Jam%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tony%20Hawk%27s%20Downhill%20Jam%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tony%20Hawk%27s%20Downhill%20Jam%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tony%20Hawk%27s%20Downhill%20Jam%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tony%20Hawk%27s%20Downhill%20Jam%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tony%20Hawk%27s%20Downhill%20Jam%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

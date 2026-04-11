@@ -87,5 +87,64 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mega Man Xtreme (USA, Europe) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "3a4d94d5",
+      "md5": "4681f5b931a2e60ca163facd1adf56ed",
+      "sha1": "c877449ba0889fdcacf23c49b0611d0ca57283c5",
+      "sha256": "638225d961484c8749ff8ceba1c865d267a5401b0d37a3a84cac7a6fb6bd8b9a"
+    },
+    {
+      "name": "Rockman X - Cyber Mission (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "919077ab",
+      "md5": "ebb19fe17fd6d13d9d52239e8da9711a",
+      "sha1": "c47d50814489b7426ce110d35d1c059d0c24af21"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Mega%20Man%20Xtreme%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Mega%20Man%20Xtreme%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Mega%20Man%20Xtreme%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Rockman%20X%20-%20Cyber%20Mission%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Rockman%20X%20-%20Cyber%20Mission%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Rockman%20X%20-%20Cyber%20Mission%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

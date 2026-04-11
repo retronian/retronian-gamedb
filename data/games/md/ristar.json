@@ -98,5 +98,82 @@
     "wikidata": "Q2154888",
     "mobygames": 11538,
     "igdb": 7431
-  }
+  },
+  "roms": [
+    {
+      "name": "Ristar (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1555-00",
+      "size": 2097152,
+      "crc32": "9700139b",
+      "md5": "62e40b8c8012d02df4fac1c68f10eb16",
+      "sha1": "cf0215feddd38f19cd2d27bfa96dd4d742ba8bf7",
+      "sha256": "64de3fc37697b04be8fe7af04a6be2435b61014717ef589b361177115bc18d6c"
+    },
+    {
+      "name": "Ristar (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1555-00",
+      "size": 2097152,
+      "crc32": "6511aa61",
+      "md5": "ecf9d0bac130fed7b6a54a67d7b27df7",
+      "sha1": "1d15ff596dd4f3b2c1212a2e0c6e2b72f62c001e",
+      "sha256": "1debdd6853a5630fb5602fbc2f5f03a4a929f833d00e072e733cac573414f05a"
+    },
+    {
+      "name": "Ristar - The Shooting Star (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4126-00",
+      "size": 2097152,
+      "crc32": "ce464f0e",
+      "md5": "376f344f8ef5a4f8365867c9e94efb3e",
+      "sha1": "a4dd8dc0b673afe7372ba9c05c8d6090302dcf4e",
+      "sha256": "5a2f3cb5c8fe6bd98da1152889f12be44481714c276a3d35d91c972579ba5383"
+    },
+    {
+      "name": "Ristar - The Shooting Star (Japan) (En) (Beta 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004126-00",
+      "size": 2097152,
+      "crc32": "7c5c7a0a",
+      "md5": "ed51ed819a7521f512c38146ebf0c30f",
+      "sha1": "d887378bed61a5be60664d3fe6559f78cc95d119",
+      "sha256": "c1d9e0ea14ceb369ac6097bc9b5fbf23df64003ad6c65f936f9fa4047a2c2f51"
+    },
+    {
+      "name": "Ristar - The Shooting Star (Japan) (En) (Beta 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004126-00",
+      "size": 2097152,
+      "crc32": "6becccc9",
+      "md5": "1a85211604a4ad278fdc511e20534a0d",
+      "sha1": "85b82470e5395e96e01a7339c81b60832ea3ab1a",
+      "sha256": "40f07388944685f3fafb6c876732d3437ddb85a420e275c95e11a484fd52eaf2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ristar%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ristar%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ristar%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

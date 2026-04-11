@@ -72,5 +72,65 @@
     "wikidata": "Q3886110",
     "mobygames": 3192,
     "igdb": 209636
-  }
+  },
+  "roms": [
+    {
+      "name": "Gold and Glory - The Road to El Dorado (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "b16f1752",
+      "md5": "041b8a455b63beb718d70c8f89fac9d3",
+      "sha1": "89487f0b06a261bb2d3dd64d2a40c42ed9b4f63f"
+    },
+    {
+      "name": "Gold and Glory - The Road to El Dorado (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BEDE",
+      "size": 1048576,
+      "crc32": "b7d49490",
+      "md5": "7bf3b13931f2a50ebe071a18ea14f28b",
+      "sha1": "d78b266757f8c2f53b0e8679161b1bf7828d9045",
+      "sha256": "0f129d30e71c578d737cc9ca6be57abe68d8ba12a934da7d90a3949e192b0dfb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Gold%20and%20Glory%20-%20The%20Road%20to%20El%20Dorado%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Gold%20and%20Glory%20-%20The%20Road%20to%20El%20Dorado%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Gold%20and%20Glory%20-%20The%20Road%20to%20El%20Dorado%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Gold%20and%20Glory%20-%20The%20Road%20to%20El%20Dorado%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Gold%20and%20Glory%20-%20The%20Road%20to%20El%20Dorado%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Gold%20and%20Glory%20-%20The%20Road%20to%20El%20Dorado%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -70,5 +70,60 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Super Fantasy Zone (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1142-00",
+      "size": 1048576,
+      "crc32": "927975be",
+      "md5": "bd52a3c0097986a473f42dd58279408e",
+      "sha1": "ed4f8a98eed7838d29fa31a6f34d11f6d8887c7f",
+      "sha256": "4810844f80d7e2cbabffec456c0812e77fe53c720834735a603b356e21ffc2d2"
+    },
+    {
+      "name": "Super Fantasy Zone (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-15023-00",
+      "size": 1048576,
+      "crc32": "767780d7",
+      "md5": "f5683f3b2c24cdd7bc6771ea87efeacf",
+      "sha1": "14dc8568205f3b1b89ce14b9412541ce4ae47f91",
+      "sha256": "14a25cd6ab568dff92a1d75666ca7d906510d27af2e1824bc8990bbfb523d607"
+    },
+    {
+      "name": "Super Fantasy Zone (USA) (En,Ja) (Genesis Mini)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-15023-00",
+      "size": 1048576,
+      "crc32": "d97d913d",
+      "md5": "9ab60ccbb50445109f1acba46be14f50",
+      "sha1": "71d3816e1fd6d49afb64631605dba40cc7f3b5b5",
+      "sha256": "6cc6a73028bc30799248f7f8c3e9974d58727d61f69c75fe8c1dc35e6571cb28"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Fantasy%20Zone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Fantasy%20Zone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Fantasy%20Zone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

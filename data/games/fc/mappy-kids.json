@@ -54,5 +54,46 @@
     "wikidata": "Q3845209",
     "mobygames": 45045,
     "igdb": 48625
-  }
+  },
+  "roms": [
+    {
+      "name": "Mappy Kids (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "96375910",
+      "md5": "64ebfb449deafae2c4d7b4b32cb22744",
+      "sha1": "374826565f57593f6f9564df0370699217a85bc5",
+      "sha256": "b8b8a447f88a5b557de3d70e1103c8cfccbca5276365c620ba38f904eb4aeb43"
+    },
+    {
+      "name": "Mappy Kids (World) (Evercade)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "a3c31b89",
+      "md5": "46a2194cb5acf795697836d535e9f6bc",
+      "sha1": "72a71290d057c8433cf3300462d15f799becec36",
+      "sha256": "12b9ee6bd9e7f48f3ad1b2c975720966a86210ac0f8555ffbb6b51767fcbd045"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mappy%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mappy%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mappy%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

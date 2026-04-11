@@ -63,5 +63,65 @@
     "wikidata": "Q7935040",
     "mobygames": 41172,
     "igdb": 46005
-  }
+  },
+  "roms": [
+    {
+      "name": "Virtual Soccer (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "ecb8a53a",
+      "md5": "a6f7d56d7855fd10a843fe72fe210f7a",
+      "sha1": "9347bdc49b2196bebf01a695530cd0f1e79911d3",
+      "sha256": "93e03273d044a0a179155dc4956743cc4ac50759d0eef07ac4871c185dd32741"
+    },
+    {
+      "name": "Virtual Soccer (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "75457b6b",
+      "md5": "93ff7a8eced813e16da0c8c8b633d3f8",
+      "sha1": "f2d1c099550fb333dffc2bf9a84a1c0cba9457bb",
+      "sha256": "9b347692b35dc44a6e95bf68b596569634e07f1c7dab9181a579e92917553f6e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Virtual%20Soccer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Virtual%20Soccer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Virtual%20Soccer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Virtual%20Soccer%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Virtual%20Soccer%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Virtual%20Soccer%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

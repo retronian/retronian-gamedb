@@ -25,5 +25,38 @@
   "external_ids": {
     "wikidata": "Q649422",
     "igdb": 9622
-  }
+  },
+  "roms": [
+    {
+      "name": "Caesars Palace (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70146-00",
+      "size": 524288,
+      "crc32": "8fdaa9bb",
+      "md5": "aa6a145ddac88c7376939ec1e39469d1",
+      "sha1": "83c16e539ce332e1d33ab196b84abc1be4beb982",
+      "sha256": "32bcaeca37ddef0ed6f8850f25cb0fe57fe537b545ca780548dc91822553ec3d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Caesars%20Palace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Caesars%20Palace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Caesars%20Palace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

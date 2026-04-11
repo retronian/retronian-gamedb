@@ -36,5 +36,64 @@
     "wikidata": "Q6497116",
     "mobygames": 1223,
     "igdb": 236
-  }
+  },
+  "roms": [
+    {
+      "name": "Myst (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 358334672,
+      "crc32": "ceb9075c",
+      "md5": "65f565e6a6757e0644755b5c418bbe37",
+      "sha1": "c4f2ec3d66664b317687f100ffd3ef2e72cc0449"
+    },
+    {
+      "name": "Myst (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 365609984,
+      "crc32": "f397bc21",
+      "md5": "a8893c20b8a4ed2b18c111053874862a",
+      "sha1": "5bcf8f598905d7dcbdc2b29c21b6d825a30ba4a3",
+      "sha256": "bfe47115da464d1d2810d306dc9fea4e128e32688a6a66e66dad44108697c562"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Myst%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Myst%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Myst%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Myst%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Myst%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Myst%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

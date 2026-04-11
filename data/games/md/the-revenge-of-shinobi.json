@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "The Revenge of Shinobi",
@@ -56,6 +56,24 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Revenge of Shinobi, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "忍",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1989-12-02",
@@ -63,5 +81,168 @@
     "wikidata": "Q2745925",
     "mobygames": 7730,
     "igdb": 3327
-  }
+  },
+  "descriptions": [
+    {
+      "text": "あなたはムサシ、マスターニンジャです。あなたはすべての物事を見通し、知る神秘的な戦士です。あなたは致命的です！今、あなたは凶悪なネオ・ジードの軍隊を壊滅させなければなりません。さもなければ、彼らの美しい囚人ナオコが死んでしまいます！\n\n忍者の剣と手裏剣で攻撃しましょう！フェンスを飛び越えながら致命的なナイフを投げつけましょう！ジャンプ、ツイスト、キックで弾丸、デススター、廃車をかわしましょう！\n\n24の危険なシーンを通じて、忍者、マッスルマン、カンフーギャング、機関銃部隊を追跡します。ネオ・ジードは変装の達人です。しかし、あなたは忍び、隠密の技術の達人です。そして、あなたには秘密の武器があります - 忍者魔法！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Revenge of Shinobi, The (USA, Europe) (Rev A) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00001105-02",
+      "size": 524288,
+      "crc32": "e488eb46",
+      "md5": "c1db0e198557ecab3ed80e0f8775c50e",
+      "sha1": "80865449e5edcfc637c726441f5084d5db105f5b",
+      "sha256": "091034bd575a1d663b2f15a723da9895dcb309a97de15ed0e0ce960699a8eff7"
+    },
+    {
+      "name": "Revenge of Shinobi, The (World) (Rev B) (Virtual Console)",
+      "source": "no_intro",
+      "serial": "00001105-03",
+      "size": 524288,
+      "crc32": "5ca24f66",
+      "md5": "093990d7bbbe87770be6dbf0b569b8e1",
+      "sha1": "b1044e3b782351e69eba0abc94a3f08c379c27bc",
+      "sha256": "59aafb1bda314e422ed1e4dd2d5434946265ff4d2c1118e69f3c13871031161a"
+    },
+    {
+      "name": "Revenge of Shinobi, The (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00001105-01",
+      "size": 524288,
+      "crc32": "05f27994",
+      "md5": "b7eeed1bd8420ce1d895b2ca46a0643a",
+      "sha1": "a88546e159bc882bf05eba66c09a3b21dee4154e",
+      "sha256": "e6f25fad07e77fde44f9341cfac98c95abb1caadb7dad9abf0c446cc3c31ec92"
+    },
+    {
+      "name": "Revenge of Shinobi, The (USA, Europe) (Rev A)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00001105-02",
+      "size": 524288,
+      "crc32": "fe91ab7e",
+      "md5": "84906f06b302216a6db943ee52a8956c",
+      "sha1": "76af6ca97df08f2370f3a7fc2311781a0f147f4b",
+      "sha256": "6d678ca55ec00f966a3b658d9ea0125fa4e0215f49a087c08223d5003dabe665"
+    },
+    {
+      "name": "Revenge of Shinobi, The (USA, Europe) (Rev B)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00001105-03",
+      "size": 524288,
+      "crc32": "4d35ebe4",
+      "md5": "67e1e031cbeb4c6439a2d2b7e6b3eb90",
+      "sha1": "7ed6f142884a08bb3c07a2e6e35405440343502f",
+      "sha256": "d2163f1cc7a200075e1129f038a245c421688e2d62afca9934fedeffdf833cf5"
+    },
+    {
+      "name": "Revenge of Shinobi, The (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00001105-00",
+      "size": 524288,
+      "crc32": "5c7e5ea6",
+      "md5": "c296021f74ab1192ed7e1865cdebc972",
+      "sha1": "d5807a44d2059aa4ff27ecb7bdc749fbb0382550",
+      "sha256": "168416f60dd5bdf4d4d2fd44586667b23eef702ea0cc5472e56b2915852e7c8e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Revenge%20of%20Shinobi%2C%20The%20%28World%29%20%28Rev%20B%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Revenge%20of%20Shinobi%2C%20The%20%28World%29%20%28Rev%20B%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Revenge%20of%20Shinobi%2C%20The%20%28World%29%20%28Rev%20B%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Revenge%20of%20Shinobi%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Revenge%20of%20Shinobi%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Revenge%20of%20Shinobi%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Revenge%20of%20Shinobi%2C%20The%20%28USA%2C%20Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Revenge%20of%20Shinobi%2C%20The%20%28USA%2C%20Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Revenge%20of%20Shinobi%2C%20The%20%28USA%2C%20Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Revenge%20of%20Shinobi%2C%20The%20%28USA%2C%20Europe%29%20%28Rev%20B%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Revenge%20of%20Shinobi%2C%20The%20%28USA%2C%20Europe%29%20%28Rev%20B%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Revenge%20of%20Shinobi%2C%20The%20%28USA%2C%20Europe%29%20%28Rev%20B%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Revenge%20of%20Shinobi%2C%20The%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Revenge%20of%20Shinobi%2C%20The%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Revenge%20of%20Shinobi%2C%20The%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

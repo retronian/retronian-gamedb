@@ -79,5 +79,74 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Michael Jackson's Moonwalker (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004028-00",
+      "size": 524288,
+      "crc32": "6a70791b",
+      "md5": "7baf9fb775ee130bd7a4a779cb3bb612",
+      "sha1": "8960bac2027cdeadb07e535a77597fb783e1433b",
+      "sha256": "1f09b10515bcb95e9624a4ea3103ce76c834fdf0f84f9ba4470a31a657d40657"
+    },
+    {
+      "name": "Michael Jackson's Moonwalker (World) (Rev A)",
+      "source": "no_intro",
+      "serial": "00004028-01",
+      "size": 524288,
+      "crc32": "11ce1f9e",
+      "md5": "73b63cac3f15bfe4a7bad170654878a9",
+      "sha1": "70d9b760c87196af364492512104fa18c9d69cce",
+      "sha256": "5d262584ee80aebbe8a83d4b03606d7c1086fc3c03e1cd22d11151d24ba7b9f1"
+    },
+    {
+      "name": "Michael Jackson's Moonwalker (Japan, USA) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004017-00",
+      "size": 524288,
+      "crc32": "dc7ed8c1",
+      "md5": "a72e7aa20c5f5ad49e8f51a79a7e9db6",
+      "sha1": "6ce4ce7af4265d9be6bfe5021eb64839a73fdac6",
+      "sha256": "232aa9e2d15ae585e338ae6add37e021f7a46b8c5c694bfef857f804b7939315"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Michael%20Jackson%27s%20Moonwalker%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Michael%20Jackson%27s%20Moonwalker%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Michael%20Jackson%27s%20Moonwalker%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Michael%20Jackson%27s%20Moonwalker%20%28World%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Michael%20Jackson%27s%20Moonwalker%20%28World%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Michael%20Jackson%27s%20Moonwalker%20%28World%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

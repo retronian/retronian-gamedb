@@ -62,5 +62,67 @@
     "wikidata": "Q2705639",
     "mobygames": 6132,
     "igdb": 3452
-  }
+  },
+  "roms": [
+    {
+      "name": "Baku Bomberman 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NBVJ",
+      "size": 16777216,
+      "crc32": "86bbc278",
+      "md5": "ca956015b6820dcff1c814f3532e18b1",
+      "sha1": "179cab7426755f14bd3f4999f3789eb6d7af64c4",
+      "sha256": "45c622c2e6d65ceb255c531b499c78d0e1880c32e9e9d7b804c617549f3da7cb"
+    },
+    {
+      "name": "Bomberman 64 - The Second Attack! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NBVE",
+      "size": 16777216,
+      "crc32": "57550007",
+      "md5": "aec1fdb0f1caad86c9f457989a4ce482",
+      "sha1": "66b1fd763793ecc6e03aa6c5d023df8de5351b9e",
+      "sha256": "96f641120471a1d5dab848dffdeeeeb7c4002333a06763ae20e14af72126efd8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Baku%20Bomberman%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Baku%20Bomberman%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Baku%20Bomberman%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bomberman%2064%20-%20The%20Second%20Attack%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bomberman%2064%20-%20The%20Second%20Attack%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bomberman%2064%20-%20The%20Second%20Attack%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

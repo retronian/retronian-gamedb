@@ -35,5 +35,45 @@
   "external_ids": {
     "wikidata": "Q67145841",
     "igdb": 50027
-  }
+  },
+  "roms": [
+    {
+      "name": "Lucky Luke - Desperado Train (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "ce7f108a",
+      "md5": "31770f7197ea4a7ff99cad7cef5c58b8",
+      "sha1": "857dda99bdb15c49918c633dbcb73bd96ef7bae9"
+    },
+    {
+      "name": "Lucky Luke - Desperado Train (Europe) (En,Fr,De,Es,It,Nl) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "b558c401",
+      "md5": "ba0d9c7eec69cee04a7ff4faf91f2c4b",
+      "sha1": "ab9b610f2858fec8bd4542731f6fbfd4b7faf9e1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Lucky%20Luke%20-%20Desperado%20Train%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Lucky%20Luke%20-%20Desperado%20Train%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Lucky%20Luke%20-%20Desperado%20Train%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -18,5 +18,65 @@
     "wikidata": "Q47473869",
     "mobygames": 84996,
     "igdb": 47887
-  }
+  },
+  "roms": [
+    {
+      "name": "Command and Destroy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YC5E",
+      "size": 8388608,
+      "crc32": "7885a10e",
+      "md5": "14e75d43b97995cf47dc92197f6bdf6c",
+      "sha1": "99d451daa2948d1b829fe64e1515c88ad5f12763"
+    },
+    {
+      "name": "Command and Destroy (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YC5P",
+      "size": 8388608,
+      "crc32": "0554f876",
+      "md5": "7d75861c423bb194eb3db4280ccb173f",
+      "sha1": "5dd1cfadf9acf1cf2669ef78fce3054e2fa9a02b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Command%20and%20Destroy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Command%20and%20Destroy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Command%20and%20Destroy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Command%20and%20Destroy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Command%20and%20Destroy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Command%20and%20Destroy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

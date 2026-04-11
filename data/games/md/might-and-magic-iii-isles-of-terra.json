@@ -53,5 +53,32 @@
   "external_ids": {
     "wikidata": "Q388247",
     "mobygames": 1621
-  }
+  },
+  "roms": [
+    {
+      "name": "Might and Magic III - Isles of Terra (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-XXXXX-XX",
+      "size": 2097152,
+      "crc32": "6ef7104a",
+      "md5": "aff745871eb8474342bfcad745449f64",
+      "sha1": "d366d05644eb59a14baf3c2e7281c1584630c021",
+      "sha256": "ac08551ecd4c037211fca98359efcfe7c0b048880e82a474d5c5fcd157e33592"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Might%20and%20Magic%20III%20-%20Isles%20of%20Terra%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Might%20and%20Magic%20III%20-%20Isles%20of%20Terra%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

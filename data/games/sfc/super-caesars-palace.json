@@ -46,12 +46,81 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Caesars Palace",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1993-10-21",
+  "first_release_date": "1993-01-01",
   "external_ids": {
     "wikidata": "Q7642230",
     "mobygames": 39464,
     "igdb": 9622
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Caesars Palace (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "a2381221",
+      "md5": "aa5d1ef421d8422132dc49e35e51af85",
+      "sha1": "c01b96a5b82addfdd731c6cbe39b6b9bcd7224c2",
+      "sha256": "d42f8c7969b4c434f9ca04ce0080d897877a5e71c2926d309ef5dae93ba25548"
+    },
+    {
+      "name": "Super Caesars Palace (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "88eb3131",
+      "md5": "ac7d8e7744d85a47330545a3b895e90c",
+      "sha1": "59fd2f572bffc890813cb554f04d7c3d4f68f811",
+      "sha256": "f0348507895898ae51d6077c488b14ba06cb527e144dc74d5cd18c673da70a4a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Caesars%20Palace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Caesars%20Palace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Caesars%20Palace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Caesars%20Palace%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Caesars%20Palace%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Caesars%20Palace%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

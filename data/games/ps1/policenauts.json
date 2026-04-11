@@ -63,5 +63,45 @@
     "wikidata": "Q2632560",
     "mobygames": 10538,
     "igdb": 4290
-  }
+  },
+  "roms": [
+    {
+      "name": "Policenauts (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "f743d9bb",
+      "md5": "287421022bdede802414b8ac3da97892",
+      "sha1": "cf1eb6268dfdb728df11e56909b72fdd1b69733b"
+    },
+    {
+      "name": "Policenauts (Japan) (Alt)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 947280864,
+      "crc32": "b77c7480",
+      "md5": "c5de437122ef7c1e93b8679c9d1f504e",
+      "sha1": "a9e33e054cd6f7a6239b03e35ce64780da546c28"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Policenauts%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Policenauts%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Policenauts%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

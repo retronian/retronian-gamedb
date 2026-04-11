@@ -63,5 +63,65 @@
     "wikidata": "Q2626892",
     "mobygames": 6197,
     "igdb": 307110
-  }
+  },
+  "roms": [
+    {
+      "name": "Krusty's Fun House (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 393232,
+      "crc32": "827c1b95",
+      "md5": "00ea86f4ea1852b0dfe45e1f1188984b",
+      "sha1": "f240de8e8e9d3c1e6fdc267df407e67c521ff130",
+      "sha256": "a757432af0e1ec7ccc8f5926935b87dfbb0b23b687579af5bbaa4f78834c8a49"
+    },
+    {
+      "name": "Krusty's Fun House (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "85f6abe6",
+      "md5": "0fcfe5d87068541182c996e52da45802",
+      "sha1": "cb8926a1dbab3a773ce23469119ebe176da2b4a6",
+      "sha256": "8ab14fdc8988c6c031e4a685317fb4c9e45b247767de440ac03d534b0672ce4b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Krusty%27s%20Fun%20House%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Krusty%27s%20Fun%20House%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Krusty%27s%20Fun%20House%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Krusty%27s%20Fun%20House%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Krusty%27s%20Fun%20House%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Krusty%27s%20Fun%20House%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

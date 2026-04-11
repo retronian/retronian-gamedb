@@ -27,5 +27,65 @@
     "wikidata": "Q2979079",
     "mobygames": 29830,
     "igdb": 5370
-  }
+  },
+  "roms": [
+    {
+      "name": "Cliffhanger (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "a9e67214",
+      "md5": "b60db127a0371e807a7270f1884600d0",
+      "sha1": "9a3b3ce5d05b0f3abb8e64bef46b49975486cfb9",
+      "sha256": "1ee967210f980b76b6c810a8b130049405183d20e4c308b17c7ef982912fc628"
+    },
+    {
+      "name": "Cliffhanger (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "12f8a26c",
+      "md5": "48001f4c765da0965cea9d9ab4d59a35",
+      "sha1": "5a494362063c61c3207d2bb49ee43766f9a4f00f",
+      "sha256": "e5980b990605a9c91fa89101c440b2ec9993329296ba09a9538042d724a080fb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Cliffhanger%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Cliffhanger%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Cliffhanger%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Cliffhanger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Cliffhanger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Cliffhanger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

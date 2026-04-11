@@ -90,5 +90,86 @@
     "wikidata": "Q2698563",
     "mobygames": 35590,
     "igdb": 1444
-  }
+  },
+  "roms": [
+    {
+      "name": "Fire Emblem - Shadow Dragon (USA) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "WUP-N-DANE",
+      "size": 67108864,
+      "crc32": "8d7aa9db",
+      "md5": "6a32b98b558927f1649300df13a3841a",
+      "sha1": "8052e50ddc92e5c11d4fd016db497fd330417ff8"
+    },
+    {
+      "name": "Fire Emblem - Shadow Dragon (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "WUP-N-DANP",
+      "size": 67108864,
+      "crc32": "bbe09c34",
+      "md5": "0afec0a3fe89bd939e51c663d1926bcb",
+      "sha1": "1d887d3836de0a1429e6ed91a5704559bb6c0114"
+    },
+    {
+      "name": "Fire Emblem - Shadow Dragon (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YFEP",
+      "size": 67108864,
+      "crc32": "bd78c09e",
+      "md5": "cded15b28cecf4e6211bb80eae309594",
+      "sha1": "27c7dc1c98fca4e0447948f893fbf4cee183c86c",
+      "sha256": "31781e6869abd116c84e1434ea3074b6570431f3add4326797ba96e49721314a"
+    },
+    {
+      "name": "Fire Emblem - Shadow Dragon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YFEE",
+      "size": 67108864,
+      "crc32": "fed8157c",
+      "md5": "3f2a22a9949df0f65e4b886089c2395b",
+      "sha1": "7b7b307ef819ac31a7b71aed2e8e47ff23c1765e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fire%20Emblem%20-%20Shadow%20Dragon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fire%20Emblem%20-%20Shadow%20Dragon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fire%20Emblem%20-%20Shadow%20Dragon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fire%20Emblem%20-%20Shadow%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fire%20Emblem%20-%20Shadow%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fire%20Emblem%20-%20Shadow%20Dragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

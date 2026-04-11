@@ -60,5 +60,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Bad News Baseball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "bc43373c",
+      "md5": "d8ca2b29417afe17da44f7d317a4a976",
+      "sha1": "66c397214a3cf1a2bf0df2faede1b76eee252f63",
+      "sha256": "9d408bcfcfea4327b72a0cd664d50ed774801f601ba34fde5e719bda2f62865b"
+    },
+    {
+      "name": "Gekitou Stadium!! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "b48cd237",
+      "md5": "61594fb47b78ab5a23559ae9ab48858a",
+      "sha1": "1d34705a74d20936c17cfce1dcbc869f6a390b5c",
+      "sha256": "581840bda7be5fce4484f9a112b9e250ac1f8d8412490926ee14821b5c30cc27"
+    },
+    {
+      "name": "Bad News Baseball (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "bceabdb3",
+      "md5": "500d0b406044e564f58ffc5d7efcfc7f",
+      "sha1": "720930aaf775c569c91efe69a0bc46eb9dd8cb27",
+      "sha256": "df37ff4c662546d0fee7df6ca8d8bf327e261854ffeca083f6b8613645d65cdf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bad%20News%20Baseball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bad%20News%20Baseball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bad%20News%20Baseball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gekitou%20Stadium%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gekitou%20Stadium%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gekitou%20Stadium%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

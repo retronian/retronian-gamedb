@@ -90,5 +90,135 @@
     "wikidata": "Q1071278",
     "mobygames": 5195,
     "igdb": 3471
-  }
+  },
+  "roms": [
+    {
+      "name": "Doom 64 (USA) (Beta) (1996-12-10)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 16777216,
+      "crc32": "68f7655e",
+      "md5": "31a8efffe1be68bb1186efa89d9c8896",
+      "sha1": "398c9c1fe34be41e47ab69c659fd093813692574",
+      "sha256": "4b3931c14d548fedf98fcd28681ec45695dec415d39fd4a6d58a877e1c6dd2a2"
+    },
+    {
+      "name": "Doom 64 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NDMP",
+      "size": 8388608,
+      "crc32": "d985c356",
+      "md5": "190ccca6526dc4a1f611e3b40f5131c0",
+      "sha1": "b63060f69bb4e1547da1d762e740d19393977055",
+      "sha256": "e8460f2fa7e55172a296a1e30354cbb868be924a454ff883d1a6601c66b9610f"
+    },
+    {
+      "name": "Doom 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NDMJ",
+      "size": 8388608,
+      "crc32": "c8f3af5b",
+      "md5": "06f15ef2228c1b1147c41dccaa07d9de",
+      "sha1": "6b0d65e62626a92aa59ee4bff3f02715f6247692",
+      "sha256": "19ad4130f8b259f24761d5c873e2ce468315cc5f7bce07e7f44db21241cef4a9"
+    },
+    {
+      "name": "Doom 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NDME",
+      "size": 8388608,
+      "crc32": "5cc1ade6",
+      "md5": "b67748b64a2cc7efd2f3ad4504561e0e",
+      "sha1": "799a588d73da3fcce8031026a8187da92b91c817",
+      "sha256": "d3404a7e8ca9d20ba034651932e67aa90c6c475c5f4738f222cd1e3056df935f"
+    },
+    {
+      "name": "Doom 64 (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NDME",
+      "size": 8388608,
+      "crc32": "1d3a17b5",
+      "md5": "1b1378bb9ee819f740550f566745af73",
+      "sha1": "6fb0ce9c75bbe54b6e1ede337652b0221e5f2aad",
+      "sha256": "c28eaac9a8a8cc1d30c1b50fbb04622c2ddeb9b14ddcecc6edbaad4a6d067f3f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Doom%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Doom%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Doom%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Doom%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Doom%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Doom%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Doom%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Doom%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Doom%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Doom%2064%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Doom%2064%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Doom%2064%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

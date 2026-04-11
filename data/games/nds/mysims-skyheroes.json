@@ -45,5 +45,54 @@
     "wikidata": "Q3331137",
     "mobygames": 80426,
     "igdb": 192926
-  }
+  },
+  "roms": [
+    {
+      "name": "MySims - SkyHeroes (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BFLP",
+      "size": 67108864,
+      "crc32": "4fb702ed",
+      "md5": "a7568ba983a4243765e4419fa7399733",
+      "sha1": "0b80b859f08aaff2f9ba25f4d1e89846dd7d24dd"
+    },
+    {
+      "name": "MySims - SkyHeroes (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BFLE",
+      "size": 67108864,
+      "crc32": "1ff9f3ca",
+      "md5": "85369cd9e9a3155a7976a5adbb9ebb34",
+      "sha1": "b7a2db866acbdd3ca2375feb1fb37e7ac929605f",
+      "sha256": "3c7f08db8c6a892018cb41ed1e4c72b6e72fc849ba3c8c043db17192828e8d26"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MySims%20-%20SkyHeroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MySims%20-%20SkyHeroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MySims%20-%20SkyHeroes%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MySims%20-%20SkyHeroes%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

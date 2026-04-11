@@ -71,5 +71,66 @@
     "wikidata": "Q913223",
     "mobygames": 841,
     "igdb": 705
-  }
+  },
+  "roms": [
+    {
+      "name": "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "N8IP",
+      "size": 12582912,
+      "crc32": "137cb3cc",
+      "md5": "26b18d35984528ae2f90adbb2f2642f7",
+      "sha1": "676b4d14ad74ccc92ee4b19aa9130ddce42e0e9c",
+      "sha256": "baee4f4a6b528eab242f09885c518af282fb02175c622812ecb82d58c79d8849"
+    },
+    {
+      "name": "FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "N8IE",
+      "size": 12582912,
+      "crc32": "28b1221c",
+      "md5": "2c6d146a8473511cfcfbbe8518f49d71",
+      "sha1": "148d6424d2135afefecde74092701c491027c23e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/FIFA%20-%20Road%20to%20World%20Cup%2098%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/FIFA%20-%20Road%20to%20World%20Cup%2098%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/FIFA%20-%20Road%20to%20World%20Cup%2098%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/FIFA%20-%20Road%20to%20World%20Cup%2098%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/FIFA%20-%20Road%20to%20World%20Cup%2098%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/FIFA%20-%20Road%20to%20World%20Cup%2098%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

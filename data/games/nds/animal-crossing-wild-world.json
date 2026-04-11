@@ -80,5 +80,126 @@
     "wikidata": "Q877501",
     "mobygames": 20448,
     "igdb": 2645
-  }
+  },
+  "roms": [
+    {
+      "name": "Animal Crossing - Wild World (USA) (Rev 1) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "WUP-N-DAYE",
+      "size": 33554432,
+      "crc32": "7e404fab",
+      "md5": "c196f060f8c7de732ee387da1a95363f",
+      "sha1": "a953f9f4fcdd30843e1ba28ee27d9b1648069ed9"
+    },
+    {
+      "name": "Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "WUP-N-DAYP",
+      "size": 67108864,
+      "crc32": "c60cbcef",
+      "md5": "63a77904bb57620b35ce7037f0eee77e",
+      "sha1": "496eb5d80047abb25b4afd0da8bb822b4c85b93e"
+    },
+    {
+      "name": "Animal Crossing - Wild World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ADME",
+      "size": 33554432,
+      "crc32": "f24508aa",
+      "md5": "8b69d0a78772a5d8df0fafd7b01169ab",
+      "sha1": "f1bef752b30dc158d55b48518c80840a7c4586af",
+      "sha256": "d9f101b4cfd714d78fe0554c2b5769fb0963a95d2bc7d42a9c3d951bea66440c"
+    },
+    {
+      "name": "Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ADMP",
+      "size": 67108864,
+      "crc32": "c677970c",
+      "md5": "9d0dda4ca7227c31bb31002342b8530e",
+      "sha1": "858da57a18852e75304e423519dde6a548d5264b",
+      "sha256": "658a6f35f1f6e4cb29faaf9d3c2d2b73664f3ae8a68c0c16435ae20c4d2ab240"
+    },
+    {
+      "name": "Animal Crossing - Wild World (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ADME",
+      "size": 33554432,
+      "crc32": "7e62f586",
+      "md5": "a5793ed9dde3a1918a2b91637d9baede",
+      "sha1": "77fde3e30e1e6068395d1f96ea63be569b61c351",
+      "sha256": "b2b7031f1d08dd0544952757a1ab2164501b16fae2a44b64954a03a76e31fb87"
+    },
+    {
+      "name": "Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A62P",
+      "size": 67108864,
+      "crc32": "0e58ed2c",
+      "md5": "f838c678516ea5fde76f0a0ac72f8bc9",
+      "sha1": "1dc4bcdb5c2c4c448788a26c0120546f6c633caa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Animal%20Crossing%20-%20Wild%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Animal%20Crossing%20-%20Wild%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Animal%20Crossing%20-%20Wild%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Animal%20Crossing%20-%20Wild%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Animal%20Crossing%20-%20Wild%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Animal%20Crossing%20-%20Wild%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Animal%20Crossing%20-%20Wild%20World%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Animal%20Crossing%20-%20Wild%20World%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Animal%20Crossing%20-%20Wild%20World%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

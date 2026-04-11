@@ -53,5 +53,64 @@
     "wikidata": "Q130342866",
     "mobygames": 41075,
     "igdb": 118720
-  }
+  },
+  "roms": [
+    {
+      "name": "All Star Boxing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 61718880,
+      "crc32": "52f11ba5",
+      "md5": "285f0c64f5d5654cb20703e0c1233d42",
+      "sha1": "2e32711f39fcaec0b11d5a125c57b8514b22b574"
+    },
+    {
+      "name": "Boxing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 61587856,
+      "crc32": "90b2182a",
+      "md5": "07a6e724a6c40322e13bbfcfbc62797b",
+      "sha1": "1dc5c491f8928d964b1ff24930307e8bf2194f38",
+      "sha256": "02d4e87e8d47f036e138e5f7b90e1892255f329ed8cb5a6ba6d559664cd28d23"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/All%20Star%20Boxing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/All%20Star%20Boxing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/All%20Star%20Boxing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

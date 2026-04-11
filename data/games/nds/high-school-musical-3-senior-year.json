@@ -36,5 +36,54 @@
     "wikidata": "Q3283063",
     "mobygames": 37154,
     "igdb": 4912
-  }
+  },
+  "roms": [
+    {
+      "name": "High School Musical 3 - Senior Year (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CHME",
+      "size": 67108864,
+      "crc32": "a77ddba2",
+      "md5": "43ed3f1c969f0e7bd9d33f274ffb520d",
+      "sha1": "39364e212102dc0269a9d2429033ee24418948a9"
+    },
+    {
+      "name": "High School Musical 3 - Senior Year (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CHMP",
+      "size": 67108864,
+      "crc32": "fc7d896e",
+      "md5": "3dc7ab1b1a2414295db84062fd2be229",
+      "sha1": "d1e99c3a1a2dd51c7d722175bf3075ab5b16860d",
+      "sha256": "e5677d3ba74e520cd06978823a529aa6436bba55b6a0307280e93c7b100e500d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/High%20School%20Musical%203%20-%20Senior%20Year%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/High%20School%20Musical%203%20-%20Senior%20Year%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/High%20School%20Musical%203%20-%20Senior%20Year%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/High%20School%20Musical%203%20-%20Senior%20Year%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -56,6 +56,51 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Code Lyoko: Fall of X.A.N.A.",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "至NET奇兵：山拿的末日",
+      "lang": "zh",
+      "script": "Hans",
+      "region": "cn",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Code Lyoko: Fall of XANA",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Code Lyoko : X.A.N.A. Destruction finale",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Code Lyoko: Fall of X.A.N.A.",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2007-05-15",
@@ -63,5 +108,133 @@
     "wikidata": "Q1003177",
     "mobygames": 29504,
     "igdb": 8454
-  }
+  },
+  "roms": [
+    {
+      "name": "Code Lyoko (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AL5E",
+      "size": 67108864,
+      "crc32": "a3cb63b9",
+      "md5": "5aa309423707df9f90fd014b5341751a",
+      "sha1": "b9c6d1649d0a5e920a400142d8621c0f3c57b9e7"
+    },
+    {
+      "name": "Code Lyoko (Europe) (En,Fr,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AL5P",
+      "size": 67108864,
+      "crc32": "fe54e1e5",
+      "md5": "1cbaecfd10c7452dbf889632db08c543",
+      "sha1": "bf1f55dc1eedccc7f825e1dcdc8c7660bcc863ea"
+    },
+    {
+      "name": "Code Lyoko - Fall of X.A.N.A. (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CLFE",
+      "size": 33554432,
+      "crc32": "f4208aba",
+      "md5": "fe1befd0cdff726ed19ce4d11db32450",
+      "sha1": "2e8532ee6fbde2cc93a63f7731a6c52cba5288d1"
+    },
+    {
+      "name": "Code Lyoko - Fall of X.A.N.A. (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CLFP",
+      "size": 33554432,
+      "crc32": "90c6cdb8",
+      "md5": "6e7011494c2264e83153f1f22440fabd",
+      "sha1": "7bb55bd02ed3a650a86cec33cf8dff6e80caf0e9",
+      "sha256": "36465e9da7e001f8769f56822773aed22a3ecc037afec4c90cc6effeef8a4a13"
+    },
+    {
+      "name": "Code Lyoko - Fall of X.A.N.A. (USA) (En,Fr) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CLFE",
+      "size": 33554432,
+      "crc32": "4547c128",
+      "md5": "e8dbb67acd9bb94700b21478ab5df228",
+      "sha1": "a4a819a47cd8574a7d7a10a8d4ab19277157971b",
+      "sha256": "2e6513cb5164c69f4955fa3f329552843fe3a65e09fe99d36b3b813fed738cbc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Code%20Lyoko%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Code%20Lyoko%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Code%20Lyoko%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Code%20Lyoko%20-%20Fall%20of%20X.A.N.A.%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Code%20Lyoko%20-%20Fall%20of%20X.A.N.A.%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Code%20Lyoko%20-%20Fall%20of%20X.A.N.A.%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Code%20Lyoko%20-%20Fall%20of%20X.A.N.A.%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Code%20Lyoko%20-%20Fall%20of%20X.A.N.A.%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Code%20Lyoko%20-%20Fall%20of%20X.A.N.A.%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

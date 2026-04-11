@@ -62,5 +62,55 @@
   "external_ids": {
     "wikidata": "Q2379922",
     "igdb": 288102
-  }
+  },
+  "roms": [
+    {
+      "name": "Zanac (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "b6a21f1e",
+      "md5": "e110005398a060e940e28815c2e42941",
+      "sha1": "e960ef2315135abf430fcc80ad9fd24a20e38f16",
+      "sha256": "6c2712647738612b6b0e75599469ff6b6218b87f0915ec64d6993770492a35f3"
+    },
+    {
+      "name": "Zanac (Asia) (En) (Whirlwind Manu) (Pirate)",
+      "source": "no_intro",
+      "size": 49168,
+      "crc32": "2650c5eb",
+      "md5": "8a8f60493ec274fc8de77c252b97d368",
+      "sha1": "eb53ed5f08304ff06dcb7fbacff0ffdf364d0f26",
+      "sha256": "a1c05ff59a9033ca66828c2d3e8bec47ca8e02b3d8f90bd6e017b1d99fbc9708"
+    },
+    {
+      "name": "Zanac (Asia) (En) (Kaiser) (Pirate)",
+      "source": "no_intro",
+      "size": 65552,
+      "crc32": "93d72698",
+      "md5": "eec5d50e6e5ec5d67f99fd708dc190e8",
+      "sha1": "c42c901ca04ef1a8a321d81d230dafe415efd86c",
+      "sha256": "0755e229c0b6964ee15e3ac3728a0d6e6cbaaf0a150db7f3e3d02438f292a7fc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Zanac%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Zanac%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Zanac%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

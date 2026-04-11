@@ -53,5 +53,48 @@
     "wikidata": "Q3064641",
     "mobygames": 34321,
     "igdb": 20770
-  }
+  },
+  "roms": [
+    {
+      "name": "Magic Taizen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AJQJ",
+      "size": 33554432,
+      "crc32": "41d3f077",
+      "md5": "9cc7f72853b1c7520923c270fb3395e8",
+      "sha1": "acb9cb2c41687e502ba33d00397e0933ad1f45d2"
+    },
+    {
+      "name": "Master of Illusion (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AJQE",
+      "size": 16777216,
+      "crc32": "35aa534a",
+      "md5": "713b2417274d4a20212a8b746adfe447",
+      "sha1": "cfb576d981e60eb35c8ac94b43d42a8dcb779029",
+      "sha256": "43b938f3fa1e348b4219e61066425e38ad3f390ddd89c51bea01f2a84a4b1993"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Magic%20Taizen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Magic%20Taizen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Magic%20Taizen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

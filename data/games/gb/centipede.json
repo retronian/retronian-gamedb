@@ -72,5 +72,65 @@
     "wikidata": "Q1053648",
     "mobygames": 141,
     "igdb": 151643
-  }
+  },
+  "roms": [
+    {
+      "name": "Centipede (USA) (Majesco)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "e957014f",
+      "md5": "9c3aff83a957d13e393f99cff8445271",
+      "sha1": "a3a5755020c9cbe13fc1a815288830d2e143367f",
+      "sha256": "2f83ab433323f4d08f111ace559a7e29d37ff33fe1ca9d726edd5bb98a854ec2"
+    },
+    {
+      "name": "Centipede (USA, Europe) (Accolade)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "245afcdc",
+      "md5": "2f1f67663193e3107e028e570a7ccd86",
+      "sha1": "0106c3dc8016398e9d24e2472c867487c3bd376f",
+      "sha256": "c49c7a57c8aeec50f7ca3b736738921657ec0fdd50313fd975cced132490ee30"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Centipede%20%28USA%29%20%28Majesco%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Centipede%20%28USA%29%20%28Majesco%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Centipede%20%28USA%29%20%28Majesco%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Centipede%20%28USA%2C%20Europe%29%20%28Accolade%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Centipede%20%28USA%2C%20Europe%29%20%28Accolade%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Centipede%20%28USA%2C%20Europe%29%20%28Accolade%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

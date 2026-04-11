@@ -45,5 +45,44 @@
     "wikidata": "Q2112232",
     "mobygames": 7151,
     "igdb": 4387
-  }
+  },
+  "roms": [
+    {
+      "name": "Judge Dredd (World) (Beta)",
+      "source": "no_intro",
+      "serial": "XXXXXXXX-XX",
+      "size": 2097152,
+      "crc32": "8d46f4da",
+      "md5": "e99630f4ff63cca1ad99e278e4c8fc75",
+      "sha1": "84bb0ee7c42612abfd41c5676e7ecb1b828ee42a",
+      "sha256": "8c2bcf8b9b69af8025693cdb79dad2c4d381aec995a524a47c9826782305bcfb"
+    },
+    {
+      "name": "Judge Dredd (World)",
+      "source": "no_intro",
+      "serial": "T-81306-00",
+      "size": 2097152,
+      "crc32": "ea342ed8",
+      "md5": "2ef10c0e326f830d9f1fd61de928f958",
+      "sha1": "6553b4eabcba9d2823cbffd08554408a9f1067c9",
+      "sha256": "4ee4e4fb3ca15c1fd5a156f06b64136078948d5a53533f3a9f09a06f4e02ed02"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Judge%20Dredd%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Judge%20Dredd%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Judge%20Dredd%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

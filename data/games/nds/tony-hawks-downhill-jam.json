@@ -36,5 +36,54 @@
     "wikidata": "Q1565986",
     "mobygames": 26215,
     "igdb": 210449
-  }
+  },
+  "roms": [
+    {
+      "name": "Tony Hawk's Downhill Jam (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWKE",
+      "size": 67108864,
+      "crc32": "87ac1669",
+      "md5": "9b3a82a303d9779b56a56f4a0269d4b2",
+      "sha1": "956822282e2eb576d4ee12883fe936dc20ddeb0b"
+    },
+    {
+      "name": "Tony Hawk's Downhill Jam (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWKP",
+      "size": 67108864,
+      "crc32": "ed75b040",
+      "md5": "106d6797ff008202674ec7ed817ddd4d",
+      "sha1": "a60da5b8b7504505483732640b38a76f928b8c91",
+      "sha256": "aec366be860fabd546ad25660d2aedde3db7fa5e3fb6b5aa77206797dc248351"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tony%20Hawk%27s%20Downhill%20Jam%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tony%20Hawk%27s%20Downhill%20Jam%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tony%20Hawk%27s%20Downhill%20Jam%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tony%20Hawk%27s%20Downhill%20Jam%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

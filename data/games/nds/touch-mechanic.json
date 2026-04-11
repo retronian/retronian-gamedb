@@ -17,5 +17,50 @@
   "external_ids": {
     "wikidata": "Q92562733",
     "igdb": 21188
-  }
+  },
+  "roms": [
+    {
+      "name": "Touch Mechanic (France)",
+      "source": "no_intro",
+      "serial": "YYWF",
+      "size": 33554432,
+      "crc32": "e7c1157b",
+      "md5": "59a49470e6eec9d3259f781d9cd318ec",
+      "sha1": "b7cdfa4ced2b666d4fe43e7c7f139bbb982735a6"
+    },
+    {
+      "name": "Touch Mechanic (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YYWE",
+      "size": 33554432,
+      "crc32": "0866f16b",
+      "md5": "e6d786f61a5ae678c8de0c8f8d15f452",
+      "sha1": "8507f71b08f50db040f7d2d5930b37d4e5160c93"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Touch%20Mechanic%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Touch%20Mechanic%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Touch%20Mechanic%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Touch%20Mechanic%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

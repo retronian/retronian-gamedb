@@ -107,5 +107,155 @@
     "wikidata": "Q1141963",
     "mobygames": 3536,
     "igdb": 2591
-  }
+  },
+  "roms": [
+    {
+      "name": "Lylat Wars (Australia) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "au",
+      "serial": "NFXU",
+      "size": 12582912,
+      "crc32": "9a3425da",
+      "md5": "7a99628edf0a6602d0c408f31b701435",
+      "sha1": "47a8ccc11450f9044ca2292b9fc3c58949b9caac"
+    },
+    {
+      "name": "Star Fox 64 (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 12582912,
+      "crc32": "637a422d",
+      "md5": "4193b28348f4c294dfb07510e9ebd76b",
+      "sha1": "1b759465439297fbbe21c19df0924d8e75b1aa5a"
+    },
+    {
+      "name": "Star Fox 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NFXJ",
+      "size": 12582912,
+      "crc32": "411142a7",
+      "md5": "446d5215c4d34eb8ab0f355f324b8d0e",
+      "sha1": "9bd71afbecf4d0a43146e4e7a893395e19bf3220",
+      "sha256": "438d5a25aafe7d0b2e490b9a87183ca3f00d2d7ddce6b3a5784c7bdc0cffc7bd"
+    },
+    {
+      "name": "Star Fox 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NFXE",
+      "size": 12582912,
+      "crc32": "b1fcaa9c",
+      "md5": "caf9a78db13ee00002ff63a3c0c5eabb",
+      "sha1": "d8b1088520f7c5f81433292a9258c1184afa1457",
+      "sha256": "a8d31134f6d2658fb7bdce5e8f8e74ab70cfcbed73ada22d680225915cb0fe22"
+    },
+    {
+      "name": "Star Fox 64 (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NFXE",
+      "size": 12582912,
+      "crc32": "b1b5fc46",
+      "md5": "741a94eee093c4c8684e66b89f8685e8",
+      "sha1": "09f0d105f476b00efa5303a3ebc42e60a7753b7a",
+      "sha256": "385bcf1901ed12fb1152f3c227d1968cc54ae41e8566da66695df71af40a573f"
+    },
+    {
+      "name": "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NFXJ",
+      "size": 12582912,
+      "crc32": "6508d4ad",
+      "md5": "91fc4c63ca613530df22c8bb810cb2c3",
+      "sha1": "a39f14f0d1224095717fabc021023203cb7561d5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Lylat%20Wars%20%28Australia%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Lylat%20Wars%20%28Australia%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Lylat%20Wars%20%28Australia%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Fox%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Star%20Fox%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Star%20Fox%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Fox%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Star%20Fox%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Star%20Fox%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Fox%2064%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Star%20Fox%2064%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Star%20Fox%2064%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Fox%2064%20%28Japan%29%20%28Rev%201%29%20%28Wii%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Star%20Fox%2064%20%28Japan%29%20%28Rev%201%29%20%28Wii%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

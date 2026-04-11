@@ -114,5 +114,77 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Donkey Kong 2001 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "cb065eba",
+      "md5": "ef2a181785cc591ac53e960c68e14216",
+      "sha1": "5be5500d9ff9c4416df77816ebd21cca7a0b19de",
+      "sha256": "cdaf66ce7b40a6b3e7c0986b1f09df88c006d4c566fe2b3ebe0caf1f35e9015e"
+    },
+    {
+      "name": "Donkey Kong Country (USA) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDYE",
+      "size": 4194304,
+      "crc32": "080605a3",
+      "md5": "56dd4b3626e8948fcc64d0fa4c3e6edd",
+      "sha1": "38fedd71736d258e31d3062864d28449e7c3f1c5",
+      "sha256": "52fd6ee3406a3bdd1ffdd8f2eeaa06d3005cdc9f9caa71aba11fe46b89327bf1"
+    },
+    {
+      "name": "Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDDE",
+      "size": 4194304,
+      "crc32": "b1743477",
+      "md5": "dc94079146ee90d7dd7d72280a3faad5",
+      "sha1": "32522dfce902d564e69348541348afc054307f65",
+      "sha256": "e22324dfd7884a593d265bc3776af6d06c9cf049a060ac7d05613c5303672fca"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Donkey%20Kong%202001%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Donkey%20Kong%202001%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Donkey%20Kong%202001%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Donkey%20Kong%20Country%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Donkey%20Kong%20Country%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Donkey%20Kong%20Country%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

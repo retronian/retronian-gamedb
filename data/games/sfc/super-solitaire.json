@@ -27,5 +27,65 @@
     "wikidata": "Q7642789",
     "mobygames": 32615,
     "igdb": 42450
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Solitaire (Europe) (En,Fr,De,Es,It) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "933228f3",
+      "md5": "0edf50a2fc6957b29291030b002762c3",
+      "sha1": "d653fa6ddc880cce73fdee588214bfbedc32d83e",
+      "sha256": "f7b5fe7623f007c7d90c4ea9abde5206a30622eb4f1a374abc862bae98f8ab73"
+    },
+    {
+      "name": "Super Solitaire (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "c8e80d55",
+      "md5": "2810c6f1191e23ed158ae4237d0519fe",
+      "sha1": "0e59eca683a35e61c6182936c45701573f88f355",
+      "sha256": "5985cdad45958a5b8c5967ad39efe51569f560bf237a4e9864f21111082a8500"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Solitaire%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Solitaire%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Solitaire%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Solitaire%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Solitaire%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Solitaire%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -63,5 +63,65 @@
     "wikidata": "Q588526",
     "mobygames": 16377,
     "igdb": 6929
-  }
+  },
+  "roms": [
+    {
+      "name": "Splatterhouse (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "6b319457",
+      "md5": "ea2eaf7aa11a639d13a6119dd3c3f6dc",
+      "sha1": "b0bdbb7729d775496581dc3141c4447614aaac46",
+      "sha256": "c9abb31a87c8ca7a8ab7ab9d3fa144c77d655da1a80feb4a0fd78183802af75e"
+    },
+    {
+      "name": "Splatterhouse (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "d00ca74f",
+      "md5": "f6690ec0f440ced641718d6bc52e3fbd",
+      "sha1": "e2167b5d67a065ec97763d3ee843ac2b2328c082",
+      "sha256": "a9424ca8a5b6b9e559575841779ab1ef57121837e085c7544d7fb6a026da2c7a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Splatterhouse%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Splatterhouse%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Splatterhouse%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Splatterhouse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Splatterhouse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Splatterhouse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

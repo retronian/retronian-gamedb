@@ -63,5 +63,89 @@
     "wikidata": "Q2742954",
     "mobygames": 8314,
     "igdb": 27062
-  }
+  },
+  "roms": [
+    {
+      "name": "EA Hockey (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-50236-00",
+      "size": 524288,
+      "crc32": "9dcdc894",
+      "md5": "48b3ed36d0966f9acc290524527887f0",
+      "sha1": "40166e9c2b40f35ba7d7cf5d07865c824c323757",
+      "sha256": "8043c258b153784fc7384249aaa6fd89371601d6df259477bb4f5d3f9a67fabf"
+    },
+    {
+      "name": "EA Hockey (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-50236-50",
+      "size": 524288,
+      "crc32": "9bfc279c",
+      "md5": "000b06c7cba4588c3cea15d6a9fc6478",
+      "sha1": "118419e596bf07047a18d1828290019fbc4afc45",
+      "sha256": "0a9781674418d24c33e13ef3a3bc65be2c5c247b5272ce9db8e7168aa97efc59"
+    },
+    {
+      "name": "NHL Hockey (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50236-00",
+      "size": 524288,
+      "crc32": "2641653f",
+      "md5": "1eb65c531d702935d7d70e070ad2df18",
+      "sha1": "2337ad3c065f46edccf19007d7a5be80a97520d5",
+      "sha256": "6ca62e176425cf27ed4b4b0dcfe0a8813fe994120c88ca803fc8be061e0505ba"
+    },
+    {
+      "name": "NHL Hockey (USA) (Rev 1) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50236-00",
+      "size": 523942,
+      "crc32": "010d8735",
+      "md5": "7edad7ed16cdda15ed02047b6791bdbd",
+      "sha1": "cfaf9e405ff76727358a34e8e524d644f1b7d1d7",
+      "sha256": "9d8795515284cb2ccd8813b84534414cae46eedeac506d8fa715743df87676ef"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/EA%20Hockey%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/EA%20Hockey%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/EA%20Hockey%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/NHL%20Hockey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/NHL%20Hockey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/NHL%20Hockey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

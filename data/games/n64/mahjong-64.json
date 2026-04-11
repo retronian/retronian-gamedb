@@ -26,5 +26,37 @@
   "external_ids": {
     "wikidata": "Q3277746",
     "igdb": 44036
-  }
+  },
+  "roms": [
+    {
+      "name": "Mahjong 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NMJJ",
+      "size": 8388608,
+      "crc32": "dbe7d51a",
+      "md5": "8ae2e8f0c356fee638c8d908dcbb3381",
+      "sha1": "41c73c372ff316322593b791d09934b37c461f9f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mahjong%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mahjong%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mahjong%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

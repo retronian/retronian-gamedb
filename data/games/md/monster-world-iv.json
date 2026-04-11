@@ -90,5 +90,77 @@
     "wikidata": "Q2745596",
     "mobygames": 8900,
     "igdb": 18282
-  }
+  },
+  "roms": [
+    {
+      "name": "Monster World IV (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-5519-00",
+      "size": 2097152,
+      "crc32": "36a3aaa4",
+      "md5": "4bbdae4e4c1e0ae2de3c49dc34f61d5c",
+      "sha1": "46ba5e8775a2223fe5056f54555d9caa7d04f4e1",
+      "sha256": "3796f407ae0bf3b74bbe53335adf57f295f0bf53ef7d82b603ac73350eac8cae"
+    },
+    {
+      "name": "Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini)",
+      "source": "no_intro",
+      "serial": "G-9999-00",
+      "size": 2097152,
+      "crc32": "d26a32b6",
+      "md5": "cf4f52d57063cd381977bc02d757737f",
+      "sha1": "7896311b5ccb3cef49d73a0a91f5b4566d6cc92d",
+      "sha256": "4a6957d54c6a7175ed3261431fac421ad0026a79fc904885ce9d117ed967d8ec"
+    },
+    {
+      "name": "Monster World IV (USA, Europe) (En,Ja) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "G-9999-00",
+      "size": 2097152,
+      "crc32": "af050c46",
+      "md5": "2640c0b879dd52db3e328c14c36095f0",
+      "sha1": "6c90e14b6dd1ce6fc33f74dc624edc2e00fc5038",
+      "sha256": "6ed8588492f963015ba173cd4fc0cb6a2680bb6374fd930fcad757605dcfd70d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Monster%20World%20IV%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Monster%20World%20IV%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Monster%20World%20IV%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Monster%20World%20IV%20%28USA%2C%20Europe%29%20%28En%2CJa%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Monster%20World%20IV%20%28USA%2C%20Europe%29%20%28En%2CJa%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Monster%20World%20IV%20%28USA%2C%20Europe%29%20%28En%2CJa%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

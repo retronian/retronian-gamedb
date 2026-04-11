@@ -36,5 +36,53 @@
     "wikidata": "Q6720312",
     "mobygames": 34355,
     "igdb": 248554
-  }
+  },
+  "roms": [
+    {
+      "name": "MX vs. ATV Untamed (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YATP",
+      "size": 16777216,
+      "crc32": "7a88a740",
+      "md5": "8e1237e472dbda800b14909007d77c55",
+      "sha1": "f50f4854a3beb720b0ef78c2b4aa4026a281348b"
+    },
+    {
+      "name": "MX vs. ATV Untamed (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YATE",
+      "size": 16777216,
+      "crc32": "43ff71d8",
+      "md5": "3e829ffb74f840e0f00740ccd864e80b",
+      "sha1": "23a8d69e1217dd16ba92703107e7b1b34a00bf28"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MX%20vs.%20ATV%20Untamed%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MX%20vs.%20ATV%20Untamed%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MX%20vs.%20ATV%20Untamed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MX%20vs.%20ATV%20Untamed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -27,5 +27,65 @@
     "wikidata": "Q4041647",
     "mobygames": 33666,
     "igdb": 48154
-  }
+  },
+  "roms": [
+    {
+      "name": "Isolated Warrior (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "34ee7cda",
+      "md5": "cdc18431a04b473c4cdadbf9c4fd187a",
+      "sha1": "e9a1fd8534e72c18738ea1ca7a0507edc0a445b6",
+      "sha256": "f01fb570f6c7203ee7bf0b53ff15cafb3f5f73764a80daf651474ceb52843407"
+    },
+    {
+      "name": "Isolated Warrior (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "d2fd4220",
+      "md5": "0b8cee97f6fd1e49900088cf7b0f4454",
+      "sha1": "bc8c3e0cc9e85397fe1bfb16e0864a361335e6c4",
+      "sha256": "63586169116820193022ac726e5105d66b3ffd4c3374889728b37e9390b458f6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Isolated%20Warrior%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Isolated%20Warrior%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Isolated%20Warrior%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Isolated%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Isolated%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Isolated%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

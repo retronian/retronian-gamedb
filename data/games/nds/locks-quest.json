@@ -63,5 +63,98 @@
     "wikidata": "Q6665189",
     "mobygames": 36184,
     "igdb": 18264
-  }
+  },
+  "roms": [
+    {
+      "name": "Lock's Quest (Europe) (En,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CSPX",
+      "size": 33554432,
+      "crc32": "a52b46c5",
+      "md5": "6dccddb6cc2de476e74c2d19220e20a1",
+      "sha1": "64f249b141ab4d0685ccf7f546e023a7ac351dbf"
+    },
+    {
+      "name": "Lock's Quest (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CSPE",
+      "size": 33554432,
+      "crc32": "907a84be",
+      "md5": "b61ca33aebf725a61d43486aad8cfa91",
+      "sha1": "e1e41fd8f2a9f9ad9e01cd50108f8e6276a87e6f"
+    },
+    {
+      "name": "Lock's Quest (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CSPP",
+      "size": 33554432,
+      "crc32": "e9e10b64",
+      "md5": "01af2f40324d4d82c139b7445785981a",
+      "sha1": "0a05be1fc7ecfb5248cd53a04f0d5e88da7cbf49",
+      "sha256": "e14a3718f7adbcd86495f29d2d5f9219c7d3798b3f690e7be55ea943691b53f2"
+    },
+    {
+      "name": "Lock's Quest (USA) (En,Fr) (Beta) (REV1852)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CSPE",
+      "size": 33554432,
+      "crc32": "ba009491",
+      "md5": "22306e4baeba3d432fb55d03f51256c2",
+      "sha1": "623a0341a4ecc6652d9dd060208090131dd31500",
+      "sha256": "71eef73f1c0dd2ac1ed81618f2f9a628d8e4b976ff7be3dd5e15363210a2eb8d"
+    },
+    {
+      "name": "Lock's Quest (USA) (Beta) (REV2751)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CSPE",
+      "size": 33554432,
+      "crc32": "48820a74",
+      "md5": "a1aabd553d92ec8c23b30035b2f4cd2d",
+      "sha1": "4db7fc7d768c3ad163b0c280e8069e00c432fb9a",
+      "sha256": "002980ce24b94a3d40773391b43115253a6e4204053e667d3253a05a160b3cc4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Lock%27s%20Quest%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Lock%27s%20Quest%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Lock%27s%20Quest%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Lock%27s%20Quest%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Lock%27s%20Quest%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Lock%27s%20Quest%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

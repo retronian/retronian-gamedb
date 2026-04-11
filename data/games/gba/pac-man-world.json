@@ -72,5 +72,67 @@
     "wikidata": "Q2569791",
     "mobygames": 146186,
     "igdb": 84190
-  }
+  },
+  "roms": [
+    {
+      "name": "Pac-Man World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPAE",
+      "size": 8388608,
+      "crc32": "b2a4fc78",
+      "md5": "3eda36856917a9ab80b9bb7a930be834",
+      "sha1": "7e9f23753c10494a3f0bbdf0905f3c7ac052b1b3",
+      "sha256": "8e649948f5e4d78a5fa276be1db4b72820c0e06ae5a28a87757c6071b2e4074f"
+    },
+    {
+      "name": "Pac-Man World (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BPAP",
+      "size": 8388608,
+      "crc32": "1f92814e",
+      "md5": "83511ed734d5bf842b9062ebc574a434",
+      "sha1": "f6d4b1b9e7baf758888fa5958914a82b4a8ef4bf",
+      "sha256": "61691915c322894f81e4cb48600a9d8c305feae64ebbbbbe79dc8f0503a58928"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pac-Man%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pac-Man%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pac-Man%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pac-Man%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pac-Man%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pac-Man%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

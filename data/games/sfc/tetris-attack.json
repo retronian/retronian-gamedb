@@ -81,5 +81,65 @@
     "wikidata": "Q2316943",
     "mobygames": 6024,
     "igdb": 2739
-  }
+  },
+  "roms": [
+    {
+      "name": "Tetris Attack (Europe) (En,Ja)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "7417e83b",
+      "md5": "90854fcf608034c654745ae24411ef7a",
+      "sha1": "08e01f9ad5b6148e1a4355c80e2b23d8b2463443",
+      "sha256": "c7016c8f9ce8e64a21efa64245e1fc34e84799d5f5f85d2157430c7847acf304"
+    },
+    {
+      "name": "Tetris Attack (USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "6c128210",
+      "md5": "44bb94606356f1c0965e12bbc50866b3",
+      "sha1": "2dc56eab3e70c0910ae47119d8b69f494e6000df",
+      "sha256": "579bf1a1988d4af06a69cc1d82a2478ebe51940c5ced7f97e83029a24e6aa778"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%20Attack%20%28Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tetris%20Attack%20%28Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%20Attack%20%28Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%20Attack%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tetris%20Attack%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%20Attack%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

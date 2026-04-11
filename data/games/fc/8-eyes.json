@@ -53,5 +53,84 @@
   "external_ids": {
     "wikidata": "Q2679211",
     "mobygames": 10041
-  }
+  },
+  "roms": [
+    {
+      "name": "8 Eyes (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "436cd34b",
+      "md5": "f0629c17b2de7ab1d5f0c434f0588c7e",
+      "sha1": "a6e7be3bff296d0028597cba0510ef9690b3cab6",
+      "sha256": "1dafe2652523b8fcd37905da701dcf05f7bc36f466b33da1a2e13bff958d87d9"
+    },
+    {
+      "name": "8 Eyes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "89d3518c",
+      "md5": "ada436501f575fb9b4e0651bc54031e2",
+      "sha1": "5ebc28b21fd57f54bf3f663aaa2b6f170a790184",
+      "sha256": "758258b780b75ee9bc69baa4aaaf7e8b468c5f248075eaf2c38361465e57d93c"
+    },
+    {
+      "name": "8 Eyes (World) (Digital)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "a1c16875",
+      "md5": "c5e44397eb2fc0af2d3328feadddd1d8",
+      "sha1": "d03a234d07a6ef37b6d730892e7307fb2a2628cb",
+      "sha256": "750f2f309384058fc27ee800e7abbb4a09b191164af0b92c21f02fd39ce8773b"
+    },
+    {
+      "name": "8 Eyes (USA, Europe) (Pixel Heart)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "22c0543e",
+      "md5": "0dba1ce777105583dbe5174700478952",
+      "sha1": "4537b90468df4e992753a11e1c4030e17e6cb169",
+      "sha256": "40e0f9d259804661d56a8523c2b66e965dcf5e2d54952fa7f25374e8164aa434"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/8%20Eyes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/8%20Eyes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/8%20Eyes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/8%20Eyes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/8%20Eyes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/8%20Eyes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

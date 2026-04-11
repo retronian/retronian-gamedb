@@ -90,5 +90,65 @@
     "wikidata": "Q1052386",
     "mobygames": 1547,
     "igdb": 144422
-  }
+  },
+  "roms": [
+    {
+      "name": "Lost Vikings, The (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ALVP",
+      "size": 4194304,
+      "crc32": "1c008d32",
+      "md5": "092721060c0261c13de6ade3e8c87854",
+      "sha1": "3c48005f1ea64cefa0b165793c537ca68507c572"
+    },
+    {
+      "name": "Lost Vikings, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ALVE",
+      "size": 4194304,
+      "crc32": "8cb58997",
+      "md5": "36c04fe38ba46cff285b060907db94f6",
+      "sha1": "670affd3e3cf3f80f939517421ed7927c0c14310"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Lost%20Vikings%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Lost%20Vikings%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Lost%20Vikings%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Lost%20Vikings%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Lost%20Vikings%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Lost%20Vikings%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -35,5 +35,95 @@
     "wikidata": "Q3016256",
     "mobygames": 1161,
     "igdb": 3468
-  }
+  },
+  "roms": [
+    {
+      "name": "Dark Rift (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NDKP",
+      "size": 8388608,
+      "crc32": "d2a19c71",
+      "md5": "4242fde5b74f22aaf5746459e126121f",
+      "sha1": "18b02fc18411acd770bf3f25b2707669dac2ec5d",
+      "sha256": "3c528bd0671c72d1a65ae022617b481d1b7bdfad1109f5fa3c300290e3f7cd35"
+    },
+    {
+      "name": "Dark Rift (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NDKE",
+      "size": 8388608,
+      "crc32": "83fd222f",
+      "md5": "ecb170ebbfda0e932c07524040bcc36c",
+      "sha1": "3254442626ca2f2ac74400dc1c6a306f5d1b6ceb",
+      "sha256": "e9eca077b22369b958dbde8d1a540ad77516d8e0a8e14e4bd982007d291dbae2"
+    },
+    {
+      "name": "Space Dynamites (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NDKJ",
+      "size": 8388608,
+      "crc32": "8cb4b948",
+      "md5": "7f9cdbbb1aaaaf0983c64988ef9c58be",
+      "sha1": "def172a1b2d17a6ebbbc0551172de4ae46b88e48"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Dark%20Rift%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Dark%20Rift%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Dark%20Rift%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Dark%20Rift%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Dark%20Rift%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Dark%20Rift%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Space%20Dynamites%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Space%20Dynamites%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Space%20Dynamites%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

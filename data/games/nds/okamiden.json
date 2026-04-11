@@ -107,5 +107,54 @@
     "wikidata": "Q1054901",
     "mobygames": 52196,
     "igdb": 16618
-  }
+  },
+  "roms": [
+    {
+      "name": "Okamiden (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BOOE",
+      "size": 134217728,
+      "crc32": "26c6f89d",
+      "md5": "268d56f97017bf970e173c65452b77b6",
+      "sha1": "ddc0a844d39352978f3c5ffb419c57d4ad36705c"
+    },
+    {
+      "name": "Okamiden (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BOOP",
+      "size": 134217728,
+      "crc32": "43266442",
+      "md5": "99d51b0f3458b01b0dcc03f051094d25",
+      "sha1": "d11241581d269080342e1bd6466d443724d1aec2",
+      "sha256": "e824e989d6664656f1bff6ae997acdc60c15cf70cc1f94a994d986df1c3abcdc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Okamiden%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Okamiden%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Okamiden%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Okamiden%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

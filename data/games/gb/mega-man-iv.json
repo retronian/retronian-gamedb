@@ -87,5 +87,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mega Man IV (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "060b89e6",
+      "md5": "b1a4da0fc96be115b3d5303c9ca1447f",
+      "sha1": "a15a05593bf9bdddb5826b148e25182e7b90f268",
+      "sha256": "e62278ccfdcb288643613bea6782f26b2846cd13eede8b8fd846d310178b054e"
+    },
+    {
+      "name": "Mega Man IV (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "abcea00d",
+      "md5": "8a00f627b8902c92327435901c249e19",
+      "sha1": "6f0901db2b5dcaace0215c0abdc21a914fa21b65",
+      "sha256": "4d980ca46a83cd127312dbc445ed1a83e97ed7a8026dce6fdd22a01b1895781b"
+    },
+    {
+      "name": "Rockman World 4 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "16aec559",
+      "md5": "401647ad59208d67507245ac13e3894c",
+      "sha1": "d0835a9c5dc7fca4da4d62a9bc244525ecd76ee7",
+      "sha256": "6c1df0d0c395f485c4d9faecab2ab2305c65e5eadd7327234fd93571213eec0a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mega%20Man%20IV%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mega%20Man%20IV%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mega%20Man%20IV%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mega%20Man%20IV%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mega%20Man%20IV%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mega%20Man%20IV%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Rockman%20World%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Rockman%20World%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Rockman%20World%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

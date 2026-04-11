@@ -53,5 +53,162 @@
     "wikidata": "Q1046604",
     "mobygames": 3535,
     "igdb": 2342
-  }
+  },
+  "roms": [
+    {
+      "name": "Mario Kart 64 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NKTP",
+      "size": 12582912,
+      "crc32": "faa6b083",
+      "md5": "8fad1e4fa7baf1443b7f21ad1947b429",
+      "sha1": "a729039453210b84f17019dda3f248d5888f7690"
+    },
+    {
+      "name": "Mario Kart 64 (Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NKTP",
+      "size": 12582912,
+      "crc32": "0248f6c3",
+      "md5": "2bb149a583fdefea96805f628fe42fd9",
+      "sha1": "f6b5f519dd57ea59e9f013cc64816e9d273b2329",
+      "sha256": "8d9d2a68bbc5e9512200cab281b6d98c1d49e1028c092e3fb821ae4076e1ce6d"
+    },
+    {
+      "name": "Mario Kart 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NKTJ",
+      "size": 12582912,
+      "crc32": "5d9696df",
+      "md5": "bf964ceca78a13a82055ebda80b95cca",
+      "sha1": "afeeec65b9a03f0cb8ec92f9ba7a9f0122e8bd0e",
+      "sha256": "9231d689bcf0986a78a9e7505bde3c04dd38083cc94efc66591a1208b0d50371"
+    },
+    {
+      "name": "Mario Kart 64 (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NKTJ",
+      "size": 12582912,
+      "crc32": "6ced6472",
+      "md5": "60535265bae43ddfcbdb0d71594b1693",
+      "sha1": "9f439457585146a4e1da7e1dd9104f7f94381688",
+      "sha256": "ffe65c81d29a901cc6831eabf9a49aef31acbe6e55ec5b56b73d9238a00dfd8d"
+    },
+    {
+      "name": "Mario Kart 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NKTE",
+      "size": 12582912,
+      "crc32": "434389c1",
+      "md5": "3a67d9986f54eb282924fca4cd5f6dff",
+      "sha1": "579c48e211ae952530ffc8738709f078d5dd215e",
+      "sha256": "d6b8538dd63f0132ecb2856e7d32816ed3c30e3e479aecd23cf83fb6ba17a5da"
+    },
+    {
+      "name": "Mario Kart 64 (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 12582912,
+      "crc32": "407edef1",
+      "md5": "f4ea3e26711521ceb467d96bc418dda5",
+      "sha1": "5b0a0c8b57881f43f9314b427a84d29a46a12607"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Kart%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Kart%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Kart%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Kart%2064%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Kart%2064%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Kart%2064%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Kart%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Kart%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Kart%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Kart%2064%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Kart%2064%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Kart%2064%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Kart%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Kart%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Kart%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

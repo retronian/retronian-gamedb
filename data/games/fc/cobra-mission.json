@@ -11,11 +11,63 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Mission Cobra",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1994-01-01",
   "external_ids": {
     "wikidata": "Q100152328",
-    "igdb": 48167
-  }
+    "igdb": 48167,
+    "mobygames": 28678
+  },
+  "roms": [
+    {
+      "name": "Cobra Mission (Taiwan) (En) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 131088,
+      "crc32": "f3aad71c",
+      "md5": "7848590d78cc4896ce30136d57149ae0",
+      "sha1": "bfa00552f427b4d51c7048fa847ec4c1c9f02df4",
+      "sha256": "6eb7805f04199085ce61ccceeef93bfd964af7ecefdf8f646e56b8103522d107"
+    },
+    {
+      "name": "Mission Cobra (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 49168,
+      "crc32": "48f379ca",
+      "md5": "b10f079d4b3bb4e314cf24887d6ddee5",
+      "sha1": "b6a94634a3cde019b58a2289dcd8d9ad039476f1",
+      "sha256": "4120292b15f70a0d1d1e79620117eed5841d8df947734315c2ccd39a2ebb5019"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mission%20Cobra%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mission%20Cobra%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mission%20Cobra%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

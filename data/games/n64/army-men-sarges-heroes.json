@@ -27,5 +27,67 @@
     "wikidata": "Q2862836",
     "mobygames": 4187,
     "igdb": 3440
-  }
+  },
+  "roms": [
+    {
+      "name": "Army Men - Sarge's Heroes (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NAMP",
+      "size": 8388608,
+      "crc32": "e79048e2",
+      "md5": "53e2872612760133ab7b2cc2e22b847c",
+      "sha1": "00e594fa64da61c2ad3138a31a22b9854bb3fafa",
+      "sha256": "25d3091b4d0713099006933349c4b6e01e79e1f108596abbc5342a4d7d647066"
+    },
+    {
+      "name": "Army Men - Sarge's Heroes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NAME",
+      "size": 8388608,
+      "crc32": "2fe786f6",
+      "md5": "b8085c2edb1c6d23e52ed8c06d92b4f8",
+      "sha1": "1824380911579424e50042d45aef4851f7ab25a7",
+      "sha256": "b1992d8069cb7c14d5be4c351578058631cae9e1b2f29656ae7fb9d5ecc1dc22"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Army%20Men%20-%20Sarge%27s%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Army%20Men%20-%20Sarge%27s%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Army%20Men%20-%20Sarge%27s%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Army%20Men%20-%20Sarge%27s%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Army%20Men%20-%20Sarge%27s%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Army%20Men%20-%20Sarge%27s%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

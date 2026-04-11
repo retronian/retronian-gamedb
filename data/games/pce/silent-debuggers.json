@@ -53,5 +53,65 @@
     "wikidata": "Q7514555",
     "mobygames": 35070,
     "igdb": 44343
-  }
+  },
+  "roms": [
+    {
+      "name": "Silent Debuggers (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "616ea179",
+      "md5": "37bf7db43aebb4fbbb886f8ca4062e0d",
+      "sha1": "9101f738a37c9fcbc69308449cdfb94c928f64c6",
+      "sha256": "b4899c8f6c081074cf493a8e84d4a9dd0180ff9867e9641b80ff424564fb3dd5"
+    },
+    {
+      "name": "Silent Debuggers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "fa7e5d66",
+      "md5": "46719950684f5148c20730c6fd7df4a0",
+      "sha1": "c010ba9ff55a2558bba94ac39aa0160c76daff0c",
+      "sha256": "2cd020073cfd1728904a3c599ce8b9763312da8afa53d991508b3c90fe5de1d1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Silent%20Debuggers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Silent%20Debuggers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Silent%20Debuggers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Silent%20Debuggers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Silent%20Debuggers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Silent%20Debuggers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

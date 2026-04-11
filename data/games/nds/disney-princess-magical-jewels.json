@@ -27,5 +27,65 @@
     "wikidata": "Q19868089",
     "mobygames": 53763,
     "igdb": 47698
-  }
+  },
+  "roms": [
+    {
+      "name": "Disney Princess - Magical Jewels (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YMJP",
+      "size": 67108864,
+      "crc32": "e5a63478",
+      "md5": "a9ccc334c5d708fc33b1bb714358abe0",
+      "sha1": "58310dfa14364482b87d969607147869f8b715e1"
+    },
+    {
+      "name": "Disney Princess - Magical Jewels (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YMJE",
+      "size": 67108864,
+      "crc32": "5a941eb1",
+      "md5": "df56c5ff08a0f0b1714bd9687ad13ebd",
+      "sha1": "3bb1b245f7712608d74763a1776ecc604d0de3d3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Disney%20Princess%20-%20Magical%20Jewels%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Disney%20Princess%20-%20Magical%20Jewels%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Disney%20Princess%20-%20Magical%20Jewels%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Disney%20Princess%20-%20Magical%20Jewels%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Disney%20Princess%20-%20Magical%20Jewels%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Disney%20Princess%20-%20Magical%20Jewels%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

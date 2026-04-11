@@ -63,5 +63,60 @@
     "wikidata": "Q3128710",
     "mobygames": 16915,
     "igdb": 10150
-  }
+  },
+  "roms": [
+    {
+      "name": "Havoc (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-120056-00",
+      "size": 1048576,
+      "crc32": "76e6d20d",
+      "md5": "232874913a8c74deecb24145d60917aa",
+      "sha1": "6e0344aace03b703cb05a9a0e10c47ebe404a247",
+      "sha256": "f6c300632c2bdcd9c6ba76fddf64306f6ff1bdc9c5a86cfc8b521a8d8bc1a3de"
+    },
+    {
+      "name": "High Seas Havoc (USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-13076-00",
+      "size": 1048576,
+      "crc32": "17be551c",
+      "md5": "5479601228fd14fefbd1d1fd5fceebed",
+      "sha1": "0dc1969098716ba332978b89356f62961417682b",
+      "sha256": "85ca766c9d4ca4070e4558dbd3dc0767fd9580eaa7c0e457755f320e8cdb787c"
+    },
+    {
+      "name": "High Seas Havoc (USA) (En,Ja) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "89418d48",
+      "md5": "236fa212d395717076dad9ea1892a11a",
+      "sha1": "47307d1a7ea1e813547c94700885595c6e8d156a",
+      "sha256": "1dc94f7466d4299acc03bcc2fd5a9fb79873b30ad54471e177424b6b77451453"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Havoc%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Havoc%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Havoc%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

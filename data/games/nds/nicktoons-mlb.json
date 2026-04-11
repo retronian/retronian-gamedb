@@ -27,5 +27,53 @@
     "wikidata": "Q7028551",
     "mobygames": 89612,
     "igdb": 5072
-  }
+  },
+  "roms": [
+    {
+      "name": "Nicktoons MLB (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B84E",
+      "size": 33554432,
+      "crc32": "12c505c5",
+      "md5": "95a4623d9749ae3b78bed1c3a466d1d8",
+      "sha1": "53f9698ab230cdcebc5bd5c2debfe0dd10771166"
+    },
+    {
+      "name": "Nicktoons MLB (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B84E",
+      "size": 16777216,
+      "crc32": "6b078b6e",
+      "md5": "e99d36acbdc9e187aeb8aa4f4c4164fb",
+      "sha1": "1c9216613ec13bb54edfb48d4c3d467704990c80"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nicktoons%20MLB%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nicktoons%20MLB%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nicktoons%20MLB%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nicktoons%20MLB%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

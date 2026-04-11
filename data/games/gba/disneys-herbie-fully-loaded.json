@@ -26,5 +26,65 @@
     "wikidata": "Q39058274",
     "mobygames": 48580,
     "igdb": 6434
-  }
+  },
+  "roms": [
+    {
+      "name": "Herbie - Fully Loaded (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B8FE",
+      "size": 8388608,
+      "crc32": "9c6a3dd1",
+      "md5": "9824d54e798f7985d620b41abd722993",
+      "sha1": "6a9d8f05a8517a92d1908a8a5845c128bf42a573"
+    },
+    {
+      "name": "Herbie - Fully Loaded (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B8FP",
+      "size": 8388608,
+      "crc32": "2521a98c",
+      "md5": "f74baab7b2516b43119d23292033c735",
+      "sha1": "0a2f427cc781e0d8bc7b59d6cd05f0714795f38e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Herbie%20-%20Fully%20Loaded%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Herbie%20-%20Fully%20Loaded%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Herbie%20-%20Fully%20Loaded%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Herbie%20-%20Fully%20Loaded%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Herbie%20-%20Fully%20Loaded%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Herbie%20-%20Fully%20Loaded%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

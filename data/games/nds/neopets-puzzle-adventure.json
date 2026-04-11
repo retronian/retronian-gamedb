@@ -27,5 +27,66 @@
     "wikidata": "Q4045198",
     "mobygames": 42661,
     "igdb": 5067
-  }
+  },
+  "roms": [
+    {
+      "name": "Neopets Puzzle Adventure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C3PE",
+      "size": 67108864,
+      "crc32": "7eb5e848",
+      "md5": "6350ac30aa367a3bc0f8fac76b456a01",
+      "sha1": "551477901a2e9339415c00d58770796130fb4f51"
+    },
+    {
+      "name": "Neopets Puzzle Adventure (Europe) (En,Fr,De,Es,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C3PP",
+      "size": 67108864,
+      "crc32": "759991fd",
+      "md5": "3c0e7fed91af4782a4148a288f457b72",
+      "sha1": "0bd086825c9bf4d739106e3724508a01170aa344",
+      "sha256": "e76212c285224faf0d936aec724c5c1cdaac6c502a57fc3878db9b6b9d5bcabb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Neopets%20Puzzle%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Neopets%20Puzzle%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Neopets%20Puzzle%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Neopets%20Puzzle%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Neopets%20Puzzle%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Neopets%20Puzzle%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

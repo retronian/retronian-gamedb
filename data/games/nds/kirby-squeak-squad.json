@@ -106,5 +106,115 @@
     "wikidata": "Q959102",
     "mobygames": 25241,
     "igdb": 3723
-  }
+  },
+  "roms": [
+    {
+      "name": "Kirby - Mouse Attack (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AKWP",
+      "size": 67108864,
+      "crc32": "df8258d2",
+      "md5": "7e730ce9cb8cb09d8d012e939a7ff9cb",
+      "sha1": "9aa6b05f5859b0dc8bd982c77d7fc62252d41e17",
+      "sha256": "aac73722e9bdc65a330c57def4695ef613f4eb8ae42974c700f1d6237dee7b03"
+    },
+    {
+      "name": "Kirby - Mouse Attack (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "WUP-N-DAKP",
+      "size": 67108864,
+      "crc32": "cdf5b843",
+      "md5": "a6c84c027709fcd8f6623a16ffeda150",
+      "sha1": "0afc4a46796e840f6e17b575116d54ab0d92a372"
+    },
+    {
+      "name": "Kirby - Squeak Squad (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AKWE",
+      "size": 67108864,
+      "crc32": "5c90df04",
+      "md5": "80d8fbf4b3ed69441f4f6e4ec8b8aed9",
+      "sha1": "dbd8f2ece2b272ae271da0b83599e9ea8e366f13",
+      "sha256": "2e68416d932f124b7191f926fbf80091a47614fa563ac9bf89e292655fb30b8f"
+    },
+    {
+      "name": "Kirby - Squeak Squad (USA) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "WUP-N-DAKE",
+      "size": 67108864,
+      "crc32": "d73eef86",
+      "md5": "5c1028d23cdc03b757a7736162f9b27e",
+      "sha1": "75e4fb7b1448d029b2f1a8cd0e19b2ecca26860f"
+    },
+    {
+      "name": "Kirby - Squeak Squad (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "Y2ME",
+      "size": 33554432,
+      "crc32": "5b3ddb9d",
+      "md5": "c59e716f07402b78e4dccacf8417be11",
+      "sha1": "12494950fb5a916789c6076fb6309adbf1cc8f4a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kirby%20-%20Mouse%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kirby%20-%20Mouse%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kirby%20-%20Mouse%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kirby%20-%20Squeak%20Squad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kirby%20-%20Squeak%20Squad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kirby%20-%20Squeak%20Squad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kirby%20-%20Squeak%20Squad%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kirby%20-%20Squeak%20Squad%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kirby%20-%20Squeak%20Squad%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

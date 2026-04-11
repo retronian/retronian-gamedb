@@ -63,5 +63,78 @@
     "wikidata": "Q2236540",
     "mobygames": 8139,
     "igdb": 4396
-  }
+  },
+  "roms": [
+    {
+      "name": "Tecmo Super Bowl (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-36023-00",
+      "size": 1048576,
+      "crc32": "90c6e20c",
+      "md5": "c35e1769408e09f200769300ca8da941",
+      "sha1": "477880e7976ac0f7203fddabba4a6e8799aa604d",
+      "sha256": "fc6cbb84a890418a1c53a6316967ccb599ca352acf81e6b42942ceb0f106bc29"
+    },
+    {
+      "name": "Tecmo Super Bowl (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-36016-00",
+      "size": 1048576,
+      "crc32": "86ef3441",
+      "md5": "c5b6951659a169ebee64e7986d38582a",
+      "sha1": "a41cb6426749aa0bb63010cab51070e3f1435f92",
+      "sha256": "66a1506c23e2dcf1ebfa80b583e3c7e236912e1800fded7b2cbbbf01f7eb512a"
+    },
+    {
+      "name": "Tecmo Super Bowl (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-36016-00",
+      "size": 1048576,
+      "crc32": "bd5933ee",
+      "md5": "bd662438c1fd5f9192772392e141cb65",
+      "sha1": "529b8e86b97c326592540f5e427198a205c127d0",
+      "sha256": "ed0f316c64ade60779cfe4d29792290517e4d4b326bfd35ddc8e810d1ddd8f3f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Tecmo%20Super%20Bowl%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Tecmo%20Super%20Bowl%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Tecmo%20Super%20Bowl%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Tecmo%20Super%20Bowl%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Tecmo%20Super%20Bowl%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Tecmo%20Super%20Bowl%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

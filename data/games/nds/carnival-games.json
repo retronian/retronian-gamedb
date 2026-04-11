@@ -63,5 +63,124 @@
     "wikidata": "Q2693430",
     "mobygames": 31176,
     "igdb": 284137
-  }
+  },
+  "roms": [
+    {
+      "name": "Carnival Games (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "Y5TE",
+      "size": 8388608,
+      "crc32": "5f011c6f",
+      "md5": "c1dc208b326703c7df4704905a0727c4",
+      "sha1": "c9dde952b7683453774a3e23ff08bf7669fcbb8c",
+      "sha256": "dff3299c6f8c094f079f2f0167ff9a4b08572962285d099ee9be5129ce73c7b4"
+    },
+    {
+      "name": "Carnival Games (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YYCE",
+      "size": 33554432,
+      "crc32": "e40bd22d",
+      "md5": "345cb78250235fd813f69c8875901b43",
+      "sha1": "11e4f34c72a3dd5f2c80224309fa9a14f7c97d22",
+      "sha256": "ed65f555073bd104b5c8ab59cb0eef8e5fabe43e5859b679cd5939cff50d6f05"
+    },
+    {
+      "name": "Carnival Games (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YYCP",
+      "size": 67108864,
+      "crc32": "a6895ee0",
+      "md5": "a710925d08815a0eca3194fb81fc2cff",
+      "sha1": "de43da7f08f07c9a64b48a51c7b071388c461285",
+      "sha256": "5c1c1c6bc8510ab960049641633527e3d1fd35abea8a71b936e109d72a4fcfd0"
+    },
+    {
+      "name": "Carnival Games (USA) (En,Fr,Es) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YYCE",
+      "size": 33554432,
+      "crc32": "9700c2cc",
+      "md5": "3f4fcf7f0d3c23d92be273ebb754a7dc",
+      "sha1": "19edbc57adb97652d0ff09fb4c15f0d874e0407b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Carnival%20Games%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Carnival%20Games%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Carnival%20Games%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Carnival%20Games%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Carnival%20Games%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Carnival%20Games%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Carnival%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Carnival%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Carnival%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Carnival%20Games%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Carnival%20Games%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Carnival%20Games%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,65 @@
     "wikidata": "Q5514768",
     "mobygames": 9053,
     "igdb": 6425
-  }
+  },
+  "roms": [
+    {
+      "name": "GT Advance 2 - Rally Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AGWE",
+      "size": 8388608,
+      "crc32": "f335db88",
+      "md5": "c0b296efea186b82f921cf0e9a6a6ef4",
+      "sha1": "7a7c2a76bc5c7995b5186d90c5fdd7bc303f0e85"
+    },
+    {
+      "name": "GT Advance 2 - Rally Racing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AGWP",
+      "size": 8388608,
+      "crc32": "73411578",
+      "md5": "93c6a92b841b2f3cad5cdc4e62112e61",
+      "sha1": "8185c05c709b2e1ceadedd905f7f38107decbdcd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/GT%20Advance%202%20-%20Rally%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/GT%20Advance%202%20-%20Rally%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/GT%20Advance%202%20-%20Rally%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/GT%20Advance%202%20-%20Rally%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/GT%20Advance%202%20-%20Rally%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/GT%20Advance%202%20-%20Rally%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

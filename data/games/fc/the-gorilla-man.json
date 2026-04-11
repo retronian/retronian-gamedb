@@ -20,11 +20,59 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Gorilla Man, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1993-04-28",
   "external_ids": {
     "wikidata": "Q111654900",
     "igdb": 48760
-  }
+  },
+  "descriptions": [
+    {
+      "text": "ゴリラーマンは、漫画シリーズを基にしたNES/Famicom用のボードゲームです。ゴリラーマンは、ゴリラに似た高校生の池戸貞春のニックネームです。このゲームには、漫画シリーズに登場する他の高校の生徒や教師など、いくつかのキャラクターが登場します。プレイヤーはゴリラーマンを操作することはできず、彼は時折現れてあなたを助けたり、妨害したりします。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gorilla Man, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "218eaa50",
+      "md5": "2377df3f6909fa9fd858ab03791e8db9",
+      "sha1": "b57f39e01414a95bb1bdc90c51e1c705d46173f9",
+      "sha256": "6df877425759c7c805e2e23a01f7bc0f79540dfc1b7afb3733480e39e2e6e516"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gorilla%20Man%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gorilla%20Man%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gorilla%20Man%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

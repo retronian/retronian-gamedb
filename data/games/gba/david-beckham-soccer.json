@@ -18,5 +18,66 @@
     "wikidata": "Q5231242",
     "mobygames": 9027,
     "igdb": 6369
-  }
+  },
+  "roms": [
+    {
+      "name": "David Beckham Soccer (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ABQP",
+      "size": 4194304,
+      "crc32": "e9a34f49",
+      "md5": "121fd8e5e64ff91db0e14ea991de4625",
+      "sha1": "969b0e330adaf91c37707ed41e4fdb00101d8dbe"
+    },
+    {
+      "name": "David Beckham Soccer (USA) (En,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ABQE",
+      "size": 4194304,
+      "crc32": "7e4db1cc",
+      "md5": "9af9f7652dfbd45d06b50a6925ee18f6",
+      "sha1": "98e58464f852958e0ccaf7250fe8fb8990b84b3c",
+      "sha256": "506a3b9d2f5ed6af8ee3150172b8b467fee34389c1ba6bbff0e81bbab5b9adb4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/David%20Beckham%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/David%20Beckham%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/David%20Beckham%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/David%20Beckham%20Soccer%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/David%20Beckham%20Soccer%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/David%20Beckham%20Soccer%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

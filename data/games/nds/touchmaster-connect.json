@@ -26,5 +26,75 @@
   "external_ids": {
     "wikidata": "Q104552380",
     "igdb": 124102
-  }
+  },
+  "roms": [
+    {
+      "name": "TouchMaster - Connect (USA) (En,Fr,Es) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VT4E",
+      "size": 67108864,
+      "crc32": "d4a6efb8",
+      "md5": "633ce0dbaca9b7e0371ce516c85a2f0e",
+      "sha1": "535b39148f843bc1e86e6e627f6b4534f6105c9c"
+    },
+    {
+      "name": "TouchMaster 4 - Connect (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VT4V",
+      "size": 67108864,
+      "crc32": "1e4d8419",
+      "md5": "4ab83e0b08efc8068a2547e9797ab5af",
+      "sha1": "5c65d343a43f230e17255b9716af0fd04bc898e6"
+    },
+    {
+      "name": "TouchMaster 4 - Connect (Europe) (En,Fr,De,Es,It) (Rev 1) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VT4V",
+      "size": 67108864,
+      "crc32": "24eb5c13",
+      "md5": "02d6fbd05964d7e333b32612da083bdd",
+      "sha1": "8d9b6d6bfc03a0e44e3c3f431f4ba2cff0169de1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TouchMaster%20-%20Connect%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TouchMaster%20-%20Connect%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TouchMaster%204%20-%20Connect%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TouchMaster%204%20-%20Connect%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TouchMaster%204%20-%20Connect%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TouchMaster%204%20-%20Connect%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

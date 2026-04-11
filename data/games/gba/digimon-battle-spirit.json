@@ -54,5 +54,75 @@
     "wikidata": "Q3027775",
     "mobygames": 21274,
     "igdb": 6374
-  }
+  },
+  "roms": [
+    {
+      "name": "Digimon - Battle Spirit (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A8SP",
+      "size": 4194304,
+      "crc32": "ea5fc3da",
+      "md5": "23a85707e6b7bb14d559f207824b2389",
+      "sha1": "ecf0e597839905c9f23c6d568c79fc00c2719f49"
+    },
+    {
+      "name": "Digimon - Battle Spirit (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A8SE",
+      "size": 4194304,
+      "crc32": "ceef2008",
+      "md5": "a4e3e4754c7bd16e5e2a52ee83ab2be1",
+      "sha1": "2ba954a54dd34b2b450d9ef718eb8a0f570b6549"
+    },
+    {
+      "name": "Digimon - Battle Spirit (Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 4194304,
+      "crc32": "da8677ad",
+      "md5": "197ae930329b3515fa57c039ad81c415",
+      "sha1": "cbcc59ee879378acb7e86476c2cf80b1ef49321e",
+      "sha256": "00e8a7b127c7724df3d112fd3477af2ba2ecc67b7e7a2db29f876524a22d44da"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Digimon%20-%20Battle%20Spirit%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Digimon%20-%20Battle%20Spirit%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Digimon%20-%20Battle%20Spirit%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Digimon%20-%20Battle%20Spirit%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Digimon%20-%20Battle%20Spirit%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Digimon%20-%20Battle%20Spirit%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

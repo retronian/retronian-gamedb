@@ -25,5 +25,76 @@
   "first_release_date": "2014-11-11",
   "external_ids": {
     "wikidata": "Q21190252"
-  }
+  },
+  "roms": [
+    {
+      "name": "Winx Club - Saving Alfea (Europe) (En,Fr,De,Es,It,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TGPP",
+      "size": 33554432,
+      "crc32": "ead290da",
+      "md5": "c8ee1292af77039703cda46c942d0768",
+      "sha1": "6ffdb6b382cc5e76d489f7c2c99e1652de1bea2c"
+    },
+    {
+      "name": "Winx Club - Saving Alfea (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TGPE",
+      "size": 33554432,
+      "crc32": "df19c88f",
+      "md5": "17ef1d234ee9108e5563b1e0d8450d28",
+      "sha1": "cfb88f64dd3d8ab7e6736f5a8144e246c5584f7c"
+    },
+    {
+      "name": "Winx Club - Saving Alfea (Europe) (En,Fr,De,Es,It,Pt) (Beta) (2014-07-09)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TGPP",
+      "size": 33554432,
+      "crc32": "f5d3aaf8",
+      "md5": "90b775f26f5613e296c15080b44a93ad",
+      "sha1": "a60734bf566302d1be3a70e5bef46ede5869655d",
+      "sha256": "6f71a7e71c2625f95aa62ac49fcc662366b281bb43c2962b81758a3d50c41876"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Winx%20Club%20-%20Saving%20Alfea%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Winx%20Club%20-%20Saving%20Alfea%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Winx%20Club%20-%20Saving%20Alfea%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Winx%20Club%20-%20Saving%20Alfea%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Winx%20Club%20-%20Saving%20Alfea%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Winx%20Club%20-%20Saving%20Alfea%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

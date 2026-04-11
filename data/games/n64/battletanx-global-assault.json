@@ -18,5 +18,67 @@
     "wikidata": "Q2891772",
     "mobygames": 3669,
     "igdb": 47685
-  }
+  },
+  "roms": [
+    {
+      "name": "BattleTanx - Global Assault (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NBQP",
+      "size": 8388608,
+      "crc32": "c99c6030",
+      "md5": "d6e667fe10afe8f7116888efde98ae0e",
+      "sha1": "aefade7a37a4716ddc82a6b67ba085cbf7c27259",
+      "sha256": "8c0f538d32243d7d230ff28432326fbb17ea59bec2e2d9815dc04317dbe70db0"
+    },
+    {
+      "name": "BattleTanx - Global Assault (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NBQE",
+      "size": 8388608,
+      "crc32": "31beb053",
+      "md5": "654557c316f901a2ca6f7f4b43343147",
+      "sha1": "805248fb0a0ee694cad8d7dc927b631d860dd8cf",
+      "sha256": "88268ce770ff39f2ca839848b842c87866df6c5ddaf775f180b2522c18ff6221"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/BattleTanx%20-%20Global%20Assault%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/BattleTanx%20-%20Global%20Assault%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/BattleTanx%20-%20Global%20Assault%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/BattleTanx%20-%20Global%20Assault%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/BattleTanx%20-%20Global%20Assault%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/BattleTanx%20-%20Global%20Assault%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

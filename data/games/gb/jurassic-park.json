@@ -58,10 +58,70 @@
       "verified": false
     }
   ],
-  "first_release_date": "1993-12-28",
+  "first_release_date": "1993-01-01",
   "external_ids": {
     "wikidata": "Q4041940",
     "mobygames": 38357,
     "igdb": 147051
-  }
+  },
+  "roms": [
+    {
+      "name": "Jurassic Park (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "2c8ad255",
+      "md5": "7173cecc94bcdb7aeb7240ae87491044",
+      "sha1": "efbc825bae50c0498e56b53e9d02f00c400ff6d9",
+      "sha256": "c8c1faee6c4a4f9dc6bc487f9cd78f23a899b321733aa676c8aec7fbf6de239a"
+    },
+    {
+      "name": "Jurassic Park (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "b350bedf",
+      "md5": "d11d2dc76c6d743c3cc791104a2bdae2",
+      "sha1": "66273f0b52f9ff2be875b1428add267a5f01adb0",
+      "sha256": "6b13a664a3c74e6e61b019f4024f65b3fb301ee5518a9cf9e2a27dc41bbdd561"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jurassic%20Park%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jurassic%20Park%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jurassic%20Park%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jurassic%20Park%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jurassic%20Park%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jurassic%20Park%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

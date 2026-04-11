@@ -45,5 +45,107 @@
     "wikidata": "Q16913800",
     "mobygames": 13526,
     "igdb": 27987
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Hydlide (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1311-00",
+      "size": 524288,
+      "crc32": "1fe2d90b",
+      "md5": "6ba8d8f9d7bbdd3064bc093f22aa7c0a",
+      "sha1": "6c0a4b72b90ecfe8c324691bc6e54243746043c1",
+      "sha256": "bdc1239df3b6394870cefb6ae68cccb1baf25a9e405a216101a1480ffe4fb1b3"
+    },
+    {
+      "name": "Super Hydlide (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-20013-00",
+      "size": 524288,
+      "crc32": "599be386",
+      "md5": "9c86376aabd8035036c9c7c416a9ec75",
+      "sha1": "76bceb5915f3546c68c1fdb5fb0e205cd56a3fe6",
+      "sha256": "30749097096807abf67cd1f7b2392f5789f5149ee33661e6d13113396f06a121"
+    },
+    {
+      "name": "Super Hydlide (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-35016-00",
+      "size": 524288,
+      "crc32": "1335ddaa",
+      "md5": "bc8ffce6de6406116d49f8b5e3ed77ab",
+      "sha1": "5ff65139c7e10539dd5a12bdf56073504c998471",
+      "sha256": "e66fca912212b26e36e22c01687d58ad839891272920cd8c5d0e878ff03d4cb8"
+    },
+    {
+      "name": "Super Hydlide (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1300-00",
+      "size": 524288,
+      "crc32": "52e717ac",
+      "md5": "ab49404369e1ff4f9be5b90411af90eb",
+      "sha1": "ba2064def261d0fd6dfa4c5e06b4fa7a14773503",
+      "sha256": "4de350d4bccf26444c228ede763835dd99bec380e10014480c53ba9258566feb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Hydlide%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Hydlide%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Hydlide%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Hydlide%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Hydlide%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Hydlide%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Hydlide%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Hydlide%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Hydlide%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -45,5 +45,53 @@
     "wikidata": "Q3841762",
     "mobygames": 89269,
     "igdb": 248570
-  }
+  },
+  "roms": [
+    {
+      "name": "MX vs ATV Reflex (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BMXE",
+      "size": 33554432,
+      "crc32": "6533cfcd",
+      "md5": "cec36163169bea537d91f6b0b77c6c5a",
+      "sha1": "f302fbddddb1ea39668934065af7ec967e2e609a"
+    },
+    {
+      "name": "MX vs ATV Reflex (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BMXP",
+      "size": 33554432,
+      "crc32": "94127754",
+      "md5": "466af64ea7203afa9682c5c0b0833181",
+      "sha1": "9cb4df813fe7901cc17c387037fee649edfc8f97"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MX%20vs%20ATV%20Reflex%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MX%20vs%20ATV%20Reflex%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MX%20vs%20ATV%20Reflex%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MX%20vs%20ATV%20Reflex%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

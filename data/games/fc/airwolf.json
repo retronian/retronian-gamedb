@@ -29,6 +29,24 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Airwolf (videojuego para NES)",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "エアーウルフ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1987-09-01",
@@ -36,5 +54,100 @@
     "wikidata": "Q101252563",
     "mobygames": 21167,
     "igdb": 267630
-  }
+  },
+  "descriptions": [
+    {
+      "text": "人気TVドラマ「超音速攻撃ヘリ エアーウルフ」のゲーム化。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Airwolf (Europe) (Acclaim)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 163856,
+      "crc32": "23380680",
+      "md5": "4ab7c50a01d8f6f7191f2679a9921554",
+      "sha1": "4ed3b514cdcd0bce9408740a9c7ead7e6e2537eb",
+      "sha256": "2379a79367df6011ae63c0e2f71039f1987f69e2df71faafa2cfd32cc79a269b"
+    },
+    {
+      "name": "Airwolf (Japan) (Kyugo)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "07135006",
+      "md5": "9e5d600ed540750ce0dbaa7099eedd9c",
+      "sha1": "52b63b099a720989ecd31c4535374c9389eebce6",
+      "sha256": "c39ccb2ce8bac1e8ad2d52e00726ca4ec79a8808d0cee479fd2d08e3cd48ab35"
+    },
+    {
+      "name": "Airwolf (USA) (Acclaim)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 163856,
+      "crc32": "a1c13577",
+      "md5": "d4e3c510c106cc6b2fdfd92f5b07504c",
+      "sha1": "f801aab1badd514106e2b7ada15e30ce4e802009",
+      "sha256": "8c2c15cd0bbd0de928e1d2f240080fcc0935a1c33bf94f60d181a73b4f5ad2c7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Airwolf%20%28Europe%29%20%28Acclaim%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Airwolf%20%28Europe%29%20%28Acclaim%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Airwolf%20%28Europe%29%20%28Acclaim%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Airwolf%20%28Japan%29%20%28Kyugo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Airwolf%20%28Japan%29%20%28Kyugo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Airwolf%20%28Japan%29%20%28Kyugo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Airwolf%20%28USA%29%20%28Acclaim%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Airwolf%20%28USA%29%20%28Acclaim%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Airwolf%20%28USA%29%20%28Acclaim%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

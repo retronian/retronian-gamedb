@@ -70,5 +70,91 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Dr. Franken (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "f13a60b8",
+      "md5": "2a7d9044b9bdbc133d1a9bb5c0f9b2a1",
+      "sha1": "ba5aaac92c4a2ca2d6a752c521e4d95108444a4e",
+      "sha256": "d90f7c8756638092633de712537535328c0cb4cd4ab8cf3858a80038613d7562"
+    },
+    {
+      "name": "Dr. Franken (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "3d04b8e7",
+      "md5": "c5397c3e9740264482995573628e3b9d",
+      "sha1": "6350ec30e51f388e0e290f387989cb1c7a24a91c",
+      "sha256": "b8e535e523cc5382de862cceaef00174ccf52c6cfffcaba7bfa12b8b11f3b9e3"
+    },
+    {
+      "name": "Dr. Franken (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "d409375b",
+      "md5": "b6da78085d38a8be3ef564b9989c45d0",
+      "sha1": "2b136ef8e3dd082ccb4716035545fb2e03438c66",
+      "sha256": "d81e96d8b8621bdde1220599febd5a3854ddcc4a01100f9df18841c0064461ed"
+    },
+    {
+      "name": "Dr. Franken (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "a65adc31",
+      "md5": "10f18723a1ecf3c4c9d311c02f28a18b",
+      "sha1": "440eb30e54bf257246923149d44bab3dfafed2aa",
+      "sha256": "174e1e80fa89517e9f601a1fd551594d397a9e6a0bba2b91f20091ef02f470e4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dr.%20Franken%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dr.%20Franken%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dr.%20Franken%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dr.%20Franken%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dr.%20Franken%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dr.%20Franken%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dr.%20Franken%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

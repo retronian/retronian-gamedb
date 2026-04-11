@@ -63,5 +63,66 @@
     "wikidata": "Q2361841",
     "mobygames": 31307,
     "igdb": 5821
-  }
+  },
+  "roms": [
+    {
+      "name": "Eragon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AEGE",
+      "size": 67108864,
+      "crc32": "48877be8",
+      "md5": "030dfce423373c2e1b1041bc8f0ce4cd",
+      "sha1": "e913126e7e592a1fa4eb76105f658784df75f9ca"
+    },
+    {
+      "name": "Eragon (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AEGP",
+      "size": 67108864,
+      "crc32": "5631baac",
+      "md5": "d2c7049acb0264a344a702bf858ec8ba",
+      "sha1": "37967866b67f807e6a43dbbe90b292827983ab5a",
+      "sha256": "27955e9be48b3e3e1a776f5e63c73898e1151c61c938b1aeb9e79f24319c94fd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Eragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Eragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Eragon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Eragon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Eragon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Eragon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

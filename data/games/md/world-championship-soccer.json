@@ -64,6 +64,15 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "World Championship Soccer 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1989-09-01",
@@ -71,5 +80,100 @@
     "wikidata": "Q3091076",
     "mobygames": 7486,
     "igdb": 18664
-  }
+  },
+  "roms": [
+    {
+      "name": "World Championship Soccer (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004009-01",
+      "size": 262144,
+      "crc32": "6363ef45",
+      "md5": "45833513720e70b5fcf23a4e5934fe5e",
+      "sha1": "305468b4f74329a7e4f4aa35bd02289798f6652d",
+      "sha256": "e8f78493c1eba5e04e75e5ba5354158add6278e4a7f478f7029be1ff8e3a6427"
+    },
+    {
+      "name": "World Championship Soccer (Japan, USA) (En) (Rev B)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004009-03",
+      "size": 262144,
+      "crc32": "bf272bcb",
+      "md5": "a1647bee0108acba9e2f99daab336c18",
+      "sha1": "9da376f266c98c93ae387bec541c513fec84a0e9",
+      "sha256": "e25ab490722b4264bd6a0e087f49d657aebf070fe52465f1c793e1651e3af598"
+    },
+    {
+      "name": "World Championship Soccer (Japan, USA) (En) (Rev A)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004009-02",
+      "size": 262144,
+      "crc32": "bf84ede6",
+      "md5": "34d356930dcb13fe02a3ec42b3d8d70e",
+      "sha1": "ef8c106acad9c3b4a5db2cd0d311762491d28392",
+      "sha256": "1d7b9b7b5179a567b86dba009f28f57f1ab918316b8e23514042369d734a1100"
+    },
+    {
+      "name": "World Cup Italia '90 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "00004009-05",
+      "size": 262144,
+      "crc32": "dd95f829",
+      "md5": "11e4635d58198b873fdafc65fb6d1229",
+      "sha1": "c233313214418300a39afc446e8426cc11f99c6c",
+      "sha256": "0c34f6bdfcbb1299f31e7a44f48ab56fa72027a129646d52a7356e6d00e321dd"
+    },
+    {
+      "name": "World Cup Soccer (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004009-00",
+      "size": 262144,
+      "crc32": "b01c3d70",
+      "md5": "9ef694ab80344a7cced0d33f9c84a1b5",
+      "sha1": "39bbab6430aad3fa9bf024c4b42387ba4ba3e488",
+      "sha256": "05aa5795b33055a381c6737ccbad3f8ff0c258ef054e5139135ac2c5a2e840f0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/World%20Cup%20Italia%20%2790%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/World%20Cup%20Italia%20%2790%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/World%20Cup%20Italia%20%2790%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/World%20Cup%20Soccer%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/World%20Cup%20Soccer%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/World%20Cup%20Soccer%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

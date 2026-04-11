@@ -42,5 +42,37 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1998-03-13"
+  "first_release_date": "1998-03-13",
+  "roms": [
+    {
+      "name": "Pocket Love 2 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "9f8440b5",
+      "md5": "712b4b22dc5674e33c68bf0001af8b34",
+      "sha1": "b35c25ae2a621748abb68a7c2fc7a3c7927467e8",
+      "sha256": "3cd40abd13e8991461ce59f14776723d1d1f27f8b3d1fb2ae46c487d6f3ee851"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pocket%20Love%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Love%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Love%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

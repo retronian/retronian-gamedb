@@ -18,5 +18,67 @@
     "wikidata": "Q86685319",
     "mobygames": 25280,
     "igdb": 342059
-  }
+  },
+  "roms": [
+    {
+      "name": "Pirates of Dark Water, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-15086-00",
+      "size": 2097152,
+      "crc32": "0c45b9f7",
+      "md5": "625aa64dbb0133e4c6f8fc453941ce75",
+      "sha1": "a95eabc00ed9f4867f394c1e5e03afad0381843b",
+      "sha256": "ae21c40a270bed1e8626c5f7335a95d9f427c177ee611f7ab1f509577c93c942"
+    },
+    {
+      "name": "Pirates of Dark Water, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-15086-50",
+      "size": 2097152,
+      "crc32": "1bdc1a5e",
+      "md5": "f1126ce7cb33c04b0c941e1fa3a6dcb3",
+      "sha1": "f94e39cedb07408c7cd553232076892cd0eb3daf",
+      "sha256": "c36cade5530d1bb7de17a0a60ae61156e732c8a1269c7d9cabb8455eed86ca07"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pirates%20of%20Dark%20Water%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pirates%20of%20Dark%20Water%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pirates%20of%20Dark%20Water%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pirates%20of%20Dark%20Water%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pirates%20of%20Dark%20Water%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pirates%20of%20Dark%20Water%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

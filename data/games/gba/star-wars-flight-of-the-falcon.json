@@ -54,5 +54,66 @@
     "wikidata": "Q55253",
     "mobygames": 12434,
     "igdb": 6608
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars - Flight of the Falcon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSWE",
+      "size": 8388608,
+      "crc32": "94d2737a",
+      "md5": "a6cc5b4377dc7396fa275113e1b958b4",
+      "sha1": "4ce7c96146456b10db85d7bf4a6b0f588ea370b9",
+      "sha256": "9566b376af6225ab5283f4abe2e0a024020282e644d6ed3eb5811417f78c44a1"
+    },
+    {
+      "name": "Star Wars - Flight of the Falcon (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSWP",
+      "size": 8388608,
+      "crc32": "a41d22ad",
+      "md5": "20170a5739aff291fa8adc67b682ab15",
+      "sha1": "88298b1e1ffea42579d75eeb7074107362c08e5e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Star%20Wars%20-%20Flight%20of%20the%20Falcon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Star%20Wars%20-%20Flight%20of%20the%20Falcon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Star%20Wars%20-%20Flight%20of%20the%20Falcon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Star%20Wars%20-%20Flight%20of%20the%20Falcon%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Star%20Wars%20-%20Flight%20of%20the%20Falcon%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Star%20Wars%20-%20Flight%20of%20the%20Falcon%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

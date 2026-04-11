@@ -72,5 +72,66 @@
     "wikidata": "Q2526190",
     "mobygames": 21619,
     "igdb": 14988
-  }
+  },
+  "roms": [
+    {
+      "name": "Children of Mana (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASEE",
+      "size": 67108864,
+      "crc32": "796cc1e3",
+      "md5": "8ee63d29f7fd11b2dba740cba5c700fb",
+      "sha1": "7cfad9872d9efc49928204a007c124c89bb90ccd"
+    },
+    {
+      "name": "Children of Mana (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASEP",
+      "size": 134217728,
+      "crc32": "26ac32ac",
+      "md5": "cd4d6bacf3c660ed334f16f9cd5c5134",
+      "sha1": "b284d3be981d7debc339285cc47383a9cbdf557e",
+      "sha256": "c75abbc534f6e02636ffbbd6f3852a54bc0e81f2d1f95faf4b2917745ec60d9c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Children%20of%20Mana%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Children%20of%20Mana%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Children%20of%20Mana%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Children%20of%20Mana%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Children%20of%20Mana%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Children%20of%20Mana%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

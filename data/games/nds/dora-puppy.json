@@ -17,5 +17,62 @@
     "wikidata": "Q108753586",
     "mobygames": 87862,
     "igdb": 7976
-  }
+  },
+  "roms": [
+    {
+      "name": "Dora Puppy (Canada) (En,Fr)",
+      "source": "no_intro",
+      "serial": "BDPL",
+      "size": 16777216,
+      "crc32": "7a2d6458",
+      "md5": "22bfb900b02a02e9dc97e8c743806e56",
+      "sha1": "40ca36ab4dc8edbd8b6858f63931fb1bf41d05ce"
+    },
+    {
+      "name": "Dora Puppy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDPE",
+      "size": 8388608,
+      "crc32": "6931306e",
+      "md5": "c0b55503044e8391ef6ff6c354869941",
+      "sha1": "9602be2072a526893dd2037ccb764893d65a9a2b",
+      "sha256": "c31edb96c7588b146f79406e911a480b06297efd71223e6546b0cd28ab486dee"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dora%20Puppy%20%28Canada%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dora%20Puppy%20%28Canada%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dora%20Puppy%20%28Canada%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dora%20Puppy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dora%20Puppy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dora%20Puppy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

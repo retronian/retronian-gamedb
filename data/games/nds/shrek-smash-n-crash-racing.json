@@ -45,5 +45,54 @@
     "wikidata": "Q1776014",
     "mobygames": 25082,
     "igdb": 248507
-  }
+  },
+  "roms": [
+    {
+      "name": "Shrek - Smash n' Crash Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A4IE",
+      "size": 33554432,
+      "crc32": "b06b00b2",
+      "md5": "9737b519bb0181d35aa631be7863b55a",
+      "sha1": "11d7849ab234ac16fce8c84027ca1d5c3a2632b0"
+    },
+    {
+      "name": "Shrek - Smash n' Crash Racing (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A4IP",
+      "size": 67108864,
+      "crc32": "c0062448",
+      "md5": "c22ca7ac6789e4cd06a541dc20a845b8",
+      "sha1": "e2e05054cb0f67224dc550e086f29358caaeacab",
+      "sha256": "f247effb7b2db7de56affb6f5624025cc9f19823051bd61a7b02fe324a4241a7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Shrek%20-%20Smash%20n%27%20Crash%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Shrek%20-%20Smash%20n%27%20Crash%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Shrek%20-%20Smash%20n%27%20Crash%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Shrek%20-%20Smash%20n%27%20Crash%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

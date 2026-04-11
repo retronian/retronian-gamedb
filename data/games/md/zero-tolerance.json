@@ -18,5 +18,68 @@
     "wikidata": "Q2034608",
     "mobygames": 10115,
     "igdb": 46682
-  }
+  },
+  "roms": [
+    {
+      "name": "Zero Tolerance (USA, Europe) (Rev A)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-119146-01",
+      "size": 2097152,
+      "crc32": "23f603f5",
+      "md5": "54427136beee5a270232445bbfd0341f",
+      "sha1": "d6d9733a619ba6be0dd76591d8dec621e4fdc17e",
+      "sha256": "02e98d4dbf68c2279bf1471bfc7df4d6b8dc864435582beea92d2915febd0eeb"
+    },
+    {
+      "name": "Zero Tolerance (World) (Evercade, GOG)",
+      "source": "no_intro",
+      "serial": "T-119146-01",
+      "size": 2097152,
+      "crc32": "852dd0b5",
+      "md5": "2bcdd81203ccfa70f08e9d0d3bf8a528",
+      "sha1": "0a91c2b49330c5cc8be9c248845567417d0b41cc",
+      "sha256": "bc83ddbbe2bc2977746c59c5748be3cb66a23201cfe31d93864a79bc8c269ab6"
+    },
+    {
+      "name": "Zero Tolerance (World) (Switch)",
+      "source": "no_intro",
+      "serial": "T-119146-01",
+      "size": 2097152,
+      "crc32": "de1f0797",
+      "md5": "9397d9b84bd888dcc022cc2411f2f81f",
+      "sha1": "f31737565359eb55d9c23954783bd0d94458c776",
+      "sha256": "937e50867fb965c97c0233618477d1564f44e9b75d4646425a7a05c77d528b21"
+    },
+    {
+      "name": "Zero Tolerance (Germany) (En)",
+      "source": "no_intro",
+      "serial": "T-119146-00",
+      "size": 2097152,
+      "crc32": "6fb49ff8",
+      "md5": "f457e76fe6ae2aaad888f3804c18ffd6",
+      "sha1": "c2ea98f595cb477495a9d326ff25d91f3dbfa90b",
+      "sha256": "183bd7ac1780c9148d813714379c7e596833e2c182d3e578a6bb3dc8be532128"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Zero%20Tolerance%20%28USA%2C%20Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Zero%20Tolerance%20%28USA%2C%20Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Zero%20Tolerance%20%28USA%2C%20Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

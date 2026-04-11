@@ -102,5 +102,62 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Galaxian (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16400,
+      "crc32": "8451dc60",
+      "md5": "a21f8b4f9153a035e78478684dfbb2fd",
+      "sha1": "a5f7a67a40b7a0a47a48f2280938129a1335dcaa",
+      "sha256": "1188cedf84657769f19daef474d9a20e7c2d16f9c5c5998d5baab59f74f3613e"
+    },
+    {
+      "name": "Galaxian (Japan) (En) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16400,
+      "crc32": "fab815be",
+      "md5": "0b47cd0cbdf22e48a26af892eb6b3912",
+      "sha1": "c5194f07bb0960d12f6425fca23beb41982edd71",
+      "sha256": "c1ea772558d1c03892b301562994f3987504a153be2ba7350a3a0f2e4490a5b2"
+    },
+    {
+      "name": "Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1)",
+      "source": "no_intro",
+      "size": 16400,
+      "crc32": "3a9ee524",
+      "md5": "c6568a8d26ab990656db485dd1c991d9",
+      "sha1": "5d2e3c39f01aa6a64ada9596fe89d40a8efeb68c",
+      "sha256": "94e12b978eed127125096037f84c8edfc1ee1ac4260fe52a03b9d3cf2c1ecc32"
+    },
+    {
+      "name": "Galaxian (World) (Rev 1) (Evercade)",
+      "source": "no_intro",
+      "size": 16400,
+      "crc32": "a085c69e",
+      "md5": "a4ecc38e63ea1ba3d8b72aacbee299ff",
+      "sha1": "303d7b4ca29bb1cf43404d8d4681a5d7bb57c72c",
+      "sha256": "de1a428df80a108c4cdccd15e44166bd4ee85ffd47bb86ad372f168d6ba25a4e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Galaxian%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Galaxian%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Galaxian%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

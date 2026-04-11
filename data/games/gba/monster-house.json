@@ -45,5 +45,94 @@
     "wikidata": "Q6902724",
     "mobygames": 76219,
     "igdb": 205157
-  }
+  },
+  "roms": [
+    {
+      "name": "Monster House (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BQ7E",
+      "size": 8388608,
+      "crc32": "148b5072",
+      "md5": "720a562a8174c520ff1571c5e3223b39",
+      "sha1": "883e66345afa42e8736e1c29c8d493a6b99f10f3",
+      "sha256": "b536b125953d408782006598c89b385503de05fa4c6146f7633186cc1965f506"
+    },
+    {
+      "name": "Monster House (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BQ7X",
+      "size": 8388608,
+      "crc32": "21c84334",
+      "md5": "1949b8e4a2f30f28be71e97b4d824b22",
+      "sha1": "8114523e95d01774468381900d08827c59a074d1"
+    },
+    {
+      "name": "Monster House (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BQ7P",
+      "size": 8388608,
+      "crc32": "aa2c1837",
+      "md5": "252037e0c434428271dc322b122612aa",
+      "sha1": "f4873fcbd9b141a291f6d98304cce6d2419b0b96"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Monster%20House%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Monster%20House%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Monster%20House%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Monster%20House%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Monster%20House%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Monster%20House%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Monster%20House%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Monster%20House%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Monster%20House%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

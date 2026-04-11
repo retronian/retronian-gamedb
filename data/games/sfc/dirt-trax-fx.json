@@ -18,5 +18,65 @@
     "wikidata": "Q5280947",
     "mobygames": 35751,
     "igdb": 42622
-  }
+  },
+  "roms": [
+    {
+      "name": "Dirt Trax FX (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "9dbc2330",
+      "md5": "8746b7bddde64af9314e34b66e42c714",
+      "sha1": "d2940767de799fcd7a2ee0995f072930475ab88f",
+      "sha256": "5fe351c3eb4dc58330e41462de772b158035c1ed263b157838768d945b3172ec"
+    },
+    {
+      "name": "Dirt Trax FX (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "61a86c7f",
+      "md5": "a67235f2e7cdf0f7d8aaa15aa74b0353",
+      "sha1": "d36e3e949c46939029c82b19b2f99a098efdab76",
+      "sha256": "c5474de3592e2a99aac0e5511516658f9f0b50167c754a018409842ec35bcd45"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dirt%20Trax%20FX%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dirt%20Trax%20FX%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dirt%20Trax%20FX%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dirt%20Trax%20FX%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dirt%20Trax%20FX%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dirt%20Trax%20FX%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,67 @@
     "wikidata": "Q2373154",
     "mobygames": 18756,
     "igdb": 8065
-  }
+  },
+  "roms": [
+    {
+      "name": "Taz in Escape from Mars (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1546-00",
+      "size": 2097152,
+      "crc32": "62100099",
+      "md5": "0cca15206dd1e2eb619d699f2e3f32b5",
+      "sha1": "1edd44d9f9d1d410b6a9ec37647a04d9b50b549e",
+      "sha256": "f9a75a054ca68e31853c363b99436e99714e5221fd1ba7ea6ff8addd5139aca0"
+    },
+    {
+      "name": "Taz in Escape from Mars (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1546-00",
+      "size": 2097152,
+      "crc32": "62009f8c",
+      "md5": "6f8c3ca5a9c937eec69784c133d84e1d",
+      "sha1": "7aa9c7b74541d414d81aa61d150803c3b3b1701b",
+      "sha256": "5509454e9032fe2158d6c84a5cad6c74f976e7416315e9bf76e99968b0903588"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Taz%20in%20Escape%20from%20Mars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Taz%20in%20Escape%20from%20Mars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Taz%20in%20Escape%20from%20Mars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Taz%20in%20Escape%20from%20Mars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Taz%20in%20Escape%20from%20Mars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Taz%20in%20Escape%20from%20Mars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -54,5 +54,57 @@
     "wikidata": "Q5664513",
     "mobygames": 31670,
     "igdb": 265017
-  }
+  },
+  "roms": [
+    {
+      "name": "Hatris (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "15b91b87",
+      "md5": "5cbfa594d2aac44d66148ed5a110cb18",
+      "sha1": "9ce58457a8847eaec01f73d43b5e889cd91d838c",
+      "sha256": "45088828d1ac32dc126f95b9e2eb82142bf4ece9329f4f512ec81862837477d3"
+    },
+    {
+      "name": "Hatris (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "25b34d0d",
+      "md5": "27ff370e2071efb891e95be909874f11",
+      "sha1": "b6a6d5b39044f35771564e6889a5371de42255a3",
+      "sha256": "4f748afce2d85c3af2f7f9bd19f5c36c276ca5b5e64f532c203855530d85e0a6"
+    },
+    {
+      "name": "Hatris (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "c8456525",
+      "md5": "b02025441bb9e150b697e4aaf506cfa3",
+      "sha1": "d610181431eec60178d6473031cb25e42c745f63",
+      "sha256": "7bc95f40cb0173bb6eb1803c0b80d218649d2f077a6dab43b18f2e884d22501a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hatris%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hatris%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hatris%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,49 @@
     "wikidata": "Q2362159",
     "mobygames": 22139,
     "igdb": 10353
-  }
+  },
+  "roms": [
+    {
+      "name": "Outlander (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-87036-00",
+      "size": 1048576,
+      "crc32": "fe6f2350",
+      "md5": "34dcdc7f7c33ce7ef58687a43c5c548f",
+      "sha1": "48b764d85c435ddebba39dc160fd70509b76d94e",
+      "sha256": "142ea9bd8520d2b3f2e6d2d423e2edc9a6b40a79582b10dac640eb95b2186506"
+    },
+    {
+      "name": "Outlander (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-87036-00",
+      "size": 1048576,
+      "crc32": "c5ba7bbf",
+      "md5": "e8c7b444a1cbb0c12683ff2fe22e2b20",
+      "sha1": "3b59fb2bfd94de10fdeec1222f27284bb81217c3",
+      "sha256": "7686f598925fc801f2a1adc92d1a6f27a73811784e4ba3ab5a8c61f81f0761a3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Outlander%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Outlander%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Outlander%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

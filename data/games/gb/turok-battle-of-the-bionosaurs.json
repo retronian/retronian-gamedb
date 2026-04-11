@@ -43,5 +43,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Turok - Battle of the Bionosaurs (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "c88e751d",
+      "md5": "412075e19f160df8c3571ae37184d827",
+      "sha1": "332517218856313559c483c57256977e0ce07ad7",
+      "sha256": "48e742e1c9e2acf738e0a357eb29a509e78a6efed7056a2c8dbaf6dd909387e1"
+    },
+    {
+      "name": "Turok - Battle of the Bionosaurs (USA, Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "518c2d2f",
+      "md5": "fe68b048f7f77454f73ddef30c16316f",
+      "sha1": "8dcecc535909ef9d1b6dac658fa41ddcbb75c208",
+      "sha256": "0ca41e5faef09acc0f440ddb57624fb66cfb5f945145b7acc9390dd6ab07803c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Turok%20-%20Battle%20of%20the%20Bionosaurs%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Turok%20-%20Battle%20of%20the%20Bionosaurs%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Turok%20-%20Battle%20of%20the%20Bionosaurs%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Turok%20-%20Battle%20of%20the%20Bionosaurs%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Turok%20-%20Battle%20of%20the%20Bionosaurs%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Turok%20-%20Battle%20of%20the%20Bionosaurs%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

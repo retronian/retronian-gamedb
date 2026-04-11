@@ -80,5 +80,67 @@
     "wikidata": "Q645418",
     "mobygames": 4457,
     "igdb": 360
-  }
+  },
+  "roms": [
+    {
+      "name": "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NDQE",
+      "size": 33554432,
+      "crc32": "0075d32b",
+      "md5": "56bcdfc8f0b41bf60e6a54bc60144251",
+      "sha1": "f992a60c6e28ba818900e008faab01739715ae74",
+      "sha256": "16948956781b76c13206444a14549adfaa39f4fe9242c6014a9a0ae024fcbe54"
+    },
+    {
+      "name": "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NDQP",
+      "size": 33554432,
+      "crc32": "e6220482",
+      "md5": "00dd77d3d4186d0a91e2e99eb75c2da8",
+      "sha1": "7d95bc1c2e07adcec437a389e31c884adb6a8fd2",
+      "sha256": "f74318c58ef60f72df354c3b6c647763f09b2c1545ecd8ded7c95e1ca962a8fd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Donald%20Duck%20-%20Goin%27%20Quackers%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Donald%20Duck%20-%20Goin%27%20Quackers%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Donald%20Duck%20-%20Goin%27%20Quackers%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Donald%20Duck%20-%20Quack%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Donald%20Duck%20-%20Quack%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Donald%20Duck%20-%20Quack%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

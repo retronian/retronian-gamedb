@@ -56,6 +56,15 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Side Pocket 3",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1986-06-01",
@@ -63,5 +72,36 @@
     "wikidata": "Q2034580",
     "mobygames": 17479,
     "igdb": 6049
-  }
+  },
+  "roms": [
+    {
+      "name": "Side Pocket 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 143189824,
+      "crc32": "624593a8",
+      "md5": "68009e933ab8dac129164d45960848eb",
+      "sha1": "f9c56a69cb4c0190a19495363685089ff469fe53"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Side%20Pocket%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Side%20Pocket%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Side%20Pocket%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

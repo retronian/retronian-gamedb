@@ -18,5 +18,65 @@
     "wikidata": "Q1632811",
     "mobygames": 8898,
     "igdb": 3596
-  }
+  },
+  "roms": [
+    {
+      "name": "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NRUP",
+      "size": 12582912,
+      "crc32": "e63b86c5",
+      "md5": "02b16ac23998f78f09af6513f4acb664",
+      "sha1": "61373d4758eca3fa831beac27b4d4c250845f80c"
+    },
+    {
+      "name": "San Francisco Rush 2049 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NRUE",
+      "size": 12582912,
+      "crc32": "10941439",
+      "md5": "af5be0adff51a8e9c6d771282c295810",
+      "sha1": "3f99351d7bb61656614bdb2aa1a90cfe55d1922c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/San%20Francisco%20Rush%202049%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/San%20Francisco%20Rush%202049%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/San%20Francisco%20Rush%202049%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/San%20Francisco%20Rush%202049%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/San%20Francisco%20Rush%202049%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/San%20Francisco%20Rush%202049%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

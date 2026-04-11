@@ -72,5 +72,65 @@
     "wikidata": "Q3281078",
     "mobygames": 46012,
     "igdb": 200908
-  }
+  },
+  "roms": [
+    {
+      "name": "Meet the Robinsons (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BRHE",
+      "size": 8388608,
+      "crc32": "3787c93c",
+      "md5": "cfbf47949426a8f44ecdc832d06d09a9",
+      "sha1": "58ad2756f1985430e1ef605bdcba82564099a030"
+    },
+    {
+      "name": "Meet the Robinsons (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BRHP",
+      "size": 8388608,
+      "crc32": "df3e58d3",
+      "md5": "59aba4bba551aa20bf7726eba3af13fe",
+      "sha1": "1b5376d0c0b64973d74434a3a7388eeba3005aab"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Meet%20the%20Robinsons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Meet%20the%20Robinsons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Meet%20the%20Robinsons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Meet%20the%20Robinsons%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Meet%20the%20Robinsons%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Meet%20the%20Robinsons%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

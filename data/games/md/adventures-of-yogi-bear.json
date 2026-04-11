@@ -54,5 +54,48 @@
     "wikidata": "Q2020509",
     "mobygames": 25815,
     "igdb": 8010
-  }
+  },
+  "roms": [
+    {
+      "name": "Yogi Bear - Cartoon Capers (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-83146-50",
+      "size": 1048576,
+      "crc32": "204f97d8",
+      "md5": "ded915ceb879681492b069c4cec0cb5e",
+      "sha1": "9f235fd4ac2612fb398ecbe423f40c901be8f564",
+      "sha256": "e2c0329b2f85f99e2265b66fafb8f509a1871d2d4ba9f535f9e350091ef70560"
+    },
+    {
+      "name": "Yogi Bear - Cartoon Capers (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "32ad0230",
+      "md5": "13cabe429fbe8561ecadbcbbe7a8fda5",
+      "sha1": "98b82e7cc1f510a0648f9468b6f84e8fec3bbc85",
+      "sha256": "effa418c3edece19ce78a8acd87ece80f6e3c0ee0d700c9e9a5acba679be4485"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Yogi%20Bear%20-%20Cartoon%20Capers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Yogi%20Bear%20-%20Cartoon%20Capers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Yogi%20Bear%20-%20Cartoon%20Capers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

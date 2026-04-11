@@ -89,5 +89,79 @@
     "wikidata": "Q2626555",
     "mobygames": 18555,
     "igdb": 9140
-  }
+  },
+  "roms": [
+    {
+      "name": "Guilty Gear (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 194865296,
+      "crc32": "49381831",
+      "md5": "553da1f572f552663d2b20a3a247e9fe",
+      "sha1": "c19fcf34ab4fbd3b50fe42b8063bc63fe4a188df"
+    },
+    {
+      "name": "Guilty Gear (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 201551904,
+      "crc32": "98e9b98e",
+      "md5": "e35df52e3cedb1b814ccc7b2bc197214",
+      "sha1": "f9cd41db7c05c21c0cc98dfe0efd2de8358c564c"
+    },
+    {
+      "name": "Guilty Gear (France)",
+      "source": "no_intro",
+      "size": 194889632,
+      "crc32": "8cb67ea5",
+      "md5": "1856f9310e025041e0ef7b35ba4aec3b",
+      "sha1": "23c8380215115f4f9187f40b600bf534e8f71f7c"
+    },
+    {
+      "name": "Guilty Gear (Italy)",
+      "source": "no_intro",
+      "size": 194878336,
+      "crc32": "c2d46471",
+      "md5": "0fb2a64afaf0312f2065af30e61889d9",
+      "sha1": "2ed75b065bda0d396a71240eb6db067ed8592d0a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Guilty%20Gear%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Guilty%20Gear%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Guilty%20Gear%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Guilty%20Gear%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Guilty%20Gear%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Guilty%20Gear%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

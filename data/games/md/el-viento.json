@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "El Viento",
@@ -47,6 +47,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "El.Viento",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1991-09-20",
@@ -54,5 +63,94 @@
     "wikidata": "Q2197533",
     "mobygames": 7125,
     "igdb": 81222
-  }
+  },
+  "descriptions": [
+    {
+      "text": "1930年代のニューヨーク、暗いカルトが彼らの主、ダークプリンス・ハスターの復活を計画し、ニューヨークと世界を支配しようとしています。マフィアは彼らの味方となり、暗いプロジェクトや儀式に資金を提供して、彼らの暗黒の主をこの世界に呼び出そうとしています。\n\n彼らを止められるのは、アンネットという名の若い少女だけです…ハスターの呪われた血筋から生まれながらも、彼の計画に逆らっています。彼女の唯一の武器は、エル・ヴィエントという名の神秘的なブーメランです…\n\nアンネットとして、あなたはマフィアと戦い、下水道や洞窟、建物を駆け抜けながら、ボーナスアイテムを集めていきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "El.Viento (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-32063-00",
+      "size": 1048576,
+      "crc32": "6091c36e",
+      "md5": "150e774ff1c31a76095a8bddf9975456",
+      "sha1": "564ffd2a40b9bebe30587182a644050de474aa5a",
+      "sha256": "782d575d067065d8bca4c86d74a46b54a036dfa145e4567bd3c243afec1b5af0"
+    },
+    {
+      "name": "El.Viento (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-32063-00",
+      "size": 1048576,
+      "crc32": "070a1ceb",
+      "md5": "6ddf640c2c5f91f12487d813b6257114",
+      "sha1": "b53e901725fd6220d8e6d19ef8df42e89e0874db",
+      "sha256": "5041a2589276aad0675f259b4a19aadf489d0751468d1f36bcc0723eefcb2f65"
+    },
+    {
+      "name": "El.Viento (World) (Retro-Bit)",
+      "source": "no_intro",
+      "serial": "T-32063 -00",
+      "size": 1048576,
+      "crc32": "c1c7b2ac",
+      "md5": "34f2abe8f13ca5a38e52b101a21a91c8",
+      "sha1": "2e78b85a3bd2594188ec66c5c234a869d67d75df",
+      "sha256": "64d9df93b4c2b79445f7a8be99b00182a7fabdd9ad27b12213eb4a18bf98abd9"
+    },
+    {
+      "name": "El.Viento (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-32063-00",
+      "size": 1048576,
+      "crc32": "41f0daa6",
+      "md5": "ee06e1e8446d34bc5f4aa4de019f34d3",
+      "sha1": "dc98d0442c8462809d2552f13ab0e204989e5169",
+      "sha256": "978418899f3b4374706608788d8693c38548f2d193c44a290239c3ddfc8243e2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/El.Viento%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/El.Viento%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/El.Viento%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/El.Viento%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/El.Viento%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/El.Viento%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

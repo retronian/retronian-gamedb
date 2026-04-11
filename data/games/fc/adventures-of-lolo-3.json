@@ -63,5 +63,65 @@
     "wikidata": "Q2321007",
     "mobygames": 7506,
     "igdb": 7547
-  }
+  },
+  "roms": [
+    {
+      "name": "Adventures of Lolo 3 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "0f4e9cb2",
+      "md5": "2b38eb4ed16a2ede5c75180056b829c9",
+      "sha1": "6913d394ecefe3494d4e9859694c9101eed45756",
+      "sha256": "e2e0cc5a57dc068806b7cc99cc4a297da3af11b9a43d4289987fdfa20817e1be"
+    },
+    {
+      "name": "Adventures of Lolo 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "7140eca3",
+      "md5": "d3236f83d6dac924309dee402a30e04a",
+      "sha1": "9ad704ae78f0d6c21f2664e8bc1cd30cdf16ec94",
+      "sha256": "8fd4594e2fead48def2b5993a7817121416087a97f819d38b0ffd26c38fc2a0a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Adventures%20of%20Lolo%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Adventures%20of%20Lolo%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Adventures%20of%20Lolo%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Adventures%20of%20Lolo%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Adventures%20of%20Lolo%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Adventures%20of%20Lolo%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

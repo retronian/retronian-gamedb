@@ -38,6 +38,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Hybrid Front, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1994-07-22",
@@ -45,5 +54,74 @@
     "wikidata": "Q3521350",
     "mobygames": 57617,
     "igdb": 45620
-  }
+  },
+  "descriptions": [
+    {
+      "text": "「ハイブリッド・フロント」は、メガドライブ専用に日本でリリースされたターン制戦略ビデオゲームです。\n\n物語は、誰かがコンピュータにログインするシーンから始まります。その後、2080年代に発生した革命が描かれ、一連の戦争と紛争が続き、ゲームの主要な舞台である26世紀へとつながります。21世紀後半から、化石燃料資源の枯渇が地球上の対立を深める要因となりました...\n24世紀には、イタリアのコンソーシアムによって「メタルハンマー」と呼ばれる巨大な光学兵器で地球が軌道から攻撃され、世界中の主要都市が焼き尽くされました。抵抗勢力は最終的に「ココーン」（COoperation COmmunity of Orbital Negotiationの略称）によって鎮圧されました。ココーンは人類の企業的覇権を手に入れるだけでなく、企業戦争のタカ派としての評判を築き、平和的な「ペト」（Pan Earth Treaty Organizationの略称）連合に対して常に反抗し続けました。\n戦いを始めよう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hybrid Front, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-5541-00",
+      "size": 2097152,
+      "crc32": "a1f1cfe7",
+      "md5": "28a72c6a6840088c4a97670139cae085",
+      "sha1": "ed592c78ef60d91a6c5723d11cd553d3798524e1",
+      "sha256": "ae285c4ce2dab00b5b9e42731c9840da23901430f7182685fad1bdc63378985b"
+    },
+    {
+      "name": "Hybrid Front, The (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00001022-00",
+      "size": 3145728,
+      "crc32": "04f02687",
+      "md5": "98115840ef962964278aca1f7c09426c",
+      "sha1": "b6e72b69a22869f966c52e7d58d146bc48b5eb84",
+      "sha256": "d70d1f112316c8d549cfba37d110af5e0533e60fab478010575dea2533c3c777"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Hybrid%20Front%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Hybrid%20Front%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Hybrid%20Front%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Hybrid%20Front%2C%20The%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Hybrid%20Front%2C%20The%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Hybrid%20Front%2C%20The%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

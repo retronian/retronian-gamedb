@@ -47,6 +47,15 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": true
+    },
+    {
+      "text": "Flintstones, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1993-01-01",
@@ -54,5 +63,136 @@
     "wikidata": "Q20707146",
     "mobygames": 7813,
     "igdb": 277144
-  }
+  },
+  "descriptions": [
+    {
+      "text": "これは有名な「フリントストーン」シリーズに基づいたプラットフォームゲームです。ゲームには、フレッド、ウィルマ、バーニーなど、多くのオリジナルのフリントストーンキャラクターが登場します。一般的な「姫を救う」や「世界を解放する」といったプロットではなく、「フリントストーン」は主に小さなクエストに基づいています：フレッドは失くしたアイテムを取り戻さなければなりません。大きなレベルは小さなステージに分かれています。各レベルの最後にはボスバトルがあります。ゲームプレイは主にジャンプし、敵の頭をクラブで叩くことが中心です。健康はハートで測定されます。ゲーム中、フレッドは健康レベルを上げるアイテムを含む多くの便利なアイテムを見つけます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Flintstones, The (USA) (Taito) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "G-4015-00",
+      "size": 524288,
+      "crc32": "41a2a7ee",
+      "md5": "73e974b4bbf5813eaffcc6ae40acb1b7",
+      "sha1": "b705e9a6f40d9b1f93c5ae44e06113bb4c7a963c",
+      "sha256": "bfc86f80c68bfdb6c3efd6d878c9887e56bbc042b288919ed73cc81f2ce92ada"
+    },
+    {
+      "name": "Flintstones, The (USA) (Ocean) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00001014-00",
+      "size": 1048576,
+      "crc32": "9281ff45",
+      "md5": "0f93cb052e285e5474f4a20d7111ec1a",
+      "sha1": "23c1ad486457ee73b504133014970aea316634f6",
+      "sha256": "41b2ae1b51d38ace5a84ac6233f5b6eafb69614a52cffa768e27a2c968f8b0b9"
+    },
+    {
+      "name": "Flintstones, The (USA) (En-US,En-GB,Fr,De,Es,It) (Ocean) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "06001-TF-00",
+      "size": 2097152,
+      "crc32": "8ca71c6b",
+      "md5": "27eb1bcbc8fe09f113d038255138d04d",
+      "sha1": "29a1d4013a479d1884a704926c85d87726c35643",
+      "sha256": "09a33164df09a461f543b0e7a10458913361748c5a218a2094ac7c6824078424"
+    },
+    {
+      "name": "Flintstones, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-11173-00",
+      "size": 524288,
+      "crc32": "920a3031",
+      "md5": "a161b33377258252018326c91cf8b7ed",
+      "sha1": "a3dc66bb5b35916a188b2ef4b6b783f3c5ffc03c",
+      "sha256": "ecdc3bfd64b44233185d3d533bcfa26641f37a2e7d431af54743bc551457f03d"
+    },
+    {
+      "name": "Flintstones, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1088-50",
+      "size": 524288,
+      "crc32": "21845d61",
+      "md5": "cdccd5fe37bea01b51a4dc15ade35167",
+      "sha1": "6350da9fa81a84a7a73d0238be135b1331147599",
+      "sha256": "0b305bd62b1194f4cfeea5666fc3ebad0bae878f2b376eb00fe5d3c7ba8e1092"
+    },
+    {
+      "name": "Flintstones, The (USA) (Taito)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-11116-00",
+      "size": 524288,
+      "crc32": "7c982c59",
+      "md5": "60ea3535c8a939d26ded83bde0f4809d",
+      "sha1": "5541579ffaee1570da8bdd6b2c20da2e395065b0",
+      "sha256": "eef03cf3d05a1cc88e78726cabbf28a353ff41793fe4d9025b8c64b6a75af631"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Flintstones%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Flintstones%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Flintstones%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Flintstones%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Flintstones%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Flintstones%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Flintstones%2C%20The%20%28USA%29%20%28Taito%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Flintstones%2C%20The%20%28USA%29%20%28Taito%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Flintstones%2C%20The%20%28USA%29%20%28Taito%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

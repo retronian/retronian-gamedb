@@ -45,5 +45,66 @@
     "wikidata": "Q477882",
     "mobygames": 486,
     "igdb": 248587
-  }
+  },
+  "roms": [
+    {
+      "name": "Wing Commander - Prophecy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AW9E",
+      "size": 4194304,
+      "crc32": "62d9e3d0",
+      "md5": "054d89a31ca79c50638ee14e8d3185a7",
+      "sha1": "6ef506892b9c2a8654e3451f952d886b11fd6c23"
+    },
+    {
+      "name": "Wing Commander - Prophecy (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AW9P",
+      "size": 4194304,
+      "crc32": "09f02f6a",
+      "md5": "9a3589d2dd7fe1641201098ebd4bba28",
+      "sha1": "8b3d5fe031c634b7037bfaf361f83d81ac16e1ec",
+      "sha256": "cd66c7347af283efba8391bcfb2095f3162b44397e4cf0914dcba39095479548"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Wing%20Commander%20-%20Prophecy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Wing%20Commander%20-%20Prophecy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Wing%20Commander%20-%20Prophecy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Wing%20Commander%20-%20Prophecy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Wing%20Commander%20-%20Prophecy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Wing%20Commander%20-%20Prophecy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

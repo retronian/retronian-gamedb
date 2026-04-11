@@ -17,5 +17,47 @@
     "wikidata": "Q5490681",
     "mobygames": 10687,
     "igdb": 48128
-  }
+  },
+  "roms": [
+    {
+      "name": "Frankenstein - The Monster Returns (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "15da27cb",
+      "md5": "97333dcb2b74f3f7e2b250a49ad8a197",
+      "sha1": "ed5e7eaa549707795fc3d1bcfc4d2595d327ebbe",
+      "sha256": "e3710a674d45cba0c0bb2f6b9972ad6826246273bd2166b57abe3138949d8bae"
+    },
+    {
+      "name": "Frankenstein - The Monster Returns (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "80b9394b",
+      "md5": "88e080f648da7c0a413a2ec653c5e9cb",
+      "sha1": "d5cc6026712d4033a61213cb6876a7c1824c07a4",
+      "sha256": "1484a58ffdf22e4dc3e7ee6c0c663011b90b082fa5e1cdb17b3d51121d8e8661"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Frankenstein%20-%20The%20Monster%20Returns%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Frankenstein%20-%20The%20Monster%20Returns%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Frankenstein%20-%20The%20Monster%20Returns%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

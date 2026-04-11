@@ -18,5 +18,53 @@
     "wikidata": "Q106620745",
     "mobygames": 90512,
     "igdb": 9750
-  }
+  },
+  "roms": [
+    {
+      "name": "Victorious - Hollywood Arts Debut (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B6EE",
+      "size": 33554432,
+      "crc32": "962ffe2e",
+      "md5": "c5f4e2d715f9c1c2c958fb2c23a96e50",
+      "sha1": "bb56d4fd1d15732b27f6459a1b0a1a2ff86ab581"
+    },
+    {
+      "name": "Victorious - Hollywood Arts Debut (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B6EP",
+      "size": 33554432,
+      "crc32": "210e1409",
+      "md5": "10f6d6abc761021a185f4bd8ee134f97",
+      "sha1": "804385c7c80fa3bd9803f5d42d4b9676aedbdc1d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Victorious%20-%20Hollywood%20Arts%20Debut%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Victorious%20-%20Hollywood%20Arts%20Debut%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Victorious%20-%20Hollywood%20Arts%20Debut%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Victorious%20-%20Hollywood%20Arts%20Debut%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

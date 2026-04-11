@@ -87,5 +87,109 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mega Man III (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "03b0d4ec",
+      "md5": "f155c9c04ef01a99b26478c1121c8069",
+      "sha1": "ecadbc9e273e4d99ccd87f98bbbd912aec43c077",
+      "sha256": "719f2b1d0cf345430cfb85ec27452f842726318fa5c16012c8ea163059e1c606"
+    },
+    {
+      "name": "Mega Man III (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "5175d761",
+      "md5": "4c614f884a07872f12056ad1a421e1f9",
+      "sha1": "57347305ab297daa4332564623c4a098e6dbb1a3",
+      "sha256": "7344a36fcfc8151098238529218762e44c5a1546fab7e7fd5d32927e06cbf5a8"
+    },
+    {
+      "name": "Mega Man III (USA) (Sample)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "82f4c095",
+      "md5": "05f432506ab629713f40b8d5fc3a5098",
+      "sha1": "7eea8a96bf64537b041b96ce2cb5dd13cdebb789",
+      "sha256": "9205720c07d327a6d5efed30bca94e23446e0e75a2f4b468ed1ff56d1b2a0332"
+    },
+    {
+      "name": "Rockman World 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "e904484f",
+      "md5": "c22f3efe9048652ef6f798650fce2d2a",
+      "sha1": "201abc73cf669f71a477a431d387518f4b488c1f",
+      "sha256": "c3f26fa63f2288a5f5b7416e0ab834be86462eeabfb32e6005537765627a69e4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mega%20Man%20III%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mega%20Man%20III%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mega%20Man%20III%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mega%20Man%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mega%20Man%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mega%20Man%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mega%20Man%20III%20%28USA%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Rockman%20World%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Rockman%20World%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Rockman%20World%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

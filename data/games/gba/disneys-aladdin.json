@@ -90,5 +90,94 @@
     "wikidata": "Q2829467",
     "mobygames": 43932,
     "igdb": 2473
-  }
+  },
+  "roms": [
+    {
+      "name": "Aladdin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AJ6J",
+      "size": 4194304,
+      "crc32": "587f1aef",
+      "md5": "70245e4d52cfb1af2533fedc6191dcb5",
+      "sha1": "b29c55b063f81d829992da63bd8bd3c25b0c90d7"
+    },
+    {
+      "name": "Aladdin (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BADP",
+      "size": 4194304,
+      "crc32": "594fbb7c",
+      "md5": "8ed4304e943b553f8ff3abc1e66ea91e",
+      "sha1": "38c9a3b3de0679484e025534a2eb6fb1f790a46d"
+    },
+    {
+      "name": "Aladdin (USA) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BADE",
+      "size": 4194304,
+      "crc32": "40b383f6",
+      "md5": "4bda2a3e0249dfd09330dabc3aa20978",
+      "sha1": "3cfe653a54f3bc9f3ad20234de680ebfc4145cf6",
+      "sha256": "8faf7635d203fde1b556ebc0c5b9110e03570605b5306f3ec21addddca837337"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Aladdin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Aladdin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Aladdin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Aladdin%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Aladdin%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Aladdin%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Aladdin%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Aladdin%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Aladdin%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

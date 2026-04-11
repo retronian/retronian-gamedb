@@ -63,5 +63,65 @@
     "wikidata": "Q74539",
     "mobygames": 85285,
     "igdb": 324524
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars - The Force Unleashed II (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B2SP",
+      "size": 134217728,
+      "crc32": "07201010",
+      "md5": "8f8717c6dfa7bace8691671e9d62aea6",
+      "sha1": "ecc3fac72823304068d2eb2fef165951569380b3"
+    },
+    {
+      "name": "Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B2SE",
+      "size": 134217728,
+      "crc32": "03f55825",
+      "md5": "c135af7d54b6d639b74b88a42181adda",
+      "sha1": "2ddc44ec74963969683fa9fcfad917d7240b6350"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Wars%20-%20The%20Force%20Unleashed%20II%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Wars%20-%20The%20Force%20Unleashed%20II%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Wars%20-%20The%20Force%20Unleashed%20II%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Wars%20-%20The%20Force%20Unleashed%20II%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Wars%20-%20The%20Force%20Unleashed%20II%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Wars%20-%20The%20Force%20Unleashed%20II%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

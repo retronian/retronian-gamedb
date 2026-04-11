@@ -36,5 +36,63 @@
     "wikidata": "Q2015463",
     "mobygames": 30355,
     "igdb": 46331
-  }
+  },
+  "roms": [
+    {
+      "name": "WWF WrestleMania - Steel Cage Challenge (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 393232,
+      "crc32": "faa07975",
+      "md5": "4d9d898f0538671e4a42b4a762385ff9",
+      "sha1": "c874635e2f45a7a67cba27258787fcccc051f0cc",
+      "sha256": "2a098c3fcb7eb193e3bcfc0f864f4a325d8118416fec6d6a7c909e2463fd69d3"
+    },
+    {
+      "name": "WWF WrestleMania - Steel Cage Challenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "0f295559",
+      "md5": "854444bdd3c3a7a024fbfa48bf40d32a",
+      "sha1": "4a4f4121aced03658c0f9f9c7a9dee873b814dc6",
+      "sha256": "cd30d95a3650a8d90ebb80a38d6a2bda54e905c46251b9bc77b796c150dbfb89"
+    },
+    {
+      "name": "WWF WrestleMania - Steel Cage Challenge (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "43be5168",
+      "md5": "0b001551612684361f9519b6725a008a",
+      "sha1": "e6a9831e7a884dd283ce90574f06f770c7a342c0",
+      "sha256": "7225258e50b1dab2be7d3df1eb0191bcbe6d94edf88e89ef2712ac874c0a5ac2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/WWF%20WrestleMania%20-%20Steel%20Cage%20Challenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/WWF%20WrestleMania%20-%20Steel%20Cage%20Challenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/WWF%20WrestleMania%20-%20Steel%20Cage%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/WWF%20WrestleMania%20-%20Steel%20Cage%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

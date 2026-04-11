@@ -54,5 +54,66 @@
     "wikidata": "Q1440394",
     "mobygames": 31527,
     "igdb": 322364
-  }
+  },
+  "roms": [
+    {
+      "name": "Thrillville - Off the Rails (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YTVE",
+      "size": 134217728,
+      "crc32": "6fb3fec5",
+      "md5": "ced343f24a8552a0614c6b39bffb3b0f",
+      "sha1": "eedcde721ff79083ce640a7ac2ae1aed63a49584"
+    },
+    {
+      "name": "Thrillville - Off the Rails (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YTVP",
+      "size": 134217728,
+      "crc32": "98ea8f01",
+      "md5": "bb5bd4337267125a44df042a3674a4c4",
+      "sha1": "e2b4665cce091e87c7f592673c392c127a2e65de",
+      "sha256": "42f62b9f8ddcba60a3032c288312773232aa2e4aa486470f4a66fc038e8be4e9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Thrillville%20-%20Off%20the%20Rails%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Thrillville%20-%20Off%20the%20Rails%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Thrillville%20-%20Off%20the%20Rails%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Thrillville%20-%20Off%20the%20Rails%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Thrillville%20-%20Off%20the%20Rails%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Thrillville%20-%20Off%20the%20Rails%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

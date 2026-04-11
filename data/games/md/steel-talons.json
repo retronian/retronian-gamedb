@@ -54,5 +54,71 @@
     "wikidata": "Q3497781",
     "mobygames": 23332,
     "igdb": 38435
-  }
+  },
+  "roms": [
+    {
+      "name": "Steel Talons (Japan, Korea) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-48103-00",
+      "size": 524288,
+      "crc32": "04f388e6",
+      "md5": "edfa7b1d6ce95725d2803b8f82e01b90",
+      "sha1": "93c51ec9fcc56d858642018905b3defc17442c26",
+      "sha256": "10420fce1a7b7801d864ff5337e6bfe08c8ca4334c567dddf1ca9081b083a74a"
+    },
+    {
+      "name": "Steel Talons (USA, Europe) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48146-00",
+      "size": 524288,
+      "crc32": "c4052f18",
+      "md5": "8821e3b3bb6c1bda06f419527b3ef820",
+      "sha1": "c3edd1f6b9f4fb16104d09c17b66feebb3785f4e",
+      "sha256": "d467e26e63e6bcedd75bbb33735f8ba51c4645b1e4baa2e96673b4414a3892e7"
+    },
+    {
+      "name": "Steel Talons (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48146-00",
+      "size": 524288,
+      "crc32": "10e4ec63",
+      "md5": "4523a96042e40b0d1ad24cc80be72c37",
+      "sha1": "b4f0a13646c13911be5550103301af25827fcd0c",
+      "sha256": "165c91d70bd92080889d99a35b351dc4912bb6dc65e9c82582da34c192770e73"
+    },
+    {
+      "name": "Steel Talons (USA, Europe) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48146-00",
+      "size": 524288,
+      "crc32": "163d3b4b",
+      "md5": "bbb8530eb86b1ca2d06a94cbbd1a138b",
+      "sha1": "90ee0e176f47882c6bcc0a7ee44f0f4baab3d78e",
+      "sha256": "e06e4759b929a4c3c7fa050feaf4860a84d03e898c54795230322a5e37f94149"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Steel%20Talons%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Steel%20Talons%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Steel%20Talons%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

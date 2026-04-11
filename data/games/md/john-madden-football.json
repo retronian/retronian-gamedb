@@ -54,5 +54,49 @@
     "wikidata": "Q3181985",
     "mobygames": 11466,
     "igdb": 4400
-  }
+  },
+  "roms": [
+    {
+      "name": "John Madden Football (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50016-00",
+      "size": 524288,
+      "crc32": "90fb8818",
+      "md5": "6c2b1deff4ad246d5ac0962591e1f974",
+      "sha1": "10682f1763711b281542fcd5e192e1633809dc75",
+      "sha256": "e78cf8b93706706ac250e608fb8f8be01c67ff4348fcab3e8a68e770ccf2f5e6"
+    },
+    {
+      "name": "John Madden Football (USA, Europe) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50056-00",
+      "size": 524288,
+      "crc32": "e361db13",
+      "md5": "14ad9d36ad7ee100a383105b9f1c08f3",
+      "sha1": "4a8fca0212497d446f6a5f829dc5748ed1456b87",
+      "sha256": "f55b9d5a49bb97b1ef06c0357f42cd78ee86e595de427685f98b537e7e9684dd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/John%20Madden%20Football%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/John%20Madden%20Football%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/John%20Madden%20Football%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

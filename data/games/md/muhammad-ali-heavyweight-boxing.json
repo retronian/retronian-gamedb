@@ -18,5 +18,89 @@
     "wikidata": "Q3327486",
     "mobygames": 61763,
     "igdb": 46269
-  }
+  },
+  "roms": [
+    {
+      "name": "Muhammad Ali Heavyweight Boxing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70096-00",
+      "size": 1048576,
+      "crc32": "a920c852",
+      "md5": "e484ab1651569c2aae836af60beeaca1",
+      "sha1": "0454f849a87c803f805fb76d1f77d51792a2e92b",
+      "sha256": "f04e1389c06709880ca0dc07296bab77552706a18810deef9fc05ce7fc4cf387"
+    },
+    {
+      "name": "Muhammad Ali Heavyweight Boxing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70056-00",
+      "size": 1048576,
+      "crc32": "b638b6a3",
+      "md5": "8f62e23a55efdc026232c9afaff1d2cd",
+      "sha1": "caad1bc67fd3d7f7add0a230def4a0d5a7f196ef",
+      "sha256": "0f279b19442b111f23c1ccf8bd1a2e5ab73957b59cdf8f3093b7d04162738d79"
+    },
+    {
+      "name": "Muhammad Ali Heavyweight Boxing (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-XXXXX-XX",
+      "size": 1048576,
+      "crc32": "7b852653",
+      "md5": "985c78dd2d5ccc5a34b39edbac7d38e7",
+      "sha1": "f509c3a49cf18af44da3e4605db8790a1ab70a32",
+      "sha256": "0c6d493c5a6e9754979f716c4de62ac90f549b491923a632d713396be4b46cd7"
+    },
+    {
+      "name": "Muhammad Ali Heavyweight Boxing (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-XXXXX-XX",
+      "size": 1048576,
+      "crc32": "be6e8f2b",
+      "md5": "d196af5c44fde9b67d686e030c9f8d01",
+      "sha1": "6998a1868d142059af77f7d16b5ada8143b282c7",
+      "sha256": "ad07794eee1a955142a153050d12a01b8c251f207f65b43069f589f609bb5b3c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Muhammad%20Ali%20Heavyweight%20Boxing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Muhammad%20Ali%20Heavyweight%20Boxing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Muhammad%20Ali%20Heavyweight%20Boxing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Muhammad%20Ali%20Heavyweight%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Muhammad%20Ali%20Heavyweight%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Muhammad%20Ali%20Heavyweight%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

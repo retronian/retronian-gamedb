@@ -45,5 +45,66 @@
     "wikidata": "Q1872579",
     "mobygames": 20580,
     "igdb": 194233
-  }
+  },
+  "roms": [
+    {
+      "name": "Burnout Legends (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ABOE",
+      "size": 33554432,
+      "crc32": "13223c5a",
+      "md5": "90285c4b42d1b64b9ced746da5b8f53f",
+      "sha1": "808bf4e99088474664340d7ee07f4221a3e736e2",
+      "sha256": "036b018eb2ef9b987cb45f21ae371112c2cdbbab61ab7e645e6668f044d5ff70"
+    },
+    {
+      "name": "Burnout Legends (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ABOP",
+      "size": 33554432,
+      "crc32": "6c7ebce5",
+      "md5": "8044f0fec879b2572a784cc0aa9a110b",
+      "sha1": "3c118de1c4ed7fc00757c7b9449ff0adbda9622b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Burnout%20Legends%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Burnout%20Legends%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Burnout%20Legends%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Burnout%20Legends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Burnout%20Legends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Burnout%20Legends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

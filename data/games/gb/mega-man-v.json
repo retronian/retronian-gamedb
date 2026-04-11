@@ -87,5 +87,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mega Man V (Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "d12ac4fe",
+      "md5": "b53fe06db30ab689153135990354dd5a",
+      "sha1": "1a377bb0571bbe48a58b5006ccb02046ec64b076",
+      "sha256": "8afe020205dedf6834a418d17d34cc045044daf3dc35af33081628b2daaaeec3"
+    },
+    {
+      "name": "Mega Man V (USA) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "72e6d21d",
+      "md5": "ceb17d831b410d91aa41bf2819cbed82",
+      "sha1": "9a7da0e4d3f49e4a0b94e85cd64e28a687d81260",
+      "sha256": "7a108770a7c1ad592b52d0c46d7ead422d0a20961abaafca3d40086e3f2f588f"
+    },
+    {
+      "name": "Rockman World 5 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "eeabd3c6",
+      "md5": "309fc69d5ab1d2b17d0bbc127faf04c1",
+      "sha1": "f3904d2069a888e45ca44878461324e4c2a8b03d",
+      "sha256": "ab1f31c2b0ad69b9ee833c0dd40c5a97cafe93baad0142b99239d1954873f8e6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mega%20Man%20V%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mega%20Man%20V%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mega%20Man%20V%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mega%20Man%20V%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mega%20Man%20V%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mega%20Man%20V%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Rockman%20World%205%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Rockman%20World%205%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Rockman%20World%205%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

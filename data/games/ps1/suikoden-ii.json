@@ -89,5 +89,63 @@
     "wikidata": "Q3503174",
     "mobygames": 4854,
     "igdb": 1454
-  }
+  },
+  "roms": [
+    {
+      "name": "Suikoden II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 315995728,
+      "crc32": "965f7cee",
+      "md5": "190bcd51eacd833a43f9a639eac9d930",
+      "sha1": "f995dafc4cabc451ddca7bbe47b20cae4655b637"
+    },
+    {
+      "name": "Suikoden II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 330160416,
+      "crc32": "a421a2f9",
+      "md5": "48f9286cf0e29efb0366ed26993a004d",
+      "sha1": "6ce5faa0603a6b6c57bb1a3ee085adc33c18f3a2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Suikoden%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Suikoden%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Suikoden%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Suikoden%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Suikoden%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Suikoden%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

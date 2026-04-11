@@ -81,5 +81,65 @@
     "wikidata": "Q2625613",
     "mobygames": 28127,
     "igdb": 200881
-  }
+  },
+  "roms": [
+    {
+      "name": "Shrek the Third (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3HE",
+      "size": 8388608,
+      "crc32": "d7d1da8d",
+      "md5": "968c5daa71e6b41c71143852b27ae0b5",
+      "sha1": "7b87c84c746be668e89ce94500a3f22dbc206e55"
+    },
+    {
+      "name": "Shrek the Third (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3HP",
+      "size": 8388608,
+      "crc32": "da1ee1e5",
+      "md5": "62a40ea4f49b7dfd192696732306fba9",
+      "sha1": "172100399f6f9f3367c251c2c9302073ae57f1c7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shrek%20the%20Third%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shrek%20the%20Third%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shrek%20the%20Third%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shrek%20the%20Third%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shrek%20the%20Third%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shrek%20the%20Third%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

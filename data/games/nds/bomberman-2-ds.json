@@ -62,5 +62,53 @@
     "wikidata": "Q4940639",
     "mobygames": 79938,
     "igdb": 85843
-  }
+  },
+  "roms": [
+    {
+      "name": "Bomberman 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YBAP",
+      "size": 33554432,
+      "crc32": "26b0bba3",
+      "md5": "41f4a215244e7dd4e80d75dc18be7a6a",
+      "sha1": "dff35c97e654f67d96b6acb13ca7a6e4573fd488"
+    },
+    {
+      "name": "Custom Battler Bomberman (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YBAJ",
+      "size": 33554432,
+      "crc32": "855c2663",
+      "md5": "985d5a44810ab95fa6628bcb73eac161",
+      "sha1": "46915e09d89861b26e43922061a8ecf3d7356fcf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bomberman%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bomberman%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bomberman%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Custom%20Battler%20Bomberman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

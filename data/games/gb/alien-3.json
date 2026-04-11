@@ -70,5 +70,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Alien 3 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "e59049b2",
+      "md5": "4f5c4c439f1134177e02d72c794882ba",
+      "sha1": "4a3e7eb0edaefec096baa0019b3cba28b4796689",
+      "sha256": "3dba55633d0ba1a6b0380d2555f107068aa5f7f6ecb2a6b3c8a18c45402e1c8a"
+    },
+    {
+      "name": "Alien 3 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "effb960b",
+      "md5": "b3f3d35f58a0ea3affc0ec6d4ee1183d",
+      "sha1": "ab4d11eee7faea42c637505469e0671c9d4a83f8",
+      "sha256": "4790f55d0917f4418c63d29c5c528362b1c7ae39546f6fc3ae94e867d1e9f270"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Alien%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Alien%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Alien%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

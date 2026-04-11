@@ -17,5 +17,53 @@
   "external_ids": {
     "wikidata": "Q112055426",
     "igdb": 186723
-  }
+  },
+  "roms": [
+    {
+      "name": "Monopoly (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BEFP",
+      "size": 8388608,
+      "crc32": "6f1b0153",
+      "md5": "99667ba9456b7798307fbc040f99cf38",
+      "sha1": "c8f9a5ca9fed851433fc0c47c54799ad1c2ffc21"
+    },
+    {
+      "name": "Monopoly (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BEFE",
+      "size": 8388608,
+      "crc32": "90580dbd",
+      "md5": "d9b31c9b6fc5f0682a1b150fbf44006f",
+      "sha1": "920edcb7c45e2ff3456ca621e5145d33f5a6a561"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monopoly%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monopoly%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monopoly%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monopoly%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

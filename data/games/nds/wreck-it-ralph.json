@@ -36,5 +36,53 @@
     "wikidata": "Q20874499",
     "mobygames": 81393,
     "igdb": 23586
-  }
+  },
+  "roms": [
+    {
+      "name": "Wreck-It Ralph (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TRWE",
+      "size": 33554432,
+      "crc32": "e810cabf",
+      "md5": "21aba167d0933aeac6db18869520fea6",
+      "sha1": "7f18a91bfa7961286dfe541f09d1648d6c455981"
+    },
+    {
+      "name": "Wreck-It Ralph (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TRWP",
+      "size": 67108864,
+      "crc32": "4168f595",
+      "md5": "33496a15193843eff2112418fe232cdb",
+      "sha1": "360aff73591cca453e76edb8534b21b557641f77"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wreck-It%20Ralph%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wreck-It%20Ralph%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wreck-It%20Ralph%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wreck-It%20Ralph%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

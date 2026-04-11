@@ -63,5 +63,47 @@
     "wikidata": "Q1053648",
     "mobygames": 141,
     "igdb": 2237
-  }
+  },
+  "roms": [
+    {
+      "name": "Centipede (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 174680336,
+      "crc32": "da6f6ba6",
+      "md5": "6f76c7f5d5a6fb424ce8da74ff2203bb",
+      "sha1": "d51a6a4100e9081558605c6867c96ce1b2d577db",
+      "sha256": "239aea448e26d5ecbbf68ae1d94f664e75aa80e79d0c4cba210fdd664d73c39c"
+    },
+    {
+      "name": "Centipede (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 304069952,
+      "crc32": "9fc86003",
+      "md5": "6060bfc94ce6e43d05108f84331da0f9",
+      "sha1": "0c6d960a9612b6d760563e18004bfd7fd79f8c4d",
+      "sha256": "3c2ac9135a35967a608a6bd01a68a920e6e1a92d2dac5f236b990c67a183a234"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Centipede%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Centipede%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Centipede%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

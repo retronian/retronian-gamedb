@@ -42,5 +42,130 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Full Power (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "66c04587",
+      "md5": "2ef2a029d8db36a3e899182069d43f8a",
+      "sha1": "b532b95797c60474f201fbed74f46ac0484ebb18",
+      "sha256": "86010fd19b9b5ce56f19dd35d2bc2335e21bd508c1132d7364f02a053329b985"
+    },
+    {
+      "name": "Full Throttle - All-American Racing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "861f2e42",
+      "md5": "94787721886fddf84014bed682732b47",
+      "sha1": "e192d94a8d6615d9fcd417b8fb121a06a69d00d0",
+      "sha256": "6c81ba893c8150b406f8dca2aae860e0e20bd87b1537548d45554a8e49aeb19c"
+    },
+    {
+      "name": "Full Throttle - All-American Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "2a4a53ca",
+      "md5": "ff9755523906f939adb67777552b67c9",
+      "sha1": "1e905f8781a2ad140d3438cc67fa101909188336",
+      "sha256": "3db8a496a49d47b1ac2a893feaf682722765b2cde63c22af3aa68212dcfa975f"
+    },
+    {
+      "name": "Full Throttle - All-American Racing (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "e96e463c",
+      "md5": "530a2f1db5471b962fbd58b493f115ef",
+      "sha1": "97f1fefad5067aed6ddb77c6ef60410b48da7544",
+      "sha256": "b16c20bfcddc75eba0a8e3e73f1369886b77f36fc84ccdca668ced8ddf5e41ba"
+    },
+    {
+      "name": "Full Throttle - All-American Racing (World) (Evercade)",
+      "source": "no_intro",
+      "size": 2621440,
+      "crc32": "7219dfca",
+      "md5": "48da7271712f260c86bbb666ef84f2a5",
+      "sha1": "26688c1af3835a46d6628965e524dc9b2eea9c16",
+      "sha256": "dab9d86abd9b17d1ce5e07140d42b23938e53d2b469cbc53b27f203305507073"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Full%20Power%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Full%20Power%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Full%20Power%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Full%20Throttle%20-%20All-American%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Full%20Throttle%20-%20All-American%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Full%20Throttle%20-%20All-American%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Full%20Throttle%20-%20All-American%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Full%20Throttle%20-%20All-American%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Full%20Throttle%20-%20All-American%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Full%20Throttle%20-%20All-American%20Racing%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Full%20Throttle%20-%20All-American%20Racing%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Full%20Throttle%20-%20All-American%20Racing%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

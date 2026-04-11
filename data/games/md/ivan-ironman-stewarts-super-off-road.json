@@ -53,5 +53,38 @@
   "external_ids": {
     "wikidata": "Q2017774",
     "mobygames": 4444
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Off Road (USA, Europe) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACLD010-00",
+      "size": 524288,
+      "crc32": "8f2fdada",
+      "md5": "539e2797cf613f39115cc86ae005d705",
+      "sha1": "89f264afba7aa8764b301d46cc8c51f74c23919e",
+      "sha256": "cbe95c922637f3c6a2984ba30c91f92d352a7cbbb81d7768f40bc431e6fa40b0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Off%20Road%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Off%20Road%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Off%20Road%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

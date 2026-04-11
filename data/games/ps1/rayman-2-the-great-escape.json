@@ -72,5 +72,70 @@
     "wikidata": "Q2292393",
     "mobygames": 2182,
     "igdb": 193315
-  }
+  },
+  "roms": [
+    {
+      "name": "Rayman 2 - The Great Escape (Spain) (En)",
+      "source": "no_intro",
+      "size": 393446032,
+      "crc32": "1920fc34",
+      "md5": "370c14caf2e2d3b0b7fcf62b75c8f272",
+      "sha1": "2a97ab71f3cad9e22d17638b2f09e0619ce35d3f"
+    },
+    {
+      "name": "Rayman 2 - The Great Escape (Italy)",
+      "source": "no_intro",
+      "size": 394885824,
+      "crc32": "9789d800",
+      "md5": "88a87478026a493348beb6db4b11a46c",
+      "sha1": "fe64527e67687c14f410c31e84cdc4b82e80f36f",
+      "sha256": "593d2889c3ea14f54aeda7faaeba1fff1da00e20e30c9510425493f434379745"
+    },
+    {
+      "name": "Rayman 2 - The Great Escape (Europe) (En,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 395093376,
+      "crc32": "3e732751",
+      "md5": "8a03f9c02fe1359af01d7e5ba1eb684e",
+      "sha1": "64ca5a2b4271084cc885abcb1b4169c91f5ce958"
+    },
+    {
+      "name": "Rayman 2 - The Great Escape (Germany) (Fr,De)",
+      "source": "no_intro",
+      "size": 377369664,
+      "crc32": "e7e324a3",
+      "md5": "5ad447660984f936cb6ce4050187f715",
+      "sha1": "95b144570bf453fd0615d04d709a4745201db73b"
+    },
+    {
+      "name": "Rayman 2 - The Great Escape (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 399242576,
+      "crc32": "1f5528da",
+      "md5": "d7cce57d5e9aa06039215b16918caccd",
+      "sha1": "04f8683f5f0d270919706b1f85b8930cf337fa69"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Rayman%202%20-%20The%20Great%20Escape%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Rayman%202%20-%20The%20Great%20Escape%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Rayman%202%20-%20The%20Great%20Escape%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -42,5 +42,121 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mendel Palace (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "a9be68c7",
+      "md5": "f20da12c8541b1569110f09614b40685",
+      "sha1": "1b71349b8e572510d1e39702646bee5290059bce",
+      "sha256": "87585d3eedda5c36eaad9c45b80ebe860a1147b71d34d40c4c5ddbac8e5b2cd5"
+    },
+    {
+      "name": "Quinty (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "8fb1a344",
+      "md5": "8fbf16f99f0ea1cf8dfa99efd27dfe73",
+      "sha1": "9e240e6bddb69082091227f9b3e05d014d05cb6a",
+      "sha256": "e2095be6ff6c0699fc0df4d1fde1f9f6db9f796f81c3a0de1ab8908b9fbd583e"
+    },
+    {
+      "name": "Mendel Palace (USA, Europe) (Namco Museum Archives Vol 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "53c97083",
+      "md5": "800b73a170f9dc3bf3cf93d10c3ba580",
+      "sha1": "37f5e46258f9fbdf126ae0facb4b9876d7d66119",
+      "sha256": "1d5dc8602a3cad4db7fa9d7238c1ada657daca4ef03c98fab1cb92a0fdb17dae"
+    },
+    {
+      "name": "Quinty (Japan) (Namcot Collection)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "a0cf3dce",
+      "md5": "af4fb934de855e9b04bbd23c34d9bddb",
+      "sha1": "16c222220c933bda6666af88ab5300fe4bf13a84",
+      "sha256": "8bd9b23d1fca1d3b3dd4fe623f8a1c8571d06616aa76251b242d72468a64f955"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mendel%20Palace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mendel%20Palace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mendel%20Palace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Quinty%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Quinty%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Quinty%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mendel%20Palace%20%28USA%2C%20Europe%29%20%28Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mendel%20Palace%20%28USA%2C%20Europe%29%20%28Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mendel%20Palace%20%28USA%2C%20Europe%29%20%28Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Quinty%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Quinty%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Quinty%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

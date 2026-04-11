@@ -62,5 +62,88 @@
     "wikidata": "Q3418096",
     "mobygames": 22911,
     "igdb": 3581
-  }
+  },
+  "roms": [
+    {
+      "name": "Rakugakids (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NKRP",
+      "size": 12582912,
+      "crc32": "483129aa",
+      "md5": "167a3502f06cf0eef56758533f3d0e52",
+      "sha1": "a2846cb316dc980dd0040ca95c20abfc8ccce212",
+      "sha256": "c9aa31b4f500c77b49efce28894786df9e75341f297742cc7a681037ad8759d0"
+    },
+    {
+      "name": "Rakugakids (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NKRJ",
+      "size": 12582912,
+      "crc32": "b9e53b06",
+      "md5": "813ad5c00bad7c4d41f8558cecedae51",
+      "sha1": "43596236cc1a4a4b671d0586fb42518a009427a5"
+    },
+    {
+      "name": "Rakugakids (Europe) (Beta) (1998-09-16)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NKRP",
+      "size": 12582912,
+      "crc32": "2cd99eae",
+      "md5": "d87e50ee2fb59e4b4a3368235a8e0bc8",
+      "sha1": "20f09e8f45a8e8a906a1ef3e31fa2dc6cd6cc37b",
+      "sha256": "4cf5376685bbd67ae0b2af73ff5c1b48a192dbd803eac0fdf77aa66cfb4b343d"
+    },
+    {
+      "name": "Rakugakids (Europe) (Beta) (1998-06-19)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "!none",
+      "size": 16777216,
+      "crc32": "c2331249",
+      "md5": "55b809c4714ec525008168df091f1ac8",
+      "sha1": "091d1afa598a39eb540487516545de7971a1b46a",
+      "sha256": "4a2cbb9f38847f82078ae7c1084df08e51c8e8275efd4293002c0f7f8f0b37d9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rakugakids%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rakugakids%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rakugakids%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rakugakids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rakugakids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rakugakids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -88,5 +88,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-79096-50",
+      "size": 2097152,
+      "crc32": "fa537a45",
+      "md5": "b8aac09c5d011c15ff3b32f45b04af87",
+      "sha1": "84528efaf0729637167774d59a00694deadd5d6d",
+      "sha256": "b8bd3eefed82326b8aa2e789eb78840e879d664ce28475808500f1d3a55f446b"
+    },
+    {
+      "name": "Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4115-00",
+      "size": 2097152,
+      "crc32": "654a4684",
+      "md5": "39f01609531a8bd256f44a17b2dfcad8",
+      "sha1": "aa2fc21eaa833640eaf882d66ca6ceb4f8adabcf",
+      "sha256": "69f93a20aea5de3f51f9a401c10838ee4673e368f628cc1fda59352ddce50adb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Winter%20Olympics%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%2CSv%2CNo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Winter%20Olympics%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%2CSv%2CNo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Winter%20Olympics%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%2CSv%2CNo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Winter%20Olympics%20%28Japan%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%2CSv%2CNo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Winter%20Olympics%20%28Japan%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%2CSv%2CNo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Winter%20Olympics%20%28Japan%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%2CSv%2CNo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

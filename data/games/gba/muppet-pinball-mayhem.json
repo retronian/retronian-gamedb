@@ -17,5 +17,65 @@
     "wikidata": "Q131450436",
     "mobygames": 9841,
     "igdb": 49322
-  }
+  },
+  "roms": [
+    {
+      "name": "Muppet Pinball Mayhem (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AMWE",
+      "size": 4194304,
+      "crc32": "58575f65",
+      "md5": "8feee07008288e4df451d639168bf1d0",
+      "sha1": "cbf381536ab8d8ea02814a77f46db13cb625c72f"
+    },
+    {
+      "name": "Muppet Pinball Mayhem (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AMWP",
+      "size": 4194304,
+      "crc32": "8d5034d7",
+      "md5": "3eac9cd691229b16662a9e124c8fbf66",
+      "sha1": "1c45790873605defc999b45ee145013e7e406a5d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Muppet%20Pinball%20Mayhem%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Muppet%20Pinball%20Mayhem%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Muppet%20Pinball%20Mayhem%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Muppet%20Pinball%20Mayhem%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Muppet%20Pinball%20Mayhem%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Muppet%20Pinball%20Mayhem%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -101,5 +101,103 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Ikari (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "ff771000",
+      "md5": "ccae41c5d5088a7dbc47a6047761eed5",
+      "sha1": "1d77d71910822f10f4664d92dd8de67488d8e57b",
+      "sha256": "5b46fa05bd484ff8952e87b20f251d0865dab9f343603e2687f7a96933443102"
+    },
+    {
+      "name": "Ikari Warriors (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "4731a2e3",
+      "md5": "53851b38762e7dd4ee33d65f0aa61f7d",
+      "sha1": "ac202190ed180a9885ab26914b4bffa21f5f49a4",
+      "sha256": "a8b93977854937040f0ed1f9b02abb4f7e98457269173a5136fc5aa1c8266597"
+    },
+    {
+      "name": "Ikari Warriors (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "316e4be3",
+      "md5": "c7a244ed038985c91a2091d53ab49714",
+      "sha1": "49b2fd54aa366477efa5a92b74de1b5bdb884a78",
+      "sha256": "5b7408a4168049bb4edc0f057e9c434342002397deaa328d6e9ec122af6fe5fd"
+    },
+    {
+      "name": "Ikari Warriors (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "79178faa",
+      "md5": "bd1fd579a6f45b625d86e5d1082792fa",
+      "sha1": "9d9b0e15caff17cb6997c4a3192845f08097a522",
+      "sha256": "142d300a2f9845bfa405ed3a1ebd474759452d0575bd37c5a55ec3385a5b4c29"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ikari%20Warriors%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ikari%20Warriors%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ikari%20Warriors%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ikari%20Warriors%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ikari%20Warriors%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ikari%20Warriors%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ikari%20Warriors%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ikari%20Warriors%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ikari%20Warriors%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

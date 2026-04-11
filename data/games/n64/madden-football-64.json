@@ -18,5 +18,67 @@
     "wikidata": "Q2413620",
     "mobygames": 5431,
     "igdb": 3536
-  }
+  },
+  "roms": [
+    {
+      "name": "Madden Football 64 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "N8MP",
+      "size": 12582912,
+      "crc32": "fab3e50d",
+      "md5": "67c96076459eb5f71733f39d7fcc76a3",
+      "sha1": "acf22b715b11609f42df24abac143bc0221d12f4",
+      "sha256": "7eaef372a0e0f00a8e0150150686d1c72a87c5232a9ea3b374424275efdad059"
+    },
+    {
+      "name": "Madden Football 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "N8ME",
+      "size": 12582912,
+      "crc32": "42e5fafa",
+      "md5": "903b912ce88626900221731224e9dbe8",
+      "sha1": "b0de34b759f18ad86d39a4c68c9840d35ce25809",
+      "sha256": "39f25dad3af4782a909bf58d7127acae700ea7c6f17c48d39ab76fe331735d6f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Madden%20Football%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Madden%20Football%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Madden%20Football%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Madden%20Football%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Madden%20Football%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Madden%20Football%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,75 @@
     "wikidata": "Q428548",
     "mobygames": 3112,
     "igdb": 20134
-  }
+  },
+  "roms": [
+    {
+      "name": "NBA Live 97 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "2c680c99",
+      "md5": "59af406928546b8e9579dc74a1918f67",
+      "sha1": "b6fbbeca6e5bcbc6c61cded2dfefd204ffddf2ba",
+      "sha256": "3462c026838143815ae1e7aee6b35069fca1d026c2f81b9e9447a128a72b3f66"
+    },
+    {
+      "name": "NBA Live 97 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "5115b8e5",
+      "md5": "362c3bfba31038172dba396cce3c1eec",
+      "sha1": "6255287751bc9679b9500ac9be06cda6640d1dcc",
+      "sha256": "4b945493d28653d5d047a375136ec9792f27e652be4af00e2c03c40369bd6ecf"
+    },
+    {
+      "name": "NBA Live 97 (USA) (Beta) (1996-09-20)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "d7c0cad3",
+      "md5": "f3e65350ae692d7f2a54542643a110c2",
+      "sha1": "a4ac7a5ed84692bfd93714185cc3d999e18fda0a",
+      "sha256": "edecd008218d13b35f9388186bff1586762a9d5f8761b1d9dee21285e009d6f2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/NBA%20Live%2097%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/NBA%20Live%2097%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/NBA%20Live%2097%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/NBA%20Live%2097%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/NBA%20Live%2097%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/NBA%20Live%2097%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

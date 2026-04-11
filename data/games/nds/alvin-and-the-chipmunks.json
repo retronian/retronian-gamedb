@@ -72,5 +72,65 @@
     "wikidata": "Q1169638",
     "mobygames": 61233,
     "igdb": 4669
-  }
+  },
+  "roms": [
+    {
+      "name": "Alvin and the Chipmunks (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YAIP",
+      "size": 67108864,
+      "crc32": "c1fd7d52",
+      "md5": "90ce3d001fb553b3aeff513c5c151990",
+      "sha1": "2dd78d9cfc2d76a6d1614d292864d2c6c737c186"
+    },
+    {
+      "name": "Alvin and the Chipmunks (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YAIE",
+      "size": 67108864,
+      "crc32": "b80d4547",
+      "md5": "8f336788295c48d10db8d94e2466c3c6",
+      "sha1": "8714cca32c55760751f7ca7a7001149c31506038"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Alvin%20and%20the%20Chipmunks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Alvin%20and%20the%20Chipmunks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Alvin%20and%20the%20Chipmunks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Alvin%20and%20the%20Chipmunks%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Alvin%20and%20the%20Chipmunks%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Alvin%20and%20the%20Chipmunks%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

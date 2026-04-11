@@ -81,5 +81,106 @@
     "wikidata": "Q2065941",
     "mobygames": 31919,
     "igdb": 4821
-  }
+  },
+  "roms": [
+    {
+      "name": "Drawn to Life (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YDWE",
+      "size": 33554432,
+      "crc32": "756005d8",
+      "md5": "b7033a67117ed9cefd1feafa46072210",
+      "sha1": "2619d043f0890d80e9bebde3438f52dbed3bc978",
+      "sha256": "2c92c60b4293fefd68f5dc75f8a5ec90de9b9f2e5cf07b1071300cfc13315fc2"
+    },
+    {
+      "name": "Drawn to Life (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YDWP",
+      "size": 33554432,
+      "crc32": "c0b5d7d0",
+      "md5": "7490613ef465c084c5e70373ef6abfeb",
+      "sha1": "150682ebd6a4149ad07477d037bf657fd7dec156"
+    },
+    {
+      "name": "Drawn to Life (Unknown) (Beta 1)",
+      "source": "no_intro",
+      "serial": "NTRJ",
+      "size": 11753934,
+      "crc32": "8c4be3a5",
+      "md5": "265bc1d0144414645d8196fb45c88480",
+      "sha1": "5916672a32b93a757288c004f15ee16c16eadf99",
+      "sha256": "bc9ecf58c94193f1b7ced7665501c590bb047003147439e707bc006891c04724"
+    },
+    {
+      "name": "Drawn to Life (Unknown) (Beta 2)",
+      "source": "no_intro",
+      "serial": "NTRJ",
+      "size": 12368584,
+      "crc32": "9d700742",
+      "md5": "3df2aae12c2d2ac3bf8c7d9624f7f8bf",
+      "sha1": "f98cbf0da09c9555212799282c1f10658046e676",
+      "sha256": "6ddf191f9f782630ccbaaa0127d4fb15ca0425ce3cbb31e792c7884dfafe2daa"
+    },
+    {
+      "name": "Drawn to Life (Unknown) (Beta) (Milestone 5)",
+      "source": "no_intro",
+      "serial": "NTRJ",
+      "size": 11779108,
+      "crc32": "7b71779d",
+      "md5": "e2b0c9cdd70587e6c9b9bba84dd1f421",
+      "sha1": "fa36c42ed73f9709d5ebacfbdd640c27c9d6d15d",
+      "sha256": "1d3c07a0664181c34b54adfcf2f2fa51196c88c402e214274bdbc9b614bec137"
+    },
+    {
+      "name": "Drawn to Life (Unknown) (Beta) (Milestone 6, 2006-12-04)",
+      "source": "no_intro",
+      "serial": "NTRJ",
+      "size": 16983588,
+      "crc32": "6f4f6ff0",
+      "md5": "e4f4b7d6397b831e78a014b84472020d",
+      "sha1": "0d813477d371e37c00034a752cb33ebca921520a",
+      "sha256": "3cb23809bf704348dcf7145a50d8daa2001dd5394ae6b201e889ee5730fd24ec"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Drawn%20to%20Life%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Drawn%20to%20Life%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Drawn%20to%20Life%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Drawn%20to%20Life%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Drawn%20to%20Life%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Drawn%20to%20Life%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

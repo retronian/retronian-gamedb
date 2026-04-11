@@ -45,5 +45,67 @@
     "wikidata": "Q3569531",
     "mobygames": 6625,
     "igdb": 12829
-  }
+  },
+  "roms": [
+    {
+      "name": "Wiz 'N' Liz (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-113026",
+      "size": 1048576,
+      "crc32": "df036b62",
+      "md5": "01c9742b0a83a7c135f9ed6948dc7576",
+      "sha1": "1cbd0f820aaf35dd6328a865ecc4b9eedc740807",
+      "sha256": "d65718df893f16cc5114b2d94944f5005d0ec2e471b74dd6dcee371bed11a161"
+    },
+    {
+      "name": "Wiz 'n' Liz - The Frantic Wabbit Wescue (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-113026-50",
+      "size": 1048576,
+      "crc32": "f09353b4",
+      "md5": "8c0a97a07867e5a9406d45e682d0cde8",
+      "sha1": "2e7a1724a72e89a3f9a66720d9a7c6f293263798",
+      "sha256": "21d0a3a78388fc4d5eaa6fc5ac47919c07e9c6390780126b8520e608659a9249"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wiz%20%27N%27%20Liz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wiz%20%27N%27%20Liz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wiz%20%27N%27%20Liz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wiz%20%27n%27%20Liz%20-%20The%20Frantic%20Wabbit%20Wescue%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wiz%20%27n%27%20Liz%20-%20The%20Frantic%20Wabbit%20Wescue%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wiz%20%27n%27%20Liz%20-%20The%20Frantic%20Wabbit%20Wescue%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

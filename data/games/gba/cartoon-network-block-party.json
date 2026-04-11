@@ -45,5 +45,48 @@
     "wikidata": "Q5047405",
     "mobygames": 21576,
     "igdb": 2809
-  }
+  },
+  "roms": [
+    {
+      "name": "Cartoon Network Block Party (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHYE",
+      "size": 4900420,
+      "crc32": "5cfac364",
+      "md5": "c16680e895cc3c11907361bfd158f6bb",
+      "sha1": "9933db873fa7c7ed8a5fada443aba2d97c81c3b5",
+      "sha256": "1f4f8cbb86f4e2d8882130b461d82b6d37de8188ecb7c868bacb22615f20989e"
+    },
+    {
+      "name": "Cartoon Network Block Party (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AC9E",
+      "size": 4194304,
+      "crc32": "edc0ccee",
+      "md5": "fc244be5e2a8b811ea2b2e0101d64a6e",
+      "sha1": "5e1ae3428c528755dc9c58e28df349bf58b17a45"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Cartoon%20Network%20Block%20Party%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Cartoon%20Network%20Block%20Party%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Cartoon%20Network%20Block%20Party%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

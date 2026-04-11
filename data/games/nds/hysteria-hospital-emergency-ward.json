@@ -18,5 +18,53 @@
     "wikidata": "Q5962330",
     "mobygames": 47090,
     "igdb": 4920
-  }
+  },
+  "roms": [
+    {
+      "name": "Hysteria Hospital - Emergency Ward (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CJQE",
+      "size": 8388608,
+      "crc32": "c18a1c69",
+      "md5": "4a0a204cdd8da5013eab2af5b1089751",
+      "sha1": "11064f61e27689847fe090d2bde00c0214231a95"
+    },
+    {
+      "name": "Hysteria Hospital - Emergency Ward (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CJQP",
+      "size": 8388608,
+      "crc32": "a96f5827",
+      "md5": "560a312ba5d3d2ebd9608487ad5bd6b1",
+      "sha1": "51102a72ff62cefc842ab933786d7e74414b9181"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hysteria%20Hospital%20-%20Emergency%20Ward%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hysteria%20Hospital%20-%20Emergency%20Ward%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hysteria%20Hospital%20-%20Emergency%20Ward%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hysteria%20Hospital%20-%20Emergency%20Ward%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

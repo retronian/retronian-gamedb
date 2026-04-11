@@ -18,5 +18,77 @@
     "wikidata": "Q2907306",
     "mobygames": 32170,
     "igdb": 3425
-  }
+  },
+  "roms": [
+    {
+      "name": "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NBPP",
+      "size": 16777216,
+      "crc32": "8fb41658",
+      "md5": "31b4a8ed52b48e756b344c9f22736e50",
+      "sha1": "d641afca71a7d83587f9d7105d5e6dffdeaa8016",
+      "sha256": "2a7540a8cb2d0f2eec24bc99e8c9af505a17f32e3aa2e43394a4ac94867dc2c8"
+    },
+    {
+      "name": "Blues Brothers 2000 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NBPE",
+      "size": 16777216,
+      "crc32": "c6f49764",
+      "md5": "997fd8f79cd6f3cd1c1c1fd21e358717",
+      "sha1": "ed0fe7c9a2e8015bdf8262d35065f53c6fcea60f",
+      "sha256": "3ca0ac99c1611125783d474825b9d912b7b2e491d17468b0db6fb29b941fc985"
+    },
+    {
+      "name": "Blues Brothers 2000 (Europe) (Beta) (2000-01-15)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 16777216,
+      "crc32": "015eb4a3",
+      "md5": "c0e2d219157e64d253ac6724251c1f55",
+      "sha1": "67f2a684d85832c540272b465db7f85f88c7a68b",
+      "sha256": "123de0da550b65b1831a3844760741abaffbb8c3f37a88837f63df3904139e85"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Blues%20Brothers%202000%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Blues%20Brothers%202000%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Blues%20Brothers%202000%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Blues%20Brothers%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Blues%20Brothers%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Blues%20Brothers%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

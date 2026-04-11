@@ -54,5 +54,66 @@
     "wikidata": "Q2737636",
     "mobygames": 21873,
     "igdb": 18313
-  }
+  },
+  "roms": [
+    {
+      "name": "Worms - Open Warfare (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWSP",
+      "size": 16777216,
+      "crc32": "b19777b8",
+      "md5": "c5fd315397f7a5ff7fe27a72595067e4",
+      "sha1": "0b1dbdde7117ee7def9f200f52046d14e7a06811",
+      "sha256": "4ef2ef1aee28b24dbacf883097296869ec957ad332475a022d70aede39b5b131"
+    },
+    {
+      "name": "Worms - Open Warfare (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWSE",
+      "size": 16777216,
+      "crc32": "ecb40fd3",
+      "md5": "dc208ebdbb227582d15aa74888e5e865",
+      "sha1": "8293ca99cbffe0a0420292d7927ce0e0858c2b1d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Worms%20-%20Open%20Warfare%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Worms%20-%20Open%20Warfare%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Worms%20-%20Open%20Warfare%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Worms%20-%20Open%20Warfare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Worms%20-%20Open%20Warfare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Worms%20-%20Open%20Warfare%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

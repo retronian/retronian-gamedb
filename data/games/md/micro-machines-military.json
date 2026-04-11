@@ -18,5 +18,49 @@
     "wikidata": "Q3312018",
     "mobygames": 19146,
     "igdb": 8513
-  }
+  },
+  "roms": [
+    {
+      "name": "Micro Machines - Military (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "b33d01bc",
+      "md5": "0ed4f381232e15cb3c211773cc07ff46",
+      "sha1": "d59c0db1728d017363fe3209b6bf8c981da75ae1",
+      "sha256": "c9571b126b169099ece3111fc2ea6aefdaf5f35691fc30e124d2f6d6548d38f4"
+    },
+    {
+      "name": "Micro Machines - Military (Europe) (J-Cart)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "b3abb15e",
+      "md5": "d2b796a42fe1778aac17deab6328daf4",
+      "sha1": "6d3df64ab8bb0b559f216adca62d1cdd74704a26",
+      "sha256": "43e68f99620bb3dd0ff3b28d232ae43c5b6489716c4cde09725ab4b71704937e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Micro%20Machines%20-%20Military%20%28Europe%29%20%28J-Cart%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Micro%20Machines%20-%20Military%20%28Europe%29%20%28J-Cart%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Micro%20Machines%20-%20Military%20%28Europe%29%20%28J-Cart%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

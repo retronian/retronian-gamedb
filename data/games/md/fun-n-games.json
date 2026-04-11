@@ -45,5 +45,67 @@
     "wikidata": "Q5508636",
     "mobygames": 27348,
     "igdb": 4241
-  }
+  },
+  "roms": [
+    {
+      "name": "Fun 'n Games (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-93126-00",
+      "size": 1048576,
+      "crc32": "da4ab3cd",
+      "md5": "2ac550b740f6eaa186f8281bcce15db2",
+      "sha1": "3677dfe5450c0800d29cfff31f226389696bfb32",
+      "sha256": "70b93b22fd3646733afcb79bb2c5f5ac2aec01013ce4aa7303eed0686f7bcf0d"
+    },
+    {
+      "name": "Fun 'n' Games (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-97056-00",
+      "size": 1048576,
+      "crc32": "b5ae351d",
+      "md5": "61137a2922642fd9c7e4b3ae96a4e3d3",
+      "sha1": "6085d3033edb32c468a63e0db95e5977e6853b48",
+      "sha256": "d249b70d3465f011fcfb2f99d1670927342d88149204299a92a40a294b6a3574"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Fun%20%27n%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Fun%20%27n%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Fun%20%27n%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Fun%20%27n%27%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Fun%20%27n%27%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Fun%20%27n%27%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -80,5 +80,65 @@
     "wikidata": "Q7392106",
     "mobygames": 17963,
     "igdb": 24008
-  }
+  },
+  "roms": [
+    {
+      "name": "Septentrion (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "6d8d580d",
+      "md5": "8390060497fa77efff7c1b2fb2ac1ca4",
+      "sha1": "c44da4f2051a08e735f2265d495afe90e8859348",
+      "sha256": "96dbfb9be49064a6c8adf4ad77cfc2b30ad2083ce450d3b8a90bfbbaa8c0af30"
+    },
+    {
+      "name": "SOS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "09ae53f5",
+      "md5": "e49ae43bed71c1f9dc568936c83d28ee",
+      "sha1": "0b793c19ee452b12d3f4ecb12c1c24f889b68671",
+      "sha256": "8f0a7670fe53d30f721784e5fff78349eb157a9f0eb2246206f9d7db478b7c56"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Septentrion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Septentrion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Septentrion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/SOS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/SOS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/SOS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

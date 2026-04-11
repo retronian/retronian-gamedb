@@ -60,5 +60,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Military Madness (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "93f316f7",
+      "md5": "03d0442df107c97bb04c32de7cb7f5bc",
+      "sha1": "01cf6be3fc11af874d25fc64bfb74f2f044f1bce",
+      "sha256": "bbddcf77eaeee374f69d850b6cde686f03f94c823ba9193abab491bf56265a53"
+    },
+    {
+      "name": "Nectaris (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "0243453b",
+      "md5": "38bf3fa078ab7bdc3d34fc9c18b0ce73",
+      "sha1": "e87e25f73908161a8c7b4cb1f20708cb5f8aab3b",
+      "sha256": "7986c694a35162f99cc391e5affde4beaeb00c14636c57be060f4ee56ebaeab9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Military%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Military%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Military%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Nectaris%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Nectaris%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Nectaris%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

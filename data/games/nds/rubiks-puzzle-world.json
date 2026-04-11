@@ -17,5 +17,49 @@
   "external_ids": {
     "wikidata": "Q7376113",
     "igdb": 5131
-  }
+  },
+  "roms": [
+    {
+      "name": "Rubik's Puzzle World (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CRWP",
+      "size": 33554432,
+      "crc32": "8ec46960",
+      "md5": "f12212aa9c5f209bf54260d0291323b2",
+      "sha1": "545145264aea760a6fddd4217b7fd912d1aa1473",
+      "sha256": "1f689419ca0e837f59d440392c47e7d621c0887b6ae456de7d112d8c2a5d2981"
+    },
+    {
+      "name": "Rubik's Puzzle World (Europe) (En,Fr,De,Es,It) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CRWP",
+      "size": 33554432,
+      "crc32": "769d27a9",
+      "md5": "33aef9b28f575628e5ef4584697396d3",
+      "sha1": "7c2f5f40979608e9b553227c082cbae3c4920328",
+      "sha256": "57dfe054636c6325cadd2882fc9e5dbfc575ff5b0b65198b0da28b6bdd08b73c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rubik%27s%20Puzzle%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rubik%27s%20Puzzle%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rubik%27s%20Puzzle%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

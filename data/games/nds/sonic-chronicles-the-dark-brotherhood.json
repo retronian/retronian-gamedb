@@ -80,5 +80,66 @@
     "wikidata": "Q546745",
     "mobygames": 37752,
     "igdb": 217
-  }
+  },
+  "roms": [
+    {
+      "name": "Sonic Chronicles - The Dark Brotherhood (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CSNP",
+      "size": 134217728,
+      "crc32": "503c3e4c",
+      "md5": "e91e035dee300619199431f5f3a82f73",
+      "sha1": "bef67f821d47fd116529c074f557dc36da4f639b"
+    },
+    {
+      "name": "Sonic Chronicles - The Dark Brotherhood (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YWSE",
+      "size": 134217728,
+      "crc32": "3e3f7fbe",
+      "md5": "c4b0c4b1ce004df9f9377713a3abbb75",
+      "sha1": "f4ff8291b38bf9a33ab280fb9f7625cf4d549473",
+      "sha256": "b252868bd6d2ac8d0c4e99c9493f006ea7e1096d12b67d6d34c99053d0410c5b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sonic%20Chronicles%20-%20The%20Dark%20Brotherhood%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sonic%20Chronicles%20-%20The%20Dark%20Brotherhood%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sonic%20Chronicles%20-%20The%20Dark%20Brotherhood%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sonic%20Chronicles%20-%20The%20Dark%20Brotherhood%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sonic%20Chronicles%20-%20The%20Dark%20Brotherhood%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sonic%20Chronicles%20-%20The%20Dark%20Brotherhood%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

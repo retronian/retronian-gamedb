@@ -18,5 +18,53 @@
     "wikidata": "Q2228422",
     "mobygames": 80333,
     "igdb": 345170
-  }
+  },
+  "roms": [
+    {
+      "name": "MySims - Party (Europe) (En,Fr,De,Es,It,Nl,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CMSP",
+      "size": 33554432,
+      "crc32": "4c32ecb7",
+      "md5": "f4f2ebf835b4bec746d2559b3fe5e550",
+      "sha1": "a14d782cd6285a550ec7e1d1cc00421f8f7d489a"
+    },
+    {
+      "name": "MySims - Party (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CMSE",
+      "size": 33554432,
+      "crc32": "1d482d0f",
+      "md5": "7712bf1b749b8b9209812ae473d858d6",
+      "sha1": "eed3a1d371cd754813dd12f1bdc6403778538dfa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MySims%20-%20Party%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MySims%20-%20Party%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MySims%20-%20Party%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MySims%20-%20Party%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

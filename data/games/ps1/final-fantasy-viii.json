@@ -90,5 +90,87 @@
     "wikidata": "Q245006",
     "mobygames": 1149,
     "igdb": 425
-  }
+  },
+  "roms": [
+    {
+      "name": "Final Fantasy VIII (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1887916960,
+      "crc32": "a565245a",
+      "md5": "fa6a5dc194f274308c43aa341aa7ec11",
+      "sha1": "58e3c23cecd95f8e9675a7e89d8f2647eb708a3a"
+    },
+    {
+      "name": "Final Fantasy VIII (France)",
+      "source": "no_intro",
+      "size": 1888149920,
+      "crc32": "8e4f591a",
+      "md5": "38f524bd8392d9488ac1338d6fe46b46",
+      "sha1": "fddd3c93e9f6d618a0c06d7cde62c21df152deeb"
+    },
+    {
+      "name": "Final Fantasy VIII (Germany)",
+      "source": "no_intro",
+      "size": 1888182160,
+      "crc32": "adedbb27",
+      "md5": "1d1a98810d0a77960c0f04322587f3bb",
+      "sha1": "4eae0c78270d75b4f38e86903e34c499c5254ec0"
+    },
+    {
+      "name": "Final Fantasy VIII (Japan) (PS3 v2.80)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1900541104,
+      "crc32": "95590db6",
+      "md5": "10e180adfa11b1428d7e84f9d49f6ddc",
+      "sha1": "91cd30b814487f22c0d7dbd84ae22d661784ad0b"
+    },
+    {
+      "name": "Final Fantasy VIII (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1908119328,
+      "crc32": "38535ade",
+      "md5": "784200d572bf4fe15293d95e6827ecf3",
+      "sha1": "f2f85716218fb028608998dd31a5881f5ba6cf49"
+    },
+    {
+      "name": "Final Fantasy VIII (Italy)",
+      "source": "no_intro",
+      "size": 1888235840,
+      "crc32": "1826dedf",
+      "md5": "80a4d274b23e1a5c30bfeeb692912695",
+      "sha1": "5e7d0782cc61e8ec0366c0489c14790df4f73894"
+    },
+    {
+      "name": "Final Fantasy VIII (Japan) (PS3 v4.46)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1900624304,
+      "crc32": "3b4eb79c",
+      "md5": "4f7b667fe133d1638a55f7d4f15c6241",
+      "sha1": "071f3b8a8cf3799cb2cfd4c5e7ef816e91fb9b20"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20VIII%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Final%20Fantasy%20VIII%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Final%20Fantasy%20VIII%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

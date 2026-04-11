@@ -80,5 +80,65 @@
     "wikidata": "Q1202713",
     "mobygames": 6672,
     "igdb": 3720
-  }
+  },
+  "roms": [
+    {
+      "name": "Hoshi no Kirby 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "43373aee",
+      "md5": "b2f2d004ea640c3db66df958fce122b2",
+      "sha1": "5038596a1ec450d8f1d7cc07759737bfd996e87f",
+      "sha256": "0c637df08d73e13e8e22fafbfe2b9196e08670ac27dbdd43330289c7fbce74e1"
+    },
+    {
+      "name": "Kirby's Dream Land 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "ec8a48f6",
+      "md5": "201e7658f6194458a3869dde36bf8ec2",
+      "sha1": "12aff7538f43641a1e2bf424593df5b49fe150f6",
+      "sha256": "b50bf9d95485e8aeb7a6730e9f9f9c9c4ec23a85b336a4fb2e3b63034531e36f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hoshi%20no%20Kirby%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hoshi%20no%20Kirby%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hoshi%20no%20Kirby%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kirby%27s%20Dream%20Land%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kirby%27s%20Dream%20Land%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kirby%27s%20Dream%20Land%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

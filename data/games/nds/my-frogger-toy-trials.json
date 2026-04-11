@@ -18,5 +18,65 @@
     "wikidata": "Q6945534",
     "mobygames": 86102,
     "igdb": 11482
-  }
+  },
+  "roms": [
+    {
+      "name": "My Frogger - Toy Trials (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFRE",
+      "size": 67108864,
+      "crc32": "53c17b5f",
+      "md5": "1b62401369f1ef710bf6214d6855a8d0",
+      "sha1": "10d3cf4cc6ceb7bc30306c22b32ccc775059f304"
+    },
+    {
+      "name": "My Frogger - Toy Trials (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFRP",
+      "size": 67108864,
+      "crc32": "17ea52ab",
+      "md5": "c515703787babd0624927c1834752a1e",
+      "sha1": "6615a9c19ed0febe64f502456afdd30f46b79109"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Frogger%20-%20Toy%20Trials%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Frogger%20-%20Toy%20Trials%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Frogger%20-%20Toy%20Trials%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Frogger%20-%20Toy%20Trials%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Frogger%20-%20Toy%20Trials%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Frogger%20-%20Toy%20Trials%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

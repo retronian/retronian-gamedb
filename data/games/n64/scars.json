@@ -17,5 +17,66 @@
   "external_ids": {
     "wikidata": "Q3459046",
     "mobygames": 2768
-  }
+  },
+  "roms": [
+    {
+      "name": "S.C.A.R.S. (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NCSP",
+      "size": 8388608,
+      "crc32": "4e37b6f2",
+      "md5": "7ed3f10bc32cf76f172d8c31d15a2799",
+      "sha1": "8b4ebad8b7f50381ba2e16d0c475332837bb5780",
+      "sha256": "3a11dc6bd22531527a452dab24c1d9146e4bf6228f4aace1a897ad447482df8a"
+    },
+    {
+      "name": "S.C.A.R.S. (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NCSE",
+      "size": 8388608,
+      "crc32": "22916735",
+      "md5": "d0aa9d20a4b85fe514d2a3150d0133ea",
+      "sha1": "1e87e7bc5b7bc877abc790ebff122ed6e2be828e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/S.C.A.R.S.%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/S.C.A.R.S.%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/S.C.A.R.S.%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/S.C.A.R.S.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/S.C.A.R.S.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/S.C.A.R.S.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

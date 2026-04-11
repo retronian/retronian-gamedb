@@ -87,5 +87,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Commando (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "d68ef22a",
+      "md5": "8da183ec734fba08ad906949ba330efd",
+      "sha1": "15028e3e122374197a83b0803e3e47f9f84e5cca",
+      "sha256": "a5cdb10f28310c7f590072ee229a843b1f30448afc7489791431f215bc40096f"
+    },
+    {
+      "name": "Senjou no Ookami (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "1d73fa9a",
+      "md5": "afacac2a010fc69124a4c043a48fdb47",
+      "sha1": "219cfc1ddc931f03e5289bf704fed7c6a3af6a92",
+      "sha256": "4444380fe449b1f2c5b2ea98356ff6ec470a45e22fa9bc717e64a9c394faff84"
+    },
+    {
+      "name": "Senjou no Ookami (Japan) (EPROM) (FamicomBox)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "281c0e98",
+      "md5": "23eae8d1986a0e8af6c492c395137503",
+      "sha1": "aa4525a5a49e1ef0fa7f70c019ac2ef7d221468b",
+      "sha256": "12e51cfa36ee2ba51dcbe7102d7e08766e0f34357e4179195950f98acf57fb81"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Commando%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Commando%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Commando%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Senjou%20no%20Ookami%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Senjou%20no%20Ookami%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Senjou%20no%20Ookami%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Senjou%20no%20Ookami%20%28Japan%29%20%28EPROM%29%20%28FamicomBox%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Senjou%20no%20Ookami%20%28Japan%29%20%28EPROM%29%20%28FamicomBox%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Senjou%20no%20Ookami%20%28Japan%29%20%28EPROM%29%20%28FamicomBox%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

@@ -81,5 +81,67 @@
     "wikidata": "Q164067",
     "mobygames": 10642,
     "igdb": 24073
-  }
+  },
+  "roms": [
+    {
+      "name": "Herzog Zwei (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-18023-00",
+      "size": 524288,
+      "crc32": "4cf676b3",
+      "md5": "cf5984ce943babe3e8551ee0e9b771a8",
+      "sha1": "851be7abad64a4fb05e4c51ce26fbe5efe12ea42",
+      "sha256": "e933563bac8c23e3d72f782f8c40b8e1f010dff91a0fefc618b98a8973319f42"
+    },
+    {
+      "name": "Herzog Zwei (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1400-00",
+      "size": 524288,
+      "crc32": "a605b65b",
+      "md5": "e812002daafb264fc2ab1dff9bd06ac2",
+      "sha1": "8f7262102c2b2334f0bc88ee6fd6b08797919176",
+      "sha256": "3f891f8ce99d673313d6e49aafa329ee2b0cc464f9be779c5115f645a4baea73"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Herzog%20Zwei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Herzog%20Zwei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Herzog%20Zwei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Herzog%20Zwei%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Herzog%20Zwei%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Herzog%20Zwei%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

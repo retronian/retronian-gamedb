@@ -20,6 +20,24 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Dual Orb 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "デュアルオーブ2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1994-12-29",
@@ -27,5 +45,37 @@
     "wikidata": "Q5310171",
     "mobygames": 13891,
     "igdb": 15907
-  }
+  },
+  "roms": [
+    {
+      "name": "Dual Orb II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2621440,
+      "crc32": "e8798f65",
+      "md5": "eb42510c01054711bcf04346aba7ed2f",
+      "sha1": "02b85364e3bd988b8cb9e2148309bbfbf46a9338",
+      "sha256": "c509e957873d6cff232bc360ae1795ea74e86bf4fa09c686f6cfc83bd8bac3d7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dual%20Orb%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dual%20Orb%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dual%20Orb%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

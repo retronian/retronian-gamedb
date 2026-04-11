@@ -44,5 +44,76 @@
   "external_ids": {
     "wikidata": "Q2940420",
     "igdb": 307494
-  }
+  },
+  "roms": [
+    {
+      "name": "Cars - Race-O-Rama (Europe) (En,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B6OP",
+      "size": 33554432,
+      "crc32": "1be06ef6",
+      "md5": "796484cdcc887ff3509da5cee59160b8",
+      "sha1": "ca684323eb12ded29b24276824a3d888fa347069"
+    },
+    {
+      "name": "Cars - Race-O-Rama (Europe) (Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B6OX",
+      "size": 33554432,
+      "crc32": "4ba21782",
+      "md5": "9e4e240e899fd4006cce5c2283bbf4f7",
+      "sha1": "eeb7bc9169acd3c5fb7f1e3ca5504da4dcc044e8",
+      "sha256": "3b764a4f0a5ffbec6a95f45ad5ea4abc2e6d93b7cfd252f3b48b0412720f25de"
+    },
+    {
+      "name": "Cars - Race-O-Rama (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B6OE",
+      "size": 33554432,
+      "crc32": "c70f1d08",
+      "md5": "bce9a77823743344266d0e3752e28cb7",
+      "sha1": "0faaa593fe209d69f26c1b45c414c120efe6ee77"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cars%20-%20Race-O-Rama%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cars%20-%20Race-O-Rama%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cars%20-%20Race-O-Rama%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cars%20-%20Race-O-Rama%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cars%20-%20Race-O-Rama%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cars%20-%20Race-O-Rama%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

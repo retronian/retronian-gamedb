@@ -47,6 +47,60 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "パイレーツ・オブ・カリビアン/デッドマンズ・チェスト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pirates of the Caribbean: Dead Man's Chest",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "캐리비안의 해적: 망자의 함",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pirates Des Caraibes: Le Secret Du Coffre Maudi",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pirates of the Caribbean: Fluch der Karibik 2",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pirati dei Caraibi - La Maledizione del Forziere Fantasma",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2003-06-30",
@@ -54,5 +108,37 @@
     "wikidata": "Q167330",
     "mobygames": 9613,
     "igdb": 194266
-  }
+  },
+  "roms": [
+    {
+      "name": "Pirates of the Caribbean - Dead Man's Chest (USA, Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B8QE",
+      "size": 16777216,
+      "crc32": "d1a67be8",
+      "md5": "c13785f8c7f0342d4c96c294e600e338",
+      "sha1": "3a11c76edaad8fa0845b7da55e8ed26e26e09883"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pirates%20of%20the%20Caribbean%20-%20Dead%20Man%27s%20Chest%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pirates%20of%20the%20Caribbean%20-%20Dead%20Man%27s%20Chest%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pirates%20of%20the%20Caribbean%20-%20Dead%20Man%27s%20Chest%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

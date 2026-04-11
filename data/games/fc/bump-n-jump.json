@@ -62,5 +62,46 @@
     "wikidata": "Q2623012",
     "mobygames": 9306,
     "igdb": 290271
-  }
+  },
+  "roms": [
+    {
+      "name": "Bump 'n' Jump (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "5768d6c8",
+      "md5": "bfa1a5409bbbbd41cd9bff2018da0341",
+      "sha1": "9f9f6377ca6f15f21b8560ff3f80d32ed7640f92",
+      "sha256": "40e45122fc9ecbda7e94a18c3b4ff6b5022675220872bbc6f02107ec842ce6a6"
+    },
+    {
+      "name": "Burnin Rubber (World) (Evercade)",
+      "source": "no_intro",
+      "size": 65552,
+      "crc32": "48185561",
+      "md5": "f9f4fc62f938b9b95aeda23dc61772c6",
+      "sha1": "fe2f2189fb329b8482d9400b9ccc538ee899e19e",
+      "sha256": "fa0feb39d33e8f9f5a94bd11fe6a220d83a9fee37373f8cf03851c516573ddb1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bump%20%27n%27%20Jump%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bump%20%27n%27%20Jump%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bump%20%27n%27%20Jump%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

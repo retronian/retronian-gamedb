@@ -90,5 +90,76 @@
     "wikidata": "Q2907887",
     "mobygames": 25475,
     "igdb": 248483
-  }
+  },
+  "roms": [
+    {
+      "name": "SpongeBob SquarePants - Creature from the Krusty Krab (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQ4E",
+      "size": 33554432,
+      "crc32": "68d7b50f",
+      "md5": "70724d6b8bf128a06a48b95e28c62efc",
+      "sha1": "2e2651259cc353a91305e95ce12af496affb2933"
+    },
+    {
+      "name": "SpongeBob SquarePants - Creature from the Krusty Krab (Europe) (En,Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQ4P",
+      "size": 33554432,
+      "crc32": "f7067d0b",
+      "md5": "d0951227ae45f4410ea084197754b079",
+      "sha1": "4b9021d12b3a225f778d9e95fad5d9a2b7f39c97"
+    },
+    {
+      "name": "SpongeBob SquarePants - Creature from the Krusty Krab (USA) (Beta) (2006-05-25)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTRJ",
+      "size": 7898536,
+      "crc32": "eb74fe4f",
+      "md5": "dcda26b9dd995e31fce838507eabd7d7",
+      "sha1": "59022dfac2341881fa112e5b0bffb172f148ad08",
+      "sha256": "d248cfb46090217914f7eb66a7a0d430407d1a55c3734e814dc00fa91fac0174"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

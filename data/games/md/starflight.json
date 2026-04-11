@@ -72,5 +72,67 @@
     "wikidata": "Q1462499",
     "mobygames": 115,
     "igdb": 2886
-  }
+  },
+  "roms": [
+    {
+      "name": "Starflight (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50216-00",
+      "size": 1048576,
+      "crc32": "d550c928",
+      "md5": "b95b8da835e866c90e6c6520def207b2",
+      "sha1": "24252ca934be3f005436cdb85671413a9e6b0489",
+      "sha256": "31b9d25fcde71c9707a408d58ca229a3b87c1e4fd1300cc407f2ac1d13f15250"
+    },
+    {
+      "name": "Starflight (USA, Europe) (Rev A)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50216-01",
+      "size": 1048576,
+      "crc32": "1217dbea",
+      "md5": "f7fb96468113cbfc41ed68e31689ac83",
+      "sha1": "41722d8c0b4865ca8044fb53a818b13eded758fc",
+      "sha256": "b3bbbdaa5700e6db2d2c2645ec73df4272daf43613b3d17fb4760fa584bcffe3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Starflight%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Starflight%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Starflight%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Starflight%20%28USA%2C%20Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Starflight%20%28USA%2C%20Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Starflight%20%28USA%2C%20Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

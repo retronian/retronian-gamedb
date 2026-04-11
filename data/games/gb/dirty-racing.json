@@ -33,5 +33,53 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Dirty Racing (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "974a3cbe",
+      "md5": "6e3fa61e265eff43bdc928d59b2938c1",
+      "sha1": "9dc43a8636970dd6bf9d37943e3b1d7c2aa5d570",
+      "sha256": "12eafb15b0ede402327571bc4ddf08f1037c09d6cbff66cd8b494cf3051209ca"
+    },
+    {
+      "name": "Dirty Racing (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "43af45b1",
+      "md5": "b2023017774d88ffe82a7d1b0af52c12",
+      "sha1": "5b58b4d02987ce3a16774bc4a6707d12ac404c1c",
+      "sha256": "5769b5cdea88b62a402baa2831230c5b6dddb085a9266e7c663fd569264992aa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dirty%20Racing%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dirty%20Racing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dirty%20Racing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dirty%20Racing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

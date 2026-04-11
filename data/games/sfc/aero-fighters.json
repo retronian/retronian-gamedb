@@ -80,5 +80,65 @@
     "wikidata": "Q2534891",
     "mobygames": 10133,
     "igdb": 306980
-  }
+  },
+  "roms": [
+    {
+      "name": "Aero Fighters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1310720,
+      "crc32": "f194d00a",
+      "md5": "510b850d22a6f3d67ccbfdd979501943",
+      "sha1": "aeedb733c7bcd5fb933eb998d9fb3c960335bb4f",
+      "sha256": "b737de81315eef8ded7cfd5df6b37aba01d9e6e14566486db7ec83eb0c1aa85e"
+    },
+    {
+      "name": "Sonic Wings (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "cfe75bcb",
+      "md5": "bf692f974dd4f9760b4ff8f95695263d",
+      "sha1": "9c5ad2e322a4adeb2a5545c13f96ae59f7f53519",
+      "sha256": "b9a7b6d347dd0550e0262d04fbefffe13fa5b3fa54427b8d55633fcd5a992e6b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Aero%20Fighters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Aero%20Fighters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Aero%20Fighters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sonic%20Wings%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sonic%20Wings%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sonic%20Wings%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

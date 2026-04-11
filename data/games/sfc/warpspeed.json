@@ -18,5 +18,65 @@
     "wikidata": "Q3566369",
     "mobygames": 44400,
     "igdb": 4494
-  }
+  },
+  "roms": [
+    {
+      "name": "WarpSpeed (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "6e7f189f",
+      "md5": "93be3cef1f6d157b0cb5453058b72177",
+      "sha1": "6a6c811cb8c44caf1194155d257bfb53b7e26c04",
+      "sha256": "57c9eea367e166bf41372ebd428ce774e31fa77c776f1440a20c6105ce0691a4"
+    },
+    {
+      "name": "WarpSpeed (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "1e10a1d1",
+      "md5": "040e7265c0f6b33735bf63c315a15022",
+      "sha1": "0221d6a3f09c40124ae81ec03813e02aff31c13c",
+      "sha256": "36ec2f409f08a08f8327570eadcd8960b6a47bf5797441c2df05fcc50c5b762b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/WarpSpeed%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/WarpSpeed%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/WarpSpeed%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/WarpSpeed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/WarpSpeed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/WarpSpeed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

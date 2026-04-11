@@ -80,5 +80,75 @@
     "wikidata": "Q7191390",
     "mobygames": 40254,
     "igdb": 46587
-  }
+  },
+  "roms": [
+    {
+      "name": "Jigsaw Party (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "78f229dc",
+      "md5": "52e1cb037d122b5651fc514e1c233fdb",
+      "sha1": "8872d187cefd882145359eef8c659edcbe99fa85",
+      "sha256": "7f2dbdc09e92bdedaeb4a33b6c4aa6a5b757b0a01479fdc22f9969a13ea7999a"
+    },
+    {
+      "name": "Pieces (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "bb6c3c54",
+      "md5": "f0da10d1a7311ffdf1270dfb38ca3dbb",
+      "sha1": "11141f46259fac85640ea17f1c1cc6279bf196d2",
+      "sha256": "a0b39d7fd7c39c5b0f41f3542fb8d2887530ded1c111b4ffb2a863845e704ecc"
+    },
+    {
+      "name": "Jigsaw Party (Japan) (Beta) (1994-03-25)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f3f2ac30",
+      "md5": "3f54273940292e55c4b07317c4694c68",
+      "sha1": "e992ba74c48e5ac41479bc786f82f948fb871ce4",
+      "sha256": "9f7c861cf2cc2fe5094977efbf26d3e1098b7fcf00294c34f8feae12f68abbf6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jigsaw%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jigsaw%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jigsaw%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pieces%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pieces%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pieces%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -45,5 +45,84 @@
     "wikidata": "Q3171670",
     "mobygames": 6691,
     "igdb": 5427
-  }
+  },
+  "roms": [
+    {
+      "name": "Radical Rex (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "5065b197",
+      "md5": "b10f2d8f4d46cb00677c944674c6f48e",
+      "sha1": "94303e3ba9c759545662ac1b0ee265151012dd64",
+      "sha256": "105bf7a348ff8a29927fd5c20a7809a123c671d7cf15a1891b071b0ce9e0b30e"
+    },
+    {
+      "name": "Radical Rex (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e2b8da18",
+      "md5": "d3664d3f30be16b2586b74108f8f3914",
+      "sha1": "2e3336721770668ddbb2687cc9da5c719fe38823",
+      "sha256": "1869c0faf93bf21b7ff965f1925fad4b2924a64b1e48f4837221eebdf741226c"
+    },
+    {
+      "name": "Radical Rex (USA) (Beta) (1994-03-18)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "f7d52dd7",
+      "md5": "3c8a05a2d1330ca3565a994a96b3c5bc",
+      "sha1": "858e572389bf12971e177d628fb53f80d1ac52ff",
+      "sha256": "3a993a5df51ceacee94dba731e5e78902ceb5f80d89c749f0acc679b295a1b1e"
+    },
+    {
+      "name": "Radical Rex (World) (QUByte Classics)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "9437a19b",
+      "md5": "520ad5d30d24d5193557797c2a784c08",
+      "sha1": "3d488afb36a55d66a11f9953ea1fbbefc5a8229d",
+      "sha256": "def2294451112dfb3805e3d49d15e18986b2db4fa2205749a17adb3f71ddfea0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Radical%20Rex%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Radical%20Rex%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Radical%20Rex%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Radical%20Rex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Radical%20Rex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Radical%20Rex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

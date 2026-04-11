@@ -63,5 +63,77 @@
     "wikidata": "Q1988303",
     "mobygames": 89774,
     "igdb": 47788
-  }
+  },
+  "roms": [
+    {
+      "name": "Phineas and Ferb (USA) (En,Fr) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CFPE",
+      "size": 67108864,
+      "crc32": "c26eee41",
+      "md5": "f0d047e624716775c0e01c32dd4a51d4",
+      "sha1": "f7ae85f76cbf3f4685223e619e2a66447ff930d5",
+      "sha256": "7479976af35a7745cd429507b3fa44aeb05f7606848a758b2bafbb05de1b40c0"
+    },
+    {
+      "name": "Phineas and Ferb (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CFPE",
+      "size": 67108864,
+      "crc32": "54df449b",
+      "md5": "8e5f8624b2e17cd157a535423d709193",
+      "sha1": "40d8ff0b4d58628574871157257ef5f053f2494f"
+    },
+    {
+      "name": "Phineas and Ferb (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CNHP",
+      "size": 67108864,
+      "crc32": "1ee633a2",
+      "md5": "89503d938eabc660b5ed9728f127bea1",
+      "sha1": "da9d1c268a38a6d713dfa337a502bb6e820e0c19",
+      "sha256": "3a83a3f39a33c3fac7d45a89cfac776d95c061795325b5d72b325643a6b7d45f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Phineas%20and%20Ferb%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Phineas%20and%20Ferb%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Phineas%20and%20Ferb%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Phineas%20and%20Ferb%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Phineas%20and%20Ferb%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Phineas%20and%20Ferb%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

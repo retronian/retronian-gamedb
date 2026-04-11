@@ -18,5 +18,65 @@
     "wikidata": "Q2308154",
     "mobygames": 13648,
     "igdb": 129158
-  }
+  },
+  "roms": [
+    {
+      "name": "Extreme Ghostbusters - Code Ecto-1 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AEGE",
+      "size": 4194304,
+      "crc32": "e434fa06",
+      "md5": "ca03360842a7c269f9a46de25d5e779f",
+      "sha1": "a77eefc2d6dd9069e5f53612707d0389f7645e99"
+    },
+    {
+      "name": "Extreme Ghostbusters - Code Ecto-1 (Europe) (En,Fr,De,Es,It,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AEGP",
+      "size": 4194304,
+      "crc32": "88cc876c",
+      "md5": "8cbbfc4bac6a08f33e91d7cd6408a660",
+      "sha1": "0b182d21997ec3bf2b27e9bf966a779a22715e7e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Extreme%20Ghostbusters%20-%20Code%20Ecto-1%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Extreme%20Ghostbusters%20-%20Code%20Ecto-1%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Extreme%20Ghostbusters%20-%20Code%20Ecto-1%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Extreme%20Ghostbusters%20-%20Code%20Ecto-1%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Extreme%20Ghostbusters%20-%20Code%20Ecto-1%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Extreme%20Ghostbusters%20-%20Code%20Ecto-1%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

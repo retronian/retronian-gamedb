@@ -17,5 +17,66 @@
     "wikidata": "Q123064405",
     "mobygames": 44196,
     "igdb": 49283
-  }
+  },
+  "roms": [
+    {
+      "name": "Hot Wheels - All Out (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BHXE",
+      "size": 4194304,
+      "crc32": "c73658f9",
+      "md5": "2a3c66736cb90dc1dac6cb94944d0430",
+      "sha1": "ada2b78de6914c6506489251a419fe1696c6279f",
+      "sha256": "86570e32d3fb8b97c7629ea5edeb8177430bcf9ff4125af5c7103269e103e739"
+    },
+    {
+      "name": "Hot Wheels - All Out (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BHXP",
+      "size": 4194304,
+      "crc32": "74e787dc",
+      "md5": "e44c57a05f836d7ec7fa1c18153b151a",
+      "sha1": "cfd7998ba7a00e6fdc2f6d2627018be264aad6b0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hot%20Wheels%20-%20All%20Out%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hot%20Wheels%20-%20All%20Out%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hot%20Wheels%20-%20All%20Out%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hot%20Wheels%20-%20All%20Out%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hot%20Wheels%20-%20All%20Out%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hot%20Wheels%20-%20All%20Out%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -72,5 +72,159 @@
     "wikidata": "Q2287881",
     "mobygames": 34744,
     "igdb": 7088
-  }
+  },
+  "roms": [
+    {
+      "name": "Guitar Hero - On Tour (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YGHE",
+      "size": 134217728,
+      "crc32": "ef72ced6",
+      "md5": "748d06f1c40bd91f1c33bdd6e59ff706",
+      "sha1": "6ab29bd097b4adfd0d44abc02605e64fd2b2d556",
+      "sha256": "95059da144290fa05abffd49f5ec8e24128943fbf63ab884fc26f1cd48bece20"
+    },
+    {
+      "name": "Guitar Hero - On Tour (Europe) (Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YGHX",
+      "size": 134217728,
+      "crc32": "5e59fc20",
+      "md5": "cd6bfe6ba8139efec96baea4660d47cb",
+      "sha1": "4ba90d84aa06c0ad93f76c8fba2e4c5b647173bc",
+      "sha256": "162734d0e4a0e09d07c92fb5679a1de238f69d9ca9c61b078aa63b97f7fc3ec7"
+    },
+    {
+      "name": "Guitar Hero - On Tour (United Kingdom)",
+      "source": "no_intro",
+      "serial": "YGHP",
+      "size": 134217728,
+      "crc32": "cdc18b1b",
+      "md5": "36ecfa07429e224590a9b0665f2201d3",
+      "sha1": "431c3d587f4e320c04748e01845c42423eb7936d",
+      "sha256": "e324de9984907860aca7c43ee643c9e7804a757e4e6182694f224aa3f7f956b8"
+    },
+    {
+      "name": "Guitar Hero - On Tour (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "YGHK",
+      "size": 134217728,
+      "crc32": "4a0ab07e",
+      "md5": "2c13eafa0a1d4eb641c81e4c8e3b91a2",
+      "sha1": "bad4e8f7dea3518c2115fbb208a2970927a7590e",
+      "sha256": "e8a6652dfa7b1c71fc2aa134692f0b4f383a4adeb21824d78e84432ae32dcf7a"
+    },
+    {
+      "name": "Guitar Hero - On Tour (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YGHJ",
+      "size": 134217728,
+      "crc32": "2dd68af2",
+      "md5": "bad83690340980387c722c7782f8ac6f",
+      "sha1": "a35627e3c412239a8dc866b0da2f5501f3803a77"
+    },
+    {
+      "name": "Guitar Hero - On Tour (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "Y5RE",
+      "size": 67108864,
+      "crc32": "2d1d0b6d",
+      "md5": "c378ee84a3335b159c60a725a7eeeed4",
+      "sha1": "8cde37c75e2b2a707bebe15d7a9e830d2ba4982f",
+      "sha256": "162cc29233e059e9511cab4eb10c34fecc9150e24f0a128497028029654c26f4"
+    },
+    {
+      "name": "Guitar Hero - On Tour (Europe) (Fr,De,Es,It) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "Y5RX",
+      "size": 67108864,
+      "crc32": "fdf622cf",
+      "md5": "ec82ed6f5541460f5d3f63c148992a2e",
+      "sha1": "2729b55162146886c0dfe0d43bbfe84c87d63989",
+      "sha256": "3cf7d42d5fb130d1c8bdd49873d949654c12bc53822eae74438cdf6cb20890e7"
+    },
+    {
+      "name": "Guitar Hero - On Tour (United Kingdom) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "serial": "Y5RP",
+      "size": 67108864,
+      "crc32": "d72a6297",
+      "md5": "5de60ae03c34e1f717f5deedbd807f6c",
+      "sha1": "4cc3d5a21e1a1890b0432c56dfe7c1f502d02c62",
+      "sha256": "f7294cbaa7c44d9fc6a22eaf46250c092f274e645ca88e3d71fa2ff6fbe67764"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Guitar%20Hero%20-%20On%20Tour%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Guitar%20Hero%20-%20On%20Tour%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Guitar%20Hero%20-%20On%20Tour%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Guitar%20Hero%20-%20On%20Tour%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Guitar%20Hero%20-%20On%20Tour%20%28United%20Kingdom%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Guitar%20Hero%20-%20On%20Tour%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Guitar%20Hero%20-%20On%20Tour%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Guitar%20Hero%20-%20On%20Tour%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Guitar%20Hero%20-%20On%20Tour%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Guitar%20Hero%20-%20On%20Tour%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Guitar%20Hero%20-%20On%20Tour%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -18,5 +18,65 @@
     "wikidata": "Q6778203",
     "mobygames": 27441,
     "igdb": 21955
-  }
+  },
+  "roms": [
+    {
+      "name": "Marvel Trading Card Game (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AMLE",
+      "size": 33554432,
+      "crc32": "f5109bc8",
+      "md5": "0e9ff4e6a862f1d27abd8693952dd9d5",
+      "sha1": "ccf82ef28d6e0f4fc8a7a1e3546592eac0392746"
+    },
+    {
+      "name": "Marvel Trading Card Game (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AMLP",
+      "size": 33554432,
+      "crc32": "6a51da19",
+      "md5": "add8b398c1d85a5a887c16f3eade7770",
+      "sha1": "72f7b0c43171399b34bfdc63a67bdd55369a53c3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Marvel%20Trading%20Card%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Marvel%20Trading%20Card%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Marvel%20Trading%20Card%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Marvel%20Trading%20Card%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Marvel%20Trading%20Card%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Marvel%20Trading%20Card%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -53,5 +53,46 @@
   "external_ids": {
     "wikidata": "Q762130",
     "mobygames": 933
-  }
+  },
+  "roms": [
+    {
+      "name": "Chaos Engine, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1572864,
+      "crc32": "8900f073",
+      "md5": "2450fe375d298f14d6b433c8b8c2a17e",
+      "sha1": "c0b909a4ef97f5f0aab901c3c79249c11854685b",
+      "sha256": "fd7e471b7855614f1a4782c2194e6d268406c694d0f674350317a3efed26c4aa"
+    },
+    {
+      "name": "Chaos Engine, The (World) (Evercade)",
+      "source": "no_intro",
+      "size": 1572864,
+      "crc32": "d61b2178",
+      "md5": "eac6c943728f5409af8f27e00f203bf4",
+      "sha1": "76d4d51d7c4df7b812d5a64ebad913b8dd18e296",
+      "sha256": "dc1ac4cfc33dc4c47324ca6022f065eadddba0b39953798fc37763ff4b2a9b6c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Chaos%20Engine%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Chaos%20Engine%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Chaos%20Engine%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

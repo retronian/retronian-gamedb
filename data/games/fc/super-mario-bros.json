@@ -78,5 +78,70 @@
   "external_ids": {
     "wikidata": "Q221686",
     "igdb": 358
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Mario Bros. (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 40976,
+      "crc32": "4675571d",
+      "md5": "a07660b710245d0a1dea0b8e44148598",
+      "sha1": "b4140688f9a5b3434276c5a7394b56022436e57a",
+      "sha256": "ff69421b584ce898b3d4b3ab57202900c079c45cdface84d654d0368ad796ffe"
+    },
+    {
+      "name": "Super Mario Bros. (World)",
+      "source": "no_intro",
+      "size": 40976,
+      "crc32": "393a432f",
+      "md5": "f94bb9bb55f325d9af8a0fff80b9376d",
+      "sha1": "33d23c2f2cfa4c9efec87f7bc1321ce3ce6c89bd",
+      "sha256": "0b3d9e1f01ed1668205bab34d6c82b0e281456e137352e4f36a9b2cfa3b66dea"
+    },
+    {
+      "name": "Super Mario Bros. (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 40976,
+      "crc32": "b0cbaef5",
+      "md5": "fc2900917a755c523280050fa505c0cc",
+      "sha1": "d3bfba361f68129e6d3856acb2d3b02305ea0438",
+      "sha256": "0f1f49989f9f6117f585a565bcbc843aad2df91c436e64743be863c8372ee5b0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Bros.%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Mario%20Bros.%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20Bros.%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Bros.%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Mario%20Bros.%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20Bros.%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

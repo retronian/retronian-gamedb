@@ -45,5 +45,66 @@
     "wikidata": "Q663809",
     "mobygames": 6159,
     "igdb": 6483
-  }
+  },
+  "roms": [
+    {
+      "name": "Jurassic Park III - Park Builder (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AJ3P",
+      "size": 4194304,
+      "crc32": "51061eff",
+      "md5": "f8a7b028f2edcfbb565ef88bb321c665",
+      "sha1": "090257c3b30bb46d424258d12b542691a7fd2f62"
+    },
+    {
+      "name": "Jurassic Park III - Park Builder (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AJ3E",
+      "size": 4194304,
+      "crc32": "edddcf19",
+      "md5": "72018660652b494d553d41d5b1767f7e",
+      "sha1": "8a6922136f7c3e760791a67c2519e5dac07ea837",
+      "sha256": "9b073efb65342a1e40662304c213f4ce4ad617a2857fc0dfcd78f0e6c2af6240"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jurassic%20Park%20III%20-%20Park%20Builder%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jurassic%20Park%20III%20-%20Park%20Builder%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jurassic%20Park%20III%20-%20Park%20Builder%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jurassic%20Park%20III%20-%20Park%20Builder%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jurassic%20Park%20III%20-%20Park%20Builder%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jurassic%20Park%20III%20-%20Park%20Builder%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

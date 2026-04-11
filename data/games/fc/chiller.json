@@ -13,10 +13,80 @@
       "verified": false
     }
   ],
-  "first_release_date": "1986-01-01",
+  "first_release_date": "1985-01-01",
   "external_ids": {
     "wikidata": "Q940168",
     "mobygames": 11121,
     "igdb": 247378
-  }
+  },
+  "roms": [
+    {
+      "name": "Chiller (Australia) (Unl)",
+      "source": "no_intro",
+      "region": "au",
+      "size": 65552,
+      "crc32": "08b5e8db",
+      "md5": "936bad9ee59d8a1ce8881b9793ed1994",
+      "sha1": "5ce562cf4dfe221b3506b8a6d52766338c41fbc7",
+      "sha256": "49e4cb7f14fd2b8bb75b1e060e2ea44aa71521b9f59799cb684e65ab0e0563e0"
+    },
+    {
+      "name": "Chiller (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "9c3109e4",
+      "md5": "52236691a9b80943e6aafaeeffb60043",
+      "sha1": "e178161e9e9dea29f6522a35bed01d2b3d4070e8",
+      "sha256": "8961cd11e16b34413263a3209605c92e6156dd6c2313c029fab9d6df998f3a12"
+    },
+    {
+      "name": "Chiller (USA) (ShareData) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "3cb9bb10",
+      "md5": "40bc304724dad59d59d090b5c06d3f4b",
+      "sha1": "2f570ef5497b3e4b7eb7553fa5922ba6406c6dd9",
+      "sha256": "6a5da2fef0569a8ae5e78379d4ee8ecf2cf489c3d6dce66a670ac1ebb1e1c63d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Chiller%20%28Australia%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Chiller%20%28Australia%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Chiller%20%28Australia%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Chiller%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Chiller%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Chiller%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -17,5 +17,66 @@
   "external_ids": {
     "wikidata": "Q53866679",
     "igdb": 57858
-  }
+  },
+  "roms": [
+    {
+      "name": "Animal Snap - Rescue Them 2 by 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AAQP",
+      "size": 4194304,
+      "crc32": "25015475",
+      "md5": "59efe4673056b6385379b83883b30e47",
+      "sha1": "ad6fee649c7d17f9348d1d0a555100e6f8f16301"
+    },
+    {
+      "name": "Animal Snap - Rescue Them 2 by 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AAQE",
+      "size": 4194304,
+      "crc32": "7304dca4",
+      "md5": "8a65cc927274981d1b431bc005fe185d",
+      "sha1": "899b9158f622ab145c6787b2af65abda902e6a95",
+      "sha256": "34f3fe260a7b33febbcf0b6b9fc15af1421477cddf9b909f30c57f85da2ae567"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Animal%20Snap%20-%20Rescue%20Them%202%20by%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Animal%20Snap%20-%20Rescue%20Them%202%20by%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Animal%20Snap%20-%20Rescue%20Them%202%20by%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Animal%20Snap%20-%20Rescue%20Them%202%20by%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Animal%20Snap%20-%20Rescue%20Them%202%20by%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Animal%20Snap%20-%20Rescue%20Them%202%20by%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

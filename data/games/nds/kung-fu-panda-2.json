@@ -54,5 +54,75 @@
     "wikidata": "Q3282394",
     "mobygames": 91301,
     "igdb": 200906
-  }
+  },
+  "roms": [
+    {
+      "name": "Kung Fu Panda 2 (USA) (En,Fr) (VKUY) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VKUY",
+      "size": 67108864,
+      "crc32": "60eef763",
+      "md5": "a239966951510c1e5dbc4968d9ef65e9",
+      "sha1": "beb04a9e752be44dbb53e87a8d4567f07c4067e0"
+    },
+    {
+      "name": "Kung Fu Panda 2 (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VKUV",
+      "size": 67108864,
+      "crc32": "843c75ad",
+      "md5": "abad70266cd3025f871203ee44d7e8f2",
+      "sha1": "1e026c3855514a11c251c874f07b7c792303fc4e"
+    },
+    {
+      "name": "Kung Fu Panda 2 (USA) (En,Fr) (VKUE) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VKUE",
+      "size": 67108864,
+      "crc32": "dd242214",
+      "md5": "f2b940d18fc0e4ab11c2b6d5cdc87604",
+      "sha1": "ab0791c285ff53b8c8bf12952c86e1f4e9fd5b6b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kung%20Fu%20Panda%202%20%28USA%29%20%28En%2CFr%29%20%28VKUY%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kung%20Fu%20Panda%202%20%28USA%29%20%28En%2CFr%29%20%28VKUY%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kung%20Fu%20Panda%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kung%20Fu%20Panda%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kung%20Fu%20Panda%202%20%28USA%29%20%28En%2CFr%29%20%28VKUE%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kung%20Fu%20Panda%202%20%28USA%29%20%28En%2CFr%29%20%28VKUE%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

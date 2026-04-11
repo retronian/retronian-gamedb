@@ -36,5 +36,65 @@
     "wikidata": "Q2219421",
     "mobygames": 9838,
     "igdb": 22911
-  }
+  },
+  "roms": [
+    {
+      "name": "Top Gun - The Second Mission (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "9e92590e",
+      "md5": "57c5e29b570a26b80631787e937c10a4",
+      "sha1": "73353a44438ee419beebf2ef0ea5842f938fa4c5",
+      "sha256": "39960500bc41d56032c7618a39b8b9c0f57405ab170df9797dcd5764d9b50135"
+    },
+    {
+      "name": "Top Gun - The Second Mission (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "d43311d2",
+      "md5": "90a362efeeb5f4fb60e440148dc7eb1c",
+      "sha1": "28ec84745e939c7722ded1ff84f72a03af5e5e1b",
+      "sha256": "99a4eb6cc3fb2f26de3d1b8b49d2936e76b46e4a8ef5da93f61f657a5188000e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Top%20Gun%20-%20The%20Second%20Mission%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Top%20Gun%20-%20The%20Second%20Mission%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Top%20Gun%20-%20The%20Second%20Mission%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Top%20Gun%20-%20The%20Second%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Top%20Gun%20-%20The%20Second%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Top%20Gun%20-%20The%20Second%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

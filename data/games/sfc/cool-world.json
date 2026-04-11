@@ -18,5 +18,61 @@
     "wikidata": "Q5167369",
     "mobygames": 138489,
     "igdb": 7825
-  }
+  },
+  "roms": [
+    {
+      "name": "Cool World (Spain) (En)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "bc2e1304",
+      "md5": "ab73faedc1409c5ea13bd5ec56b10c6c",
+      "sha1": "9efab99ab1b778aca3023a71479e634206ac3507",
+      "sha256": "6582c8f0ebec73d9dee61c1ff95b7b8e7c753a30c7bdd5dab560025dc531a43e"
+    },
+    {
+      "name": "Cool World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "0730c37c",
+      "md5": "ab16565f70e427d048a0d8ddab577139",
+      "sha1": "a477c7c8fff0591792fbc7e4731bb7e7988d0617",
+      "sha256": "9674cc269d89a52d1719a487b44acf004fb777cbd58d76b19a2cd25749728215"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Cool%20World%20%28Spain%29%20%28En%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Cool%20World%20%28Spain%29%20%28En%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Cool%20World%20%28Spain%29%20%28En%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Cool%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Cool%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Cool%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

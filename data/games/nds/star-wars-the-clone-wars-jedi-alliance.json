@@ -45,5 +45,54 @@
     "wikidata": "Q54848",
     "mobygames": 37981,
     "igdb": 21335
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars - The Clone Wars - Jedi Alliance (USA) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CLWE",
+      "size": 268435456,
+      "crc32": "fa56f874",
+      "md5": "a1b478dcf26a5e67b181584b41401175",
+      "sha1": "0a88a118d8eb6cf688432bd26601e41999aa2e54"
+    },
+    {
+      "name": "Star Wars - The Clone Wars - Jedi Alliance (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CLWP",
+      "size": 268435456,
+      "crc32": "521d0385",
+      "md5": "ef6ac596e9339a24157435b563b77093",
+      "sha1": "4e026311ee6f7cfd852f3868d2f7e9be5fc3c5a7",
+      "sha256": "ed76d452ae5e19c587c397c7cd446c1e7495f6b84c157c58f61bb271b16e9fd8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Wars%20-%20The%20Clone%20Wars%20-%20Jedi%20Alliance%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Wars%20-%20The%20Clone%20Wars%20-%20Jedi%20Alliance%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Wars%20-%20The%20Clone%20Wars%20-%20Jedi%20Alliance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Wars%20-%20The%20Clone%20Wars%20-%20Jedi%20Alliance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

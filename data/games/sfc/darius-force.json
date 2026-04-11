@@ -62,5 +62,61 @@
   "external_ids": {
     "wikidata": "Q1527988",
     "mobygames": 10513
-  }
+  },
+  "roms": [
+    {
+      "name": "Darius Force (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "3e828e49",
+      "md5": "576e89ea12fc942b9a4f4b03df5f72b9",
+      "sha1": "8f45123bcbdcd02fef42dfbd131704a3b1e7226d",
+      "sha256": "f3527855afea87b29406700b9dab45ebbb48edcb5a01d59cc2b0986abd3b1dd7"
+    },
+    {
+      "name": "Darius Force (World) (Darius Cozmic Collection)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "3c346d8b",
+      "md5": "fda2152b387f4521c00c3ec67ff845e2",
+      "sha1": "c96233f582360dea90cb43906f49d5e0ac7bed3a",
+      "sha256": "0b9d40395f64f8ceb1a11dc22f08a4e706a98d78c6c534d641d4408921ad4c3e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Darius%20Force%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Darius%20Force%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Darius%20Force%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Darius%20Force%20%28World%29%20%28Darius%20Cozmic%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Darius%20Force%20%28World%29%20%28Darius%20Cozmic%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Darius%20Force%20%28World%29%20%28Darius%20Cozmic%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

@@ -79,5 +79,93 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mickey's Chase (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "0ab490c8",
+      "md5": "9cd7f210ae2680349078aca844be5354",
+      "sha1": "bd890e13f7518513178f324d6fc5d28bc22e5bfb",
+      "sha256": "429b35e0c0e06738b67dc8e2bbacc2e2f40cdb36341d80b2b3662689376ecff9"
+    },
+    {
+      "name": "Mickey's Dangerous Chase (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "e72db762",
+      "md5": "b0195767bf5d839e4cc4c837a4709b54",
+      "sha1": "1f749b9a805b28ee2f130da9e0e941a0427683d4",
+      "sha256": "db523bc761358d6b3baf9535257165200eb9e627586381db98749b6d52b3bd76"
+    },
+    {
+      "name": "Mickey's Dangerous Chase (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "7b822d8f",
+      "md5": "16bc18ef00088094e9fad502e613be5e",
+      "sha1": "37d0737be3773ad62664645d34505a136f0be99b",
+      "sha256": "fedb0c8100987cb466c116a3ac3a6572675b6aa721a7a8930cec1ae39f677bc6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mickey%27s%20Chase%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mickey%27s%20Chase%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mickey%27s%20Chase%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mickey%27s%20Dangerous%20Chase%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mickey%27s%20Dangerous%20Chase%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mickey%27s%20Dangerous%20Chase%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mickey%27s%20Dangerous%20Chase%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mickey%27s%20Dangerous%20Chase%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mickey%27s%20Dangerous%20Chase%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

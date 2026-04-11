@@ -108,5 +108,104 @@
     "wikidata": "Q1362747",
     "mobygames": 40655,
     "igdb": 1412
-  }
+  },
+  "roms": [
+    {
+      "name": "Metal Slug 7 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YM7P",
+      "size": 67108864,
+      "crc32": "3ce3e8a6",
+      "md5": "d3c116aee2f2de67403852d818aff082",
+      "sha1": "f537675de2b50ae7b940d206d06c38f0452e385c"
+    },
+    {
+      "name": "Metal Slug 7 (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "YM7K",
+      "size": 67108864,
+      "crc32": "2b466823",
+      "md5": "8649053e13c34aa10e53d2065318fcae",
+      "sha1": "76858a127997c78e80030ba1e820546c6f64d892",
+      "sha256": "4fae0b79b5a2717578d4ad8235dfdad5e849ea45c67b9d590ce2274e682d2b4f"
+    },
+    {
+      "name": "Metal Slug 7 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YM7J",
+      "size": 67108864,
+      "crc32": "89f4bba2",
+      "md5": "ec92801f460cd32ad499ee4bd9c17706",
+      "sha1": "df23052c3b8d152c9e05f195cfbd709c3f3e5e62"
+    },
+    {
+      "name": "Metal Slug 7 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YM7E",
+      "size": 67108864,
+      "crc32": "15d5765d",
+      "md5": "ca8729fbebe31248e806687fe71733d4",
+      "sha1": "1241d1ddd91fb4c2a3fa3d99afa622fec30dac7b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Metal%20Slug%207%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Metal%20Slug%207%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Metal%20Slug%207%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Metal%20Slug%207%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Metal%20Slug%207%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Metal%20Slug%207%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Metal%20Slug%207%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Metal%20Slug%207%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Metal%20Slug%207%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -45,5 +45,65 @@
     "wikidata": "Q1029084",
     "mobygames": 48328,
     "igdb": 343034
-  }
+  },
+  "roms": [
+    {
+      "name": "Batman - The Brave and the Bold - The Videogame (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3BP",
+      "size": 67108864,
+      "crc32": "1de54e9b",
+      "md5": "2716ccf4aba3a3d0a1cb2abbdf9e619f",
+      "sha1": "f5352ef3669a097c0f91445e942a4994f60b07ad"
+    },
+    {
+      "name": "Batman - The Brave and the Bold - The Videogame (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3BE",
+      "size": 67108864,
+      "crc32": "0682c0bd",
+      "md5": "9a173f77d64532d8407126da2cfe457f",
+      "sha1": "47eab9e6dcce799ccaf82b607e524bd1277c533e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Batman%20-%20The%20Brave%20and%20the%20Bold%20-%20The%20Videogame%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Batman%20-%20The%20Brave%20and%20the%20Bold%20-%20The%20Videogame%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Batman%20-%20The%20Brave%20and%20the%20Bold%20-%20The%20Videogame%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Batman%20-%20The%20Brave%20and%20the%20Bold%20-%20The%20Videogame%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Batman%20-%20The%20Brave%20and%20the%20Bold%20-%20The%20Videogame%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Batman%20-%20The%20Brave%20and%20the%20Bold%20-%20The%20Videogame%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

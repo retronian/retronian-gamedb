@@ -81,5 +81,65 @@
     "wikidata": "Q3259253",
     "mobygames": 7110,
     "igdb": 8099
-  }
+  },
+  "roms": [
+    {
+      "name": "Looney Tunes - Road Runner (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "bb2b8e2e",
+      "md5": "0af38a3c56ac7b451f96e298bafbb553",
+      "sha1": "70aa994c8ecb3a8c585a92d3b484b647e83d9651",
+      "sha256": "e6b04e949ed9456d2fd0ad625ae5deb31fe33ed51c13251c4e7d2aa3bca5d990"
+    },
+    {
+      "name": "Road Runner's Death Valley Rally (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "5980d75d",
+      "md5": "18b5e9f9d628fd23cc0ed31ce7089737",
+      "sha1": "881dbd1700914d3897182b3ecb05f558a64b6750",
+      "sha256": "2e8203e421f97cf165f03a5d4f69dadf0bcca18c42c6a1dfe79c8705c522cc54"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Looney%20Tunes%20-%20Road%20Runner%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Looney%20Tunes%20-%20Road%20Runner%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Looney%20Tunes%20-%20Road%20Runner%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Road%20Runner%27s%20Death%20Valley%20Rally%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Road%20Runner%27s%20Death%20Valley%20Rally%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Road%20Runner%27s%20Death%20Valley%20Rally%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

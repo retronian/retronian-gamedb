@@ -54,5 +54,65 @@
     "wikidata": "Q91932149",
     "mobygames": 34576,
     "igdb": 35974
-  }
+  },
+  "roms": [
+    {
+      "name": "Aqua Panic! (Europe) (En,Fr,De,Es,It,Nl,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CQ8P",
+      "size": 16777216,
+      "crc32": "df2ca827",
+      "md5": "a4a5a6df88e2aef9cb56ce9ad7200ae1",
+      "sha1": "18a5eb34a21b92ea3cd10d88c2ec5f4f80b767a5"
+    },
+    {
+      "name": "Aqua Panic! (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CQ8E",
+      "size": 16777216,
+      "crc32": "9c5ba23b",
+      "md5": "5a2650d48ba750dae0be5c38447f4f78",
+      "sha1": "082d9044a67e80a0643a373501ca59a5aef04926"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Aqua%20Panic%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Aqua%20Panic%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Aqua%20Panic%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Aqua%20Panic%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Aqua%20Panic%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Aqua%20Panic%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

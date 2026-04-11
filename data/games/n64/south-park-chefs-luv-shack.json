@@ -54,5 +54,66 @@
     "wikidata": "Q1130193",
     "mobygames": 2971,
     "igdb": 1258
-  }
+  },
+  "roms": [
+    {
+      "name": "South Park - Chef's Luv Shack (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NCYP",
+      "size": 16777216,
+      "crc32": "ac1628eb",
+      "md5": "f1ae48b778c8431a50c37eb1ed96b120",
+      "sha1": "5aeec40c04ae9f7bc286f38e5250712c5fead191",
+      "sha256": "808c16c10a8c60998b743f7ed96ec82363172dfeccc1035d2cbd527bdc9df6d0"
+    },
+    {
+      "name": "South Park - Chef's Luv Shack (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NCYE",
+      "size": 16777216,
+      "crc32": "6b6b1d09",
+      "md5": "6af573eb055648a8542aa82d9524fb2f",
+      "sha1": "0344b569e8410a860cd54165bc33130e80760896"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/South%20Park%20-%20Chef%27s%20Luv%20Shack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/South%20Park%20-%20Chef%27s%20Luv%20Shack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/South%20Park%20-%20Chef%27s%20Luv%20Shack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/South%20Park%20-%20Chef%27s%20Luv%20Shack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/South%20Park%20-%20Chef%27s%20Luv%20Shack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/South%20Park%20-%20Chef%27s%20Luv%20Shack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

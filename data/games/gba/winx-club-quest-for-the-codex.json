@@ -45,5 +45,65 @@
     "wikidata": "Q974537",
     "mobygames": 42189,
     "igdb": 49457
-  }
+  },
+  "roms": [
+    {
+      "name": "WinX Club - Quest for the Codex (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BWVE",
+      "size": 8388608,
+      "crc32": "29dfff34",
+      "md5": "6b99728fa21d6c6442bd1ebe919affa7",
+      "sha1": "9efdb3bd5f5afd7e608e8a48badf534880075a18"
+    },
+    {
+      "name": "WinX Club - Quest for the Codex (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BWVP",
+      "size": 8388608,
+      "crc32": "9eb09c77",
+      "md5": "978e59b7362c79193131a35c277e07c0",
+      "sha1": "84951f8baabc405eee8a1fb94d420397623265ad"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/WinX%20Club%20-%20Quest%20for%20the%20Codex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/WinX%20Club%20-%20Quest%20for%20the%20Codex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/WinX%20Club%20-%20Quest%20for%20the%20Codex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/WinX%20Club%20-%20Quest%20for%20the%20Codex%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/WinX%20Club%20-%20Quest%20for%20the%20Codex%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/WinX%20Club%20-%20Quest%20for%20the%20Codex%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

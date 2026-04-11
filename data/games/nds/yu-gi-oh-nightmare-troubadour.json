@@ -45,5 +45,65 @@
     "wikidata": "Q3551606",
     "mobygames": 67734,
     "igdb": 2285
-  }
+  },
+  "roms": [
+    {
+      "name": "Yu-Gi-Oh! - Nightmare Troubadour (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AYGE",
+      "size": 67108864,
+      "crc32": "2cefe04d",
+      "md5": "3b7cf21292dd121976d8eafc4150843e",
+      "sha1": "64d34892bc27e8ba69f7cf9213bd6be0faa0295c"
+    },
+    {
+      "name": "Yu-Gi-Oh! - Nightmare Troubadour (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AYGP",
+      "size": 67108864,
+      "crc32": "b9a9673b",
+      "md5": "c9b297c17634879bcd1f0fe4606993a9",
+      "sha1": "34e60dfa20509f80596e2d622d6e2cb95e616939"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Yu-Gi-Oh%21%20-%20Nightmare%20Troubadour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Yu-Gi-Oh%21%20-%20Nightmare%20Troubadour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Yu-Gi-Oh%21%20-%20Nightmare%20Troubadour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Yu-Gi-Oh%21%20-%20Nightmare%20Troubadour%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Yu-Gi-Oh%21%20-%20Nightmare%20Troubadour%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Yu-Gi-Oh%21%20-%20Nightmare%20Troubadour%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

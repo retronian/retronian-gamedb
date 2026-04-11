@@ -63,5 +63,65 @@
     "wikidata": "Q3477465",
     "mobygames": 20737,
     "igdb": 285595
-  }
+  },
+  "roms": [
+    {
+      "name": "Section-Z (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "a1e4d8d8",
+      "md5": "2f5215eb78b8e01a16d8c931ed54a80e",
+      "sha1": "452fee43e3b856ac2e996c6343dccdb2370797fe",
+      "sha256": "d9e52587fed75e1858833313fe44fc4ee2daf50bc7d602b67b5abe45468d630e"
+    },
+    {
+      "name": "Section-Z (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "ab229c3a",
+      "md5": "c9de9d43788f756291ed4ea5b69600c3",
+      "sha1": "575b6e162d382bb529a05e035b7b1b6dee3a19c6",
+      "sha256": "e27c8c66e20cc744c400be814ba51925546a644b7b61efde50e2f35783bc8d8c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Section-Z%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Section-Z%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Section-Z%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Section-Z%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Section-Z%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Section-Z%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

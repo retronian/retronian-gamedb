@@ -27,5 +27,66 @@
     "wikidata": "Q21039913",
     "mobygames": 6426,
     "igdb": 49236
-  }
+  },
+  "roms": [
+    {
+      "name": "Scorpion King, The - Sword of Osiris (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASZE",
+      "size": 4194304,
+      "crc32": "6e0a8585",
+      "md5": "8620aeb89f00dd3e3c2a500ba75ce2de",
+      "sha1": "2224c8080f48073e568d1b75eec32e18bc1f5a09"
+    },
+    {
+      "name": "Scorpion King, The - Sword of Osiris (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASZP",
+      "size": 4194304,
+      "crc32": "d5410d32",
+      "md5": "bf8fac941521947c92ba860d570927c4",
+      "sha1": "9a483e98d72b1d7d8579511cc9344e5d27bcee61",
+      "sha256": "9a618f456876306784b22f803456766e6477297a91cee993048f28e1ceec2e0c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Scorpion%20King%2C%20The%20-%20Sword%20of%20Osiris%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Scorpion%20King%2C%20The%20-%20Sword%20of%20Osiris%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Scorpion%20King%2C%20The%20-%20Sword%20of%20Osiris%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Scorpion%20King%2C%20The%20-%20Sword%20of%20Osiris%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Scorpion%20King%2C%20The%20-%20Sword%20of%20Osiris%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Scorpion%20King%2C%20The%20-%20Sword%20of%20Osiris%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

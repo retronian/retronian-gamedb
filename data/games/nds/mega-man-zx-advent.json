@@ -98,5 +98,65 @@
     "wikidata": "Q2452472",
     "mobygames": 31183,
     "igdb": 1780
-  }
+  },
+  "roms": [
+    {
+      "name": "Mega Man ZX - Advent (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YZXE",
+      "size": 67108864,
+      "crc32": "6ca425e5",
+      "md5": "596462f2976c1582ff45e88aaf3fa01b",
+      "sha1": "9cf3b54a11eb8d7628cf817ea9c2d25d67a65406"
+    },
+    {
+      "name": "Mega Man ZX - Advent (Europe) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YZXP",
+      "size": 67108864,
+      "crc32": "56da9fcf",
+      "md5": "7082b0aa26957efd5cb147422903c286",
+      "sha1": "67c35422710d327204e599854b93cbad243da3d0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20ZX%20-%20Advent%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mega%20Man%20ZX%20-%20Advent%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20ZX%20-%20Advent%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20ZX%20-%20Advent%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mega%20Man%20ZX%20-%20Advent%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20ZX%20-%20Advent%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

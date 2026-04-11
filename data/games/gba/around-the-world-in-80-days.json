@@ -26,5 +26,66 @@
   "external_ids": {
     "wikidata": "Q4795646",
     "igdb": 6309
-  }
+  },
+  "roms": [
+    {
+      "name": "Around the World in 80 Days (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B8DE",
+      "size": 4194304,
+      "crc32": "c2c22af2",
+      "md5": "ff81ee924f0b66ca6e1743c056ea0782",
+      "sha1": "a3649682ef8a2378767154b37ca854d615305646",
+      "sha256": "f3c3586a824ac671c2571b6c73392f1694a7fb425628b166cc482bc0bd72b4a5"
+    },
+    {
+      "name": "Around the World in 80 Days (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B8DP",
+      "size": 4194304,
+      "crc32": "2dd8cbd7",
+      "md5": "34254b26f28ea5cec1463576ff474fe8",
+      "sha1": "19c3964fc87f104e12da591bd91bb182c1092a76"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Around%20the%20World%20in%2080%20Days%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Around%20the%20World%20in%2080%20Days%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Around%20the%20World%20in%2080%20Days%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Around%20the%20World%20in%2080%20Days%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Around%20the%20World%20in%2080%20Days%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Around%20the%20World%20in%2080%20Days%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

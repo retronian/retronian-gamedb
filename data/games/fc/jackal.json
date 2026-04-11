@@ -81,5 +81,46 @@
     "wikidata": "Q2659903",
     "mobygames": 10495,
     "igdb": 212707
-  }
+  },
+  "roms": [
+    {
+      "name": "Jackal (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "b9950f4d",
+      "md5": "7c54d27e8b5a100ef8e6429e6c81959b",
+      "sha1": "c0067eb00e9f1f82561e9a96a5c2b7e22cee806c",
+      "sha256": "cef0fe040f4149f2aeddc5706b5d032e5769a55e27cf3fa696e808ff3496598e"
+    },
+    {
+      "name": "Jackal (World) (Konami Collector's Series)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "d540b8e2",
+      "md5": "db3f6e5ce1f21ca3300308833118f477",
+      "sha1": "87c3fe65bcd3bf6354d73bbf78a388de6dae17fa",
+      "sha256": "4ea770fea42cb90c532f6411801a52147bfa64379f04c56b3ba3957cf45fb04b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Jackal%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Jackal%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Jackal%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

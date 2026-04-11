@@ -72,5 +72,99 @@
     "wikidata": "Q2701304",
     "mobygames": 12156,
     "igdb": 210225
-  }
+  },
+  "roms": [
+    {
+      "name": "Mario's Time Machine (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "9c7cf22d",
+      "md5": "b3b68501b890b87074e8aa9e4e7adf72",
+      "sha1": "d3eefc2d7412be346608c09d5c975912106dda8d",
+      "sha256": "5134d7d85efd2f178a0f56e0b3518c15b07c511e3aa651c652916fb9e49d8274"
+    },
+    {
+      "name": "Mario's Time Machine (Germany)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "1d5a48d3",
+      "md5": "a2b37dcbc9729700137f2381553a25a6",
+      "sha1": "7b20b6235a1c64486946fe71bb62cac03d6f3f6d",
+      "sha256": "1e5830c4c8c9f60677a53eda3327f4302c867b9f36e19dcb339db8e8651e5ccf"
+    },
+    {
+      "name": "Mario's Time Machine (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "5e7397e0",
+      "md5": "f20ee859055845bffd2b3d1b2e9a4ec6",
+      "sha1": "e5140776ed65480ace64deb0b8cbba23295a9a25",
+      "sha256": "4b69d4958e099c3b3f6ae45e153ced9b24755d8c161dfee06c9f67886a7c0f09"
+    },
+    {
+      "name": "Mario's Time Machine (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "8f2ac8f5",
+      "md5": "5c7466a510a5e59d3c0373cff70a6f03",
+      "sha1": "9b4de3490f0699f8b997d1e3221a249dbd6a9e23",
+      "sha256": "66bcca797edbf5a0967830b0fd20df04993d8bb679a45cc083ed817d4728ffa3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%27s%20Time%20Machine%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mario%27s%20Time%20Machine%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mario%27s%20Time%20Machine%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%27s%20Time%20Machine%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mario%27s%20Time%20Machine%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mario%27s%20Time%20Machine%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%27s%20Time%20Machine%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mario%27s%20Time%20Machine%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mario%27s%20Time%20Machine%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -44,5 +44,66 @@
     "wikidata": "Q3283350",
     "mobygames": 6490,
     "igdb": 6535
-  }
+  },
+  "roms": [
+    {
+      "name": "Pinobee - Wings of Adventure (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APBE",
+      "size": 8388608,
+      "crc32": "d9385207",
+      "md5": "211af14ac83a170a0e60fe8d0a48e37e",
+      "sha1": "cb1549b6dd8070770b1a00928eeb7d458309e200"
+    },
+    {
+      "name": "Pinobee no Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "APBJ",
+      "size": 8388608,
+      "crc32": "febf9045",
+      "md5": "ce194375c105dc51582f47e7435103d0",
+      "sha1": "becd5af773a5607e94288c6ba412a901af0e0470",
+      "sha256": "b9747dbdb518ff34192f3ef81df24c5c535d4d8739df5f7b120d8badbb6b1efb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pinobee%20-%20Wings%20of%20Adventure%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pinobee%20-%20Wings%20of%20Adventure%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pinobee%20-%20Wings%20of%20Adventure%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pinobee%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pinobee%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pinobee%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

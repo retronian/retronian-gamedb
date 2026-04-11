@@ -62,5 +62,49 @@
   "external_ids": {
     "wikidata": "Q3016622",
     "igdb": 28022
-  }
+  },
+  "roms": [
+    {
+      "name": "Darwin 4081 (Japan, Korea) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4033-00",
+      "size": 524288,
+      "crc32": "db68d1ac",
+      "md5": "30b8d95e8d11baa846b97442d3f755dd",
+      "sha1": "a4e5d757fb734ab3b8ece62340d7687d92efa0e4",
+      "sha256": "f90d10ef6cd7ee6416806e7c40004a8f613447e0bd7b011975cc5b481896d3c8"
+    },
+    {
+      "name": "Darwin 4081 (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4033-00",
+      "size": 524288,
+      "crc32": "7a33b0cb",
+      "md5": "70b6289a3857f411361ef8cfd4bba4bf",
+      "sha1": "e9decc48451aba62d949a7710e466e1d041a2210",
+      "sha256": "1a52f9d3bb190f95f1ffb16ce100d834675b6379aa35cd72cf8bbe19c9006eb9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Darwin%204081%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Darwin%204081%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Darwin%204081%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

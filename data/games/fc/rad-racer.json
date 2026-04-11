@@ -105,5 +105,102 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Highway Star (Japan) (En) (Famicom 3D System)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "711ec878",
+      "md5": "64e3cb9b6c0ee1d095948423a5bdddec",
+      "sha1": "fe67ab2e621cef0fb889c4cceb86a482e27d380d",
+      "sha256": "10d959634397ef11af360782e15b31a8980cab866683fe01da10895a3d6b4972"
+    },
+    {
+      "name": "Rad Racer (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "72523e49",
+      "md5": "6775015b3ad321bf40ece98ac2540d43",
+      "sha1": "8287003483d6e003d82c17dc27960d23c8d71bcc",
+      "sha256": "f325fb281d998e08c45537b04b2ddc649c6d93f662c13403dd5d5878c9be26ed"
+    },
+    {
+      "name": "Rad Racer (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "dc03411a",
+      "md5": "290050da1c45f29daed877c7e14330d9",
+      "sha1": "149e5c2d91261917ff1b99cf60305ca31de5daee",
+      "sha256": "0c7d74595ec8a6051197c88445c0307cc1b618fcf3c07a27ec7b6f12e931452e"
+    },
+    {
+      "name": "Highway Star (Asia) (En) (Kaiser) (Pirate)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "7d626567",
+      "md5": "570a548fae6bdfc06b41912c71373185",
+      "sha1": "b4841ce6a3f92f427ee442ac310447eb3fc73a07",
+      "sha256": "e58736331666d29f24e769e40d7c771007c42014fbea14c7c333c903678a5048"
+    },
+    {
+      "name": "Highway Star (Russia) (Pirate)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "5d7c8985",
+      "md5": "aa6dfdb05adfcfcea70b14c0dab48d17",
+      "sha1": "554f1f5390b14c4fba5c5423fdc3ba490f71f791",
+      "sha256": "aa1a67636db8cd46d33f3e97a2e7fef95026c104415b759dab4f87bd3b34be7a"
+    },
+    {
+      "name": "Highway Star (Asia) (En) (Whirlwind Manu) (Pirate)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "a545493a",
+      "md5": "3bee06c3090efb2fc95e0e6b18afd1f6",
+      "sha1": "a8c0ac7f0ac22f8ad2439b9b3e24c3ddf5e1270d",
+      "sha256": "21ce7f99b1dc34725d207288ac987c303c1af6f0511f0da5f16b8de9ee92394e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rad%20Racer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rad%20Racer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rad%20Racer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rad%20Racer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rad%20Racer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rad%20Racer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

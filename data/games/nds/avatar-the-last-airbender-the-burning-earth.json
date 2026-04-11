@@ -54,5 +54,61 @@
     "wikidata": "Q2599198",
     "mobygames": 86606,
     "igdb": 210252
-  }
+  },
+  "roms": [
+    {
+      "name": "Avatar - Der Herr der Elemente - Die Erde Brennt (Germany)",
+      "source": "no_intro",
+      "serial": "YAVD",
+      "size": 67108864,
+      "crc32": "81fd5d8d",
+      "md5": "7dc997bdf6ef764aa08e2a0a1f228e03",
+      "sha1": "2dcec25ea1f087e2e92b1fcd54a1b0b42e1769e4"
+    },
+    {
+      "name": "Avatar - The Last Airbender - The Burning Earth (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YAVE",
+      "size": 67108864,
+      "crc32": "cb4b161b",
+      "md5": "9277e0e1f07c47d29b04aa3392027701",
+      "sha1": "61a0da43a42d0573706bbfe9604f8e8d6dba1fd7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Avatar%20-%20Der%20Herr%20der%20Elemente%20-%20Die%20Erde%20Brennt%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Avatar%20-%20Der%20Herr%20der%20Elemente%20-%20Die%20Erde%20Brennt%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Avatar%20-%20Der%20Herr%20der%20Elemente%20-%20Die%20Erde%20Brennt%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Avatar%20-%20The%20Last%20Airbender%20-%20The%20Burning%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Avatar%20-%20The%20Last%20Airbender%20-%20The%20Burning%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Avatar%20-%20The%20Last%20Airbender%20-%20The%20Burning%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

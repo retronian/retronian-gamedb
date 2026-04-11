@@ -20,6 +20,15 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": true
+    },
+    {
+      "text": "Chessmaster, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1989-11-01",
@@ -27,5 +36,110 @@
     "wikidata": "Q97621516",
     "mobygames": 32636,
     "igdb": 366555
-  }
+  },
+  "descriptions": [
+    {
+      "text": "「チェスマスター」シリーズのPlayStation 2版は、対応するPCゲームである「チェスマスター9000」に含まれるほとんどの機能を備えています。トレーニングゲーム（すべてのヒントや分析ツールが利用可能）、レーティングゲーム（プレイごとにレーティングが変動）、パズル（チェスのパズルで、「絵を作る」タイプではありません）、パンドルフィーニのチェススクールにある数百のチュートリアルを通じてチェスを学ぶことができ、有名なゲームを観戦することもできます。\n\nただし、PS2版にはいくつかの新機能があります。最も便利なのはオンラインモードです。もう一つは、チェスマスター選手権の「生きた世界」で、AIのレーティングも互いに対戦することで変動します。最後の特徴は、ファンタジーをテーマにしたオーク対人間のゲームモードで、アニメーションされたチェスセットと3D環境が用意されています。森の中や城の中、砂漠でチェスを楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chessmaster, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "02852e24",
+      "md5": "fb62e511419ff8ea89ee1cf558e7208a",
+      "sha1": "26f1d9cbb392ff07eafb8cd59526470849de9f38",
+      "sha256": "191855e35e220b68396b7b4646c872ef9a1b9910bfd7d9614ba7d5f11a6b0f5b"
+    },
+    {
+      "name": "Chessmaster, The (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "82150e4a",
+      "md5": "f04f23d228f03311545b1b3bb9b3b73c",
+      "sha1": "092d878bb8431ac1334dfa9cb91c4b12f1a4f365",
+      "sha256": "e8779a5a177bd21cf1e009322ec27fed495e32a326beba35ac39b962c59664e0"
+    },
+    {
+      "name": "Chessmaster, The (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "0c1d2b68",
+      "md5": "3db9f9f0c5913d3c9f7b5d5fbf7b5e02",
+      "sha1": "0e167c8ba379103775ae8e18ec9e0b819bdd5897",
+      "sha256": "7e483524aa104928149e4e56f01b7e98c6eed70dcd30ac5d65cd9d2387cde5ff"
+    },
+    {
+      "name": "Chessmaster, The (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "59ed370c",
+      "md5": "6b6d4a25d3c1e2890b22271c44e62dbf",
+      "sha1": "f0351faab8b912967552684d4160f5cf94540d41",
+      "sha256": "0a44d1f127436d73fc2f64201da0e0fd40793a414e533bba0a08e02dfb51cb10"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Chessmaster%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Chessmaster%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Chessmaster%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Chessmaster%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Chessmaster%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Chessmaster%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Chessmaster%2C%20The%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Chessmaster%2C%20The%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Chessmaster%2C%20The%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

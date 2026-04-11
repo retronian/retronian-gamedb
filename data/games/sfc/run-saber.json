@@ -54,5 +54,85 @@
     "wikidata": "Q7379529",
     "mobygames": 25723,
     "igdb": 22358
-  }
+  },
+  "roms": [
+    {
+      "name": "Run Saber (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "2820f702",
+      "md5": "09c7bd0263613728894cd449b1b9d5a5",
+      "sha1": "904f5dcf5aedad12d77f335690bfd740bc28801a",
+      "sha256": "64226da4ab199c9bb5c95bf6e44c7c9885c15c94d61775bde34bf2fef43d5881"
+    },
+    {
+      "name": "Run Saber (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "8708e5bb",
+      "md5": "bf356060c13d1a841e6b3342d1e9c981",
+      "sha1": "5fba73777acdd5b8bdb6ef429effcf6034c88072",
+      "sha256": "4158e3e8890a52f0b12dc9ad5a29276058a247ff41e9f1d22897ebde1eb11269"
+    },
+    {
+      "name": "Run Saber (USA) (Beta) (1992-12-27)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "45efc616",
+      "md5": "f6f9dc186e666f35b1aaf8e6b8e60324",
+      "sha1": "d641c4717ff51129bd1ab966f6d6228448f08a14",
+      "sha256": "23dd687f3d10adcb8f48bb7c70ad2ad6d3764093692e835511e5bf69e40e56b0"
+    },
+    {
+      "name": "Run Saber (USA) (Beta) (1993-01-19)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "081a4f7f",
+      "md5": "34b41a7ecfb42497f3f356789dc6dc86",
+      "sha1": "4a26325d8e08dbe193270443d9037ebea8e1d4c4",
+      "sha256": "be11ca2ba4c38a40de52e41bba61001591bdce2565be04a90632bceafd9846fb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Run%20Saber%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Run%20Saber%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Run%20Saber%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Run%20Saber%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Run%20Saber%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Run%20Saber%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

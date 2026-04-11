@@ -63,5 +63,86 @@
     "wikidata": "Q602642",
     "mobygames": 18357,
     "igdb": 6316
-  }
+  },
+  "roms": [
+    {
+      "name": "Banjo-Pilot (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BAJE",
+      "size": 16777216,
+      "crc32": "6e4030a1",
+      "md5": "1d55a0e331301a7d36ac326f3d8dc007",
+      "sha1": "58551d404c46b14ce3611dbfb70848e05bec2dac"
+    },
+    {
+      "name": "Banjo-Pilot (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BAJP",
+      "size": 16777216,
+      "crc32": "b98de3a4",
+      "md5": "3ac5633408cb7ac50247cdba396c5536",
+      "sha1": "5203f49c3b372b49dcb5c23f0dcbbb8432336081",
+      "sha256": "6e966c2ed473cbcad1235e9e416b54b4fb70564522e6df8088a6680435518fcc"
+    },
+    {
+      "name": "Banjo-Pilot (Europe) (Beta 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "XXXX",
+      "size": 15545696,
+      "crc32": "817fd31d",
+      "md5": "8ec1a2fee7a9cc9508bf13dc423d424d",
+      "sha1": "51b7fe0af316f4c25e08b2c8348b579e86697e3f"
+    },
+    {
+      "name": "Banjo-Pilot (Europe) (En,Fr,De,Es,It) (Beta 2)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 16777216,
+      "crc32": "3168a9a4",
+      "md5": "a8285fd50dde50dc2c37fc0375dc03cf",
+      "sha1": "d0d26e986f73300b52f2a91b0bd57f92d05dda31",
+      "sha256": "0696889f1a1a9a2aacd4a5430c3b4fdc28930ec69c34a3d00348c9a5188f773c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Banjo-Pilot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Banjo-Pilot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Banjo-Pilot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Banjo-Pilot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Banjo-Pilot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Banjo-Pilot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

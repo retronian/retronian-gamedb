@@ -36,5 +36,65 @@
     "wikidata": "Q866904",
     "mobygames": 36375,
     "igdb": 6353
-  }
+  },
+  "roms": [
+    {
+      "name": "CT Special Forces - Back to Hell (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A9CP",
+      "size": 8388608,
+      "crc32": "863cbf31",
+      "md5": "b2e1c0de1d83068b2daa90efc543bd29",
+      "sha1": "b782dac774932d93c313b122ca2c7c072ca84840"
+    },
+    {
+      "name": "CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A9CE",
+      "size": 8388608,
+      "crc32": "d2b58a33",
+      "md5": "a827b6305c196589c0fa6ed2f9ec0e3b",
+      "sha1": "cedca3aac39309dc122909d11457e306c81e16be"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/CT%20Special%20Forces%20-%20Back%20to%20Hell%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/CT%20Special%20Forces%20-%20Back%20to%20Hell%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/CT%20Special%20Forces%20-%20Back%20to%20Hell%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/CT%20Special%20Forces%202%20-%20Back%20in%20the%20Trenches%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/CT%20Special%20Forces%202%20-%20Back%20in%20the%20Trenches%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/CT%20Special%20Forces%202%20-%20Back%20in%20the%20Trenches%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

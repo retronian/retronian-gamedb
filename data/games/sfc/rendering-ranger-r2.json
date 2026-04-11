@@ -79,5 +79,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Rendering Ranger R2 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "8fb5ac86",
+      "md5": "057f03c63b9cdb4b1e7dd340982f2640",
+      "sha1": "f40ac25a6cdff1e8384723cad0290ba42fd50bda",
+      "sha256": "82a9ee11b5640409c67772363f1148517b26127cef13aa2a8ffc2480b487d81f"
+    },
+    {
+      "name": "Rendering Ranger R2 (USA) (Limited Run Games)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "25ad68bf",
+      "md5": "b18ddf486498b321fd901797dfbe76ea",
+      "sha1": "437f2fb7b7309a5cb994b8071b78d7e418fa096a",
+      "sha256": "e3da91c74c81b7d5a711317427519406ecb754ae5d6700911be62dd514f2f684"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Rendering%20Ranger%20R2%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Rendering%20Ranger%20R2%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Rendering%20Ranger%20R2%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

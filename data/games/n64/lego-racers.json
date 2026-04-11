@@ -63,5 +63,67 @@
     "wikidata": "Q1128672",
     "mobygames": 2629,
     "igdb": 422
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NLGP",
+      "size": 16777216,
+      "crc32": "c7d9b21c",
+      "md5": "6310c7173385ed2b06020f3b90158e9e",
+      "sha1": "6e9c4b097628f0147e9e79393dba6d7b4e59986f",
+      "sha256": "4709368b2f11fb724e91eaefe3aebc97b04e9c5d664f476d18cb5e48352c4af3"
+    },
+    {
+      "name": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NLGE",
+      "size": 16777216,
+      "crc32": "4d1e1897",
+      "md5": "26b5eaa13dc5b5e35307fe8c0cf5b6ba",
+      "sha1": "8decc41869926e20da2eb3da526e6395aa33cece",
+      "sha256": "dbbfdfde4abf4b0bec60470fe8ed412f2b0a360b9237066b952ef8d53f74c0ce"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/LEGO%20Racers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/LEGO%20Racers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/LEGO%20Racers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/LEGO%20Racers%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/LEGO%20Racers%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/LEGO%20Racers%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

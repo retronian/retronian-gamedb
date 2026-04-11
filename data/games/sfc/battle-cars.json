@@ -18,5 +18,46 @@
     "wikidata": "Q3636839",
     "mobygames": 32593,
     "igdb": 36729
-  }
+  },
+  "roms": [
+    {
+      "name": "Battle Cars (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "46043454",
+      "md5": "0b14bd63104ab1e7c59e18b1e18b2002",
+      "sha1": "9135ddb50d303cb08b8d6ed5d2533eada4b09f20",
+      "sha256": "d19113964c4d268e986018e256e9358cde9a23a05e6053b54c0f2d950dcdf395"
+    },
+    {
+      "name": "Battle Cars (World) (Evercade)",
+      "source": "no_intro",
+      "size": 1572864,
+      "crc32": "9cd27606",
+      "md5": "16a20d2f340371dbb69b4101753d2bc3",
+      "sha1": "7d733217fc281e6b905b8efdae5a722077da27ad",
+      "sha256": "7cd63963a202d93e8a95c1956498567f98bf23decc532ef3f0905b49005ba4de"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Battle%20Cars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Battle%20Cars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Battle%20Cars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

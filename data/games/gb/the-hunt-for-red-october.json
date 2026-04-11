@@ -78,5 +78,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Hunt for Red October, The (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "5a61ee00",
+      "md5": "cca5288a7a9e0270592bf75c0431bbb5",
+      "sha1": "7c9ccfd9e98b30c33ff71b3ab3098c2afeb9037c",
+      "sha256": "0ea3c547fb5f74c99cc721d45886ca0ad2fea032b6648a82046351251f754eae"
+    },
+    {
+      "name": "Red October o Oe! (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "c2e7be35",
+      "md5": "22ef15c88a371718d81b36f957f4f664",
+      "sha1": "48d5f02a126c32423569065f31d2c5695e39fd2f",
+      "sha256": "628fd8d7c7f48ce2a99ea18f060c85b754a2769ccd5de8b1e9025866112b6bb7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hunt%20for%20Red%20October%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hunt%20for%20Red%20October%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hunt%20for%20Red%20October%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

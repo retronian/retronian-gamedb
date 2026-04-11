@@ -78,5 +78,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Bubble Bobble 2 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "98a28f9c",
+      "md5": "fcc74d4fe6c5057070c54048547b5c64",
+      "sha1": "f8e005f022f6369990febab2d951bd957437c3e2",
+      "sha256": "f19ef05e74e31b62c70e73d5806d7e3563d4732fedcec6365f796a40b080ac5f"
+    },
+    {
+      "name": "Bubble Bobble Part 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "5b2c21c8",
+      "md5": "4d52954cd18127f0feda0bc23505b03a",
+      "sha1": "4b25c032f20282979386c9184a7477eee3e7cd3d",
+      "sha256": "9fded7f026adf964b8c1bb3d0fc0cf4976afc0a0d47b34e3c10a462ab52ef7ca"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bubble%20Bobble%20Part%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bubble%20Bobble%20Part%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bubble%20Bobble%20Part%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

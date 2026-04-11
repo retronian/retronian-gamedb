@@ -62,5 +62,75 @@
     "wikidata": "Q4009249",
     "mobygames": 18611,
     "igdb": 38410
-  }
+  },
+  "roms": [
+    {
+      "name": "Vegas Stakes (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "accb5950",
+      "md5": "10561d1820eb4b294087d130d0783366",
+      "sha1": "e17ae0d4d58ee77edd6741c3de7dd29fdf521e51",
+      "sha256": "b936ef6c6d1409bd01a5491b55016a3f933f96afbaf0c4162dfaa7bc766b309a"
+    },
+    {
+      "name": "Vegas Stakes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "03a0e935",
+      "md5": "6200c8cc3f28cf80a5181586ef92a7e1",
+      "sha1": "3e9b44b318df40929911067ff510bae02861e595",
+      "sha256": "78bf9d79fb2ff3f9d03ecc1176d070e53ddaca2c6b0cda69e74c19a4e50b195b"
+    },
+    {
+      "name": "Vegas Stakes (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "09f6f778",
+      "md5": "692491de7cd1e295012a2b63807d0832",
+      "sha1": "c7862f31e3a46494bf194d48034b5813f47867bf",
+      "sha256": "799974a8488a315a10e303a406e6587029a2e7f98ffd1b8ad3127d5780989a02"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Vegas%20Stakes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Vegas%20Stakes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Vegas%20Stakes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Vegas%20Stakes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Vegas%20Stakes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Vegas%20Stakes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -36,5 +36,66 @@
     "wikidata": "Q5194777",
     "mobygames": 74649,
     "igdb": 242930
-  }
+  },
+  "roms": [
+    {
+      "name": "Curious George (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3JE",
+      "size": 4194304,
+      "crc32": "f6b549dd",
+      "md5": "b70a1cfd17b2194ad99b2abf558aadf2",
+      "sha1": "7153a1e2b246c1997a91257480c67ac8b54fe61b",
+      "sha256": "e3ea35e9a3500c2625d5a8b559af974913330cc04d1930b0ae53809ddb93b1ad"
+    },
+    {
+      "name": "Curious George (Europe) (En,Fr,De,Es,It,Sv,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3JP",
+      "size": 4194304,
+      "crc32": "eef104b0",
+      "md5": "1f49d24ac42d1697a55a45a145b1dd39",
+      "sha1": "702b89df39afae4d767977ae5b5ed0467e009ffc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Curious%20George%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Curious%20George%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Curious%20George%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Curious%20George%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Curious%20George%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Curious%20George%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

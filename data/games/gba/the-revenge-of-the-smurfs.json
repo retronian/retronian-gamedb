@@ -35,5 +35,47 @@
   "external_ids": {
     "wikidata": "Q12005926",
     "igdb": 8079
-  }
+  },
+  "roms": [
+    {
+      "name": "Revenge of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A7SP",
+      "size": 4194304,
+      "crc32": "516ce770",
+      "md5": "3f9ea1e569fc4405974537224bd522cb",
+      "sha1": "846996f49910121b1dd2915c3bf203a767c6408a"
+    },
+    {
+      "name": "Revenge of the Smurfs, The (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 4194304,
+      "crc32": "a5ef2d7e",
+      "md5": "04786992d22b58a168d6ef2fb0ffb830",
+      "sha1": "ca8c54943ce6c10d6d2fcb9e85492f8dd16d5df9",
+      "sha256": "a2ef04e82bc0ae12e99a7451bf57023145f0e3813f525578a571fefec9daa796"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Revenge%20of%20the%20Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Revenge%20of%20the%20Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Revenge%20of%20the%20Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

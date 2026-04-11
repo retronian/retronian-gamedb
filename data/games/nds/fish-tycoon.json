@@ -27,5 +27,65 @@
     "wikidata": "Q5454589",
     "mobygames": 31941,
     "igdb": 29117
-  }
+  },
+  "roms": [
+    {
+      "name": "Fish Tycoon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YF7E",
+      "size": 16777216,
+      "crc32": "86150ffd",
+      "md5": "872485859fe33151f50a83ea57e7c918",
+      "sha1": "873f39f2c13f227eb7a77ed10d2757aee5f03859"
+    },
+    {
+      "name": "Fish Tycoon (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YF7P",
+      "size": 16777216,
+      "crc32": "6bb97217",
+      "md5": "007c9a0ad31a217462d174e13a263e31",
+      "sha1": "478e7670dc6d116b2d7d69a2c104a62482b3181b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fish%20Tycoon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fish%20Tycoon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fish%20Tycoon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fish%20Tycoon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fish%20Tycoon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fish%20Tycoon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -81,5 +81,66 @@
     "wikidata": "Q2383167",
     "mobygames": 29870,
     "igdb": 3683
-  }
+  },
+  "roms": [
+    {
+      "name": "Mother 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A3UJ",
+      "size": 33554432,
+      "crc32": "42ac9cb9",
+      "md5": "af8b0b175f7ec8914cb87b3161ba1aaa",
+      "sha1": "4f0f493e12c2a8c61b2d809af03f7abf87a85776"
+    },
+    {
+      "name": "Mother 3 (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A3UJ",
+      "size": 33554432,
+      "crc32": "c704a567",
+      "md5": "125cdf912a55210d086d73bbd4b40f5b",
+      "sha1": "a9fb9c36df3b0fb24b266826f5853c56122f9d36",
+      "sha256": "df2d790116aa51de0c75345f5f3fd02a99c5f291c53786618b3cda2a3a5f5758"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mother%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mother%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mother%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mother%203%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mother%203%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mother%203%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

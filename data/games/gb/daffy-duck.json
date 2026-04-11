@@ -35,5 +35,65 @@
     "wikidata": "Q96076258",
     "mobygames": 54801,
     "igdb": 144564
-  }
+  },
+  "roms": [
+    {
+      "name": "Daffy Duck (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "c47671f3",
+      "md5": "7c9cef32db758d3f6b8a8a23b6902e2d",
+      "sha1": "75b384222d07947baed2213c288385c4b91e1911",
+      "sha256": "704481030958e3c8fa1f8f1d0d9abad25a7ace5a88527bd1490f2ee6b245b5e3"
+    },
+    {
+      "name": "Daffy Duck (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "13dd647d",
+      "md5": "f1dbc21b1b8f8dcbe9a15bc9ef68fb9c",
+      "sha1": "344c3409410fe5f88796aafd125c522319b78012",
+      "sha256": "30faf530573519d690d066093e9fae3b461d79df37c025a9ec9115f5fc5786e4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Daffy%20Duck%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Daffy%20Duck%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Daffy%20Duck%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Daffy%20Duck%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Daffy%20Duck%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Daffy%20Duck%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

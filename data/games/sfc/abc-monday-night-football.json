@@ -54,5 +54,65 @@
     "wikidata": "Q3600489",
     "mobygames": 6178,
     "igdb": 11884
-  }
+  },
+  "roms": [
+    {
+      "name": "ABC Monday Night Football (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "24d4cfe9",
+      "md5": "931b0f1da8faedf8fe986d78f946665f",
+      "sha1": "da723818ef4162532b20ee60061aa784ae6762e3",
+      "sha256": "412dea81dcb942dd0677fa9fb82c66c730f58705ed635490fbdf84f5834cd833"
+    },
+    {
+      "name": "ABC Monday Night Football (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e0dc8ad7",
+      "md5": "acaab9b12349f4aa3c6669878dc35ef4",
+      "sha1": "8c6b2b1cd45cf486b64b0f544a34d2d1286c782f",
+      "sha256": "bb83f982961c33b81fefc1f545e18ab572d1c43cf6c241948544f05a1a71f2ba"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/ABC%20Monday%20Night%20Football%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/ABC%20Monday%20Night%20Football%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/ABC%20Monday%20Night%20Football%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/ABC%20Monday%20Night%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/ABC%20Monday%20Night%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/ABC%20Monday%20Night%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

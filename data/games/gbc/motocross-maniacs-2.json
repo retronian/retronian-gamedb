@@ -27,5 +27,64 @@
     "wikidata": "Q29867432",
     "mobygames": 42167,
     "igdb": 49891
-  }
+  },
+  "roms": [
+    {
+      "name": "Crazy Bikers (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "53e02b87",
+      "md5": "d6311339384cb70c35975c8d30a1cd98",
+      "sha1": "c625608b5165e971827af8434e72d8ca8d200ab8",
+      "sha256": "36d44cd0bfbc2ecde60f0489c927dee52b674d67340f182d35ac6e2d66b4027c"
+    },
+    {
+      "name": "Motocross Maniacs 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "17d27fa9",
+      "md5": "4d08e5553356aecd728b5ef7d78ee261",
+      "sha1": "5a0e7a9a71a88ee79529531274eb3696cf0fa42c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Crazy%20Bikers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Crazy%20Bikers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Crazy%20Bikers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Motocross%20Maniacs%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Motocross%20Maniacs%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Motocross%20Maniacs%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

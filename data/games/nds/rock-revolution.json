@@ -63,5 +63,65 @@
     "wikidata": "Q1038251",
     "mobygames": 45919,
     "igdb": 210456
-  }
+  },
+  "roms": [
+    {
+      "name": "Rock Revolution (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CRKE",
+      "size": 67108864,
+      "crc32": "c2f1f95c",
+      "md5": "054b7f8f3d948b037f379b7cfbd687ce",
+      "sha1": "bf28467462d2f175f250699e2953ae04c6cc0a0e"
+    },
+    {
+      "name": "Rock Revolution (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CRKP",
+      "size": 67108864,
+      "crc32": "e5c131f5",
+      "md5": "80f9ad6c6b5d536a9c6fa5413fa612ee",
+      "sha1": "c53963d5dd7b343eb88216782d39848a06978f35"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rock%20Revolution%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rock%20Revolution%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rock%20Revolution%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rock%20Revolution%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rock%20Revolution%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rock%20Revolution%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

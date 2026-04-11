@@ -18,5 +18,65 @@
     "wikidata": "Q5451279",
     "mobygames": 33515,
     "igdb": 48252
-  }
+  },
+  "roms": [
+    {
+      "name": "Firehawk (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "4289771b",
+      "md5": "19187883180cc225fd8de47d5cfdd674",
+      "sha1": "64002eebdd8e1010cda1104b8e6a897d006446ea",
+      "sha256": "4c29f73f6a2ac527cfa6c98763861091a195533964c1128db29de38975405a3f"
+    },
+    {
+      "name": "Firehawk (Europe) (Unl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "d30ac9a8",
+      "md5": "1705facc30db5b88321660b2a99cfaf4",
+      "sha1": "f148120d987bcb396664240d6a3773033694bf6e",
+      "sha256": "65260c8ca5375751b65176f83d3675542d261871663c08b212dfff783676ddff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Firehawk%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Firehawk%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Firehawk%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Firehawk%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Firehawk%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Firehawk%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -90,5 +90,75 @@
     "wikidata": "Q1557589",
     "mobygames": 9764,
     "igdb": 9554
-  }
+  },
+  "roms": [
+    {
+      "name": "Mr. Do! (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "ccebb6e8",
+      "md5": "8f78bae5a538946277c960f71fed904b",
+      "sha1": "b81d186807854094718a7cdc6f8fc927a081da0e",
+      "sha256": "bfec7d5afdf0d41cfce7f4e73dc20d91981db0edc2a0f41c5737d861efd4ab2a"
+    },
+    {
+      "name": "Mr. Do! (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "3847cf64",
+      "md5": "3a70e3aebecda72be7d0eaf7cefa4c78",
+      "sha1": "3dd5b75afe94e28f9c0d82a18fc2b2ecca100b64",
+      "sha256": "4c158611d703d2e26d3782715810547b55358a0207d1cbdaebe1a9fd5ee8beb6"
+    },
+    {
+      "name": "Mr. Do! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "1c1025e2",
+      "md5": "d56a5b300959ab7109e7d854c916fa49",
+      "sha1": "34cf15e802feafda7ed224b69e1f9f2ca692857a",
+      "sha256": "340293c06536d7b6981ad7c681e404f4390ff6c62340f844a4558877c1b82af0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mr.%20Do%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mr.%20Do%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mr.%20Do%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mr.%20Do%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mr.%20Do%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mr.%20Do%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

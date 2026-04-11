@@ -90,5 +90,89 @@
     "wikidata": "Q2362073",
     "mobygames": 7062,
     "igdb": 4499
-  }
+  },
+  "roms": [
+    {
+      "name": "Dr. Robotnik's Mean Bean Machine (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1706-00",
+      "size": 1048576,
+      "crc32": "c631bfff",
+      "md5": "69a357377ab46bed5586f8f6b0dd1157",
+      "sha1": "9d65fd99d8306b09d0cb7ce728647d223294208c",
+      "sha256": "2acb6b2fd72b4dc252e2f2c63afc5e2efceb1e08e7330e8cad82640a76e95454"
+    },
+    {
+      "name": "Dr. Robotnik's Mean Bean Machine (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1706-50",
+      "size": 1048576,
+      "crc32": "70680706",
+      "md5": "900edd585f9716cd2f8000791dc2b096",
+      "sha1": "8cdaca024585aab557e9a09732a298e5112ee15b",
+      "sha256": "23914cbdc4c33526281ef28c24c46fd6b3f3cdc68656842fe14d527ac46934af"
+    },
+    {
+      "name": "Dr. Robotnik's Mean Bean Machine (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1706-00",
+      "size": 1048576,
+      "crc32": "c7ca517f",
+      "md5": "4d6bdac51d2f5969a91496142ea53232",
+      "sha1": "aa6b60103fa92bc95fcc824bf1675e411627c8d3",
+      "sha256": "882e25427763260fa6d028c965b314fc5673560d82ec065cf154a1274e343ffe"
+    },
+    {
+      "name": "Dr. Robotnik's Mean Bean Machine (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "??-????-00",
+      "size": 1048576,
+      "crc32": "4d0e5273",
+      "md5": "5b6e55ccc0daabf1c2a8cead5d6cdacf",
+      "sha1": "312f9a283bebc5d612a63afd2cf67eb923f4f074",
+      "sha256": "35a39e523bfe6c981769ca043f473b49c896a6eeca1bb3aaf5abde35cd0ae12c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Dr.%20Robotnik%27s%20Mean%20Bean%20Machine%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dr.%20Robotnik%27s%20Mean%20Bean%20Machine%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dr.%20Robotnik%27s%20Mean%20Bean%20Machine%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Dr.%20Robotnik%27s%20Mean%20Bean%20Machine%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dr.%20Robotnik%27s%20Mean%20Bean%20Machine%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dr.%20Robotnik%27s%20Mean%20Bean%20Machine%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -36,5 +36,53 @@
     "wikidata": "Q110731989",
     "mobygames": 54770,
     "igdb": 44068
-  }
+  },
+  "roms": [
+    {
+      "name": "Treasures of Montezuma, The (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BTQP",
+      "size": 16777216,
+      "crc32": "6b6dcdac",
+      "md5": "89708ddebf2e12e8108b27226615ad6c",
+      "sha1": "eff00638359ed8482a327b8fdeff0081cc1de19b"
+    },
+    {
+      "name": "Treasures of Montezuma, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BTQE",
+      "size": 16777216,
+      "crc32": "4b7b8a4b",
+      "md5": "4d7cf549c3190d0c97d3009bb8e53d1c",
+      "sha1": "22cc0840b2e689d10e3dcaef6f4b764784e42ca9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Treasures%20of%20Montezuma%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Treasures%20of%20Montezuma%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Treasures%20of%20Montezuma%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Treasures%20of%20Montezuma%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

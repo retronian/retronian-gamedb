@@ -54,5 +54,48 @@
     "wikidata": "Q254723",
     "mobygames": 210,
     "igdb": 5519
-  }
+  },
+  "roms": [
+    {
+      "name": "Cannon Fodder (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-070366-50",
+      "size": 1572864,
+      "crc32": "39191ba3",
+      "md5": "f4ce487f368054bb08945702d3d6380c",
+      "sha1": "ff3d27343bf89b8e01bbeaac902d70be6b7cf341",
+      "sha256": "f2749f3405049bcab14c9f40a69fe0f8cd4d210224099c75784ef9c5e133a3b4"
+    },
+    {
+      "name": "Cannon Fodder (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-070366-50",
+      "size": 2097152,
+      "crc32": "3f440d3f",
+      "md5": "80c93623c29ab70da823860a5f46e70c",
+      "sha1": "4092643d84f6fea976902efff42855cc8a731846",
+      "sha256": "6fb2775a5d9ab86a208a3d3e154beaaae9340a1c1f0dbd6403c13f2425e465b8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Cannon%20Fodder%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Cannon%20Fodder%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Cannon%20Fodder%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

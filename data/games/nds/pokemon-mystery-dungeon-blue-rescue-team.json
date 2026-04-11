@@ -53,5 +53,145 @@
     "wikidata": "Q50277082",
     "mobygames": 24322,
     "igdb": 2320
-  }
+  },
+  "roms": [
+    {
+      "name": "Pokemon Mystery Dungeon - Blue Rescue Team (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APHE",
+      "size": 33554432,
+      "crc32": "b6c4143e",
+      "md5": "61373235da72064e8c058fae3c646916",
+      "sha1": "503edef4fe6088bca00616efcac3b13da90cd105",
+      "sha256": "4bdf72ce0dd7a19c66f49e840f046124994d719678e88a0814d0148f705d3e8b"
+    },
+    {
+      "name": "Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "APHP",
+      "size": 33554432,
+      "crc32": "a28b5a7a",
+      "md5": "51360a97f1b601ea7de88cf33ab2ff49",
+      "sha1": "6f01887356268de39085df01490347bbcc3aa330",
+      "sha256": "2540966e1e9cd722bf2ae401069df10b81875af03f0618d413b9d32511c14b05"
+    },
+    {
+      "name": "Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A57P",
+      "size": 16777216,
+      "crc32": "0edae62c",
+      "md5": "444fab1275206738efe8b542ad468b17",
+      "sha1": "a955ebb548dc64498c438e7f3723282ab0f9a8c0",
+      "sha256": "6c399cd546c096c22e9e2447706c24d2b1c0dd014004ffb0b5dff72508d63295"
+    },
+    {
+      "name": "Pokemon Mystery Dungeon - Blue Rescue Team (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A57E",
+      "size": 16777216,
+      "crc32": "9c4e1f10",
+      "md5": "54990f94512037b8b72d69434525985c",
+      "sha1": "cf2ed16685164d650756b1061a66154163ca84e5",
+      "sha256": "8494a3c2c1cabaabee58287df910c00a6a4bf5dd75dd8f9b7974385ddab7836f"
+    },
+    {
+      "name": "Pokemon Mystery Dungeon - Blue Rescue Team (USA) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "WUP-N-DAXE",
+      "size": 33554432,
+      "crc32": "32f2186d",
+      "md5": "ef8bec784f8e3b0cea94f5c6596bcb3e",
+      "sha1": "6751064ef8cfb9f057ceb9d82a6b0225eda8e4e6"
+    },
+    {
+      "name": "Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "WUP-N-DAXP",
+      "size": 33554432,
+      "crc32": "9e5f97b1",
+      "md5": "096b2488fed59fe8483a7c2d88b011e3",
+      "sha1": "853cb6e04f6dba9b7aaaf325f5718394db147892"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20Mystery%20Dungeon%20-%20Blue%20Rescue%20Team%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20Mystery%20Dungeon%20-%20Blue%20Rescue%20Team%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20Mystery%20Dungeon%20-%20Blue%20Rescue%20Team%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20Mystery%20Dungeon%20-%20Blue%20Rescue%20Team%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20Mystery%20Dungeon%20-%20Blue%20Rescue%20Team%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20Mystery%20Dungeon%20-%20Blue%20Rescue%20Team%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20Mystery%20Dungeon%20-%20Blue%20Rescue%20Team%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20Mystery%20Dungeon%20-%20Blue%20Rescue%20Team%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20Mystery%20Dungeon%20-%20Blue%20Rescue%20Team%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20Mystery%20Dungeon%20-%20Blue%20Rescue%20Team%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20Mystery%20Dungeon%20-%20Blue%20Rescue%20Team%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20Mystery%20Dungeon%20-%20Blue%20Rescue%20Team%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

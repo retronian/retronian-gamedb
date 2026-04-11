@@ -72,5 +72,66 @@
     "wikidata": "Q2066589",
     "mobygames": 28470,
     "igdb": 248538
-  }
+  },
+  "roms": [
+    {
+      "name": "Ice Age 2 - The Meltdown (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AIAE",
+      "size": 67108864,
+      "crc32": "b5a0dc62",
+      "md5": "e935d8700e92c81437219004853b6006",
+      "sha1": "919edc3a94db28099a3f7c569051882ba3989994",
+      "sha256": "94aef33304abc749cf1b4660abe19f2aa6fab5c0034808b47b1895691d83acfb"
+    },
+    {
+      "name": "Ice Age 2 - The Meltdown (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AIAP",
+      "size": 67108864,
+      "crc32": "99fe2176",
+      "md5": "45ee2903197908774ecad172bc0795da",
+      "sha1": "70618b1cd85c3a2e1a3e5185155415c4f688ae84"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ice%20Age%202%20-%20The%20Meltdown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ice%20Age%202%20-%20The%20Meltdown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ice%20Age%202%20-%20The%20Meltdown%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ice%20Age%202%20-%20The%20Meltdown%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ice%20Age%202%20-%20The%20Meltdown%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ice%20Age%202%20-%20The%20Meltdown%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

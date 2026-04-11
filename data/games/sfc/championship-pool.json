@@ -27,5 +27,65 @@
     "wikidata": "Q2955894",
     "mobygames": 32633,
     "igdb": 4538
-  }
+  },
+  "roms": [
+    {
+      "name": "Championship Pool (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "2905c3dd",
+      "md5": "c59cedf0710684781b1570506023e44f",
+      "sha1": "ca2903b442130b85c8304f9863ecefb1bd0923b1",
+      "sha256": "a60886ea6459861bb8d149023a975c4e83c172847264756840ca0754eb9f1f15"
+    },
+    {
+      "name": "Championship Pool (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "98ef8414",
+      "md5": "40600edca42ce6b319a619e9f70daf8e",
+      "sha1": "c27615dffc57e0a5b9250a0613ac9b77ebe86256",
+      "sha256": "e6c4f468b39f2dea3436b63758db8ac9b29731357b982ec373334a36f202623f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Championship%20Pool%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Championship%20Pool%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Championship%20Pool%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Championship%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Championship%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Championship%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

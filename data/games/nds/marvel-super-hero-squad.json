@@ -54,5 +54,133 @@
     "wikidata": "Q3850393",
     "mobygames": 48829,
     "igdb": 4997
-  }
+  },
+  "roms": [
+    {
+      "name": "Marvel Super Hero Squad (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BMUE",
+      "size": 67108864,
+      "crc32": "b58a27bd",
+      "md5": "3d735fe1eeefab5da810acc7eeed7ada",
+      "sha1": "d9d505f9453fd2e59899d40513f271b1fc88ca0a"
+    },
+    {
+      "name": "Marvel Super Hero Squad (Europe) (Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BMUY",
+      "size": 67108864,
+      "crc32": "2e227618",
+      "md5": "56c7f726709c29a3c11ce0f0f02df48a",
+      "sha1": "ed86418138fbd98d6afec4760936531d62c8de9f"
+    },
+    {
+      "name": "Marvel Super Hero Squad (Europe) (En,Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BMUP",
+      "size": 67108864,
+      "crc32": "274407f9",
+      "md5": "62eb0eb0733b678b1af951dee2edfb95",
+      "sha1": "6b78013c3f972d0eb45a46e7d149f88238567b2e",
+      "sha256": "208d283f5b2fea8b865696ad71c03c5b00d22b96eb135e7047824c4f0a9e8513"
+    },
+    {
+      "name": "Marvel Super Hero Squad (Korea) (En,Ko)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "BMUK",
+      "size": 33554432,
+      "crc32": "d69c1ca2",
+      "md5": "43f8a57e0b3027aea7c421586b8a5147",
+      "sha1": "b36089b1ecada0a3f6de9892b246a66b24fab331",
+      "sha256": "b9d856b5664349108e4cd7c8f399c12d287ea9e2421bc2e76029f87014ea641b"
+    },
+    {
+      "name": "Marvel Super Hero Squad (USA) (En,Fr,Es) (Walmart Edition)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BMUX",
+      "size": 67108864,
+      "crc32": "f9c1f31b",
+      "md5": "4eb3e5505670b005d649d4e249c8b627",
+      "sha1": "5713cffc4d775a048f6073c73cda12186bcaee68"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Marvel%20Super%20Hero%20Squad%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Marvel%20Super%20Hero%20Squad%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Marvel%20Super%20Hero%20Squad%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Marvel%20Super%20Hero%20Squad%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Marvel%20Super%20Hero%20Squad%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Marvel%20Super%20Hero%20Squad%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Marvel%20Super%20Hero%20Squad%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Marvel%20Super%20Hero%20Squad%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Marvel%20Super%20Hero%20Squad%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Marvel%20Super%20Hero%20Squad%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Walmart%20Edition%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Marvel%20Super%20Hero%20Squad%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Walmart%20Edition%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Marvel%20Super%20Hero%20Squad%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Walmart%20Edition%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

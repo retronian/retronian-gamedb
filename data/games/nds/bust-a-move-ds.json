@@ -54,5 +54,65 @@
     "wikidata": "Q5002055",
     "mobygames": 32833,
     "igdb": 22572
-  }
+  },
+  "roms": [
+    {
+      "name": "Bust-A-Move DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ABTE",
+      "size": 33554432,
+      "crc32": "d9e6920f",
+      "md5": "c82b36649a7140207c60f23494a56f45",
+      "sha1": "e81f4cc513cce42979a54d256c3544501787c4f1"
+    },
+    {
+      "name": "Bust-A-Move DS (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ABTP",
+      "size": 33554432,
+      "crc32": "e6c12fbf",
+      "md5": "d3bc6dfb0d97d875b5091add919bbf89",
+      "sha1": "a8f7660d103ab1a08d2804a48d90672f14d6ae9b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bust-A-Move%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bust-A-Move%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bust-A-Move%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bust-A-Move%20DS%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bust-A-Move%20DS%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bust-A-Move%20DS%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

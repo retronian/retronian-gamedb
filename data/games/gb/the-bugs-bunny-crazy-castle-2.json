@@ -88,5 +88,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Bugs Bunny Crazy Castle 2, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "a973e604",
+      "md5": "8963803e642dbfbe4f5f3bc5a567785d",
+      "sha1": "1e4c8c8fe8b6c34f76cd0da876442f14299da725",
+      "sha256": "cf1a8d9c9d4fc9e58740f6e008e5280ff2831c099aecab642e64e5195c0ad0bc"
+    },
+    {
+      "name": "Mickey Mouse (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "fc50dee7",
+      "md5": "fecc3f5a95ccaec78f83892933d8159f",
+      "sha1": "b8e708dfe7496c712bd3ef171429d81cb6619252",
+      "sha256": "7c96841877908473f7873c91373b06bfd3749b341b4c4180c8fd2cc8b8308b68"
+    },
+    {
+      "name": "Mickey Mouse (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "4ca75d4d",
+      "md5": "c58edffdb628ea2fc904d4b8c93b6cbc",
+      "sha1": "a5e526b47e9295c7cbea21a84bef2c1658e6f87e",
+      "sha256": "03335e8c54a85cc7b5596acb99e461f7e9a3b25fcbef3dab40240bf632ed1ab4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bugs%20Bunny%20Crazy%20Castle%202%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bugs%20Bunny%20Crazy%20Castle%202%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bugs%20Bunny%20Crazy%20Castle%202%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mickey%20Mouse%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mickey%20Mouse%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mickey%20Mouse%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

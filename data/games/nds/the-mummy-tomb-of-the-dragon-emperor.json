@@ -45,5 +45,53 @@
     "wikidata": "Q7752632",
     "mobygames": 89653,
     "igdb": 5023
-  }
+  },
+  "roms": [
+    {
+      "name": "Mummy, The - Tomb of the Dragon Emperor (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YHDE",
+      "size": 67108864,
+      "crc32": "04a63bea",
+      "md5": "8299a08599e73ac2fc463d3c85da6829",
+      "sha1": "d81f2d29467b8ba195ff886d97f07721d6175f94"
+    },
+    {
+      "name": "Mummy, The - Tomb of the Dragon Emperor (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YHDP",
+      "size": 67108864,
+      "crc32": "47c100ff",
+      "md5": "a86cf2914f9c6a71eb818835a5a7e14b",
+      "sha1": "8698a6440d02402983a2e5e9258985d55875f64c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mummy%2C%20The%20-%20Tomb%20of%20the%20Dragon%20Emperor%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mummy%2C%20The%20-%20Tomb%20of%20the%20Dragon%20Emperor%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mummy%2C%20The%20-%20Tomb%20of%20the%20Dragon%20Emperor%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mummy%2C%20The%20-%20Tomb%20of%20the%20Dragon%20Emperor%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

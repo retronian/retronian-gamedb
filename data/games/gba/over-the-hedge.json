@@ -54,5 +54,90 @@
     "wikidata": "Q3284341",
     "mobygames": 24082,
     "igdb": 202105
-  }
+  },
+  "roms": [
+    {
+      "name": "Over the Hedge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BH5E",
+      "size": 8388608,
+      "crc32": "5f3a7bb7",
+      "md5": "123978146274e2c7711209aba22ee244",
+      "sha1": "be86490d8161fd934a122020300ce6898ef81d45"
+    },
+    {
+      "name": "Over the Hedge (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BH5P",
+      "size": 8388608,
+      "crc32": "c7023309",
+      "md5": "0f7f9dc0c967029f8686ece3b9385c71",
+      "sha1": "1bf3f24207969d83c93a0bfe0293f83b07ef94f4",
+      "sha256": "c2da80da1beeb06798076447879fba2c839e084224efab0bc5f49e7d53e87556"
+    },
+    {
+      "name": "Vecinos Invasores (Spain)",
+      "source": "no_intro",
+      "serial": "BH5S",
+      "size": 8388608,
+      "crc32": "96af60f3",
+      "md5": "cec79164d58deace2122ba2e4a9cdd65",
+      "sha1": "3fd93347ca0fa8fda2a5bf88ff26dfd1d2de1d9e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Over%20the%20Hedge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Over%20the%20Hedge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Over%20the%20Hedge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Over%20the%20Hedge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Over%20the%20Hedge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Over%20the%20Hedge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Vecinos%20Invasores%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Vecinos%20Invasores%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Vecinos%20Invasores%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

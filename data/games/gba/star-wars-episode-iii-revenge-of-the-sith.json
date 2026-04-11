@@ -63,5 +63,66 @@
     "wikidata": "Q54846",
     "mobygames": 17831,
     "igdb": 166484
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars - Episode III - Revenge of the Sith (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BE3P",
+      "size": 8388608,
+      "crc32": "fd49236b",
+      "md5": "8942d8c65e680853e1407108857bb732",
+      "sha1": "4ba5e5a6174bad9369f088f801c743f88616c5f4",
+      "sha256": "a286052a62272d234d31371082d0ae11efe73f3a34416a126d7e16ce17dd1bad"
+    },
+    {
+      "name": "Star Wars - Episode III - Revenge of the Sith (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BE3E",
+      "size": 8388608,
+      "crc32": "3e34aab7",
+      "md5": "6c44b49d69e6c0576197742f20250c40",
+      "sha1": "146a5ae97832131d41698c182ce58176b7bb848f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

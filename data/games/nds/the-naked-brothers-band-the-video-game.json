@@ -36,5 +36,65 @@
     "wikidata": "Q7354733",
     "mobygames": 60478,
     "igdb": 47955
-  }
+  },
+  "roms": [
+    {
+      "name": "Naked Brothers Band, The - The Video Game (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CNBP",
+      "size": 67108864,
+      "crc32": "b0c0e6d6",
+      "md5": "d5ce15b092c8f350fc090f6ac711538e",
+      "sha1": "9f0f11767e9eb92a8a8a51a468ad9439a6174620"
+    },
+    {
+      "name": "Naked Brothers Band, The - The Video Game (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CNBE",
+      "size": 67108864,
+      "crc32": "c6dda247",
+      "md5": "da12380a1024c3bb5e7554dc0b90e33c",
+      "sha1": "06c8a053fa5b5198af02eb1623fe0faca41199ce"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Naked%20Brothers%20Band%2C%20The%20-%20The%20Video%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Naked%20Brothers%20Band%2C%20The%20-%20The%20Video%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Naked%20Brothers%20Band%2C%20The%20-%20The%20Video%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Naked%20Brothers%20Band%2C%20The%20-%20The%20Video%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Naked%20Brothers%20Band%2C%20The%20-%20The%20Video%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Naked%20Brothers%20Band%2C%20The%20-%20The%20Video%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

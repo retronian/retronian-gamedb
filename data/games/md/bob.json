@@ -62,5 +62,55 @@
   "external_ids": {
     "wikidata": "Q2876628",
     "mobygames": 11625
-  }
+  },
+  "roms": [
+    {
+      "name": "B.O.B. (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-xxxx-00",
+      "size": 1048576,
+      "crc32": "e3e8421e",
+      "md5": "ac007195a983cf2c8057f144e3c58206",
+      "sha1": "eb5e4221b13372f2155ac80e88eb1114a6e2ccc7",
+      "sha256": "4e2280160b3b05054cecef743526d9dc8ac67f558b7fbb1ed8d24dc8b9b3aa2b"
+    },
+    {
+      "name": "B.O.B. (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50586-01",
+      "size": 1048576,
+      "crc32": "eaa2acb7",
+      "md5": "6dd99077ae4e896155a88363b0649080",
+      "sha1": "84d63c848d68d844dbcf360040a87a0c93d67f74",
+      "sha256": "4a73d4b7a9950a03739611109bb525a0a00d1ebaeb8a35061f26c0f2f42ae7b9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/B.O.B.%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/B.O.B.%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/B.O.B.%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/B.O.B.%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

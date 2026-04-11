@@ -72,5 +72,65 @@
     "wikidata": "Q6147940",
     "mobygames": 15094,
     "igdb": 289161
-  }
+  },
+  "roms": [
+    {
+      "name": "Magmax (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "3df1b06f",
+      "md5": "180b71175a9f97fd6aa070f67a356e90",
+      "sha1": "af01b2093cec548c33efb59e9061c5ccc990efeb",
+      "sha256": "7664c32e8b20ee113cab9f52d8ad955d5d959724924845b6c9868b5f8915873b"
+    },
+    {
+      "name": "Magmax (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 40976,
+      "crc32": "e2fd7d05",
+      "md5": "66e1290984725ac10cef8dc1a2846e7d",
+      "sha1": "ce75f0621c963ee1fa2c347ff9ce9192fc6886cc",
+      "sha256": "c83ed4e6fa95bfce35efa078e9b4e5571361a7a8731d5bad676e9b2847ad992d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Magmax%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Magmax%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Magmax%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Magmax%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Magmax%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Magmax%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

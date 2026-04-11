@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Magical Drop II",
@@ -65,6 +65,15 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Magical Drop 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1996-01-01",
@@ -72,5 +81,74 @@
     "wikidata": "Q3276911",
     "mobygames": 17032,
     "igdb": 39348
-  }
+  },
+  "roms": [
+    {
+      "name": "Magical Drop 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "2cf5094c",
+      "md5": "2d24ccefe12fec5e175b6764513cbd1d",
+      "sha1": "33c8b174eaec2095eba54bd4f8e3751cb638f8ff",
+      "sha256": "1c3d722228a76b312aa1f15937c2ec3aea97a9da704ce2700984ebbce8ca70e8"
+    },
+    {
+      "name": "Magical Drop 2 (World) (Evercade)",
+      "source": "no_intro",
+      "size": 3145728,
+      "crc32": "4d88489f",
+      "md5": "ed917718435646245e386c3cad8f32b3",
+      "sha1": "a8cd502ed94d54b797fbbd286ea5b8b21bc82939",
+      "sha256": "18646c3b117b954592a50c3df339bad2fc82d1f6a2e77e5ec46e541dde1ec91a"
+    },
+    {
+      "name": "Magical Drop II (USA, Europe) (Switch Online)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "a499a384",
+      "md5": "a5c3f9d450aff223c13b73a419b6d6a0",
+      "sha1": "370136a129e2ce4903fc121da1d60ef5aff08809",
+      "sha256": "7c7063395ac4321c439638abb66b0b787d4c891e2ae6fd77f1c96599a89b8a82"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Magical%20Drop%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Magical%20Drop%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Magical%20Drop%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Magical%20Drop%20II%20%28USA%2C%20Europe%29%20%28Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Magical%20Drop%20II%20%28USA%2C%20Europe%29%20%28Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Magical%20Drop%20II%20%28USA%2C%20Europe%29%20%28Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

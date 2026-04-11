@@ -45,5 +45,65 @@
     "wikidata": "Q1769287",
     "mobygames": 88200,
     "igdb": 43301
-  }
+  },
+  "roms": [
+    {
+      "name": "Goosebumps HorrorLand (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CGPP",
+      "size": 33554432,
+      "crc32": "1ec9cf7b",
+      "md5": "f5e54d2fede9754105eaa7e3d09ecc9b",
+      "sha1": "d6d56ed0788bb8d2fff010e4f8d19b4506c242c1"
+    },
+    {
+      "name": "Goosebumps HorrorLand (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CGPE",
+      "size": 33554432,
+      "crc32": "77d4c107",
+      "md5": "a3211d40d3d6da8a152c2e5ff703448f",
+      "sha1": "d1141454d760c3e986913db0f49fcac33ec637b4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Goosebumps%20HorrorLand%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Goosebumps%20HorrorLand%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Goosebumps%20HorrorLand%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Goosebumps%20HorrorLand%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Goosebumps%20HorrorLand%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Goosebumps%20HorrorLand%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

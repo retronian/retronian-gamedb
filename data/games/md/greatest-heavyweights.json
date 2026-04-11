@@ -70,5 +70,78 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Greatest Heavyweights (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-5538-00",
+      "size": 2097152,
+      "crc32": "7ef8b162",
+      "md5": "8662fc03ecb681fb5a463a2e9bb2ae41",
+      "sha1": "1d5fe812df75e0dc1ff379c563058e078b839a09",
+      "sha256": "c2daef4bb84f6d4e52caf9a28d9f2561642d3b7e749dc62f12a2587ee77d1222"
+    },
+    {
+      "name": "Greatest Heavyweights (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1228-00",
+      "size": 2097152,
+      "crc32": "6e3621d5",
+      "md5": "a2319592a31d22d9ec4501ce4c188152",
+      "sha1": "4ef7aec80003aab0e1d2260b7fc0d22d63d90038",
+      "sha256": "2007029b0fb227feaa7ef2de7e189270e52c81bc291241a4b5130c78993bc7b9"
+    },
+    {
+      "name": "Greatest Heavyweights (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1228-00",
+      "size": 2097152,
+      "crc32": "9778c181",
+      "md5": "6ba9e256579f0cbfa18abb96acc5b24d",
+      "sha1": "db28d70f9b744004cadd06eb77d6223534f59215",
+      "sha256": "18920dea1147e1cc0fbafc0ee15524627c47f4211eebf14d4eff36d0b4d7e3f8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Greatest%20Heavyweights%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Greatest%20Heavyweights%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Greatest%20Heavyweights%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Greatest%20Heavyweights%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Greatest%20Heavyweights%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Greatest%20Heavyweights%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

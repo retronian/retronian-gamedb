@@ -45,5 +45,66 @@
     "wikidata": "Q4838383",
     "mobygames": 84999,
     "igdb": 91753
-  }
+  },
+  "roms": [
+    {
+      "name": "Baby Pals (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YBRE",
+      "size": 67108864,
+      "crc32": "dfa4fde4",
+      "md5": "2db5192e0b751656d7245f12f2f23d42",
+      "sha1": "776bd06283ab68c0b6b916e05d5e0b6718bd4b02"
+    },
+    {
+      "name": "Baby Pals (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YBRP",
+      "size": 67108864,
+      "crc32": "d9e5fb82",
+      "md5": "a6e414ad6ce5cb29c221a1e9fce797b8",
+      "sha1": "fa2319339bf3d0201f581b068be8530a72e2efab",
+      "sha256": "bff2ad95077955fcf63d49354390ac37e06a4b427e314899ebeb4f67d99e66d4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Baby%20Pals%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Baby%20Pals%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Baby%20Pals%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Baby%20Pals%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Baby%20Pals%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Baby%20Pals%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

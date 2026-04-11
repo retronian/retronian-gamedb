@@ -45,5 +45,48 @@
     "wikidata": "Q2353508",
     "mobygames": 13689,
     "igdb": 46194
-  }
+  },
+  "roms": [
+    {
+      "name": "Splatterhouse 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-14086-00",
+      "size": 2097152,
+      "crc32": "00f05d07",
+      "md5": "8c2a9b15ba24b611c895efd49c175ebe",
+      "sha1": "7f29f00ec724e20cb93907f1e33ac4af16879827",
+      "sha256": "8c7737912cf948a606a683e32f4b6a0a4303215cdc99b39fbc5976c196c45710"
+    },
+    {
+      "name": "Splatterhouse 3 (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-14086-00",
+      "size": 2150368,
+      "crc32": "42b8b1c2",
+      "md5": "213ea4f6ca943feae9572dbb98440871",
+      "sha1": "f28fe57be9880e1c3200bad7726521e18695235b",
+      "sha256": "15a77771d27bfd7b36e50f22574e28840f7751069fe2a4bfa319ffe05bd25bb5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Splatterhouse%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Splatterhouse%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Splatterhouse%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

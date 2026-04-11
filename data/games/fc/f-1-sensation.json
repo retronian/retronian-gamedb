@@ -63,5 +63,65 @@
     "wikidata": "Q3282642",
     "mobygames": 19908,
     "igdb": 48125
-  }
+  },
+  "roms": [
+    {
+      "name": "F-1 Sensation (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "95d80871",
+      "md5": "4d72edcb705859c45d6699d6a76ceaa3",
+      "sha1": "fd3f581e9be6d53449366566b13f48d41b7139c5",
+      "sha256": "cdd591beadb564911486a1b64f5167d3563321a59bb211e119ee234788f18cb2"
+    },
+    {
+      "name": "Formula 1 Sensation (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "f571a1cc",
+      "md5": "154c645b4d7b7842278d1efa102ddb1e",
+      "sha1": "b341e3f24663f2c21bca91f04493a19bb54b2553",
+      "sha256": "e955016af662f61752f6df859540866bcff13a44de656901e181a1db19963cc7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/F-1%20Sensation%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/F-1%20Sensation%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/F-1%20Sensation%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Formula%201%20Sensation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Formula%201%20Sensation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Formula%201%20Sensation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

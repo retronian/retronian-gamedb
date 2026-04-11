@@ -44,5 +44,87 @@
     "wikidata": "Q2726277",
     "mobygames": 7682,
     "igdb": 48155
-  }
+  },
+  "roms": [
+    {
+      "name": "Hoops (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "05ca8089",
+      "md5": "8a266c2719d24fa94d594738b4cd9884",
+      "sha1": "32c0b8528b38d769338c69acaf11462e8fbdf69b",
+      "sha256": "c160edfb1a4fcfa84039b1ba3acc48602653535e7c10b5284e210b4580c4856a"
+    },
+    {
+      "name": "Hoops (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "08f89bb0",
+      "md5": "ac538af70433a3138db560d791544754",
+      "sha1": "5ddf8f6727cc05a8538afa5f14e39d24f6518a1f",
+      "sha256": "e15e04a8bd40f63c277bf6fc622a219c187f088094e691ff4b8e2c6124bf41d3"
+    },
+    {
+      "name": "Hoops (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "4df55a16",
+      "md5": "6a76cb92c96736ac8e940e3d92e3cc29",
+      "sha1": "f87ab924d7caddf84f1b39e36b2e016b38e5212f",
+      "sha256": "a7b42bcc8339657c48c1b78b23cb4d8834bd5e34ee13f581961ce5cce47d3253"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hoops%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hoops%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hoops%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hoops%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hoops%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hoops%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hoops%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hoops%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

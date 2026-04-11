@@ -69,5 +69,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Yu-Gi-Oh! - The Eternal Duelist Soul (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AY5E",
+      "size": 8388608,
+      "crc32": "dfd07a36",
+      "md5": "ec3f000ffde5754cb164a05d2d6f9053",
+      "sha1": "510fbba212aca9bab95ea12f8fd933e62ee34dea",
+      "sha256": "1085ec7471106d1507ca205c29d424ceb46159fa6392ec4fa2c41c6072ae3a98"
+    },
+    {
+      "name": "Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AY5J",
+      "size": 8388608,
+      "crc32": "f3041e7e",
+      "md5": "31dd0e7efd461e004cfa6bad8e7b0e57",
+      "sha1": "dc25f733cee913afdf187ec03df30909fe28b03c",
+      "sha256": "59f3141578ae1747bd333c507971a93453e376fbc6a9579c3b148bfca408ae03"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20-%20The%20Eternal%20Duelist%20Soul%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20-%20The%20Eternal%20Duelist%20Soul%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20-%20The%20Eternal%20Duelist%20Soul%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20Duel%20Monsters%205%20Expert%201%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20Duel%20Monsters%205%20Expert%201%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20Duel%20Monsters%205%20Expert%201%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

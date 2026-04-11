@@ -42,5 +42,37 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "2003-07-19"
+  "first_release_date": "2003-07-19",
+  "roms": [
+    {
+      "name": "Jurassic Park Institute Tour - Dinosaur Rescue (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AJ8J",
+      "size": 4194304,
+      "crc32": "7c75555e",
+      "md5": "8ce34b50e1b658b4c69e6ba4a100f71e",
+      "sha1": "318a581595e0571eff70baed3e0d86b7dcd70242"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jurassic%20Park%20Institute%20Tour%20-%20Dinosaur%20Rescue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jurassic%20Park%20Institute%20Tour%20-%20Dinosaur%20Rescue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jurassic%20Park%20Institute%20Tour%20-%20Dinosaur%20Rescue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

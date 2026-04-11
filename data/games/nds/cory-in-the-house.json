@@ -26,5 +26,65 @@
   "external_ids": {
     "wikidata": "Q16267805",
     "igdb": 47969
-  }
+  },
+  "roms": [
+    {
+      "name": "Cory in the House (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YIHP",
+      "size": 33554432,
+      "crc32": "7a55f7fd",
+      "md5": "610a1da4edce6e633de73356feaf3679",
+      "sha1": "d8ff835f9c92fbd92e41592b7ceaf3dc36a9ad5c"
+    },
+    {
+      "name": "Cory in the House (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YIHE",
+      "size": 33554432,
+      "crc32": "15c10919",
+      "md5": "3218f7561f21e50660b711cd139a9e7b",
+      "sha1": "5a10f157be416aa0f2542b04c32b68845ea09034"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cory%20in%20the%20House%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cory%20in%20the%20House%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cory%20in%20the%20House%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cory%20in%20the%20House%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cory%20in%20the%20House%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cory%20in%20the%20House%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

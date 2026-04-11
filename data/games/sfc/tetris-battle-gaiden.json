@@ -70,5 +70,47 @@
   "external_ids": {
     "wikidata": "Q11319330",
     "igdb": 38371
-  }
+  },
+  "roms": [
+    {
+      "name": "Tetris Battle Gaiden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "b8f5f846",
+      "md5": "f21e1fefcb3187877060b3fafb53abd2",
+      "sha1": "e455607b32b0adf14bf4af917cbf6561eccd1d0d",
+      "sha256": "7a96458b60507b60b581b7a1ba32f2855cff18d6f13bfeb45ad161dd469c5c61"
+    },
+    {
+      "name": "Tetris Battle Gaiden (Japan) (Beta) (1993-10-08)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "de5a3efc",
+      "md5": "70719aae2f31d95265348fb625af823b",
+      "sha1": "1bc1e6bc0c2ea4339c15f27888e9ddbb77c0fc43",
+      "sha256": "57ef1b0dbf15640e93da4ee66a0053a0872e748f336f3def7c0381f8e6963f12"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%20Battle%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tetris%20Battle%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%20Battle%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

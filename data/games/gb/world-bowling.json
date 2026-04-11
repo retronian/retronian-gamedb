@@ -34,5 +34,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "World Bowling (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "47feadf2",
+      "md5": "70daec5b8cdf7e870a8b21a1b1253945",
+      "sha1": "c99595de26e63e65d61446dc0338256b9831601a",
+      "sha256": "eea2ed324661717893cb95d439c2d2d5a97ba45f216ef8c2a0708b5feb819993"
+    },
+    {
+      "name": "World Bowling (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "896e76a2",
+      "md5": "e8d2a7833fd082f8cc62277d02e84a30",
+      "sha1": "f579890b04b33965c009dd3b7300623691ae206a",
+      "sha256": "439854d8d2ec85bffb171efe3ec0d6ba98fed2443b26053340daaf8190611859"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/World%20Bowling%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/World%20Bowling%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/World%20Bowling%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -63,5 +63,65 @@
     "wikidata": "Q3288573",
     "mobygames": 11358,
     "igdb": 133910
-  }
+  },
+  "roms": [
+    {
+      "name": "SpongeBob SquarePants - Battle for Bikini Bottom (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSQE",
+      "size": 8388608,
+      "crc32": "235628c3",
+      "md5": "3992a0d8089401553ce3478bd9863aac",
+      "sha1": "db3a7b838149765a28e939ba162f72202d302b40"
+    },
+    {
+      "name": "SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSQP",
+      "size": 8388608,
+      "crc32": "de4a85c0",
+      "md5": "e84de432672187d3d0b8f4d4d654013b",
+      "sha1": "fd66fa65ed2351c4493d4c3e32768fad9701e822"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/SpongeBob%20SquarePants%20-%20Battle%20for%20Bikini%20Bottom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/SpongeBob%20SquarePants%20-%20Battle%20for%20Bikini%20Bottom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/SpongeBob%20SquarePants%20-%20Battle%20for%20Bikini%20Bottom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/SpongeBob%20SquarePants%20-%20Battle%20for%20Bikini%20Bottom%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/SpongeBob%20SquarePants%20-%20Battle%20for%20Bikini%20Bottom%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/SpongeBob%20SquarePants%20-%20Battle%20for%20Bikini%20Bottom%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

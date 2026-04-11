@@ -54,5 +54,66 @@
     "wikidata": "Q2058640",
     "mobygames": 85175,
     "igdb": 210257
-  }
+  },
+  "roms": [
+    {
+      "name": "Ben 10 - Galactic Racing (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B76E",
+      "size": 33554432,
+      "crc32": "6ebf31be",
+      "md5": "a27e1def5b1cfe6106b3eb18b4fe5e7d",
+      "sha1": "9abb518f315bb6088e4208cc53aeff53b47ac2f5"
+    },
+    {
+      "name": "Ben 10 - Galactic Racing (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B76P",
+      "size": 33554432,
+      "crc32": "fc16132a",
+      "md5": "bfdcd32e6b5adf00c645e5d20863c548",
+      "sha1": "c6123e667ac1455c4f7029c8bd345884859ccb9f",
+      "sha256": "4bca782e09b62542c8a4442739949ffa00c12b56b4a07bf8bec45907704b68e5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ben%2010%20-%20Galactic%20Racing%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ben%2010%20-%20Galactic%20Racing%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ben%2010%20-%20Galactic%20Racing%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ben%2010%20-%20Galactic%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ben%2010%20-%20Galactic%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ben%2010%20-%20Galactic%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

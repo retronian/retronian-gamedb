@@ -63,5 +63,66 @@
     "wikidata": "Q3530639",
     "mobygames": 9234,
     "igdb": 2714
-  }
+  },
+  "roms": [
+    {
+      "name": "Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NTJP",
+      "size": 12582912,
+      "crc32": "9ea8a3b8",
+      "md5": "46be5d00682fcc1f7fc0fba507e8e5c1",
+      "sha1": "96c874c4556b4872269e41339a1cbac53cc5b052",
+      "sha256": "389bc437af911d02f02dbf1f5996d34b895ff1d61335ea9b8fbbfd8f1e5f2fa9"
+    },
+    {
+      "name": "Tom and Jerry in Fists of Furry (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTJE",
+      "size": 12582912,
+      "crc32": "6d685b83",
+      "md5": "a63a9af85be8bb47c1741b8a37115354",
+      "sha1": "d8980a34ece4a8933d439d0378e0cff8f03994a7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Tom%20and%20Jerry%20in%20Fists%20of%20Furry%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Tom%20and%20Jerry%20in%20Fists%20of%20Furry%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Tom%20and%20Jerry%20in%20Fists%20of%20Furry%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Tom%20and%20Jerry%20in%20Fists%20of%20Furry%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Tom%20and%20Jerry%20in%20Fists%20of%20Furry%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Tom%20and%20Jerry%20in%20Fists%20of%20Furry%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

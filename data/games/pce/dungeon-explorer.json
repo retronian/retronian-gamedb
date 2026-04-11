@@ -70,5 +70,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Dungeon Explorer (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "1b1a80a2",
+      "md5": "414a24f02a45bb04360d80d49c0d9a8b",
+      "sha1": "77caece9655a0e14330884673ffb41ff2bb625c4",
+      "sha256": "d8e80e9ba4a10bd5efa9bae397db7371e05a9bfc44fcec4c3c1f55bd08889510"
+    },
+    {
+      "name": "Dungeon Explorer (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "4ff01515",
+      "md5": "a07c43bea439c8c904bc4908737af5c5",
+      "sha1": "d6d18128d55d886a9b6a8c8ea65af76e783001f9",
+      "sha256": "b6cceb5226c5be1e5339c95cdceef6ea4d31ecef428f24012953d8a38f44ecb8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Dungeon%20Explorer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Dungeon%20Explorer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Dungeon%20Explorer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Dungeon%20Explorer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Dungeon%20Explorer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Dungeon%20Explorer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

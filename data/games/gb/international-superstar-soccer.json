@@ -53,5 +53,65 @@
     "wikidata": "Q63871360",
     "mobygames": 36113,
     "igdb": 131795
-  }
+  },
+  "roms": [
+    {
+      "name": "International Superstar Soccer (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "94757be8",
+      "md5": "bf4e4002ffa88b9be2c8b8a5b4cd9a48",
+      "sha1": "13f2fc0945fb7a90f4d87d8c4e310dec9af6b792",
+      "sha256": "4c0c035c25dde45c960d9e6dc5cf6cf3ee736d672451fd266cf85e0bbc00e3f5"
+    },
+    {
+      "name": "World Soccer GB (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "57d21ef4",
+      "md5": "74110eed9c357f1749c4a8f82d637908",
+      "sha1": "aca208dabd8d110cf0334103dcb8dd28b68e450d",
+      "sha256": "e0aaabef94c3bdd93dcc9677eafb4ac5f62ee172831199d36da84d04e6b52c83"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/International%20Superstar%20Soccer%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/International%20Superstar%20Soccer%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/International%20Superstar%20Soccer%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/World%20Soccer%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/World%20Soccer%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/World%20Soccer%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

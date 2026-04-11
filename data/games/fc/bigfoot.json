@@ -54,5 +54,65 @@
     "wikidata": "Q4904863",
     "mobygames": 11269,
     "igdb": 13398
-  }
+  },
+  "roms": [
+    {
+      "name": "Bigfoot (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "0cb605b5",
+      "md5": "5c586ffe4018de422e86f402198da846",
+      "sha1": "269b3e988eb5f1216135204e9e561119f81beb6d",
+      "sha256": "bb480b76cbb9945ce40202aee6225bbad1eb9191a4e6b1eaf50be513c5a24693"
+    },
+    {
+      "name": "Bigfoot (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "38b7af0c",
+      "md5": "172d5e3f1946c4b8b6bc03dc17c51bad",
+      "sha1": "7b6844caa1507e64863e6959fbe0df9444a0e350",
+      "sha256": "cafb492287f97acfc390deebbabffbe8d5c3924ec698a32bbe6aafb9c57f1f35"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bigfoot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bigfoot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bigfoot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bigfoot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bigfoot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bigfoot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

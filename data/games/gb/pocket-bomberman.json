@@ -61,5 +61,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Bomberman (Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "0fd1ae54",
+      "md5": "3050cdf055b1d036f85c9c629b03fbf2",
+      "sha1": "34f377a6de2961fe16bfb854e0cebc7fdba7cf4b",
+      "sha256": "401b65fbdcf5228ff63ae1d7578d7eb25db8b20fc8f74061ab927c9a5eb8f4f6"
+    },
+    {
+      "name": "Pocket Bomberman (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "212b47a5",
+      "md5": "50971f6cbb3e4395cb66213d7f096b46",
+      "sha1": "83d1c2420ae69d2a7ca9880c9b84f0ba948e39eb",
+      "sha256": "6daf2830310346620cf1ed657dfff3f96e5f1e83391cb455a6d041f6e8ecf87b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pocket%20Bomberman%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Bomberman%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Bomberman%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pocket%20Bomberman%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Bomberman%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Bomberman%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

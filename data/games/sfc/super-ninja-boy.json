@@ -62,5 +62,85 @@
     "wikidata": "Q7642626",
     "mobygames": 12134,
     "igdb": 42603
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Chinese World (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "52fff0bf",
+      "md5": "5344a31edf1e32c49be89c5156211a5d",
+      "sha1": "8a7dc8ec9cc78c477251e7de24e5bd973370d3f2",
+      "sha256": "b8bbb9dfc61e9b6972443a2ae8f0a5f9dbd451f4e2b406ad17ef65a9e36ebf43"
+    },
+    {
+      "name": "Super Ninja Boy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "6bcbba10",
+      "md5": "aa9133b587272e5580a4567c72e9d43c",
+      "sha1": "4a89c391b8eedf50ba3a03500044ab46f0fd7f8f",
+      "sha256": "40b46bb29785fb431b325f22377faa8b099be4d77aecc1f03000b8a4cb589b63"
+    },
+    {
+      "name": "Super Ninja Boy (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "5e19fe50",
+      "md5": "095241d9872050eef5c70444cc42b703",
+      "sha1": "792fada73f95afb922fe4b712d79ee8a71ff6ac7",
+      "sha256": "a0bdb3661f026c58e0eb89cf696801e225d67768ed9915f357ed0201e64b93df"
+    },
+    {
+      "name": "Super Ninja Boy (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "88f327cc",
+      "md5": "e88b08b9362d24110c3bcd67c975afa8",
+      "sha1": "af5836073591e45f3cb2f1b452886610e1033014",
+      "sha256": "3a239c90040a59d3cbfa9c51be236336a15138a2aab9d57632735f13ecd86bff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Chinese%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Chinese%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Chinese%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Ninja%20Boy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Ninja%20Boy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Ninja%20Boy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

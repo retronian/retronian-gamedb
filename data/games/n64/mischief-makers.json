@@ -88,5 +88,123 @@
     "wikidata": "Q3089600",
     "mobygames": 8090,
     "igdb": 3412
-  }
+  },
+  "roms": [
+    {
+      "name": "Mischief Makers (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NTMP",
+      "size": 8388608,
+      "crc32": "68a4f072",
+      "md5": "eb3b078a74d4dc827e1e79791004dfbb",
+      "sha1": "e5405aad683959edab641b5da05b8159cac93e63",
+      "sha256": "b1fc1d0d8cd36ffaf49870ab52879987e3d34226ae007839252d7a514a3fbf57"
+    },
+    {
+      "name": "Mischief Makers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTME",
+      "size": 8388608,
+      "crc32": "7d222d3f",
+      "md5": "495a9bffd6620be43225db7133373fc5",
+      "sha1": "5eb5a9d6f413a379fe297fe1542d21f728393a27"
+    },
+    {
+      "name": "Mischief Makers (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTME",
+      "size": 8388608,
+      "crc32": "c3300cef",
+      "md5": "2ee917366f64a06472d7622a2a05990e",
+      "sha1": "811709c6473f74cbf283aa61f056e1de3046ec73"
+    },
+    {
+      "name": "Yuke Yuke!! Trouble Makers (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NTMJ",
+      "size": 8388608,
+      "crc32": "b69d3068",
+      "md5": "2ae35bdf163613024d876a09f25063f3",
+      "sha1": "039a75636c34d219d489d0a84a671d00dc23e7c4",
+      "sha256": "68e2f727c58379f4c04ef00c7b3a8149a12955d845e247dd0518609f44274d65"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mischief%20Makers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mischief%20Makers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mischief%20Makers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mischief%20Makers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mischief%20Makers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mischief%20Makers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mischief%20Makers%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mischief%20Makers%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mischief%20Makers%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Yuke%20Yuke%21%21%20Trouble%20Makers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Yuke%20Yuke%21%21%20Trouble%20Makers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Yuke%20Yuke%21%21%20Trouble%20Makers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

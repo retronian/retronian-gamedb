@@ -27,5 +27,65 @@
     "wikidata": "Q7676936",
     "mobygames": 90425,
     "igdb": 210255
-  }
+  },
+  "roms": [
+    {
+      "name": "Tak - The Great Juju Challenge (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BJWE",
+      "size": 8388608,
+      "crc32": "881c8416",
+      "md5": "4328abd6ef7ffe7c75323db46b91ebdd",
+      "sha1": "0999a8ee2bae78a223c992408e987422ba0c0af9"
+    },
+    {
+      "name": "Tak - The Great Juju Challenge (Europe) (En,Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BJWX",
+      "size": 8388608,
+      "crc32": "4ad90ec1",
+      "md5": "bc8cc593779c21c7a8cfb71bb8784d26",
+      "sha1": "ec460cadc74a0ed81838355797afe53dc7010845"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tak%20-%20The%20Great%20Juju%20Challenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tak%20-%20The%20Great%20Juju%20Challenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tak%20-%20The%20Great%20Juju%20Challenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tak%20-%20The%20Great%20Juju%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tak%20-%20The%20Great%20Juju%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tak%20-%20The%20Great%20Juju%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

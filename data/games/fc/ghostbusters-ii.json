@@ -54,5 +54,65 @@
     "wikidata": "Q21473303",
     "mobygames": 11913,
     "igdb": 266840
-  }
+  },
+  "roms": [
+    {
+      "name": "Ghostbusters II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "432239a7",
+      "md5": "d3c441e2063dde0c0f05837b014cdde8",
+      "sha1": "64c94e6e7bdb0f6d9ed5856897db20d64520f81c",
+      "sha256": "48c358ce14f64858592eac641365234a2a4fa2f4fe2454b39f46615ba2b2bdbf"
+    },
+    {
+      "name": "Ghostbusters II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "d670bde6",
+      "md5": "a5817052d39575204661ff19595494fc",
+      "sha1": "3921d412d5ab7e9f03db6d0279b0d1c7f3334de2",
+      "sha256": "bea3e8e3843181a79e951cf83dd909ba1f819b2c8b2742743d2ce1eb4e978748"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ghostbusters%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ghostbusters%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ghostbusters%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ghostbusters%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ghostbusters%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ghostbusters%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

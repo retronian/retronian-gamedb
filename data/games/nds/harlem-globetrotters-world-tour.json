@@ -17,5 +17,59 @@
     "wikidata": "Q54952586",
     "mobygames": 31593,
     "igdb": 6430
-  }
+  },
+  "roms": [
+    {
+      "name": "Harlem Globetrotters - World Tour (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHXE",
+      "size": 8388608,
+      "crc32": "343b65e1",
+      "md5": "bd3bcd48c353cbc3325e3ec7933f8769",
+      "sha1": "394078c5b2a66efdce7b150795e915d26dd40bbd"
+    },
+    {
+      "name": "Harlem Globetrotters - World Tour (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHXP",
+      "size": 8388608,
+      "crc32": "1b83f10a",
+      "md5": "d2454055f73f047f3fffd2047d3c52df",
+      "sha1": "14d720d464c922e6912a876791c82f62fed09d5c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harlem%20Globetrotters%20-%20World%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harlem%20Globetrotters%20-%20World%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harlem%20Globetrotters%20-%20World%20Tour%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Harlem%20Globetrotters%20-%20World%20Tour%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harlem%20Globetrotters%20-%20World%20Tour%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -89,5 +89,53 @@
     "wikidata": "Q2700027",
     "mobygames": 84953,
     "igdb": 3392
-  }
+  },
+  "roms": [
+    {
+      "name": "Bokujou Monogatari - Futago no Mura (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BKUJ",
+      "size": 134217728,
+      "crc32": "b0d2d6f4",
+      "md5": "d09e6eb743bd3310f509d946026b32ce",
+      "sha1": "4095aed8b711dd1510af89e7bd3fda775b3d73c3"
+    },
+    {
+      "name": "Harvest Moon - The Tale of Two Towns (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BKUP",
+      "size": 134217728,
+      "crc32": "b18d3af6",
+      "md5": "9b858171c12efcbb708988aed79bcfd6",
+      "sha1": "577467bb9c54a92aa25b6b7e757eae71740ed196"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bokujou%20Monogatari%20-%20Futago%20no%20Mura%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bokujou%20Monogatari%20-%20Futago%20no%20Mura%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harvest%20Moon%20-%20The%20Tale%20of%20Two%20Towns%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harvest%20Moon%20-%20The%20Tale%20of%20Two%20Towns%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

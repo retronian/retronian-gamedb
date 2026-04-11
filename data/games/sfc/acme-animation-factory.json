@@ -36,5 +36,65 @@
     "wikidata": "Q936565",
     "mobygames": 40218,
     "igdb": 3044
-  }
+  },
+  "roms": [
+    {
+      "name": "ACME Animation Factory (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "aad3a72d",
+      "md5": "76392b4b33146fe4fac5b26358a9b9f4",
+      "sha1": "fe877f557aef095df37593b731a39afa56a2d762",
+      "sha256": "8d9c557e2644ead6ace4d4db21af6bfbbf7b5b707eb6915c29340e294034cc43"
+    },
+    {
+      "name": "ACME Animation Factory (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "0944a5c3",
+      "md5": "4623fc6ecf936f67c21e2d4bcadabf80",
+      "sha1": "0c739de2095a9bd310bc19d28e7566faf894c543",
+      "sha256": "d07e8802a6d9c777247874e05ec08fce7e0fa1bf122cc1ab9913f7d828e4072b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/ACME%20Animation%20Factory%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/ACME%20Animation%20Factory%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/ACME%20Animation%20Factory%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/ACME%20Animation%20Factory%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/ACME%20Animation%20Factory%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/ACME%20Animation%20Factory%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

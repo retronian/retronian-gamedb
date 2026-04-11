@@ -72,5 +72,86 @@
     "wikidata": "Q511995",
     "mobygames": 8176,
     "igdb": 287542
-  }
+  },
+  "roms": [
+    {
+      "name": "Pinball (Europe, Asia) (En)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 24592,
+      "crc32": "47dbee98",
+      "md5": "5c6e63da9381ba1d0076b45a724cd3e6",
+      "sha1": "b8d5d180972e5b44416972563012c29282e7fd46",
+      "sha256": "187434a4e860862595e754e9057517c71b8bad8aa7ed05d275114b016b6adbf1"
+    },
+    {
+      "name": "Pinball (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "c49bb3a5",
+      "md5": "d2f389dc61f3cf797e80a3672f98ce9c",
+      "sha1": "97d37fde75b93d4a5739843c5ac63a60eb4ba37c",
+      "sha256": "8db8555cb6f1e25f535a0dd8ddc1dd41e9c0d12671153f9df408797320ee88e7"
+    },
+    {
+      "name": "Pinball (Japan, USA) (En) (Animal Crossing)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "c6476b6e",
+      "md5": "9e5f6c7da08db74be66ac177b5f027c3",
+      "sha1": "65e911e4abade4f51473fffd4d4cd50546df855d",
+      "sha256": "e04074ace8d0a6bec4ec6f835bae48611f9645c203b0d6dc84d5c73e1e4700bd"
+    },
+    {
+      "name": "Pinball (Japan) (En) (Animal Crossing)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "bdc4a278",
+      "md5": "5c608a6e03d025af9d21ddce014b9f91",
+      "sha1": "3d78136f84b9001eafedfc7adb818f9e8af82799",
+      "sha256": "26ee7a4ca6319e645e34488a4925022c3d99bc26f709b897bcd65d4649d84ad3"
+    },
+    {
+      "name": "Pinball (USA) (e-Reader)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "87afa293",
+      "md5": "7a96d81f7ff407e6bb162fa1a9e837ea",
+      "sha1": "db411b32512ab121c43f9005ac6cde1996eed2c6",
+      "sha256": "e0c1ab02d797ed69f14644e6d7095c534d5c4dab4a4defeb68cb3f07f75a65dd"
+    },
+    {
+      "name": "Pinball (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "7d124e9a",
+      "md5": "d9c0ab3bed88d5213ce6f4e0ce4ee359",
+      "sha1": "734f59fef3a5cc844c9deff05f72661bc78152f5",
+      "sha256": "9f14f380ba0c6c00d36e81df6426d2412a6bb164660e122d5fafc61a734bee3f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Pinball%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Pinball%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Pinball%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

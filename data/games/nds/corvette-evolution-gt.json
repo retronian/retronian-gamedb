@@ -45,5 +45,65 @@
     "wikidata": "Q5173452",
     "mobygames": 143607,
     "igdb": 328286
-  }
+  },
+  "roms": [
+    {
+      "name": "Corvette Evolution GT (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AVXE",
+      "size": 16777216,
+      "crc32": "7c1850c9",
+      "md5": "fdf7b07a45cb9423f8fb38c8610651a6",
+      "sha1": "d80cf279b956566d90f3d6a7c84154d2ab8955ba"
+    },
+    {
+      "name": "Evolution GT (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AVXP",
+      "size": 16777216,
+      "crc32": "c3401f57",
+      "md5": "198d0b6b0cc408817ad861ee4b63c4ab",
+      "sha1": "1eebfa057b3a5a28ccd0a9a95af13bd9a6aaec3f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Corvette%20Evolution%20GT%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Corvette%20Evolution%20GT%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Corvette%20Evolution%20GT%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Evolution%20GT%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Evolution%20GT%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Evolution%20GT%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

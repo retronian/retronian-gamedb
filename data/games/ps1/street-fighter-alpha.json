@@ -100,6 +100,60 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Street Fighter Alpha 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "스트리트 파이터 알파 2",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Street Fighter Alpha 2",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Street Fighter Alpha 2",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Street Fighter Alpha 2",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Street Fighter Alpha 2",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1995-06-05",
@@ -107,5 +161,180 @@
     "wikidata": "Q2081133",
     "mobygames": 3705,
     "igdb": 243451
-  }
+  },
+  "roms": [
+    {
+      "name": "Street Fighter Alpha - Warriors' Dreams (Germany)",
+      "source": "no_intro",
+      "size": 70038304,
+      "crc32": "cee7912e",
+      "md5": "8121490a4f8d2418872f30b301972a1c",
+      "sha1": "8f7d0dad3d4f9663eb56616d5a15efb6332317a2"
+    },
+    {
+      "name": "Street Fighter Alpha - Warriors' Dreams (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 83661552,
+      "crc32": "801ff53b",
+      "md5": "7457ca40930d5deaf88a7bed1e7bdb21",
+      "sha1": "afa5eb6e5076e6a3162b9e9c3f45924ebaa28f94"
+    },
+    {
+      "name": "Street Fighter Alpha - Warriors' Dreams (France)",
+      "source": "no_intro",
+      "size": 70000704,
+      "crc32": "d233299e",
+      "md5": "2652dd7955008b2964280283b71aadd6",
+      "sha1": "ec8f65d6e513f03a0ec4d1017205da4a98bfb8d5"
+    },
+    {
+      "name": "Street Fighter Alpha - Warriors' Dreams (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 136582672,
+      "crc32": "1afd1d17",
+      "md5": "37ff46d263c4033b63f317ab9510e81a",
+      "sha1": "2ce5c15481fc1729116bf883e264fefc41d6c64c",
+      "sha256": "4e42b8b65d5395f123555e8bba8241a6c1b61b18c6bb0dc8a778c847b5c8d7f8"
+    },
+    {
+      "name": "Street Fighter Alpha - Warriors' Dreams (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 16,
+      "crc32": "eb153805",
+      "md5": "b86f9bf2e0d3b7dc3f921470b10e1677",
+      "sha1": "838ec3b8f674b9c67f20db7a418c895480d4aa3d"
+    },
+    {
+      "name": "Street Fighter Alpha 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 352484192,
+      "crc32": "46d052d6",
+      "md5": "55a660d7b4a0a772fa592b5ddc7e121a",
+      "sha1": "67986bb011146f0e5bf039829ebc93d2aca5954b",
+      "sha256": "e7a54695b219be4fcd85ef8091d3a0d829dc1d17f6843816eff5e2f6c692f14d"
+    },
+    {
+      "name": "Street Fighter Alpha 2 (France)",
+      "source": "no_intro",
+      "size": 352484704,
+      "crc32": "e1d34b13",
+      "md5": "6dadc04dfa84a22e4190a3c033f59f9c",
+      "sha1": "3a7c09faa0f8712cc7392867f603fa5229a9e423"
+    },
+    {
+      "name": "Street Fighter Alpha 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 364798272,
+      "crc32": "aa369a4a",
+      "md5": "1f5f4df568db02785b31a4c3f67aad43",
+      "sha1": "ea8fb9642e9b5cc58dda230e906679a8a0bf440e"
+    },
+    {
+      "name": "Street Fighter Zero 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 429869344,
+      "crc32": "ad8aee4b",
+      "md5": "238740f6b9334f88d2524e12444a16d3",
+      "sha1": "951ebe91751001b2e8ed7760d712aa899ae8dc06",
+      "sha256": "45e55742489a4fdbb5abd8d2bae6e715760e058b67d34ebf74da686ab0e8631a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Street%20Fighter%20Alpha%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Street%20Fighter%20Alpha%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Street%20Fighter%20Alpha%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Street%20Fighter%20Alpha%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Street%20Fighter%20Alpha%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Street%20Fighter%20Alpha%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Street%20Fighter%20Zero%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Street%20Fighter%20Zero%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Street%20Fighter%20Zero%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

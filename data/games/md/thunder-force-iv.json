@@ -87,5 +87,89 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Thunder Force IV (Japan) (En) (Sega Ages)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "MK-1143",
+      "size": 1572864,
+      "crc32": "311d9d4a",
+      "md5": "b77aa8fd1be05a7d617db95d232a522a",
+      "sha1": "5ad43f7920ec34ee338175f05a00193cdc89cb33",
+      "sha256": "906f8a1c84d57ce875b8d7405e1e348ec66fc70671731c847d751665ebc584fc"
+    },
+    {
+      "name": "Thunder Force IV (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1143-50",
+      "size": 1048576,
+      "crc32": "e7e3c05b",
+      "md5": "66cac77bb663a6951c942b0722232a03",
+      "sha1": "ecbc2bfc4f3d8bbd46b398274ed2f5cc3db68454",
+      "sha256": "fb40409520abb5226e0ab58c3b13211d6941631b378c5179a57b3449814a10e4"
+    },
+    {
+      "name": "Thunder Force IV (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-18063-00",
+      "size": 1048576,
+      "crc32": "8d606480",
+      "md5": "c0c59e835ca2cfba29f4c0f5293986f6",
+      "sha1": "44be21dead3b55f21762a7c5cf640eec0a1769d9",
+      "sha256": "1950560594416d2bba700c05c6ce21591647c59863fa4afe2d10f871f290679d"
+    },
+    {
+      "name": "Thunder Force IV (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-18063-00",
+      "size": 1048576,
+      "crc32": "24045d0b",
+      "md5": "6134d934ac0ee3931aa55464ad244c62",
+      "sha1": "a0635dec67d04dda47dd7e5bce5fade09ffb373a",
+      "sha256": "3517662005ee32c5592ebb8e3416244fff28fa2b75da16ae5dc039ffcbb6ed31"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Thunder%20Force%20IV%20%28Japan%29%20%28En%29%20%28Sega%20Ages%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Thunder%20Force%20IV%20%28Japan%29%20%28En%29%20%28Sega%20Ages%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Thunder%20Force%20IV%20%28Japan%29%20%28En%29%20%28Sega%20Ages%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Thunder%20Force%20IV%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Thunder%20Force%20IV%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Thunder%20Force%20IV%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

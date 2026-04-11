@@ -45,5 +45,63 @@
     "wikidata": "Q445295",
     "mobygames": 2215,
     "igdb": 23659
-  }
+  },
+  "roms": [
+    {
+      "name": "Wings of Fury (Europe) (En,Fr,De) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "6d59104f",
+      "md5": "b80371a8c851a4c0b9c944fd14b44d6e",
+      "sha1": "d3f21ea1a1d83546dffcd63ec089cfac04212a03"
+    },
+    {
+      "name": "Wings of Fury (USA) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "c94a413a",
+      "md5": "8b01ed48b1f51f57cfba2f3024fa60d8",
+      "sha1": "ae217bd12f42ce6297282227b7e2d21e6337420c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Wings%20of%20Fury%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Wings%20of%20Fury%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Wings%20of%20Fury%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Wings%20of%20Fury%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Wings%20of%20Fury%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Wings%20of%20Fury%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -80,5 +80,94 @@
     "wikidata": "Q2572510",
     "mobygames": 31210,
     "igdb": 9545
-  }
+  },
+  "roms": [
+    {
+      "name": "Contra - Dual Spirits (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YCTJ",
+      "size": 33554432,
+      "crc32": "5af85b83",
+      "md5": "13899c5a1e75a997a1812b6a329459ef",
+      "sha1": "beda8987e806fef6b04568985e27749b5f92db66"
+    },
+    {
+      "name": "Contra 4 (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AIPE",
+      "size": 67108864,
+      "crc32": "db4385c1",
+      "md5": "24acf48f5d7da59dbf9ee526506e8558",
+      "sha1": "84cf0232fce816315185abf3d6422944332f71cd",
+      "sha256": "e92380cc3cc13d8f65929e22545916d92521b04d5c8ed22db39d8320ca07d196"
+    },
+    {
+      "name": "Contra 4 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YCTE",
+      "size": 33554432,
+      "crc32": "b9df4b8e",
+      "md5": "74bde12741469d1a266ec0c60672464d",
+      "sha1": "4e437a7ae4e3a3645cfd374ba9d0dcdea0db0008"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Contra%20-%20Dual%20Spirits%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Contra%20-%20Dual%20Spirits%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Contra%20-%20Dual%20Spirits%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Contra%204%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Contra%204%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Contra%204%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Contra%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Contra%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Contra%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

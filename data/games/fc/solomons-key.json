@@ -88,5 +88,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Solomon's Key (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "ae242938",
+      "md5": "d98a0b7ce6e5e324c0f3546b503a6c6b",
+      "sha1": "e42402b91e104d8394bc5c742b8ba061b59a47a0",
+      "sha256": "e9776c813cd25db1223857833f028d8cfcc021413f7f765160e5b5c624fc51f9"
+    },
+    {
+      "name": "Solomon's Key (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "b7a00d99",
+      "md5": "aa9723abe1852fae86ba7b2a097439ea",
+      "sha1": "5ef1aa6e8d9a811bf19149df6b23ee3469acb111",
+      "sha256": "81308ffe54c55508c143d04d0f5ef5e88e1da4d75483d8c43148011647fd0065"
+    },
+    {
+      "name": "Solomon's Key (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "a2d01004",
+      "md5": "b4a97454dc44a9c47b781f6f3c5ef0ff",
+      "sha1": "632284367b00ed82e3fe2e0927544020f0a7b66b",
+      "sha256": "f3fbdfc06dc48bbccb2790bdaed903b1d136d70fffa44aae9ba229b618550ee1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Solomon%27s%20Key%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Solomon%27s%20Key%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Solomon%27s%20Key%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Solomon%27s%20Key%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Solomon%27s%20Key%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Solomon%27s%20Key%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

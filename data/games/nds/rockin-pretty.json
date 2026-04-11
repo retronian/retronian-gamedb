@@ -54,5 +54,42 @@
     "wikidata": "Q7355322",
     "mobygames": 89989,
     "igdb": 69155
-  }
+  },
+  "roms": [
+    {
+      "name": "Diva Girls - Making the Music (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CV5P",
+      "size": 33554432,
+      "crc32": "a21e6fbc",
+      "md5": "bcbb6a5e6103f8eeb907c229c3a7251d",
+      "sha1": "d2604019a980ec48d26593be604a15b750d2f903",
+      "sha256": "9fe95964f7be4188db1d1373e67906d545c62f94f6cebb66602e99c63c8e7e06"
+    },
+    {
+      "name": "Rockin' Pretty (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CV5E",
+      "size": 33554432,
+      "crc32": "a28f1ad6",
+      "md5": "6392b9bb2b8cb9866a9648e545c7a252",
+      "sha1": "f1419e8484b9df0814b05dbc409b357b33a5fd79"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rockin%27%20Pretty%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rockin%27%20Pretty%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,75 @@
     "wikidata": "Q3285493",
     "mobygames": 20166,
     "igdb": 6554
-  }
+  },
+  "roms": [
+    {
+      "name": "Rebelstar - Tactical Command (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BRLE",
+      "size": 4194304,
+      "crc32": "fb6c590f",
+      "md5": "c4874d3f181e4293f27f25ad52763e50",
+      "sha1": "e2556bce89c4b542786c741dc49ef28afab917ff"
+    },
+    {
+      "name": "Rebelstar - Tactical Command (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BRLP",
+      "size": 4194304,
+      "crc32": "e448c5d4",
+      "md5": "7812b2e8a0ac8f77e8347d6499ab0160",
+      "sha1": "669c47e62f2388ce0ba676f3dc641b5ad2ddb5c5"
+    },
+    {
+      "name": "Rebelstar - Tactical Command (Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 4194304,
+      "crc32": "2189021c",
+      "md5": "bcfe5f30615a0d1c71f76b27e8ac6ad2",
+      "sha1": "b6e2167272a68bd4e3833cccd68929d50a27a426",
+      "sha256": "11782f8009c2bfba7781c582290184a1048463c2e3c081d3461706efc66167d4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rebelstar%20-%20Tactical%20Command%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rebelstar%20-%20Tactical%20Command%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rebelstar%20-%20Tactical%20Command%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rebelstar%20-%20Tactical%20Command%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rebelstar%20-%20Tactical%20Command%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rebelstar%20-%20Tactical%20Command%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

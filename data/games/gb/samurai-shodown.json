@@ -132,5 +132,121 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Nettou Samurai Spirits (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "4a306276",
+      "md5": "bd816c99ef46497c67aca61d1cb306be",
+      "sha1": "6303a5fb1d99ba8bad36437af5e2592fdecf0f72",
+      "sha256": "64fc28b91664f8a465d19c03b06fdcfff9ef583dd123f819d29e1ef27fbd3c74"
+    },
+    {
+      "name": "Nettou Samurai Spirits (Japan) (Rev 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "c94850cc",
+      "md5": "369bc7cde60ac3f97f72ff605502797f",
+      "sha1": "05bfa0c00e29fb8d69ef683eddec52e1de57a9ff",
+      "sha256": "514439c91987327ab0f4a8a0d7799fdaf2de483647ff8c324b4ee705bfc58011"
+    },
+    {
+      "name": "Samurai Shodown (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "69292ee6",
+      "md5": "cb5fe1c733f610ad6151216b6887285a",
+      "sha1": "d696ba3562bed549a144ffe0b97fbf4c528f325f",
+      "sha256": "e0a07f84198e062c9ba8d617ef15679ba044f96510e5c62309ea1f743499a2c9"
+    },
+    {
+      "name": "Samurai Shodown (USA, Europe) (Beta) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "90d51289",
+      "md5": "cdd340a5f4e02c5d84d094fa0a06db1a",
+      "sha1": "1ddb05f7237e792dda9924ac0c525d8d1950cb44",
+      "sha256": "0875453c90be20d9dfac80f5954ceaedf172cd4173e0f46454c644d30dfc83bf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nettou%20Samurai%20Spirits%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nettou%20Samurai%20Spirits%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nettou%20Samurai%20Spirits%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nettou%20Samurai%20Spirits%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nettou%20Samurai%20Spirits%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nettou%20Samurai%20Spirits%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Samurai%20Shodown%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Samurai%20Shodown%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Samurai%20Shodown%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Samurai%20Shodown%20%28USA%2C%20Europe%29%20%28Beta%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Samurai%20Shodown%20%28USA%2C%20Europe%29%20%28Beta%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Samurai%20Shodown%20%28USA%2C%20Europe%29%20%28Beta%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

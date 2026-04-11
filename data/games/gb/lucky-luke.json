@@ -15,6 +15,40 @@
   ],
   "external_ids": {
     "wikidata": "Q123010700",
-    "igdb": 134833
-  }
+    "igdb": 134833,
+    "mobygames": 30263
+  },
+  "first_release_date": "1996-01-01",
+  "roms": [
+    {
+      "name": "Lucky Luke (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "538e0591",
+      "md5": "307889b908a3954b224493486e4c4294",
+      "sha1": "7d67aa8b17d7208d8ed234bd70b4def9582b362d",
+      "sha256": "a07c14f7c3086ee93b08348b9023e57dc9207604be40b084ff1e91fd2e4cfe69"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lucky%20Luke%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lucky%20Luke%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lucky%20Luke%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

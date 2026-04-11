@@ -47,12 +47,53 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Adventures of Rocky & Bullwinkle and Friends",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1994-05-01",
+  "first_release_date": "1992-01-01",
   "external_ids": {
     "wikidata": "Q2473951",
     "mobygames": 6558,
     "igdb": 5347
-  }
+  },
+  "roms": [
+    {
+      "name": "Adventures of Rocky and Bullwinkle and Friends, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "dc8f5734",
+      "md5": "6208ade9f0fd83ae407179509b4c976d",
+      "sha1": "a0ed3c23fc2c153ee3681c54eec300b3642bb3c9",
+      "sha256": "b70099186d3774355ac5db370240e370c73f9ce5341f6c805cf9f771374b43ae"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Adventures%20of%20Rocky%20and%20Bullwinkle%20and%20Friends%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Adventures%20of%20Rocky%20and%20Bullwinkle%20and%20Friends%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Adventures%20of%20Rocky%20and%20Bullwinkle%20and%20Friends%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

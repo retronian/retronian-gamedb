@@ -54,5 +54,67 @@
     "wikidata": "Q2910422",
     "mobygames": 7802,
     "igdb": 19614
-  }
+  },
+  "roms": [
+    {
+      "name": "Boogerman - A Pick and Flick Adventure (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-125066-00",
+      "size": 3145728,
+      "crc32": "dbc4340c",
+      "md5": "7b144947f6e8842dd4419d5166cddff6",
+      "sha1": "4fd33eeaf1e804d005793a6e1185122fd7e9a751",
+      "sha256": "17ab05924cca35495bbb67d9f748f44cc47bf4bddfd0640ebad72f9188f56c38"
+    },
+    {
+      "name": "Boogerman - A Pick and Flick Adventure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-125066-00",
+      "size": 3145728,
+      "crc32": "1a7a2bec",
+      "md5": "265a10bf2ea2d1ee30e6cde631d54474",
+      "sha1": "bb1d23ca4c48d37bf3170d320cc30bfbc2acdfff",
+      "sha256": "60750de4ba7f07ee4c8d2bb01ff4b0b5555736d35865bd2d33b34631328954c9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Boogerman%20-%20A%20Pick%20and%20Flick%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Boogerman%20-%20A%20Pick%20and%20Flick%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Boogerman%20-%20A%20Pick%20and%20Flick%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Boogerman%20-%20A%20Pick%20and%20Flick%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Boogerman%20-%20A%20Pick%20and%20Flick%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Boogerman%20-%20A%20Pick%20and%20Flick%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

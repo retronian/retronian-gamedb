@@ -54,5 +54,54 @@
     "wikidata": "Q2500070",
     "mobygames": 88876,
     "igdb": 194934
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Rock Band (USA) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BLRE",
+      "size": 268435456,
+      "crc32": "5a74e002",
+      "md5": "f10b2e293fa8aab9255fce56cc72ea95",
+      "sha1": "59cb9ac301712002748416f3ed100d583c650b75"
+    },
+    {
+      "name": "LEGO Rock Band (Europe) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BLRP",
+      "size": 268435456,
+      "crc32": "5d926ef9",
+      "md5": "bdfd76efa4456fa4b00b18e96ec30c2d",
+      "sha1": "8c52a3df5bc18ef2bfdd226dd29c52bc93bdc356",
+      "sha256": "5e09534a1f8685204cb26e70caceea3004b172a31852cb328c49df336060814d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Rock%20Band%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Rock%20Band%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Rock%20Band%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Rock%20Band%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

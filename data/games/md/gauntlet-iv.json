@@ -54,5 +54,67 @@
     "wikidata": "Q3099452",
     "mobygames": 18395,
     "igdb": 46214
-  }
+  },
+  "roms": [
+    {
+      "name": "Gauntlet IV (USA, Europe) (En,Ja)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48216-00",
+      "size": 1048576,
+      "crc32": "3bf46dce",
+      "md5": "840f9f6fd4f22686b89cfd9a9ade105a",
+      "sha1": "26c26ee2bb9571d51537d9328a5fd2a91b4e9dc1",
+      "sha256": "58788dd8f8de5c8846c455339e53d34847846ca7a8428b0c92aab706f9f4bf8a"
+    },
+    {
+      "name": "Gauntlet IV (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48123-00",
+      "size": 1048576,
+      "crc32": "f9d60510",
+      "md5": "5e8ec4c047ef4af15027e93b5358858f",
+      "sha1": "d28e22207121f0e2980dd409b4fb24f9fb8967ae",
+      "sha256": "473f66ab64bdcf4a3460c583cdc06c473d0a47a47f28091809225852cd9653b2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gauntlet%20IV%20%28USA%2C%20Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gauntlet%20IV%20%28USA%2C%20Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gauntlet%20IV%20%28USA%2C%20Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gauntlet%20IV%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gauntlet%20IV%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gauntlet%20IV%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

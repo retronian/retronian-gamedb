@@ -36,5 +36,37 @@
     "wikidata": "Q11312979",
     "mobygames": 40870,
     "igdb": 64075
-  }
+  },
+  "roms": [
+    {
+      "name": "Space Invaders - Fukkatsu no Hi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "99496db3",
+      "md5": "b08a0efb7d780b77e4a7a6f290fe94a4",
+      "sha1": "cf6a4ef91b3eebe81bb6af55ed9ef6dd816d1765",
+      "sha256": "065f194f8caca0bde1bc3f1a201600b88ad6200bae5bc4dbe443442e1b8d91e3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Space%20Invaders%20-%20Fukkatsu%20no%20Hi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Space%20Invaders%20-%20Fukkatsu%20no%20Hi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Space%20Invaders%20-%20Fukkatsu%20no%20Hi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

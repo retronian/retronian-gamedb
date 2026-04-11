@@ -105,5 +105,94 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Crash Bandicoot - The Huge Adventure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACQE",
+      "size": 8388608,
+      "crc32": "034d2d4b",
+      "md5": "32d74527bfe723470c2c5406c325fb59",
+      "sha1": "5a2651c78bb8a1d707e3c3af1f46fb64e2104198",
+      "sha256": "6be639d1db218ca2bf2b1ff0ee0867334404cead5fb6684af4870d4644a15635"
+    },
+    {
+      "name": "Crash Bandicoot Advance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ACUJ",
+      "size": 8388608,
+      "crc32": "64767b34",
+      "md5": "b7f7cbc994934461db0a94cb8b752873",
+      "sha1": "409814b6cca882f7f1cdbebba9503d77b6297eec"
+    },
+    {
+      "name": "Crash Bandicoot XS (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACQP",
+      "size": 8388608,
+      "crc32": "ccfd654f",
+      "md5": "b282e479e10aea057e762de7b9d4ca4b",
+      "sha1": "bdd061e1b5187c0528928ec0ddb6886b1de16970"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crash%20Bandicoot%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crash%20Bandicoot%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crash%20Bandicoot%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crash%20Bandicoot%20XS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crash%20Bandicoot%20XS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crash%20Bandicoot%20XS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

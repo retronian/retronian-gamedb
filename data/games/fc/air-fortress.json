@@ -54,5 +54,85 @@
     "wikidata": "Q2078681",
     "mobygames": 11663,
     "igdb": 8791
-  }
+  },
+  "roms": [
+    {
+      "name": "Air Fortress (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 163856,
+      "crc32": "d61c4f3b",
+      "md5": "b2dc56f0163b3267425beb21097e3c74",
+      "sha1": "460f6a4c3e449c4b0d78166ef87c8a93dfc33e01",
+      "sha256": "9d3a81e0cba6746d0d1e89380d559fdf943bb8d313b9235fc00631fafe67e292"
+    },
+    {
+      "name": "Air Fortress (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "6da461e2",
+      "md5": "d53c72a4e4277d13b9d5ac601154fefe",
+      "sha1": "b7defa0e48d4890d088e248d3ae8a2b834b2c548",
+      "sha256": "3411f8e6f170c734b0bfe8517d73512d3d9a762aae39efafc1cb3ebee771b6a0"
+    },
+    {
+      "name": "Air Fortress (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 163856,
+      "crc32": "c572cabe",
+      "md5": "7bac663236aa7420250a134c1372a98a",
+      "sha1": "9c98e6f75912a65f8cb4dd4fa1c2659184baf08d",
+      "sha256": "3bfb11d415aa711798b818530222d6d10dc7d79d149f3be0909a5b1f04fd376b"
+    },
+    {
+      "name": "Air Fortress (USA) (Beta) (1989-03-03)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 163856,
+      "crc32": "6c122916",
+      "md5": "bd6b257259ef18b9adc2a63f0db4608c",
+      "sha1": "a80b571916dc55328b20cac2104796be14ad8afc",
+      "sha256": "61374b85d84eca47d831a17892ebb88bf21fa358cc4ab6bce295149e27fd7eb8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Air%20Fortress%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Air%20Fortress%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Air%20Fortress%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Air%20Fortress%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Air%20Fortress%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Air%20Fortress%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

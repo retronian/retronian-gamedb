@@ -36,5 +36,67 @@
     "wikidata": "Q3571784",
     "mobygames": 8451,
     "igdb": 3436
-  }
+  },
+  "roms": [
+    {
+      "name": "All Star Tennis '99 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NTNP",
+      "size": 8388608,
+      "crc32": "996e845f",
+      "md5": "e3f4c868917a12bd5e84d94d1c260c7d",
+      "sha1": "09ddbd45f4962735def65399b5792e3bb5bd7d3c",
+      "sha256": "84bf65f8d325cebe502495ed959c3a1804363376897e2ab4812df5e7684965e4"
+    },
+    {
+      "name": "All Star Tennis 99 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTNE",
+      "size": 8388608,
+      "crc32": "a7dcf638",
+      "md5": "afc3dc9bb737d81903f6ce4875b63ae9",
+      "sha1": "3a6446409d63dcac0d5c860a3e2888a378474887",
+      "sha256": "c42c19a076522451233d9cf02ee73013c4017daced799a1f71601948c9117705"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/All%20Star%20Tennis%20%2799%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/All%20Star%20Tennis%20%2799%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/All%20Star%20Tennis%20%2799%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/All%20Star%20Tennis%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/All%20Star%20Tennis%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/All%20Star%20Tennis%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

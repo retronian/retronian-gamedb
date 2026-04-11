@@ -72,5 +72,75 @@
     "wikidata": "Q1809250",
     "mobygames": 6595,
     "igdb": 8203
-  }
+  },
+  "roms": [
+    {
+      "name": "Mario Paint (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "266b220e",
+      "md5": "e892b0b0e2d58bd74abb1a730f7552f6",
+      "sha1": "6d93da7773b2c121bc4e7a3edc38f29f546455e2",
+      "sha256": "c34bc93b4223fb7ac1f8002b99c0c931e9741a639e6d2beb6aeed02f2840b7b4"
+    },
+    {
+      "name": "Mario Paint (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "38c9626c",
+      "md5": "881d3772a3eb37a8a0fb254e940c6767",
+      "sha1": "d027c03eb2faefa07640ec828b2a46f601f7b15f",
+      "sha256": "e842cac1a4301be196f1e137fbd1a16866d5c913f24dbca313f4dd8bd7472f45"
+    },
+    {
+      "name": "Mario Paint (Japan, USA) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "8b6bedad",
+      "md5": "85b259000a1dbe674af2f5459f13e4b8",
+      "sha1": "2fc04ea945dc574520adb9c2d62b0e5a6ac9201b",
+      "sha256": "5c2c658d3cd30c5df8058f976ec1ca10af4bed9495f66cb2a1a02d259406c37c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%20Paint%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mario%20Paint%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mario%20Paint%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%20Paint%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mario%20Paint%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mario%20Paint%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

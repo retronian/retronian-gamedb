@@ -79,5 +79,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Batman Forever (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "c2fd6244",
+      "md5": "53d8596868fe081cef40ecc02d463ea3",
+      "sha1": "4fab046d18addafbc625fe4cefec37098747d716",
+      "sha256": "53bcc933db543b319d749110168012e06e07a08db3a27702f5eef603a1bb77cb"
+    },
+    {
+      "name": "Batman Forever (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "ef3592cc",
+      "md5": "28737a5c760938a9746fa9e1a2fcefc6",
+      "sha1": "cb76b6d3ec9903a734f70ff11195f40f13f4d83f",
+      "sha256": "442d94316cf031ea096ea1f7df59ac2091844c1c1068616d17306db819bd3d10"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Batman%20Forever%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Batman%20Forever%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Batman%20Forever%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

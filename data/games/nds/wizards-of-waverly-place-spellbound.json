@@ -17,5 +17,54 @@
   "external_ids": {
     "wikidata": "Q8028778",
     "igdb": 24309
-  }
+  },
+  "roms": [
+    {
+      "name": "Wizards of Waverly Place - Spellbound (Europe) (En,De,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BW4P",
+      "size": 33554432,
+      "crc32": "6783a03c",
+      "md5": "4df5df3e6d1513fe302dec8a52c64eb6",
+      "sha1": "b958410546dbd21c6d37afa33404d64add7a55bc",
+      "sha256": "5051c08c984b4b46d7c4b53956ab49726ef2b17e5bb3a15994434a1307626de1"
+    },
+    {
+      "name": "Wizards of Waverly Place - Spellbound (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BW4E",
+      "size": 33554432,
+      "crc32": "57a2d2dd",
+      "md5": "c211d37a62a3a7426f1b7a352137a369",
+      "sha1": "cdaab037a13378d1b2ddf142f0e9fdfb34638779"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wizards%20of%20Waverly%20Place%20-%20Spellbound%20%28Europe%29%20%28En%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wizards%20of%20Waverly%20Place%20-%20Spellbound%20%28Europe%29%20%28En%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wizards%20of%20Waverly%20Place%20-%20Spellbound%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wizards%20of%20Waverly%20Place%20-%20Spellbound%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

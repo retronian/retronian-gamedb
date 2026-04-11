@@ -18,5 +18,66 @@
     "wikidata": "Q6952680",
     "mobygames": 56026,
     "igdb": 3552
-  }
+  },
+  "roms": [
+    {
+      "name": "NBA Jam 2000 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NJAP",
+      "size": 16777216,
+      "crc32": "9f95485e",
+      "md5": "604feb17258044a3e6c3aa9d2c5b62f9",
+      "sha1": "a91c52ac8af8de6172411c5bf8e57f5795be7f78",
+      "sha256": "76778e298da9b3929c1659c2374d19df1d542fb2db89ff5be7d53c7dfa267fca"
+    },
+    {
+      "name": "NBA Jam 2000 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NJAE",
+      "size": 16777216,
+      "crc32": "163dadf9",
+      "md5": "afecc9a2df7b1a66a6b7ab3aa8b4bd2e",
+      "sha1": "94139439d6c234a560fc5d0e5d9c0aa4508fc7b6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NBA%20Jam%202000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NBA%20Jam%202000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NBA%20Jam%202000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NBA%20Jam%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NBA%20Jam%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NBA%20Jam%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

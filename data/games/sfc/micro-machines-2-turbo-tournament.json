@@ -72,5 +72,47 @@
     "wikidata": "Q3312023",
     "mobygames": 627,
     "igdb": 8775
-  }
+  },
+  "roms": [
+    {
+      "name": "Micro Machines 2 - Turbo Tournament (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "1619b619",
+      "md5": "fff6243187f907e58dc16f6dbbad5d3a",
+      "sha1": "7bc2410807e5424894297b6bb57999d730249bce",
+      "sha256": "6cdfde0790b35d553f20186c7e5fff7df5626f3765023d2887673c9b2ea7d281"
+    },
+    {
+      "name": "Micro Machines 2 - Turbo Tournament (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "86da3d14",
+      "md5": "a49a0c96a6b466d045ddc40a615cb983",
+      "sha1": "07ac97efe9e6e573c447dc8602133b2d1902b6b9",
+      "sha256": "880bed1dac4c263e2be57943694452bbc172058cc5c14d8d3a9d87120adc2f32"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Micro%20Machines%202%20-%20Turbo%20Tournament%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Micro%20Machines%202%20-%20Turbo%20Tournament%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Micro%20Machines%202%20-%20Turbo%20Tournament%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

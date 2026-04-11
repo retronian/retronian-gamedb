@@ -63,5 +63,121 @@
     "wikidata": "Q2710703",
     "mobygames": 7223,
     "igdb": 280812
-  }
+  },
+  "roms": [
+    {
+      "name": "Blades of Steel (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "24a0ee67",
+      "md5": "c601348dddf66d1fdd51efbbc9b1b9aa",
+      "sha1": "ffc0c4694fe7ee1dbabb5d9f7d2dd89e11f7ee86",
+      "sha256": "93b539995c47d18174affa5525a93b2917527d63f536a33a63102b1832a4df23"
+    },
+    {
+      "name": "Blades of Steel (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "2e7b26cc",
+      "md5": "87b367378643932e9e0fa6eb00a229c3",
+      "sha1": "26ab09e19d3f78d749443c116f29ffdd4186231d",
+      "sha256": "316e4c086802318e53857e25c26f9c86098ac0073e9a200e3618bf484e24bb24"
+    },
+    {
+      "name": "Blades of Steel (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "b75abbfb",
+      "md5": "c72a4d0aba14252086e5f3853b90a61b",
+      "sha1": "f1406f30fad696416d1eef7234f5ca6cebeccea3",
+      "sha256": "4bb9c1eef0c9f1a18e467ee14294e3fd3dcb412b19f53329087b8eade618f9ec"
+    },
+    {
+      "name": "Blades of Steel (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "655d2a59",
+      "md5": "245bff8292135996149a7f1c248f5656",
+      "sha1": "12ccf8888f1d8d1adf2ea2b8142900e64f8cc0e3",
+      "sha256": "dd7a0911674deb89c8b59549ec777035b8d061405916939b4a732bd5634f1c69"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Blades%20of%20Steel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Blades%20of%20Steel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Blades%20of%20Steel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Blades%20of%20Steel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Blades%20of%20Steel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Blades%20of%20Steel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Blades%20of%20Steel%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Blades%20of%20Steel%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Blades%20of%20Steel%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Blades%20of%20Steel%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Blades%20of%20Steel%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Blades%20of%20Steel%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

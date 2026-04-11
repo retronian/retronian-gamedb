@@ -37,6 +37,24 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Miles Edgeworth: Ace Attorney Investigations",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Miles Edgeworth: Ace Attorney Investigations",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2009-05-28",
@@ -44,5 +62,95 @@
     "wikidata": "Q2734032",
     "mobygames": 45325,
     "igdb": 1430
-  }
+  },
+  "roms": [
+    {
+      "name": "Ace Attorney Investigations - Miles Edgeworth (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C32E",
+      "size": 67108864,
+      "crc32": "90ac37b6",
+      "md5": "23066e71e5fdb465cb9482075404ea32",
+      "sha1": "740105dd2f9719d88b73053bc1638681e6ae9042",
+      "sha256": "d746de19e5d3eea9ec15e00df5b05645101992787eb180e49e3b2e8d342a24be"
+    },
+    {
+      "name": "Ace Attorney Investigations - Miles Edgeworth (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C32P",
+      "size": 67108864,
+      "crc32": "4352dfc3",
+      "md5": "d7d7289a44188792ad50909d24602d88",
+      "sha1": "9b144d75a109f0c9f392afbb02713bd897fc26fc"
+    },
+    {
+      "name": "Gyakuten Kenji (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "C32J",
+      "size": 67108864,
+      "crc32": "c363ebf5",
+      "md5": "404e163ed467bd3cb3229c1b96dea5e6",
+      "sha1": "6954730cfdc4371b30a8b632da64ea14f93c559b",
+      "sha256": "e5aca8a890ea9cb859f8401e90c69f0f46971ab7993a7ea2e231e54aecbc68b9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ace%20Attorney%20Investigations%20-%20Miles%20Edgeworth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ace%20Attorney%20Investigations%20-%20Miles%20Edgeworth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ace%20Attorney%20Investigations%20-%20Miles%20Edgeworth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ace%20Attorney%20Investigations%20-%20Miles%20Edgeworth%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ace%20Attorney%20Investigations%20-%20Miles%20Edgeworth%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ace%20Attorney%20Investigations%20-%20Miles%20Edgeworth%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Gyakuten%20Kenji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Gyakuten%20Kenji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Gyakuten%20Kenji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

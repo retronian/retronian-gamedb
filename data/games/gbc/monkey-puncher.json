@@ -42,5 +42,63 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Monkey Puncher (Europe) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "bc1809ce",
+      "md5": "65da43aef4c10cfd8feee70e842a46ae",
+      "sha1": "87f08f8adc8db96ce396bd21f33a804f63826bf3"
+    },
+    {
+      "name": "Saru Puncher (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "b02564fc",
+      "md5": "6ebca05013af9c103aea798e0eb924c6",
+      "sha1": "db7cc42b4e2a181c31caa4ae8635ec33b5a09f73"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Monkey%20Puncher%20%28Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Monkey%20Puncher%20%28Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Monkey%20Puncher%20%28Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Saru%20Puncher%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Saru%20Puncher%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Saru%20Puncher%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

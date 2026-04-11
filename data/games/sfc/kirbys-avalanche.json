@@ -81,5 +81,65 @@
     "wikidata": "Q2986962",
     "mobygames": 6775,
     "igdb": 3727
-  }
+  },
+  "roms": [
+    {
+      "name": "Kirby's Avalanche (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "21e658b8",
+      "md5": "bddd943215857ad77ea48d2a1a138ec8",
+      "sha1": "95e4ac5f3f95863ffd8c6519f93a52b631c97d4a",
+      "sha256": "67937dd7a29a93b1aaabb6df89f0748369ff47f3f6c655a402c00d5657973140"
+    },
+    {
+      "name": "Kirby's Ghost Trap (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "dd0d08be",
+      "md5": "e872aaa6d946118a1a65aa7df08dc3f6",
+      "sha1": "51118691a6e5761f9031d50d00ef7b8510a899ea",
+      "sha256": "9693c8f4689b515b964d719b472bde828124004f2e3d7898c6fbbb2a182f0bbf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kirby%27s%20Avalanche%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kirby%27s%20Avalanche%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kirby%27s%20Avalanche%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kirby%27s%20Ghost%20Trap%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kirby%27s%20Ghost%20Trap%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kirby%27s%20Ghost%20Trap%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

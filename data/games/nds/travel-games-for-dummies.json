@@ -26,5 +26,54 @@
     "wikidata": "Q58186848",
     "mobygames": 90464,
     "igdb": 84458
-  }
+  },
+  "roms": [
+    {
+      "name": "Travel Games for Dummies (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CVMP",
+      "size": 33554432,
+      "crc32": "6d7388d2",
+      "md5": "e86cb1886db491b5a3798159dead703b",
+      "sha1": "ca3bbc08e45de560a5783791b5d26a48e8636314",
+      "sha256": "461dc11e3c5c4c40f1f55bbcd67e0dde90de066ad0755dda4d95345660424d56"
+    },
+    {
+      "name": "Travel Games for Dummies (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CVME",
+      "size": 33554432,
+      "crc32": "e609c763",
+      "md5": "3481f61edc9cf2ad58b9d7c9f1dc3e38",
+      "sha1": "96484c628cc291bae1faab074b3f67403ee31635"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Travel%20Games%20for%20Dummies%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Travel%20Games%20for%20Dummies%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Travel%20Games%20for%20Dummies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Travel%20Games%20for%20Dummies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

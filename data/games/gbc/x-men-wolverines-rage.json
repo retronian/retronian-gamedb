@@ -63,5 +63,63 @@
     "wikidata": "Q4021199",
     "mobygames": 5000,
     "igdb": 49899
-  }
+  },
+  "roms": [
+    {
+      "name": "X-Men - Wolverine's Rage (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "83ad5b99",
+      "md5": "2acf3b5fb6a9cf4c8194bbadce34aee7",
+      "sha1": "6eeef0a72a453c26fa8c772c4036004986dc68f2"
+    },
+    {
+      "name": "X-Men - Wolverine's Rage (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "12fc1a6e",
+      "md5": "b1729716baaea01d4baa795db31800b0",
+      "sha1": "b7143367d71932ad525c5db94f5295686e6c58e5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/X-Men%20-%20Wolverine%27s%20Rage%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/X-Men%20-%20Wolverine%27s%20Rage%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/X-Men%20-%20Wolverine%27s%20Rage%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/X-Men%20-%20Wolverine%27s%20Rage%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/X-Men%20-%20Wolverine%27s%20Rage%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/X-Men%20-%20Wolverine%27s%20Rage%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -20,12 +20,94 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "バットマン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "배트맨",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Batman",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Batman: The Video Game",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Batman: The Video Game",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Batman",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1990-01-01",
+  "first_release_date": "1989-12-22",
   "external_ids": {
     "wikidata": "Q123196063",
     "mobygames": 4513,
     "igdb": 49227
-  }
+  },
+  "roms": [
+    {
+      "name": "Batman - The Video Game (World)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "6c41d3cd",
+      "md5": "03c6d84a951be6703b7458478f4277b9",
+      "sha1": "ef7d6684a0f737c01a1f2cc2c6609e0f3ac1310e",
+      "sha256": "d0e4ff010ab013e519abd9950ab465f3369c76e23d82927c0f39b5e259d4febf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Batman%20-%20The%20Video%20Game%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Batman%20-%20The%20Video%20Game%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Batman%20-%20The%20Video%20Game%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

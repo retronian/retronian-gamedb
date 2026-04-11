@@ -18,5 +18,75 @@
     "wikidata": "Q2780270",
     "mobygames": 6956,
     "igdb": 306176
-  }
+  },
+  "roms": [
+    {
+      "name": "Lethal Weapon (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "d8342b83",
+      "md5": "01fe22b9153eded3328c2682790caf47",
+      "sha1": "b432d03eef9ff6019638ee9d9d8aec1bdb7efd9c",
+      "sha256": "ab319878a8824c4b19d3da360700d67e046bd83c9fe59419c5ee1b2742d40928"
+    },
+    {
+      "name": "Lethal Weapon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "8cee7bf3",
+      "md5": "e3b34d5647e56ae5db22ff8fd0c5d989",
+      "sha1": "99c8a5c2fb08521748a2e6d5a0d35ecf99424876",
+      "sha256": "a05b7b7d0b209f840de6104603428797018320f6bcba15c2b2ff944e3d20b6f5"
+    },
+    {
+      "name": "Lethal Weapon (Taiwan) (En) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 262160,
+      "crc32": "0747afab",
+      "md5": "d7cb4fc3ce72e1c84102c47fbdff66a2",
+      "sha1": "fe7da3bfc0c99cc40218279ffcb18ad3502510e5",
+      "sha256": "b7341c0668ada9256503a482ea458a837e80a715054cb4ec4be7a89628313447"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Lethal%20Weapon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Lethal%20Weapon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Lethal%20Weapon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Lethal%20Weapon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Lethal%20Weapon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Lethal%20Weapon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

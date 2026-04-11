@@ -44,5 +44,107 @@
   "external_ids": {
     "wikidata": "Q3542394",
     "igdb": 85286
-  }
+  },
+  "roms": [
+    {
+      "name": "Mega Turrican (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-93246-50",
+      "size": 1048576,
+      "crc32": "b1d15d0f",
+      "md5": "de3c63abb34a54d264f8d5ea1bcb40d9",
+      "sha1": "00ad2cf231bedbd373253b169e170e8b0db4c86a",
+      "sha256": "1670385ef9b737cc4c8e034e5d654f3db02fde9ffa8f7d6cb4b94bcede8c2146"
+    },
+    {
+      "name": "Mega Turrican (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-13086-00",
+      "size": 1048576,
+      "crc32": "fe898cc9",
+      "md5": "8d73db292f0f4c838e72086fb3d5896b",
+      "sha1": "180285dbfc1613489f1c20e9fd6c2b154dec7fe2",
+      "sha256": "e43ad7d23af4da9d51792fe943dee9c7893d1f3aca230e11830ff27dcc875de0"
+    },
+    {
+      "name": "Mega Turrican (Japan) (En) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00000001-00",
+      "size": 1048576,
+      "crc32": "3ba35acd",
+      "md5": "5878569bf3a7efde76fc7120fb3299de",
+      "sha1": "486fd963b1389806a565dab21c81c46c273c8e5f",
+      "sha256": "7a887a943507a1ab6a0190f740accb67937ab2e086838d372b4ff2f9902773f1"
+    },
+    {
+      "name": "Mega Turrican (USA, Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-13086-00",
+      "size": 1048576,
+      "crc32": "11326504",
+      "md5": "2a69cba305fc404f9e50b3ba1683d3a3",
+      "sha1": "5955517511ac064b66274f60e984d2ffee84a91a",
+      "sha256": "9122c04c63689abd978ec09899d1a96340650646b15f967192ab8b7a68dc552e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega%20Turrican%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega%20Turrican%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega%20Turrican%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega%20Turrican%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega%20Turrican%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega%20Turrican%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega%20Turrican%20%28USA%2C%20Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega%20Turrican%20%28USA%2C%20Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega%20Turrican%20%28USA%2C%20Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

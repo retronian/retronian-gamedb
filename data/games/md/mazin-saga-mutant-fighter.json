@@ -54,5 +54,67 @@
     "wikidata": "Q3303131",
     "mobygames": 37953,
     "igdb": 36947
-  }
+  },
+  "roms": [
+    {
+      "name": "Mazin Saga - Mutant Fighter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-23036-00",
+      "size": 1048576,
+      "crc32": "1bd9fef1",
+      "md5": "f978463dca8bc6f44f28c665b59965f6",
+      "sha1": "5cb87bb4efc8fa8754e687b62d0fd858e624997d",
+      "sha256": "e16d6807f212a82a56b89346f0a116252adf1f897a8206316e6ae1792477e409"
+    },
+    {
+      "name": "Mazin Wars (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1069-00",
+      "size": 1048576,
+      "crc32": "4b07a105",
+      "md5": "f1b8477c6f20e4a4491f01dbc4d869ec",
+      "sha1": "40e48ce531ed013d5a4a6f689e70781df3e0095c",
+      "sha256": "95ebab07907e27094d0f5a4e60b337c28a52cb5dd867abef55b800f7e95ef560"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mazin%20Saga%20-%20Mutant%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mazin%20Saga%20-%20Mutant%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mazin%20Saga%20-%20Mutant%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mazin%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mazin%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mazin%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

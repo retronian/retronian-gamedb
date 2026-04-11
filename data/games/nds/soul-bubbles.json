@@ -45,5 +45,54 @@
     "wikidata": "Q3491607",
     "mobygames": 35173,
     "igdb": 21370
-  }
+  },
+  "roms": [
+    {
+      "name": "Soul Bubbles (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YLEP",
+      "size": 33554432,
+      "crc32": "ca1092ec",
+      "md5": "a5e14d13ddc7163ef09181280de08f88",
+      "sha1": "68a8c388b10c30220b2380306b43008b8667df09",
+      "sha256": "0a1e94e3fce22540fa6a51ddc622d9bb99caa1b8b5fd3c5bf8b3af6f4a5ccf27"
+    },
+    {
+      "name": "Soul Bubbles (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YLEE",
+      "size": 33554432,
+      "crc32": "4192fa85",
+      "md5": "3664f31bfd2209297ce47714949e911d",
+      "sha1": "4507ba1468acb5c2aa5a90ef6646da6b64b7af36"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Soul%20Bubbles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Soul%20Bubbles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Soul%20Bubbles%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Soul%20Bubbles%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

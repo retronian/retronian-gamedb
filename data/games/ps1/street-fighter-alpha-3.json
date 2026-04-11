@@ -89,5 +89,46 @@
     "wikidata": "Q2633628",
     "mobygames": 3707,
     "igdb": 242651
-  }
+  },
+  "roms": [
+    {
+      "name": "Street Fighter Alpha 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 343301456,
+      "crc32": "9a623163",
+      "md5": "ca8916b2169cf9329b06f1fae6c826dc",
+      "sha1": "c3a1b97f25f06214671954e53a44779851f3d5b6"
+    },
+    {
+      "name": "Street Fighter Alpha 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 358443296,
+      "crc32": "58d58031",
+      "md5": "34529b00e58835af5dbe62270931a91c",
+      "sha1": "000fe9ce1f43a8b32509c321d86bcd9e6567e8bd",
+      "sha256": "61a8953933ed99daeb81ea8f4d43f3219e8808f4fa62d8bdcf10300976b0d6a8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Street%20Fighter%20Alpha%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Street%20Fighter%20Alpha%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Street%20Fighter%20Alpha%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

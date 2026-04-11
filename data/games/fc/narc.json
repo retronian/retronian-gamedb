@@ -45,5 +45,84 @@
     "wikidata": "Q2403130",
     "mobygames": 10327,
     "igdb": 307956
-  }
+  },
+  "roms": [
+    {
+      "name": "NARC (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "625f85a9",
+      "md5": "50b8a833b33731e81b848db96607217a",
+      "sha1": "faa91c6dd76507338e6b050b8cb7882f6c145279",
+      "sha256": "7503a02b2acc73d31921d70d7e70552b45e6fa2a438a275ca75ca468ede5e55d"
+    },
+    {
+      "name": "NARC (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "df3cbf3d",
+      "md5": "66f1ace3437a2c6166e7a62eecf6b322",
+      "sha1": "2300b3156cf250da932ca0c9921f1a705f863090",
+      "sha256": "6711447a7fdc9967cddddd85fbf0304e98c7c4101495611c640565a008297de3"
+    },
+    {
+      "name": "NARC (Russia) (Pirate)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "cd37dad3",
+      "md5": "edac489a3d11da6d1e9906055d5893e3",
+      "sha1": "f9ff6cb30d8971cb4bd44ba93140280fe23f69d8",
+      "sha256": "7b85446d28a5be12674f55b8f9f3080182304d167b57c955a9ddc64c779c8132"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/NARC%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/NARC%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/NARC%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/NARC%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/NARC%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/NARC%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/NARC%20%28Russia%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/NARC%20%28Russia%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

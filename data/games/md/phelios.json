@@ -54,5 +54,99 @@
     "wikidata": "Q2743846",
     "mobygames": 23203,
     "igdb": 199420
-  }
+  },
+  "roms": [
+    {
+      "name": "Phelios (Japan) (En) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-14013-00",
+      "size": 524288,
+      "crc32": "14dc2668",
+      "md5": "4984024f3d8059692a32ad0682031e65",
+      "sha1": "9cb5190d8349fa7f5fecb6202b11d74d29916e40",
+      "sha256": "40459c9a6de106d47438c5828da5a7fe67686a62d9a8764bfd10cb1ef8bbb7db"
+    },
+    {
+      "name": "Phelios (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1131-00",
+      "size": 524288,
+      "crc32": "13abc2b2",
+      "md5": "049dd9663d4a19d241e78e7eaffc8b2b",
+      "sha1": "5b95529dd491266648134f1808f4da55a2ab9296",
+      "sha256": "13bc4b93b27efe28915c8997a06267d20ed607e5b876a903c3f995f19ade5a1c"
+    },
+    {
+      "name": "Phelios (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-14013-00",
+      "size": 524288,
+      "crc32": "94596174",
+      "md5": "9de042308ba18ecbc622556f5b9b81a0",
+      "sha1": "9834c9963debebb6ee80ffac4191ff260b85e511",
+      "sha256": "928c789e87a25eb678d1f2052e13a5c71efcb3fb74a704eadd72dcc78f003000"
+    },
+    {
+      "name": "Phelios (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-14013-00",
+      "size": 524288,
+      "crc32": "11c79320",
+      "md5": "ab720f3ec45423c794403e9830a00032",
+      "sha1": "c2e34b7eb411ac78bb480e30434808b2ae4989ea",
+      "sha256": "d72b9d15b89b47f7ef3b3a7e9369ae6199bc593aa688129dd647d11f3f15f7cd"
+    },
+    {
+      "name": "Phelios (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-14013-00",
+      "size": 524288,
+      "crc32": "ff0dcd3c",
+      "md5": "758fcfe0ec3b6e433a9b925bf5405f38",
+      "sha1": "b41c8a7720d8c7e41a3ef8315fb603a35a3abe4c",
+      "sha256": "434209dd5c7f315863083ae8614f1f00293464512fbf0b37cc312c025d97d837"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Phelios%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Phelios%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Phelios%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Phelios%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Phelios%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Phelios%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

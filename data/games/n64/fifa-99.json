@@ -63,5 +63,66 @@
     "wikidata": "Q2420155",
     "mobygames": 1188,
     "igdb": 699
-  }
+  },
+  "roms": [
+    {
+      "name": "FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "N9FP",
+      "size": 16777216,
+      "crc32": "6eae1e6e",
+      "md5": "6432c622c05ea9cd3217e280ac2ce37c",
+      "sha1": "07400c53aef501887f73ef6a45ce04fe2f170fb0",
+      "sha256": "9598ee62390f249f02bd595c8610e5f81a21f71b7d1162f7d1014012ce799db0"
+    },
+    {
+      "name": "FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "N9FE",
+      "size": 16777216,
+      "crc32": "6b2473a9",
+      "md5": "148de3073727b9fd156f10afadd46864",
+      "sha1": "735062e593715f128d3aad435de0e7a899aed127"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/FIFA%2099%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/FIFA%2099%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/FIFA%2099%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/FIFA%2099%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/FIFA%2099%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/FIFA%2099%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

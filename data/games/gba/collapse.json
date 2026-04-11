@@ -11,6 +11,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Super Collapse! II",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1999-01-01",
@@ -18,5 +27,37 @@
     "wikidata": "Q5145923",
     "mobygames": 100730,
     "igdb": 49288
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Collapse! II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BCLE",
+      "size": 4194304,
+      "crc32": "f4634dbd",
+      "md5": "4529b2bfb0b9a2303c45bfc7f15f466e",
+      "sha1": "72b62b363d04a363908d5428549e84f37db6c397"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Collapse%21%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Collapse%21%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Collapse%21%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

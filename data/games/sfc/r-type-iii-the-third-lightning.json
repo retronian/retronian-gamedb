@@ -114,5 +114,205 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "R-Type III (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "5a183e62",
+      "md5": "cfbc0862e180bd09c7bcb155b8158992",
+      "sha1": "20f3fac4df152aa39b56c40694f254a0d60f1db6",
+      "sha256": "3a30a6aff66e1ab44b7f742eafde45710cd5a7165681649470c3f04afa579927"
+    },
+    {
+      "name": "R-Type III (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "642b656b",
+      "md5": "cb4a282e8a7bde5e16103c4136f9491e",
+      "sha1": "1785bcf1ef546728cce20db2fa458028e0af2eaa",
+      "sha256": "4d6c7d6d2693d8d43bafaff7582f9a94885362dadd9ee4012bbbdce1ba10c30e"
+    },
+    {
+      "name": "R-Type III - The Third Lightning (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "2a5f8d8f",
+      "md5": "8dd2247e9f98284c800468d9bdb99c23",
+      "sha1": "47a48729b03e2221e1fb433de0f3f835463dfd5f",
+      "sha256": "30aa33ee4f5ef18cd4e8335273f2b51641081b8990a19d0ce3b477556db3b642"
+    },
+    {
+      "name": "R-Type III - The Third Lightning (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "1e1ff9fe",
+      "md5": "e5cb261f53bca5a8bf70ec05c2a9e3db",
+      "sha1": "945259eba6b62e4ba124452a0c393640f4b61a09",
+      "sha256": "cf1433d0e2e14f1c1fa3ef692a8f7e1d049b35e68070af9fc049a239e6be257e"
+    },
+    {
+      "name": "R-Type III (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "f1548c77",
+      "md5": "a27610a42e2418805c86bb6b79a33b20",
+      "sha1": "785b82aef658eb7cfb75d3b5abdf8eb710c66384",
+      "sha256": "54dee1f583bf434e4944bb50a24e745814493e97754e80a37d0088cd398da778"
+    },
+    {
+      "name": "R-Type III (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "a061287f",
+      "md5": "21406b3506f773eb2874528eab8c08c5",
+      "sha1": "c93d3bf84e68fff05d1b239f93c36e05d5a64137",
+      "sha256": "91dce380dd155f7431ffcf82f213d8560c61138f4b04d188195a90c00b81046c"
+    },
+    {
+      "name": "R-Type III - The Third Lightning (Japan) (En) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "d2b466f6",
+      "md5": "6ac566248ad240b18d745e949b256cae",
+      "sha1": "4d103bc1b39ca2f03a2ae6c8dc7d6da517b7a70c",
+      "sha256": "5ff69655c81a5a7be7bad20f14397625d1abbfffd4d1c6f1d7496cddbf6b6d19"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/R-Type%20III%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/R-Type%20III%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/R-Type%20III%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/R-Type%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/R-Type%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/R-Type%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/R-Type%20III%20-%20The%20Third%20Lightning%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/R-Type%20III%20-%20The%20Third%20Lightning%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/R-Type%20III%20-%20The%20Third%20Lightning%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/R-Type%20III%20-%20The%20Third%20Lightning%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/R-Type%20III%20-%20The%20Third%20Lightning%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/R-Type%20III%20-%20The%20Third%20Lightning%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/R-Type%20III%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/R-Type%20III%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/R-Type%20III%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/R-Type%20III%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/R-Type%20III%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/R-Type%20III%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/R-Type%20III%20-%20The%20Third%20Lightning%20%28Japan%29%20%28En%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/R-Type%20III%20-%20The%20Third%20Lightning%20%28Japan%29%20%28En%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/R-Type%20III%20-%20The%20Third%20Lightning%20%28Japan%29%20%28En%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

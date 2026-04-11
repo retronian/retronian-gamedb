@@ -99,5 +99,53 @@
     "wikidata": "Q1370988",
     "mobygames": 7297,
     "igdb": 261903
-  }
+  },
+  "roms": [
+    {
+      "name": "Salamander (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "faecce20",
+      "md5": "3c60a87ef4f90b20e149330e26253f4d",
+      "sha1": "a24e3a4ff36ec9fffd5ea1f4c6b526f61f842584",
+      "sha256": "24e78ca55d4ac13c9c401ee72ba2315cd08b3eb07e785fdd75935d5594ab00d0"
+    },
+    {
+      "name": "Salamander (World) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "size": 262144,
+      "crc32": "a869a0b4",
+      "md5": "c580c62cb6227291bb56e144d50552b7",
+      "sha1": "27ff27ada609fe8ff540a7f4256786a8da116054",
+      "sha256": "9474d4588d5e81d6fe200d9df7dc2e8860fd8f49d3bd08ccff6efed4fcc9ac27"
+    },
+    {
+      "name": "Salamander (Japan) (En) (PC Engine Mini)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "83b0c3a4",
+      "md5": "7a374a4c6fbc2678e7a7536679c1292a",
+      "sha1": "64e97eb10b73dbf0efbd1ffea11c6969093d5bd1",
+      "sha256": "3dbe26a85b41dcd6f55968ad4f157776c90527d060c2a1486da712d024a63129"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Salamander%20%28World%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Salamander%20%28World%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Salamander%20%28World%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

@@ -81,5 +81,89 @@
     "wikidata": "Q577926",
     "mobygames": 373,
     "igdb": 3481
-  }
+  },
+  "roms": [
+    {
+      "name": "Earthworm Jim 2 (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-132056-50",
+      "size": 3145728,
+      "crc32": "f92a931d",
+      "md5": "eca477883ccd352442e85989051183f2",
+      "sha1": "f2f1b0c79c972e83b9ec67cbb41007434c02aad9",
+      "sha256": "5c66655de587d293eabbbe65b1d17b193101d9b764b02d25fe164774dc58d074"
+    },
+    {
+      "name": "Earthworm Jim 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70446-50",
+      "size": 3145728,
+      "crc32": "af235fdf",
+      "md5": "fa52bcb320299c6b51c7f47caa303da8",
+      "sha1": "b8e93ea8b42c688a218b83797e4a18eda659f3e0",
+      "sha256": "96cc5ac2afd6a353f03f41a4e74e8c676ee50432cac43836d6d84788ca8c9416"
+    },
+    {
+      "name": "Earthworm Jim 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-132056-00",
+      "size": 3145728,
+      "crc32": "d57f8ba7",
+      "md5": "2ed39b147fa5fa67d6d0707f54a5a078",
+      "sha1": "ef7cccfc5eafa32fc6acc71dd9b71693f64eac94",
+      "sha256": "2ad42010f092b7f481bd0079a385e8bc3e856eb29d8977803208d2bda81cf755"
+    },
+    {
+      "name": "Earthworm Jim 2 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-132056-00",
+      "size": 3145728,
+      "crc32": "69e4b38e",
+      "md5": "351255729aa091eaba3d1a6a812678b4",
+      "sha1": "f698549c35265ebbc12a5ea8a7a3a5645e938e0c",
+      "sha256": "4d274718744b2470ccb5be113103da3d54adab02817370cea2fb43f3b9b27c34"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Earthworm%20Jim%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Earthworm%20Jim%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Earthworm%20Jim%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Earthworm%20Jim%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Earthworm%20Jim%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Earthworm%20Jim%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

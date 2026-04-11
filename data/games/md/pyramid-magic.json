@@ -34,5 +34,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Pyramid Magic (Japan) (Game no Kanzume Otokuyou)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "b20272ea",
+      "md5": "b192974db87469b3966e819836d1b098",
+      "sha1": "8fa4936dabbb662f006367e9fd31595e9bfc7907",
+      "sha256": "a6fac8326eb0c9090cd94fc1fa58f03a2b0e19dc14b22a87ac4694d80bf10c14"
+    },
+    {
+      "name": "Pyramid Magic (Japan) (Sega Game Toshokan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "306d839e",
+      "md5": "3d8ade1cf3849e8d54da4f92e3de4edd",
+      "sha1": "e32382b419d63186dc4f5521045cae2145cb7975",
+      "sha256": "8cbe7e100ae7271e3eed7045b95c251ef372b99aecc3731e1853a5284464ce4d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pyramid%20Magic%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pyramid%20Magic%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pyramid%20Magic%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

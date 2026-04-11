@@ -63,5 +63,94 @@
     "wikidata": "Q3120896",
     "mobygames": 21631,
     "igdb": 6422
-  }
+  },
+  "roms": [
+    {
+      "name": "Gunstar Future Heroes (Europe) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BHGP",
+      "size": 8388608,
+      "crc32": "8c541d13",
+      "md5": "5a3db0c384d089bda397e395df4270f8",
+      "sha1": "f30ab501b09026ae045faf8573220d4f9c113376"
+    },
+    {
+      "name": "Gunstar Super Heroes (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BGXJ",
+      "size": 8388608,
+      "crc32": "6d4307f7",
+      "md5": "ed09ecf8c9d1ae485cf3c12cf2184756",
+      "sha1": "6894ed29af5a1603c72e3b55047a5c9f5d5ddb6b"
+    },
+    {
+      "name": "Gunstar Super Heroes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BHGE",
+      "size": 8388608,
+      "crc32": "7cd86b02",
+      "md5": "a5b75829debc9262b08076a94c8473eb",
+      "sha1": "5f3ce44716754bf0423aedde7cb1693cea328a0d",
+      "sha256": "392eff9282764f7ef9e6d91b677660ec105bde53dae450088a94d86e647cd171"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gunstar%20Future%20Heroes%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gunstar%20Future%20Heroes%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gunstar%20Future%20Heroes%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gunstar%20Super%20Heroes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gunstar%20Super%20Heroes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gunstar%20Super%20Heroes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gunstar%20Super%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gunstar%20Super%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gunstar%20Super%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

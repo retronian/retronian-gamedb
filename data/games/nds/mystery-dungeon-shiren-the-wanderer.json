@@ -80,5 +80,93 @@
     "wikidata": "Q7723216",
     "mobygames": 13900,
     "igdb": 78341
-  }
+  },
+  "roms": [
+    {
+      "name": "Fushigi no Dungeon - Fuurai no Shiren DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AFUJ",
+      "size": 16777216,
+      "crc32": "a901bcd5",
+      "md5": "b3768d3ab417233e1479a6b5874bf87d",
+      "sha1": "8ba86e9fd39fc82459e81e2ec35377fa8c88c76a"
+    },
+    {
+      "name": "Mystery Dungeon - Shiren the Wanderer (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFUE",
+      "size": 16777216,
+      "crc32": "1a88edd5",
+      "md5": "82f2ae98290755d6700241a174862606",
+      "sha1": "ddede1e17233ae92547a028f0785307c55188da3"
+    },
+    {
+      "name": "Mystery Dungeon - Shiren the Wanderer (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFUP",
+      "size": 16777216,
+      "crc32": "9297b5fe",
+      "md5": "2a34110f29b591d9577dfb7b41f13a88",
+      "sha1": "abffe9cfc5d63381c7432836d7224fa95857b560"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fushigi%20no%20Dungeon%20-%20Fuurai%20no%20Shiren%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fushigi%20no%20Dungeon%20-%20Fuurai%20no%20Shiren%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fushigi%20no%20Dungeon%20-%20Fuurai%20no%20Shiren%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mystery%20Dungeon%20-%20Shiren%20the%20Wanderer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mystery%20Dungeon%20-%20Shiren%20the%20Wanderer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mystery%20Dungeon%20-%20Shiren%20the%20Wanderer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mystery%20Dungeon%20-%20Shiren%20the%20Wanderer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mystery%20Dungeon%20-%20Shiren%20the%20Wanderer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mystery%20Dungeon%20-%20Shiren%20the%20Wanderer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

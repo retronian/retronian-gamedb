@@ -54,5 +54,104 @@
     "wikidata": "Q5130099",
     "mobygames": 23595,
     "igdb": 42623
-  }
+  },
+  "roms": [
+    {
+      "name": "Claymates (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "3a571132",
+      "md5": "f7e716a3de695d65e85f920668f8e198",
+      "sha1": "32fb2c9f9255ae2927ce720c78cef90bb1200b6b",
+      "sha256": "5e1cce5ccedb20eff9d188eca445e54bd413db63570fd281f76b3ab56abffd82"
+    },
+    {
+      "name": "Claymates (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "7ad5ccac",
+      "md5": "40b89fa020786f323ab5a36dde4686eb",
+      "sha1": "d136279ce3eb62a06f5762167db588c9d60f7441",
+      "sha256": "6d9cd7f0cda3c0a82ed3f6a92cbbba4fe8365438e0a7867ad1cae2044d1738eb"
+    },
+    {
+      "name": "Claymates (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "5c00f14c",
+      "md5": "b26ab69028f17bae7a7f4ac951d0ce74",
+      "sha1": "c69a66b9a3e25be98a3a12641fceeda621e1ab6d",
+      "sha256": "1d19e7fbe32eb26181c95fcbb028a5d64797ab65b86568eb059c60b8acf0d702"
+    },
+    {
+      "name": "Claymates (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "864d7291",
+      "md5": "d53d9b489f19161765c051774b11e522",
+      "sha1": "cde2a93abdfa75f35f75813922888aad31e651b7",
+      "sha256": "0a6e1ae651276b1edc689c73df51b1c2c5c9db2fb6c5ee4065b49be00995ca20"
+    },
+    {
+      "name": "Claymates (Europe) (Beta) (Alt)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "f0330184",
+      "md5": "627cd806204f77578889cc6774371662",
+      "sha1": "9445394205d726ee5e429c9b5cd436cf86a40768",
+      "sha256": "88124da2567daf15158b003ede5491670fddadebbcc874d29c604b784f1ca3d0"
+    },
+    {
+      "name": "Claymates (World) (Evercade)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "296720a1",
+      "md5": "3894ee329acddddaf192e98ae03ad52a",
+      "sha1": "7b6b71604791cbe9eff7a206c4ffae6bb6ac1cde",
+      "sha256": "e2f335e34ae1b3c0d4993bcd17a589fb4fae2c360bc3d7823ba9d8159e520cfa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Claymates%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Claymates%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Claymates%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Claymates%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Claymates%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Claymates%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -54,5 +54,65 @@
     "wikidata": "Q2296575",
     "mobygames": 73370,
     "igdb": 229190
-  }
+  },
+  "roms": [
+    {
+      "name": "Madden NFL 08 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A5UE",
+      "size": 33554432,
+      "crc32": "c34e2e1d",
+      "md5": "c7cd84ce2f51995287351f524188ec40",
+      "sha1": "019355f118bf20c45650dcbcf9f5e61c27b6ca44"
+    },
+    {
+      "name": "Madden NFL 08 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A5UP",
+      "size": 33554432,
+      "crc32": "65f7564a",
+      "md5": "991dad9a657b76822e687764069481f9",
+      "sha1": "5600fb6f4b2749489e14175a96172fe10c9d16dc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Madden%20NFL%2008%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Madden%20NFL%2008%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Madden%20NFL%2008%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Madden%20NFL%2008%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Madden%20NFL%2008%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Madden%20NFL%2008%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

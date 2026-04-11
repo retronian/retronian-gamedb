@@ -18,5 +18,65 @@
     "wikidata": "Q7805036",
     "mobygames": 13020,
     "igdb": 18536
-  }
+  },
+  "roms": [
+    {
+      "name": "Time Lord (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "b6739f42",
+      "md5": "835cfd88698f90e3a4cbac33bc30edbd",
+      "sha1": "bf5797c91920f7d14c1c30a01ab585e06769725f",
+      "sha256": "b4e9d8400506260712a8e902b1158b83d21705b885b1204c9150439f5a57dfec"
+    },
+    {
+      "name": "Time Lord (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "74bd0627",
+      "md5": "50ca78adf8ace2befcc47de9f6bf60a9",
+      "sha1": "d851e1b8d20292cc6650d9692cc26657bae896c9",
+      "sha256": "d8ac2828118c8375de841e20a5384b7bdaa9184bb668bc3a2625f0d638f4d8ff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Time%20Lord%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Time%20Lord%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Time%20Lord%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Time%20Lord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Time%20Lord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Time%20Lord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

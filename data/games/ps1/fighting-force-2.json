@@ -45,5 +45,41 @@
     "wikidata": "Q5447900",
     "mobygames": 5647,
     "igdb": 11615
-  }
+  },
+  "roms": [
+    {
+      "name": "Fighting Force 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 240168224,
+      "crc32": "f26c6a96",
+      "md5": "d2c71b38fd81be9610941605825b4d1c",
+      "sha1": "e4237b1711c533b50e10dbf12dda273a626c1008"
+    },
+    {
+      "name": "Fighting Force 2 (Germany)",
+      "source": "no_intro",
+      "size": 188333680,
+      "crc32": "7e682355",
+      "md5": "c985571a589d9f214fa7979297424fa6",
+      "sha1": "357394f4e5e590401b4c4ee97ebb699678ae7ad7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Fighting%20Force%202%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Fighting%20Force%202%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Fighting%20Force%202%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

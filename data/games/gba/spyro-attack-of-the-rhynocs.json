@@ -45,5 +45,66 @@
     "wikidata": "Q2569809",
     "mobygames": 12096,
     "igdb": 1589
-  }
+  },
+  "roms": [
+    {
+      "name": "Spyro - Attack of the Rhynocs (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AOWE",
+      "size": 8388608,
+      "crc32": "13f10a1e",
+      "md5": "4a15b07b4dc292e9003c377c55372287",
+      "sha1": "286fe14e15bc34e3605186876878e655ef43294c",
+      "sha256": "65a929eae6786ac3b6018bafd1c48e2ade99883655e542e5b4e949e95ce6f28b"
+    },
+    {
+      "name": "Spyro Adventure (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AOWP",
+      "size": 8388608,
+      "crc32": "1f62d660",
+      "md5": "36e7d6e276c0e4f56984a2f8491b9364",
+      "sha1": "0f4aa43d6e0ad5b5007a6114f679ee0fdf77793f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spyro%20-%20Attack%20of%20the%20Rhynocs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spyro%20-%20Attack%20of%20the%20Rhynocs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spyro%20-%20Attack%20of%20the%20Rhynocs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spyro%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spyro%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spyro%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

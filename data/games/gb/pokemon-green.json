@@ -105,5 +105,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Monsters - Midori (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "baeacd2b",
+      "md5": "e30ffbab1f239f09b226477d84db1368",
+      "sha1": "82c0eef40a5e2423699d9fd8ba15dfaa8b51d196",
+      "sha256": "6576b4e0979e93d4a6fa02db893c294b7aeab3b841b1acc8658bc10b3554f33c"
+    },
+    {
+      "name": "Pocket Monsters - Midori (Japan) (Rev 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "37ae8dc4",
+      "md5": "16ddd8897092936fbc0e286c6a6b23a2",
+      "sha1": "4b97cd44aa3f0dd290bfe7b3ac17b7bd8270897b",
+      "sha256": "3f0dc460ca8d06be1c9ac96307c939c0ea7baa366b40c2f1f4ad63242b6c4816"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pocket%20Monsters%20-%20Midori%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Monsters%20-%20Midori%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Monsters%20-%20Midori%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pocket%20Monsters%20-%20Midori%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Monsters%20-%20Midori%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Monsters%20-%20Midori%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

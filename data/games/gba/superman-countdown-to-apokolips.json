@@ -36,5 +36,65 @@
     "wikidata": "Q3504715",
     "mobygames": 9025,
     "igdb": 49216
-  }
+  },
+  "roms": [
+    {
+      "name": "Superman - Countdown to Apokolips (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASUE",
+      "size": 8388608,
+      "crc32": "43017d47",
+      "md5": "f74b2b6665c687f5ec1ef2ed21120ee2",
+      "sha1": "d10c346f4a818443454e565752a9165822160936"
+    },
+    {
+      "name": "Superman - Countdown to Apokolips (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASUP",
+      "size": 8388608,
+      "crc32": "2bf26a56",
+      "md5": "550247e8a3045024392bcabc0ea124d2",
+      "sha1": "b42cb62f1cf7bf8db3553e02ea448077bf5536ef"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Superman%20-%20Countdown%20to%20Apokolips%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Superman%20-%20Countdown%20to%20Apokolips%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Superman%20-%20Countdown%20to%20Apokolips%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Superman%20-%20Countdown%20to%20Apokolips%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Superman%20-%20Countdown%20to%20Apokolips%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Superman%20-%20Countdown%20to%20Apokolips%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -18,5 +18,77 @@
     "wikidata": "Q16266958",
     "mobygames": 75153,
     "igdb": 3551
-  }
+  },
+  "roms": [
+    {
+      "name": "NBA Jam 99 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NB9P",
+      "size": 12582912,
+      "crc32": "90e4275b",
+      "md5": "be72be370bc0a76d403ff2b9ed2a9173",
+      "sha1": "cf6c46785b75f9bc1d5b1fd08dafb72dd595f68a",
+      "sha256": "f37cf583be0b9b5b94c7b7725ba219b09c90a1e33dc80f77b139fe2ca121c71e"
+    },
+    {
+      "name": "NBA Jam 99 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NB9E",
+      "size": 12582912,
+      "crc32": "559cd6b1",
+      "md5": "adbe5ca10f659af2be712038e8522704",
+      "sha1": "2e306d2123ad4220e672d8a07874ca7b515d57e0"
+    },
+    {
+      "name": "NBA Jam 99 (USA) (Beta) (1998-09-25)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 16777216,
+      "crc32": "8bf6a686",
+      "md5": "2fed0445c97a9d293a3fba5c786b2c39",
+      "sha1": "12d0caed77721df269fe3db96ae1bc9733b9d45f",
+      "sha256": "ea9305d5d0c1005809552abaf1c18d108bd43967c91b8852b7e8b8f7870c2663"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NBA%20Jam%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NBA%20Jam%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NBA%20Jam%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NBA%20Jam%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NBA%20Jam%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NBA%20Jam%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

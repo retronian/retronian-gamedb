@@ -18,5 +18,65 @@
     "wikidata": "Q4896992",
     "mobygames": 87396,
     "igdb": 47930
-  }
+  },
+  "roms": [
+    {
+      "name": "Best of Tests DS (Europe) (En,Fr,De,Es,It,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YT2P",
+      "size": 8388608,
+      "crc32": "b0260e7c",
+      "md5": "eb53f1f08c677686c5afeb15b7316a36",
+      "sha1": "49993bd2ab3d4f06832c98e590ad8569af439354"
+    },
+    {
+      "name": "Best of Tests DS (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YT2E",
+      "size": 8388608,
+      "crc32": "c423097d",
+      "md5": "be6d9108bc9930fdf1829e86d658ea93",
+      "sha1": "a69ab7bbc431ac186f5a0019c029675f716fe177"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Best%20of%20Tests%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Best%20of%20Tests%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Best%20of%20Tests%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Best%20of%20Tests%20DS%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Best%20of%20Tests%20DS%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Best%20of%20Tests%20DS%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -43,5 +43,103 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Batman Returns (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "42f98e71",
+      "md5": "9f1f54ee804644b2f9c979e5f7ee69e0",
+      "sha1": "79cb69f300c58b3eec38e14a1f85ccba38c8c781",
+      "sha256": "ffd6668607ee279d79ef3f2b35713b99f8b046a53c608a82df9d37ef39bb079b"
+    },
+    {
+      "name": "Batman Returns (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "5bed3661",
+      "md5": "672b5c06058ee8d1c28ae36b44eb1d12",
+      "sha1": "ea430d7190d3d40c220f0c972b013ec5e99aede1",
+      "sha256": "df3d9fd835190b0c51f642dfa8d66baba9b5d0f25bec718b1611dc6d78ae0b8b"
+    },
+    {
+      "name": "Batman Returns (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "9ce7d5ba",
+      "md5": "914e7c3c7b9637f25b7ecec14ea226a9",
+      "sha1": "3bea4be499657acc2aeb0090fa9a00e4b15a7430",
+      "sha256": "439295203cb15543d0b8b0361f1d71173e9602ced2357a8ccc2d0137da48d67e"
+    },
+    {
+      "name": "Batman Returns (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e87dfdf6",
+      "md5": "5ef8e1f3e88c86f149838c569a0c0328",
+      "sha1": "087f414d51c999e25ced561fe21503c559d8050f",
+      "sha256": "f8d5c51f74df33edc827fbf8df7aab70160770ab0a896db6e59438ad9208cc6e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Batman%20Returns%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Batman%20Returns%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Batman%20Returns%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Batman%20Returns%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Batman%20Returns%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Batman%20Returns%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Batman%20Returns%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Batman%20Returns%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Batman%20Returns%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

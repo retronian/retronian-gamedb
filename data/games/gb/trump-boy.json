@@ -33,5 +33,37 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1990-03-29"
+  "first_release_date": "1990-03-29",
+  "roms": [
+    {
+      "name": "Trump Boy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "fd16ac45",
+      "md5": "ce9fbfc61ec6310a524cec0e89a9e487",
+      "sha1": "192ccf904e028a44d0d959bfae8fe4a9dcd4394e",
+      "sha256": "35bf97d209d2ddeec74145651c11218147a46400622d357edb2113d2fcea88bd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Trump%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Trump%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Trump%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

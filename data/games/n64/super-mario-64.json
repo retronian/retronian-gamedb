@@ -106,5 +106,134 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Super Mario 64 (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NSMP",
+      "size": 8388608,
+      "crc32": "03048de6",
+      "md5": "45676429ef6b90e65b517129b700308e",
+      "sha1": "4ac5721683d0e0b6bbb561b58a71740845dceea9",
+      "sha256": "c792e5ebcba34c8d98c0c44cf29747c8ee67e7b907fcc77887f9ff2523f80572"
+    },
+    {
+      "name": "Super Mario 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NSMJ",
+      "size": 8388608,
+      "crc32": "dd801954",
+      "md5": "85d61f5525af708c9f1e84dce6dc10e9",
+      "sha1": "8a20a5c83d6ceb0f0506cfc9fa20d8f438cafe51",
+      "sha256": "9cf7a80db321b07a8d461fe536c02c87b7412433953891cdec9191bfad2db317"
+    },
+    {
+      "name": "Super Mario 64 (Japan) (Rev 3) (Shindou Edition)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NSMJ",
+      "size": 8388608,
+      "crc32": "a1e15117",
+      "md5": "2d727c3278aa232d94f2fb45aec4d303",
+      "sha1": "3f319ae697533a255a1003d09202379d78d5a2e0",
+      "sha256": "f8807b5e28f1b1a31c5d3675d23ece73f949ccb553dcbb07972666a1e76adfa2"
+    },
+    {
+      "name": "Super Mario 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NSME",
+      "size": 8388608,
+      "crc32": "3ce60709",
+      "md5": "20b854b239203baf6c961b850a4a51a2",
+      "sha1": "9bef1128717f958171a4afac3ed78ee2bb4e86ce",
+      "sha256": "17ce077343c6133f8c9f2d6d6d9a4ab62c8cd2aa57c40aea1f490b4c8bb21d91"
+    },
+    {
+      "name": "Super Mario 64 (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 8388608,
+      "crc32": "35c02d9f",
+      "md5": "5c653198036c372df77289da22f790b8",
+      "sha1": "37f5ed5394d885de2aff705074bd76ddc95d3cc9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Super%20Mario%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Super%20Mario%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Super%20Mario%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Super%20Mario%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Super%20Mario%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Super%20Mario%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Super%20Mario%2064%20%28Japan%29%20%28Rev%203%29%20%28Shindou%20Edition%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Super%20Mario%2064%20%28Japan%29%20%28Rev%203%29%20%28Shindou%20Edition%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Super%20Mario%2064%20%28Japan%29%20%28Rev%203%29%20%28Shindou%20Edition%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Super%20Mario%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Super%20Mario%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Super%20Mario%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

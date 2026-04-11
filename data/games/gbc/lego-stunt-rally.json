@@ -27,5 +27,63 @@
     "wikidata": "Q110244234",
     "mobygames": 81123,
     "igdb": 265050
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Stunt Rally (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "05cc01fb",
+      "md5": "3d75b453859c2c6f1c84b68ca987adda",
+      "sha1": "32dc01db6a5af637e96a6d83895c352d920fba04"
+    },
+    {
+      "name": "LEGO Stunt Rally (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "da084760",
+      "md5": "c468c6d714a2d86e2f68bdcdbb40b658",
+      "sha1": "106cb59ac42c3573dcf27b448503ab4d3029d90a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/LEGO%20Stunt%20Rally%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/LEGO%20Stunt%20Rally%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/LEGO%20Stunt%20Rally%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/LEGO%20Stunt%20Rally%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/LEGO%20Stunt%20Rally%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/LEGO%20Stunt%20Rally%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

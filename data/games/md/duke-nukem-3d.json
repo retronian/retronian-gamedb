@@ -63,5 +63,48 @@
     "wikidata": "Q728061",
     "mobygames": 365,
     "igdb": 262573
-  }
+  },
+  "roms": [
+    {
+      "name": "Duke Nukem 3D (USA) (Piko Interactive)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "7a851b5a",
+      "md5": "f275ad208fb1e9d0b21d1391fdfe4268",
+      "sha1": "490aa19321718033a6fd2d4dc434e723f3d91d63",
+      "sha256": "eb0499ee17ace07a23f14eaff8e618ba426a968e54da7b68d150f881fe43faa4"
+    },
+    {
+      "name": "Duke Nukem 3D (Brazil) (En)",
+      "source": "no_intro",
+      "region": "br",
+      "serial": "T-274026-01",
+      "size": 4194304,
+      "crc32": "6bd2accb",
+      "md5": "5093ad6641abb0c3757d24da094a51e6",
+      "sha1": "a4663f2b96787a92db604a92491fa27e2b5ced9e",
+      "sha256": "5bf6f73fe1d7af1d79d995936adbcb11b2cdfb4d664e77616a3c37a010c12c14"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Duke%20Nukem%203D%20%28Brazil%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Duke%20Nukem%203D%20%28Brazil%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Duke%20Nukem%203D%20%28Brazil%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    }
+  ]
 }

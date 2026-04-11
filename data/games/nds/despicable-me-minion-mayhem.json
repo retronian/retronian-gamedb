@@ -26,5 +26,49 @@
     "wikidata": "Q125168044",
     "mobygames": 87829,
     "igdb": 80085
-  }
+  },
+  "roms": [
+    {
+      "name": "Despicable Me - Minion Mayhem (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BDWP",
+      "size": 33554432,
+      "crc32": "4b95584d",
+      "md5": "da3f5e0f589317e33c5a1713bf2d88b7",
+      "sha1": "1912f10414f039bd47b6a69f70e74665ebea1276",
+      "sha256": "9463491c91c36641480bbafcad38f6ef66743f905a24f7a466dacfd4cfe2e7ba"
+    },
+    {
+      "name": "Despicable Me - Minion Mayhem (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BDWP",
+      "size": 33554432,
+      "crc32": "c72c9b7f",
+      "md5": "ec2c97cba7df59dbb15341655fe1f521",
+      "sha1": "fc032fb81e58c18298d5370137791d6bdae729ef",
+      "sha256": "c9be57780616f077b5b185b79968fdde508790375df9f99e777a8659c4984d2b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Despicable%20Me%20-%20Minion%20Mayhem%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Despicable%20Me%20-%20Minion%20Mayhem%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Despicable%20Me%20-%20Minion%20Mayhem%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -18,5 +18,37 @@
     "wikidata": "Q100152713",
     "mobygames": 49260,
     "igdb": 320767
-  }
+  },
+  "roms": [
+    {
+      "name": "Family Feud (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B2FE",
+      "size": 4194304,
+      "crc32": "ec36a3df",
+      "md5": "079f35bf49c4c64aca46ac5b82c358e6",
+      "sha1": "37262e445c866f67cf0ff77cd64e2ce82454125a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Family%20Feud%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Family%20Feud%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Family%20Feud%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

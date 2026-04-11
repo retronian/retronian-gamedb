@@ -45,5 +45,48 @@
     "wikidata": "Q4672963",
     "mobygames": 30757,
     "igdb": 6297
-  }
+  },
+  "roms": [
+    {
+      "name": "Ace Combat Advance (Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 4194304,
+      "crc32": "76da5c78",
+      "md5": "00843bdde7eb18498d7d112d27ad5fad",
+      "sha1": "6e5c57049866596db0e977b80e499b868e0394c2",
+      "sha256": "280ee65b5cf5602996c6afa034fafd5f2a160a2cabbcbaa3b43156860a3cd111"
+    },
+    {
+      "name": "Ace Combat Advance (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BAEE",
+      "size": 4194304,
+      "crc32": "43f5e157",
+      "md5": "4e46dd3ae5c9c70c49587d093517049a",
+      "sha1": "856a08e8f60f817b96add5bf2f6db186bea832ef",
+      "sha256": "1b30008304ed8cd4434c685075d954f2a95f7aab6165540fb62e2ac35da08e6e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ace%20Combat%20Advance%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ace%20Combat%20Advance%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ace%20Combat%20Advance%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

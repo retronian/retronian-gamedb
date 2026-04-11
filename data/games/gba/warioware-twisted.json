@@ -123,5 +123,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mawaru - Made in Wario (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "RZWJ",
+      "size": 16777216,
+      "crc32": "e69964f1",
+      "md5": "d76d992d936c308b7d1bb70ac71a1c37",
+      "sha1": "a389fa50e2e842b264b980cbe30e980c69d93a5b",
+      "sha256": "1470eb997cb6db237086032dcb122792ed7d9a25ce6a5e782be10a20c3ecd01e"
+    },
+    {
+      "name": "WarioWare - Twisted! (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "RZWE",
+      "size": 16777216,
+      "crc32": "cb4e844b",
+      "md5": "89579f4dfe1ed24a7cd16a6a61a72a17",
+      "sha1": "f0102d0d6f7596fe853d5d0a94682718278e083a",
+      "sha256": "ee1f05e0dde1ca1c3711cc7efddc40e13418b45edc213f70521284444ff87605"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mawaru%20-%20Made%20in%20Wario%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mawaru%20-%20Made%20in%20Wario%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mawaru%20-%20Made%20in%20Wario%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/WarioWare%20-%20Twisted%21%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/WarioWare%20-%20Twisted%21%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/WarioWare%20-%20Twisted%21%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

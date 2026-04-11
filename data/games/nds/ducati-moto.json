@@ -17,5 +17,65 @@
   "external_ids": {
     "wikidata": "Q5311240",
     "mobygames": 87882
-  }
+  },
+  "roms": [
+    {
+      "name": "Ducati Moto (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YDHE",
+      "size": 33554432,
+      "crc32": "b91c652c",
+      "md5": "ff3ac954b757d79b4afb85ce47a4d2e4",
+      "sha1": "04a4263f07c575cd25f7082caf82b0eda5db003e"
+    },
+    {
+      "name": "Ducati Moto (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YDHP",
+      "size": 33554432,
+      "crc32": "0eb15941",
+      "md5": "00a64733c1d95988fd768af679579065",
+      "sha1": "f80d7ce0896a4cb7409b8cd5f70f74980a01a654"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ducati%20Moto%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ducati%20Moto%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ducati%20Moto%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ducati%20Moto%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ducati%20Moto%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ducati%20Moto%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

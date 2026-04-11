@@ -44,5 +44,37 @@
   "external_ids": {
     "wikidata": "Q7038892",
     "igdb": 48967
-  }
+  },
+  "roms": [
+    {
+      "name": "Ninja Boy (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "59d3e2ad",
+      "md5": "28c1ef075f37bcf4951ac11385a1104f",
+      "sha1": "acd93f152574a47e2bef3ba739f722bec90badef",
+      "sha256": "f513d07ace08618cb2d8a39471b617982f23e0b4f7814a62809b9969ff41635b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ninja%20Boy%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ninja%20Boy%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ninja%20Boy%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

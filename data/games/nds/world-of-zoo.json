@@ -36,5 +36,53 @@
     "wikidata": "Q16258858",
     "mobygames": 43285,
     "igdb": 5287
-  }
+  },
+  "roms": [
+    {
+      "name": "World of Zoo (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZOP",
+      "size": 67108864,
+      "crc32": "54f1a6d0",
+      "md5": "0b418c66c4bc3e8e3a3886e8adab8361",
+      "sha1": "ab81086ead4e97309c1450b1d4fa6ef4a17c1c95"
+    },
+    {
+      "name": "World of Zoo (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZOE",
+      "size": 67108864,
+      "crc32": "c0fccccd",
+      "md5": "a3e78a231d406efcf330441c3843314c",
+      "sha1": "ee1fcc9a2a85fff8e61beff76b149322e020a72d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/World%20of%20Zoo%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/World%20of%20Zoo%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/World%20of%20Zoo%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/World%20of%20Zoo%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

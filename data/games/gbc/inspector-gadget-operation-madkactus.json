@@ -27,5 +27,74 @@
     "wikidata": "Q9359604",
     "mobygames": 38822,
     "igdb": 4862
-  }
+  },
+  "roms": [
+    {
+      "name": "Inspector Gadget - Operation Madkactus (Europe) (Fr) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BIGP",
+      "size": 1048576,
+      "crc32": "93ec798b",
+      "md5": "fe22797c8098ac1c18a80875e29aa09b",
+      "sha1": "8444ff17aa3f865eec33cc49398b450e345376c3",
+      "sha256": "2a78c59734301f6fa1bb81256d1ecd6be913087ec3c6d4e919eff6322aeef0eb"
+    },
+    {
+      "name": "Inspector Gadget - Operation Madkactus (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "3390b056",
+      "md5": "8b9a9f5125206b262348356be15bf598",
+      "sha1": "55c02b81fa854938ca3cb3e5b725a6a72f711e7b"
+    },
+    {
+      "name": "Inspector Gadget - Operation Madkactus (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "1af0b489",
+      "md5": "f9594360b2a4ed8745b63304063baabb",
+      "sha1": "b0fa81a35e605948df3b7f1fcb5893bab99d9d6a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Inspector%20Gadget%20-%20Operation%20Madkactus%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Inspector%20Gadget%20-%20Operation%20Madkactus%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Inspector%20Gadget%20-%20Operation%20Madkactus%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Inspector%20Gadget%20-%20Operation%20Madkactus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Inspector%20Gadget%20-%20Operation%20Madkactus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Inspector%20Gadget%20-%20Operation%20Madkactus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

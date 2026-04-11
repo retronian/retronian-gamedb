@@ -18,5 +18,67 @@
     "wikidata": "Q3516512",
     "mobygames": 14988,
     "igdb": 3345
-  }
+  },
+  "roms": [
+    {
+      "name": "Taz Express (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NTXP",
+      "size": 12582912,
+      "crc32": "0712c306",
+      "md5": "192b715e8bc5972a4986df21dc8bf357",
+      "sha1": "e1d8121986652ed180505af21456c180c8b29fab",
+      "sha256": "5f3dcf40286aa1bb914b5fc3b6672b8db59d7a75e6e37f8941bae0dd87860cd8"
+    },
+    {
+      "name": "Taz Express (USA) (Proto) (2000-05-15)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTXE",
+      "size": 16777216,
+      "crc32": "43fbf0b0",
+      "md5": "968815d5696961f672e253a34831bfa6",
+      "sha1": "5fbf677ce97e3dade5c030b13ebdf7dca60ac533",
+      "sha256": "1025bbcd7ea1ba795eb7a726a74c99ed38fdeed07b124d230d96ba6eca8140a6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Taz%20Express%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Taz%20Express%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Taz%20Express%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Taz%20Express%20%28USA%29%20%28Proto%29%20%282000-05-15%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Taz%20Express%20%28USA%29%20%28Proto%29%20%282000-05-15%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Taz%20Express%20%28USA%29%20%28Proto%29%20%282000-05-15%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

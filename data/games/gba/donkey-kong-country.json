@@ -96,5 +96,96 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Donkey Kong Country (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A5NE",
+      "size": 8388608,
+      "crc32": "12f7a968",
+      "md5": "b3806462180cda73d1f8f48d72236394",
+      "sha1": "fcc62356a3b7157ca7dda1398c9bf1af1dd31265",
+      "sha256": "3d624dba4b99aca263e70ddb041e448c9d41ea43b52ffed320198e1e12d8980e"
+    },
+    {
+      "name": "Donkey Kong Country (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A5NP",
+      "size": 8388608,
+      "crc32": "41d277fe",
+      "md5": "c1fb9badf816b6d7836f4990f8119815",
+      "sha1": "8995f0be99a9cff66474a8975b8499bd69fb4c45",
+      "sha256": "db7b3c1f402fda48d26975130854e1d6e8d367bd8a9ef7bcd9fca866da82b83f"
+    },
+    {
+      "name": "Super Donkey Kong (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A5NJ",
+      "size": 8388608,
+      "crc32": "2206b04d",
+      "md5": "67b7e6fab2a954aba194be3c60aeacee",
+      "sha1": "fca4288a99046dfd7dd193ee9f4f8114e3758fcd",
+      "sha256": "a53ea8669b3e77fd7d8aec11bfdb8960ff24af968dafeadea9e6017c62f56ed6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Donkey%20Kong%20Country%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Donkey%20Kong%20Country%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Donkey%20Kong%20Country%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Donkey%20Kong%20Country%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Donkey%20Kong%20Country%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Donkey%20Kong%20Country%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Donkey%20Kong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Donkey%20Kong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Donkey%20Kong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

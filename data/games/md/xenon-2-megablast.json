@@ -72,5 +72,48 @@
     "wikidata": "Q1738113",
     "mobygames": 277,
     "igdb": 12236
-  }
+  },
+  "roms": [
+    {
+      "name": "Xenon 2 - Megablast (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "t-70076-50",
+      "size": 524288,
+      "crc32": "59abe7f9",
+      "md5": "3d1d9912136bf271332eac1c6e56fa2b",
+      "sha1": "055b554f7d61ed671eddc385bce950b2baa32249",
+      "sha256": "e24bf25101c0240aab31c3e45c26ae157d78ffbf4afc1009172ac4d6efa60040"
+    },
+    {
+      "name": "Xenon 2 - Megablast (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "t-70076-50",
+      "size": 524288,
+      "crc32": "d8298eb9",
+      "md5": "c4b2d08a6b3746e259c0e0808129dfab",
+      "sha1": "db47834c817838bc49306f84ecda6803917cf060",
+      "sha256": "9e8e6ce8452fb8417c5ab2a732833f13883cc4733093a7418eabe27de650b2f8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Xenon%202%20-%20Megablast%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Xenon%202%20-%20Megablast%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Xenon%202%20-%20Megablast%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

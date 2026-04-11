@@ -80,5 +80,38 @@
     "wikidata": "Q2356104",
     "mobygames": 9082,
     "igdb": 3729
-  }
+  },
+  "roms": [
+    {
+      "name": "Kirby - Tilt 'n' Tumble (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "KTNE",
+      "size": 1048576,
+      "crc32": "e541acf1",
+      "md5": "f2e24776d93082362c9b435abc167d89",
+      "sha1": "6ab8d666e2bebbb3fee7796c8968aab2ea21b8f9",
+      "sha256": "6cf412aeb1ec60da1a401019d95dee1e76f0297154a7f06b55fb1657a71ed44f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Kirby%20-%20Tilt%20%27n%27%20Tumble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Kirby%20-%20Tilt%20%27n%27%20Tumble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Kirby%20-%20Tilt%20%27n%27%20Tumble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

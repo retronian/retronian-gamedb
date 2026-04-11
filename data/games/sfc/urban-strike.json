@@ -18,5 +18,65 @@
     "wikidata": "Q1854477",
     "mobygames": 5780,
     "igdb": 4492
-  }
+  },
+  "roms": [
+    {
+      "name": "Urban Strike (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "de6e4fa7",
+      "md5": "ba062180af345b7d546b38e21c38e982",
+      "sha1": "44284af9ddf64b0d904d7952fe770adb6d1de7db",
+      "sha256": "fc8c611bc46c850515a933d4388e2123e20ab24a3a3d3c1ac95afdc76c82c3d4"
+    },
+    {
+      "name": "Urban Strike (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "b9bf7990",
+      "md5": "09fe7b4b78290b624fcc54ea79cf6034",
+      "sha1": "6ba4a5b8ba4552b6d1a6b8db20182092e5c8f884",
+      "sha256": "dcb33a89fcb8d8ca8f3a467034728ad6375273d8eb51a60418ca51ef745e9b38"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Urban%20Strike%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Urban%20Strike%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Urban%20Strike%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Urban%20Strike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Urban%20Strike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Urban%20Strike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

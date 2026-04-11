@@ -81,5 +81,66 @@
     "wikidata": "Q598150",
     "mobygames": 13512,
     "igdb": 248500
-  }
+  },
+  "roms": [
+    {
+      "name": "Shrek 2 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSEE",
+      "size": 8388608,
+      "crc32": "52ff42d4",
+      "md5": "9ef8e30824db751f3d42e048514a3624",
+      "sha1": "d3c3201f4a401b337009e667f5b001d5e12ece83",
+      "sha256": "2ec32cb8c69ff8bbe01b7039ee001105f92ee686b251d26060f9bdb6751f3b80"
+    },
+    {
+      "name": "Shrek 2 (Europe) (Fr,De,Es,It,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSEX",
+      "size": 8388608,
+      "crc32": "ac1d8c97",
+      "md5": "2e9b5ec5bb6be065d2f52af20bf8aca3",
+      "sha1": "1f28ab954789f3946e851d5a132cda4edb9b74dd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shrek%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shrek%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shrek%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shrek%202%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shrek%202%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shrek%202%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

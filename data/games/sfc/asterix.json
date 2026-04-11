@@ -53,5 +53,47 @@
   "external_ids": {
     "wikidata": "Q2442526",
     "mobygames": 17163
-  }
+  },
+  "roms": [
+    {
+      "name": "Asterix (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "5ddedc28",
+      "md5": "b4fc60315646bfb9280d7edc4e59b5cc",
+      "sha1": "d684958da04b909661371d7d5b657a6beb213629",
+      "sha256": "d54d2703e474d7f469766d2d095ffcbbcab893e3fe58bbbcc57e24082a44bb40"
+    },
+    {
+      "name": "Asterix (Europe) (En,Fr,De,Es) (Beta) (1993-03-11)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "766dc9d9",
+      "md5": "58129a1863363a139ddcec9c4d052726",
+      "sha1": "bf53366b70de01f4d99b068a0eaf7495fbeaa273",
+      "sha256": "071b28e910f41553f0dfdc57a889650f152010ebb00779d294dd32d6aa2cc4bd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Asterix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Asterix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Asterix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

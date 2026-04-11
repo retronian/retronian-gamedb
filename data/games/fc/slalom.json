@@ -63,5 +63,65 @@
     "wikidata": "Q6296588",
     "mobygames": 8392,
     "igdb": 14589
-  }
+  },
+  "roms": [
+    {
+      "name": "Slalom (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 40976,
+      "crc32": "1f50af48",
+      "md5": "0fc515f26bb742e68a5dc4b22f4aef44",
+      "sha1": "680070b7c6797fa2ecbd0b1359cd271de44d9a92",
+      "sha256": "1a854400e1c5b5bc0e90c91b3927b01d9ea987ce9ff609402f782444c67b4029"
+    },
+    {
+      "name": "Slalom (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 40976,
+      "crc32": "fc0dd8d3",
+      "md5": "d1b48035f8cbcdc1cca36cce4816672e",
+      "sha1": "ad1e14b5a749853bba71bb9f13320ea9c35e37a3",
+      "sha256": "1c14e5d97b990822ce0466084092692d5085ff4892a2b0d37fd5c59f9c5a1272"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Slalom%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Slalom%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Slalom%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Slalom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Slalom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Slalom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

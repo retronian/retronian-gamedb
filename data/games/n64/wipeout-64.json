@@ -54,5 +54,82 @@
     "wikidata": "Q3015143",
     "mobygames": 9760,
     "igdb": 1539
-  }
+  },
+  "roms": [
+    {
+      "name": "Wipeout 64 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NWPP",
+      "size": 8388608,
+      "crc32": "38111048",
+      "md5": "5783373634b11f81c86908c3d81ca988",
+      "sha1": "3eef8ec7d0009ee67d604aaca2bb61b7397ba862"
+    },
+    {
+      "name": "Wipeout 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NWPE",
+      "size": 8388608,
+      "crc32": "4888d0fe",
+      "md5": "73c6d87dbe50f73f3b44e0f237a546d7",
+      "sha1": "54e4795aba4fc326f79d0703ffdb51a212dd4b5c",
+      "sha256": "fdcf4ae70d90abef4f299b04664e009a967e55f97a065b43f596b749dd7d6b15"
+    },
+    {
+      "name": "Wipeout 64 (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NWPP",
+      "size": 16777216,
+      "crc32": "944b258f",
+      "md5": "7260da1cecd0d8844c5e29aa63476def",
+      "sha1": "a05a1f4c9f4ee67159db0cd15c37e05f255d35d0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Wipeout%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Wipeout%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Wipeout%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Wipeout%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Wipeout%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Wipeout%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Wipeout%2064%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

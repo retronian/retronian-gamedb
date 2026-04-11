@@ -36,5 +36,65 @@
     "wikidata": "Q1880723",
     "mobygames": 34860,
     "igdb": 49225
-  }
+  },
+  "roms": [
+    {
+      "name": "Scooby-Doo! - Mystery Mayhem (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BMME",
+      "size": 4194304,
+      "crc32": "3d389a12",
+      "md5": "c8e45043d61075471f8ee3d05862d960",
+      "sha1": "45e50eaa1ee8773168e36cd05145f3505c3dbc6c"
+    },
+    {
+      "name": "Scooby-Doo! - Mystery Mayhem (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BMMP",
+      "size": 4194304,
+      "crc32": "5348a655",
+      "md5": "9cff0577973c0219738da5995edcf3ae",
+      "sha1": "25fe359de5f546cade53d9097d6f11d10fd00fe2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Scooby-Doo%21%20-%20Mystery%20Mayhem%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Scooby-Doo%21%20-%20Mystery%20Mayhem%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Scooby-Doo%21%20-%20Mystery%20Mayhem%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Scooby-Doo%21%20-%20Mystery%20Mayhem%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Scooby-Doo%21%20-%20Mystery%20Mayhem%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Scooby-Doo%21%20-%20Mystery%20Mayhem%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

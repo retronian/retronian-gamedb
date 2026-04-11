@@ -63,5 +63,38 @@
     "wikidata": "Q2526009",
     "mobygames": 43429,
     "igdb": 21437
-  }
+  },
+  "roms": [
+    {
+      "name": "Arthur and the Invisibles (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B2NE",
+      "size": 16777216,
+      "crc32": "87c25055",
+      "md5": "3f78374401030fbbc41fb8b9b6d3a99f",
+      "sha1": "6173ea7e00497e7a908a97e64cb4bc86396e8459",
+      "sha256": "c17e876e6caf7300b12607265ebd6f3ec4babc507dceae2e7c606cf732bfd9bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Arthur%20and%20the%20Invisibles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Arthur%20and%20the%20Invisibles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Arthur%20and%20the%20Invisibles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

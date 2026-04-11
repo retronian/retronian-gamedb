@@ -59,5 +59,94 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "2004-03-18"
+  "first_release_date": "2004-03-18",
+  "roms": [
+    {
+      "name": "Yu-Gi-Oh! - Destiny Board Traveler (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BYDE",
+      "size": 8388608,
+      "crc32": "611e7bbd",
+      "md5": "875524c19ada69a0c9f3e585e6bedaa2",
+      "sha1": "df001a60b7ab52e9735906fcd80f6c8b834ed684",
+      "sha256": "ca818f32cba69d4ade8bdea200ae39206747c50d6d4f256eca89b81c357caff4"
+    },
+    {
+      "name": "Yu-Gi-Oh! - Destiny Board Traveler (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BYDP",
+      "size": 16777216,
+      "crc32": "ae1a8e9d",
+      "md5": "dfb46ddc7be8f75d7ad429b60b646aaa",
+      "sha1": "96fd0e583ab49258b194f578e29e9a5d55122b50"
+    },
+    {
+      "name": "Yu-Gi-Oh! - Sugoroku no Sugoroku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BYSJ",
+      "size": 8388608,
+      "crc32": "8d52b3c5",
+      "md5": "c5401124a48f173f05fb10fb9e716011",
+      "sha1": "6816f044c3f4cac76e888c0ec36dc216e7c140d2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20-%20Destiny%20Board%20Traveler%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20-%20Destiny%20Board%20Traveler%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20-%20Destiny%20Board%20Traveler%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20-%20Destiny%20Board%20Traveler%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20-%20Destiny%20Board%20Traveler%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20-%20Destiny%20Board%20Traveler%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20-%20Sugoroku%20no%20Sugoroku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20-%20Sugoroku%20no%20Sugoroku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20-%20Sugoroku%20no%20Sugoroku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

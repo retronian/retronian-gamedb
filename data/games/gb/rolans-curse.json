@@ -78,5 +78,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Rolan's Curse (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "1a602590",
+      "md5": "ebd1866dc6c13ca48f45538ed33ea46f",
+      "sha1": "d5eeb34b24691eb6895d3349a05e2a75d910cf16",
+      "sha256": "e3d0b1ddea8b4ada14c3bb5e990171e6b2e26935d9dbc15e5de90fb5f7f9595d"
+    },
+    {
+      "name": "Rolan's Curse (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "d9b226db",
+      "md5": "9617c8babf4d714a3cbf5c9e644a67ff",
+      "sha1": "a88c6ef7c505f5ae2753bc596f76244ac00c0f27",
+      "sha256": "8ee95d6ffe84a57d2977e64408f3efb5fd4c58ff5481dcd69c66eb6b6116f33f"
+    },
+    {
+      "name": "Velious - Roland no Majuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "0817aa32",
+      "md5": "f45caca57f16d21ff0fd7aa431fe4b6a",
+      "sha1": "dd29da7d83ba9daebf16101e2ca8cc807eeca89d",
+      "sha256": "19e8ccfe0df0647cbd6517a456fcffa39c3a9ecc1e40dd31bd193423b4779020"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Rolan%27s%20Curse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Rolan%27s%20Curse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Rolan%27s%20Curse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Velious%20-%20Roland%20no%20Majuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Velious%20-%20Roland%20no%20Majuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Velious%20-%20Roland%20no%20Majuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

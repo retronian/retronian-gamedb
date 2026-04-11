@@ -87,5 +87,87 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Chameleon Kid (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "MK-1010-00",
+      "size": 1048576,
+      "crc32": "50217c80",
+      "md5": "2c1bee0580a7a875cb7fd4ee497b5bfe",
+      "sha1": "237ff4041f3e8ce5047f06f695fb55dca51354b8",
+      "sha256": "48682698280e1d3975855018a51569b9d3f57632ecde86e047a60f7eddae1a57"
+    },
+    {
+      "name": "Kid Chameleon (World) (Mega Drive PlayTV)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "d4969a02",
+      "md5": "d7a8204bc3dc06eccd238b4cbee9db81",
+      "sha1": "1bb8ab82a49f634f598dabe7ab2405273281a2b3",
+      "sha256": "c86f496e25e8bf02f18384e1811d654d48348943e84559eb035939f7c68054be"
+    },
+    {
+      "name": "Kid Chameleon (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1010-00",
+      "size": 1048576,
+      "crc32": "2e1f3aa9",
+      "md5": "302f88a7c366a840422511c69037d36e",
+      "sha1": "b9307bc31c8d90137477315395f8d1a3b7874459",
+      "sha256": "e4456ffaba221121bba3fbe2f645ccd686b6b0e26852d83e109272981f03ec02"
+    },
+    {
+      "name": "Kid Chameleon (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1010-00",
+      "size": 1048576,
+      "crc32": "ce36e6cc",
+      "md5": "756e603b6cf9b3ebbb1b0f79d9447e43",
+      "sha1": "28b904000b2863b6760531807760b571f1a5fc1d",
+      "sha256": "bc08b0188fb715ae469806843a8418d4937d2098b66d04227668865b3d4d5baa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Chameleon%20Kid%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Chameleon%20Kid%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Chameleon%20Kid%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Kid%20Chameleon%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Kid%20Chameleon%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Kid%20Chameleon%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

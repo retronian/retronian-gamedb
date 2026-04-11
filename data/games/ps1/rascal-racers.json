@@ -17,5 +17,45 @@
     "wikidata": "Q109232320",
     "mobygames": 31310,
     "igdb": 43806
-  }
+  },
+  "roms": [
+    {
+      "name": "Rascal Racers (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 16,
+      "crc32": "b86fdf9f",
+      "md5": "a49d485a038a3131ce86e43ccc5be8fa",
+      "sha1": "63dcdc2c4a05d5b9e56bc76a3561acd11b67222c",
+      "sha256": "d155e3b0318641c018b7afc8ad33548973f4d2b677f39425cd6f2e540fe5b087"
+    },
+    {
+      "name": "Rascal Racers (Germany) (En)",
+      "source": "no_intro",
+      "size": 42892000,
+      "crc32": "1d6e3001",
+      "md5": "6464eed7caf76ae1e35a4427e276487c",
+      "sha1": "cf1e2354899518c48cb2b3e22dced810f8b06991"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Rascal%20Racers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Rascal%20Racers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Rascal%20Racers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

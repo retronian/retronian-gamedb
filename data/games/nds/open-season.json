@@ -81,5 +81,75 @@
     "wikidata": "Q3235106",
     "mobygames": 34984,
     "igdb": 248523
-  }
+  },
+  "roms": [
+    {
+      "name": "Open Season (Europe) (En,Fr,Es,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQAP",
+      "size": 33554432,
+      "crc32": "7c12e2da",
+      "md5": "8841746cb57ddf970ac798b57e421534",
+      "sha1": "59174b3864cd4944a758ad54bbc75a07b1e70cba"
+    },
+    {
+      "name": "Open Season (USA) (En,Fr,Es,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQAE",
+      "size": 33554432,
+      "crc32": "cf0af834",
+      "md5": "f2f117ee8f53dfd91e5b7803af5a8a2e",
+      "sha1": "02ff211bb91777d736677c3fe835508f271fb22a"
+    },
+    {
+      "name": "Open Season (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQAX",
+      "size": 33554432,
+      "crc32": "e8d9f024",
+      "md5": "21073e61eb210a5a91dfef03fd200129",
+      "sha1": "1465a7e4f438119d123cae9b84c966d90ef58c25"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Open%20Season%20%28USA%29%20%28En%2CFr%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Open%20Season%20%28USA%29%20%28En%2CFr%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Open%20Season%20%28USA%29%20%28En%2CFr%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Open%20Season%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Open%20Season%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Open%20Season%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

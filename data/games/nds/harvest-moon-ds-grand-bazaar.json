@@ -79,5 +79,65 @@
   "external_ids": {
     "wikidata": "Q3285683",
     "igdb": 3391
-  }
+  },
+  "roms": [
+    {
+      "name": "Harvest Moon DS - Grand Bazaar (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CB9P",
+      "size": 134217728,
+      "crc32": "fe57ec75",
+      "md5": "6c09d7ee9ee064f5cfc6a47186b378f3",
+      "sha1": "6d7012afa7feceb984610ed1d13ab139374b588d"
+    },
+    {
+      "name": "Harvest Moon DS - Grand Bazaar (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CB9E",
+      "size": 134217728,
+      "crc32": "86088faa",
+      "md5": "16fad119e4cb5f7231c92b82569829fc",
+      "sha1": "128157a4c615cdafb6583c394f7b1ea554a9afe5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harvest%20Moon%20DS%20-%20Grand%20Bazaar%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Harvest%20Moon%20DS%20-%20Grand%20Bazaar%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harvest%20Moon%20DS%20-%20Grand%20Bazaar%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harvest%20Moon%20DS%20-%20Grand%20Bazaar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Harvest%20Moon%20DS%20-%20Grand%20Bazaar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harvest%20Moon%20DS%20-%20Grand%20Bazaar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

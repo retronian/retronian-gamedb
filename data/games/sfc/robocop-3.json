@@ -63,5 +63,93 @@
     "wikidata": "Q2589086",
     "mobygames": 10167,
     "igdb": 19695
-  }
+  },
+  "roms": [
+    {
+      "name": "RoboCop 3 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "5f2c7031",
+      "md5": "920e484c3c90fb73d83b885ce96ba53c",
+      "sha1": "51885454d9ce28ea715c4f446f26bc289163b149",
+      "sha256": "5882f6b20469410b55941c230625e5264e8c85c77a8be27a2817ceb68d778beb"
+    },
+    {
+      "name": "RoboCop 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "3502f9b3",
+      "md5": "cfbd78608d84c42bbc6b7d553dd858a0",
+      "sha1": "3a6c174a37c4a505464d3df05f45c9b1fcf75843",
+      "sha256": "055d9c6311a663af7c899a6f76a419c274c57baada3ef64c52fadb1c676b1446"
+    },
+    {
+      "name": "RoboCop 3 (USA) (Arcade)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "8bf4b379",
+      "md5": "fd9e698cfe6ab156cc37695e41b2ccfa",
+      "sha1": "af57961a79a5fb8afe2513f90b5c8c819264c377",
+      "sha256": "f5d129d2efb75ac63a0d54072ce782d884298b42836bb8708a6795a8d722a6f9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/RoboCop%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/RoboCop%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/RoboCop%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/RoboCop%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/RoboCop%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/RoboCop%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/RoboCop%203%20%28USA%29%20%28Arcade%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/RoboCop%203%20%28USA%29%20%28Arcade%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/RoboCop%203%20%28USA%29%20%28Arcade%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

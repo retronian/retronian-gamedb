@@ -27,5 +27,66 @@
     "wikidata": "Q4037585",
     "mobygames": 30438,
     "igdb": 144672
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Fighter (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "b7946748",
+      "md5": "d1a0eb0a935ba834d6dea962c101516f",
+      "sha1": "48fbf93deaa9487780626a84021f7dc729d6cb0f",
+      "sha256": "bce6e4cf29db398dc6c4a9d29b0bb8d3f5fa678fa24bb584361379ef02a2636d"
+    },
+    {
+      "name": "Dragon Fighter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "5dff9f09",
+      "md5": "972dd5913984add4fff2c32a89f3e8a5",
+      "sha1": "c0210e83e9b58b5700495e9d20c2dc376beb3e11",
+      "sha256": "ad061c85d18932abaff6ef4320a6ae150a36e5bc7ee17a45887b46883fbc6666"
+    },
+    {
+      "name": "Dragon Fighter (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 655376,
+      "crc32": "e03a1951",
+      "md5": "5e21cbb6bd8eafc20923c9a78a945398",
+      "sha1": "619aae0a521b40b8fc71e87276bffd44d082cfbb",
+      "sha256": "8b0d5001c55eecbdc246394a931d9b995e48b4a0c00a6bd38eefa2acea4a230d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Fighter%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Fighter%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

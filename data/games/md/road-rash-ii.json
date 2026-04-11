@@ -63,5 +63,118 @@
     "wikidata": "Q2713256",
     "mobygames": 6642,
     "igdb": 4429
-  }
+  },
+  "roms": [
+    {
+      "name": "Road Rash II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-106143-00",
+      "size": 1048576,
+      "crc32": "9a5723b6",
+      "md5": "98196408705f4520213ba1e43bef67f2",
+      "sha1": "d89d7707cd4f30eef1fd2fd7e322d760ba8d6786",
+      "sha256": "b6c5215cb3eff6500624ee8a863a33df03dff9f89bea90adb272975d4db46bf5"
+    },
+    {
+      "name": "Road Rash II (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50496-XX",
+      "size": 1048576,
+      "crc32": "7b29c209",
+      "md5": "c04a309f607aaf59f55eb8dad6affa73",
+      "sha1": "6fa6420a2abcf5c2c4620c19b1f2a831996af481",
+      "sha256": "8f7d310ce92832c0e3209ff86650eb983ce8fe81ff0d2dcd12083a44958f41bd"
+    },
+    {
+      "name": "Road Rash II (USA, Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50496-02",
+      "size": 1048576,
+      "crc32": "0876e992",
+      "md5": "062ed2f4e698bd8c61ebb1ee74a08d2b",
+      "sha1": "9afea43ed627671b50dd4a2abdd043b235414b91",
+      "sha256": "c7a609019b1f052bcee6204a3a09ea77a5150a748de90b51382fedf4df207848"
+    },
+    {
+      "name": "Road Rash II (USA) (Genesis Mini)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50496-XX",
+      "size": 1048576,
+      "crc32": "c25abd9e",
+      "md5": "b67a30513aa0ba4bc5795815e4df3a7c",
+      "sha1": "873ed46f53fb70898bfd7bbf3af682762dcb58c1",
+      "sha256": "834c49b2feae4f8362c8dcb46586cb4b6a3b5ecf9238d2c768d6ee3da4ab5bd2"
+    },
+    {
+      "name": "Road Rash II (Japan) (Mega Drive Mini)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-106143-00",
+      "size": 1048576,
+      "crc32": "6cfa9048",
+      "md5": "d248cf93526141751a08d2b7e1097f0c",
+      "sha1": "534db7b1bbe571667fd8df575d5cdf3e7fa72ebb",
+      "sha256": "18efad47f28493b75bff24e3f98803e63568b57d8422cb3ca9539eae887e5101"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Road%20Rash%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Road%20Rash%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Road%20Rash%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Road%20Rash%20II%20%28USA%29%20%28Genesis%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Road%20Rash%20II%20%28USA%29%20%28Genesis%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Road%20Rash%20II%20%28USA%29%20%28Genesis%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Road%20Rash%20II%20%28Japan%29%20%28Mega%20Drive%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Road%20Rash%20II%20%28Japan%29%20%28Mega%20Drive%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Road%20Rash%20II%20%28Japan%29%20%28Mega%20Drive%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

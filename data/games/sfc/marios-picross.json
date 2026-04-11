@@ -73,6 +73,42 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Mario's Super Picross",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "마리오의 슈퍼 피크로스",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Mario's Super Picross",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Mario's Super Picross",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1995-03-14",
@@ -80,5 +116,65 @@
     "wikidata": "Q1621156",
     "mobygames": 6033,
     "igdb": 80174
-  }
+  },
+  "roms": [
+    {
+      "name": "Mario no Super Picross (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f64c5aa0",
+      "md5": "34255c940ffdafa25235a7b3c9093186",
+      "sha1": "c4200b9886b16c148b32d2c75d02f2a875d997cc",
+      "sha256": "34a51c4f55186526f9bc3021e3e11e23364ce1ad7bcbff7b27ff364548961ccd"
+    },
+    {
+      "name": "Mario's Super Picross (Europe) (Ja) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "b230bd11",
+      "md5": "df49fc1458ff06f533ef1bc27f9e846f",
+      "sha1": "648019341831ae9a461561cc84e5c7825f1bf3bc",
+      "sha256": "91fd9755d0e17ced2341adfb8d0303dea251b8acf2ff03d05cb932b9170bc7d5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%20no%20Super%20Picross%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mario%20no%20Super%20Picross%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mario%20no%20Super%20Picross%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mario%27s%20Super%20Picross%20%28Europe%29%20%28Ja%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mario%27s%20Super%20Picross%20%28Europe%29%20%28Ja%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mario%27s%20Super%20Picross%20%28Europe%29%20%28Ja%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

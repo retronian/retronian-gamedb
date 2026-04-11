@@ -45,5 +45,75 @@
     "wikidata": "Q2533175",
     "mobygames": 193,
     "igdb": 265033
-  }
+  },
+  "roms": [
+    {
+      "name": "Blues Brothers, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "003a699c",
+      "md5": "880cb4f50e7eb7a0f489b06da7de4aaa",
+      "sha1": "d7e67486c55b78e837499ed52189a5674f2e2e36",
+      "sha256": "620ffeece15101763dadad6e63fe47a74745d5bff947c25f372afda9fbf79e91"
+    },
+    {
+      "name": "Blues Brothers, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "3be0e3c8",
+      "md5": "779a93bef2a3e5a12454cc3e66cb1771",
+      "sha1": "4b5835a98735a2d2233aa9be5b1c85e21b940c80",
+      "sha256": "5acf36686c8800821a19aa9a9b24f265b4a76e9ce2a4e09660e3e1bdc8773507"
+    },
+    {
+      "name": "Blues Brothers, The (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "7a22e26a",
+      "md5": "9030da57289f1bb308e2e82a1d59e1d4",
+      "sha1": "d97122c4d8559ffe0d640a85221f2d29f322b317",
+      "sha256": "f2efd0048b699fc422821e1067d796164e3beddd5ddea819b3654f1960c6418e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Blues%20Brothers%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Blues%20Brothers%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Blues%20Brothers%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Blues%20Brothers%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Blues%20Brothers%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Blues%20Brothers%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

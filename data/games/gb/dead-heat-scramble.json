@@ -34,5 +34,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Dead Heat Scramble (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "a8301bdd",
+      "md5": "ff76e39f9ea003242f0adda707c953f7",
+      "sha1": "395c0c80ad5c9a24c00d6d8dfe5894e73e672639",
+      "sha256": "ef72f6088d41145750f7dbd28f696b9fa8deccba3d586ae2ba57849c2b9cb340"
+    },
+    {
+      "name": "Dead Heat Scramble (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "9e3e3656",
+      "md5": "c2212d75077638539d6af4673b4939e6",
+      "sha1": "71e560dd2b5f5c4f4dcca0837c74bb1b843a15aa",
+      "sha256": "d534102be843dc15a465709164e09e82c6bdf6df2ac440930af2e34c2f0e01ce"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dead%20Heat%20Scramble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dead%20Heat%20Scramble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dead%20Heat%20Scramble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

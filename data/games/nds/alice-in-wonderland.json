@@ -54,5 +54,66 @@
     "wikidata": "Q2472710",
     "mobygames": 46770,
     "igdb": 296824
-  }
+  },
+  "roms": [
+    {
+      "name": "Alice in Wonderland (USA) (En,Fr,Es) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VALE",
+      "size": 67108864,
+      "crc32": "731611c9",
+      "md5": "4c8f57cefdf6732d5b544ab8a137a83e",
+      "sha1": "bacab6ad618bb371e4d1e20cc1ff0a9ec04183e4"
+    },
+    {
+      "name": "Alice in Wonderland (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VALV",
+      "size": 67108864,
+      "crc32": "fe1c5d3c",
+      "md5": "b66ceb5828a068cdbd35bc8e917f9e79",
+      "sha1": "0cdfd34cc15c2f52a1ae5b53a22902c6330d67ae",
+      "sha256": "f124174c6aababcbfba7de20f8694a8e09205710ae502d836d4114dbaa948783"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Alice%20in%20Wonderland%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Alice%20in%20Wonderland%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Alice%20in%20Wonderland%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Alice%20in%20Wonderland%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Alice%20in%20Wonderland%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Alice%20in%20Wonderland%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

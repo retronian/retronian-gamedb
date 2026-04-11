@@ -17,5 +17,55 @@
   "external_ids": {
     "wikidata": "Q4046847",
     "igdb": 66260
-  }
+  },
+  "roms": [
+    {
+      "name": "Phineas and Ferb - Ride Again (Europe) (En,De,Es,It,Nl) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VPFV",
+      "size": 67108864,
+      "crc32": "19652a7b",
+      "md5": "d71929e5a17bff50e9d560517c60a7f9",
+      "sha1": "074aeea2473f2d535a6aa16ecce2b475964cdef8",
+      "sha256": "53403924ae079b7ac7046f42d176b5a086d27885c9a6a4df41075a0b74d5744f"
+    },
+    {
+      "name": "Phineas and Ferb - Ride Again (USA) (En,Es) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VPFE",
+      "size": 67108864,
+      "crc32": "f86f639d",
+      "md5": "1fbe672897489773925d19962b2022c4",
+      "sha1": "57ca74bb9dc73492efa6687150afa2c3de4164b5",
+      "sha256": "032b1c45bc5836f38a68cc2ef916f2790703bfb7dc72e1ab9d625a571c815b3f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Phineas%20and%20Ferb%20-%20Ride%20Again%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Phineas%20and%20Ferb%20-%20Ride%20Again%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Phineas%20and%20Ferb%20-%20Ride%20Again%20%28USA%29%20%28En%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Phineas%20and%20Ferb%20-%20Ride%20Again%20%28USA%29%20%28En%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,65 @@
     "wikidata": "Q3607174",
     "mobygames": 10134,
     "igdb": 42737
-  }
+  },
+  "roms": [
+    {
+      "name": "Air Cavalry (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "b3f57cc6",
+      "md5": "444a1ca2373fd295248c18b42e2e3079",
+      "sha1": "0f526a429170ebb8a7981a2b4df42203d4eca71d",
+      "sha256": "ffd634dbfa9ad88a81cfc59adcc889c15e03730536c171d358bf58b37c6bca6a"
+    },
+    {
+      "name": "Air Cavalry (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "6b452801",
+      "md5": "b8fa02456b70f529afa265b2ba3d189f",
+      "sha1": "65f8142ddbce9c03b175d03ecfd304e8589227c1",
+      "sha256": "1f5738552c51de25ffe8aa44ff396c1ab238435296f1e8f99f8cf335483c03d5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Air%20Cavalry%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Air%20Cavalry%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Air%20Cavalry%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Air%20Cavalry%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Air%20Cavalry%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Air%20Cavalry%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

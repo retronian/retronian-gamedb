@@ -65,6 +65,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "獅子王",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
     }
   ],
   "first_release_date": "1994-12-08",
@@ -72,5 +81,65 @@
     "wikidata": "Q134138",
     "mobygames": 2077,
     "igdb": 203657
-  }
+  },
+  "roms": [
+    {
+      "name": "Lion King, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "a51e7199",
+      "md5": "bba9201f1091f35b4fb0b6b4ec574bef",
+      "sha1": "19bc003ddc1edae9fda036468cab21ac0012bc5d",
+      "sha256": "4fcb02f08d6e783c26bab1c1eb5701afd692ac549267108d1bcee650ec9e4811"
+    },
+    {
+      "name": "Lion King, The (1995) (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "3f34209e",
+      "md5": "fa90ebfab27a8faf9c58838f87cc0b5d",
+      "sha1": "3ed53d2bbb641a9b9450c2042428595ad2cd1f09",
+      "sha256": "6d70c13dcb90557637d44f544360d23ca18aaee16534e976893ba3c6718fd405"
+    },
+    {
+      "name": "Lion King, The (Chiki-Chiki Dog) (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "a1647760",
+      "md5": "ce3f77dbabb14c72ff39308846ee5ec3",
+      "sha1": "dc0011531257e9acd046e934228edf489913b1d6",
+      "sha256": "c17976888b948588ab7d20334143704896b24350dc1a307cdcd5fc434621d553"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Lion%20King%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Lion%20King%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Lion%20King%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Lion%20King%2C%20The%20%28Chiki-Chiki%20Dog%29%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Lion%20King%2C%20The%20%28Chiki-Chiki%20Dog%29%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

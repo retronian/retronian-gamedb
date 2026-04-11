@@ -123,5 +123,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Aerobiz (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-76046-10",
+      "size": 1048576,
+      "crc32": "cfaa9bce",
+      "md5": "d111e3b10e610d54c97ce445fdfcdefe",
+      "sha1": "104ad3c6f5aaba08270faf427991d6a256c6e67c",
+      "sha256": "ba9cf5e676036af7ddab25f1a0d6864fcd56d08b218926de668bdbce577a9d7d"
+    },
+    {
+      "name": "Air Management - Oozora ni Kakeru (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-76083-20",
+      "size": 1048576,
+      "crc32": "b3db0c71",
+      "md5": "60fb79cac46aced5e929aa8274884e6d",
+      "sha1": "b4e5752453cb3e4b3f6cb4fd9ad6473b4b8addd4",
+      "sha256": "20fc5fd1c289e863f5f8e27b34681b1c3a488be392b7de9e8be684205af9cb8b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Aerobiz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Aerobiz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Aerobiz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Air%20Management%20-%20Oozora%20ni%20Kakeru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Air%20Management%20-%20Oozora%20ni%20Kakeru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Air%20Management%20-%20Oozora%20ni%20Kakeru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

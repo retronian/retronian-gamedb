@@ -45,5 +45,65 @@
     "wikidata": "Q1047414",
     "mobygames": 88238,
     "igdb": 75349
-  }
+  },
+  "roms": [
+    {
+      "name": "Hannah Montana (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHNP",
+      "size": 33554432,
+      "crc32": "beee460a",
+      "md5": "70051d523e9e9ee2bbd035dd2187aba0",
+      "sha1": "78df36cf3b3bc6a4d0c934f4db0b7e46a71d0222"
+    },
+    {
+      "name": "Hannah Montana (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHNE",
+      "size": 67108864,
+      "crc32": "0428568b",
+      "md5": "1419421885922a3541b10fe51c11aef7",
+      "sha1": "44afa536ccabfddbb357d5e927376d11120dbfb3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hannah%20Montana%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Hannah%20Montana%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hannah%20Montana%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hannah%20Montana%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Hannah%20Montana%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hannah%20Montana%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

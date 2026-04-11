@@ -18,5 +18,67 @@
     "wikidata": "Q7976281",
     "mobygames": 55985,
     "igdb": 3631
-  }
+  },
+  "roms": [
+    {
+      "name": "Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NW8P",
+      "size": 8388608,
+      "crc32": "6f6dc53d",
+      "md5": "24a0d8c8cabc22116e469476ff6c691d",
+      "sha1": "3eb1a78c0480af0cc6f2180f87260790c37367d0",
+      "sha256": "8d772114b3511a65c586145035d90ef5bc44ba691bf65304fbb581b41df1f19f"
+    },
+    {
+      "name": "Wayne Gretzky's 3D Hockey '98 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NW8E",
+      "size": 8388608,
+      "crc32": "355fb089",
+      "md5": "810f8bc2c8c66bda3b206c7dd4b6d42f",
+      "sha1": "1af0be9568f8ace865d5cf76fd241da741154b0f",
+      "sha256": "7dbcc38d473efaf9c524274dcbd3cbd267d2d43e65c674c667c3843622bd726a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Wayne%20Gretzky%27s%203D%20Hockey%20%2798%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Wayne%20Gretzky%27s%203D%20Hockey%20%2798%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Wayne%20Gretzky%27s%203D%20Hockey%20%2798%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Wayne%20Gretzky%27s%203D%20Hockey%20%2798%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Wayne%20Gretzky%27s%203D%20Hockey%20%2798%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Wayne%20Gretzky%27s%203D%20Hockey%20%2798%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -60,5 +60,70 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Banana Prince (Germany)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "f53221e6",
+      "md5": "485649fe2e10a2b4d3aa450be38b28ed",
+      "sha1": "7203f5ba4c32f38d19ef27195d1c26e0541accd3",
+      "sha256": "0291e06cac89568e933d52be141549272cd35555e19f0bb525173a413fdd82fd"
+    },
+    {
+      "name": "Bananan Ouji no Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "dd547e3a",
+      "md5": "8207cc38159f344905941f8f5b5abe6d",
+      "sha1": "7fafed3059ccb4166108d83a3f9b638c849612e7",
+      "sha256": "72262fa2e5664069a00a7303efc5e1e732ee6ba19eaec692af2f38d1b1104544"
+    },
+    {
+      "name": "Bananan Ouji no Daibouken (Asia) (Ja) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "519cf39e",
+      "md5": "781a6a04359b5966406ea67039a26ab1",
+      "sha1": "96bee162342fc4e9ae0f72f6515c96cb722fe696",
+      "sha256": "0dfe67aa313688a2fc5bc9bd5dc7822acad617b59916ab37d3a78a211956fa01"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Banana%20Prince%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Banana%20Prince%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Banana%20Prince%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bananan%20Ouji%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bananan%20Ouji%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bananan%20Ouji%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

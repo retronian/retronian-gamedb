@@ -72,5 +72,66 @@
     "wikidata": "Q2334671",
     "mobygames": 34962,
     "igdb": 2408
-  }
+  },
+  "roms": [
+    {
+      "name": "Final Fantasy Tactics A2 - Grimoire of the Rift (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A6FP",
+      "size": 134217728,
+      "crc32": "adb2d534",
+      "md5": "54a3e8694acf490357a1d32a407e03b1",
+      "sha1": "09a4a90eb05d187e7cd896497866d58da36353b0"
+    },
+    {
+      "name": "Final Fantasy Tactics A2 - Grimoire of the Rift (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A6FE",
+      "size": 134217728,
+      "crc32": "5826b0b0",
+      "md5": "aaffeb638f1ac98ed3a954264ad1bf2e",
+      "sha1": "7ec7646c527be6af87e3c7ab0ed454f952842001",
+      "sha256": "3b5d469aae5d351de31a89cf2bf592c98cb5b68cb4efc30b34426a119fee2372"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Final%20Fantasy%20Tactics%20A2%20-%20Grimoire%20of%20the%20Rift%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Final%20Fantasy%20Tactics%20A2%20-%20Grimoire%20of%20the%20Rift%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Final%20Fantasy%20Tactics%20A2%20-%20Grimoire%20of%20the%20Rift%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Final%20Fantasy%20Tactics%20A2%20-%20Grimoire%20of%20the%20Rift%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Final%20Fantasy%20Tactics%20A2%20-%20Grimoire%20of%20the%20Rift%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Final%20Fantasy%20Tactics%20A2%20-%20Grimoire%20of%20the%20Rift%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

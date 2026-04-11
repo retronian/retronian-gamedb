@@ -45,5 +45,67 @@
     "wikidata": "Q2904020",
     "mobygames": 3667,
     "igdb": 3366
-  }
+  },
+  "roms": [
+    {
+      "name": "Bio F.R.E.A.K.S. (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NBFP",
+      "size": 16777216,
+      "crc32": "2c4eb906",
+      "md5": "42672ba5e98cd21d7f3e3745e69038dd",
+      "sha1": "8a85ec7d68954a36569f28f6a26981d6f283fd6d",
+      "sha256": "66037309dc4d7619ff31548e3ed9bf3cd1e3d0f17e484aee87f748bf6e42ade6"
+    },
+    {
+      "name": "Bio F.R.E.A.K.S. (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NBFE",
+      "size": 16777216,
+      "crc32": "dfbf448c",
+      "md5": "b90ab8f7605d971cc7a6d9ba5e67d1af",
+      "sha1": "e20e9124480b559aa7148412c8993804501e180d",
+      "sha256": "7967e3d7a8441339b7e58f2180404034fc44548a477fbce73caf546eb50d74a3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bio%20F.R.E.A.K.S.%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bio%20F.R.E.A.K.S.%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bio%20F.R.E.A.K.S.%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bio%20F.R.E.A.K.S.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bio%20F.R.E.A.K.S.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bio%20F.R.E.A.K.S.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,37 @@
     "wikidata": "Q55673",
     "mobygames": 5960,
     "igdb": 210579
-  }
+  },
+  "roms": [
+    {
+      "name": "R-Type (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "91ce5156",
+      "md5": "0e0040142b5227f2b85be27364d5ea01",
+      "sha1": "7e3d4dc9e8d880ac8d813fa69af0c6804b75cd9a",
+      "sha256": "87a443f6b8170d8fe71d470500059b4da36f8552064684f144bb6e4329bc6f4f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/R-Type%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/R-Type%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/R-Type%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

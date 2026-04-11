@@ -27,5 +27,65 @@
     "wikidata": "Q2095462",
     "mobygames": 571,
     "igdb": 6023
-  }
+  },
+  "roms": [
+    {
+      "name": "Pinball Fantasies (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "2a8f0e3b",
+      "md5": "45cd17baafaf982f16e6efd0b7ce178d",
+      "sha1": "8dbeae8488b27a02a63840c9d237ccf0b78157aa",
+      "sha256": "166fe888ac03f88cce5759c1008021082bd81254aab8fea8203cdb13080709d7"
+    },
+    {
+      "name": "Pinball Fantasies (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "822ad378",
+      "md5": "5a57afcc8b3bdef1f56cc24c152eb9fc",
+      "sha1": "49030a5540e3c3c9c4900944e318a5fa40ad68cc",
+      "sha256": "0888d20ab2f834c77b0a2dc2162c43890a1640adc78c6b0bb5892ca8d5008ad3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pinball%20Fantasies%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pinball%20Fantasies%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pinball%20Fantasies%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pinball%20Fantasies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pinball%20Fantasies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pinball%20Fantasies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

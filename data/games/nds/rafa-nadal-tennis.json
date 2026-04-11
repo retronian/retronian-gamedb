@@ -17,5 +17,66 @@
     "wikidata": "Q3417200",
     "mobygames": 48444,
     "igdb": 23104
-  }
+  },
+  "roms": [
+    {
+      "name": "Rafa Nadal Tennis (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ARAE",
+      "size": 33554432,
+      "crc32": "00f0fd3a",
+      "md5": "46e66d00c5290282838d43e9c315786f",
+      "sha1": "c90f31cdd26b3e1f6ac5c00600da72135388b877"
+    },
+    {
+      "name": "Rafa Nadal Tennis (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ARAP",
+      "size": 33554432,
+      "crc32": "cfd6b95f",
+      "md5": "d97e21e86c1ffc9d00a456cd2a7ae495",
+      "sha1": "7e4d306df02ecf32f43e9aebb085a6d4414ce39e",
+      "sha256": "40f9e9d9ff96e27c597134e2dd8bf93a076a7ed3e96354df853054a397436e56"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rafa%20Nadal%20Tennis%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rafa%20Nadal%20Tennis%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rafa%20Nadal%20Tennis%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rafa%20Nadal%20Tennis%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rafa%20Nadal%20Tennis%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rafa%20Nadal%20Tennis%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

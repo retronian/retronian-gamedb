@@ -72,5 +72,54 @@
     "wikidata": "Q2633998",
     "mobygames": 85273,
     "igdb": 218005
-  }
+  },
+  "roms": [
+    {
+      "name": "Spider-Man - Edge of Time (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B8IE",
+      "size": 67108864,
+      "crc32": "557723f6",
+      "md5": "033321fc4a9712ff9d8dfa98e5859100",
+      "sha1": "51e98b88970dae583b0d8f605f870f3357c07722"
+    },
+    {
+      "name": "Spider-Man - Edge of Time (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B8IP",
+      "size": 67108864,
+      "crc32": "93f188d2",
+      "md5": "cbe7bc3734310b391398cfae55934458",
+      "sha1": "266288f7eb073aa74db37d7cadce1e7ebb2e80c2",
+      "sha256": "3af9e206d659feae1ef38e9343daa5653086b10ceb87bf582f19dfa8d95875eb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spider-Man%20-%20Edge%20of%20Time%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spider-Man%20-%20Edge%20of%20Time%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spider-Man%20-%20Edge%20of%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spider-Man%20-%20Edge%20of%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

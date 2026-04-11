@@ -88,5 +88,102 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Revolution X (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "f6b0eaa9",
+      "md5": "e16c95dae29970e0bdb177fd1469139a",
+      "sha1": "bcdf3379025f2e5f031c9aefbc3e8c4de480693a",
+      "sha256": "758f388d8499d9c3b330d40435b016cc5c6f7df2f2188a489569d121fb39bc4f"
+    },
+    {
+      "name": "Revolution X (Germany) (En)",
+      "source": "no_intro",
+      "size": 2097152,
+      "crc32": "59d0f587",
+      "md5": "b75dca377cebbae23e39820952ef59e7",
+      "sha1": "cb1182799c76b7947f2415f1406bc13e0692cba5",
+      "sha256": "9932ed1419bc606ea19337b74a8ef17adaa6b31be5fca8d2b6b266b3f6383e39"
+    },
+    {
+      "name": "Revolution X (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "b5939fdc",
+      "md5": "d5acdaa3e261efa816985a403d4ea533",
+      "sha1": "7310659d93d6f3e96f6465f47c72e4b11b11c13d",
+      "sha256": "15a508007feb54395b615b72bf05a659b50b7c93c11367f54c06437b0d92bd86"
+    },
+    {
+      "name": "Revolution X (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "0dc5e7ba",
+      "md5": "b4745109dfb032675c6a0cb83598607f",
+      "sha1": "33d19c77a494e9b30fa2bf7b674a1925181e347b",
+      "sha256": "5fb072c3c2e9d8e7f84bea9c4bf2253e6868eb2b1f13e35a7d75fdf05896d873"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Revolution%20X%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Revolution%20X%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Revolution%20X%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Revolution%20X%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Revolution%20X%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Revolution%20X%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Revolution%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Revolution%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Revolution%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

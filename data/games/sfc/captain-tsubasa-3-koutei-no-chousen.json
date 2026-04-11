@@ -65,11 +65,68 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Captain Tsubasa III - Koutei no Chousen",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "キャプテン翼III 皇帝の挑戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1992-07-17",
   "external_ids": {
     "wikidata": "Q3282133",
     "igdb": 38340
-  }
+  },
+  "descriptions": [
+    {
+      "text": "キャプテン翼III 皇帝の挑戦は、キャプテン翼の漫画とアニメを基にしたサッカーRPGです。シリーズの第3作目であり、スーパーファミコン向けの初めての作品です。前作同様、皇帝の挑戦はセミターン制のRPG形式を採用しており、プレイヤーはボールを持っているかどうかに応じてコマンドを選択します。ゲームは漫画のストーリーをある程度追っています。8ビットから16ビットへの明らかなグラフィックの向上に加えて、皇帝の挑戦ではプレイヤーがピッチの地図を見ることができ、戦略を立てるのに役立ちます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Captain Tsubasa III - Koutei no Chousen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "26b0cee3",
+      "md5": "3ecad6d88befde8b2bd96c94927b86b2",
+      "sha1": "ccc69906612478813b4eaca03f9662e28596d69e",
+      "sha256": "6a299b99e0a55aec6669930dc622037d82d297e875630273c6cd6f05438aa3e6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Captain%20Tsubasa%20III%20-%20Koutei%20no%20Chousen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Captain%20Tsubasa%20III%20-%20Koutei%20no%20Chousen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Captain%20Tsubasa%20III%20-%20Koutei%20no%20Chousen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -18,5 +18,107 @@
     "wikidata": "Q2067756",
     "mobygames": 1737,
     "igdb": 12084
-  }
+  },
+  "roms": [
+    {
+      "name": "F-15 Strike Eagle II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-104036-04",
+      "size": 1048576,
+      "crc32": "e98ee370",
+      "md5": "50cb0da45ed2232c11713bac513687be",
+      "sha1": "190508c5fe65c47f289d85768f7d79b1a235f3d5",
+      "sha256": "ad81a3bcb0f96cd04b91d38e83a69e7232470799322252dbafe3cd7f7eeb007b"
+    },
+    {
+      "name": "F-15 Strike Eagle II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-104036-03",
+      "size": 1048576,
+      "crc32": "412c4d60",
+      "md5": "c6eeffdfed136ef2d76cd3b5e503c4f1",
+      "sha1": "d5f0d3d3b9cb7557d85bd54465072555f60c25a1",
+      "sha256": "fe33a55e19b82a9f8bb95b0dbce52f511d60a4cdce04b2114d2cff05b069f952"
+    },
+    {
+      "name": "F-15 Strike Eagle II (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000001-00",
+      "size": 1048576,
+      "crc32": "fd4f5a01",
+      "md5": "e0cf5e97a3ddaac1f691de0f1b4e39be",
+      "sha1": "2ee364462f3206d220bbcebe50ca35e039967cf2",
+      "sha256": "da575859c7de253f1f46605a8a955f4e2a0cb2df69d9565f5519f9ee6e57284a"
+    },
+    {
+      "name": "F-15 Strike Eagle II (USA) (Sample)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-104036-03",
+      "size": 2097152,
+      "crc32": "dc5f07ba",
+      "md5": "1cdf545ab88c06d2d7e4613e898274a5",
+      "sha1": "6900219ec9057ce2ef5bd1304c2c26aa678a1daa",
+      "sha256": "0964aaeba2db03fdf5646c0d7fbf9a7314d5f6a206737c39db9c1564fceff94e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/F-15%20Strike%20Eagle%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/F-15%20Strike%20Eagle%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/F-15%20Strike%20Eagle%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/F-15%20Strike%20Eagle%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/F-15%20Strike%20Eagle%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/F-15%20Strike%20Eagle%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/F-15%20Strike%20Eagle%20II%20%28USA%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/F-15%20Strike%20Eagle%20II%20%28USA%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/F-15%20Strike%20Eagle%20II%20%28USA%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

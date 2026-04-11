@@ -63,5 +63,61 @@
     "wikidata": "Q1091127",
     "mobygames": 5369,
     "igdb": 134025
-  }
+  },
+  "roms": [
+    {
+      "name": "Oddworld - Munch's Oddysee (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BODE",
+      "size": 8388608,
+      "crc32": "97367887",
+      "md5": "277a144d9b4392a6c80f23b979c9c8f3",
+      "sha1": "cc6bf19e5d6a35c2a745bea4e3b2a210a9ebd296"
+    },
+    {
+      "name": "Oddworld - Munch's Oddysee (Germany)",
+      "source": "no_intro",
+      "serial": "BODD",
+      "size": 8388608,
+      "crc32": "fcc570a7",
+      "md5": "4ba8bf225317bd0f51d8487b0a428460",
+      "sha1": "a61ba72ff73c40edfc7000724bf066897ca49066"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Oddworld%20-%20Munch%27s%20Oddysee%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Oddworld%20-%20Munch%27s%20Oddysee%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Oddworld%20-%20Munch%27s%20Oddysee%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Oddworld%20-%20Munch%27s%20Oddysee%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Oddworld%20-%20Munch%27s%20Oddysee%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Oddworld%20-%20Munch%27s%20Oddysee%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

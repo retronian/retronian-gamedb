@@ -87,5 +87,85 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Victory Run (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "85cbd045",
+      "md5": "bc4361c967514ef29293778ad748a6b7",
+      "sha1": "bab16031a16490415cedd5ba47cbe4cadc3d8727",
+      "sha256": "769aafaee88972586a77c2b4359ad837844a429a7e7b86ae36d25fcaf0266b20"
+    },
+    {
+      "name": "Victory Run (USA, Europe) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "aac2876f",
+      "md5": "3cce47219328affaf32282ec7b897011",
+      "sha1": "e7d5aa410119874a6854d768429c18f387fda225",
+      "sha256": "9d873cb9db9b11e443ff2336a0c2d8b4d4d59c9557ad4a7b1caeb004dd8ba200"
+    },
+    {
+      "name": "Victory Run - Eikou no 13,000km (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "03e28cff",
+      "md5": "1a09d66caead5bc0f7669dc1af346d9c",
+      "sha1": "68044c5fb23f27697ff88657a22ef60ff6d61396",
+      "sha256": "5e2bce8efbba82bd89efd571c3534360344797262a5762cdf253aa61e01523a1"
+    },
+    {
+      "name": "Victory Run - Eikou no 13,000km (Japan) (En) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "2cebdbd5",
+      "md5": "fd8310e74d8d038f445c77344aa3668d",
+      "sha1": "704a5d81259e3539a69261583c57127d4616df2b",
+      "sha256": "0be2db7692dad3dbac6c6189c651d283468f64aaf50ae78e421ad91794aa4f56"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Victory%20Run%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Victory%20Run%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Victory%20Run%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Victory%20Run%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Victory%20Run%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Victory%20Run%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

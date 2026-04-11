@@ -72,5 +72,93 @@
     "wikidata": "Q2583842",
     "mobygames": 19314,
     "igdb": 249168
-  }
+  },
+  "roms": [
+    {
+      "name": "Ultimate Spider-Man (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BULE",
+      "size": 16777216,
+      "crc32": "931e2c18",
+      "md5": "11beb7fd8ce6c8a3d4987274835e0843",
+      "sha1": "1f5959b66dafb33c9fa01389c23214b38b0fcc79"
+    },
+    {
+      "name": "Ultimate Spider-Man (Europe) (Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BULX",
+      "size": 16777216,
+      "crc32": "61a74634",
+      "md5": "0527c2edb2832e8d59baaa4c4fb7b1e7",
+      "sha1": "317f3d3399967d43daa393979c94991da8d416df"
+    },
+    {
+      "name": "Ultimate Spider-Man (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BULP",
+      "size": 16777216,
+      "crc32": "97e1727f",
+      "md5": "4959e99cbec8fec7e2144a14eae386d0",
+      "sha1": "5db15933ac18877a61bf8df4d1aced51035a7d84"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ultimate%20Spider-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ultimate%20Spider-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ultimate%20Spider-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ultimate%20Spider-Man%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ultimate%20Spider-Man%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ultimate%20Spider-Man%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ultimate%20Spider-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ultimate%20Spider-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ultimate%20Spider-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

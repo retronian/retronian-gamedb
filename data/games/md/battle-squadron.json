@@ -18,5 +18,49 @@
     "wikidata": "Q616512",
     "mobygames": 8890,
     "igdb": 4549
-  }
+  },
+  "roms": [
+    {
+      "name": "Battle Squadron (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-XXXXX-XX",
+      "size": 524288,
+      "crc32": "0feaa8bf",
+      "md5": "b5b815ef99b943fe0bad48dc13239b35",
+      "sha1": "f003f7af0f7edccc317c944b88e57f4c9b66935a",
+      "sha256": "42aa637a1a28921abbca77c30647ab99c5fc84ab3a55b7be04070efffb5f6481"
+    },
+    {
+      "name": "Battle Squadron (USA, Europe) (Rev 1) (Beta) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50066-00",
+      "size": 524288,
+      "crc32": "43a76b45",
+      "md5": "ec695773efefc2efb28d0fe687eedd60",
+      "sha1": "a54b18df5452845b821ddadd59090501901dd2df",
+      "sha256": "8363dd62c2e1de5ad5219e23f4d3e0fe983ea500be6be9fd60175a706c233cd2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Battle%20Squadron%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Battle%20Squadron%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Battle%20Squadron%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

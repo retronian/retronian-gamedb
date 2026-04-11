@@ -54,5 +54,55 @@
     "wikidata": "Q3022202",
     "mobygames": 19513,
     "igdb": 131726
-  }
+  },
+  "roms": [
+    {
+      "name": "Demolition Man (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81486-00",
+      "size": 2097152,
+      "crc32": "57ffad7a",
+      "md5": "95bb9db45817400b60b010ad77b49ea0",
+      "sha1": "33a33bff7277c2aab45d0d843d13728ce2c62ab2",
+      "sha256": "759ff8570483a21c1e89ee232b855d66dbc2dd5aae22d57f8feca480b2a0647e"
+    },
+    {
+      "name": "Demolition Man (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81486-00",
+      "size": 2097152,
+      "crc32": "5ff71877",
+      "md5": "a7d8154ebc55d4d680d35c359ec1e0bc",
+      "sha1": "40d71f6bd6cd44f8003bfaff8c953b0693ec1b01",
+      "sha256": "2e43332ee12168ab2970bf498f0322079285aabd079aecabc4b61093a5233114"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Demolition%20Man%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Demolition%20Man%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Demolition%20Man%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Demolition%20Man%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

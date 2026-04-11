@@ -61,5 +61,77 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Arcus Odyssey (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-32053-00",
+      "size": 1048576,
+      "crc32": "41c5fb4f",
+      "md5": "607de52681638c39c080966b3c7d7f51",
+      "sha1": "8e1a9a9f9ba50bca0a377bd8f795b7c9c1275815",
+      "sha256": "159847500525240f4922fc3f8fc50fd0fc102f490c72ddf5bebbef258251024d"
+    },
+    {
+      "name": "Arcus Odyssey (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-32053-00",
+      "size": 1048576,
+      "crc32": "bc4d9b20",
+      "md5": "0cb745c9304423250a418552bc871e64",
+      "sha1": "26feaafad8c464ce3fa96912c2a85c7596e5fa4e",
+      "sha256": "3a2086b730f9ab9d673a555e72085c5c32956fca27dea46a8f9640e3a885ae30"
+    },
+    {
+      "name": "Arcus Odyssey (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-32053-00",
+      "size": 1048576,
+      "crc32": "127fbc14",
+      "md5": "b95605cdf1357c57f0352a531e3b4c1f",
+      "sha1": "a10ca2f079a275ddb122a4ae0c30056b6bc01202",
+      "sha256": "ff732d3b1319f12ed328dce0d43b9f10d3b945c7eef96eef86893be853695d2e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Arcus%20Odyssey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Arcus%20Odyssey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Arcus%20Odyssey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Arcus%20Odyssey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Arcus%20Odyssey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Arcus%20Odyssey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -16,5 +16,67 @@
   "external_ids": {
     "wikidata": "Q88460222",
     "igdb": 21220
-  }
+  },
+  "roms": [
+    {
+      "name": "Zoo Hospital (United Kingdom)",
+      "source": "no_intro",
+      "serial": "YZHP",
+      "size": 67108864,
+      "crc32": "06caf4af",
+      "md5": "bf5448c8011dea50d91c1e39e05d5d85",
+      "sha1": "94e27afbfcbc6869717df20bb3112adc05bb83fa"
+    },
+    {
+      "name": "Zoo Hospital (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YZHX",
+      "size": 67108864,
+      "crc32": "0b2b4c8f",
+      "md5": "eedd43245c239f41a8de7107bc8f7b5f",
+      "sha1": "dda8e75df9599b1e2fe7ef1c26feac82c3103402"
+    },
+    {
+      "name": "Zoo Hospital (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YZHE",
+      "size": 67108864,
+      "crc32": "60568ac6",
+      "md5": "1ed808d89be0f9624b4fa80b47555fb5",
+      "sha1": "fc674b5b8778f754c00f3d0f0b709c0b4903faaf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Hospital%20%28United%20Kingdom%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Hospital%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoo%20Hospital%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Hospital%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoo%20Hospital%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -81,5 +81,99 @@
     "wikidata": "Q278771",
     "mobygames": 340,
     "igdb": 9331
-  }
+  },
+  "roms": [
+    {
+      "name": "Worms (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "MK-1198-00",
+      "size": 2097152,
+      "crc32": "83036222",
+      "md5": "64fa64a043cecb4a36a08bcb00388ebe",
+      "sha1": "8c726ba5b68e4bea0554ae2d18a9bffcd23c85b1",
+      "sha256": "792f71be8f4918ba91da59134c8dc1825dc7cb8a29371b9b34c1c34a26576af5"
+    },
+    {
+      "name": "Worms (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1198 -00",
+      "size": 2097152,
+      "crc32": "b9a8b299",
+      "md5": "0d53ce8f8d060900805b798a1d9d2579",
+      "sha1": "1a15447a4a791c02b6ad0a609f788d39fe6c3aa6",
+      "sha256": "996f9bbdbb576c131023c64e5b242f5d85c81731e5c9c254151be4da2799b050"
+    },
+    {
+      "name": "Worms (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 2097152,
+      "crc32": "1d191694",
+      "md5": "e56d724a1423ba8cce333c598b320c6d",
+      "sha1": "23127e9b3a98eea13fb97bed2d8e206adb495d97",
+      "sha256": "cf1559556dd56a51a1d121d83d3ddfb6f7b12cbae182ec359f78c8c280a8801c"
+    },
+    {
+      "name": "Worms (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "00000000-00",
+      "size": 2097152,
+      "crc32": "5f9e85df",
+      "md5": "03c35f042efa4b6d0019938fe968dc74",
+      "sha1": "5a11867fdf41c9e065e6ba88668d6a48bcbc476c",
+      "sha256": "4b20e12c5ba08cc78640e2babbe572d302303e08ccae02a2a3801d08342918be"
+    },
+    {
+      "name": "Worms (USA) (Limited Run Games)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "GM MK-1198 -00",
+      "size": 2097152,
+      "crc32": "5ab19a20",
+      "md5": "feb25373b9fc167615f70813d802289e",
+      "sha1": "a102a72268dd0917044872d0267fde9194bdbea0",
+      "sha256": "9152ddf39bcd6808563aed7e7ecb017c3546d969b276631528573bbf2a8ccebf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Worms%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Worms%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Worms%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Worms%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Worms%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Worms%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

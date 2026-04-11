@@ -18,5 +18,53 @@
     "wikidata": "Q7132033",
     "mobygames": 33015,
     "igdb": 21516
-  }
+  },
+  "roms": [
+    {
+      "name": "Panzer Tactics DS (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQPE",
+      "size": 33554432,
+      "crc32": "b708ed56",
+      "md5": "fc894788d1648bb7701e6cdd9a6c5816",
+      "sha1": "e121df268e2171b8e4ee3cac2606bae29143183d"
+    },
+    {
+      "name": "Panzer Tactics DS (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQPP",
+      "size": 33554432,
+      "crc32": "36ccf6e6",
+      "md5": "36306bdb2066deddd1eb56583677aba1",
+      "sha1": "1e53052b0b0ac3c68fa713f534c5153ab1c0f71f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Panzer%20Tactics%20DS%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Panzer%20Tactics%20DS%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Panzer%20Tactics%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Panzer%20Tactics%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

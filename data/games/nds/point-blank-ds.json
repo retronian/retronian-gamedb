@@ -17,5 +17,77 @@
     "wikidata": "Q85793798",
     "mobygames": 24050,
     "igdb": 20532
-  }
+  },
+  "roms": [
+    {
+      "name": "Point Blank DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AGLE",
+      "size": 33554432,
+      "crc32": "8497f1bf",
+      "md5": "cf017d1a89d6b49d7dd96eb4ad277fa9",
+      "sha1": "720da706cbdf9ca483135fa15d49fbff68ace810"
+    },
+    {
+      "name": "Point Blank DS (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AGLP",
+      "size": 33554432,
+      "crc32": "749f1cef",
+      "md5": "12bc21bebd2bf93358f5949067a2c03b",
+      "sha1": "32572037dce9723cf2099a4830c91ff71357cdcd",
+      "sha256": "07e196bc335d5c699df3d2cb6c83e3b57d9b144ade0b993c3acfbee08b0a4679"
+    },
+    {
+      "name": "Point Blank DS (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AGLE",
+      "size": 33554432,
+      "crc32": "2a2655f9",
+      "md5": "3f4e9de2e90d2e76db9037c9a5ccc251",
+      "sha1": "2cea5f2a9fc69127a4c04c2c81c7a1a224b95ef3",
+      "sha256": "db785e930f7594a3e4991e545b2b459e30c9cbadfde46eb4f6142e05a9b669e0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Point%20Blank%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Point%20Blank%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Point%20Blank%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Point%20Blank%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Point%20Blank%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Point%20Blank%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

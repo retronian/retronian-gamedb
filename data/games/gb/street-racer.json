@@ -79,5 +79,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Street Racer (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "5bbacaa8",
+      "md5": "4ea0a34a76da9ed232d514987ba89d90",
+      "sha1": "2e5e0610a7c535980b6a185cab83248f6d6096b3",
+      "sha256": "0363327e3515c3aa222fa7696ee58df9aed511199a9e6f6dddc664e87cdb4fc4"
+    },
+    {
+      "name": "Street Racer (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "fcfb4ce4",
+      "md5": "0bf2f0fe9537a2a6b6f8f2e037cb66b7",
+      "sha1": "4e1d17772eb939cb0a3bce73e4378384d96836ce",
+      "sha256": "ac011e9750a737476c9c4c81a91a9ea7deeb8eee5716b0a5fa2b8ca0716cfc82"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Street%20Racer%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Street%20Racer%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Street%20Racer%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

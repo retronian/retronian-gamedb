@@ -34,5 +34,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "CrossFire (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "52edb6c6",
+      "md5": "4ec167833dc01d8c90da8b6998aa3074",
+      "sha1": "b079cb110e6095a46d97781f946be8b15195d006",
+      "sha256": "1eeefd822029964987846162d8578dfacadec178c4d247e95af5a8798418648e"
+    },
+    {
+      "name": "CrossFire (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "055aee65",
+      "md5": "a850982b88e71ddf889a983e8ee15a32",
+      "sha1": "9537f4c4fbeae24196a4d6e1181d7ad1f3ee0201",
+      "sha256": "7ac484fad4f2b9bd9309aeaaf36a1aad775e5fe12f7c1e861f1b75f101b3f0e2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/CrossFire%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/CrossFire%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/CrossFire%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -88,5 +88,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Taekwon-Do (Japan) (Ja,Ko)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "93f29dde",
+      "md5": "e9eb2c3d0b6e21baafbfc4b614e04a3f",
+      "sha1": "dc61cb9b82eb58a9b09cb93a10b6731eaa4cd053",
+      "sha256": "3438e5d96d4b58da6f6439b836f44aac57b24f75910322b86f4f9fd3adb70e81"
+    },
+    {
+      "name": "Taekwon-Do (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "size": 1048576,
+      "crc32": "d20d7701",
+      "md5": "4c9dc70fd849a41644c81a0ffc8dee11",
+      "sha1": "11826edddb9d8e2a0267bf8d5d96b343191c6511",
+      "sha256": "1bb9ba72dfec638ed4cc7c721e31fde2f3e08d160b266a62b6e3997f711cf7cd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Taekwon-Do%20%28Japan%29%20%28Ja%2CKo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Taekwon-Do%20%28Japan%29%20%28Ja%2CKo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Taekwon-Do%20%28Japan%29%20%28Ja%2CKo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Taekwon-Do%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Taekwon-Do%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Taekwon-Do%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
   ]
 }

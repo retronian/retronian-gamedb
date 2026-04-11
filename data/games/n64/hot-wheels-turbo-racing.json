@@ -27,5 +27,67 @@
     "wikidata": "Q3141103",
     "mobygames": 22905,
     "igdb": 3371
-  }
+  },
+  "roms": [
+    {
+      "name": "Hot Wheels - Turbo Racing (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NHWP",
+      "size": 16777216,
+      "crc32": "850633a7",
+      "md5": "ef34da35ef8a0734843cb182c19feb26",
+      "sha1": "fbcfd6d466931e5cb71fe880c52ea692c3f84d75",
+      "sha256": "7beda0bb4ef2435aa097094c8622950d4bd34e786bdb6ae30ecd5f390875089f"
+    },
+    {
+      "name": "Hot Wheels - Turbo Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NHWE",
+      "size": 12582912,
+      "crc32": "a5c92148",
+      "md5": "4311a1aef1898678331f7e3486055307",
+      "sha1": "94913a07e49005ffd43dfdfa16ff5862bdb93748",
+      "sha256": "cdedbe26e64ee9a85c214ae85dceb68d14f52d39a01583d8b6a100d206f172a6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Hot%20Wheels%20-%20Turbo%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Hot%20Wheels%20-%20Turbo%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Hot%20Wheels%20-%20Turbo%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Hot%20Wheels%20-%20Turbo%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Hot%20Wheels%20-%20Turbo%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Hot%20Wheels%20-%20Turbo%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

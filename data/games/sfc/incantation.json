@@ -18,5 +18,74 @@
     "wikidata": "Q6014096",
     "mobygames": 17695,
     "igdb": 44454
-  }
+  },
+  "roms": [
+    {
+      "name": "Incantation (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "34fad701",
+      "md5": "7a4845697efd4491fa8f8476af9dc3c2",
+      "sha1": "2fdca97be96c4d9ee79e28aca8be64a7d43cb233",
+      "sha256": "21e8632a6da085cae5d4bcf7334c63fbda0028c2a37c0b0c3041ab59f307ebd3"
+    },
+    {
+      "name": "Incantation (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "d0ff7e9f",
+      "md5": "849d26ac8cbbd1cd9ec80ebfec44dd19",
+      "sha1": "6ad0b48e12ceddbfa00d4dfc8635b9eb4d692a66",
+      "sha256": "c41150c0e84055801377fb7cb273cc51ca442b269ca6287cadf514f553e34750"
+    },
+    {
+      "name": "Incantation (World) (Evercade)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "1b6e1622",
+      "md5": "735266767e3b7df831c46b083436fe0a",
+      "sha1": "8a67d3e4aad48bd9fe2460e2b2ce2dbbcf49d917",
+      "sha256": "af9a0607b81f6bbbea73eddafd22c37a414efd91ee397b4d9ff6b4bbd8f62a5c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Incantation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Incantation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Incantation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Incantation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Incantation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Incantation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

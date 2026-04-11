@@ -72,5 +72,123 @@
     "wikidata": "Q719176",
     "mobygames": 4721,
     "igdb": 1185
-  }
+  },
+  "roms": [
+    {
+      "name": "Crash Bandicoot (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 483572640,
+      "crc32": "d55c6d0c",
+      "md5": "ee8134d0eaab0b196b85b1359d2016c3",
+      "sha1": "d0683cc7ed4d33562c7f97e7bc60c783fc545256"
+    },
+    {
+      "name": "Crash Bandicoot (Germany)",
+      "source": "no_intro",
+      "size": 483596736,
+      "crc32": "8251516c",
+      "md5": "0d7c58c78bcb4b93d7440e21bf889491",
+      "sha1": "03855fbc21c8d896c0b3e4944c4d33ce1c765f28"
+    },
+    {
+      "name": "Crash Bandicoot (Japan) (PS3 v1.80)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 502398080,
+      "crc32": "d4a97ea1",
+      "md5": "067193ac789448ddc6dc68edef351164",
+      "sha1": "a1789f401b56934995b097bdae8ad986e9933c43"
+    },
+    {
+      "name": "Crash Bandicoot (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 489609792,
+      "crc32": "97010d3e",
+      "md5": "ff40791c036715e73278c85467af28d3",
+      "sha1": "03d857fb57224e6eb5a9007b021a4bc44c8f10eb"
+    },
+    {
+      "name": "Crash Bandicoot (USA) (v0.00)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 489609120,
+      "crc32": "49cc2ed5",
+      "md5": "99a72cf457849134ce3f4046825c7cf1",
+      "sha1": "51bb5dc868f3c1e80584e2de192203060385b030"
+    },
+    {
+      "name": "Crash Bandicoot (France)",
+      "source": "no_intro",
+      "size": 483600224,
+      "crc32": "17266427",
+      "md5": "5c53ad9d54d53aeadc2fc70a45d5d258",
+      "sha1": "246f3b34384ff7245a7f97032e72aaa90781f48f",
+      "sha256": "5d1a33366711840f26f75cc3a0ef2a0c10fbe010c677f96a68d8e28a4b8d02fc"
+    },
+    {
+      "name": "Crash Bandicoot (Japan) (PS3 v4.65)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "25bf81b2",
+      "md5": "896cd63f6212e5a8d61858abe2c7672e",
+      "sha1": "fa748553a0e72c81f5079a90ba8a0963cf86b626"
+    },
+    {
+      "name": "Crash Bandicoot (Italy)",
+      "source": "no_intro",
+      "size": 483573840,
+      "crc32": "39a074cd",
+      "md5": "6f0878c155e2ea39c1205aa8fc5e270b",
+      "sha1": "756ca22fb13a2ee49e88ec38873c2c125a4266b8"
+    },
+    {
+      "name": "Crash Bandicoot (Spain)",
+      "source": "no_intro",
+      "size": 483577040,
+      "crc32": "84cb9db0",
+      "md5": "9d7910b0cadbdf41d0dcf3a7085bc1cd",
+      "sha1": "d71d1066407000c79223992e4ccf228d36ab4e4a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Crash%20Bandicoot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Crash%20Bandicoot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Crash%20Bandicoot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Crash%20Bandicoot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Crash%20Bandicoot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Crash%20Bandicoot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

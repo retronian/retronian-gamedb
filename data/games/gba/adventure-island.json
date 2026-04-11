@@ -65,6 +65,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Go! Go! Beckham! Adventure on Soccer Island",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1986-09-12",
@@ -72,5 +81,38 @@
     "wikidata": "Q568489",
     "mobygames": 6628,
     "igdb": 6421
-  }
+  },
+  "roms": [
+    {
+      "name": "Go! Go! Beckham! - Adventure on Soccer Island (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AGQP",
+      "size": 4194304,
+      "crc32": "dff3e861",
+      "md5": "b1e538380c4c0595ac47ee8059f5a614",
+      "sha1": "63300c8cbb3b3622e6b5f7fef7e552c24aee9c86",
+      "sha256": "872348796423478c5c38cded5e7991ee7856bc2f6abcea59c8faa5eff72cb5ac"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Go%21%20Go%21%20Beckham%21%20-%20Adventure%20on%20Soccer%20Island%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Go%21%20Go%21%20Beckham%21%20-%20Adventure%20on%20Soccer%20Island%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Go%21%20Go%21%20Beckham%21%20-%20Adventure%20on%20Soccer%20Island%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

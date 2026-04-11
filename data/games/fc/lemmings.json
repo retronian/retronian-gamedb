@@ -81,5 +81,65 @@
     "wikidata": "Q864177",
     "mobygames": 683,
     "igdb": 238609
-  }
+  },
+  "roms": [
+    {
+      "name": "Lemmings (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "a32161e2",
+      "md5": "b23a3b9aabc4a39b7342ee727ccef665",
+      "sha1": "0d9b3242b1a3a2470ad6387532ea22825f6cf607",
+      "sha256": "de772ff77f84bd51a684785e272817ef63171ee28448c8beca92f561183c588c"
+    },
+    {
+      "name": "Lemmings (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "5a06e27c",
+      "md5": "38ffd69829c63306fd7c3fb82a9484cf",
+      "sha1": "06d7b536f4215e9649025cea04941d78f4f8956a",
+      "sha256": "fdb160cc3bb4e860b41e7bbbf88f6e872e366968128f7fc5598850fe5989c05f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Lemmings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Lemmings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Lemmings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Lemmings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Lemmings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Lemmings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

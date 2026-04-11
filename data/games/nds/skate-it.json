@@ -27,5 +27,53 @@
     "wikidata": "Q2423673",
     "mobygames": 85344,
     "igdb": 352870
-  }
+  },
+  "roms": [
+    {
+      "name": "Skate It (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CSVE",
+      "size": 33554432,
+      "crc32": "28d21281",
+      "md5": "daa7a697a1f7263f08a9f21a03d38088",
+      "sha1": "8efd58cee9e98e00c3888a521f8b01dc8a4baf54"
+    },
+    {
+      "name": "Skate It (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CSVP",
+      "size": 33554432,
+      "crc32": "40a367bc",
+      "md5": "17b3d357a3e5d2a2769f9216f7ceca0c",
+      "sha1": "0659356472643281167998bca3ea431db373fbdb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Skate%20It%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Skate%20It%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Skate%20It%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Skate%20It%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

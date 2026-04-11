@@ -17,5 +17,46 @@
   "external_ids": {
     "wikidata": "Q63183244",
     "igdb": 49911
-  }
+  },
+  "roms": [
+    {
+      "name": "Blue's Clues - Blue's Alphabet Book (USA) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "f89f58b7",
+      "md5": "e3846151ea7d911c9b0b76de2fe5239a",
+      "sha1": "7fdedfe8acde9557a5ff57661ed17082813e09a1",
+      "sha256": "6de64d418b9bf8c99851a7c46db10bf1e9ed21b9eda764d5d167e450043a2f7a"
+    },
+    {
+      "name": "Blue's Clues - Blue's Alphabet Book (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "748d1345",
+      "md5": "6af9bb4957485a0f5cebc9b44e805392",
+      "sha1": "f703b54746cb2ef08deba2518ce7b7a3836142aa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Blue%27s%20Clues%20-%20Blue%27s%20Alphabet%20Book%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Blue%27s%20Clues%20-%20Blue%27s%20Alphabet%20Book%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Blue%27s%20Clues%20-%20Blue%27s%20Alphabet%20Book%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

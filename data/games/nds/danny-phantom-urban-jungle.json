@@ -26,5 +26,65 @@
   "external_ids": {
     "wikidata": "Q5220738",
     "igdb": 6366
-  }
+  },
+  "roms": [
+    {
+      "name": "Danny Phantom - Urban Jungle (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANPE",
+      "size": 16777216,
+      "crc32": "00b88d1b",
+      "md5": "edc684017cc9c89f2deb37c4340380ab",
+      "sha1": "861d2a24c127c44a3bfa02da86109cb6890991e9"
+    },
+    {
+      "name": "Danny Phantom - Urban Jungle (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANPP",
+      "size": 16777216,
+      "crc32": "2672b534",
+      "md5": "ab0e9ee733adff924e5cb7179ad75cad",
+      "sha1": "ec5ac347fd59b577d780527c190c8440558b2e2d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Danny%20Phantom%20-%20Urban%20Jungle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Danny%20Phantom%20-%20Urban%20Jungle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Danny%20Phantom%20-%20Urban%20Jungle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Danny%20Phantom%20-%20Urban%20Jungle%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Danny%20Phantom%20-%20Urban%20Jungle%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Danny%20Phantom%20-%20Urban%20Jungle%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

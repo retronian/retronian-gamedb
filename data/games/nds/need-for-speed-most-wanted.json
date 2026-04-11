@@ -90,5 +90,66 @@
     "wikidata": "Q220365",
     "mobygames": 20141,
     "igdb": 242992
-  }
+  },
+  "roms": [
+    {
+      "name": "Need for Speed - Most Wanted (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANWE",
+      "size": 33554432,
+      "crc32": "d1b092ec",
+      "md5": "b20149bf639592eeea355e92cee1f41f",
+      "sha1": "99571fe0f405ffc06486ace84143c3c5023c7b31"
+    },
+    {
+      "name": "Need for Speed - Most Wanted (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANWP",
+      "size": 33554432,
+      "crc32": "7919f69f",
+      "md5": "471a306d19b579405139e20c6f10c01f",
+      "sha1": "27c7865411ede7a0ad20920a25bbc720f4ad9250",
+      "sha256": "b34ed71c605fbb1d35be815fefbc4a6199555d9c57931feafef249a6cc5a8af7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Need%20for%20Speed%20-%20Most%20Wanted%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Need%20for%20Speed%20-%20Most%20Wanted%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Need%20for%20Speed%20-%20Most%20Wanted%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Need%20for%20Speed%20-%20Most%20Wanted%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Need%20for%20Speed%20-%20Most%20Wanted%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Need%20for%20Speed%20-%20Most%20Wanted%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

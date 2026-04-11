@@ -62,5 +62,66 @@
     "wikidata": "Q5095334",
     "mobygames": 33794,
     "igdb": 21307
-  }
+  },
+  "roms": [
+    {
+      "name": "Chibi-Robo! - Park Patrol (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AJBE",
+      "size": 67108864,
+      "crc32": "22b3dd77",
+      "md5": "4279e56e284f3a897d8b80ec55bb80e0",
+      "sha1": "e8486931509435dac7c1f123b37174273975537a",
+      "sha256": "66618f817138ebbb0a2051bcc5b05edd37b5f66b0f90779a99611ecebed0df7e"
+    },
+    {
+      "name": "Sakasete! Chibi-Robo! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AJBJ",
+      "size": 67108864,
+      "crc32": "ab233b8c",
+      "md5": "85fb1c6490daea485cad5fa04d3bcc81",
+      "sha1": "0fbf5afa80af4605f70dbcf41ed56f5740187ddc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Chibi-Robo%21%20-%20Park%20Patrol%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Chibi-Robo%21%20-%20Park%20Patrol%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Chibi-Robo%21%20-%20Park%20Patrol%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sakasete%21%20Chibi-Robo%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sakasete%21%20Chibi-Robo%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sakasete%21%20Chibi-Robo%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -72,5 +72,47 @@
     "wikidata": "Q1224575",
     "mobygames": 8457,
     "igdb": 2736
-  }
+  },
+  "roms": [
+    {
+      "name": "Dig Dug II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "518880a9",
+      "md5": "0b535a73a18f7e0d591e770f722b792b",
+      "sha1": "50d5486880a21776b332ba933df4f0c03aa91b2e",
+      "sha256": "75f2f1033c3bfc24ea21c4525d2562ac6ab8b7210620fb9ebb20a1d47038e019"
+    },
+    {
+      "name": "Dig Dug II (USA, Europe) (Namco Museum Archives Vol 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 40976,
+      "crc32": "8d2cb010",
+      "md5": "39bf5c7bf9a900de2a5e1eb1551f1bfe",
+      "sha1": "8e8782a037889690b98e2b4859f4b1ec95779ebc",
+      "sha256": "45dca5ea3b96b70b361508b639d529903d2b483bb040f51bf4ba45913ac66ce9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dig%20Dug%20II%20%28USA%2C%20Europe%29%20%28Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dig%20Dug%20II%20%28USA%2C%20Europe%29%20%28Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dig%20Dug%20II%20%28USA%2C%20Europe%29%20%28Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

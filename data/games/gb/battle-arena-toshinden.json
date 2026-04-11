@@ -35,5 +35,65 @@
     "wikidata": "Q138787471",
     "mobygames": 42583,
     "igdb": 225275
-  }
+  },
+  "roms": [
+    {
+      "name": "Battle Arena Toshinden (Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "ce34cca4",
+      "md5": "3e986cf3598e0a690fed48aa8c7d95b1",
+      "sha1": "f4cc9193ca0b98c69c966cc32e37eae444a8d53b",
+      "sha256": "0292f562b999f11de84bca9694c8852a73e6fcdf359fab1c8293d511c51d7288"
+    },
+    {
+      "name": "Battle Arena Toshinden (USA) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "2d0c1073",
+      "md5": "75b5f31fbacb972fc104b3e77d09003b",
+      "sha1": "9c337d3f56938aa46cfc8b85c0db4631bcbe217c",
+      "sha256": "519ca6523e54b67a4b4dcc7f525d56df986e0d77c84699dcf9e022f0ae6fbd0e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Battle%20Arena%20Toshinden%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Battle%20Arena%20Toshinden%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Battle%20Arena%20Toshinden%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Battle%20Arena%20Toshinden%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Battle%20Arena%20Toshinden%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Battle%20Arena%20Toshinden%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

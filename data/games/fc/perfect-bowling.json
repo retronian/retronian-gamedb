@@ -33,5 +33,37 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1989-07-25"
+  "first_release_date": "1989-07-25",
+  "roms": [
+    {
+      "name": "Perfect Bowling (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 163856,
+      "crc32": "b7ae3374",
+      "md5": "7cb786c0e88b4895483fb69fda780af5",
+      "sha1": "663333337b5a7da57a26e274a40b8f51dbe06ca8",
+      "sha256": "e0f4bcaa0756da220ef752b5b17b74e4ef257be18e4d325b3f6f6c3a13244abe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Perfect%20Bowling%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Perfect%20Bowling%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Perfect%20Bowling%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

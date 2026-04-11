@@ -53,5 +53,49 @@
     "wikidata": "Q3567743",
     "mobygames": 26434,
     "igdb": 28039
-  }
+  },
+  "roms": [
+    {
+      "name": "Whip Rush (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49016-00",
+      "size": 524288,
+      "crc32": "7eb6b86b",
+      "md5": "85ec5e2358cc4e8041206bec66d47fe9",
+      "sha1": "f05560b088565c1c32c0039dc7bf58caa5310680",
+      "sha256": "d26b0046ba7c61887ce12163c223cb4f0e30ad98c95784ba62a237c9d1f88e93"
+    },
+    {
+      "name": "Whip Rush (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "for CES only",
+      "size": 524288,
+      "crc32": "ff39fc9f",
+      "md5": "c89f68a8fdfbc6523091784c9a0afd9f",
+      "sha1": "05ad0305c0a0b92b3ea2b3419feb995b45518175",
+      "sha256": "ca28e115ea32a97174b95a94038cc5f71eab18831254c79ad53dcddb198ae7e6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Whip%20Rush%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Whip%20Rush%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Whip%20Rush%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

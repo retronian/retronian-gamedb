@@ -62,5 +62,65 @@
   "external_ids": {
     "wikidata": "Q3496991",
     "mobygames": 26009
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Trek - The Next Generation - Future's Past (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "d1a1f7e5",
+      "md5": "5ad7b8cc37618f350faaadbaf8a013cb",
+      "sha1": "4a08586b5f2899bbaec2812df4302347bfba5202",
+      "sha256": "8c7a8aa1d16aeef31244b016ac951eab0b9ccd46daea61adbe890e5c5daa29c6"
+    },
+    {
+      "name": "Star Trek - The Next Generation - Future's Past (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "8de80428",
+      "md5": "6a5200b72e82c8e376ef3f498d3c716f",
+      "sha1": "40c4357ccb9e32d99d74f405d81f6965a45cb381",
+      "sha256": "22c907b56ac6f414365801ed375c3fbf75696ce7f34ec89e1724628dc5622957"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Trek%20-%20The%20Next%20Generation%20-%20Future%27s%20Past%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Star%20Trek%20-%20The%20Next%20Generation%20-%20Future%27s%20Past%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Trek%20-%20The%20Next%20Generation%20-%20Future%27s%20Past%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Trek%20-%20The%20Next%20Generation%20-%20Future%27s%20Past%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Star%20Trek%20-%20The%20Next%20Generation%20-%20Future%27s%20Past%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Trek%20-%20The%20Next%20Generation%20-%20Future%27s%20Past%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

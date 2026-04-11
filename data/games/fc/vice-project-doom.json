@@ -87,5 +87,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Gun-Dec (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "da220828",
+      "md5": "34863b938f73b53459c2c397a09072bc",
+      "sha1": "2d7ebd2b1c04acbff859aef55b49798767a028d6",
+      "sha256": "e53f4eec4cc1aa4e41869b16e68ee315f66b0d724096c7de112e9f03af1acb83"
+    },
+    {
+      "name": "Vice - Project Doom (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "ce8e8a9c",
+      "md5": "34c954e49ba8e7f410fc3d76ad01ece0",
+      "sha1": "36b9dfa6fa60652ca0ad15e7a5c13192b62606bc",
+      "sha256": "4ce488710acc6ba9aba812c69ab7a7c2a08587f9fef95ec6e5a67b50792e2cf2"
+    },
+    {
+      "name": "Vice - Project Doom (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "ee398627",
+      "md5": "69f1503c72087be15c4754b7104d4da6",
+      "sha1": "427ba2634756282551de6cad195c7bc91ff6cfb7",
+      "sha256": "5bb8c3bb6542c0827d18c5d137cd42d837bf7ae7acce7a28c6523e5ec245ce8f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gun-Dec%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gun-Dec%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gun-Dec%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Vice%20-%20Project%20Doom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Vice%20-%20Project%20Doom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Vice%20-%20Project%20Doom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

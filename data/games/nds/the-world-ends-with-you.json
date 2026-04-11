@@ -90,5 +90,66 @@
     "wikidata": "Q1416303",
     "mobygames": 34746,
     "igdb": 1343
-  }
+  },
+  "roms": [
+    {
+      "name": "World Ends with You, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWLP",
+      "size": 134217728,
+      "crc32": "5e8118ed",
+      "md5": "84046d58fa6ecf5fb6f7e2a0c8fe7864",
+      "sha1": "38fc2f870c7b4be2f7a4955a692dc8b2dbbea3c1"
+    },
+    {
+      "name": "World Ends with You, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWLE",
+      "size": 134217728,
+      "crc32": "9bd848a7",
+      "md5": "3bfc95753b37c97a6d30018630048a51",
+      "sha1": "23e87b1e72aab7f9b718f83e92fd1c3039f23675",
+      "sha256": "3129ce0d35f082eb37e53de1e454a1ff12c98787a93037f2351084e377e1d74d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/World%20Ends%20with%20You%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/World%20Ends%20with%20You%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/World%20Ends%20with%20You%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/World%20Ends%20with%20You%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/World%20Ends%20with%20You%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/World%20Ends%20with%20You%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

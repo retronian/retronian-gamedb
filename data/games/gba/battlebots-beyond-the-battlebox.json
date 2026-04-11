@@ -18,5 +18,65 @@
     "wikidata": "Q4869949",
     "mobygames": 19672,
     "igdb": 6320
-  }
+  },
+  "roms": [
+    {
+      "name": "BattleBots - Beyond the BattleBox (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ABEP",
+      "size": 8388608,
+      "crc32": "60bfcc8e",
+      "md5": "d7897c2530deaa9d6abc224fe9026f50",
+      "sha1": "b5825f0bcf1e02dc88be22ce4d889e27f92c01c3"
+    },
+    {
+      "name": "BattleBots - Beyond the BattleBox (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ABEE",
+      "size": 8388608,
+      "crc32": "985b3704",
+      "md5": "4d5bd1475fb898e5be99b85aa45f77fa",
+      "sha1": "aa4ee55f8bbb906edbec1761eccc067454a881f8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/BattleBots%20-%20Beyond%20the%20BattleBox%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/BattleBots%20-%20Beyond%20the%20BattleBox%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/BattleBots%20-%20Beyond%20the%20BattleBox%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/BattleBots%20-%20Beyond%20the%20BattleBox%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/BattleBots%20-%20Beyond%20the%20BattleBox%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/BattleBots%20-%20Beyond%20the%20BattleBox%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

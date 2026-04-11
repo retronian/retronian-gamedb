@@ -45,5 +45,54 @@
     "wikidata": "Q3062623",
     "mobygames": 50831,
     "igdb": 4937
-  }
+  },
+  "roms": [
+    {
+      "name": "Ivy the Kiwi (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BIVE",
+      "size": 8388608,
+      "crc32": "2486a33e",
+      "md5": "588e5e7aa51fe42bd04ba4722c54543d",
+      "sha1": "5231e561a5c6804b6453904f55b0734cf043f048"
+    },
+    {
+      "name": "Ivy the Kiwi (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BIVP",
+      "size": 8388608,
+      "crc32": "3ab3bc71",
+      "md5": "1bbda06cf6237ac07df28aa5428a35c3",
+      "sha1": "06778ee01c5c00441f3be8fbd56ef29d9445b39f",
+      "sha256": "c5106961fbd52d037fd3f5784722e1457a31527f1c6174fd0e5790c2b8eb3e17"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ivy%20the%20Kiwi%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ivy%20the%20Kiwi%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ivy%20the%20Kiwi%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ivy%20the%20Kiwi%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

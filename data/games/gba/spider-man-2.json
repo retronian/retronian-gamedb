@@ -90,5 +90,90 @@
     "wikidata": "Q2660542",
     "mobygames": 13848,
     "igdb": 200980
-  }
+  },
+  "roms": [
+    {
+      "name": "Spider-Man 2 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSPE",
+      "size": 16777216,
+      "crc32": "0145f3f4",
+      "md5": "7914ea9bed5d6936cec9b1c240247bda",
+      "sha1": "bb4a913f73139754dda95eb6b63d3b07501da970",
+      "sha256": "8643634f8923cb309c45e80d99b6e894c2f239d4ec06ce4ddcdd8feb0d9f2c9c"
+    },
+    {
+      "name": "Spider-Man 2 (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSPX",
+      "size": 16777216,
+      "crc32": "821838bc",
+      "md5": "22695f0e188adebaa5f7b865c9719daa",
+      "sha1": "042cbc4c7f720a4b0c9a2cb3e77b2339db346a1e"
+    },
+    {
+      "name": "Spider-Man 2 (Italy)",
+      "source": "no_intro",
+      "serial": "BSPI",
+      "size": 16777216,
+      "crc32": "66340f23",
+      "md5": "ddd7ea535fbd95d05686186a4b15aef6",
+      "sha1": "fe8cea2389676d965051368aabd6cc614ffabd28"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spider-Man%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spider-Man%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spider-Man%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spider-Man%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spider-Man%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spider-Man%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spider-Man%202%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spider-Man%202%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spider-Man%202%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

@@ -63,5 +63,46 @@
     "wikidata": "Q2909728",
     "mobygames": 4192,
     "igdb": 18786
-  }
+  },
+  "roms": [
+    {
+      "name": "Bomberman - Party Edition (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 271217232,
+      "crc32": "e2c62447",
+      "md5": "4933663fe8760ea7a472cad14823f32f",
+      "sha1": "c1d31583d68dabb572dbb052317475d0eeefdcb6"
+    },
+    {
+      "name": "Bomberman - Party Edition (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 278587648,
+      "crc32": "7a610e51",
+      "md5": "6329b837e715465db88d0fd898525cae",
+      "sha1": "8337155e6a188db566f8bbf14c3363ba5884931c",
+      "sha256": "e8f48a7477e2fde0840c2ef609477740bd0f76e262343cf03766d4fde416e754"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Bomberman%20-%20Party%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Bomberman%20-%20Party%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Bomberman%20-%20Party%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -87,5 +87,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Ultima VII - The Black Gate (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "c862200d",
+      "md5": "ecb391d0a1ec01fa0556dd95cc0da669",
+      "sha1": "a929f918ce5a346c88054fb63940ffd91fbf9b32",
+      "sha256": "7c459af7c798aeb178ae64c098a89a803c2a6fdd857d116f0a83d2eb66bf3166"
+    },
+    {
+      "name": "Ultima VII - The Black Gate (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e2234efb",
+      "md5": "45da246070c7abdb87216493ae6a9ef0",
+      "sha1": "c244e70befefeb4f80a792e15f7ad90b6b7a50f6",
+      "sha256": "7b01110607aeea8d01b9de05e35998ffce572a770408ec8d3e045bcb35e092ad"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ultima%20VII%20-%20The%20Black%20Gate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ultima%20VII%20-%20The%20Black%20Gate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ultima%20VII%20-%20The%20Black%20Gate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ultima%20VII%20-%20The%20Black%20Gate%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ultima%20VII%20-%20The%20Black%20Gate%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ultima%20VII%20-%20The%20Black%20Gate%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

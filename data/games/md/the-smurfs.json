@@ -54,5 +54,67 @@
     "wikidata": "Q12005929",
     "mobygames": 11900,
     "igdb": 8083
-  }
+  },
+  "roms": [
+    {
+      "name": "Smurfs, The (Brazil) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "br",
+      "serial": "T-151016-00",
+      "size": 1048576,
+      "crc32": "c991668d",
+      "md5": "e79af120eb0498b37343b34011191497",
+      "sha1": "7168a203e5e8391f2e17488fca59cd1a6a0c626b",
+      "sha256": "b6ab270bc86012d793c473fedd76783b99c55b9d7ad71085224710ec5176cfe2"
+    },
+    {
+      "name": "Smurfs, The (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-151016-00",
+      "size": 1048576,
+      "crc32": "88b30eff",
+      "md5": "4206c52e6e96b6fa301e890e6a9d3337",
+      "sha1": "0da7e621e05dc9160122d728e1fca645ff11e670",
+      "sha256": "bed0d911d36cb19ab17e950ca5e18d02a36c299e9c93ff038551aa9934b84a28"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Smurfs%2C%20The%20%28Brazil%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Smurfs%2C%20The%20%28Brazil%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Smurfs%2C%20The%20%28Brazil%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

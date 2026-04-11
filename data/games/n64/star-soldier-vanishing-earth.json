@@ -36,5 +36,59 @@
     "wikidata": "Q2039398",
     "mobygames": 18799,
     "igdb": 3604
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Soldier - Vanishing Earth (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NS6J",
+      "size": 12582912,
+      "crc32": "7ee5f51d",
+      "md5": "14a21928be46c18ba04161305e89f5de",
+      "sha1": "0b34bddd00c49530e0ef47330a05dc70ebe5f8b7",
+      "sha256": "4f5f52e4d8e02f584059b7349400685e85835ce001c8aba7b24ad34f484fece8"
+    },
+    {
+      "name": "Star Soldier - Vanishing Earth (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NS6E",
+      "size": 12582912,
+      "crc32": "ea650def",
+      "md5": "ee045a2e9f924cd8fd00018b50e46650",
+      "sha1": "14dfd0172567b47c819b3e61d1ce13281e0ffed6"
+    },
+    {
+      "name": "Star Soldier - Vanishing Earth (Japan) (En) (Beta) (1998-03-10)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "!none",
+      "size": 12582912,
+      "crc32": "2103103f",
+      "md5": "b6f9ee435b3f1b28d45bd367dfc197a4",
+      "sha1": "01b62e6417f08fc2d1aebc8c230111d5cc5d3739",
+      "sha256": "35291a9fff3bb06aeaf079987a83587cb7cc048a809b96dab99dced573976452"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Soldier%20-%20Vanishing%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Star%20Soldier%20-%20Vanishing%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Star%20Soldier%20-%20Vanishing%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

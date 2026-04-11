@@ -63,5 +63,65 @@
     "wikidata": "Q2588748",
     "mobygames": 36753,
     "igdb": 14990
-  }
+  },
+  "roms": [
+    {
+      "name": "Heroes of Mana (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHEE",
+      "size": 134217728,
+      "crc32": "962962ee",
+      "md5": "4b8d6761d168e2bccc69b2cbfbb159f0",
+      "sha1": "71d040ac7c41b58c24c5022db75abd3e3c5111cc"
+    },
+    {
+      "name": "Heroes of Mana (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHEP",
+      "size": 134217728,
+      "crc32": "7f7faea0",
+      "md5": "880c165fe85095f72ef18b1ecbcb485b",
+      "sha1": "1cd64ce27274a74b9e807412bcb6b514e4aade59"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Heroes%20of%20Mana%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Heroes%20of%20Mana%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Heroes%20of%20Mana%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Heroes%20of%20Mana%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Heroes%20of%20Mana%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Heroes%20of%20Mana%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

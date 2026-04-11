@@ -54,5 +54,38 @@
     "wikidata": "Q1892615",
     "mobygames": 16657,
     "igdb": 27971
-  }
+  },
+  "roms": [
+    {
+      "name": "Last Battle (USA, Europe, Korea) (En)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00004012-00",
+      "size": 524288,
+      "crc32": "bbfaad77",
+      "md5": "1164d4b9e1c69c914f68a3f0e126039b",
+      "sha1": "6ebef9c86779040bd2996564caa8631f4c41cf03",
+      "sha256": "d754448b30ba4fc9811cc4ab5a072e55ab3b1d6b25d3ba58b138ba100dd57f7b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Last%20Battle%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Last%20Battle%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Last%20Battle%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

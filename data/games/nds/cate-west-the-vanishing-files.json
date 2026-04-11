@@ -27,5 +27,65 @@
     "wikidata": "Q5051790",
     "mobygames": 32621,
     "igdb": 4752
-  }
+  },
+  "roms": [
+    {
+      "name": "Cate West - The Vanishing Files (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CWFE",
+      "size": 33554432,
+      "crc32": "bed48fa2",
+      "md5": "e52cde2d00b06a1d76b18c57d87a47ca",
+      "sha1": "f77d71391e196e8d812e8870ad7fcd60f982999d"
+    },
+    {
+      "name": "Cate West - The Vanishing Files (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CWFP",
+      "size": 33554432,
+      "crc32": "b4af5b2e",
+      "md5": "fa9a9ea99f1cf898ac5e5b8b594c12a7",
+      "sha1": "8bd9175851abe08a0943532702444e13ffbdc0ea"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cate%20West%20-%20The%20Vanishing%20Files%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cate%20West%20-%20The%20Vanishing%20Files%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cate%20West%20-%20The%20Vanishing%20Files%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cate%20West%20-%20The%20Vanishing%20Files%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cate%20West%20-%20The%20Vanishing%20Files%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cate%20West%20-%20The%20Vanishing%20Files%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

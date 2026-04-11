@@ -53,5 +53,67 @@
     "wikidata": "Q50277240",
     "mobygames": 38531,
     "igdb": 2321
-  }
+  },
+  "roms": [
+    {
+      "name": "Pokemon Mystery Dungeon - Explorers of Time (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YFTE",
+      "size": 67108864,
+      "crc32": "d4f9c8e7",
+      "md5": "0dfbbcf065e017c95750dd3a532523c4",
+      "sha1": "19763f0065a6b32f7b5c2a936404a65eafb0238a",
+      "sha256": "e86fcc3873751d780e82cfdc9bf47ef13911aa7ed65500d353285e879e25caad"
+    },
+    {
+      "name": "Pokemon Mystery Dungeon - Explorers of Time (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YFTP",
+      "size": 134217728,
+      "crc32": "5a8aaedb",
+      "md5": "a95888306e2681b990fcef216bf52d94",
+      "sha1": "b1917415190c8d5d9b65b17b75d350ac661959a2",
+      "sha256": "ee9b917a0369ec83c076390bf8a1d3fcca98ad41cdc160a4b4f8eae0837e68de"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20Mystery%20Dungeon%20-%20Explorers%20of%20Time%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20Mystery%20Dungeon%20-%20Explorers%20of%20Time%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20Mystery%20Dungeon%20-%20Explorers%20of%20Time%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20Mystery%20Dungeon%20-%20Explorers%20of%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20Mystery%20Dungeon%20-%20Explorers%20of%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20Mystery%20Dungeon%20-%20Explorers%20of%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

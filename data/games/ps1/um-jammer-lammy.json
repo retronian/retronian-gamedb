@@ -81,5 +81,81 @@
     "wikidata": "Q2164073",
     "mobygames": 3554,
     "igdb": 6081
-  }
+  },
+  "roms": [
+    {
+      "name": "Um Jammer Lammy (Germany)",
+      "source": "no_intro",
+      "size": 530141584,
+      "crc32": "2597850e",
+      "md5": "0d0041123915555d25616136c96363fd",
+      "sha1": "18dd6b11c2af8e7d4342fc70d24cadbcd513605e"
+    },
+    {
+      "name": "Um Jammer Lammy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 536460048,
+      "crc32": "8169daa9",
+      "md5": "45b46dc2d8013fde0b8da1f7ede5d8b5",
+      "sha1": "cf9752a7952d89a0cfc2693f620618f933663272"
+    },
+    {
+      "name": "Um Jammer Lammy (United Kingdom)",
+      "source": "no_intro",
+      "size": 530131504,
+      "crc32": "db0aa94a",
+      "md5": "b1c413199d5affc64fa8e808b9cf9995",
+      "sha1": "d8e1e073310f4eec9382660aef02744d9a38d259",
+      "sha256": "b8140015942d401a3b77e371aa2b79e5734b01289728b89d780f50d368c1dcbb"
+    },
+    {
+      "name": "Um Jammer Lammy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 536562672,
+      "crc32": "dc0c45c2",
+      "md5": "0f974c92b6cb61415fa33e88a3b945dc",
+      "sha1": "b758f3596b7812183f712689ce55a5e5ff73c3e3",
+      "sha256": "fb54a6e7ebfd5e873b33e6d087065d34106d4ceae161c64063915bcebfdd3af2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Um%20Jammer%20Lammy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Um%20Jammer%20Lammy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Um%20Jammer%20Lammy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Um%20Jammer%20Lammy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Um%20Jammer%20Lammy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Um%20Jammer%20Lammy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

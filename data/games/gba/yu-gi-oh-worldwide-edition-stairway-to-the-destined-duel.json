@@ -44,5 +44,66 @@
     "wikidata": "Q1320023",
     "mobygames": 11907,
     "igdb": 6699
-  }
+  },
+  "roms": [
+    {
+      "name": "Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AYWE",
+      "size": 16777216,
+      "crc32": "39b5e771",
+      "md5": "1e52d66f5f8a7c4f207d80ba4fccf55e",
+      "sha1": "53d4ae06d1b605f8925c53d6c585478d73ff55c0",
+      "sha256": "c4c3ef5c8980996be049a3b6efd1c99b165e565405e040ea428801a14b8c8aa9"
+    },
+    {
+      "name": "Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (Europe) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AYWP",
+      "size": 16777216,
+      "crc32": "aca5ffc6",
+      "md5": "15dbde22ef467c503e09f75b233da539",
+      "sha1": "96a490f9152acff2d0f6b2486382f1906b3baee8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20-%20Worldwide%20Edition%20-%20Stairway%20to%20the%20Destined%20Duel%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20-%20Worldwide%20Edition%20-%20Stairway%20to%20the%20Destined%20Duel%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20-%20Worldwide%20Edition%20-%20Stairway%20to%20the%20Destined%20Duel%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20-%20Worldwide%20Edition%20-%20Stairway%20to%20the%20Destined%20Duel%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20-%20Worldwide%20Edition%20-%20Stairway%20to%20the%20Destined%20Duel%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20-%20Worldwide%20Edition%20-%20Stairway%20to%20the%20Destined%20Duel%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

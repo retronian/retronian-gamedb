@@ -71,5 +71,49 @@
     "wikidata": "Q3488724",
     "mobygames": 35569,
     "igdb": 4439
-  }
+  },
+  "roms": [
+    {
+      "name": "Socket (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-23046-00",
+      "size": 1048576,
+      "crc32": "3c14e15a",
+      "md5": "9df8251cbfe05a47a5ff8fd9cf328b32",
+      "sha1": "fee9eb272362bd6f36d552a9ebfd25f5f0db7d2f",
+      "sha256": "7600e03f636c4576d6b8a33b3333989960d1e1c1f8fc5be43e55aa1d4c4cc853"
+    },
+    {
+      "name": "Time Dominator 1st (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-23033-00",
+      "size": 1048576,
+      "crc32": "7eba7a5c",
+      "md5": "5f43a98bcf064fd5789c188bba85b34f",
+      "sha1": "c9358fb57314be5792af5e97748f7b886a7194d2",
+      "sha256": "034f200188b56c9434a89cfd01115c21dbe041c88e035f9d7c4178ef8e2b3e89"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Socket%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Socket%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Socket%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

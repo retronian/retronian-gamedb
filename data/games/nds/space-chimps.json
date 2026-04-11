@@ -45,5 +45,66 @@
     "wikidata": "Q7572290",
     "mobygames": 51173,
     "igdb": 200685
-  }
+  },
+  "roms": [
+    {
+      "name": "Space Chimps (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CMPE",
+      "size": 67108864,
+      "crc32": "de3bf10b",
+      "md5": "5c030e41a39fca4b436bb96fcddf5f0e",
+      "sha1": "35d328f34ebbd17685685266755dc0ad88d82316"
+    },
+    {
+      "name": "Space Chimps (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CMPP",
+      "size": 67108864,
+      "crc32": "552e2864",
+      "md5": "15d80a1f71e4ad3727211a85de8dde85",
+      "sha1": "961847c3833811528234a79c4fd7f02d320e7312",
+      "sha256": "39bf82140355dc393d5349ada99979bfa7a784c9b610e4d98cd2c99c2540ee1c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Space%20Chimps%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Space%20Chimps%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Space%20Chimps%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Space%20Chimps%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Space%20Chimps%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Space%20Chimps%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

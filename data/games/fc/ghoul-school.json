@@ -18,5 +18,47 @@
     "wikidata": "Q1010211",
     "mobygames": 10694,
     "igdb": 48163
-  }
+  },
+  "roms": [
+    {
+      "name": "Ghoul School (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "d75b96dc",
+      "md5": "b1d10260401fc4bb69a7650e13fca21d",
+      "sha1": "c11fa872b37552546d58c8cce2202750ecf76336",
+      "sha256": "f0dc00ab6561997026cc21566bea27eed464f5d8372dd5c8f7d50a74bc9b8c17"
+    },
+    {
+      "name": "Ghoul School (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "15e49587",
+      "md5": "d85bbae0fec56eb4bd538ac95eff477e",
+      "sha1": "4bdd562fd3b63f4bbcbdf91d2a5815d427e1a0ef",
+      "sha256": "711b36737e3f0553538c28e77bc71c7a1b5930eeeb3c2a16f8c6ec881894bccf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ghoul%20School%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ghoul%20School%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ghoul%20School%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

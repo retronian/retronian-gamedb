@@ -62,5 +62,77 @@
   "external_ids": {
     "wikidata": "Q376785",
     "igdb": 259772
-  }
+  },
+  "roms": [
+    {
+      "name": "F-1 Hero MD (China) (Ja) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 1048576,
+      "crc32": "fb0f2a1b",
+      "md5": "bb854947e873e3d50a9a44165add2c58",
+      "sha1": "839f4ee42171a5b90b3eb726a7a84ab29ff505c1",
+      "sha256": "d2e402dab1e3ae70533f32c76aaa953d11a2c4c8f88eb9216c675e3a38609cd3"
+    },
+    {
+      "name": "Ferrari Grand Prix Challenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81016-00",
+      "size": 1048576,
+      "crc32": "f73f6bec",
+      "md5": "60b0ef8eb30d5f455f2131f27cd18f46",
+      "sha1": "bd08e2e0857c7b385c15d96e555f25d12457c917",
+      "sha256": "8aba0e46e3b0495f7ba2273145f8f8c43b0c7c0207f488cc82fedd645d612591"
+    },
+    {
+      "name": "Ferrari Grand Prix Challenge (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-81016-00",
+      "size": 1048576,
+      "crc32": "250111df",
+      "md5": "f5cf4a91e074640f45c6396948085ccc",
+      "sha1": "0e33965994a6f53aca93c3cb164726b913789fc1",
+      "sha256": "d773cabb5b034ec999d9dd0e09df704fbbc51b8f2b0f38970e7b1d4409cdd9e1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ferrari%20Grand%20Prix%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ferrari%20Grand%20Prix%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ferrari%20Grand%20Prix%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ferrari%20Grand%20Prix%20Challenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ferrari%20Grand%20Prix%20Challenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ferrari%20Grand%20Prix%20Challenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

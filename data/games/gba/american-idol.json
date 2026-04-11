@@ -27,5 +27,66 @@
     "wikidata": "Q4744050",
     "mobygames": 68675,
     "igdb": 248734
-  }
+  },
+  "roms": [
+    {
+      "name": "American Idol (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BIDE",
+      "size": 16777216,
+      "crc32": "f053ffbf",
+      "md5": "e140b67a8a610be8de419e4146940359",
+      "sha1": "13236689db1e2236673ae59c2a8ff84340a8a8c2",
+      "sha256": "5c037227289a4c4cbb800d0699772a902f56166e6059a8207240c4812a7d3a8c"
+    },
+    {
+      "name": "Pop Idol (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BIDP",
+      "size": 16777216,
+      "crc32": "b9a7e60d",
+      "md5": "b86876fdb1125cc3132dab1cc0d6eb74",
+      "sha1": "01fd660267705ed2a290734941b1305478df183f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/American%20Idol%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/American%20Idol%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/American%20Idol%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pop%20Idol%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pop%20Idol%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pop%20Idol%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

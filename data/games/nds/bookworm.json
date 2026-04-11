@@ -63,5 +63,65 @@
     "wikidata": "Q4943317",
     "mobygames": 8639,
     "igdb": 8325
-  }
+  },
+  "roms": [
+    {
+      "name": "Bookworm (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BKWP",
+      "size": 8388608,
+      "crc32": "f4479fdd",
+      "md5": "652185230ce197b67ab652e63399c3a5",
+      "sha1": "e34bd5ecd1045b2582143dbfa6c9e42ee16aa39d"
+    },
+    {
+      "name": "Bookworm (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BKWE",
+      "size": 8388608,
+      "crc32": "35f18a79",
+      "md5": "9fc6a6b1ac2842c3a2ce7e45bfd711a7",
+      "sha1": "6bf40fe60041ad469d4225aa74b11aa66a5db007"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bookworm%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bookworm%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bookworm%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bookworm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bookworm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bookworm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

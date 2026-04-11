@@ -62,5 +62,47 @@
     "wikidata": "Q2381277",
     "mobygames": 54225,
     "igdb": 7791
-  }
+  },
+  "roms": [
+    {
+      "name": "Blodia (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "958bcd09",
+      "md5": "f00d36670099ff22488315c94de39931",
+      "sha1": "bcb3070f617059c9d0d781ece2aee9ae74951f6a",
+      "sha256": "3d71fd9d81c75ff4204add901c4369aa71541bfcd8710f8f03e353846a061673"
+    },
+    {
+      "name": "Timeball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "5d395019",
+      "md5": "5ea85e345f3970ec6edf45da758121a0",
+      "sha1": "bd11ef42d932a1cf89fe7dc81a2f4b7a3ee06e4e",
+      "sha256": "849c520a22e6b166f34ccf7a5a56d2b1f3e9c43aa860d7df90cec7558078d3a9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Timeball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Timeball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Timeball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

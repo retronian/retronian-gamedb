@@ -160,5 +160,201 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mega Man 5 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524304,
+      "crc32": "da7d40e5",
+      "md5": "f1e084021f76a9452d2da53c4d7b0408",
+      "sha1": "9cc9d51f75236d2c80ab33bfa9a680a6e9847367",
+      "sha256": "3e7a3805d7d107b0f8a914027b71cbe19be84ec317f8b48e34cdd4ce45cc4000"
+    },
+    {
+      "name": "Mega Man 5 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "bd918f62",
+      "md5": "efc39ebe851e946f8258a45f8a08c44f",
+      "sha1": "cfe3b9a0d70f36e5d77c2df353432c6042929b1e",
+      "sha256": "010673ff28a6e9e29857260a5acaaff20b44dd09487a48900f6ab71fbcc66d13"
+    },
+    {
+      "name": "Rockman 5 - Blues no Wana! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "7e9259bf",
+      "md5": "a850e746c243b873c6e558605b378908",
+      "sha1": "1616c4b3b25b6dbb14eee506f0eca32e7e477f3b",
+      "sha256": "fa2e8b0afe8d8b9a4debefba71d53d0ada93768df58b8dc887de0f9f1ef6f69a"
+    },
+    {
+      "name": "Mega Man 5 (World) (Mega Man Legacy Collection)",
+      "source": "no_intro",
+      "size": 524304,
+      "crc32": "ebf521a2",
+      "md5": "f5d14b2570b1a715b63caf191c774b63",
+      "sha1": "f4c62aee99978484a1e9238c299addd1d4514eb0",
+      "sha256": "5876dac4f2fcf4f98914e5a7f2deb6a3205b5f7fdac035bcb72c96baa436c0f6"
+    },
+    {
+      "name": "Mega Man 5 (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524304,
+      "crc32": "436b2181",
+      "md5": "bb935fc82b14ab60e7e460621af26b5e",
+      "sha1": "b59fec1ddb746a4d82be9f6e9a0cd3a1919daeae",
+      "sha256": "1b6960f6e9c023171c0f2f697ac9c09aec50679aa1d9ff9fd961fa5b286dc96a"
+    },
+    {
+      "name": "Mega Man 5 (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "83110de3",
+      "md5": "86633b0d3ce1c581d18909b6ace02b58",
+      "sha1": "5c0c3dad09cd99c2e1b081ec23d27f681df18826",
+      "sha256": "ee1adf5b533b607e3cb774f250deea3a842e3360e599e7687f4298de84bb71bb"
+    },
+    {
+      "name": "Rockman 5 - Blues no Wana! (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "988e8db1",
+      "md5": "12b7dded48cff4b8e8b95ba54eb978e5",
+      "sha1": "5694edd0853c0dd5c977ee1d183e53e447ae9700",
+      "sha256": "0bce793c1956d7aa12e694df809645a894ec2b9530637b350b084585529988e8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%205%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%205%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%205%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%205%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%205%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%205%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rockman%205%20-%20Blues%20no%20Wana%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rockman%205%20-%20Blues%20no%20Wana%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rockman%205%20-%20Blues%20no%20Wana%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%205%20%28World%29%20%28Mega%20Man%20Legacy%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%205%20%28World%29%20%28Mega%20Man%20Legacy%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%205%20%28World%29%20%28Mega%20Man%20Legacy%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%205%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%205%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%205%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%205%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%205%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%205%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rockman%205%20-%20Blues%20no%20Wana%21%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rockman%205%20-%20Blues%20no%20Wana%21%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rockman%205%20-%20Blues%20no%20Wana%21%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

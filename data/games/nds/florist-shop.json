@@ -17,5 +17,50 @@
   "external_ids": {
     "wikidata": "Q5461911",
     "igdb": 44070
-  }
+  },
+  "roms": [
+    {
+      "name": "Florist Shop (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B2FE",
+      "size": 8388608,
+      "crc32": "60bbd490",
+      "md5": "1df68bff94b5d9d8af898c36ea878225",
+      "sha1": "d2ac9494d167bb25ea7f6d775644381049e713a2"
+    },
+    {
+      "name": "Florist Shop (Germany)",
+      "source": "no_intro",
+      "serial": "BFWD",
+      "size": 8388608,
+      "crc32": "ed1536de",
+      "md5": "04548299bf71b2fbb8746daaa2476d4b",
+      "sha1": "0c900a27b00938aa985a1eeeff4194aa0886244e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Florist%20Shop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Florist%20Shop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Florist%20Shop%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Florist%20Shop%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

@@ -52,5 +52,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Wars (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "6c0a726c",
+      "md5": "9f4513692bfb6e809d0348f821fc17c8",
+      "sha1": "b75b55edb229e1d7bd58e2948853ce7d88d87342",
+      "sha256": "4ad566721ac27a1c678f604b62f314cfb01d26cd433b53379e55d95cbe0bd76b"
+    },
+    {
+      "name": "Dragon Wars (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "f824d022",
+      "md5": "65ce03a19847134ccde836a58ca2e03f",
+      "sha1": "941614f876a423358a9fe6399000ec3b06f77f58",
+      "sha256": "37079e812285e857d1d7ac0b23e69d56713f9f3cfc1fef8785278f8e4be4321f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Wars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Wars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Wars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Wars%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Wars%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Wars%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

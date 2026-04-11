@@ -44,5 +44,75 @@
     "wikidata": "Q3500399",
     "mobygames": 11540,
     "igdb": 74421
-  }
+  },
+  "roms": [
+    {
+      "name": "Strider (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "8dc1712b",
+      "md5": "bc62cbfe9e49479404e55981ad708627",
+      "sha1": "7b482029bb0bd4f32eaca9a4896fd4e8dd0c04d0",
+      "sha256": "02c255a2d21105b63b460025f257c4f86ccb597c06494690aba28e6f921f5fe6"
+    },
+    {
+      "name": "Strider Hiryu (Japan) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "b95a20e3",
+      "md5": "0649e021e0d44efbbf8e3ec396a1f5ba",
+      "sha1": "1758091050ebc0ad2dc738334a3dc23f4bca4e39",
+      "sha256": "300a76216bcc9627f5ac6e8164fafae049bb7ea41d8cd305be00227c5a356dbe"
+    },
+    {
+      "name": "Strider (USA) (Capcom Classics Mini Mix)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "d1e7c089",
+      "md5": "f366d3960f7db187f9f47341a3d4e6c9",
+      "sha1": "c5ea690aa5fbed131f809fdc2f78b07d198e2223",
+      "sha256": "63bc32fcf4d36c5732edbcdf727b6aa31be8fbed8d8804b84a1fb16213c8de3f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Strider%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Strider%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Strider%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Strider%20Hiryu%20%28Japan%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Strider%20Hiryu%20%28Japan%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Strider%20Hiryu%20%28Japan%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -35,5 +35,38 @@
   "external_ids": {
     "wikidata": "Q6428752",
     "igdb": 6494
-  }
+  },
+  "roms": [
+    {
+      "name": "Konami Collector's Series - Arcade Advanced (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AKCE",
+      "size": 4194304,
+      "crc32": "2db31825",
+      "md5": "e879e454a201eeeb31a942406048501a",
+      "sha1": "58bbf8c1e13e4dc594fdfe5357b4ceeab1dc0348",
+      "sha256": "c4a9b63ebabd8065fecd05aae245b3f7b3f656b0fd589df9983dad40b75393c7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Konami%20Collector%27s%20Series%20-%20Arcade%20Advanced%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Konami%20Collector%27s%20Series%20-%20Arcade%20Advanced%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Konami%20Collector%27s%20Series%20-%20Arcade%20Advanced%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

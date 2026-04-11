@@ -61,5 +61,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Final Blow (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-11033-00",
+      "size": 524288,
+      "crc32": "48ad505d",
+      "md5": "f2c1ca2b1ab0febcf6d244785d477a50",
+      "sha1": "610c3136e6ddccc41ab216affd07034fa46341a8",
+      "sha256": "577aad20bd9193fae69f9297298eab3a8c4fc2929582c75c42b3d45fe21ad2f5"
+    },
+    {
+      "name": "Final Blow (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-11033-00",
+      "size": 524288,
+      "crc32": "a26e957d",
+      "md5": "46832fb41605671ef4574a26c09ee854",
+      "sha1": "edb14efe9f18a8072c7932759d6cc9cb5eaaf30d",
+      "sha256": "d83fbb23f77a209334e4b2da8a3d49983d211be006e32cb3d89d76e86fecc632"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Final%20Blow%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Final%20Blow%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Final%20Blow%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

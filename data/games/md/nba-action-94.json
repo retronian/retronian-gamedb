@@ -11,6 +11,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "NBA Action",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1994-01-01",
@@ -18,5 +27,60 @@
     "wikidata": "Q3334217",
     "mobygames": 32617,
     "igdb": 45552
-  }
+  },
+  "roms": [
+    {
+      "name": "NBA Action '94 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1221-00",
+      "size": 2097152,
+      "crc32": "99c348ba",
+      "md5": "b3ed61c2da404c31d2a5b6f6ada7b7ff",
+      "sha1": "e2b5290d656219636e2422fcf93424ae602c4d29",
+      "sha256": "cb5d0d8dbf2b96a14ed4a08b6aa0479421cd40598a5ec3bc89b4a84c917b3324"
+    },
+    {
+      "name": "NBA Action '94 (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1221-00",
+      "size": 2097152,
+      "crc32": "2491df2f",
+      "md5": "3cd64b69e1f837d18c57f9c7b33d8ca2",
+      "sha1": "af63f96417a189f5061f81ba0354d4e38b0b7d76",
+      "sha256": "7c182f764b9a1d96a696794d0dd8dbd8646727c1a6cf6b3977c88ac2278401de"
+    },
+    {
+      "name": "NBA Action '94 (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1221-00",
+      "size": 2097152,
+      "crc32": "fe43c79d",
+      "md5": "a23dd8070c5227246931b0caa52f5156",
+      "sha1": "da6fcc1d7069e315797dd40a89e21963ab766b9e",
+      "sha256": "4883f94bd9cd182fac90cdfb68e06d79c37a4ac99ed5f5c209249376cae2ea8d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/NBA%20Action%20%2794%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/NBA%20Action%20%2794%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/NBA%20Action%20%2794%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

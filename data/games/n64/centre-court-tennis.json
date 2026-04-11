@@ -53,5 +53,66 @@
     "wikidata": "Q4896761",
     "mobygames": 32203,
     "igdb": 3456
-  }
+  },
+  "roms": [
+    {
+      "name": "Centre Court Tennis (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NTSP",
+      "size": 12582912,
+      "crc32": "b1d26f39",
+      "md5": "31fb88048076ace4bd4205c5f40414ab",
+      "sha1": "c6f1251b4b7841220f670d8a0af844b34c5cfada",
+      "sha256": "872ada665b49641f97b3b6e7bb1ebbc09487d6b5fb6ab92a1e5802f5c3e669fb"
+    },
+    {
+      "name": "Let's Smash (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NTSJ",
+      "size": 12582912,
+      "crc32": "455a1770",
+      "md5": "aee5016e6d60d12ad768e9f6d10adde8",
+      "sha1": "6fda28a79cec30b6c52c3dbc96b513da16bfa4d0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Centre%20Court%20Tennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Centre%20Court%20Tennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Centre%20Court%20Tennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Let%27s%20Smash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Let%27s%20Smash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Let%27s%20Smash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

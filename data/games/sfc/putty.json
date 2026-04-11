@@ -56,6 +56,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Putty Squad",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1992-02-01",
@@ -63,5 +72,47 @@
     "wikidata": "Q3411064",
     "mobygames": 7697,
     "igdb": 39021
-  }
+  },
+  "roms": [
+    {
+      "name": "Putty Squad (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1572864,
+      "crc32": "c061f0a8",
+      "md5": "27a26ed8b125a68508af6549be26cd0e",
+      "sha1": "068a10899bcf3e4dd9007d6eb34bafe695b327ac",
+      "sha256": "ba135ad37fef9932c2f840cf6cf82d559c232dfe0f85ba068a34755f3ad5f778"
+    },
+    {
+      "name": "Putty Squad (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "8e57bb02",
+      "md5": "a10ba42b909fe0cd46d5606f3538e310",
+      "sha1": "765352a55bfb58e52f08e403823b0c77e8650300",
+      "sha256": "9c17743dc892c3bb8adfe51f3b6f619d3c3530903ea0feffe36e5d6f9a91a0f2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Putty%20Squad%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Putty%20Squad%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Putty%20Squad%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

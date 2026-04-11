@@ -54,5 +54,67 @@
     "wikidata": "Q2072787",
     "mobygames": 31772,
     "igdb": 46215
-  }
+  },
+  "roms": [
+    {
+      "name": "Fighting Masters (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-24063-00",
+      "size": 524288,
+      "crc32": "39be80ec",
+      "md5": "baf3777249a1bbb03efb3dd419e4d589",
+      "sha1": "f944a8314d615ef58f0207e5760767fb417cbeb9",
+      "sha256": "8f4b3029b80249ee235f83257064f3302b1040ce5fdc27951e0ee8817dbee5cb"
+    },
+    {
+      "name": "Fighting Masters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-24056-00",
+      "size": 524288,
+      "crc32": "5f51983b",
+      "md5": "b6813ec7475012936d017c3c93412282",
+      "sha1": "2a860f06473e436041c2017342deb9125c1c7af5",
+      "sha256": "338ffb936ad0c8abb1829ed8ef3401866eff9f56313f2f46ac7e056307cb2e53"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Fighting%20Masters%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Fighting%20Masters%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Fighting%20Masters%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Fighting%20Masters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Fighting%20Masters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Fighting%20Masters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

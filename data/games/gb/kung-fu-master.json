@@ -19,11 +19,149 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "スパルタンX",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": true
+    },
+    {
+      "text": "스파르탄 X",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Kung-Fu Master",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Kung-Fu Master",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Kung-Fu Master",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Kung-Fu Master",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1990-01-01",
+  "first_release_date": "1984-12-01",
   "external_ids": {
     "wikidata": "Q3200419",
-    "igdb": 86202
-  }
+    "igdb": 86202,
+    "mobygames": 16317
+  },
+  "descriptions": [
+    {
+      "text": "アーケードから移植された横スクロールアクションゲーム。カンフーマスターとなり、次々と現れる敵を倒して進んでいきます。各階にはボスが待ち受けています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kung-Fu Master (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "3340e600",
+      "md5": "18fe3526f170f47a277e0fac17d90170",
+      "sha1": "b0bb485e2b57793da9f153db074c13a060a1e0d4",
+      "sha256": "dff23b973c6c5e85da109dfb346ee396625fa7f934bc7c4b853ce4f237dfa42a"
+    },
+    {
+      "name": "Kung-Fu Master (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "e0c33c1a",
+      "md5": "8cbbfda8754ccacaae46ac571f46a034",
+      "sha1": "1ce6301d56294b71068514c666ad2157551134e7",
+      "sha256": "d56f6ab3a076b0b5164ace9b416fe1f7952b9e7b40f709f5755f807d49112a3f"
+    },
+    {
+      "name": "Spartan X (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "ca7b4229",
+      "md5": "83f05d3ff8da7e340a75d8e1234d8834",
+      "sha1": "e2319966ea5ebb99db6f6178bb927dc1c7f734b2",
+      "sha256": "4f18b262b683f8849dee9999959470d942698ab153a31bbfc6df34a8e5d7438a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kung-Fu%20Master%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kung-Fu%20Master%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kung-Fu%20Master%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kung-Fu%20Master%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Spartan%20X%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Spartan%20X%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Spartan%20X%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

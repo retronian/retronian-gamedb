@@ -60,5 +60,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Bouken! Puzzle Road (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "9f0f3606",
+      "md5": "0eb1920c5559f8a87b416739f192ba98",
+      "sha1": "16d54de69814e1c9aae67a59bb0dcd2a1216395b",
+      "sha256": "ebf51bb467ab07850e6039c75cca53c2a5d03c54ba09c1e91f9dc8a493a50a75"
+    },
+    {
+      "name": "Daedalian Opus (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "b6b51fce",
+      "md5": "34b3d0f0843b83e5b0e00bc3d0669793",
+      "sha1": "7a9294de582f7d3ffd8d14a786774c56af7ce7bc",
+      "sha256": "06d2f49483cf16f00580ba227d86174fdb9f72e555d9a9afea6aebcbfff012e4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bouken%21%20Puzzle%20Road%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bouken%21%20Puzzle%20Road%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bouken%21%20Puzzle%20Road%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Daedalian%20Opus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Daedalian%20Opus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Daedalian%20Opus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

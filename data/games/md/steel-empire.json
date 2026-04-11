@@ -54,5 +54,78 @@
     "wikidata": "Q3053294",
     "mobygames": 27128,
     "igdb": 45536
-  }
+  },
+  "roms": [
+    {
+      "name": "Empire of Steel (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-081046-00",
+      "size": 1048576,
+      "crc32": "e5517b77",
+      "md5": "65585e683767e2255fbcc0103130b313",
+      "sha1": "00109e6de5b823525b3ba519222fecc4e229f6d1",
+      "sha256": "27b42877991bb62b754b8c5bda16a81936fbcd311371ac7e31c556490baadf69"
+    },
+    {
+      "name": "Steel Empire (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81046-00",
+      "size": 1048576,
+      "crc32": "d0e7a0b6",
+      "md5": "9105a05e3e2e0ae261789fdafca676a2",
+      "sha1": "45c0b9d85b4a8053c3f3432828626dae47022634",
+      "sha256": "eeea96d6d6f7e237c1d38f64741b8cc61ce37bae4b0928086ea54c1938af5702"
+    },
+    {
+      "name": "Steel Empire (USA) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81046-00",
+      "size": 1048576,
+      "crc32": "097f6440",
+      "md5": "ae43c175914d53406aec1361caf810db",
+      "sha1": "948c7dbfc37ad5504d9cfd12567a79e6323cc014",
+      "sha256": "eb536ac6c66ce568ea0ec93931da99568f77d11c1339196272c30ee354bfaac6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Empire%20of%20Steel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Empire%20of%20Steel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Empire%20of%20Steel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Steel%20Empire%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Steel%20Empire%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Steel%20Empire%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

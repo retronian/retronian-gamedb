@@ -45,5 +45,78 @@
     "wikidata": "Q2017312",
     "mobygames": 8902,
     "igdb": 5339
-  }
+  },
+  "roms": [
+    {
+      "name": "Aaahh!!! Real Monsters (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T139066-50",
+      "size": 2097152,
+      "crc32": "7ad115ff",
+      "md5": "692c8ae1698c12ae160b466a796653e2",
+      "sha1": "9f6361fecbeee1c703b5c988d10a5cb09751ad2a",
+      "sha256": "9004f86d4296cd1dc7176f3ef3fe64cc7324a16811b638d2696e5511b5ccf840"
+    },
+    {
+      "name": "Aaahh!!! Real Monsters (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 2097152,
+      "crc32": "f4b44b82",
+      "md5": "3bb25145591e429ffe2c22a933841613",
+      "sha1": "b0f1885e74e5aa39872f09444d82c8ebf284eba1",
+      "sha256": "cd080d632dc88ed0122fa4a5b1240a300e007a7819e044cfe2586950149b9408"
+    },
+    {
+      "name": "Aaahh!!! Real Monsters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T139066-00",
+      "size": 2097152,
+      "crc32": "fdc80bfc",
+      "md5": "9f54481697efc9e6b96fcd054883ae70",
+      "sha1": "fa579a7e47ee4a1bdb080bbdec1eef480a85293e",
+      "sha256": "64922a43a51de265c97414a0fa67d10c0955533bdfdd3c5a41b4a996acf627ef"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Aaahh%21%21%21%20Real%20Monsters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Aaahh%21%21%21%20Real%20Monsters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Aaahh%21%21%21%20Real%20Monsters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Aaahh%21%21%21%20Real%20Monsters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Aaahh%21%21%21%20Real%20Monsters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Aaahh%21%21%21%20Real%20Monsters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

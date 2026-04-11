@@ -27,5 +27,90 @@
     "wikidata": "Q2846258",
     "mobygames": 24310,
     "igdb": 4525
-  }
+  },
+  "roms": [
+    {
+      "name": "Andre Agassi Tennis (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-101016-01",
+      "size": 524288,
+      "crc32": "224256c7",
+      "md5": "0d3186e5319dc2d21b14a7a2a59581ee",
+      "sha1": "70fa6185a4ebbbc9a6b2c7428c489ba5303859b0",
+      "sha256": "f3171b9c9dea5b4a9a2bdaec1ac6e39fd71e02fa786001e7e355155b686b1760"
+    },
+    {
+      "name": "Andre Agassi Tennis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-101016-00",
+      "size": 524288,
+      "crc32": "e755dd51",
+      "md5": "047d17cfd2c2b4528869da29a40f34af",
+      "sha1": "aadf22d36cd745fc35676c07f04df3de579c422c",
+      "sha256": "e186628dd3d8a55d8910eb75e7c31c3fd70499d11ec9256aad902f7e2fba091b"
+    },
+    {
+      "name": "Andre Agassi Tennis (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 524288,
+      "crc32": "3bbf700d",
+      "md5": "cf1f25d730fc620fe8f1cd12a3b5a276",
+      "sha1": "f4a05902002273788572fcd49502db44e5dff963",
+      "sha256": "f24f0468ced46cb5257a31963cbc65a3e4e383cfae59a6a82bc6f1d74ea3ed9e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Andre%20Agassi%20Tennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Andre%20Agassi%20Tennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Andre%20Agassi%20Tennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Andre%20Agassi%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Andre%20Agassi%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Andre%20Agassi%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Andre%20Agassi%20Tennis%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Andre%20Agassi%20Tennis%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

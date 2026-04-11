@@ -17,5 +17,66 @@
   "external_ids": {
     "wikidata": "Q118152898",
     "igdb": 21526
-  }
+  },
+  "roms": [
+    {
+      "name": "Ultimate Mortal Kombat (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YUTE",
+      "size": 67108864,
+      "crc32": "aff5cd37",
+      "md5": "e155c64b875fd1458abf291f650756f6",
+      "sha1": "8d70bc10b1d8f9abba9d140e977fe55ac20f1c47"
+    },
+    {
+      "name": "Ultimate Mortal Kombat (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YUTP",
+      "size": 67108864,
+      "crc32": "130e6aac",
+      "md5": "817e92cbf5714ac461a5a67c56fabe28",
+      "sha1": "1fec84aa2f6db430f540858d95668d4a5bd0bdf3",
+      "sha256": "5c70a46e54559a806f3052d7d36ee5d58246cef0b0abb3c34b725a9215c3d09a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ultimate%20Mortal%20Kombat%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ultimate%20Mortal%20Kombat%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ultimate%20Mortal%20Kombat%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ultimate%20Mortal%20Kombat%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ultimate%20Mortal%20Kombat%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ultimate%20Mortal%20Kombat%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

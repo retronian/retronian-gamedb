@@ -63,5 +63,53 @@
     "wikidata": "Q9086924",
     "mobygames": 37502,
     "igdb": 21336
-  }
+  },
+  "roms": [
+    {
+      "name": "Legend of Kage 2, The (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YLKP",
+      "size": 33554432,
+      "crc32": "5cd1d2f9",
+      "md5": "f7ac6adf58d77be467aded7c838961aa",
+      "sha1": "cf221569007ae8da053188dae8e1df31b5f8b344"
+    },
+    {
+      "name": "Legend of Kage 2, The (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YLKE",
+      "size": 33554432,
+      "crc32": "0b58b40b",
+      "md5": "4bc998c33dd6ff0252fc5e5508b4c9a9",
+      "sha1": "524922555ef2eb19277fa5139e57bb97233089a7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Legend%20of%20Kage%202%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Legend%20of%20Kage%202%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Legend%20of%20Kage%202%2C%20The%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Legend%20of%20Kage%202%2C%20The%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,76 @@
     "wikidata": "Q925269",
     "mobygames": 1128,
     "igdb": 1622
-  }
+  },
+  "roms": [
+    {
+      "name": "Mortal Kombat 4 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NM4P",
+      "size": 16777216,
+      "crc32": "635adeca",
+      "md5": "264b82f0fc2431d6eefde9c9f3ed7596",
+      "sha1": "34a25cc52f0d2b5ff3a65552f9d43d8714a8e10c",
+      "sha256": "9bf17deaf7a7beabccb285ccf6e0394cbeb2cc88dcc390efdc2a79ef20e79f34"
+    },
+    {
+      "name": "Mortal Kombat 4 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NM4E",
+      "size": 16777216,
+      "crc32": "b7f46516",
+      "md5": "c70b91430866300ce38b49098019ef9d",
+      "sha1": "f47d05bbd1bcadddff2ec7a21bc2e795cbef9f9b",
+      "sha256": "ea908a1f790340dc34f1056c4799f7d0984048d90344607f2910d96abf036478"
+    },
+    {
+      "name": "Mortal Kombat 4 (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 16777216,
+      "crc32": "ea494c11",
+      "md5": "08157e5657048aa90783d772d2940e1f",
+      "sha1": "535429836cfd4b6f533dd6dda540a19286613518"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mortal%20Kombat%204%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mortal%20Kombat%204%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mortal%20Kombat%204%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mortal%20Kombat%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mortal%20Kombat%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mortal%20Kombat%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

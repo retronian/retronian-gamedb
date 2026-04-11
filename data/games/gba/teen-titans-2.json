@@ -11,11 +11,81 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Teen Titans",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "2006-01-01",
+  "first_release_date": "2005-10-16",
   "external_ids": {
     "wikidata": "Q28499085",
-    "igdb": 49214
-  }
+    "igdb": 49214,
+    "mobygames": 182700
+  },
+  "roms": [
+    {
+      "name": "Teen Titans (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BBLE",
+      "size": 8388608,
+      "crc32": "12a0442c",
+      "md5": "148c4190c830886bece41eb380ea3533",
+      "sha1": "94bf3fc459321450ff2b1e75a0b98efacffd2d0b"
+    },
+    {
+      "name": "Teen Titans 2 (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZUE",
+      "size": 8388608,
+      "crc32": "ccacd823",
+      "md5": "c9ce90b98c6cc2f60847d6f39ecf11c5",
+      "sha1": "1cfca926300db1719aa671404386a19b55316054"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Teen%20Titans%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Teen%20Titans%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Teen%20Titans%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Teen%20Titans%202%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Teen%20Titans%202%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Teen%20Titans%202%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

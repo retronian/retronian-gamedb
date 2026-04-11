@@ -54,5 +54,65 @@
     "wikidata": "Q2068615",
     "mobygames": 11893,
     "igdb": 7761
-  }
+  },
+  "roms": [
+    {
+      "name": "Attack of the Killer Tomatoes (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "9e62d810",
+      "md5": "e089e1606604c0a33c36d5549f2fa186",
+      "sha1": "262404b8a72d18583678b6a6ecef955d628d1645",
+      "sha256": "d7e84b2e310b153b6f942dd9d8166fded2574e2a47344efb24260994d9c777c8"
+    },
+    {
+      "name": "Attack of the Killer Tomatoes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "80f6aad9",
+      "md5": "f97b6e5a2137143e2ca0f006d58cd690",
+      "sha1": "aee9881c78580ad6bda54afac39f4bea0edbee99",
+      "sha256": "e13df3405c6cdadc5748ca19781f03344547934a7d2643844b9b482e0894cc50"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Attack%20of%20the%20Killer%20Tomatoes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Attack%20of%20the%20Killer%20Tomatoes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Attack%20of%20the%20Killer%20Tomatoes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Attack%20of%20the%20Killer%20Tomatoes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Attack%20of%20the%20Killer%20Tomatoes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Attack%20of%20the%20Killer%20Tomatoes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

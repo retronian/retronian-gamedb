@@ -63,5 +63,60 @@
     "wikidata": "Q2040154",
     "mobygames": 16179,
     "igdb": 20707
-  }
+  },
+  "roms": [
+    {
+      "name": "Viewpoint (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-24096-00",
+      "size": 2097152,
+      "crc32": "59c71866",
+      "md5": "8cd197ae13fa8b4e93cc109502db957b",
+      "sha1": "f25f770464448da4e49eab3832100ba480c9844a",
+      "sha256": "d4a7945950fd7d713f54a45f7d0af4da67c0205723a5b797a93aa68d6073119a"
+    },
+    {
+      "name": "Viewpoint (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-XXXXX-00",
+      "size": 1572864,
+      "crc32": "decd238f",
+      "md5": "8ac8e035510565b98260f4136cd3a837",
+      "sha1": "89927c74f81b6d1ea80cfec4e22ba9454c9c4e25",
+      "sha256": "ffb871737fb8c008ecaf61006259087e9eaafcc80571c0b2da9875e38d60c19b"
+    },
+    {
+      "name": "Viewpoint (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "XXXXXXXX-00",
+      "size": 4194304,
+      "crc32": "d13fb892",
+      "md5": "8222823032b0e893768033e15ca319c7",
+      "sha1": "ad6234d588bd3aa44a020633e6ec9020795bfa7e",
+      "sha256": "96455006eceaf05a1cb2c642502f039b8e0338dbbedea504911b444231856299"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Viewpoint%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Viewpoint%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Viewpoint%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

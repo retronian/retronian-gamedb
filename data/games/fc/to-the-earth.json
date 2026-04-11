@@ -63,5 +63,65 @@
     "wikidata": "Q2361559",
     "mobygames": 8545,
     "igdb": 48117
-  }
+  },
+  "roms": [
+    {
+      "name": "To the Earth (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "af0c819f",
+      "md5": "9b2e15bc7728641f3ad94e92d2692cce",
+      "sha1": "35bbe8bbfce80ee8293a7466c5dbc8bd5b417743",
+      "sha256": "246437916059621deb399cf957745783c6737d364dfcfdadad167639c7e42598"
+    },
+    {
+      "name": "To the Earth (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "24a7fc11",
+      "md5": "5fbbaf1c09d90c77cff9021f439832f5",
+      "sha1": "7ee7f246a7b504f7260b6cffbfc60cf223588a75",
+      "sha256": "37416a44d47965712071bae217905312c8543513a1123385ba6c14f10b24ec26"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/To%20the%20Earth%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/To%20the%20Earth%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/To%20the%20Earth%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/To%20the%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/To%20the%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/To%20the%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

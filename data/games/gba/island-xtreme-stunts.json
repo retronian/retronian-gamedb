@@ -35,5 +35,38 @@
   "external_ids": {
     "wikidata": "Q110253213",
     "igdb": 300709
-  }
+  },
+  "roms": [
+    {
+      "name": "Island Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AXTE",
+      "size": 4194304,
+      "crc32": "3beb5446",
+      "md5": "081eb069af9e5cdc0cb7515a7249ba52",
+      "sha1": "4eec876994bdea873188fe10033c48c924d129ec",
+      "sha256": "194cb107f1355292c86b56b76c937fd853ba8eb81cc2637aa56c3a2e47bcf4d1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Island%20Xtreme%20Stunts%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Island%20Xtreme%20Stunts%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Island%20Xtreme%20Stunts%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

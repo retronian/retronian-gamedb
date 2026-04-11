@@ -83,6 +83,51 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "FRONT MISSION3",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Front Mission 3",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Front Mission 3",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Front Mission 3",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Front Mission 3",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1995-02-24",
@@ -90,5 +135,99 @@
     "wikidata": "Q2526022",
     "mobygames": 13788,
     "igdb": 1502
-  }
+  },
+  "roms": [
+    {
+      "name": "Front Mission 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 348139184,
+      "crc32": "8c7685b6",
+      "md5": "0f52b2283a663403ee95d16dd41a697b",
+      "sha1": "a45f166515d6689a0c1a5f104b3444736f7e6dab",
+      "sha256": "b8082c4fa16ad66c9ea5bd21b979c7fca86f85a666b65426f79df19a417d3b2a"
+    },
+    {
+      "name": "Front Mission 3 (Germany)",
+      "source": "no_intro",
+      "size": 332706160,
+      "crc32": "de1f4b12",
+      "md5": "9ecea7415efd0432f704736d9e0fff4b",
+      "sha1": "ea8b799fe4a0121189c03afcf88a837f7135ba00"
+    },
+    {
+      "name": "Front Mission 3 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 332603792,
+      "crc32": "864489e6",
+      "md5": "c2336a3551fb5e390112ffc9babdcc0e",
+      "sha1": "e0a98f25d3daf7d34fcd6add42712a15fe30b917"
+    },
+    {
+      "name": "Front Mission 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 336981776,
+      "crc32": "62822a6b",
+      "md5": "0131fdd124d7b8b7f35a492f658ec59a",
+      "sha1": "72728b781c30712d25fce7913d7f931c01376e9a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Front%20Mission%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Front%20Mission%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Front%20Mission%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Front%20Mission%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Front%20Mission%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Front%20Mission%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Front%20Mission%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Front%20Mission%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Front%20Mission%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

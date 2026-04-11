@@ -35,5 +35,55 @@
   "external_ids": {
     "wikidata": "Q5305286",
     "igdb": 17461
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Spirit - The New Legend (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6c5b7e39",
+      "md5": "3e853bb7b009559ef8824ab27a54d19b",
+      "sha1": "e702ecbdc094c03cd0def87cbd39b8d9d2fbb047",
+      "sha256": "cfa64af416cb3e54e078d09bc0ea42cc6c7476040ee6f41d4d0806f77ef0e0c1"
+    },
+    {
+      "name": "Dragon Spirit - The New Legend (World) (Namco Museum Archives Vol 1)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "19a24472",
+      "md5": "28f47d65464b047f05267f1a3e033196",
+      "sha1": "54bd3d4a83d1586f419a53794eb4864ade69119c",
+      "sha256": "415d3ac64f6be71b50b2b9425269c3a13eaecf933803ff7610a7e3a954aa1781"
+    },
+    {
+      "name": "Dragon Spirit - The New Legend (World) (Evercade)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "640a5d3b",
+      "md5": "f52b6c09971e172268cf5fc96569a4be",
+      "sha1": "0df1ecca8b075daff3985546897c43c723a2c537",
+      "sha256": "ca6b6bbfe564aa1264e8aff324d10ac09d47434809e33654d30b3e068bda3fb9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Spirit%20-%20The%20New%20Legend%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Spirit%20-%20The%20New%20Legend%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Spirit%20-%20The%20New%20Legend%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,75 @@
     "wikidata": "Q3088033",
     "mobygames": 8085,
     "igdb": 16743
-  }
+  },
+  "roms": [
+    {
+      "name": "Uniracers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "383858c7",
+      "md5": "1066cfd0c6be4dbdfede796751e801c5",
+      "sha1": "cb249cf7301bdd985e6fe4bc4c942bf4f86d7d83",
+      "sha256": "859ec99fdc25dd9b239d9085bf656e4f49c93a32faa5bb248da83efd68ebd478"
+    },
+    {
+      "name": "Unirally (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "d8583ed7",
+      "md5": "2209427113f6535329c8b17ebab8a2e5",
+      "sha1": "d39ec113ef153ec9b7bacf12ed4a47f1a6d63a06",
+      "sha256": "a1105819d48c04d680c8292bbfa9abbce05224f1bc231afd66af43b7e0a1fd4e"
+    },
+    {
+      "name": "Unirally (Europe) (Beta) (1994-11-29)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "c362c7b1",
+      "md5": "dad6658fba469309db2a8d0ed86551f5",
+      "sha1": "14e7574ac2dacdf8a736df26414cb2f772684cfb",
+      "sha256": "bbfbcf24e36b297710c1cc88948814ac651336c19ff8ec67b6cdfe64496bd627"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Uniracers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Uniracers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Uniracers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Unirally%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Unirally%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Unirally%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

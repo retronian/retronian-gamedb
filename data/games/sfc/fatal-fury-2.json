@@ -115,5 +115,75 @@
     "wikidata": "Q1152450",
     "mobygames": 6600,
     "igdb": 4435
-  }
+  },
+  "roms": [
+    {
+      "name": "Fatal Fury 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2621440,
+      "crc32": "304b2610",
+      "md5": "05f8e0cad9ee01a5b2570b6fdd949f95",
+      "sha1": "a9613887cb01a5abae7fedfca9a629c087c064c4",
+      "sha256": "f4cabd80dd20b076ff90bf1f394b5dff5800900fa1fe178a42b6af967fd80c25"
+    },
+    {
+      "name": "Fatal Fury 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2621440,
+      "crc32": "a26ebfef",
+      "md5": "3e52a37d6c408634bad0f0d9b8562eba",
+      "sha1": "e1970d1943a3ddb2189f7b4a40b15297507d4cb8",
+      "sha256": "a0c554d46034caef231c36dd6849828ca39703678fb7fdd15a11f292b93bcd6b"
+    },
+    {
+      "name": "Fatal Fury 2 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2621440,
+      "crc32": "cb8480de",
+      "md5": "5b7d26c6bf0bf21fa8ec425a3517e46e",
+      "sha1": "e14c682947e398ddd9ad2121a01f1e0b72d1ad9c",
+      "sha256": "79281c736f14e8935ee8f6428cf45bdc2c1a158e6ae18ffd6625d4d502cb7583"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fatal%20Fury%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fatal%20Fury%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fatal%20Fury%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fatal%20Fury%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fatal%20Fury%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fatal%20Fury%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

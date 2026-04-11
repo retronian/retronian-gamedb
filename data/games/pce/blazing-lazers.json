@@ -70,5 +70,71 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Blazing Lazers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "b4a1b0f6",
+      "md5": "3c2f85fc7898de73a7c789033d22b8f5",
+      "sha1": "13712aaee596ad96ab743d5e82ed96895089afeb",
+      "sha256": "a862c29dbed67b10f847401da4858ff4877f4f58093c4beaa230e7065a0b5005"
+    },
+    {
+      "name": "Blazing Lazers (World) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "size": 393216,
+      "crc32": "e52be33e",
+      "md5": "95b746797cee1976e3a84e1538dad6c1",
+      "sha1": "42d6b4f80a225951200f7263d33fd7209162fbe8",
+      "sha256": "99125740a2b593c281ed3840aa42634ebd50aec8ca25c59c69f27b890d2eaa11"
+    },
+    {
+      "name": "Gunhed (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "a17d4d7e",
+      "md5": "537c1976f0306e264da966a907b93e3f",
+      "sha1": "0107d93ff5d10325092d45e6bfd21e8130efeed7",
+      "sha256": "c910be1dd8ca4ab4f4f211f13ca9bbf7429130ef52ad7359a3617c5af696784d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Blazing%20Lazers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Blazing%20Lazers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Blazing%20Lazers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Blazing%20Lazers%20%28World%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Blazing%20Lazers%20%28World%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Blazing%20Lazers%20%28World%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

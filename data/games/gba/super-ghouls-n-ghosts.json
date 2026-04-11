@@ -107,5 +107,65 @@
     "wikidata": "Q275122",
     "mobygames": 6730,
     "igdb": 219488
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Ghouls'n Ghosts (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AG5E",
+      "size": 4194304,
+      "crc32": "e279ec31",
+      "md5": "10974dab2afea1b3d981568451fe60da",
+      "sha1": "d323faeaaacd0c09157ef62128bccb541dd0ac39"
+    },
+    {
+      "name": "Super Ghouls'n Ghosts (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AG5E",
+      "size": 4194304,
+      "crc32": "1ef2acf3",
+      "md5": "37ff7a1de0322b72a6b41dea0ba53673",
+      "sha1": "31e7d1d405185ba2d7a9ffcc2b847d4457088cf0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Ghouls%27n%20Ghosts%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Ghouls%27n%20Ghosts%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Ghouls%27n%20Ghosts%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Ghouls%27n%20Ghosts%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Ghouls%27n%20Ghosts%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Ghouls%27n%20Ghosts%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

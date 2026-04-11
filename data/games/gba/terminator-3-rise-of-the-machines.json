@@ -26,5 +26,65 @@
     "wikidata": "Q124718847",
     "mobygames": 44445,
     "igdb": 204902
-  }
+  },
+  "roms": [
+    {
+      "name": "Terminator 3 - Rise of the Machines (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AO3P",
+      "size": 8388608,
+      "crc32": "16c3cac3",
+      "md5": "ba4f3efc9d451376211f46119e28de9c",
+      "sha1": "48ee4cb5c17ed1dbcae0cb9bdf9e54210ceed93c"
+    },
+    {
+      "name": "Terminator 3 - Rise of the Machines (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AO3E",
+      "size": 8388608,
+      "crc32": "f74b3c7d",
+      "md5": "afa8a9e3d7a2cd86c6ce8331532825b0",
+      "sha1": "d7935449c72eb1beb4a9f7e9007855d4357e3155"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Terminator%203%20-%20Rise%20of%20the%20Machines%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Terminator%203%20-%20Rise%20of%20the%20Machines%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Terminator%203%20-%20Rise%20of%20the%20Machines%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Terminator%203%20-%20Rise%20of%20the%20Machines%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Terminator%203%20-%20Rise%20of%20the%20Machines%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Terminator%203%20-%20Rise%20of%20the%20Machines%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

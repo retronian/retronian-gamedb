@@ -18,5 +18,76 @@
     "wikidata": "Q2878408",
     "mobygames": 33325,
     "igdb": 19217
-  }
+  },
+  "roms": [
+    {
+      "name": "Back to Stone (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BBCE",
+      "size": 4194304,
+      "crc32": "4c29c9c8",
+      "md5": "adc583b26cef3920fb9ffd152aeb98dd",
+      "sha1": "db1fe7581858053b58412a97df262b46838a7be7",
+      "sha256": "af9223dae1611a24c204a907ca33063557821c91d99bbe093659851c78183096"
+    },
+    {
+      "name": "Back to Stone (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BBCP",
+      "size": 4194304,
+      "crc32": "5730c85a",
+      "md5": "51617256ac8453f10b9ed40e22a1aaf6",
+      "sha1": "592081de986839392c4db976eb7ebec68bb51917"
+    },
+    {
+      "name": "Back to Stone (Europe) (En,Fr,De) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 4194304,
+      "crc32": "ef365600",
+      "md5": "6cf0aca170ffe4141657c904f3924b9b",
+      "sha1": "db8ff75f9bb1cf4afcc9c23f4f6a5adb93a900df",
+      "sha256": "4054f54dca22aa0989726cc24841d02e842e4a2fb07aad02839838372e0e3278"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Back%20to%20Stone%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Back%20to%20Stone%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Back%20to%20Stone%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Back%20to%20Stone%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Back%20to%20Stone%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Back%20to%20Stone%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

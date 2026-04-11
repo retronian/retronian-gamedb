@@ -45,5 +45,64 @@
     "wikidata": "Q3358916",
     "mobygames": 42685,
     "igdb": 48
-  }
+  },
+  "roms": [
+    {
+      "name": "Overlord Minions (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CIUP",
+      "size": 67108864,
+      "crc32": "bb921eb2",
+      "md5": "31a39deb1142558678bfe8075c01e42c",
+      "sha1": "96530e8878d0be360573beb4ab12307f472a0b75"
+    },
+    {
+      "name": "Overlord Minions (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CIUE",
+      "size": 67108864,
+      "crc32": "b136cff8",
+      "md5": "dc0cedd914897fdada3d2a6ba6bf6f07",
+      "sha1": "31f02d446ae8b227387bad2fd3ff54ded080bc89"
+    },
+    {
+      "name": "Overlord Minions (Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CIUP",
+      "size": 67108864,
+      "crc32": "f09f076d",
+      "md5": "34984535900a13e402dc9ca128417548",
+      "sha1": "72df3f1bef15919cc347987533f8656aa1a9e194",
+      "sha256": "95cc359834e693aa164416be9714bfed320b63d42c887b1ce3af149b2d50891b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Overlord%20Minions%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Overlord%20Minions%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Overlord%20Minions%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Overlord%20Minions%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

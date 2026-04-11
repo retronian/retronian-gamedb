@@ -80,5 +80,81 @@
     "wikidata": "Q1037628",
     "mobygames": 81764,
     "igdb": 201341
-  }
+  },
+  "roms": [
+    {
+      "name": "Boku to Sim no Machi - Kingdom (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CK5J",
+      "size": 67108864,
+      "crc32": "314fc877",
+      "md5": "e4cceee70fd26c1fc40a1ab864ccab8a",
+      "sha1": "efd6c46426747f96330b933a849c8f8c85702022"
+    },
+    {
+      "name": "MySims - Kingdom (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl,Cs,Hu)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CK5P",
+      "size": 67108864,
+      "crc32": "8f065ab9",
+      "md5": "ce20294f127d87c70bb8377823502a5f",
+      "sha1": "9672fe11ee303e74c8323714713299c216d71684",
+      "sha256": "b288638b7324577a80905fa3df3257183755c9345a2180bdc27a2b9578b0f4d5"
+    },
+    {
+      "name": "MySims - Kingdom (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CK5E",
+      "size": 67108864,
+      "crc32": "f3f40864",
+      "md5": "482765e1582b98163f5fecb393e2e276",
+      "sha1": "7de11f4a27828a0f288626126a7b515b95b6da46"
+    },
+    {
+      "name": "MySims - Kingdom (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl,Cs,Hu) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CK5P",
+      "size": 67108864,
+      "crc32": "e3b74e1f",
+      "md5": "2d9f58c159f48936f10ecb936757c985",
+      "sha1": "e05f867687902e036686aa3b5cf154ea561ec12c",
+      "sha256": "3625f1b4ed5b4ad5b3ab22c77c6fe4e402aefbc0243edafe4e81ff60065ed8ba"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MySims%20-%20Kingdom%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CPl%2CCs%2CHu%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MySims%20-%20Kingdom%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CPl%2CCs%2CHu%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MySims%20-%20Kingdom%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/MySims%20-%20Kingdom%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MySims%20-%20Kingdom%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

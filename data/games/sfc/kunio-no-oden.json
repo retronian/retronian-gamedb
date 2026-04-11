@@ -33,5 +33,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Kunio no Oden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "d8939a59",
+      "md5": "8a07445ca86a337d8eed7d7faa3cb375",
+      "sha1": "9a037792b793011c259b88685502d34b3a8a5d85",
+      "sha256": "ae3232220f4c3b288dca52fa4b7f687f191e4482ee6cc27ab565106d5bc1f3a9"
+    },
+    {
+      "name": "Kunio no Oden (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "cd93a39c",
+      "md5": "261cb5f831063670936713945e377626",
+      "sha1": "51dbaee3a74fc4e91990dff2fa02fc0309934449",
+      "sha256": "99ef7455191df0782bdff4e9c9b6965591044bfb8c29426ec6e99268ebee17b0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kunio%20no%20Oden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kunio%20no%20Oden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kunio%20no%20Oden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

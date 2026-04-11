@@ -90,5 +90,123 @@
     "wikidata": "Q54329",
     "mobygames": 5155,
     "igdb": 12594
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars - The Empire Strikes Back (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524304,
+      "crc32": "2a458b9c",
+      "md5": "d3373a4112d70374f0affd2ef17e386d",
+      "sha1": "be6aaa015977deb0d02607fc2124c9ce94d74f4d",
+      "sha256": "f3039c7cec1c6004b4991fff2a1b223f66644bcf4dffe9eb3b55738af6dbf5cb"
+    },
+    {
+      "name": "Star Wars - The Empire Strikes Back (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "88293b5e",
+      "md5": "f8e22d02835090a7e7bb52097e694d94",
+      "sha1": "231c733080804979de078b03c74847e2e11753f7",
+      "sha256": "02646fd46702f083b328a679135741ebe587e67e948a5ab266cd8874de10ce4d"
+    },
+    {
+      "name": "Star Wars - The Empire Strikes Back (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "a7409fbc",
+      "md5": "8091f4d2818a52998dce845cf4dc85da",
+      "sha1": "3b672a315488d60a9ab44a314668f553e54f436f",
+      "sha256": "8ea5cbb22d3d948725dbee2b385026eeb1fc1ec8b8287ec121a4e15b204ade0c"
+    },
+    {
+      "name": "Star Wars - The Empire Strikes Back (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "4c9fe419",
+      "md5": "9d513e48594f4e72eb68a58a42c03b2c",
+      "sha1": "61f899ada6f57b451d6760aeeffb44191399a4f9",
+      "sha256": "552cc05718c165667e4e31f00b5df7a77e12d81f11cc5c5128453bb770d768c3"
+    },
+    {
+      "name": "Star Wars - The Empire Strikes Back (USA) (Limited Run Games)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097168,
+      "crc32": "02f91fee",
+      "md5": "bdfaca7e3c23a05aa40f6bef17c78519",
+      "sha1": "f66cb1fdfa33ccba7cebb8958efa57155c10515d",
+      "sha256": "e62049b8a2ae9213cc808ad137989a29ebf9b14888732ba7cb4de9222879bfdd"
+    },
+    {
+      "name": "Star Wars - The Empire Strikes Back (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "45e7888b",
+      "md5": "0395750d6c8d31e76aea04464b37ea48",
+      "sha1": "b2c897d90587d0371da76f83f1cb1c8355601db1",
+      "sha256": "5a62208bd3c845ec55323140772992bd9fa7088abb21fe10853916f07a72170e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -63,5 +63,65 @@
     "wikidata": "Q3280849",
     "mobygames": 34046,
     "igdb": 100296
-  }
+  },
+  "roms": [
+    {
+      "name": "WWF Superstars (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "f28e5aa1",
+      "md5": "3d08d0dbe1fa865e3d2e87578cced5f5",
+      "sha1": "f3101bb0f1fe3f9160e7892dfd70582325e1c44f",
+      "sha256": "87efa96e865221d5d61934ee62da6433b175c92e1f8a8a447ee74fcf41afa082"
+    },
+    {
+      "name": "WWF Superstars (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "adbc4e0a",
+      "md5": "ba544265b8d949cf35984cd23af63da8",
+      "sha1": "957a7d33a1569158f7b1882362262a6ab391ff5b",
+      "sha256": "3e9ea5a9215c7f0921797e9c414b7eed031843ff20ffbb638b5715f0ae319781"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/WWF%20Superstars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/WWF%20Superstars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/WWF%20Superstars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/WWF%20Superstars%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/WWF%20Superstars%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/WWF%20Superstars%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

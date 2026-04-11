@@ -70,5 +70,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Dragon's Revenge (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-48143-00",
+      "size": 1048576,
+      "crc32": "d8d2efd7",
+      "md5": "ba91bc7a28e50fdd14f3c3fb87cdc4b5",
+      "sha1": "f360ce84caadbdda248bcc69c0647141a45a209e",
+      "sha256": "d489263aed3ad4e1f45a24f9317b90f520be5657ff8a1df31c690a357f9655da"
+    },
+    {
+      "name": "Dragon's Revenge (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-048266-00",
+      "size": 1048576,
+      "crc32": "841edbc0",
+      "md5": "f2b7d96aae4b5fdc6a1eac5a045e66c4",
+      "sha1": "75854a732d4cf9a310c4359092cf5c2482df49a7",
+      "sha256": "0953ac0633ba22b486e59ae3bde0e3d9fb65f50457510f5b7dc4ef49600a8eac"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Dragon%27s%20Revenge%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dragon%27s%20Revenge%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dragon%27s%20Revenge%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Dragon%27s%20Revenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dragon%27s%20Revenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dragon%27s%20Revenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -54,5 +54,65 @@
     "wikidata": "Q2328445",
     "mobygames": 85744,
     "igdb": 1196
-  }
+  },
+  "roms": [
+    {
+      "name": "Crash Boom Bang! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACFE",
+      "size": 67108864,
+      "crc32": "4f7705e9",
+      "md5": "a763e26b413cd6a5722de4a12c57b544",
+      "sha1": "e9cf7eef82f201938691a1a901675d7765c3e529"
+    },
+    {
+      "name": "Crash Boom Bang! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACFP",
+      "size": 67108864,
+      "crc32": "268ef389",
+      "md5": "4ae3596f9eb1bf858edd7f2245914b62",
+      "sha1": "ba5241bbb8c1b7a98288131d8f2cc5a4de4c56a4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Crash%20Boom%20Bang%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Crash%20Boom%20Bang%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Crash%20Boom%20Bang%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Crash%20Boom%20Bang%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Crash%20Boom%20Bang%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Crash%20Boom%20Bang%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

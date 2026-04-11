@@ -63,5 +63,49 @@
     "wikidata": "Q7578968",
     "mobygames": 83182,
     "igdb": 43312
-  }
+  },
+  "roms": [
+    {
+      "name": "SpongeBob's Atlantis SquarePantis (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZXE",
+      "size": 4194304,
+      "crc32": "a39248a2",
+      "md5": "76cf35708da4293e14ba6bee572597e3",
+      "sha1": "0b634ec9a79f027fb780f3cbda7e48fbc917f032",
+      "sha256": "c6177923aabd9d4d6399df15e84e2522a4e5fe94102ed4c6b11ad0bd36836799"
+    },
+    {
+      "name": "SpongeBob's Atlantis SquarePantis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZXE",
+      "size": 4194304,
+      "crc32": "190b1653",
+      "md5": "6cf0014cf59609e976d4a82b01db90be",
+      "sha1": "24596f49fb46cf5e3624450f599df670acc72967",
+      "sha256": "abc8cc2eb511c9469efffb48dc13db5739700d43f5e6a4625caded29fb6cca66"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/SpongeBob%27s%20Atlantis%20SquarePantis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/SpongeBob%27s%20Atlantis%20SquarePantis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/SpongeBob%27s%20Atlantis%20SquarePantis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

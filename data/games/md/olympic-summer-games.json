@@ -36,5 +36,78 @@
     "wikidata": "Q2748100",
     "mobygames": 20307,
     "igdb": 4493
-  }
+  },
+  "roms": [
+    {
+      "name": "Olympic Summer Games (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-100116-00",
+      "size": 2097152,
+      "crc32": "9e470fb9",
+      "md5": "2581e62fdd918aa3f79f785508be6bf1",
+      "sha1": "88c8627d0b5bd5f4847d4b62f3681fbadc477829",
+      "sha256": "27e8d2bd4261750537394481e20a2a4bc7b62cb1d495238d4bf00f23cc8d85e4"
+    },
+    {
+      "name": "Olympic Summer Games (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-100116-50",
+      "size": 2097152,
+      "crc32": "cc506d37",
+      "md5": "11dd8bbd7b9b806923dfb09d2702dfd8",
+      "sha1": "8e10fcdb47671ee28675db1632a25b73128ab88e",
+      "sha256": "22e7ab1697a6537155ba35e381595ea1c5b75c539831d40f8b1f2da5b133e595"
+    },
+    {
+      "name": "Olympic Summer Games (USA) (Demo) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-148186-00",
+      "size": 2097152,
+      "crc32": "c4e86add",
+      "md5": "e668f0194ae13c55ed4d8b9a4e797f55",
+      "sha1": "c6bc7d4fda5e332dfc5adf4cc1310bc4e07d1045",
+      "sha256": "e41a4cc5b0fb51423b6702b3a21f388be4fef52485de4a4af1ad1a6a6a5c02ac"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Olympic%20Summer%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Olympic%20Summer%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Olympic%20Summer%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Olympic%20Summer%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Olympic%20Summer%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Olympic%20Summer%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

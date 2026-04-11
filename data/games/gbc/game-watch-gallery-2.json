@@ -71,5 +71,41 @@
     "wikidata": "Q2722404",
     "mobygames": 6035,
     "igdb": 74423
-  }
+  },
+  "roms": [
+    {
+      "name": "Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "969c8961",
+      "md5": "cbf4a5b2ff566554b014118e3d0e3e9a",
+      "sha1": "ce81d3260e8c5e1dd241caf6de315eb3e63dbc15",
+      "sha256": "73b65f66f485da7500cca25e51dd0eea9b2b535d217cbcc5d9c5c188f49e6ae3"
+    },
+    {
+      "name": "Game Boy Gallery 2 (Japan) (Possible Proto) (SGB Enhanced, GB Compatible) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e99beba5",
+      "md5": "d8de3e22c969198f8701bf861cc60974",
+      "sha1": "90a9b368bca0f47fe72028ff4d50fb3d3060c32f",
+      "sha256": "74173113e5070578e5956e9f5317826cb54827953ee2c2db2f04a1317ed189aa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Game%20Boy%20Gallery%202%20%28Japan%29%20%28Possible%20Proto%29%20%28SGB%20Enhanced%2C%20GB%20Compatible%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Game%20Boy%20Gallery%202%20%28Japan%29%20%28Possible%20Proto%29%20%28SGB%20Enhanced%2C%20GB%20Compatible%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

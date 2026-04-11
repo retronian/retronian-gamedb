@@ -47,6 +47,33 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Bard's Tale II, The - The Destiny Knight",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "バーズテイル 2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "バーズテイルII ディスティニー・ナイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1986-01-01",
@@ -54,5 +81,44 @@
     "wikidata": "Q7715623",
     "mobygames": 1273,
     "igdb": 273091
-  }
+  },
+  "descriptions": [
+    {
+      "text": "人気RPG「バーズテイル」の続編です。あなたのキャラクターたちが魔法使いマンガー・ザ・ダークを倒し、スカーラ・ブレイを永遠の冬から解放した後、世界は平和に見えました。しかし、あなたの雇用の見通しにとって幸運なことに、邪悪な大魔法使いラゴス・ザンタが現れ、運命の杖を七つの破片に分裂させ、土地の至る所に散らばらせてしまいます。運命の杖は700年間この土地を守ってきましたが、これがなければ王国は混沌に陥ります。したがって、あなたのパーティーが運命の杖を再鍛造する使命を担うことになります。また、あなたの中の一人が大魔法使いの地位に昇進し、杖を使ってラゴス・ザンタを倒さなければなりません。\n\n「バーズテイル 2」は、オリジナルと同じエンジンを使用し、似たようなゲームプレイを持ちながらも、はるかに広大なゲームの世界で展開され、スカーラ・ブレイだけでなくいくつかの異なる都市が登場します。新しいキャラクターを生成することも、前作のキャラクターをインポートすることも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bard's Tale II, The - The Destiny Knight (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "8b791247",
+      "md5": "ae8bd0c7392906c3a7aabb10c2c06141",
+      "sha1": "e581d73d3c876400b6ea4da6ba22e87dc9de6b36",
+      "sha256": "170feb711cbb214cbbb6caf1d07fc1c8352c6f075cc8ef2bcddbf5d28589fa43"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bard%27s%20Tale%20II%2C%20The%20-%20The%20Destiny%20Knight%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bard%27s%20Tale%20II%2C%20The%20-%20The%20Destiny%20Knight%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bard%27s%20Tale%20II%2C%20The%20-%20The%20Destiny%20Knight%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

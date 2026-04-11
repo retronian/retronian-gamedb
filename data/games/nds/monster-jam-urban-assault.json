@@ -36,5 +36,53 @@
     "wikidata": "Q13220129",
     "mobygames": 85149,
     "igdb": 5017
-  }
+  },
+  "roms": [
+    {
+      "name": "Monster Jam - Urban Assault (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CM5E",
+      "size": 67108864,
+      "crc32": "7bcf6a35",
+      "md5": "5eb053993d9d5c65a814e6b18bf923d5",
+      "sha1": "70c8fb7d6f1660416dc248c567a2dd2bf8e61dde"
+    },
+    {
+      "name": "Monster Jam - Urban Assault (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CM5P",
+      "size": 67108864,
+      "crc32": "9fe7f1be",
+      "md5": "28c432619fafa4a30511a39b43622925",
+      "sha1": "51abdf1a1e3ec506a96a8244956d98e9a4576e8b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20Jam%20-%20Urban%20Assault%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Monster%20Jam%20-%20Urban%20Assault%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20Jam%20-%20Urban%20Assault%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20Jam%20-%20Urban%20Assault%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

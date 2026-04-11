@@ -72,5 +72,88 @@
     "wikidata": "Q1185325",
     "mobygames": 33088,
     "igdb": 21238
-  }
+  },
+  "roms": [
+    {
+      "name": "Dementium - The Ward (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YDTE",
+      "size": 67108864,
+      "crc32": "6d03b8ba",
+      "md5": "f8645e20d560b4d267a25bd1c72e6f7b",
+      "sha1": "ad07f28b2b31411e5da8c342ba6cbec372392385",
+      "sha256": "397f9f93a32dbb4001d86586faf70304005b9cb255c912e4f0c3b2eb724ab52e"
+    },
+    {
+      "name": "Dementium - The Ward (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTRJ",
+      "size": 5734427,
+      "crc32": "256903df",
+      "md5": "fbe85a2c22356ca18025c8dbd090c0d2",
+      "sha1": "dcfb1426a1bff9eef94e475b1b9bd4b1f46e6db1",
+      "sha256": "29ef993d4568477901d4dcadfee72cce39420b7151a8f405aa762f2b3cc1d9f1"
+    },
+    {
+      "name": "Dementium - The Ward (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTRJ",
+      "size": 52105239,
+      "crc32": "26cf3c95",
+      "md5": "b15298c8ed588aadaa16bee47cf59b04",
+      "sha1": "05fc76dcbf849b10c4502ec44aec29f3faa02c36",
+      "sha256": "1d08379de8db949fca1d56f5c50faf6b0c2c8fb566b06a68d1bfc689bb145042"
+    },
+    {
+      "name": "Dementium - The Ward (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YDTP",
+      "size": 67108864,
+      "crc32": "f726ec2b",
+      "md5": "937a8ea7f180394bce763b74557f9b12",
+      "sha1": "fc1f00da9255c93a965647c9d5b58dce06c566ec"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dementium%20-%20The%20Ward%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dementium%20-%20The%20Ward%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dementium%20-%20The%20Ward%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dementium%20-%20The%20Ward%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dementium%20-%20The%20Ward%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dementium%20-%20The%20Ward%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -18,5 +18,49 @@
     "wikidata": "Q123341482",
     "mobygames": 22077,
     "igdb": 243889
-  }
+  },
+  "roms": [
+    {
+      "name": "Home Alone (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1046-00",
+      "size": 524288,
+      "crc32": "aa0d4387",
+      "md5": "089771a4c22d69f039e5c18bf4b2d84a",
+      "sha1": "c3794ef25d53cb7811dd0df73ba6fadd4cecb116",
+      "sha256": "0f14dc228e2ba3b39db9fe6a2feaefa8fa047d6bff579fad072f923d0fb855b4"
+    },
+    {
+      "name": "Home Alone (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "XXXXXXX-00",
+      "size": 1048576,
+      "crc32": "3a235fb9",
+      "md5": "780ecbc9aa3d2acdb782e36d24d26c57",
+      "sha1": "1ace5abd524c6ab5b434374c51f64f59dbd6ec7a",
+      "sha256": "5bbdfc4d24c6140b723d5c8fe9d18d31d4fbe2676c7a96047b7f425d9af2b4bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Home%20Alone%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Home%20Alone%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Home%20Alone%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

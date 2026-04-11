@@ -27,5 +27,75 @@
     "wikidata": "Q2922966",
     "mobygames": 40226,
     "igdb": 38366
-  }
+  },
+  "roms": [
+    {
+      "name": "Boxing Legends of the Ring (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "00cc468b",
+      "md5": "60c260a1771d1548e2ad4fc48ea474db",
+      "sha1": "d2c02eb865600ba1fd64b12624b579ba05e13fcf",
+      "sha256": "f10b945c0e053af661872d714925fb822e532383f4d86218517f8e1b7c651ed6"
+    },
+    {
+      "name": "Boxing Legends of the Ring (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "c0b632c0",
+      "md5": "26b891c2de994abd162a1daf1077ab64",
+      "sha1": "1cbe6c3fd218c7fbd434d9951bbd9cc8eee049d2",
+      "sha256": "e67940a2106c1507f3a8d38790f263bbbf814578ebf3dbc4e3eb6007d310793c"
+    },
+    {
+      "name": "Boxing Legends of the Ring (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "cdf06655",
+      "md5": "f3785df649f1c2842c715be1754d188a",
+      "sha1": "254c06b057ba9a87f5d8476c96395b392630977b",
+      "sha256": "71a87912e381e31a6e81b7f58fee9ebd12267a29252d3e6d502286189f9af467"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Boxing%20Legends%20of%20the%20Ring%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Boxing%20Legends%20of%20the%20Ring%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Boxing%20Legends%20of%20the%20Ring%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Boxing%20Legends%20of%20the%20Ring%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Boxing%20Legends%20of%20the%20Ring%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Boxing%20Legends%20of%20the%20Ring%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

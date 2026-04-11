@@ -18,5 +18,75 @@
     "wikidata": "Q3560842",
     "mobygames": 29540,
     "igdb": 3334
-  }
+  },
+  "roms": [
+    {
+      "name": "Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NVCP",
+      "size": 4194304,
+      "crc32": "aae15243",
+      "md5": "e790be1a5b883beba44bc0d2666c65f5",
+      "sha1": "0899017b0a5231ecbb084abff2303d9c25342828",
+      "sha256": "520a4f53ca23cad5cafb03025117858a1fe474146bd49ace2d270161da4e992c"
+    },
+    {
+      "name": "Virtual Chess 64 (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NVCE",
+      "size": 4194304,
+      "crc32": "620de0b7",
+      "md5": "f8a35270279b277586d7210fd15134ff",
+      "sha1": "b3f84937813eb76f94dfcf1dbea69b11bdbf7e4f"
+    },
+    {
+      "name": "Virtual Chess 64 (USA) (En,Fr,Es) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "ac7aa76d",
+      "md5": "c14d21a693135284a708feb3f80f487e",
+      "sha1": "90a012eb6a0cb1ac158492a6c2683f181c5b0205"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Virtual%20Chess%2064%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Virtual%20Chess%2064%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Virtual%20Chess%2064%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Virtual%20Chess%2064%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Virtual%20Chess%2064%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Virtual%20Chess%2064%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -54,5 +54,74 @@
     "wikidata": "Q3189970",
     "mobygames": 5050,
     "igdb": 7432
-  }
+  },
+  "roms": [
+    {
+      "name": "Jumping Flash! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 276569472,
+      "crc32": "54cae152",
+      "md5": "18078d59ce6614afabc5dfc80eee6cd8",
+      "sha1": "c6f0c32ee0e7ebad7dff8c780aaf4c206dc47ec2",
+      "sha256": "41d25fc0338eea950b423017ad724764c93b0b932a52435451b07a6b67a5a384"
+    },
+    {
+      "name": "Jumping Flash! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 282028944,
+      "crc32": "71d3cc91",
+      "md5": "74c7cbc690f05efde5537c06568cbfd7",
+      "sha1": "74c562c95f72148da6d61563d456ff451978d401"
+    },
+    {
+      "name": "Jumping Flash! (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 277104368,
+      "crc32": "dd6c53fe",
+      "md5": "bbc8531e10f26d3c4d5e2120ec29db2e",
+      "sha1": "fd33a7f16da90e2d4882325385485b2ab7cc4c2d",
+      "sha256": "24cbd3365e693a15c197002b6a7cb1a8c0372cf28ff74ce0ae40d8f57892f516"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Jumping%20Flash%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Jumping%20Flash%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Jumping%20Flash%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Jumping%20Flash%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Jumping%20Flash%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Jumping%20Flash%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

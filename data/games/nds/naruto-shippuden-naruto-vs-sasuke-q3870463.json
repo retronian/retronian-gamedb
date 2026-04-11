@@ -26,5 +26,53 @@
   "external_ids": {
     "wikidata": "Q3870463",
     "igdb": 24270
-  }
+  },
+  "roms": [
+    {
+      "name": "Naruto Shippuden - Naruto vs Sasuke (Europe) (Fr,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CNSX",
+      "size": 67108864,
+      "crc32": "b9363171",
+      "md5": "b764e83237eaeb5be411d8b1cbf2f555",
+      "sha1": "fa405bc9c16205e43972a344045b263ba4dbda8b"
+    },
+    {
+      "name": "Naruto Shippuden - Naruto vs Sasuke (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CNSE",
+      "size": 67108864,
+      "crc32": "844867fc",
+      "md5": "480743bbf799f4906903d96b9b778109",
+      "sha1": "a613fa2a171c9f56303918c120dd086b41766a10"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Naruto%20Shippuden%20-%20Naruto%20vs%20Sasuke%20%28Europe%29%20%28Fr%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Naruto%20Shippuden%20-%20Naruto%20vs%20Sasuke%20%28Europe%29%20%28Fr%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Naruto%20Shippuden%20-%20Naruto%20vs%20Sasuke%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Naruto%20Shippuden%20-%20Naruto%20vs%20Sasuke%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

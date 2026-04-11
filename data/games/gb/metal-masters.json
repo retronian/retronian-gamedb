@@ -18,5 +18,66 @@
     "wikidata": "Q6822673",
     "mobygames": 54478,
     "igdb": 241733
-  }
+  },
+  "roms": [
+    {
+      "name": "Metal Masters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "bf6866dc",
+      "md5": "680c8fbb0bc15c850121ef2c929df177",
+      "sha1": "caae5811b2d2b884b691ea7d940ecb86647cd250",
+      "sha256": "80eaf0d8804cafd349af92d1fa36500fafae1d5b9db78f0d5fefc47f74dfaf23"
+    },
+    {
+      "name": "Metal Masters (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "3378064b",
+      "md5": "200626cc703cebb4e3f31b725a705220",
+      "sha1": "572c820f7ec7a3c96df9af441da244befa5223b9"
+    },
+    {
+      "name": "Metal Masters (World) (Limited Run Games)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "7de862fa",
+      "md5": "cbd881ea82beb95ab599a0418b22635a",
+      "sha1": "9d4896a198904365ebc348c557b7c15f87b5e3c5",
+      "sha256": "cf4798cb882ce5aaa26ac0e243f220c1b9f6e200068e241c53cbd3dfad6d8174"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Metal%20Masters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Metal%20Masters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Metal%20Masters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Metal%20Masters%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Metal%20Masters%20%28World%29%20%28Limited%20Run%20Games%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

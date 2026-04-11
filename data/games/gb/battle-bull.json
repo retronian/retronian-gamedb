@@ -34,5 +34,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Battle Bull (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "5c69e449",
+      "md5": "a58ad38354f16e3e6777e91dedd9ce28",
+      "sha1": "74ed574d2179bdf34a6e618a86be9b3e70155370",
+      "sha256": "2e83c5299e5ded2ac6e491c7a593934164be7fda3c60922e803e8104edf6ace9"
+    },
+    {
+      "name": "Battle Bull (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "d4d1aea2",
+      "md5": "d6d8e759c19c1ba384670f2a06b4d11b",
+      "sha1": "a553b2cf2a5d223b6ac8aca4e9fd65b65087a1f4",
+      "sha256": "a084a625e83ebc029e3b9b0737c6a25d768b3535b110e9fbaeb5d07816247637"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Battle%20Bull%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Battle%20Bull%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Battle%20Bull%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

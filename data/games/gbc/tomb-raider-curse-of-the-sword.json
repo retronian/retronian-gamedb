@@ -56,12 +56,163 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Tomb Raider",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "古墓奇兵",
+      "lang": "zh",
+      "script": "Hant",
+      "region": "tw",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tomb Raider",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tomb Raider",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tomb Raider",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tomb Raider: The Nightmare Stone",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "2001-07-01",
+  "first_release_date": "2000-06-12",
   "external_ids": {
     "wikidata": "Q2706771",
     "mobygames": 4466,
     "igdb": 49993
-  }
+  },
+  "roms": [
+    {
+      "name": "Tomb Raider (USA, Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "2988fc78",
+      "md5": "74b9b221c2b32147422144b327bd5f30",
+      "sha1": "208b054ca63c43f32befa989c75e8de96847f4fe"
+    },
+    {
+      "name": "Tomb Raider (USA, Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AT9E",
+      "size": 4194304,
+      "crc32": "58590868",
+      "md5": "545b4875c01233edbdc6c2cd001aec25",
+      "sha1": "3f7259e9def8be46e9b1f2956182084276f105ed"
+    },
+    {
+      "name": "Tomb Raider (Taiwan) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 4194304,
+      "crc32": "269f0852",
+      "md5": "b0849abcac5411fc88c90f28b3166bc2",
+      "sha1": "a4728de2368561ffeb8ecec6077494df64b463d4",
+      "sha256": "1c461de7f7dbece39b964bca494f3ddc0aa764de07ffad6e092e16fd27a5461a"
+    },
+    {
+      "name": "Tomb Raider - Curse of the Sword (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "02c1035a",
+      "md5": "a0b4538f687fc61bc88f7ee111170355",
+      "sha1": "c84db1eaf7403ba292be020d410ab453342ab737",
+      "sha256": "a75109b2730df5bef628f05660d670f07a1be6c6249d73f7f88375061c3f3bbb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Tomb%20Raider%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Tomb%20Raider%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Tomb%20Raider%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Tomb%20Raider%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Tomb%20Raider%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Tomb%20Raider%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Tomb%20Raider%20-%20Curse%20of%20the%20Sword%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Tomb%20Raider%20-%20Curse%20of%20the%20Sword%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Tomb%20Raider%20-%20Curse%20of%20the%20Sword%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

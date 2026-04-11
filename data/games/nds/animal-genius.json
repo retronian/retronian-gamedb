@@ -18,5 +18,66 @@
     "wikidata": "Q4764810",
     "mobygames": 79818,
     "igdb": 69192
-  }
+  },
+  "roms": [
+    {
+      "name": "Animal Genius (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YAGE",
+      "size": 16777216,
+      "crc32": "09fd9780",
+      "md5": "c281bea0bbca3448d12be19bf1f7a953",
+      "sha1": "28b3041da0c1616ea5b2fadf6261dfb799fe7a35"
+    },
+    {
+      "name": "Animal Genius (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YAGP",
+      "size": 67108864,
+      "crc32": "68b8266d",
+      "md5": "9939918c41a550ca99aed3ab89103b2d",
+      "sha1": "5e629cbad45c24ce70025d7fe11282033abe7501",
+      "sha256": "0274f62bbd2d95c36b693229091aa9432c87575380030796ed3ade3d8d852c7a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Animal%20Genius%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Animal%20Genius%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Animal%20Genius%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Animal%20Genius%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Animal%20Genius%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Animal%20Genius%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

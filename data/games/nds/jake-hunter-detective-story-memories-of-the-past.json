@@ -46,6 +46,15 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "The Detective",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2007-01-01",
@@ -53,5 +62,37 @@
     "wikidata": "Q55399272",
     "mobygames": 42063,
     "igdb": 347580
-  }
+  },
+  "roms": [
+    {
+      "name": "Jake Hunter Detective Story - Memories of the Past (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CZ9E",
+      "size": 67108864,
+      "crc32": "d623806f",
+      "md5": "9c95fbfa17620030502e4822f958fb53",
+      "sha1": "e20caf9d8404a3f07a3e7990ebc785b04acec423"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jake%20Hunter%20Detective%20Story%20-%20Memories%20of%20the%20Past%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Jake%20Hunter%20Detective%20Story%20-%20Memories%20of%20the%20Past%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jake%20Hunter%20Detective%20Story%20-%20Memories%20of%20the%20Past%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

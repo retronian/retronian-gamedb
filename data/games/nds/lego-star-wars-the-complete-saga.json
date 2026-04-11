@@ -72,5 +72,66 @@
     "wikidata": "Q55214",
     "mobygames": 31058,
     "igdb": 194935
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Star Wars - The Complete Saga (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YLGE",
+      "size": 67108864,
+      "crc32": "30585c28",
+      "md5": "ca75c768dcc34ab590e60df86d878d0b",
+      "sha1": "d4aaa1c24ab6eb731f685cecde053d353919c391"
+    },
+    {
+      "name": "LEGO Star Wars - The Complete Saga (Europe) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YLGP",
+      "size": 67108864,
+      "crc32": "bc39e766",
+      "md5": "0026406295d0b0b2974fcb11eb315d0f",
+      "sha1": "450109512a1334c22e439fa75f633e619fc7907c",
+      "sha256": "0e668be7e517a54d0a60ac9bb098575d267670b1413172c9bdf25f850d1d2262"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Star%20Wars%20-%20The%20Complete%20Saga%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/LEGO%20Star%20Wars%20-%20The%20Complete%20Saga%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Star%20Wars%20-%20The%20Complete%20Saga%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Star%20Wars%20-%20The%20Complete%20Saga%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/LEGO%20Star%20Wars%20-%20The%20Complete%20Saga%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Star%20Wars%20-%20The%20Complete%20Saga%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

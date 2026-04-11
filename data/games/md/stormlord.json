@@ -61,5 +61,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Stormlord (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-49113-00",
+      "size": 524288,
+      "crc32": "0b440fed",
+      "md5": "689634797f5da35d026593fb240f5fe0",
+      "sha1": "fe06ea2d7fcccecce337a535ae683c31aae4a637",
+      "sha256": "7a7126af58b9bbcc89f31cba27aaa44e8b6142e91726299a773fb2dbf84fe8df"
+    },
+    {
+      "name": "Stormlord (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-56026-00",
+      "size": 524288,
+      "crc32": "39ab50a5",
+      "md5": "73070170122193915b7f8af945ef426c",
+      "sha1": "1bf4b58d50fdc0fdc173ce3dcadcc5d9b58f0723",
+      "sha256": "7d13314df6406e82549383cd1d8789e193066a909c89fe84962496df23f6fcef"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Stormlord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Stormlord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Stormlord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

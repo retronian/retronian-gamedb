@@ -27,5 +27,75 @@
     "wikidata": "Q2783679",
     "mobygames": 5755,
     "igdb": 307062
-  }
+  },
+  "roms": [
+    {
+      "name": "Race Drivin' (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "12cb0a54",
+      "md5": "87d324a718383b7edb6b651529be2c62",
+      "sha1": "c39dda44055e23782fa9a5ee650d87e555deadd6",
+      "sha256": "eec510c33d512247d9471a1d8c188bdba75d3aa2e1f7d6c7e7afcd87341fae7e"
+    },
+    {
+      "name": "Race Drivin' (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "c5bab870",
+      "md5": "e2ae14faf068f0b9c0e8a9374124c347",
+      "sha1": "0f93605f7596f76fe774baac8e5cc748168bc549",
+      "sha256": "dd0feb78e2d5d81f59241baf3bca5e2edaebbe98f0ac860a4eb6d448718f1ca5"
+    },
+    {
+      "name": "Race Drivin' (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "90947b50",
+      "md5": "ac6bf6f46dfd84c0721c7f18ec7fcf3c",
+      "sha1": "d2529eb2c9ed6d3365fb4013168802260757ce9b",
+      "sha256": "35b2f9f5f15fab724e0696c1af8ec1759091b9810de5a426b443ae6f2160e788"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Race%20Drivin%27%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Race%20Drivin%27%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Race%20Drivin%27%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Race%20Drivin%27%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Race%20Drivin%27%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Race%20Drivin%27%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

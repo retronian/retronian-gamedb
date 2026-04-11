@@ -18,5 +18,49 @@
     "wikidata": "Q3007953",
     "mobygames": 12760,
     "igdb": 7828
-  }
+  },
+  "roms": [
+    {
+      "name": "CutThroat Island (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81516-00",
+      "size": 2097152,
+      "crc32": "ebabbc70",
+      "md5": "f1e6ec5e3bf9c04670d10fbc89fb549c",
+      "sha1": "1b1648e02bb2e915286c35f01476358a8401608f",
+      "sha256": "b0b81d37eaec60283f797f8c0b945e7d5cde5697df55de8340c81e88f5d3536b"
+    },
+    {
+      "name": "CutThroat Island (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81516-00",
+      "size": 2097152,
+      "crc32": "7f4939f2",
+      "md5": "8661001147d09a5570796127b4143a78",
+      "sha1": "63bac68f944214cbab90a61dc8fe78314ba4716e",
+      "sha256": "f4f03486a1ea8ef40bd66b8e8a75d884f52fd23644fdb16fcd5128334d4ca517"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/CutThroat%20Island%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/CutThroat%20Island%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/CutThroat%20Island%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

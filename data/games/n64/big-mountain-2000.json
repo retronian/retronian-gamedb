@@ -26,5 +26,66 @@
     "wikidata": "Q2902310",
     "mobygames": 38182,
     "igdb": 3367
-  }
+  },
+  "roms": [
+    {
+      "name": "Big Mountain 2000 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NMUE",
+      "size": 12582912,
+      "crc32": "3ac924bc",
+      "md5": "bf6780e2982c16d4a4fdb553be8f9226",
+      "sha1": "e28f3ebfb7bc706cce639fc1874243e1d4995d1d",
+      "sha256": "d42bf9fd1a49daff13a4626196b2fc5f3d8af27b607ce7eabfec0addaec7abee"
+    },
+    {
+      "name": "Snow Speeder (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NSNJ",
+      "size": 12582912,
+      "crc32": "30ea3fd7",
+      "md5": "f7e66da23c8bb8e59f641a636a9cae82",
+      "sha1": "0e7df6a6f053f37a168ec33af8ce5240cb18f0ee"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Big%20Mountain%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Big%20Mountain%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Big%20Mountain%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Snow%20Speeder%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Snow%20Speeder%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Snow%20Speeder%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -18,5 +18,75 @@
     "wikidata": "Q7279681",
     "mobygames": 23665,
     "igdb": 6551
-  }
+  },
+  "roms": [
+    {
+      "name": "Racing Gears Advance (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 8388608,
+      "crc32": "7a3820b3",
+      "md5": "21837dbfe88ec42e35cddaf7585d1fe1",
+      "sha1": "ff18dfe7d75a8154c0dcc3970e5d0d4cb75c3568",
+      "sha256": "a2361ec17eda1d091a06c3ae44e4a07282355b885c0d618eb5979d08779b41f4"
+    },
+    {
+      "name": "Racing Gears Advance (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BRAP",
+      "size": 8388608,
+      "crc32": "49a88e52",
+      "md5": "072f378e3ae2d271f384b886be067031",
+      "sha1": "e5d3abaa47a3527cf2ec148d724ad9ac8ed6f827"
+    },
+    {
+      "name": "Racing Gears Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BRAE",
+      "size": 8388608,
+      "crc32": "bf648e5c",
+      "md5": "1dac1484f1d66158b1cfae3da7c79af9",
+      "sha1": "3f053865f9a687a75927172cd281390b2560201c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Racing%20Gears%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Racing%20Gears%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Racing%20Gears%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Racing%20Gears%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Racing%20Gears%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Racing%20Gears%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

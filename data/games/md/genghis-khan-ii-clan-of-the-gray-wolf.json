@@ -87,5 +87,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-76103-00",
+      "size": 1310720,
+      "crc32": "10be1d93",
+      "md5": "9111580bdb40e4ac83a4c3f023b17628",
+      "sha1": "0de0f798f636285da2b4d248f9894bf975b45304",
+      "sha256": "bb5d6eaa1ca79ed37f80011629736f09f3d3fa2f6ec571e5444c947f2949bbc5"
+    },
+    {
+      "name": "Genghis Khan II - Clan of the Gray Wolf (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-76066-00",
+      "size": 1048576,
+      "crc32": "87a281ae",
+      "md5": "cf67700c0ef63427307634d2404901fc",
+      "sha1": "4c1151413a261ad271543eeb64f512053f261a35",
+      "sha256": "94efa72e970266710995b489a1d6b88e1a03635a230b41d9a5cd2268757f25d4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Aoki%20Ookami%20to%20Shiroki%20Mejika%20-%20Genchou%20Hishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Aoki%20Ookami%20to%20Shiroki%20Mejika%20-%20Genchou%20Hishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Aoki%20Ookami%20to%20Shiroki%20Mejika%20-%20Genchou%20Hishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Genghis%20Khan%20II%20-%20Clan%20of%20the%20Gray%20Wolf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Genghis%20Khan%20II%20-%20Clan%20of%20the%20Gray%20Wolf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Genghis%20Khan%20II%20-%20Clan%20of%20the%20Gray%20Wolf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

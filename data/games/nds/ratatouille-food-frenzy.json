@@ -20,11 +20,89 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "料理鼠王：美食狂潮",
+      "lang": "zh",
+      "script": "Hant",
+      "region": "tw",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Ratatouille: Food Frenzy",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "2008-01-01",
+  "first_release_date": "2007-10-29",
   "external_ids": {
     "wikidata": "Q3420041",
     "igdb": 18296
-  }
+  },
+  "roms": [
+    {
+      "name": "Ratatouille - Food Frenzy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YRLE",
+      "size": 33554432,
+      "crc32": "586d919b",
+      "md5": "a6713e4f1ece17f33c97fd8e61d19784",
+      "sha1": "00541bf37e42a6268e36fcfdaad897c6817f029c"
+    },
+    {
+      "name": "Ratatouille - Food Frenzy (Europe) (En,Fr,De,Es,It,El)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YRLP",
+      "size": 33554432,
+      "crc32": "4ca6a371",
+      "md5": "287bba4a6f12039f8f7d922efba32b29",
+      "sha1": "dcf89a1424457940830dcbec4a7c4866e3c4781c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ratatouille%20-%20Food%20Frenzy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ratatouille%20-%20Food%20Frenzy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ratatouille%20-%20Food%20Frenzy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ratatouille%20-%20Food%20Frenzy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CEl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ratatouille%20-%20Food%20Frenzy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CEl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ratatouille%20-%20Food%20Frenzy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CEl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

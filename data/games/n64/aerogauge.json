@@ -63,5 +63,125 @@
     "wikidata": "Q668397",
     "mobygames": 8450,
     "igdb": 3329
-  }
+  },
+  "roms": [
+    {
+      "name": "AeroGauge (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NAGP",
+      "size": 8388608,
+      "crc32": "040b0046",
+      "md5": "05056045447bf1fba8f9878a7f6009f3",
+      "sha1": "38aadd684ad7662b02bbc29edddade9c9e16a3c0",
+      "sha256": "acae3faba2f0f3e55d6fc0746b392275cbaf51a27e82cf4f88adcc32080d481a"
+    },
+    {
+      "name": "AeroGauge (Japan) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NAGJ",
+      "size": 8388608,
+      "crc32": "6ee3b932",
+      "md5": "e970af3de25bb5ae1154010e26af776f",
+      "sha1": "0253c33355986ddda18a7a72b81b91ddc1bed978",
+      "sha256": "1ae451dbfbc4b9206356f765f18b7d2db4722e63cd39e656a5405a175d29eba2"
+    },
+    {
+      "name": "AeroGauge (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NAGJ",
+      "size": 8388608,
+      "crc32": "f322b641",
+      "md5": "0620c2d134a0430f4afa208ffeda67b8",
+      "sha1": "f7c2d4b0e77cc02deafe2e5fd95152b7e8bf86cf",
+      "sha256": "1abff752862450bbfd3cfbb75b1c217daa57f524bee65f14ae436519a615368a"
+    },
+    {
+      "name": "AeroGauge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NAGE",
+      "size": 8388608,
+      "crc32": "198b9e0e",
+      "md5": "72c7ffcea6c1430616867616f5e9d51a",
+      "sha1": "77626171c35fb1a4dfebb0927280897f362225ed",
+      "sha256": "2cc529109b11b00289d87f693a40591ef260d1dc7c1129113966ba6ddb1be4a5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/AeroGauge%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/AeroGauge%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/AeroGauge%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/AeroGauge%20%28Japan%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/AeroGauge%20%28Japan%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/AeroGauge%20%28Japan%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/AeroGauge%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/AeroGauge%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/AeroGauge%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/AeroGauge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/AeroGauge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/AeroGauge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

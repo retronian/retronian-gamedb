@@ -63,5 +63,46 @@
     "wikidata": "Q7642381",
     "mobygames": 40137,
     "igdb": 38419
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Goal! 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "c5829306",
+      "md5": "09d08c7f6252c64fdd3a39c82667f5f1",
+      "sha1": "85451595f125dcbe6009b9e83a150308ed9a0750",
+      "sha256": "d4caa6683ee1b6c70c10fd0555ade33dadcc6551d94e791586e64fd683d8f3a8"
+    },
+    {
+      "name": "Super Goal! 2 (World) (Evercade)",
+      "source": "no_intro",
+      "size": 524288,
+      "crc32": "598116a5",
+      "md5": "088620876c70f111b5cd48e254ed7153",
+      "sha1": "4a7ba7cfb2212fbdfd17fd698aeb14ac2a59aa23",
+      "sha256": "f247cb62f4637c9fcf30c5fc394c6aec858b4675e55b9e39753e9ef7e1c7a60e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Goal%21%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Goal%21%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Goal%21%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

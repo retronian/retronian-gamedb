@@ -54,5 +54,49 @@
     "wikidata": "Q3046920",
     "mobygames": 31836,
     "igdb": 6665
-  }
+  },
+  "roms": [
+    {
+      "name": "Ecco Jr. (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1554-00",
+      "size": 1048576,
+      "crc32": "6c6f4b89",
+      "md5": "ca7fa198e67d77b348111d57a6ad9df1",
+      "sha1": "0b493ef23874f82606d4fd22c2380b289247aa9f",
+      "sha256": "bc4c5e6571ca8a58996fb92138c4ec0f97a6d69a610331aad2e89267c8cc0bbd"
+    },
+    {
+      "name": "Ecco Jr. (USA, Australia) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1554-00",
+      "size": 1048576,
+      "crc32": "3c517975",
+      "md5": "ca8c0a6917554496bf6a08d8f00fb317",
+      "sha1": "636d2fb5f865f916e4a9fe0ff1819fcbc61b4258",
+      "sha256": "1e28f3231e358473b9be00925466e024a60d3317e9054a826922e02fb44d8f9f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ecco%20Jr.%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ecco%20Jr.%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ecco%20Jr.%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

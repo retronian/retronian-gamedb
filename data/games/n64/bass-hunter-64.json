@@ -27,5 +27,66 @@
     "wikidata": "Q3149583",
     "mobygames": 36671,
     "igdb": 3419
-  }
+  },
+  "roms": [
+    {
+      "name": "In-Fisherman - Bass Hunter 64 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NFHP",
+      "size": 8388608,
+      "crc32": "00da3704",
+      "md5": "bf3e84cdd01cac05987fd8da5191534b",
+      "sha1": "d36374be227e972b1c0b6f2cfbb8fdd724aa1074",
+      "sha256": "ef0be65a822e0cd2c55cac4616e515a4c6bda3ee31b87ada2bf4e0b77a758af1"
+    },
+    {
+      "name": "In-Fisherman - Bass Hunter 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NFHE",
+      "size": 8388608,
+      "crc32": "d8eb5e6e",
+      "md5": "c605f40bf669e00a5e51baf0d00621ea",
+      "sha1": "4aa373e23876c89a549c98036f456b564d779217"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/In-Fisherman%20-%20Bass%20Hunter%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/In-Fisherman%20-%20Bass%20Hunter%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/In-Fisherman%20-%20Bass%20Hunter%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/In-Fisherman%20-%20Bass%20Hunter%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/In-Fisherman%20-%20Bass%20Hunter%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/In-Fisherman%20-%20Bass%20Hunter%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

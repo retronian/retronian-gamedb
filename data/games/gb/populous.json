@@ -54,5 +54,53 @@
     "wikidata": "Q1239244",
     "mobygames": 613,
     "igdb": 322337
-  }
+  },
+  "roms": [
+    {
+      "name": "Populous (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "453057ac",
+      "md5": "ab5fac354726b7b0710cfdba22d7142f",
+      "sha1": "4e3976fe32f4db8f2e56eae539d7cae04d1b64cb",
+      "sha256": "22d0895001c8d29834b929f2f538ec476970d9dabd546116b50f4880a31c56a7"
+    },
+    {
+      "name": "Populous (Europe) (Sample)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "ecf2dd6f",
+      "md5": "25fbb082dc9bb9e86c0abb03ca5cc168",
+      "sha1": "76a08b4a0448641a263ce4dc65a2181192a0a621",
+      "sha256": "a5b778bab9de5add5ad947f3024b5b891cfda119b5905f8901ff1d9485db5f22"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Populous%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Populous%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Populous%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Populous%20%28Europe%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

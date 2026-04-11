@@ -44,5 +44,49 @@
   "external_ids": {
     "wikidata": "Q3570003",
     "igdb": 46685
-  }
+  },
+  "roms": [
+    {
+      "name": "World Series Baseball '96 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1242-00",
+      "size": 3145728,
+      "crc32": "04ee8272",
+      "md5": "c72fa1e851cc03077a31cb10f6480b5d",
+      "sha1": "f91eeedbadd277904f821dfaae9e46f6078ff207",
+      "sha256": "679d411180f14eafa9900ecb90a7c3a319a3c967c85c1fe7db547229f22382ac"
+    },
+    {
+      "name": "World Series Baseball '96 (USA) (Demo) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1242-00",
+      "size": 3145728,
+      "crc32": "4e619375",
+      "md5": "45604d1732a27d40e8b936a589a896e5",
+      "sha1": "cbf8801ef527aa509fbb70301479a8ff96c650bf",
+      "sha256": "9824a1cc045e62e127aa43aa67fdca95ad2bc0bbec34fd49eb0b9d38b63d7969"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/World%20Series%20Baseball%20%2796%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/World%20Series%20Baseball%20%2796%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/World%20Series%20Baseball%20%2796%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

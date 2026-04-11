@@ -72,5 +72,85 @@
     "wikidata": "Q2266405",
     "mobygames": 3687,
     "igdb": 7358
-  }
+  },
+  "roms": [
+    {
+      "name": "Parasite Eve II (Asia)",
+      "source": "no_intro",
+      "size": 820553440,
+      "crc32": "5e545821",
+      "md5": "21694013742e84aa5be0a494b5224732",
+      "sha1": "fc4daa5e858e271132aa762ddeb11d45da54a155"
+    },
+    {
+      "name": "Parasite Eve II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 742944000,
+      "crc32": "15332528",
+      "md5": "9ff822cf7111048d4ab9e3ea7512649c",
+      "sha1": "485540fe157b74eef9acbbfc0d6cedd7dd315ae6"
+    },
+    {
+      "name": "Parasite Eve II (Germany)",
+      "source": "no_intro",
+      "size": 742900080,
+      "crc32": "43a96f7d",
+      "md5": "476fad26fe4fba9b18bf8552b0ff3537",
+      "sha1": "fcc1f6d743a89ecd8cec040f1d8fb8e09acef2f9"
+    },
+    {
+      "name": "Parasite Eve II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 820573056,
+      "crc32": "a60cb1c7",
+      "md5": "16f7d6680fa67ffc20c19535bae73c56",
+      "sha1": "a969285a88600653f9ba300b4b5136894cc43e44",
+      "sha256": "3ab49b9ffb4fa67881a443f797cbfb283216c648a28af7ba18af9ab64829b3dd"
+    },
+    {
+      "name": "Parasite Eve II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 812095248,
+      "crc32": "626d86c5",
+      "md5": "4072f9e4c35fb5e6958d7e81f8877fc7",
+      "sha1": "efa78586a341a3a11bac4b07c9120ddf3238d5f2"
+    },
+    {
+      "name": "Parasite Eve II (Italy)",
+      "source": "no_intro",
+      "size": 742602128,
+      "crc32": "42993b82",
+      "md5": "d9527cd55be2694f3979cb24a0d11fe4",
+      "sha1": "acee2822b842fc0d699fd0cf842ee5e91f6ac84c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Parasite%20Eve%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Parasite%20Eve%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Parasite%20Eve%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Parasite%20Eve%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

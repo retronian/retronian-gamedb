@@ -63,5 +63,75 @@
     "wikidata": "Q7061794",
     "mobygames": 13781,
     "igdb": 11125
-  }
+  },
+  "roms": [
+    {
+      "name": "Nosferatu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "2c5df175",
+      "md5": "61413693c0e62e67996f4818421343b3",
+      "sha1": "5b8efdb03542c112d66d5ef017637e8a8aafe89e",
+      "sha256": "81a62b6e21ebe800dcc28bb2d18f0a39856ea79dce9468fc871a43242ff4bc05"
+    },
+    {
+      "name": "Nosferatu (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "de762764",
+      "md5": "42647bf6fd9c3e28a2542b88c09d2893",
+      "sha1": "8cbda4cfd74228cf041695382cccb5c4ac893e75",
+      "sha256": "9712829b38f23229d4e3d65da78237659c790235f425c6b12487e4d9e9a37ae9"
+    },
+    {
+      "name": "Nosferatu (Japan) (Beta) (1994-06-25)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "e7aade48",
+      "md5": "163b901fb2e998a6e07570b0d7bc1d5c",
+      "sha1": "117deba17dddc5bc8e59a678b82516d546942a65",
+      "sha256": "afa2d28b78bf03b292191a566d090c8c4d60eb6cacb3d690a8227377f47473aa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Nosferatu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Nosferatu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Nosferatu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Nosferatu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Nosferatu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Nosferatu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -63,5 +63,94 @@
     "wikidata": "Q2703818",
     "mobygames": 20757,
     "igdb": 18340
-  }
+  },
+  "roms": [
+    {
+      "name": "Electroplankton (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ATIJ",
+      "size": 16777216,
+      "crc32": "94767cd4",
+      "md5": "31683ad77bfc47a1d1a4f30959fdde26",
+      "sha1": "0b30b0fdb2240cabfc2ff9c3a6a11f0312f76227"
+    },
+    {
+      "name": "Electroplankton (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATIE",
+      "size": 16777216,
+      "crc32": "ead29feb",
+      "md5": "a5d073337a37832b84af5f6d136522c5",
+      "sha1": "dc5aa48d8b923f5b232c325cf92fe7153b131198"
+    },
+    {
+      "name": "Electroplankton (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATIP",
+      "size": 16777216,
+      "crc32": "90f8ca7b",
+      "md5": "b2b419e48137a4a251614b36f87c5ef0",
+      "sha1": "aec52769064261f084d9afbe5ef91a599ebd065e",
+      "sha256": "5562af4c2110f77c1a736d6b69a38f71ea28688c4018c9a93fee3103eff08660"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Electroplankton%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Electroplankton%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Electroplankton%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Electroplankton%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Electroplankton%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Electroplankton%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Electroplankton%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Electroplankton%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Electroplankton%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

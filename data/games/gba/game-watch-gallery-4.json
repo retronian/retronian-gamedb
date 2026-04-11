@@ -80,5 +80,80 @@
     "wikidata": "Q14906024",
     "mobygames": 7672,
     "igdb": 81497
-  }
+  },
+  "roms": [
+    {
+      "name": "Game & Watch Gallery 4 (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQWE",
+      "size": 4194304,
+      "crc32": "0a517352",
+      "md5": "acfd5c0223a5719665d464d72b6d1b33",
+      "sha1": "3fd362b2e05f86f430bb5225cbeb4a8d04ef9d1f"
+    },
+    {
+      "name": "Game & Watch Gallery 4 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQWE",
+      "size": 4194304,
+      "crc32": "7e90cea2",
+      "md5": "89bd27cd7228736d9c00461abd20c208",
+      "sha1": "56be8e044aba698f1d573053b5af8e0c0bfcc060",
+      "sha256": "8166a4d8a307999d8d37843a9b7ebc9cfbc18bd2a4376b2832daa08104ccb6ee"
+    },
+    {
+      "name": "Game & Watch Gallery Advance (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQWP",
+      "size": 4194304,
+      "crc32": "85c837af",
+      "md5": "a08c51144b35f3a09ba1c65b583feddd",
+      "sha1": "3d6935d925a375add5532b50816c497d3cd67c59",
+      "sha256": "39b13999cccfde105b4b16846e32529d2c723135822aeb93f1535e31d7ee767e"
+    },
+    {
+      "name": "Game & Watch Gallery Advance (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQWP",
+      "size": 4194304,
+      "crc32": "f1098a5f",
+      "md5": "923410c2a52decb781a381f399f2dd2b",
+      "sha1": "a5e44abd785eba858d966be75135d4a39687df46",
+      "sha256": "641a25a2fb0f596797d13768f5214d26a57fbf9dfd758b25424ddf6390d6296c"
+    },
+    {
+      "name": "Game Boy Gallery 4 (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AQWJ",
+      "size": 4194304,
+      "crc32": "11cfc797",
+      "md5": "d7dd9a6376e9c85ae177cd61ee9e3312",
+      "sha1": "1c42316f5170da878c57be47df3672285835f963"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Game%20Boy%20Gallery%204%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Game%20Boy%20Gallery%204%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Game%20Boy%20Gallery%204%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

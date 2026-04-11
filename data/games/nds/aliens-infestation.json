@@ -36,5 +36,65 @@
     "wikidata": "Q2836855",
     "mobygames": 53230,
     "igdb": 20606
-  }
+  },
+  "roms": [
+    {
+      "name": "Aliens - Infestation (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B79P",
+      "size": 33554432,
+      "crc32": "c8823461",
+      "md5": "1c8ab32842695c4dbf5eab5689e8074b",
+      "sha1": "bec3711d400bd6f24e3771dcaeb96ba7fa797e52"
+    },
+    {
+      "name": "Aliens - Infestation (USA) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CEYE",
+      "size": 33554432,
+      "crc32": "ac03d612",
+      "md5": "e6758e44deedd14639898faa26ea6985",
+      "sha1": "a9a69b6259f06cd4ac5d0e53e5beb5141b124b2d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Aliens%20-%20Infestation%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Aliens%20-%20Infestation%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Aliens%20-%20Infestation%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Aliens%20-%20Infestation%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Aliens%20-%20Infestation%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Aliens%20-%20Infestation%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

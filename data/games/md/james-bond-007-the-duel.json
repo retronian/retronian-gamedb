@@ -54,5 +54,67 @@
     "wikidata": "Q911619",
     "mobygames": 12263,
     "igdb": 1637
-  }
+  },
+  "roms": [
+    {
+      "name": "James Bond 007 - The Duel (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-088016-00",
+      "size": 524288,
+      "crc32": "291a3e4b",
+      "md5": "b81db9e2ae0f50bfc484e03a2caac95c",
+      "sha1": "e880bfad98d0e6f9b73db63ea85fb0a103b0e1e7",
+      "sha256": "7e7ca106fc85dd50646d8b9113241deae6202ac8ddaaf3d037237245923b2f23"
+    },
+    {
+      "name": "James Bond 007 - The Duel (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-048156-00",
+      "size": 524288,
+      "crc32": "4e614548",
+      "md5": "d7937eee5a0fa4fabb035a2862bcd78d",
+      "sha1": "847de1168bf737ac7faa4f77eb0749738014ed87",
+      "sha256": "f7a4b61338058d771770a04c495fad9accf083a01bda94bc64271fcc69dfcd68"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/James%20Bond%20007%20-%20The%20Duel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/James%20Bond%20007%20-%20The%20Duel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/James%20Bond%20007%20-%20The%20Duel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/James%20Bond%20007%20-%20The%20Duel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/James%20Bond%20007%20-%20The%20Duel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/James%20Bond%20007%20-%20The%20Duel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

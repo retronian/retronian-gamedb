@@ -63,5 +63,66 @@
     "wikidata": "Q2311323",
     "mobygames": 10209,
     "igdb": 248594
-  }
+  },
+  "roms": [
+    {
+      "name": "Smuggler's Run (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASGE",
+      "size": 8388608,
+      "crc32": "1a6aea5e",
+      "md5": "e639ef65c3638c0b5927a4d3fc947e3d",
+      "sha1": "a14efb987bfcf3f547db2650cd2cc6dca3adcf73"
+    },
+    {
+      "name": "Smuggler's Run (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASGP",
+      "size": 8388608,
+      "crc32": "3ae0afc8",
+      "md5": "3fda0c02e17c83b4b71487b13780816c",
+      "sha1": "e87067719da93f0d7c8136cdf5717612a6c15034",
+      "sha256": "36d64b2c351a357ce60c68836916b61946e06321009febbce26bdbb45cf3a23e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Smuggler%27s%20Run%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Smuggler%27s%20Run%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Smuggler%27s%20Run%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Smuggler%27s%20Run%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Smuggler%27s%20Run%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Smuggler%27s%20Run%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

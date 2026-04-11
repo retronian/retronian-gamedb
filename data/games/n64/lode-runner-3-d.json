@@ -45,5 +45,94 @@
     "wikidata": "Q3257786",
     "mobygames": 9270,
     "igdb": 3372
-  }
+  },
+  "roms": [
+    {
+      "name": "Lode Runner 3-D (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NLRP",
+      "size": 8388608,
+      "crc32": "7148251d",
+      "md5": "e62f4fdcc82c244ba9709e40756d9b62",
+      "sha1": "3b198c0117da808b25fbc4e543d282228bb4780a",
+      "sha256": "9a0bcf401a512c7d0fbc5686f91599e7d6f61c627c848ba841b3f774181d4292"
+    },
+    {
+      "name": "Lode Runner 3-D (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NLRJ",
+      "size": 8388608,
+      "crc32": "1d4fb466",
+      "md5": "d2bd8dd8c3be1e8f0b8ae49206dbd7e5",
+      "sha1": "a115c19e1dea438861437a326124c0e7a482de3b"
+    },
+    {
+      "name": "Lode Runner 3-D (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NLRE",
+      "size": 8388608,
+      "crc32": "4ea07453",
+      "md5": "d038813541589f0b3f1f900f4fd22c9b",
+      "sha1": "d3a13c0cfdff835fdf87d5dc7c5149fba564877f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Lode%20Runner%203-D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Lode%20Runner%203-D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Lode%20Runner%203-D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Lode%20Runner%203-D%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Lode%20Runner%203-D%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Lode%20Runner%203-D%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Lode%20Runner%203-D%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Lode%20Runner%203-D%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Lode%20Runner%203-D%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

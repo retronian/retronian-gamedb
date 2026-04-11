@@ -53,5 +53,49 @@
     "wikidata": "Q2081247",
     "mobygames": 17075,
     "igdb": 322289
-  }
+  },
+  "roms": [
+    {
+      "name": "Insector X (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-28023-00",
+      "size": 524288,
+      "crc32": "9625c434",
+      "md5": "ae4322417c5827364837d04a2952facb",
+      "sha1": "204351b97aff579853cdba646b427ea299b1eddf",
+      "sha256": "be7bb50951539acb021f7ebe6f9edd00ede8d2824aec0ce03fc0c8acf0b4ae75"
+    },
+    {
+      "name": "Insector X (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-28026-00",
+      "size": 524288,
+      "crc32": "70626304",
+      "md5": "77574085187602bf50dd1167da389f60",
+      "sha1": "4f4ecff167d5ada699b0b1d4b0e547b5ed9964d5",
+      "sha256": "b21a3501da461ea6f42ef5076e0ddc8bfcb792bc89daf440c8d73065ccaa4969"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Insector%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Insector%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Insector%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

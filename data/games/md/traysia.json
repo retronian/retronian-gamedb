@@ -69,5 +69,88 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Minato no Traysia (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-49073-00",
+      "size": 1048576,
+      "crc32": "bd89fd09",
+      "md5": "75d911e5dc04c429c2f6d64332021b2b",
+      "sha1": "dea227a41a5ba28f8c8ea75cba12965bbc5ff8da",
+      "sha256": "87f89fbf3164afe215c96f7af7ea4a5152a16ea1c4b32c3abe3e6179d16e8725"
+    },
+    {
+      "name": "Traysia (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49166-00",
+      "size": 1048576,
+      "crc32": "96184f4f",
+      "md5": "98d97dcf65dc2e9489539b9c74ac1af4",
+      "sha1": "ff0efe6da308919f843a7593e8af7fae82160b0b",
+      "sha256": "00b4146147fab04c16bb5881f2bd8e5282f67232595163ad3e30a7a95af6afff"
+    },
+    {
+      "name": "Traysia (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-49166-00",
+      "size": 1048576,
+      "crc32": "a6353f13",
+      "md5": "9d833a16ffd5e27fa556f8fb271ddaee",
+      "sha1": "6528d595ed6dd39922dfd76348166c75f7f7c118",
+      "sha256": "0adc613db7dc39d9118f03401da00ee66855f2fab25ab4c78ab79f0ba44a786f"
+    },
+    {
+      "name": "Traysia (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49166-00",
+      "size": 1048576,
+      "crc32": "daa83cb5",
+      "md5": "ba86aa750145ca451ed34a8d5a0e284a",
+      "sha1": "284c7a67843be8b56bba8d9050a6cbaeae3c896b",
+      "sha256": "f97b65e21611739af0c94395ed6d774c04d3d23b31527bf09a9bfaa7f044c8f7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Minato%20no%20Traysia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Minato%20no%20Traysia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Minato%20no%20Traysia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Traysia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Traysia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Traysia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -72,5 +72,46 @@
     "wikidata": "Q2281114",
     "mobygames": 6015,
     "igdb": 2749
-  }
+  },
+  "roms": [
+    {
+      "name": "Bloody Roar (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 327911824,
+      "crc32": "88923403",
+      "md5": "3acbd6b314c93b44f928df487b58acd6",
+      "sha1": "61e5dc9181f87f701c7bac2ece4c23a3a01e80eb"
+    },
+    {
+      "name": "Bloody Roar (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 335973536,
+      "crc32": "8c08e504",
+      "md5": "c08fd95abc1d6c532c1bb5a6d17f039c",
+      "sha1": "70ad689c34baa307ac4b68f1565458be0567d9f1",
+      "sha256": "e3139364b0296b081b2d6fa24a070a160e6ae1045af064526972f1dd1d6bdebc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Bloody%20Roar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Bloody%20Roar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Bloody%20Roar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

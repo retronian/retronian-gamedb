@@ -64,6 +64,15 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Rockman & Forte",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1998-04-24",
@@ -71,5 +80,17 @@
     "wikidata": "Q3051587",
     "mobygames": 6604,
     "igdb": 1726
-  }
+  },
+  "roms": [
+    {
+      "name": "Rockman & Forte (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "5047e0d4",
+      "md5": "55d9cdb05f53a3f7a5e3eacb81b28f09",
+      "sha1": "bcd2fc38b4e4bf6b811b00301f349e85ca48fe1a",
+      "sha256": "4fc2832e7aa01d105ca67977b38840ec1188869b5e74d20e58613c1cd127d78f"
+    }
+  ]
 }

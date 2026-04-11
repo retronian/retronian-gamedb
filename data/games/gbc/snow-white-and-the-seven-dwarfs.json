@@ -26,5 +26,63 @@
   "external_ids": {
     "wikidata": "Q2905942",
     "igdb": 59938
-  }
+  },
+  "roms": [
+    {
+      "name": "Snow White and the Seven Dwarfs (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "c9c68471",
+      "md5": "6156e8789ce8126c299892f34d2c9805",
+      "sha1": "bcb5f2141bdfa0bd055e7e94301cf0aff00971a0"
+    },
+    {
+      "name": "Snow White and the Seven Dwarfs (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "8dd38534",
+      "md5": "0c1c350ce431ace4328c0e935fa2f41b",
+      "sha1": "865e5bd17e336b4696fb891bc21c966ef2e186c9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Snow%20White%20and%20the%20Seven%20Dwarfs%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Snow%20White%20and%20the%20Seven%20Dwarfs%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Snow%20White%20and%20the%20Seven%20Dwarfs%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Snow%20White%20and%20the%20Seven%20Dwarfs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Snow%20White%20and%20the%20Seven%20Dwarfs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Snow%20White%20and%20the%20Seven%20Dwarfs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

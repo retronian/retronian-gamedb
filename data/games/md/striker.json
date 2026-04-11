@@ -63,5 +63,67 @@
     "wikidata": "Q2748421",
     "mobygames": 12380,
     "igdb": 237503
-  }
+  },
+  "roms": [
+    {
+      "name": "Striker (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1185-00",
+      "size": 2097152,
+      "crc32": "cc5d7ab2",
+      "md5": "adb802ff17d95919ed89111a1ec44be5",
+      "sha1": "9917c35a263cc9bd922d55bf59d01bc2733b4e24",
+      "sha256": "581b22dfaf7fb57f8a968bb59e1690c2edf414cf44266795c72e6089fc77723a"
+    },
+    {
+      "name": "Striker (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MKxxxx-00",
+      "size": 2097152,
+      "crc32": "c10b270e",
+      "md5": "ee4962aab6e1a6e5d4c5681bcb560dd8",
+      "sha1": "128395e635e948005e89c7f4a6cd5b209be1ffbc",
+      "sha256": "8de0e30e3cf782d19bd88e05fd1e8798c8d31fc0a58875ceb4e00a0bce57ce3c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Striker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Striker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Striker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Striker%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Striker%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Striker%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

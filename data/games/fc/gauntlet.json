@@ -63,5 +63,77 @@
     "wikidata": "Q734758",
     "mobygames": 9071,
     "igdb": 7294
-  }
+  },
+  "roms": [
+    {
+      "name": "Gauntlet (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 196624,
+      "crc32": "6c6b691b",
+      "md5": "970e6792d6776cd817f15e40e6e02319",
+      "sha1": "9c9593cfc6077ebc8cca736d81feda8a7e667df5",
+      "sha256": "1580e531d7a37bfab993b08129cdd679e89a214ebff43d78f879a2051503b713"
+    },
+    {
+      "name": "Gauntlet (USA) (V1.1) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 196624,
+      "crc32": "7eca78ee",
+      "md5": "76c54f9d529634f1d283905d2156de30",
+      "sha1": "be8230b2bdf148e994d31c3ba666c6be933744bb",
+      "sha256": "9b2eef8cd63a579c1f248b77d1331328d75b041274448265ce4946f00006ea73"
+    },
+    {
+      "name": "Gauntlet (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 196624,
+      "crc32": "431d9cfe",
+      "md5": "e92a38eea09646cb003b3392118adeb8",
+      "sha1": "171cac68dd7dbe72772fa0b9fa387d568dad619e",
+      "sha256": "7fe007df96db02f2359eee1fbbee6af16faac449f57a123c870ae252d98f1309"
+    },
+    {
+      "name": "Gauntlet (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 196624,
+      "crc32": "fe08afd8",
+      "md5": "5c233d1192355685d178f9137b8db17c",
+      "sha1": "b2836962c806171650397e65af7ca09e0e868bed",
+      "sha256": "f82102a20df9804c399866946c1c29ef42fda8304987c889a24dbe5a28344162"
+    },
+    {
+      "name": "Gauntlet (USA) (V1.1) (Beta) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 196624,
+      "crc32": "dc32643e",
+      "md5": "fbe51a879f5a491339f2bdb4bde63a43",
+      "sha1": "00d362fe605fb8b90d995ed3c3762bffa9862a12",
+      "sha256": "9c835c1f946c49a595c9117fdcef1d4d88cc71e902ae260df484641e73acc534"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gauntlet%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gauntlet%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gauntlet%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

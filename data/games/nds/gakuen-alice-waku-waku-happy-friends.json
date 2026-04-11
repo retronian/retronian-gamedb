@@ -35,5 +35,48 @@
   "external_ids": {
     "wikidata": "Q107206415",
     "igdb": 70676
-  }
+  },
+  "roms": [
+    {
+      "name": "Gakuen Alice - Waku Waku Happy Friends (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YALJ",
+      "size": 33554432,
+      "crc32": "cf555eeb",
+      "md5": "a9cc209d430970613090acd60380cf07",
+      "sha1": "92a159ab3937846284c170e739fcb5e8cee03cf7",
+      "sha256": "48f47aa33f44f57054a955174abb4097278b269d8814b91d9c636f31dc170be0"
+    },
+    {
+      "name": "Gakuen Alice - Waku Waku Happy Friends (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YALJ",
+      "size": 33554432,
+      "crc32": "7a9e7964",
+      "md5": "33e2a23134e842291497b7dc0e0f5948",
+      "sha1": "1a93ac654b7f962b0d32cf016f2c1f160b57de7c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Gakuen%20Alice%20-%20Waku%20Waku%20Happy%20Friends%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Gakuen%20Alice%20-%20Waku%20Waku%20Happy%20Friends%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Gakuen%20Alice%20-%20Waku%20Waku%20Happy%20Friends%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

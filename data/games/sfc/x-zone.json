@@ -108,5 +108,75 @@
     "wikidata": "Q8041541",
     "mobygames": 14665,
     "igdb": 42647
-  }
+  },
+  "roms": [
+    {
+      "name": "X Zone (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "1a24bc5c",
+      "md5": "966498b44281629893f0e5b5a6558cf2",
+      "sha1": "f5b42aa66d9230490eb5aae41da9b7025f2ec08a",
+      "sha256": "a6297356fb06f1575b432fae463171f53e3b786fd77b841557547a9117fb52fe"
+    },
+    {
+      "name": "X Zone (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "99627bb0",
+      "md5": "a316475dfca41b864b7be021afbcad00",
+      "sha1": "b25fddc4a239051b07b996f685fbce8e8354fea0",
+      "sha256": "93272180090e8418582f69b79c5cee6b28638b9a93192cc4bcd96291a4fca02d"
+    },
+    {
+      "name": "X Zone (Japan, USA) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "5da17c51",
+      "md5": "1273583b8c621d24de8586a286d50575",
+      "sha1": "845e4ebc878df14f6ddc8025e09a172b74646b30",
+      "sha256": "d93470b6b486f846d45570ba789ee75cb0bf5fc488c333bb8500c13ae298cbc0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/X%20Zone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/X%20Zone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/X%20Zone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/X%20Zone%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/X%20Zone%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/X%20Zone%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

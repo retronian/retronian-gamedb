@@ -72,5 +72,67 @@
     "wikidata": "Q890065",
     "mobygames": 5863,
     "igdb": 3426
-  }
+  },
+  "roms": [
+    {
+      "name": "Body Harvest (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NBHP",
+      "size": 12582912,
+      "crc32": "6a04cdae",
+      "md5": "b27fa5e9ad0cb47bb3a74ffac7bc8edf",
+      "sha1": "67750e2e7ab46fedf65a271ab7f4c7aad92ae355",
+      "sha256": "e0340a9656384420eab6c92ac6e2d0b6eba38cb527cf1ec26e4b2057964984a4"
+    },
+    {
+      "name": "Body Harvest (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NBHE",
+      "size": 12582912,
+      "crc32": "fabbdf02",
+      "md5": "3b8585ed03e8ddb89d7de456317545e7",
+      "sha1": "bbb6666f5014a473747ee4145f036d9fb25d7348",
+      "sha256": "d4b2654d6d903e43454bffdf025eeb4a954d8fafefab64dc5f8cf0e6dd392a74"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Body%20Harvest%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Body%20Harvest%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Body%20Harvest%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Body%20Harvest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Body%20Harvest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Body%20Harvest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

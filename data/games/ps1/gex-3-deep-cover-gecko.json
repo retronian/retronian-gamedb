@@ -63,5 +63,45 @@
     "wikidata": "Q615211",
     "mobygames": 47696,
     "igdb": 3505
-  }
+  },
+  "roms": [
+    {
+      "name": "Gex 3 - Deep Cover Gecko (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 275681472,
+      "crc32": "f9f0cac4",
+      "md5": "e7f129d36f4fa4b9dcd8d33555f71f50",
+      "sha1": "8dfbdaa0d51d11683111bba9afb203149305b926"
+    },
+    {
+      "name": "Gex 3 - Deep Cover Gecko (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 270840832,
+      "crc32": "b7325fff",
+      "md5": "00a6054dcbad88c639f961e7a60e1732",
+      "sha1": "cd8a30aa103804ea351aecdfb356eb84affa14ad"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Gex%203%20-%20Deep%20Cover%20Gecko%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Gex%203%20-%20Deep%20Cover%20Gecko%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Gex%203%20-%20Deep%20Cover%20Gecko%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

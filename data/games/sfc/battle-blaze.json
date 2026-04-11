@@ -34,5 +34,85 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Battle Blaze (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "b9cd2ff3",
+      "md5": "48f9fade9361d8188ab27cae6d14309f",
+      "sha1": "e486b107afcc50d3c5b2c33fa5840bd16ef705c2",
+      "sha256": "7bc5885cadf0a832d51b924feec2d62c30143c2908559709a89227e63c84537c"
+    },
+    {
+      "name": "Battle Blaze (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "d933bd8d",
+      "md5": "afcbfae9eadc31880b3216ac1519c7af",
+      "sha1": "2a1c91b6a9ffd5b8d01e388c1322341216021a02",
+      "sha256": "983022203546e031773db0d1af7552c489187954882843f13ff123f09064c1d3"
+    },
+    {
+      "name": "Battle Blaze (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "9f2ba6a9",
+      "md5": "1c170567b185d22c42638f15e503d7b6",
+      "sha1": "cfcc60d3987545429c2196acecb1b3d1f7e56015",
+      "sha256": "3f8af0749050e514ef368c11e7e13b725cadaa94d8e853065206a34913c505ca"
+    },
+    {
+      "name": "Battle Blaze (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "d458c07e",
+      "md5": "37bc8eb1d5b4a5c26b9c3e1fddacffb4",
+      "sha1": "7ecec338b416207dc7e93b0d20c787a9423293e5",
+      "sha256": "ab202a6398cd11f30212d44eb9b20ed5e0442f3bb269aae568e9fcd20adbb55c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Battle%20Blaze%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Battle%20Blaze%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Battle%20Blaze%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Battle%20Blaze%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Battle%20Blaze%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Battle%20Blaze%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

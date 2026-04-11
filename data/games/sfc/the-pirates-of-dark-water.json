@@ -18,5 +18,109 @@
     "wikidata": "Q86685319",
     "mobygames": 25280,
     "igdb": 8104
-  }
+  },
+  "roms": [
+    {
+      "name": "Pirates of Dark Water, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "4c4782b5",
+      "md5": "cd4df66a9798365d5a766fcff18b4377",
+      "sha1": "daed2aa89dfc2fb4de1c690c2e26acf271c0aa31",
+      "sha256": "ec6f444dcab84d251c12eb4f47aeac23ed997bf0416c5a537bac6bb9d40b725d"
+    },
+    {
+      "name": "Pirates of Dark Water, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "7ca0ca4d",
+      "md5": "e57ff9a6f8a23935a1171f871c0ce68f",
+      "sha1": "ee8cb83b46b0dfce33cbbfa16bf0c713fbf288ba",
+      "sha256": "447dfa710e69479159e9d407474fbf5f67d3a3330ab0c7627afd123ded3fdb3a"
+    },
+    {
+      "name": "Pirates of Dark Water, The (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "2bb26c4a",
+      "md5": "097da94a3066da59d1d31f4c54bad041",
+      "sha1": "524b7252fb07c7085d6539da91bf2f9e18c92d8b",
+      "sha256": "66160a90036a3f3b9ca52c46ce6bf3015a30bf9e1fd894876c533cc00c260f19"
+    },
+    {
+      "name": "Pirates of Dark Water, The (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "e3986dbf",
+      "md5": "4c3814f5be295994785f749a6c5425a4",
+      "sha1": "d14ba08717bdff5082f3d8e7730a6e62c27b7998",
+      "sha256": "4afc306196c614be2247aec9d9eb3f9f02183e5e4429957bc9b2fd798caafec9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pirates%20of%20Dark%20Water%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pirates%20of%20Dark%20Water%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pirates%20of%20Dark%20Water%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pirates%20of%20Dark%20Water%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pirates%20of%20Dark%20Water%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pirates%20of%20Dark%20Water%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pirates%20of%20Dark%20Water%2C%20The%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pirates%20of%20Dark%20Water%2C%20The%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pirates%20of%20Dark%20Water%2C%20The%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pirates%20of%20Dark%20Water%2C%20The%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -45,5 +45,66 @@
     "wikidata": "Q3270041",
     "mobygames": 40471,
     "igdb": 7914
-  }
+  },
+  "roms": [
+    {
+      "name": "Imagine - Teacher (USA) (En,Fr,Es,Pt)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CITE",
+      "size": 16777216,
+      "crc32": "0ca68c04",
+      "md5": "3dba3c6c411ea2e306450b41ab1e1b75",
+      "sha1": "a4681b96c3bd400b367596e2201a616c5a3a12c0"
+    },
+    {
+      "name": "Imagine - Teacher (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CITP",
+      "size": 16777216,
+      "crc32": "6e9dd543",
+      "md5": "7c88a846b92410a77b3367707f03f909",
+      "sha1": "978b402ec808610e4a6cdc446683a2e8d5d8db2b",
+      "sha256": "d55ffc85edda3b0773bb32adaad8e6d9f15f725b2375fd6d233ae8af49b8c948"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Teacher%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Imagine%20-%20Teacher%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Teacher%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Teacher%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Imagine%20-%20Teacher%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Teacher%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

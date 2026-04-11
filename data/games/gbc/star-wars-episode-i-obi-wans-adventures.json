@@ -45,5 +45,63 @@
     "wikidata": "Q54842",
     "mobygames": 4541,
     "igdb": 18950
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars Episode I - Obi-Wan's Adventures (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "e584dfc2",
+      "md5": "b9cf2cc6ff8cbe94cb58ffa958475ab8",
+      "sha1": "f6a4f115e553f67512373fc5fcbf295c1d6d9fcd"
+    },
+    {
+      "name": "Star Wars Episode I - Obi-Wan's Adventures (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "0e697582",
+      "md5": "484eeb83ad00353272767485eca59ea5",
+      "sha1": "fb15a0ae700a11f0925113e5f5c9cb5c655acdb5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Star%20Wars%20Episode%20I%20-%20Obi-Wan%27s%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Star%20Wars%20Episode%20I%20-%20Obi-Wan%27s%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Star%20Wars%20Episode%20I%20-%20Obi-Wan%27s%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Star%20Wars%20Episode%20I%20-%20Obi-Wan%27s%20Adventures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Star%20Wars%20Episode%20I%20-%20Obi-Wan%27s%20Adventures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Star%20Wars%20Episode%20I%20-%20Obi-Wan%27s%20Adventures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

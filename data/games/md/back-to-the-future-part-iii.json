@@ -54,5 +54,67 @@
     "wikidata": "Q1937111",
     "mobygames": 7600,
     "igdb": 8519
-  }
+  },
+  "roms": [
+    {
+      "name": "Back to the Future Part III (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-69046-50",
+      "size": 524288,
+      "crc32": "2737f92e",
+      "md5": "412167642219d26ffc5994d07e31c561",
+      "sha1": "c808ee7f6f61c096ab73b68dd181e25fdcfde243",
+      "sha256": "0b8ba22efa9a0e5a0e92a000c748ab9abbf3385decd426c3c027706a96ac97b7"
+    },
+    {
+      "name": "Back to the Future Part III (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-69046-00",
+      "size": 524288,
+      "crc32": "66a388c3",
+      "md5": "165288c22589ef8c1a41e31215b52c34",
+      "sha1": "a704a1538fb4392e4631e96dce11eeff99d9b04a",
+      "sha256": "cfb9d6977f0457ea74db99b8305ddf530381fe31e7e2c45d59c46f0e69f9435e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Back%20to%20the%20Future%20Part%20III%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Back%20to%20the%20Future%20Part%20III%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Back%20to%20the%20Future%20Part%20III%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Back%20to%20the%20Future%20Part%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Back%20to%20the%20Future%20Part%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Back%20to%20the%20Future%20Part%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,85 @@
     "wikidata": "Q880945",
     "mobygames": 1445,
     "igdb": 452
-  }
+  },
+  "roms": [
+    {
+      "name": "Blackhawk (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "2d1dd10a",
+      "md5": "0500e7dff0acb5b86e4909b7ddd41a76",
+      "sha1": "27eb4c70ecda592a0473aa8c68b424ff0ccb7413",
+      "sha256": "08e02381cf59bdb3ad4d561587c8ccd001c722c7731705a9d84b39cb0337ca53"
+    },
+    {
+      "name": "Blackthorne (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "856beab1",
+      "md5": "ee33097d436b4901a71f7e4c9a5cb409",
+      "sha1": "bcac87c7a982d8eb90cbf30a6c34fbabde135ff7",
+      "sha256": "328c8f57e2ea371f6fd5b8a9834c56e35eb3bfe710502dd80f370739f9ccb7e1"
+    },
+    {
+      "name": "Blackthorne (USA) (Beta) (CES)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "cffaaa21",
+      "md5": "a28203d6b4c63c26508acfa269b5225e",
+      "sha1": "deae3d555f1922fd05b4c15616fd04234d6dca24",
+      "sha256": "30fbd3b03a5253fd57a7fbe06c4ad4c742a36c3607e90e5f5ae455a82849af44"
+    },
+    {
+      "name": "Blackthorne (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "b39af3fa",
+      "md5": "49715a9bced9dba4e6aaa1dab639e743",
+      "sha1": "d10550fb9976bbede23952e7db163cb341d80d91",
+      "sha256": "4b75b519d305ad7bddb27a40a49e754c0e0ca9fa29a6537ab3d01a5da6abf0e0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Blackhawk%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Blackhawk%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Blackhawk%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Blackthorne%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Blackthorne%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Blackthorne%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

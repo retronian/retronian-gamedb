@@ -63,5 +63,65 @@
     "wikidata": "Q2736150",
     "mobygames": 18292,
     "igdb": 49212
-  }
+  },
+  "roms": [
+    {
+      "name": "Yoshi Topsy-Turvy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "KYGE",
+      "size": 8388608,
+      "crc32": "e64c265c",
+      "md5": "e66d2e98947a5bd1068228e4084b06da",
+      "sha1": "947498cb1db918d305500257e8223deeaddf561d"
+    },
+    {
+      "name": "Yoshi's Universal Gravitation (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "KYGP",
+      "size": 8388608,
+      "crc32": "05f4d0aa",
+      "md5": "f9de621b65084bcdaff6e6b0cdc7c413",
+      "sha1": "045be1369964f141009f3701839ec0a8dccb25c1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yoshi%20Topsy-Turvy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yoshi%20Topsy-Turvy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yoshi%20Topsy-Turvy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yoshi%27s%20Universal%20Gravitation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yoshi%27s%20Universal%20Gravitation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yoshi%27s%20Universal%20Gravitation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

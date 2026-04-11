@@ -72,5 +72,65 @@
     "wikidata": "Q2337127",
     "mobygames": 38685,
     "igdb": 19308
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Ball - Origins (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CDZP",
+      "size": 67108864,
+      "crc32": "355b81a6",
+      "md5": "da2655dd9af5ad8ccc25e0d5e71f9650",
+      "sha1": "6c6a4eaa2d91d830112cf92350b84dd6e1588ba3"
+    },
+    {
+      "name": "Dragon Ball - Origins (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CDZE",
+      "size": 67108864,
+      "crc32": "465f9144",
+      "md5": "0302e7d70092bd4e057342733a0dd089",
+      "sha1": "b970d6f0f950711fd0d22e952af7b4c37215f639"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Ball%20-%20Origins%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dragon%20Ball%20-%20Origins%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Ball%20-%20Origins%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Ball%20-%20Origins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dragon%20Ball%20-%20Origins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Ball%20-%20Origins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

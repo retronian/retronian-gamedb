@@ -61,5 +61,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Alien Crush (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "ea488494",
+      "md5": "0088d1d20861490677edb147d2de60bd",
+      "sha1": "1bfa4b5139612b0c33e3282c23e56c1dfc08ed52",
+      "sha256": "1af27c808be34e0c2fe435c169f5169417d6362dee0e928413581a1f6126557f"
+    },
+    {
+      "name": "Alien Crush (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "60edf4e1",
+      "md5": "6697cf388dd28e67c92276ce598dbec8",
+      "sha1": "a1e6ad82b66a82c25e0a9e25fb8be370f49c8c2d",
+      "sha256": "0539f2ab4b72f4221383affcf84d9a0bcd1f507cdeb9023a0123f1e5540d1965"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Alien%20Crush%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Alien%20Crush%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Alien%20Crush%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

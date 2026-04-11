@@ -43,5 +43,76 @@
   "external_ids": {
     "wikidata": "Q137077398",
     "igdb": 78285
-  }
+  },
+  "roms": [
+    {
+      "name": "Digimon Story - Moonlight (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A6RJ",
+      "size": 67108864,
+      "crc32": "cc1ff373",
+      "md5": "de0a4dd461eceb62f155ba190d5a1788",
+      "sha1": "82af4f9f945eeaf4fba54d05c3199e0741517dd3"
+    },
+    {
+      "name": "Digimon Story - Moonlight (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A6RJ",
+      "size": 67108864,
+      "crc32": "88a9fca6",
+      "md5": "7abb6245f2bde696c643324ba5e59a06",
+      "sha1": "45523997e191728540de7425155f39e180c02f5b",
+      "sha256": "61752f123b50ec0a964df6e005adbbb7ee8df1938cf86ff02832cb6a8626f54e"
+    },
+    {
+      "name": "Digimon World - Dusk (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A6RE",
+      "size": 67108864,
+      "crc32": "c04136ff",
+      "md5": "35b6209cf0a69b68a5f78c07d9433c27",
+      "sha1": "de1a1915e07288ffad654f3f9f2eb730a0fd1d9c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Digimon%20Story%20-%20Moonlight%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Digimon%20Story%20-%20Moonlight%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Digimon%20Story%20-%20Moonlight%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Digimon%20World%20-%20Dusk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Digimon%20World%20-%20Dusk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Digimon%20World%20-%20Dusk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,75 @@
     "wikidata": "Q3418570",
     "mobygames": 4178,
     "igdb": 3583
-  }
+  },
+  "roms": [
+    {
+      "name": "Rampage 2 - Universal Tour (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "N2PP",
+      "size": 12582912,
+      "crc32": "fa6e097b",
+      "md5": "1492806f12d33c3ea0edb6848d43b1cc",
+      "sha1": "0c18a10807a5f910ce7337812770b4fe18994a60",
+      "sha256": "ef59e77d8444785c4ca4b6aedc744e8d57edde65f3a4cee24cf48bf153a33a63"
+    },
+    {
+      "name": "Rampage 2 - Universal Tour (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "N2PE",
+      "size": 12582912,
+      "crc32": "7614ee0d",
+      "md5": "8113d0ea2008402d4631f241f625d16b",
+      "sha1": "36d1b741f6ea896b05ab7ceeac8b78684cbdac6b"
+    },
+    {
+      "name": "Rampage 2 - Universal Tour (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 12582912,
+      "crc32": "c28afc5e",
+      "md5": "6fc669845efbcef9ae45d67ba38d2fa6",
+      "sha1": "0a6c390b7d1a96b93fc28faa3b11cf18400b1773"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rampage%202%20-%20Universal%20Tour%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rampage%202%20-%20Universal%20Tour%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rampage%202%20-%20Universal%20Tour%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rampage%202%20-%20Universal%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rampage%202%20-%20Universal%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rampage%202%20-%20Universal%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

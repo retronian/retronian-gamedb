@@ -80,5 +80,65 @@
     "wikidata": "Q3939296",
     "mobygames": 15084,
     "igdb": 8473
-  }
+  },
+  "roms": [
+    {
+      "name": "Robo Warrior (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "7def81c1",
+      "md5": "2417d6b9a9acd89c4ab71df638e28655",
+      "sha1": "10e48d04af534084934f4964d6288a3f60d31482",
+      "sha256": "5e08e103b7e4f7a14a9b59e16aa07fd8738ce3de8430f0eb79c2dd94f553f87a"
+    },
+    {
+      "name": "Robo Warrior (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "25c57651",
+      "md5": "46e1e7158ef6fb1fc52249067a840556",
+      "sha1": "a224ae90d740ae9b0940257114f2fb4cba0b118d",
+      "sha256": "e9c1febf2d832b133f013e9cadaffea5c5bd72a40a8a37bbdcd9ffd63c79053c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Robo%20Warrior%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Robo%20Warrior%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Robo%20Warrior%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Robo%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Robo%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Robo%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

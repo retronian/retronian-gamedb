@@ -53,5 +53,59 @@
   "external_ids": {
     "wikidata": "Q1415817",
     "mobygames": 438
-  }
+  },
+  "roms": [
+    {
+      "name": "Sensible Soccer (World) (En,Fr,De,It) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-93076-00",
+      "size": 524288,
+      "crc32": "5f26995d",
+      "md5": "2bb6c0c17e9c0b9ba3769909556a55a6",
+      "sha1": "04fba304dfcabddbbf9ff0b8567ea03f6eb372bc",
+      "sha256": "7e825f503199bab1a74ab539556ca646e34fd72e13a66ec816268e1e50724d4f"
+    },
+    {
+      "name": "Sensible Soccer (Europe) (En,Fr,De,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-93076-00",
+      "size": 524288,
+      "crc32": "f9b396b8",
+      "md5": "f6fcf5843786bd44f8df6b648661a437",
+      "sha1": "2ee1ad4aac354b6d227b16976f0875f4625ff604",
+      "sha256": "cb263888f48f49452ef8544831d4bb2d95f8b4e970701f3423cff9af2fae1741"
+    },
+    {
+      "name": "Sensible Soccer (Europe) (En,Fr,De,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-93076-00",
+      "size": 524288,
+      "crc32": "ef52664d",
+      "md5": "81c58cc091350a14e0e94fcf8e970a5b",
+      "sha1": "c12a644cf81886050a4ae108b17b3c742055f5c3",
+      "sha256": "a00e9cf9ff292dd20a1ce5f83724d1e69b2c71a1131a0f60b8bcfa1fc77a710a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sensible%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sensible%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sensible%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

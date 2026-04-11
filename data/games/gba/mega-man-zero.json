@@ -71,5 +71,65 @@
     "wikidata": "Q2484133",
     "mobygames": 6427,
     "igdb": 1775
-  }
+  },
+  "roms": [
+    {
+      "name": "Megaman Zero (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AZCE",
+      "size": 8388608,
+      "crc32": "9c77209c",
+      "md5": "c75988e7042168414e341c102dc7776c",
+      "sha1": "7279705e24d32895dada7f5476f68bbc33dd643b"
+    },
+    {
+      "name": "Megaman Zero (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AZCE",
+      "size": 8388608,
+      "crc32": "9707d2a1",
+      "md5": "b24a17d080a01a404cbf018ba42b9803",
+      "sha1": "193b14120119162518a73c70876f0b8bffdbd96e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Megaman%20Zero%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Megaman%20Zero%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Megaman%20Zero%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Megaman%20Zero%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Megaman%20Zero%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Megaman%20Zero%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

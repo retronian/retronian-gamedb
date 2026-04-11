@@ -18,5 +18,49 @@
     "wikidata": "Q3570305",
     "mobygames": 21777,
     "igdb": 46684
-  }
+  },
+  "roms": [
+    {
+      "name": "X-Perts (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1574-00",
+      "size": 4194304,
+      "crc32": "57e8abfd",
+      "md5": "281f94eebb57f5db0d299155bcc56f4e",
+      "sha1": "be1df5a63f4363d11d340db9a37ba54db5f5ea38",
+      "sha256": "bd8be8b1f881db0c89fb95cc74ee8cfcef807239a05f19b5678adddea1915161"
+    },
+    {
+      "name": "X-Perts (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "SEGA000-00",
+      "size": 4194304,
+      "crc32": "9d067249",
+      "md5": "6fe621a37629a0f41d1f4c032a0843a2",
+      "sha1": "97a2fef09c0a43a46d7f4b4c7b7291d87474dcf0",
+      "sha256": "b3b8c878fc5301ee54659df5d14bfede7c342f69261f8e0a811e0b111fe34c11"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/X-Perts%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/X-Perts%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/X-Perts%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

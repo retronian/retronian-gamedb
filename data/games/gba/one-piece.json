@@ -44,5 +44,37 @@
   "external_ids": {
     "wikidata": "Q3882554",
     "igdb": 75755
-  }
+  },
+  "roms": [
+    {
+      "name": "One Piece (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BONE",
+      "size": 8388608,
+      "crc32": "7d2cf2a1",
+      "md5": "ce153a5ce176b608edd035e3b9a27dad",
+      "sha1": "6dfe6572aa6b51e2c550ddeef7ca04c35fcdf299"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/One%20Piece%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/One%20Piece%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/One%20Piece%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

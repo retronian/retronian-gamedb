@@ -72,5 +72,94 @@
     "wikidata": "Q1132456",
     "mobygames": 36500,
     "igdb": 2647
-  }
+  },
+  "roms": [
+    {
+      "name": "Kirby Super Star Ultra (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YKWP",
+      "size": 134217728,
+      "crc32": "2442f725",
+      "md5": "bc96372cb83a4be50b738ab691bc2afa",
+      "sha1": "ee9243bb2fbf8d1b002a0a6686aca3eba28b9a34"
+    },
+    {
+      "name": "Kirby Super Star Ultra (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YKWE",
+      "size": 134217728,
+      "crc32": "dbac8944",
+      "md5": "c0c84468ce0c9c7b3b97246ec443df1f",
+      "sha1": "0bec02a27800da1194a48bc92e35de8edee02aee",
+      "sha256": "b2573313a582c8dfaf2d93834a670c1ca8f389e5daa744e2dbe1a4ca903f3027"
+    },
+    {
+      "name": "Kirby Super Star Ultra (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "Y52E",
+      "size": 134217728,
+      "crc32": "30b48d6a",
+      "md5": "06dae431b2f1e193a52124b7b219a443",
+      "sha1": "5c8c58b8e95c258e7a3cc98d17a8542bc0026d82"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kirby%20Super%20Star%20Ultra%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kirby%20Super%20Star%20Ultra%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kirby%20Super%20Star%20Ultra%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kirby%20Super%20Star%20Ultra%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kirby%20Super%20Star%20Ultra%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kirby%20Super%20Star%20Ultra%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kirby%20Super%20Star%20Ultra%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kirby%20Super%20Star%20Ultra%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kirby%20Super%20Star%20Ultra%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

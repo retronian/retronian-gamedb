@@ -90,5 +90,75 @@
     "wikidata": "Q1543280",
     "mobygames": 675,
     "igdb": 283
-  }
+  },
+  "roms": [
+    {
+      "name": "Theme Park (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "ca0e041c",
+      "md5": "b1a4a4696e579168d5b1b6e2c8ba8440",
+      "sha1": "1470c5f9d3d2078c55e0822b3219189120fd3f7b",
+      "sha256": "c0a7e27131a7d8c9ef52a5227329e6de5846c045a9da1f3f84845e3be8e4efba"
+    },
+    {
+      "name": "Theme Park (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "6797884a",
+      "md5": "83bbf12f62263b718704fba61cf75e29",
+      "sha1": "6e5ac2f8b46fe59e84d246e39f2831542e8eecff",
+      "sha256": "8529802443d83f0fc5b609f4ce14807ff15c9a708b769c7112ae2b5ccf3db8bb"
+    },
+    {
+      "name": "Theme Park (Europe) (En,Fr,De) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "84c90e9e",
+      "md5": "97b9b26aa70a93efc19eb37675cfb0fd",
+      "sha1": "8b8d985aab288a802dafdb8e887717b883c3cdba",
+      "sha256": "6a3522d8e91b8de87bd664f4fa7c11ae6b8d9890c0dde87b44d8ca5f72ca06d2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Theme%20Park%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Theme%20Park%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Theme%20Park%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Theme%20Park%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Theme%20Park%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Theme%20Park%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

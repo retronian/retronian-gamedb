@@ -44,5 +44,45 @@
   "external_ids": {
     "wikidata": "Q2699066",
     "mobygames": 10240
-  }
+  },
+  "roms": [
+    {
+      "name": "40 Winks (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 382080080,
+      "crc32": "834cb1ce",
+      "md5": "d11f012f6f0f46e19fd2393a5a48543f",
+      "sha1": "5eab81d4a1f3bf5c557c9a1ed659076ca9d94430"
+    },
+    {
+      "name": "40 Winks (Russia)",
+      "source": "no_intro",
+      "size": 382030112,
+      "crc32": "db7a35ab",
+      "md5": "47b8ab0ce6a84532a267a0fbd7467940",
+      "sha1": "a5e4f68f0339fb780bdb1670074bf859e368ae4e",
+      "sha256": "9c42cf92ec4672c2d1f57c2f266237cb239c259c611f528694daa72077ca2b44"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/40%20Winks%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/40%20Winks%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/40%20Winks%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

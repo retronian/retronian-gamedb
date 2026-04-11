@@ -47,6 +47,42 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Dragon Ball Z: Supersonic Warriors 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Dragon Ball Z: Supersonic Warriors 2",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Dragon Ball Z: Supersonic Warriors 2",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Dragon Ball Z: Supersonic Warriors 2",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2004-01-01",
@@ -54,5 +90,67 @@
     "wikidata": "Q731919",
     "mobygames": 14874,
     "igdb": 2577
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Ball Z - Supersonic Warriors 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A2SE",
+      "size": 67108864,
+      "crc32": "4cc8db8a",
+      "md5": "3d6a6e8a1afcceb25808fd5247e52d98",
+      "sha1": "32937d41627692458bfe4f90df4388e4f2ed269b",
+      "sha256": "9b587138182981b60d0a3db02f6d82c713420ae2368b03af461c97c77a8c8fb9"
+    },
+    {
+      "name": "Dragon Ball Z - Supersonic Warriors 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ADBP",
+      "size": 67108864,
+      "crc32": "0e001277",
+      "md5": "dffae2dfce8cb052197094d488b96042",
+      "sha1": "6681ae01620e736d7428f4bbd84b2388134d5c2b",
+      "sha256": "61e4e693854a0c27db8a376f35de827d6fe49404c22c86e8519a235a14b63098"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

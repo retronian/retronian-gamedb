@@ -43,5 +43,66 @@
   "external_ids": {
     "wikidata": "Q16569631",
     "igdb": 11468
-  }
+  },
+  "roms": [
+    {
+      "name": "Frogger's Adventures 2 - The Lost Wand (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFBP",
+      "size": 8388608,
+      "crc32": "8acd3afc",
+      "md5": "fd3690a50be799b40f00bc8989229c07",
+      "sha1": "c23cb8be7fa9d39d7c3b855b9033a9a115519b2d",
+      "sha256": "9a800c31772b0887b8fdff92401ec9f7f7ba580f752221245a31ff446ec35657"
+    },
+    {
+      "name": "Frogger's Adventures 2 - The Lost Wand (USA) (En,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFBE",
+      "size": 8388608,
+      "crc32": "27b95c01",
+      "md5": "0c508e4785e89f25f5a746cba838ed4b",
+      "sha1": "33101a170460fbb9664b4a1750a620436be7261d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Frogger%27s%20Adventures%202%20-%20The%20Lost%20Wand%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Frogger%27s%20Adventures%202%20-%20The%20Lost%20Wand%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Frogger%27s%20Adventures%202%20-%20The%20Lost%20Wand%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Frogger%27s%20Adventures%202%20-%20The%20Lost%20Wand%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Frogger%27s%20Adventures%202%20-%20The%20Lost%20Wand%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Frogger%27s%20Adventures%202%20-%20The%20Lost%20Wand%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

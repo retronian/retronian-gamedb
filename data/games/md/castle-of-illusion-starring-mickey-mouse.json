@@ -87,5 +87,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Castle of Illusion Starring Mickey Mouse (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00001015-00",
+      "size": 524288,
+      "crc32": "ba4e9fd0",
+      "md5": "24863151abd5baf28c9386d49ffe3c09",
+      "sha1": "4ac3687634a5acc55ac7f156c6de9749158713e4",
+      "sha256": "2d535ff7eda650a64a9093ba6fabf8d5ac87801b898a76b591db41a1c8e47c4f"
+    },
+    {
+      "name": "I Love Mickey Mouse - Fushigi no Oshiro Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004042-00",
+      "size": 524288,
+      "crc32": "ce8333c6",
+      "md5": "4995ed01f27b27b650a69390cee33a1b",
+      "sha1": "0679162757f375751a677fd05195c9248abc84f0",
+      "sha256": "6865b1e3291febc907ad71d1adcd355982e4b7c790d4a9ae2936ad0b50774d72"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/I%20Love%20Mickey%20Mouse%20-%20Fushigi%20no%20Oshiro%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/I%20Love%20Mickey%20Mouse%20-%20Fushigi%20no%20Oshiro%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/I%20Love%20Mickey%20Mouse%20-%20Fushigi%20no%20Oshiro%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

@@ -90,5 +90,54 @@
     "wikidata": "Q2543862",
     "mobygames": 85162,
     "igdb": 206953
-  }
+  },
+  "roms": [
+    {
+      "name": "Rock Band 3 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B5RP",
+      "size": 268435456,
+      "crc32": "29303f9e",
+      "md5": "eb47f89133e71b166d4cc9a35b05add2",
+      "sha1": "e388d786171b3262233b86467a3d25faf18dca41",
+      "sha256": "d6d3c896e384539ec46a99ae15b08a9819a3b31ca0233f532303ba791314e664"
+    },
+    {
+      "name": "Rock Band 3 (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B5RE",
+      "size": 268435456,
+      "crc32": "3c2fe540",
+      "md5": "bf5448733b34adc52941d39dadd124c5",
+      "sha1": "bf86be13b46d605a9ef3503168df0949bea851e8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rock%20Band%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rock%20Band%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rock%20Band%203%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rock%20Band%203%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

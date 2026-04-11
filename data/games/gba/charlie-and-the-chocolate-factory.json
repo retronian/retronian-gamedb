@@ -63,5 +63,67 @@
     "wikidata": "Q5085755",
     "mobygames": 18796,
     "igdb": 243187
-  }
+  },
+  "roms": [
+    {
+      "name": "Charlie and the Chocolate Factory (USA) (En,Fr,Es,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BCFE",
+      "size": 8388608,
+      "crc32": "4e90884d",
+      "md5": "5ea39a20a2afb038555f013142a2a97a",
+      "sha1": "c85c9015d56530d0ffcefe6e3a21aa9a011da8a0",
+      "sha256": "908aa26aa73dfd4ea08961758168d1f2dd91d89fbf90ed9cc84a6ae056f634e3"
+    },
+    {
+      "name": "Charlie and the Chocolate Factory (Europe) (En,Fr,Es,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BCFP",
+      "size": 8388608,
+      "crc32": "2b3fcc74",
+      "md5": "1944e6ac9631eeec604e5fadf749885e",
+      "sha1": "ca0e2a6ee70154f0340fb665c0a50496d774527b",
+      "sha256": "4d2738eeabbeb79f08c78e4112fd1c23919083a437a64f8257c6d4716244defb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Charlie%20and%20the%20Chocolate%20Factory%20%28USA%29%20%28En%2CFr%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Charlie%20and%20the%20Chocolate%20Factory%20%28USA%29%20%28En%2CFr%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Charlie%20and%20the%20Chocolate%20Factory%20%28USA%29%20%28En%2CFr%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Charlie%20and%20the%20Chocolate%20Factory%20%28Europe%29%20%28En%2CFr%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Charlie%20and%20the%20Chocolate%20Factory%20%28Europe%29%20%28En%2CFr%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Charlie%20and%20the%20Chocolate%20Factory%20%28Europe%29%20%28En%2CFr%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

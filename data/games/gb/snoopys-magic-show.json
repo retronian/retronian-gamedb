@@ -62,5 +62,37 @@
   "external_ids": {
     "wikidata": "Q7548011",
     "igdb": 49019
-  }
+  },
+  "roms": [
+    {
+      "name": "Snoopy's Magic Show (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "2b7a5034",
+      "md5": "8a06994b2e265244147a4d6d0e80623f",
+      "sha1": "bc21fb3aa1a58e2aef30fabe103b2e5bec02b535",
+      "sha256": "a1e0c6d8385ab8c39569217f28cb335ccac8c85d31e01c9a2343c79494164478"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Snoopy%27s%20Magic%20Show%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Snoopy%27s%20Magic%20Show%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Snoopy%27s%20Magic%20Show%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

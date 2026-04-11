@@ -18,5 +18,54 @@
     "wikidata": "Q4047672",
     "mobygames": 49689,
     "igdb": 8979
-  }
+  },
+  "roms": [
+    {
+      "name": "Puzzle Quest 2 (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZXE",
+      "size": 33554432,
+      "crc32": "a0bf3f34",
+      "md5": "73562f80727f7b4ba05d74a4ee2c3cc3",
+      "sha1": "267522459ad121d48d3012b46bd9d6796fe5a6db"
+    },
+    {
+      "name": "Puzzle Quest 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZXP",
+      "size": 33554432,
+      "crc32": "5c359236",
+      "md5": "6831a3228dceb642352adb1fdb9a3fa2",
+      "sha1": "6332fa995e6e40259dbbf815b700fc2862761aa8",
+      "sha256": "39aeceee06637ac323ec466ef7fb19a41adbeef710e887d50844d1523288e2f2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20Quest%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puzzle%20Quest%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20Quest%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puzzle%20Quest%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

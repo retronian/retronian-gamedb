@@ -54,5 +54,67 @@
     "wikidata": "Q2864226",
     "mobygames": 16825,
     "igdb": 46522
-  }
+  },
+  "roms": [
+    {
+      "name": "Arrow Flash (Japan, Europe) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004039-00",
+      "size": 524288,
+      "crc32": "d49f8444",
+      "md5": "cc6c03def1e6ca137ee4814d4920fa7d",
+      "sha1": "5d2ca55704b7fe8d83fa7564fb1efc62834d3148",
+      "sha256": "e6dd2b845325a8b1b08a76110285c7cd1e080d0188ea5a1479c14a856f7383d0"
+    },
+    {
+      "name": "Arrow Flash (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00004039-00",
+      "size": 524288,
+      "crc32": "4d89e66b",
+      "md5": "7f8f0a581158a00b6799204c9afe646b",
+      "sha1": "916524d2b403a633108cf457eec13b4df7384d95",
+      "sha256": "0f418edf762a5323387d180aabd1460529a352fa53fb800de7ed89ccaa73f77d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Arrow%20Flash%20%28Japan%2C%20Europe%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Arrow%20Flash%20%28Japan%2C%20Europe%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Arrow%20Flash%20%28Japan%2C%20Europe%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Arrow%20Flash%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Arrow%20Flash%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Arrow%20Flash%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

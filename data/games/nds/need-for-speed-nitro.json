@@ -72,5 +72,97 @@
     "wikidata": "Q1313322",
     "mobygames": 64695,
     "igdb": 248127
-  }
+  },
+  "roms": [
+    {
+      "name": "Need for Speed - Nitro (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BNNP",
+      "size": 67108864,
+      "crc32": "3904225b",
+      "md5": "3706a1dff24b6d496d78cbc8b9319d2d",
+      "sha1": "3baed254ef222d8f8d7678bcc1b2aaedb260992c"
+    },
+    {
+      "name": "Need for Speed - Nitro (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BNNE",
+      "size": 67108864,
+      "crc32": "8f342699",
+      "md5": "3ea372a9f2f89147d1b26a077a1960e4",
+      "sha1": "4c25c73c28ca7e82c396c3d8ac7cf5d047ef0075"
+    },
+    {
+      "name": "Need for Speed - Nitro (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BNNJ",
+      "size": 67108864,
+      "crc32": "c5a1183e",
+      "md5": "501cdca8d2751a388ce746bbf0d5e907",
+      "sha1": "c94aeb4d3f875e18659dc3b03b5baabe7c75e3c1"
+    },
+    {
+      "name": "Need for Speed - Nitro (USA) (En,Fr,De,Es,It,Nl) (Beta) (2009-08-14)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BNNE",
+      "size": 67108864,
+      "crc32": "48319bdf",
+      "md5": "2455e6e2d14762148e6f236e13b2c145",
+      "sha1": "96d6ecfd4906e15d1d43e727a13133a2d0b22965"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Need%20for%20Speed%20-%20Nitro%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Need%20for%20Speed%20-%20Nitro%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Need%20for%20Speed%20-%20Nitro%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Need%20for%20Speed%20-%20Nitro%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Need%20for%20Speed%20-%20Nitro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Need%20for%20Speed%20-%20Nitro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Need%20for%20Speed%20-%20Nitro%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28Beta%29%20%282009-08-14%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Need%20for%20Speed%20-%20Nitro%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28Beta%29%20%282009-08-14%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

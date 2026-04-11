@@ -61,5 +61,110 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1999-12-17"
+  "first_release_date": "1999-12-17",
+  "roms": [
+    {
+      "name": "Top Gear Pocket 2 (Japan) (Rumble Version)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1845f25a",
+      "md5": "84ee1ac070c9695b6d422adb5525db85",
+      "sha1": "26a357b6df4484d8f98f9c89a0b1b0357df5cf88"
+    },
+    {
+      "name": "Top Gear Pocket 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "efb87f80",
+      "md5": "7d9585c947a7637703fb8ccd6a691ed7",
+      "sha1": "bdbb64d13c3c40992d923829a92d7a15a15aabea"
+    },
+    {
+      "name": "Top Gear Pocket 2 (USA) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "eb0838d6",
+      "md5": "97f3fb212fabe26392d110c13e053173",
+      "sha1": "5d2ea0b976833f2e3866214e602993ee4653ab96",
+      "sha256": "20b9270b84f51fccbf2d0bcc129b9d63f168786660c008845e5e1e9cbcf654e0"
+    },
+    {
+      "name": "Top Gear Pocket 2 (Japan) (Rev 1) (Proto) (Rumble Version)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "fc680273",
+      "md5": "77724acf2c481f29e2edb1f538a47892",
+      "sha1": "52354d36a301b26895eb26ecf152bf696656f4b2",
+      "sha256": "50f3e12d110c84c017a0c09bd49a3acab0f3d8e052d4324a3d019ae329ee013f"
+    },
+    {
+      "name": "Top Gear Rally 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "017773cd",
+      "md5": "0a1cf1904c87b60308c404d93bab2702",
+      "sha1": "5a0ac4ace1d5c2b6dfc0bdd20d6f88f319493558"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Top%20Gear%20Pocket%202%20%28Japan%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Top%20Gear%20Pocket%202%20%28Japan%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Top%20Gear%20Pocket%202%20%28Japan%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Top%20Gear%20Pocket%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Top%20Gear%20Pocket%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Top%20Gear%20Pocket%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Top%20Gear%20Rally%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Top%20Gear%20Rally%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Top%20Gear%20Rally%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

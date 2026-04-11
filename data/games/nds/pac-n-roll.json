@@ -53,5 +53,93 @@
   "external_ids": {
     "wikidata": "Q3141889",
     "igdb": 18328
-  }
+  },
+  "roms": [
+    {
+      "name": "Pac'n Roll (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "APNJ",
+      "size": 33554432,
+      "crc32": "1146b061",
+      "md5": "f7288d61b084fecfb0a9bc770bf571f3",
+      "sha1": "98b686ba7d762f45148d811e43f4b31dba2fa1f3"
+    },
+    {
+      "name": "Pac'n Roll (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APNE",
+      "size": 33554432,
+      "crc32": "a9a1d018",
+      "md5": "2cc8c13414b5be5c55a4817a30b6ad5a",
+      "sha1": "3c1e8d8e584036c3a52eb3569f4d745938e0abc3"
+    },
+    {
+      "name": "Pac'n Roll (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "APNP",
+      "size": 33554432,
+      "crc32": "23a56ced",
+      "md5": "72d81f4593853c3f17117e1bc5c88162",
+      "sha1": "052a09ee7b8d360b4d09741271044a8e0605ffbb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pac%27n%20Roll%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pac%27n%20Roll%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pac%27n%20Roll%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pac%27n%20Roll%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pac%27n%20Roll%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pac%27n%20Roll%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pac%27n%20Roll%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pac%27n%20Roll%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pac%27n%20Roll%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

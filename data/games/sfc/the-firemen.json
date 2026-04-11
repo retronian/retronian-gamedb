@@ -47,6 +47,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Firemen, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1994-09-09",
@@ -54,5 +63,75 @@
     "wikidata": "Q3616386",
     "mobygames": 13763,
     "igdb": 42621
-  }
+  },
+  "roms": [
+    {
+      "name": "Firemen, The (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "def665af",
+      "md5": "ac995ab6f5667be14eb6471458e491d3",
+      "sha1": "4b82c70824922380a3193e282d7674a442bd6dd4",
+      "sha256": "a0106f9cff7abbf25e081e2531f6d4b4aedf6f0dc8d155a66506817bff267d12"
+    },
+    {
+      "name": "Firemen, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "15f2271d",
+      "md5": "79c9ffe304fa775ce3ec15270058f41b",
+      "sha1": "b2bb5c41d5cea5a9a130c3063857ba9ec000e166",
+      "sha256": "97206402d1cacc3187a600a5f3a7ebd73ddba0c7e09a5a688efeca47cc46b604"
+    },
+    {
+      "name": "Firemen, The (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "b9c82442",
+      "md5": "c5888542c2583d3f518e2c6db2140aad",
+      "sha1": "b1ccfb0b09c08edf992d65b531e8be9290194057",
+      "sha256": "aba229320d701d6ed79feaea2f4c6e01a485a2ae5d21c7f6817bab4115f070ee"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Firemen%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Firemen%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Firemen%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Firemen%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Firemen%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Firemen%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

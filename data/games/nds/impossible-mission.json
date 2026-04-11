@@ -18,5 +18,53 @@
     "wikidata": "Q6007482",
     "mobygames": 47071,
     "igdb": 148731
-  }
+  },
+  "roms": [
+    {
+      "name": "Impossible Mission (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AITP",
+      "size": 8388608,
+      "crc32": "1ce70899",
+      "md5": "895b3ace280c91216ad035b1e12f3bb3",
+      "sha1": "5e1cc89bcda263f8ae93ed21ce11c8df2df0505e"
+    },
+    {
+      "name": "Impossible Mission (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AITE",
+      "size": 8388608,
+      "crc32": "20331040",
+      "md5": "afb368ef5f60767eb77430fe7fcdd9b5",
+      "sha1": "8b326477358f3d13e419b5900fd3aa4037d2f3f8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Impossible%20Mission%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Impossible%20Mission%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Impossible%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Impossible%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

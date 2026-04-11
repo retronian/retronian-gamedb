@@ -72,5 +72,38 @@
     "wikidata": "Q1200598",
     "mobygames": 1461,
     "igdb": 6798
-  }
+  },
+  "roms": [
+    {
+      "name": "Desert Strike - Return to the Gulf (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50326-00",
+      "size": 1048576,
+      "crc32": "67a9860b",
+      "md5": "6f37f036c8de2bf78d11079cd2424370",
+      "sha1": "d7e7d8c358eb845b84fb08f904cc0b95d0a4053d",
+      "sha256": "deae2e33345244707c62dbc8ed1b087899463e67e217843a4b6c8b4d9c8b47c4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Desert%20Strike%20-%20Return%20to%20the%20Gulf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Desert%20Strike%20-%20Return%20to%20the%20Gulf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Desert%20Strike%20-%20Return%20to%20the%20Gulf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

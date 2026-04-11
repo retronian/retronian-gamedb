@@ -27,5 +27,65 @@
     "wikidata": "Q5523136",
     "mobygames": 49611,
     "igdb": 6417
-  }
+  },
+  "roms": [
+    {
+      "name": "Garfield and His Nine Lives (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BG9E",
+      "size": 4194304,
+      "crc32": "d442f13d",
+      "md5": "d8d8a330e5471faef5b527b18aa24ad2",
+      "sha1": "6befcc1236770ec8ed833d49b5d8dbdf62bda506"
+    },
+    {
+      "name": "Garfield and His Nine Lives (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BG9P",
+      "size": 4194304,
+      "crc32": "f0ba1a8e",
+      "md5": "5969f2b6f8f15afedcdb695fd3554133",
+      "sha1": "4f24065f4ffc51d1a8c9317c6006f66e1e703ff1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Garfield%20and%20His%20Nine%20Lives%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Garfield%20and%20His%20Nine%20Lives%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Garfield%20and%20His%20Nine%20Lives%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Garfield%20and%20His%20Nine%20Lives%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Garfield%20and%20His%20Nine%20Lives%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Garfield%20and%20His%20Nine%20Lives%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

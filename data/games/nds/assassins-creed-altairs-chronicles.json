@@ -72,5 +72,66 @@
     "wikidata": "Q1992159",
     "mobygames": 32661,
     "igdb": 21349
-  }
+  },
+  "roms": [
+    {
+      "name": "Assassin's Creed - Altair's Chronicles (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YAHE",
+      "size": 67108864,
+      "crc32": "38a9a637",
+      "md5": "297871150f8f0edb8636ef9dfc18cd9f",
+      "sha1": "008981a459b5883e3bd24e18433176f44641c1c9",
+      "sha256": "88265258b5ffd86dd74d5574eace0a7fb99e9ae1d5360a397afd48d62e5ac71d"
+    },
+    {
+      "name": "Assassin's Creed - Altair's Chronicles (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YAHP",
+      "size": 67108864,
+      "crc32": "1f7e982c",
+      "md5": "a221730d2d3bcf81cab4167317a40009",
+      "sha1": "2b7053e200db5f3890281f8c8eb36c71e879ec12"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

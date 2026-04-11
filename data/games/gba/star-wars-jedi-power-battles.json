@@ -17,5 +17,65 @@
     "wikidata": "Q133316522",
     "mobygames": 31011,
     "igdb": 301489
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars - Jedi Power Battles (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASWE",
+      "size": 8388608,
+      "crc32": "3f19e156",
+      "md5": "2d2a6725da37285d65c34205d08754d7",
+      "sha1": "5d5dbfc9c0ed1f89629114429c93ef1b2e1165e5"
+    },
+    {
+      "name": "Star Wars - Jedi Power Battles (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASWX",
+      "size": 8388608,
+      "crc32": "fa0f055d",
+      "md5": "4dbf397ffdad3cf7e2b23cdadec02539",
+      "sha1": "9c61ddff8e0f31268244636e412faaa7fb73e8b0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Star%20Wars%20-%20Jedi%20Power%20Battles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Star%20Wars%20-%20Jedi%20Power%20Battles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Star%20Wars%20-%20Jedi%20Power%20Battles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Star%20Wars%20-%20Jedi%20Power%20Battles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Star%20Wars%20-%20Jedi%20Power%20Battles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Star%20Wars%20-%20Jedi%20Power%20Battles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

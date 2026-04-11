@@ -27,5 +27,46 @@
     "wikidata": "Q2163504",
     "mobygames": 291,
     "igdb": 9169
-  }
+  },
+  "roms": [
+    {
+      "name": "Bad Street Brawler (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "4d79c6b5",
+      "md5": "2cc3f40147838c1e80c9a507ee435e4d",
+      "sha1": "88291a565f48b08fb2660d5cccca82eef988222c",
+      "sha256": "1159906e878887cb740043b89522b8d0546a3eb7214f16ce09a67fdd0caab75b"
+    },
+    {
+      "name": "Bad Street Brawler (World) (Evercade)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "d2592897",
+      "md5": "a6270fa65c024f08b1b5862064a74916",
+      "sha1": "c07d806b41c4078c49e6e16157bb7e147d58906c",
+      "sha256": "41ae70af376967de2e4bf3efdffdabc65a929661c0a47bbef14a47e1c6f3c6aa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bad%20Street%20Brawler%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bad%20Street%20Brawler%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bad%20Street%20Brawler%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

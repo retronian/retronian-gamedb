@@ -36,5 +36,66 @@
     "wikidata": "Q3564645",
     "mobygames": 3945,
     "igdb": 3633
-  }
+  },
+  "roms": [
+    {
+      "name": "WCW Mayhem (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NWMP",
+      "size": 16777216,
+      "crc32": "864e066e",
+      "md5": "9e943752bcf4fba9ca3028e596f4eb4a",
+      "sha1": "594b273ee9d6e174cfd9b33d4fd6aa86cd3e2442",
+      "sha256": "d8c97d05f5050636a5756ddac73d1983ab636544f996a6a5d3dd5d15a14339b2"
+    },
+    {
+      "name": "WCW Mayhem (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NWME",
+      "size": 16777216,
+      "crc32": "f1f9b6eb",
+      "md5": "87bf3784709cd09693cd7bcc08460c63",
+      "sha1": "83382ee31db3dccd598d8af55607e70db1bcbbb6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WCW%20Mayhem%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/WCW%20Mayhem%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/WCW%20Mayhem%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WCW%20Mayhem%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/WCW%20Mayhem%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/WCW%20Mayhem%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

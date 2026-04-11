@@ -26,5 +26,75 @@
   "external_ids": {
     "wikidata": "Q108607460",
     "igdb": 49198
-  }
+  },
+  "roms": [
+    {
+      "name": "Duel Masters - Sempai Legends (Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 8388608,
+      "crc32": "afcb61c9",
+      "md5": "f453b825391590c47f4db6504d8f99e5",
+      "sha1": "14ae08fd76dfcf560864ff65f0f45a6c8d8dcdaf",
+      "sha256": "ae8580c286631bb3bb611cb9ad511bc69747e36f9c9abeeffab20f800b03e24e"
+    },
+    {
+      "name": "Duel Masters - Sempai Legends (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AA9E",
+      "size": 8388608,
+      "crc32": "1ce344ca",
+      "md5": "2adeb64ff470fb08a472f3cb6f5d7d44",
+      "sha1": "524418eee05520a9a1e6b12918780435698c06e1"
+    },
+    {
+      "name": "Duel Masters - Sempai Legends (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AA9P",
+      "size": 8388608,
+      "crc32": "2fff9ba9",
+      "md5": "5f412f4e7ed5603152bced92f5b6884a",
+      "sha1": "9603c135acaad05d1aa0ff007a26a41bfbc68b1c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Duel%20Masters%20-%20Sempai%20Legends%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Duel%20Masters%20-%20Sempai%20Legends%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Duel%20Masters%20-%20Sempai%20Legends%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Duel%20Masters%20-%20Sempai%20Legends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Duel%20Masters%20-%20Sempai%20Legends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Duel%20Masters%20-%20Sempai%20Legends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

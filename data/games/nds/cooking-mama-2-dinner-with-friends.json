@@ -63,5 +63,66 @@
     "wikidata": "Q1439147",
     "mobygames": 31226,
     "igdb": 3062
-  }
+  },
+  "roms": [
+    {
+      "name": "Cooking Mama 2 - Dinner with Friends (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YCQE",
+      "size": 67108864,
+      "crc32": "49b3bee9",
+      "md5": "44302446e4c28c6c21de7c116e4d98bb",
+      "sha1": "ae66738ba5f0a400c16122a1e99a9d2bce32cb2a"
+    },
+    {
+      "name": "Cooking Mama 2 - Dinner with Friends (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YCQP",
+      "size": 67108864,
+      "crc32": "23aea513",
+      "md5": "4404347dbfed175d412b0028b4d7d573",
+      "sha1": "728eb0d98bccbb754ee99d883671b670a1b430b9",
+      "sha256": "c9e1d66550c321c33b1cf7daeeaabcd08dd78c3a61e4bb2cdb387230d558daf4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cooking%20Mama%202%20-%20Dinner%20with%20Friends%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cooking%20Mama%202%20-%20Dinner%20with%20Friends%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cooking%20Mama%202%20-%20Dinner%20with%20Friends%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cooking%20Mama%202%20-%20Dinner%20with%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cooking%20Mama%202%20-%20Dinner%20with%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cooking%20Mama%202%20-%20Dinner%20with%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

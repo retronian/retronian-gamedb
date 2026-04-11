@@ -90,5 +90,66 @@
     "wikidata": "Q2907887",
     "mobygames": 25475,
     "igdb": 248482
-  }
+  },
+  "roms": [
+    {
+      "name": "SpongeBob SquarePants - Creature from the Krusty Krab (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BQ4E",
+      "size": 8388608,
+      "crc32": "51ce91d6",
+      "md5": "45e6e3088c5c9006175aaf045e8795e8",
+      "sha1": "1ec8b5d234ecdc8fa61a5850a76d1d407dac3333"
+    },
+    {
+      "name": "SpongeBob SquarePants - Creature from the Krusty Krab (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BQ4P",
+      "size": 8388608,
+      "crc32": "7580fbd6",
+      "md5": "7f22c443ec71a696d84ae46a9fe61980",
+      "sha1": "a2543c78c3d97d08a50646a2646b1b171facccb9",
+      "sha256": "d92623d92fee75f64b55f7a05f21b321a15a042d3b534d065e026d7165ad8347"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

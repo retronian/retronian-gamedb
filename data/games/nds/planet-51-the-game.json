@@ -18,5 +18,53 @@
     "wikidata": "Q124053570",
     "mobygames": 43751,
     "igdb": 259317
-  }
+  },
+  "roms": [
+    {
+      "name": "Planet 51 - The Game (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BGEP",
+      "size": 67108864,
+      "crc32": "8eb65028",
+      "md5": "f205ef5ab69da6f2b7b6729d536169ef",
+      "sha1": "80652a736d8fc4703547fee7cb0974e9e2d54b69"
+    },
+    {
+      "name": "Planet 51 - The Game (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BGEE",
+      "size": 67108864,
+      "crc32": "fe973143",
+      "md5": "f8c42249547acff3ff3ba23bde06341c",
+      "sha1": "9e61ea2a82fb56841b2f07b6a575a86fde952f6b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Planet%2051%20-%20The%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Planet%2051%20-%20The%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Planet%2051%20-%20The%20Game%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Planet%2051%20-%20The%20Game%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

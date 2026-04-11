@@ -51,5 +51,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Caesar no Yabou II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-22056-00",
+      "size": 1048576,
+      "crc32": "4f327b3a",
+      "md5": "7d24825ec576fea887989b48338877e3",
+      "sha1": "cdb2f47bde3ff412c7b1f560637f2ccec023980f",
+      "sha256": "5cf06e2295be5cdcc029c5432fc048a7907b272747fc4a29ab47e9cd0768dd60"
+    },
+    {
+      "name": "Warrior of Rome II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-22056-00",
+      "size": 1048576,
+      "crc32": "cd8c472a",
+      "md5": "8ab12498223286f3a4e519ce34f93e49",
+      "sha1": "fe4e3684212f1e695bdf4a4c41999fac773259f4",
+      "sha256": "d480661cd7ac3cf4c74f10b0dae642921b1668d9e9a75fcf0f1d43fb5afd6efd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Caesar%20no%20Yabou%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Caesar%20no%20Yabou%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Caesar%20no%20Yabou%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Warrior%20of%20Rome%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Warrior%20of%20Rome%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Warrior%20of%20Rome%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -80,5 +80,65 @@
     "wikidata": "Q619025",
     "mobygames": 12911,
     "igdb": 6550
-  }
+  },
+  "roms": [
+    {
+      "name": "R-Type III - The Third Lightning (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BR3E",
+      "size": 4194304,
+      "crc32": "ea863f4d",
+      "md5": "188e4a01bf62230b7b50eaeb9355bd42",
+      "sha1": "a69527bb63e76f72f2e5e471e171e24a3043e2d9"
+    },
+    {
+      "name": "R-Type III - The Third Lightning (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BR3P",
+      "size": 4194304,
+      "crc32": "41bb7f8a",
+      "md5": "fb85f8209fe4ea11e6578b11e8194546",
+      "sha1": "7cc8d40c5244baa22b94dd382c5ae39f894daaab"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/R-Type%20III%20-%20The%20Third%20Lightning%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/R-Type%20III%20-%20The%20Third%20Lightning%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/R-Type%20III%20-%20The%20Third%20Lightning%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/R-Type%20III%20-%20The%20Third%20Lightning%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/R-Type%20III%20-%20The%20Third%20Lightning%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/R-Type%20III%20-%20The%20Third%20Lightning%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

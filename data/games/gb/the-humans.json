@@ -18,5 +18,81 @@
     "wikidata": "Q93655",
     "mobygames": 6733,
     "igdb": 48657
-  }
+  },
+  "roms": [
+    {
+      "name": "Humans, The (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "999c67d6",
+      "md5": "a818623c008517f677c1c1eb17962e8d",
+      "sha1": "daa810cf09eae39867339b7615c6ffcf4bfd701a",
+      "sha256": "51b28eb5a4039d753a649c1acd5b765cb7c22fd32b885306a4d24895ee4bf5c3"
+    },
+    {
+      "name": "Humans, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "1df2e81d",
+      "md5": "4a1ecc8ccc706ed5fdce2fdab2aaf03e",
+      "sha1": "39b7f8f6abb213bb5727379b864106ca2947fe6f",
+      "sha256": "a04db245f19a55cd3ff43e2b3fc51cc747fc048a551c4e18639fef4af77553e1"
+    },
+    {
+      "name": "Humans, The (USA) (QUByte Classics)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "4580ec88",
+      "md5": "a349929d5f66d6b7f637a4c8070fff18",
+      "sha1": "669f4645b426400a4853793c7070c53642f71556",
+      "sha256": "256a8b0f19a1512b1d06a1113b42556d16d5bb0f8736d8eb5c8420014f29c3eb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Humans%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Humans%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Humans%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Humans%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Humans%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Humans%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Humans%2C%20The%20%28USA%29%20%28QUByte%20Classics%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

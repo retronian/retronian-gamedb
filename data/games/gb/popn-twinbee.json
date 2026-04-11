@@ -78,5 +78,81 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Pop'n TwinBee (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "d07db274",
+      "md5": "05d5cf3404868efc22ac06e22ab5ba89",
+      "sha1": "0206230b55c15a8c18fbb85f852967e44b33a0a4",
+      "sha256": "cfff247d91c3c448d3588a5c5fc3ee4c19b0031e45679022bdbdadae6d545802"
+    },
+    {
+      "name": "TwinBee da!! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "017fd6f5",
+      "md5": "0325e6464931dce2a777635e71eee877",
+      "sha1": "8f1c54d2116118ba085b384a01ea0c410ad2deac",
+      "sha256": "ae479b7a1e185396fc714118975230defe5df9e8329e037db12b1596bd6d4d4e"
+    },
+    {
+      "name": "TwinBee da!! (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "60065dc3",
+      "md5": "454f4506873737eece69fab4aa60eed7",
+      "sha1": "7f09f11f3e2ea3aa2c32ad55a6778d8e176127d0",
+      "sha256": "4ba7ef773d25d7af8117f605442e821574ca9ccba932f71a014535fbb4fbd660"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pop%27n%20TwinBee%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pop%27n%20TwinBee%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pop%27n%20TwinBee%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/TwinBee%20da%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/TwinBee%20da%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/TwinBee%20da%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/TwinBee%20da%21%21%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

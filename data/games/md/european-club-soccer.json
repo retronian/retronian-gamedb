@@ -34,5 +34,49 @@
   "first_release_date": "1993-02-26",
   "external_ids": {
     "wikidata": "Q3060763"
-  }
+  },
+  "roms": [
+    {
+      "name": "European Club Soccer (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70046-00",
+      "size": 524288,
+      "crc32": "6a5cf104",
+      "md5": "150e6205d8acb22bd4034f90eeda0229",
+      "sha1": "03e1a6c7fb8003e196c0f0bf787276a14daa313e",
+      "sha256": "50762411fc0e1b87b82721398203c7e3f3f9d9c332b1fee0946d3434a332c742"
+    },
+    {
+      "name": "European Club Soccer (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "00000001-01",
+      "size": 524288,
+      "crc32": "4e63f90a",
+      "md5": "be41641e9045d8ae4f07c68874a57510",
+      "sha1": "a61607762a691b9bf29eb43e24d2aa7cad92c521",
+      "sha256": "33b16edbe374c5c5be354b57650c602dc65475226513de2734350427fe3de1bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/European%20Club%20Soccer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/European%20Club%20Soccer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/European%20Club%20Soccer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

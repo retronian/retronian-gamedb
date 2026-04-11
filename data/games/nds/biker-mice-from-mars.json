@@ -35,5 +35,47 @@
   "external_ids": {
     "wikidata": "Q4907376",
     "igdb": 176054
-  }
+  },
+  "roms": [
+    {
+      "name": "Biker Mice from Mars (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AVQP",
+      "size": 33554432,
+      "crc32": "fe9f6e3f",
+      "md5": "f7921f28e7a8964f65afe63a165bc585",
+      "sha1": "d55a9ac29fe256085f8ccb443e4d05efaeb29c2d"
+    },
+    {
+      "name": "Biker Mice from Mars (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AVQE",
+      "size": 33554432,
+      "crc32": "97a08402",
+      "md5": "4e21de900747f7bcb68aeabd93c2b6f8",
+      "sha1": "dd2ee9769fd322dea09726003b0e6798d878a7ba"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Biker%20Mice%20from%20Mars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Biker%20Mice%20from%20Mars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Biker%20Mice%20from%20Mars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -18,5 +18,49 @@
     "wikidata": "Q3493594",
     "mobygames": 987,
     "igdb": 19757
-  }
+  },
+  "roms": [
+    {
+      "name": "Spirou (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-151026-00",
+      "size": 1048576,
+      "crc32": "6634b130",
+      "md5": "3f16601ded16840139d81068066bf504",
+      "sha1": "5f18db9c85df4eaf4647a0519c9dc966aee583fa",
+      "sha256": "329c4eab7d2dc782883aec4ec5a357ceb38b7e210083f06f3f18c7fa837fd3ba"
+    },
+    {
+      "name": "Spirou (Europe) (En,Fr,De,Es) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-151026-00",
+      "size": 1048576,
+      "crc32": "51bc6c35",
+      "md5": "a3930cbe1db94ec22b808018899f8a22",
+      "sha1": "1b03b04a1d3ae75b51e487dced305c6a729b4fa6",
+      "sha256": "a11aeeadd29b32f152ba2e547018d5181d7d16a0127f34c94f07398ed4923b57"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Spirou%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Spirou%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Spirou%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -38,11 +38,95 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Shin SD Gundam Gaiden: Knight Gundam Monogatari",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Shin SD Gundam Gaiden - Knight Gundam Monogatari",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "Shin SD Gundam Gaiden",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Shin SD Gundam Gaiden",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "新SDガンダム外伝 ナイトガンダム物語 (ゲームボーイ)",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
     }
   ],
   "first_release_date": "1990-08-11",
   "external_ids": {
     "wikidata": "Q3459413",
     "igdb": 64567
-  }
+  },
+  "descriptions": [
+    {
+      "text": "「SDガンダム外伝」シリーズの第5作が登場しました。全体で3つのシナリオがあります。ゼロガンダムを操作し、魔法効果を持つカードダスターを使って戦うアクションRPGです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shin SD Gundam Gaiden - Knight Gundam Monogatari (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "e5a78b9b",
+      "md5": "70436283ac6d8b8ab84f256134159ab9",
+      "sha1": "62e1d4dc9f6fae94e981bdcf2fa4b65bb3949644",
+      "sha256": "d7477b32c3015cd60f7b169157a1ae807d0850d390c3dca09377796605929550"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shin%20SD%20Gundam%20Gaiden%20-%20Knight%20Gundam%20Monogatari%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shin%20SD%20Gundam%20Gaiden%20-%20Knight%20Gundam%20Monogatari%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shin%20SD%20Gundam%20Gaiden%20-%20Knight%20Gundam%20Monogatari%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

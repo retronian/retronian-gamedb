@@ -63,5 +63,65 @@
     "wikidata": "Q7361005",
     "mobygames": 11274,
     "igdb": 138793
-  }
+  },
+  "roms": [
+    {
+      "name": "Rollergames (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "c183bc89",
+      "md5": "6c260ae2f193dcd7efe960cdd8d990bc",
+      "sha1": "23957de6533ebb3138ba24f94aea1ece57e0af42",
+      "sha256": "20b191cbe458ab498d1e04fc8c49c1ad29949a58414320b5fb2ac39dbcbfe5ec"
+    },
+    {
+      "name": "Rollergames (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "11f075fb",
+      "md5": "ef5af7db2992f45cc7fc917e8146b74a",
+      "sha1": "e6b16bba46b9315dcc0a0810da6e0462b219c52f",
+      "sha256": "099986c26910a80494e2bc1f9c102e4320983368a5684e75b0fa94dcc85d6582"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rollergames%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rollergames%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rollergames%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rollergames%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rollergames%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rollergames%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -27,5 +27,66 @@
     "wikidata": "Q114081933",
     "mobygames": 52920,
     "igdb": 42637
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Dropzone - Intergalactic Rescue Mission (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AZNP",
+      "size": 4194304,
+      "crc32": "bab43d5c",
+      "md5": "0c5d34497c80ce931a91238c54c7e668",
+      "sha1": "07bd1fa75c322e682784db7260ea96faba6b9256",
+      "sha256": "95c37ae085142b24ae33697ca4a87cfbab72585c7998228eaa08f149272f0d3b"
+    },
+    {
+      "name": "Super Dropzone - Intergalactic Rescue Mission (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AZNE",
+      "size": 4194304,
+      "crc32": "2b4843fe",
+      "md5": "82f6103c5fc2315e7f11128b9940602f",
+      "sha1": "3acd2595dbca9802583f9de2c789db2e87561b05"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Dropzone%20-%20Intergalactic%20Rescue%20Mission%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Dropzone%20-%20Intergalactic%20Rescue%20Mission%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Dropzone%20-%20Intergalactic%20Rescue%20Mission%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Dropzone%20-%20Intergalactic%20Rescue%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Dropzone%20-%20Intergalactic%20Rescue%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Dropzone%20-%20Intergalactic%20Rescue%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

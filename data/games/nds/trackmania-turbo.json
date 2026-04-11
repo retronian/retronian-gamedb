@@ -18,5 +18,54 @@
     "wikidata": "Q16041195",
     "mobygames": 142362,
     "igdb": 67017
-  }
+  },
+  "roms": [
+    {
+      "name": "TrackMania Turbo (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BT2P",
+      "size": 67108864,
+      "crc32": "dafdb6fe",
+      "md5": "673212c6e98e90750e24c7772585e8d9",
+      "sha1": "857b8f5f5ce9b91eaa04e35b99a591243672e51c",
+      "sha256": "f01914b620291a088624c79dc5a874b2b44fbae65c2d9c00a373b7cc80b34d11"
+    },
+    {
+      "name": "TrackMania Turbo (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BT2E",
+      "size": 67108864,
+      "crc32": "f7b90b7a",
+      "md5": "9689c448ec98a7e42da90cc0e765b4a4",
+      "sha1": "8be8d2f6eae1a40f4a3f7ba468e923c7656fac0e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TrackMania%20Turbo%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TrackMania%20Turbo%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TrackMania%20Turbo%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TrackMania%20Turbo%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

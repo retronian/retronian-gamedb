@@ -62,5 +62,95 @@
   "external_ids": {
     "wikidata": "Q3354082",
     "mobygames": 3782
-  }
+  },
+  "roms": [
+    {
+      "name": "Operation WinBack (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NWDP",
+      "size": 16777216,
+      "crc32": "fb96f166",
+      "md5": "91cf1982f309bd73822165087dad4371",
+      "sha1": "133f17162b2734286f9e94f64acb1538b11506b2",
+      "sha256": "9f655b00de6a69aefe1f3f66d2e599be2789cc2551746fafc21e1483daf457b6"
+    },
+    {
+      "name": "WinBack (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NWDJ",
+      "size": 16777216,
+      "crc32": "d35360b0",
+      "md5": "ee3d3550acc463ca57408bf14e541f68",
+      "sha1": "d6db9e2509b760403f5db330142055af842fb52c",
+      "sha256": "006b8b00d8a1bd683f4379a7331f35520680a9f4e883e30a21c8c349177a02b8"
+    },
+    {
+      "name": "WinBack (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NWDJ",
+      "size": 16777216,
+      "crc32": "927383bb",
+      "md5": "9789a48e1d9e42c2f69c59964371089f",
+      "sha1": "660f8778bc816046e1bcc11e1a975fed5db17410"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Operation%20WinBack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Operation%20WinBack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Operation%20WinBack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WinBack%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/WinBack%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/WinBack%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WinBack%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/WinBack%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/WinBack%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

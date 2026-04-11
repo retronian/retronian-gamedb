@@ -42,5 +42,88 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Beast Warriors (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-49053-00",
+      "size": 1048576,
+      "crc32": "4646c694",
+      "md5": "04a45f4f54f2d953a9a1977eee2ca15e",
+      "sha1": "b504a09e3283716f0f9b0464ea9c20cd40110408",
+      "sha256": "aee2e2598170b36c96b126c76f87355a33d872585a226fbe9965082759deb9cd"
+    },
+    {
+      "name": "Beast Wrestler (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49116-00",
+      "size": 1048576,
+      "crc32": "0ca5bb64",
+      "md5": "7f4d8c08c1841e71c0d5222791d746ad",
+      "sha1": "b8752043027a6fb9717543b02f42c99759dfd45e",
+      "sha256": "4912f3e05ac9caaaf7d6f96c1205540e3a0929d8243dc9b0468cfc00347b8cac"
+    },
+    {
+      "name": "Beast Wrestler (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-49116-00",
+      "size": 1048576,
+      "crc32": "29d0d066",
+      "md5": "a73539808c17b771cedf498c86787516",
+      "sha1": "ab72612aa7109c62465aee19ceb260498f58a750",
+      "sha256": "152184a459a600d77a573f1f2711d015a349feda960f39b0be470ea949bd7a43"
+    },
+    {
+      "name": "Beast Wrestler (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49053-00",
+      "size": 1048576,
+      "crc32": "e8734e9c",
+      "md5": "384c16a78639f0da26017ae07f0d271c",
+      "sha1": "2a31632b12a33ccb105ca55be2a9f34988d68fc6",
+      "sha256": "a08f50335f1be5d29310a27e37bf4ec103d9e16c2d3ee40708bacefe731f7c5c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Beast%20Warriors%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Beast%20Warriors%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Beast%20Warriors%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Beast%20Wrestler%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Beast%20Wrestler%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Beast%20Wrestler%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

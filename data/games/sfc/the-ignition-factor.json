@@ -89,5 +89,84 @@
     "wikidata": "Q5846885",
     "mobygames": 40214,
     "igdb": 42607
-  }
+  },
+  "roms": [
+    {
+      "name": "Fire Fighting (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "554fc152",
+      "md5": "a80931f371743685664222a7a8c45aed",
+      "sha1": "eb10bf9efd10a068fb5272c390177e23657b77fa",
+      "sha256": "653cfba081cefea63029c66a590b6325f811f1f2782382ddfef2319c11334911"
+    },
+    {
+      "name": "Ignition Factor, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "ee441564",
+      "md5": "06e616e05363fb24d54409d12cda7a35",
+      "sha1": "72061c0ca7549e6a9720421ce6edaf4732bc2172",
+      "sha256": "fa143784fd20721d61101920e6aae9b7f5012b8157b1ce0c7ea83ea6c875d84d"
+    },
+    {
+      "name": "Ignition Factor, The (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "9a0532b7",
+      "md5": "0aba493439acd2b8613adf920c5bee3b",
+      "sha1": "0882539aa7c9c169921e62b7ca2c0474020d54d4",
+      "sha256": "752d2e9e75a2716811256cb845bc1999bd7abe9a0e8271e0d67df3fe7ecb9e55"
+    },
+    {
+      "name": "Ignition Factor, The (World) (Evercade)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "88d2416e",
+      "md5": "d8400975534fcf3f83b64bb461f3379a",
+      "sha1": "2cb2494540c0e36ff73c8d8f54f51454206eac5f",
+      "sha256": "9392bd6858543313767662aab1bad392c3f80d7c5672fe3a2dfbad6941321974"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fire%20Fighting%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fire%20Fighting%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fire%20Fighting%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ignition%20Factor%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ignition%20Factor%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ignition%20Factor%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,79 @@
     "wikidata": "Q2303119",
     "mobygames": 9378,
     "igdb": 229982
-  }
+  },
+  "roms": [
+    {
+      "name": "Popeye (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "3f263beb",
+      "md5": "5354350cc2114434450b1a78cc4a563f",
+      "sha1": "f77bc1a2d007f053c5646ebaaebfa917bd3cb65e",
+      "sha256": "fa5a61fa23113e49272bdc907bd248822c9f972642ff9e24d2f87ae69cc81af2"
+    },
+    {
+      "name": "Popeye (World) (Rev 1)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "1a21dc14",
+      "md5": "1a64fbc39fc787db51bd838f1a8f4a81",
+      "sha1": "1ef97e56922d6741d6f0833c503ceb4fd170240e",
+      "sha256": "627778c32328dbd8865a0f2cc1d5a4a0c1b4f897b28597a37a3ac83a39800849"
+    },
+    {
+      "name": "Popeye (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "fe06ec2c",
+      "md5": "d888c076a9efb6dd59d670dab01b3865",
+      "sha1": "3912b485f056a9d4346a4937e688f5f31738b75d",
+      "sha256": "c285d490f01fce82968c6b5e5cce42d9819fadc2f4445437f656868b53914c10"
+    },
+    {
+      "name": "Popeye (Asia) (En) (v1.1) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "097a01c7",
+      "md5": "823e92c80a6304d8b24d3eaba3cac510",
+      "sha1": "a82cc474d53285ef78204ca88a4dc678a9165208",
+      "sha256": "5986531aceb55311295d08b7d4a0ecbdc216ec669e4af2acbaeffd4e1c68f90c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Popeye%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Popeye%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Popeye%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Popeye%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Popeye%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Popeye%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

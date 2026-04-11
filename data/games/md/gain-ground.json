@@ -61,5 +61,107 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Gain Ground (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 524288,
+      "crc32": "f5c0b45f",
+      "md5": "08d98b0ee5111e72ba73e753dc76ac1c",
+      "sha1": "a4d70df77ed08a9233076250c93c8d8a0c0ba715",
+      "sha256": "8e1e21dffa5253b9b1bc0f55307be2b3317505cd1fa41b81c77f0b523a8001f0"
+    },
+    {
+      "name": "Gain Ground (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004036-00",
+      "size": 524288,
+      "crc32": "8641a2ab",
+      "md5": "3b0ad9167e152ed3719ae0d45e50db6a",
+      "sha1": "a5017e44b5f470e0499f4a9b494385c567632864",
+      "sha256": "a54938fc04dfe3a1452d90d89e95b609d38f47111d06eed9c49562bdfaba5bf9"
+    },
+    {
+      "name": "Gain Ground (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00004036-00",
+      "size": 524288,
+      "crc32": "83e7b8ae",
+      "md5": "fa43881a792fadf1ab737294fff1bcc3",
+      "sha1": "3cc501086f794ac663aad14d5c5a75b648041151",
+      "sha256": "17a6b6050d23bb572f6819935b20fa0196f2d765f6a8806109521079def846ca"
+    },
+    {
+      "name": "Gain Ground (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "00004036-00",
+      "size": 524288,
+      "crc32": "aee20a64",
+      "md5": "250033f6c91fbb7714782cd66fcece82",
+      "sha1": "148d166d594535c6526cb450c461cfb003b59f93",
+      "sha256": "38116145d3e4dd086bd364ba44ee0cb176d75299dbdd516dc0e2de8aba73faab"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gain%20Ground%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gain%20Ground%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gain%20Ground%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gain%20Ground%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gain%20Ground%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gain%20Ground%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gain%20Ground%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gain%20Ground%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gain%20Ground%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

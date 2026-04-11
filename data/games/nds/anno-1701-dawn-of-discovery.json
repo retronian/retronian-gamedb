@@ -45,5 +45,66 @@
     "wikidata": "Q1301959",
     "mobygames": 28631,
     "igdb": 23077
-  }
+  },
+  "roms": [
+    {
+      "name": "Anno 1701 - Dawn of Discovery (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A2LE",
+      "size": 16777216,
+      "crc32": "3877d3d3",
+      "md5": "ce3675416285d701c86836ef3fedb1db",
+      "sha1": "aa9b2fa71f6c83ca578b4460bc4dbed9d5299fc8"
+    },
+    {
+      "name": "Anno 1701 - Dawn of Discovery (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A2LP",
+      "size": 16777216,
+      "crc32": "cf98c24f",
+      "md5": "51f11e05edbc35471488006b08bcc618",
+      "sha1": "4ad5e1b09ce0503e407678d570955bb043200d89",
+      "sha256": "907b58d7028f6b6323a58b67c9d3f8e95569d390e459241cdc0027566e9d10cf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Anno%201701%20-%20Dawn%20of%20Discovery%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Anno%201701%20-%20Dawn%20of%20Discovery%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Anno%201701%20-%20Dawn%20of%20Discovery%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Anno%201701%20-%20Dawn%20of%20Discovery%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Anno%201701%20-%20Dawn%20of%20Discovery%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Anno%201701%20-%20Dawn%20of%20Discovery%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

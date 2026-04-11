@@ -54,5 +54,67 @@
     "wikidata": "Q3519194",
     "mobygames": 3761,
     "igdb": 3612
-  }
+  },
+  "roms": [
+    {
+      "name": "Tetrisphere (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NTPP",
+      "size": 8388608,
+      "crc32": "7cb31b0f",
+      "md5": "765a330d5ce2dbe7120c6c8e18a1487d",
+      "sha1": "a730d8dd3b00c22f8fa4c6e74299e5cc2bbb8207",
+      "sha256": "1bb4ed1ef078560e283a4fe942972fb0297bd33d7f9e36cb673358c394176dd1"
+    },
+    {
+      "name": "Tetrisphere (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTPE",
+      "size": 8388608,
+      "crc32": "70a3a5ce",
+      "md5": "3f88078e2d9dbf6c9372f6373cf9ae09",
+      "sha1": "32adaa274ceed246aeee9f53592d642a121f3bdb",
+      "sha256": "f7cbc93ac273488bfb89955ab6ae9b60c730907872107a67a56b945e8579ef87"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Tetrisphere%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Tetrisphere%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Tetrisphere%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Tetrisphere%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Tetrisphere%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Tetrisphere%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

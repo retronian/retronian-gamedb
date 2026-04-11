@@ -54,5 +54,66 @@
     "wikidata": "Q3613450",
     "mobygames": 90570,
     "igdb": 4671
-  }
+  },
+  "roms": [
+    {
+      "name": "Alvin and the Chipmunks - The Squeakquel (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BAVE",
+      "size": 67108864,
+      "crc32": "44041fa9",
+      "md5": "8f8ea1b28d5019a38686a925e26ce1a1",
+      "sha1": "56a10ef295a1790a4a2433fc6354e02baa57b3bb",
+      "sha256": "b01337fc22a96eba8eae61b6c7ce7dd244e5415cc52734a292adcc040d65b6ac"
+    },
+    {
+      "name": "Alvin and the Chipmunks - The Squeakquel (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BAVX",
+      "size": 67108864,
+      "crc32": "c9f3db0f",
+      "md5": "0e103140746eb781256db263e6ceced4",
+      "sha1": "68c8d6272f891696462ba7687f40f491c26feb9a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Alvin%20and%20the%20Chipmunks%20-%20The%20Squeakquel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Alvin%20and%20the%20Chipmunks%20-%20The%20Squeakquel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Alvin%20and%20the%20Chipmunks%20-%20The%20Squeakquel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Alvin%20and%20the%20Chipmunks%20-%20The%20Squeakquel%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Alvin%20and%20the%20Chipmunks%20-%20The%20Squeakquel%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Alvin%20and%20the%20Chipmunks%20-%20The%20Squeakquel%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

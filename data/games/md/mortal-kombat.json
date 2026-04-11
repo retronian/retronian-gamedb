@@ -89,5 +89,54 @@
     "wikidata": "Q150294",
     "mobygames": 599,
     "igdb": 242237
-  }
+  },
+  "roms": [
+    {
+      "name": "Mortal Kombat (World) (Beta)",
+      "source": "no_intro",
+      "size": 2097152,
+      "crc32": "195b0397",
+      "md5": "68c5004b8c3c6a8158f5060d86f84744",
+      "sha1": "802840b135ab778c749cb6fb27bbb595a263a1c3",
+      "sha256": "1e4b588b90ce1beb508b19369f94492d7e9ef5aea273ef7fbc6696a81d7e914c"
+    },
+    {
+      "name": "Mortal Kombat (World)",
+      "source": "no_intro",
+      "serial": "T-81186-00",
+      "size": 2097152,
+      "crc32": "1aa3a207",
+      "md5": "a1dd8a3e4b8c98dee49d5e90d6b87903",
+      "sha1": "c098bf38ddd755ab7caa4612d025be2039009eb2",
+      "sha256": "658547d3115c52f165a269099a9f7eaf66e5303a5004abf4a8774bcce6565bd2"
+    },
+    {
+      "name": "Mortal Kombat (USA, Europe) (Rev A) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81186-01",
+      "size": 2097152,
+      "crc32": "33f19ab6",
+      "md5": "e0bb4d00ea95b75aac52851fb4d8ee47",
+      "sha1": "2c4a0618cc93ef7be8329a82ca6d2d16f49b23e0",
+      "sha256": "42e33ffbabbcfefe60267d53215621e64dd9c3f0e336bc72ca43c0009bd53c05"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mortal%20Kombat%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mortal%20Kombat%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mortal%20Kombat%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

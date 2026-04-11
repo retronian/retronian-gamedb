@@ -44,5 +44,54 @@
   "external_ids": {
     "wikidata": "Q7822542",
     "igdb": 21929
-  }
+  },
+  "roms": [
+    {
+      "name": "Tony Hawk's Motion (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CTWP",
+      "size": 134217728,
+      "crc32": "99a293be",
+      "md5": "bac7aef862d9ed87caf4da95f51303eb",
+      "sha1": "a87ae0f3a0a474fe34510e3b7b908ac2ad6e3b6a",
+      "sha256": "27cb3cf068661e1dcf06ca345b504754bf61d03877ba550b35cddf067b0be79a"
+    },
+    {
+      "name": "Tony Hawk's Motion (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CTWE",
+      "size": 134217728,
+      "crc32": "dccfc235",
+      "md5": "83fbdd75780af46c2189e63b7fffe3c9",
+      "sha1": "945f74c7570a57b558b522beafa8090ccfb13f92"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tony%20Hawk%27s%20Motion%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tony%20Hawk%27s%20Motion%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tony%20Hawk%27s%20Motion%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tony%20Hawk%27s%20Motion%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

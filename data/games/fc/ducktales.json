@@ -80,5 +80,94 @@
     "wikidata": "Q933328",
     "mobygames": 8606,
     "igdb": 6487
-  }
+  },
+  "roms": [
+    {
+      "name": "DuckTales (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "3464fbf6",
+      "md5": "5169ae00579ab60c31c91e3b5e8045d6",
+      "sha1": "7475aaef200341990486ef1641f6e3763cc84696",
+      "sha256": "e17b84e66ebaf8650a9fe9e8460528e0c5ce20cc0f9ee7842c73374c1c8ceb00"
+    },
+    {
+      "name": "DuckTales (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "4b7e9c9d",
+      "md5": "2672343a1f33a2766050f8dfd405906f",
+      "sha1": "e2004d265e44e851f3c6053314af62a05fc4a595",
+      "sha256": "23f395b26644e9fce38b02973f16d8de2a69c358fd7934ec63404acafa1cfeb3"
+    },
+    {
+      "name": "DuckTales (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "5b9ddbd6",
+      "md5": "90cfe61cdbbc259f6dd4f205cc48340f",
+      "sha1": "e8b0b9ea420e6b65491820e00245f93adb269ca1",
+      "sha256": "51bd4958c31efaf64eafba27f077fb937d36ede04da33d1871b4e767ff7fe372"
+    },
+    {
+      "name": "DuckTales (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "88e87f83",
+      "md5": "e77cbaea15792f82c4c2d248c6d315e9",
+      "sha1": "2384918d41fdd9f2112da26b02e52d63e2e59db9",
+      "sha256": "a65a405ffc7ec78eaab98f12809527696a4f1d689e81ec5c334696da5cef447c"
+    },
+    {
+      "name": "DuckTales (World) (The Disney Afternoon Collection)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "e10d36f3",
+      "md5": "4e799ddefb3cde6216f528de25d16b9d",
+      "sha1": "ceb9a99fa6c314a23e67640daa8f9fd5df3eec28",
+      "sha256": "3b8b19a17ef1c42d2b8e20fb0cfeb0e7c5047c16bf1ebaa5260ae231496e14b4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/DuckTales%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/DuckTales%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/DuckTales%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/DuckTales%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/DuckTales%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/DuckTales%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

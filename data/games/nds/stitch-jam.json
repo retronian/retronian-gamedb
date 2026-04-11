@@ -43,5 +43,53 @@
   "external_ids": {
     "wikidata": "Q99967063",
     "igdb": 47822
-  }
+  },
+  "roms": [
+    {
+      "name": "Stitch Jam (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BJME",
+      "size": 67108864,
+      "crc32": "8d3653bf",
+      "md5": "afab16a41bc48203221763d154adbe96",
+      "sha1": "55b9bbc775d25540a0b7b8ed97fcbb28ac3bbea1"
+    },
+    {
+      "name": "Stitch! DS - Ohana to Rhythm de Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BJMJ",
+      "size": 67108864,
+      "crc32": "651e8b2d",
+      "md5": "4b43866159a7217df7edc8fa72015668",
+      "sha1": "1f9918009e7b5d045df8d3bce1bd1ad565732c60"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Stitch%20Jam%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Stitch%20Jam%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Stitch%21%20DS%20-%20Ohana%20to%20Rhythm%20de%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Stitch%21%20DS%20-%20Ohana%20to%20Rhythm%20de%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

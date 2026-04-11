@@ -56,6 +56,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "스타워즈",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1987-12-04",
@@ -63,5 +72,159 @@
     "wikidata": "Q54319",
     "mobygames": 28550,
     "igdb": 72396
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "2cc541d6",
+      "md5": "c83737c08db333fdc15cb4d627cb78d5",
+      "sha1": "eeab182cc785e3f731e6584eb6c4d30ab4fe04e0",
+      "sha256": "50f29bdffcef7b37704e5635987f5304cd7906e317409934f539fe39451657f6"
+    },
+    {
+      "name": "Star Wars (Japan) (Namco)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "f663f0e1",
+      "md5": "6f71e1f0bbbca2163006f3ea4da77d31",
+      "sha1": "d0f38e67fa7b8e0493b2a629d7240adeb48cdf21",
+      "sha256": "2a41e73c8e0bbffa6703e0f6dc8f9ffc39b8a3da44ebdb4b77c336a955081a68"
+    },
+    {
+      "name": "Star Wars (Japan) (Victor)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "ae2f798a",
+      "md5": "35993f7a3ba036ef02d66ee7affa1e5b",
+      "sha1": "aa4b3d1985ce79fc8527be3261a33b1806c722f0",
+      "sha256": "2ec8df2f55553a7ec78d1e07d7c46fb16a8a35393c3f00839a4406342f8056a2"
+    },
+    {
+      "name": "Star Wars (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "d53f76f6",
+      "md5": "6be763499918424496274e1daaa0c55a",
+      "sha1": "40c41eb086defc83cf4c45a1571ed0ff27153948",
+      "sha256": "1c4c63b64f8fa4b1555f5eb2843849c7af1ff3c8410b0dfcfa1f698c3bd3a0fe"
+    },
+    {
+      "name": "Star Wars (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "a7f98c3c",
+      "md5": "785d5d7643ecfcbe200541c9b27e74c5",
+      "sha1": "5377bac6eabc66cc9b01c950003ca1c7985dbd7b",
+      "sha256": "bced97cb21dbbe392a8a3cde9a2c4b0e4c3a09c89018dde143a354421bd9cb43"
+    },
+    {
+      "name": "Star Wars (USA) (Limited Run Games)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "0ee9928c",
+      "md5": "529e9c2862b0054069d23be9c028ac69",
+      "sha1": "1a12c1183bab2d381754815e7b85c94176c02261",
+      "sha256": "7dcf778d2efd8ac9ecb4995d865d39051ed0091257b902a2120d73aedf89ddef"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Wars%20%28Japan%29%20%28Namco%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Wars%20%28Japan%29%20%28Namco%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Wars%20%28Japan%29%20%28Namco%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Wars%20%28Japan%29%20%28Victor%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Wars%20%28Japan%29%20%28Victor%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Wars%20%28Japan%29%20%28Victor%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Wars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Wars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Wars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Wars%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Wars%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Wars%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

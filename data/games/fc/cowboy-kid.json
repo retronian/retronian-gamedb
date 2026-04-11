@@ -69,5 +69,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Cowboy Kid (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "52c31369",
+      "md5": "52f00ea5955b74ce24df5cb17b840006",
+      "sha1": "33f035856ae0ae5341b976186812b5068fd7640d",
+      "sha256": "074288c7553b8334d9d6894af003ee6237ba8e86b837eb31b6d8014f2ce3e89b"
+    },
+    {
+      "name": "Western Kids (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "8c9bc742",
+      "md5": "257d669441547920729c02a20dc42431",
+      "sha1": "0b417ab0e88c07e5543b5e8e2fb1195214b3c055",
+      "sha256": "8660c9248b9af45dde8d5c82a5173d8585b7f50a2d566e650ce17474172e7474"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Cowboy%20Kid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Cowboy%20Kid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Cowboy%20Kid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Western%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Western%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Western%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

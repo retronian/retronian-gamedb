@@ -35,5 +35,48 @@
   "external_ids": {
     "wikidata": "Q4729046",
     "igdb": 65849
-  }
+  },
+  "roms": [
+    {
+      "name": "All Kamen Rider - Rider Generation (Japan) (Beta) (2011-06-02)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "TAKJ",
+      "size": 67108864,
+      "crc32": "73b19440",
+      "md5": "4f6e9712b014d3d43929ee475bea6924",
+      "sha1": "869b03e4fb6b06cd14aa58c06f5a1011773c0293",
+      "sha256": "58031932c669fd85902959f4e29e898601aa8b849f6e76ce27e65bc54c278cfa"
+    },
+    {
+      "name": "All Kamen Rider - Rider Generation (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "TAKJ",
+      "size": 67108864,
+      "crc32": "986b74f0",
+      "md5": "adc87f72d8f315bff1024635d4681f08",
+      "sha1": "cc6a531acf0e325e242827673241ae2d6333391e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/All%20Kamen%20Rider%20-%20Rider%20Generation%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/All%20Kamen%20Rider%20-%20Rider%20Generation%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/All%20Kamen%20Rider%20-%20Rider%20Generation%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -27,5 +27,49 @@
     "wikidata": "Q2783679",
     "mobygames": 5755,
     "igdb": 12840
-  }
+  },
+  "roms": [
+    {
+      "name": "Race Drivin' (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-40016-00",
+      "size": 524288,
+      "crc32": "9de9eb4a",
+      "md5": "3a7b07099f27fdc1c6725a9d0597b69d",
+      "sha1": "83284951966788caa187822466cc665c89c2033f",
+      "sha256": "f5ef382a4938d544bed29341e1d5b85fa19e5fc7c2a04407a801020a6e9e4145"
+    },
+    {
+      "name": "Race Drivin' (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48246-00",
+      "size": 524288,
+      "crc32": "d737cf3d",
+      "md5": "3f575aa9a9afb293a91a4606a297d69b",
+      "sha1": "7961b37d364c8296d96f08a79577985113f72ba5",
+      "sha256": "bd86c32fba134c64c9698d939b9d679ad93b77a2864019b63effad1be96002e5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Race%20Drivin%27%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Race%20Drivin%27%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Race%20Drivin%27%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

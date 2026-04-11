@@ -18,5 +18,66 @@
     "wikidata": "Q7547922",
     "mobygames": 69288,
     "igdb": 6596
-  }
+  },
+  "roms": [
+    {
+      "name": "Snood (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASQE",
+      "size": 4194304,
+      "crc32": "f1f1f148",
+      "md5": "66f4a5a101822a779fdfecf366e73c96",
+      "sha1": "2c09548ae924ac0c1a3e15412d9a7aae7707a753",
+      "sha256": "2a52f77c0d01a37236265218b5125effbe5260b7d0c3e1d9c145d37a44122379"
+    },
+    {
+      "name": "Snood (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASQP",
+      "size": 4194304,
+      "crc32": "32bd1486",
+      "md5": "a9572991316ac2e105abfec80aaeb02e",
+      "sha1": "722998b2dbde669cacf8071e3a466e2c0cb9bafb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Snood%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Snood%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Snood%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Snood%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Snood%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Snood%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -36,5 +36,67 @@
     "wikidata": "Q3334241",
     "mobygames": 182447,
     "igdb": 3550
-  }
+  },
+  "roms": [
+    {
+      "name": "NBA Hangtime (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NXGP",
+      "size": 12582912,
+      "crc32": "7e6d00ae",
+      "md5": "62365463743857cfc823978e0e590d84",
+      "sha1": "2bcbdd92ccb4c72757739d32557098f4eec36312",
+      "sha256": "7d98514e3f3e5c3b64882bc3a8d3644c8b8383b41bd63aafc9834ce487eb61e7"
+    },
+    {
+      "name": "NBA Hangtime (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NXGE",
+      "size": 12582912,
+      "crc32": "714cf532",
+      "md5": "dc15fcbeae0f1fef7bee141d77bb25a0",
+      "sha1": "3c96741db636938f140e9592ad34e93ac25c7762",
+      "sha256": "6e1304d5bf8922a652f4063f9d26120ac8c3e9af2a5f8a4f4bc733cf003edf83"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NBA%20Hangtime%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NBA%20Hangtime%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NBA%20Hangtime%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NBA%20Hangtime%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NBA%20Hangtime%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NBA%20Hangtime%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

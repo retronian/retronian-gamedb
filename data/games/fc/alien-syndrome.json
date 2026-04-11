@@ -72,5 +72,47 @@
     "wikidata": "Q3273389",
     "mobygames": 1030,
     "igdb": 273019
-  }
+  },
+  "roms": [
+    {
+      "name": "Alien Syndrome (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "a71ab50b",
+      "md5": "a72cf36eaa29551487c828e6273b3249",
+      "sha1": "ab10dbdd482341bd8545168f24560cb7e4f1c97c",
+      "sha256": "14f391b5dbc8a0858efa1f13929d81923350aea0253232f055d8d7166a05fec3"
+    },
+    {
+      "name": "Alien Syndrome (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "711347ea",
+      "md5": "4284a5c133ac42cd69833c2020139361",
+      "sha1": "63eab030bcbeeeb91e0a084b92d89ecb3dce0668",
+      "sha256": "1c1d0cfad6f7005e5d4e15f48ab260744dfa72b3435820631745b6a0fc7567a5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Alien%20Syndrome%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Alien%20Syndrome%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Alien%20Syndrome%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

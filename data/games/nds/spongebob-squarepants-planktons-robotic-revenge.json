@@ -54,5 +54,65 @@
     "wikidata": "Q14395832",
     "mobygames": 74054,
     "igdb": 194951
-  }
+  },
+  "roms": [
+    {
+      "name": "SpongeBob SquarePants - Plankton's Robotic Revenge (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TLUP",
+      "size": 67108864,
+      "crc32": "f9a68794",
+      "md5": "b5d3a285e7d2341ece9d29d960b5ee5a",
+      "sha1": "d9c1de39cf0fb6d8ff8b15111d4b49be826bf5cd"
+    },
+    {
+      "name": "SpongeBob SquarePants - Plankton's Robotic Revenge (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TLUE",
+      "size": 67108864,
+      "crc32": "6723f5d7",
+      "md5": "54b3514db33dedba9c875009bb2204ad",
+      "sha1": "3056e376f090490f15e27005cbd24c81822c79e8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SpongeBob%20SquarePants%20-%20Plankton%27s%20Robotic%20Revenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/SpongeBob%20SquarePants%20-%20Plankton%27s%20Robotic%20Revenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SpongeBob%20SquarePants%20-%20Plankton%27s%20Robotic%20Revenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SpongeBob%20SquarePants%20-%20Plankton%27s%20Robotic%20Revenge%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/SpongeBob%20SquarePants%20-%20Plankton%27s%20Robotic%20Revenge%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SpongeBob%20SquarePants%20-%20Plankton%27s%20Robotic%20Revenge%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

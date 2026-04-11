@@ -51,5 +51,121 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Blazing Skies (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "beb16e2d",
+      "md5": "37a3400b6c9ddb34d8b47301817de59e",
+      "sha1": "9fef44a31c73b505d267868ff2091aea4c4f584c",
+      "sha256": "d0548ea5fe0cb633d7d29a85a985255354846678f40a64135c3142fa18792098"
+    },
+    {
+      "name": "Sky Mission (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "0866a769",
+      "md5": "97169504f80c4bbdd89ee7a40c6f3d54",
+      "sha1": "aaa8ee733cd5e60ffab85ce0948c561b11d24173",
+      "sha256": "2a14be3e9c9678d7eef829520d10feca5d9c9c1878b9c25fd16fb80c91fb6466"
+    },
+    {
+      "name": "Wings 2 - Aces High (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "1637d1a5",
+      "md5": "14f3e38280bd12c6fbf90fd3a77c375f",
+      "sha1": "4e09d2dc7bb60973f4ed4a3f7f34f1f3bd672a57",
+      "sha256": "c3bcd5c716f96e6359ebcfd85c3e9b07b46c5124bf4010d89ceef5b6f2f868f6"
+    },
+    {
+      "name": "Wings 2 - Aces High (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "cc2e31d4",
+      "md5": "24af413b6b630d81a8225e0756278ef0",
+      "sha1": "6960c53a9939b06476649ef5ca7b60e6b61d14f2",
+      "sha256": "69d3f518f9dd5b2220ed216f0e45cf194ddef6c461375e171dd43e510f74c9c9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Blazing%20Skies%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Blazing%20Skies%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Blazing%20Skies%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sky%20Mission%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sky%20Mission%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sky%20Mission%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wings%202%20-%20Aces%20High%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wings%202%20-%20Aces%20High%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wings%202%20-%20Aces%20High%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wings%202%20-%20Aces%20High%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wings%202%20-%20Aces%20High%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wings%202%20-%20Aces%20High%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

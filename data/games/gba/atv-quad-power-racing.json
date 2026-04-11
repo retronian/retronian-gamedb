@@ -27,5 +27,65 @@
     "wikidata": "Q4654948",
     "mobygames": 8960,
     "igdb": 248615
-  }
+  },
+  "roms": [
+    {
+      "name": "ATV - Quad Power Racing (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQRE",
+      "size": 4194304,
+      "crc32": "9c1a7dcb",
+      "md5": "b295f02a07f00f80669352767242268f",
+      "sha1": "43a2c71b1f3b4085adee648e5a409be4517cd7bb"
+    },
+    {
+      "name": "ATV - Quad Power Racing (Europe) (En,Fr,De,Es,It) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQRP",
+      "size": 4194304,
+      "crc32": "4b4e8bc7",
+      "md5": "06ae9bc5a49c1f5edac5f5dbdd30882d",
+      "sha1": "2234f23928c871b00bd48bdcdd5273362d4e0cdc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/ATV%20-%20Quad%20Power%20Racing%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/ATV%20-%20Quad%20Power%20Racing%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/ATV%20-%20Quad%20Power%20Racing%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/ATV%20-%20Quad%20Power%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/ATV%20-%20Quad%20Power%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/ATV%20-%20Quad%20Power%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

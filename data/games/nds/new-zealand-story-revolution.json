@@ -18,5 +18,65 @@
     "wikidata": "Q16611339",
     "mobygames": 46696,
     "igdb": 20666
-  }
+  },
+  "roms": [
+    {
+      "name": "New Zealand Story Revolution (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANZE",
+      "size": 16777216,
+      "crc32": "0f979955",
+      "md5": "e2d26334ad35f749c4b2ba01689fd2dd",
+      "sha1": "569ec56da8e924bdff318b155f7c9c7ddf8a1a0d"
+    },
+    {
+      "name": "New Zealand Story Revolution (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANZP",
+      "size": 16777216,
+      "crc32": "0f038f8b",
+      "md5": "484e2545c74c72ed3fb2009abcb3f3eb",
+      "sha1": "1bee729b09471bbce1b4abd93f2ab9c0d90d2ecd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/New%20Zealand%20Story%20Revolution%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/New%20Zealand%20Story%20Revolution%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/New%20Zealand%20Story%20Revolution%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/New%20Zealand%20Story%20Revolution%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/New%20Zealand%20Story%20Revolution%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/New%20Zealand%20Story%20Revolution%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

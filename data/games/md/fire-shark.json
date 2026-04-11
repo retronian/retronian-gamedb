@@ -36,5 +36,77 @@
     "wikidata": "Q2036643",
     "mobygames": 26501,
     "igdb": 39647
-  }
+  },
+  "roms": [
+    {
+      "name": "Fire Shark (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-34016-00",
+      "size": 524288,
+      "crc32": "2351ce61",
+      "md5": "de1cab62facb121904d0cb1da9cc00a8",
+      "sha1": "54b9060699187bf32048c005a3379fda72c0fb96",
+      "sha256": "cc8340ed5bbff2fd5dd4735c01a8e35123c8d5c972f6b2b4c59ebe30dbd79a6b"
+    },
+    {
+      "name": "Fire Shark (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-34016-00",
+      "size": 524288,
+      "crc32": "9c175146",
+      "md5": "c00981929f3eca882d123809e81185df",
+      "sha1": "020169eb2a4b3ad63fa2cbaa1927ab7c33b6add4",
+      "sha256": "603030d2054701a6129eb3d8f4762f8888b9a1d75802fe6d175210fe364d9dad"
+    },
+    {
+      "name": "Fire Shark (World) (Retro-Bit)",
+      "source": "no_intro",
+      "serial": "T-34016 -00",
+      "size": 524288,
+      "crc32": "54b072a1",
+      "md5": "366624eaec370c1be4d64a96dd4b626b",
+      "sha1": "2cfac486b8eaecc2b5069bd91c4cfc0a254efe35",
+      "sha256": "4339306f63f31755704fe9fa12bf1d494e3aeb5bd3e62a8d99053c7799bae995"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Fire%20Shark%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Fire%20Shark%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Fire%20Shark%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Fire%20Shark%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Fire%20Shark%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Fire%20Shark%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

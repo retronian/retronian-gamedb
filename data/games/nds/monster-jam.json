@@ -18,5 +18,94 @@
     "wikidata": "Q6902743",
     "mobygames": 31983,
     "igdb": 5015
-  }
+  },
+  "roms": [
+    {
+      "name": "Monster Jam (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YMOE",
+      "size": 67108864,
+      "crc32": "d8220fbf",
+      "md5": "63f1ae2809fcb87f81674f6950e7cc8a",
+      "sha1": "ec2db426402b4cd52c17721cbac7be2e72a15da5"
+    },
+    {
+      "name": "Monster Jam (Europe) (Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YMOX",
+      "size": 67108864,
+      "crc32": "72c0a839",
+      "md5": "8923a8658b24f82b86bde09e65c45259",
+      "sha1": "ba0e2f5fd08a91079f7878844cb8de70cf460b22",
+      "sha256": "2ae8a59e390df808602f7854338823a033837c74a69554f5c0f8d128af8281fb"
+    },
+    {
+      "name": "Monster Jam (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YMOP",
+      "size": 67108864,
+      "crc32": "257b46a3",
+      "md5": "f18d5eef2c9939bb876cb7a228aa3fba",
+      "sha1": "669220dbccfaf2dc9a684a73eac35c6c8652a50a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20Jam%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Monster%20Jam%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20Jam%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20Jam%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Monster%20Jam%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20Jam%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20Jam%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Monster%20Jam%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20Jam%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

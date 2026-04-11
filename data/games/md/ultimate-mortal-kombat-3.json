@@ -90,5 +90,67 @@
     "wikidata": "Q1313980",
     "mobygames": 6593,
     "igdb": 1621
-  }
+  },
+  "roms": [
+    {
+      "name": "Ultimate Mortal Kombat 3 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-81616-50",
+      "size": 4194304,
+      "crc32": "ecfb5cb4",
+      "md5": "3dcf09e58870a2cf850f9788078684be",
+      "sha1": "044bfdb3761df7c4d54a25898353fabcd3f604a3",
+      "sha256": "0739bb2b01698b6ae3b9c5a65d5e81aab0a125ee4f0ac8d848eef4d5116cc4fc"
+    },
+    {
+      "name": "Ultimate Mortal Kombat 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-097146-00",
+      "size": 4194304,
+      "crc32": "7290770d",
+      "md5": "5a129779699f8b388e97c9c0d703d503",
+      "sha1": "bf2da4a7ae7aa428b0b316581f65b280dc3ba356",
+      "sha256": "75dd7e0c182a759a7e5beabbca7581ff11336c416fa4711804cf6f148fbc45c0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ultimate%20Mortal%20Kombat%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ultimate%20Mortal%20Kombat%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ultimate%20Mortal%20Kombat%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ultimate%20Mortal%20Kombat%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ultimate%20Mortal%20Kombat%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ultimate%20Mortal%20Kombat%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

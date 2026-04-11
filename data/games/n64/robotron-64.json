@@ -18,5 +18,67 @@
     "wikidata": "Q7886388",
     "mobygames": 9148,
     "igdb": 79669
-  }
+  },
+  "roms": [
+    {
+      "name": "Robotron 64 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NRXP",
+      "size": 8388608,
+      "crc32": "23bf4956",
+      "md5": "2abcd1ad41b3356fbc1018ecb121283e",
+      "sha1": "d86a7ed2f203ba9df0ce5b18d9e4e2e2d9b62a3f",
+      "sha256": "18e582cfc79c8659d06664459bee45d5892291a9264ffda0652cb36c0d548aa6"
+    },
+    {
+      "name": "Robotron 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NRXE",
+      "size": 8388608,
+      "crc32": "3c95e84c",
+      "md5": "c4a9bbf989ddfaf5f389e4adc6195dbc",
+      "sha1": "285c720f642649790faaaa02c33636cf1b33d7db",
+      "sha256": "3ef7690f97d3957af7294eab4432fa1673a15bba0435664cc9fa2fd757168804"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Robotron%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Robotron%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Robotron%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Robotron%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Robotron%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Robotron%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

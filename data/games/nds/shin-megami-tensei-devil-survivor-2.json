@@ -81,5 +81,65 @@
     "wikidata": "Q4460747",
     "mobygames": 90258,
     "igdb": 6885
-  }
+  },
+  "roms": [
+    {
+      "name": "Shin Megami Tensei - Devil Survivor 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TDVE",
+      "size": 134217728,
+      "crc32": "c52edaf0",
+      "md5": "c6a9b9d4ad62cc3fa62c6f924feb4a8e",
+      "sha1": "71df8b4dfc4c020c09244ad773775e6c3d968e2f"
+    },
+    {
+      "name": "Shin Megami Tensei - Devil Survivor 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TDVP",
+      "size": 134217728,
+      "crc32": "302cc40c",
+      "md5": "ffe1d9d801c52fbcfe4c4a07dc710d36",
+      "sha1": "5f7b2e8b21dbc397a3a5861f2ad7bd0094508013"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Shin%20Megami%20Tensei%20-%20Devil%20Survivor%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Shin%20Megami%20Tensei%20-%20Devil%20Survivor%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Shin%20Megami%20Tensei%20-%20Devil%20Survivor%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Shin%20Megami%20Tensei%20-%20Devil%20Survivor%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Shin%20Megami%20Tensei%20-%20Devil%20Survivor%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Shin%20Megami%20Tensei%20-%20Devil%20Survivor%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

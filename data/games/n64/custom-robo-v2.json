@@ -54,5 +54,49 @@
     "wikidata": "Q3007916",
     "mobygames": 67476,
     "igdb": 3463
-  }
+  },
+  "roms": [
+    {
+      "name": "Custom Robo V2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NCZJ",
+      "size": 16777216,
+      "crc32": "c8201454",
+      "md5": "115118dd5e0f02d82ba1bf070a7b78f1",
+      "sha1": "f9515c2482af8df791339536f60260509c424f6a",
+      "sha256": "60acf8dc7361f155ec8c987f75c6988ca1b0ccd36baefaffd67c24af6d21ace1"
+    },
+    {
+      "name": "Custom Robo V2 (Japan) (Beta) (2000-09-09) (Debug)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NCZJ",
+      "size": 16777216,
+      "crc32": "a287ce93",
+      "md5": "62d00a4ad167fbe2474de05cd3160228",
+      "sha1": "247d1f2a7f691956b1763da32f47b2f622a869a6",
+      "sha256": "8308b14c5c46e84c1ccf9289a5d05c235bbe4771d7ee9a8e780c53a4ff1ffe03"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Custom%20Robo%20V2%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Custom%20Robo%20V2%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Custom%20Robo%20V2%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

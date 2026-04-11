@@ -17,5 +17,65 @@
   "external_ids": {
     "wikidata": "Q105485223",
     "igdb": 49382
-  }
+  },
+  "roms": [
+    {
+      "name": "Street Racing Syndicate (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BCZE",
+      "size": 4194304,
+      "crc32": "f44b6a70",
+      "md5": "3edf62c20e5c70401c3fa78ef6489055",
+      "sha1": "4981be37d8cd402de5a80f17f754c207bd5cfea8"
+    },
+    {
+      "name": "Street Racing Syndicate (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BCZP",
+      "size": 4194304,
+      "crc32": "ac24888b",
+      "md5": "9b8016741dad6774241ccc78571df4da",
+      "sha1": "0536c9d6b0732337eaa6764d918f3b314b96c063"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Street%20Racing%20Syndicate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Street%20Racing%20Syndicate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Street%20Racing%20Syndicate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Street%20Racing%20Syndicate%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Street%20Racing%20Syndicate%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Street%20Racing%20Syndicate%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

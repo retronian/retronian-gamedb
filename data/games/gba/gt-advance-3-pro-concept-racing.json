@@ -18,5 +18,66 @@
     "wikidata": "Q5514771",
     "mobygames": 9054,
     "igdb": 6426
-  }
+  },
+  "roms": [
+    {
+      "name": "GT Advance 3 - Pro Concept Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A2GE",
+      "size": 8388608,
+      "crc32": "0a331e11",
+      "md5": "c283484d8f35b059bbff9e4d852c5420",
+      "sha1": "f1b9dd89d0e1151b47545eab381fb44c8f4dcca5"
+    },
+    {
+      "name": "GT Advance 3 - Pro Concept Racing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A2GP",
+      "size": 8388608,
+      "crc32": "03898e7f",
+      "md5": "df7b1d5fb2f71445497feabf7babb8ef",
+      "sha1": "1e81d7ad7a9d8c179ef9f1a2e334a155799fe788",
+      "sha256": "9ab59e9d4e90792c2d51f05e216a1a4a4c1aa56833e9e6169db83f9bc79479bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/GT%20Advance%203%20-%20Pro%20Concept%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/GT%20Advance%203%20-%20Pro%20Concept%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/GT%20Advance%203%20-%20Pro%20Concept%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/GT%20Advance%203%20-%20Pro%20Concept%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/GT%20Advance%203%20-%20Pro%20Concept%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/GT%20Advance%203%20-%20Pro%20Concept%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

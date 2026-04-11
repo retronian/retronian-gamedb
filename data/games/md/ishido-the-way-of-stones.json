@@ -54,5 +54,37 @@
     "wikidata": "Q3155272",
     "mobygames": 4253,
     "igdb": 46206
-  }
+  },
+  "roms": [
+    {
+      "name": "Ishido - The Way of Stones (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "b1de7d5e",
+      "md5": "30ee5ae0e2a4b2995a79173f67278c69",
+      "sha1": "3bd159e323d86e69031bf1ee9febeb6f9bb078d4",
+      "sha256": "b9c2618d70beb245a10b4f90852be3c8d88f265a6b830a202a3dfedb571782f3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ishido%20-%20The%20Way%20of%20Stones%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ishido%20-%20The%20Way%20of%20Stones%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ishido%20-%20The%20Way%20of%20Stones%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -27,5 +27,55 @@
     "wikidata": "Q6125185",
     "mobygames": 54402,
     "igdb": 71900
-  }
+  },
+  "roms": [
+    {
+      "name": "Tomodachi Collection (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CCUJ",
+      "size": 67108864,
+      "crc32": "b09f99b2",
+      "md5": "7a07ae239c839c4faa0566794aeba6af",
+      "sha1": "c6fc223c74f7d303f9e07378d1ef9c702aacb854",
+      "sha256": "6d2be835622cb6d0642c3161a13549cc179093afd7d67ecc29ccb128f66da7cd"
+    },
+    {
+      "name": "Tomodachi Collection (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CCUJ",
+      "size": 67108864,
+      "crc32": "60c49745",
+      "md5": "7ab6acd97168f6d70e953a9c8057337c",
+      "sha1": "f37d5ff0e3444cf3fab38890efb71f4f14c96994",
+      "sha256": "813f9a359388424b1a4b75c0684bb65db3912bfdf41294c70b96e3ad98583ee9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tomodachi%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tomodachi%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tomodachi%20Collection%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tomodachi%20Collection%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

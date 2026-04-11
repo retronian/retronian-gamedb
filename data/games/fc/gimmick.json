@@ -79,5 +79,86 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Gimmick! (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "ee8879d5",
+      "md5": "5ff815533e1044d2c1035a65be37f8f1",
+      "sha1": "bb19be49dad26236b03c91d086e90abdbc94da1d",
+      "sha256": "ce2f84618dfe3d5581fcdf11a10190b717853af3be0bea7988cd27cd1498c092"
+    },
+    {
+      "name": "Mr. Gimmick (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 393232,
+      "crc32": "bbf010e3",
+      "md5": "db20bea88fdead838e98851a67cf893f",
+      "sha1": "d6f344440f796f3e081ae786e67aed7c08c856e4",
+      "sha256": "61be90519a54af61dd9969e46d21832eed06ee04b450d06074bc3bb118297afd"
+    },
+    {
+      "name": "Gimmick! (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "058c0f9e",
+      "md5": "73af72c8f5d0b0b37924a7eac3bdab5e",
+      "sha1": "4601a159b62be74ae8dcf05d378195a33213e1f2",
+      "sha256": "114675eaaf709720ddd591946d4162249e1339c1ab27d764c36b51c0e7df7906"
+    },
+    {
+      "name": "Mr. Gimmick (USA) (Early Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "8411b052",
+      "md5": "17c1c9cf240acc4907ef480a248a2bc3",
+      "sha1": "2f4f36e38b2e367e546454d56c0f590b9f159a68",
+      "sha256": "51e4856aee8bb9ed3b0f32494c8592b3623fc6074675cb01f18bedfbe6818f72"
+    },
+    {
+      "name": "Mr. Gimmick (World) (Evercade)",
+      "source": "no_intro",
+      "size": 393232,
+      "crc32": "667bb893",
+      "md5": "f530eb19414e0db366981b1e62adf0c6",
+      "sha1": "03c0b3751d94f6f068b62dffca3bed4d1e22a186",
+      "sha256": "9e9ae8ba6af37eef7379e479649bb261da3fd89b91a6204db09db67a6882b10d"
+    },
+    {
+      "name": "Mr. Gimmick (USA) (Final Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "b1080649",
+      "md5": "afd75e4b302e826daf7b0a675944e203",
+      "sha1": "7b65b1f860e2ef2d35cd465695b1d0cfb275c2bb",
+      "sha256": "56b67d0be81e9d13d072e7b3ea83a29674c724f290de1b8574eefbb6a3cda994"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mr.%20Gimmick%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mr.%20Gimmick%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mr.%20Gimmick%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

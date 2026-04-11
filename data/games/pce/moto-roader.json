@@ -45,5 +45,47 @@
     "wikidata": "Q6135180",
     "mobygames": 17783,
     "igdb": 42104
-  }
+  },
+  "roms": [
+    {
+      "name": "Moto Roader (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "e2b0d544",
+      "md5": "1b10baf9f65c8339a507e382bda5ed44",
+      "sha1": "bd92a8e6a1e860305a0943878a3b4a56ddde5478",
+      "sha256": "4fca3b7899afe2c0ce47914c236ae26d27c26555eff01d46fc2b99ed703e7e92"
+    },
+    {
+      "name": "Moto Roader (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "428f36cd",
+      "md5": "6663e27f13af52f864f06781d1a00eb8",
+      "sha1": "9737bd5a9d4f28544ad1cb25592e428bea98aa27",
+      "sha256": "b4cd0958fd362f135a8a643164b31ff373f8f6ba5189c05c773177902ee419fd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Moto%20Roader%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Moto%20Roader%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Moto%20Roader%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

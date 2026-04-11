@@ -63,5 +63,65 @@
     "wikidata": "Q2045111",
     "mobygames": 3887,
     "igdb": 250470
-  }
+  },
+  "roms": [
+    {
+      "name": "Micro Machines (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "b4f64a09",
+      "md5": "02061638a5e74746fd24e5aa9c1f1f60",
+      "sha1": "7bde6792ee0e1136165850d0ac543e7a07141ed5",
+      "sha256": "93083254531db6ab0676154785f8e5677b174eacbb8868c38d5008cca5a551e2"
+    },
+    {
+      "name": "Micro Machines (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "364e68bb",
+      "md5": "b447b20f378bff1342338c5c1acc0e53",
+      "sha1": "282c4f27d08a9def36dc4e7fe71deaaf0a5f2b43",
+      "sha256": "a2adeb4bf0e7cc943611ac726e5578da404373a79e91436c9bbd15480688b15c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Micro%20Machines%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Micro%20Machines%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Micro%20Machines%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Micro%20Machines%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Micro%20Machines%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Micro%20Machines%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

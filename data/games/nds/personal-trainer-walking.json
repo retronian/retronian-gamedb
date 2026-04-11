@@ -71,5 +71,81 @@
     "wikidata": "Q5233943",
     "mobygames": 89640,
     "igdb": 71901
-  }
+  },
+  "roms": [
+    {
+      "name": "Aruite Wakaru - Seikatsu Rhythm DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "IMWJ",
+      "size": 67108864,
+      "crc32": "01a2a47d",
+      "md5": "b5db6c254a07286ec569c0160f7027aa",
+      "sha1": "2a00fe7c74a49dee0416f0a90caac29bcc74c7f2"
+    },
+    {
+      "name": "Personal Trainer - Walking (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "IMWE",
+      "size": 67108864,
+      "crc32": "3542376b",
+      "md5": "17725a376406f1405dee864b1e58ce3a",
+      "sha1": "b9a7f85c64b69ac733d040dfd0afeada98e8ef76"
+    },
+    {
+      "name": "Walk with Me! (Europe) (En,Fr,De,Es,It) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "IMWP",
+      "size": 67108864,
+      "crc32": "7b068c11",
+      "md5": "0f3b0117e5ba35691147382f6e7cad7f",
+      "sha1": "f73d586ce8a3f265486f7f1fbc131a257876d2d4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Aruite%20Wakaru%20-%20Seikatsu%20Rhythm%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Personal%20Trainer%20-%20Walking%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Personal%20Trainer%20-%20Walking%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Personal%20Trainer%20-%20Walking%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Walk%20with%20Me%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Walk%20with%20Me%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Walk%20with%20Me%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

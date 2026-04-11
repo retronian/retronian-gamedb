@@ -17,5 +17,81 @@
     "wikidata": "Q5049072",
     "mobygames": 55809,
     "igdb": 215182
-  }
+  },
+  "roms": [
+    {
+      "name": "Casper (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "e4b30634",
+      "md5": "a614bbd7851374a870e57f43896ffe0e",
+      "sha1": "1a3d272d8afe81731862a240a77c0d3b80b1d62f",
+      "sha256": "5fe17ec763d5c8e397b67b867b82c42e4914bf340315e01560fbf23a957834d7"
+    },
+    {
+      "name": "Casper (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "e67a10e1",
+      "md5": "792c706a0addebed39d177077a1caac0",
+      "sha1": "18b90172789c87819fe4d606aa7874109bcd8024",
+      "sha256": "1bedb523a9612d48adafe8d70c88408f35e1fc84d0e70031649f3d113d5d9d09"
+    },
+    {
+      "name": "Casper (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "e0ab72fb",
+      "md5": "f7816c22aa5d1467a95e08046d85d534",
+      "sha1": "1d036bed67da4dc57add0e9e266fbdb993778823",
+      "sha256": "be53ca237fc4002cd8a753d656abb456b1790d1a8d09fe215e80909bd17347ae"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Casper%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Casper%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Casper%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Casper%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Casper%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Casper%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Casper%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

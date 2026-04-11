@@ -36,5 +36,62 @@
     "wikidata": "Q7378612",
     "mobygames": 36145,
     "igdb": 2795
-  }
+  },
+  "roms": [
+    {
+      "name": "Rugrats - Castle Capers (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ARGE",
+      "size": 4194304,
+      "crc32": "8aabd86a",
+      "md5": "01529e7a20314ab1479ab2b91ccfcf49",
+      "sha1": "a9d37415567b3d441c9c9312c75fd8ecaeb9ece1",
+      "sha256": "a591f84d80a727a13a7d8b1b7c86530bfe7236a6c8af778a20d024699a43b568"
+    },
+    {
+      "name": "Rugrats - Travesuras en el Castillo (Spain)",
+      "source": "no_intro",
+      "serial": "ARGS",
+      "size": 4194304,
+      "crc32": "0bcab7d0",
+      "md5": "c05cce26a2e6d11e9185b91515a19228",
+      "sha1": "89448f91091a46deaebaddbaaada43522f387465"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rugrats%20-%20Castle%20Capers%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rugrats%20-%20Castle%20Capers%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rugrats%20-%20Castle%20Capers%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rugrats%20-%20Travesuras%20en%20el%20Castillo%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rugrats%20-%20Travesuras%20en%20el%20Castillo%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rugrats%20-%20Travesuras%20en%20el%20Castillo%20%28Spain%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

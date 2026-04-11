@@ -18,5 +18,65 @@
     "wikidata": "Q3962987",
     "mobygames": 7085,
     "igdb": 248444
-  }
+  },
+  "roms": [
+    {
+      "name": "Smashing Drive (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSVE",
+      "size": 8388608,
+      "crc32": "2390aca6",
+      "md5": "5e2e52c6bc979aa50efb59d9386faf08",
+      "sha1": "bb47246dc6882037daa778fcdfdaf34e8715e7fb"
+    },
+    {
+      "name": "Smashing Drive (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSVP",
+      "size": 8388608,
+      "crc32": "1034d672",
+      "md5": "a0a932c70a245ed923125d7e62b10f01",
+      "sha1": "ef2657c476294983430e8e8a6c119c847133c932"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Smashing%20Drive%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Smashing%20Drive%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Smashing%20Drive%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Smashing%20Drive%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Smashing%20Drive%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Smashing%20Drive%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

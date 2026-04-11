@@ -36,5 +36,48 @@
     "wikidata": "Q2358082",
     "mobygames": 1250,
     "igdb": 12237
-  }
+  },
+  "roms": [
+    {
+      "name": "Zany Golf (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "ed5d12ea",
+      "md5": "6a23d5585b4fe6532d10f440f78af19a",
+      "sha1": "4f9bea2d8f489bfbc963718a8dca212e033fb5a2",
+      "sha256": "63ec1440afc329c08a6b940fa32b59bd8b2959c050ff7a669e67d2f101881428"
+    },
+    {
+      "name": "Zany Golf (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50036-01",
+      "size": 524288,
+      "crc32": "74ed7607",
+      "md5": "e389d35d584f1db39d6abf9d5b21162e",
+      "sha1": "f1c3b211c91edfed9c96f422cd10633afa43fdf0",
+      "sha256": "e149926121a6ded9afa6188529cf89251ea4d32cd3c79195ad227a034ef3633d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Zany%20Golf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Zany%20Golf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Zany%20Golf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

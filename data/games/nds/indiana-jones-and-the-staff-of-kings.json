@@ -54,5 +54,53 @@
     "wikidata": "Q2500418",
     "mobygames": 43255,
     "igdb": 4932
-  }
+  },
+  "roms": [
+    {
+      "name": "Indiana Jones and the Staff of Kings (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AUJE",
+      "size": 67108864,
+      "crc32": "67aafc3d",
+      "md5": "8569f25addf68986177898a4c8bd645d",
+      "sha1": "31403452faf5354a1b2988f988e43923107bfb58"
+    },
+    {
+      "name": "Indiana Jones and the Staff of Kings (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AUJP",
+      "size": 67108864,
+      "crc32": "745e782c",
+      "md5": "f129f753fd0810a51ad92e46214323d2",
+      "sha1": "284480b73338b0113b83e8c54f75bd64ac2035fa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Indiana%20Jones%20and%20the%20Staff%20of%20Kings%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Indiana%20Jones%20and%20the%20Staff%20of%20Kings%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Indiana%20Jones%20and%20the%20Staff%20of%20Kings%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Indiana%20Jones%20and%20the%20Staff%20of%20Kings%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -83,6 +83,33 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Harry Potter and the Prisoner of Azkaban",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Harry Potter and the Prisoner of Azkaban",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Harry Potter and the Prisoner of Azkaban",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2004-05-25",
@@ -90,5 +117,38 @@
     "wikidata": "Q749023",
     "mobygames": 13733,
     "igdb": 110433
-  }
+  },
+  "roms": [
+    {
+      "name": "Harry Potter and the Prisoner of Azkaban (USA, Europe) (En,Fr,De,Es,It,Nl,Da)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BHTE",
+      "size": 16777216,
+      "crc32": "c0bccaad",
+      "md5": "3fe499f2a6b141ec2959e2d109e3f321",
+      "sha1": "5be308501f0cfe0c30c60ef1fbf886707cdacd29",
+      "sha256": "f596a7b90af7504c18e6fc970b7316f0917a7c343e50a98405949b33157f231c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

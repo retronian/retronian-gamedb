@@ -72,5 +72,98 @@
     "wikidata": "Q3129867",
     "mobygames": 13724,
     "igdb": 19503
-  }
+  },
+  "roms": [
+    {
+      "name": "Hellfire (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1137-00",
+      "size": 524288,
+      "crc32": "cf30acec",
+      "md5": "26f695adeabca0e2a31eee07ae2057c2",
+      "sha1": "3cee325f4e8d12157b20c4ca7093bf806f5f9148",
+      "sha256": "3af4c029a8f59422d884235a3b0380db419f012f1fa3af3a0a46a952435e4e4c"
+    },
+    {
+      "name": "Hellfire (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-25073-00",
+      "size": 524288,
+      "crc32": "8e5e13ba",
+      "md5": "1e1950f384b6c2320e6d17c381c39d62",
+      "sha1": "17bbf3da65757cad3c7ff82c094e54cc68fd2f73",
+      "sha256": "d37809b2cecc05f612ab60c0c9ac55a12e676c195701aa35271ba275482cc464"
+    },
+    {
+      "name": "Hellfire (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-35036-00",
+      "size": 524288,
+      "crc32": "184018f9",
+      "md5": "dbdc25c40b85e488a1e817557e3e375c",
+      "sha1": "9a91bef8a07f709e1f79f8519da79eac34d1796d",
+      "sha256": "dfeee2d5fb8120c8cf12cecee24f37c55d216cdfc0520af61a8267328bded497"
+    },
+    {
+      "name": "Hellfire (World) (Retro-Bit)",
+      "source": "no_intro",
+      "size": 524288,
+      "crc32": "ff095325",
+      "md5": "03eabda143dbd1bb87ec66c11d7f7e4f",
+      "sha1": "0a055a653bd78f4a3b21f2077164bb33282e3553",
+      "sha256": "08f4181c156dba476c1215014073d0f2795936369392a1b260d64dcbf0d2fb3c"
+    },
+    {
+      "name": "Hellfire (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-35036-00",
+      "size": 524288,
+      "crc32": "772cbd90",
+      "md5": "3f51ae5277f9adcca4700d878034126c",
+      "sha1": "97452c8c90ca9f180280138eb41c8da52fdfb32d",
+      "sha256": "292fde4cfc4b98a88db9348a7ef69c104c6045dab883c768b8410cf38f0552df"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Hellfire%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Hellfire%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Hellfire%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Hellfire%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Hellfire%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Hellfire%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

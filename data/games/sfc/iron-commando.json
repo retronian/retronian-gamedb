@@ -62,5 +62,84 @@
     "wikidata": "Q6072413",
     "mobygames": 35252,
     "igdb": 34040
-  }
+  },
+  "roms": [
+    {
+      "name": "Iron Commando (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1310720,
+      "crc32": "d967299d",
+      "md5": "8a64df7014c099c8847872d531d6dfcc",
+      "sha1": "d667e3012f5964d3bc46bfc931f3a3bdda7b2fe6",
+      "sha256": "12bb99119dc73952fa5116228d85aa8b50b2cecc29e9f71e0d69a56b886c99c0"
+    },
+    {
+      "name": "Iron Commando - Koutetsu no Senshi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "828b5f07",
+      "md5": "c656e7408b5ef8a774ea8b354bf47779",
+      "sha1": "1c6127296bc8bf5afcb67d6e7aa0ce7838bdc44a",
+      "sha256": "8e0d620a307a225a757bbc9ef2a2a666792e5d533aa0279d3c0060a1b93ead82"
+    },
+    {
+      "name": "Iron Commando (Europe) (Piko Interactive)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "b82e8499",
+      "md5": "2803701e6d526f5695adcb2b93575124",
+      "sha1": "21a56379dc2c4718dc407d14df47cd9bc8f6d292",
+      "sha256": "aa0225be8595b486ec0e0d0b14723bef3ec571b9a45532bed7b9fec777c2b243"
+    },
+    {
+      "name": "Iron Commando (World) (Steam) (NTSC)",
+      "source": "no_intro",
+      "size": 2097152,
+      "crc32": "cd7c58d4",
+      "md5": "eb8c18ad7c7ea74af694066fd7b10386",
+      "sha1": "c2fff592ab11d610aafd3b805fe2438c5dabb772",
+      "sha256": "48495304ac71a4b3d6b16224302eec2c302a22cb839a8f217a3e4d5f534acdcb"
+    },
+    {
+      "name": "Iron Commando (World) (QUByte Classics) (PAL)",
+      "source": "no_intro",
+      "size": 2097152,
+      "crc32": "0a5b8444",
+      "md5": "879b5f05a04d8d45874b4fdd1332b3ad",
+      "sha1": "ad4de699ce58a380416265fb783dc6f569c24398",
+      "sha256": "0fd594f65c6eb25a672b84083e214847c0b1cf8f169f0c0225895bc836e2b0ff"
+    },
+    {
+      "name": "Iron Commando (World) (v1.1) (Steam) (NTSC)",
+      "source": "no_intro",
+      "size": 2097152,
+      "crc32": "2d911b58",
+      "md5": "22e90c68b9d317c4b2afb1c5de4fe67c",
+      "sha1": "7bcae41459f2ee9cc036b36142cd8f7075e1c3a8",
+      "sha256": "9c6663a4f524ff3e230c3326ac57eddb519eeb8d22b5ac23e52af3d581dd32cd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Iron%20Commando%20-%20Koutetsu%20no%20Senshi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Iron%20Commando%20-%20Koutetsu%20no%20Senshi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Iron%20Commando%20-%20Koutetsu%20no%20Senshi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

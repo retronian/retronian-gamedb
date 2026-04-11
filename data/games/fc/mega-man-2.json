@@ -106,5 +106,178 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mega Man 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "eda2ec37",
+      "md5": "d9cdec84d9e1b74bf189b33e9fef52bb",
+      "sha1": "5da9f2ada948857c9d51f88805eb94d7fa34b9aa",
+      "sha256": "953fa3cb57c1dd62afbd0a390ecbf888a99f7fe14f4d59fdf4ad2b5b1aa3fcd9"
+    },
+    {
+      "name": "Mega Man 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "80e08660",
+      "md5": "302761a666ac89c21f185052d02127d3",
+      "sha1": "54d53b46b961ba8b80ef57309bb0d78995d740a2",
+      "sha256": "9f5fa21062933e89c4f923d7755b6df185b054e84d9b5a6ef54216ac4dd67070"
+    },
+    {
+      "name": "Mega Man 2 (World) (Mega Man Legacy Collection)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "4072a491",
+      "md5": "8d2bd80a536a628725f56de750fa3aa9",
+      "sha1": "61fcaf303709f87df7ab1ae9a225b9934c9d2704",
+      "sha256": "c3eb636aafc683616fede944e0365da7e69147edaa53608f3138aab19036fbe0"
+    },
+    {
+      "name": "Mega Man 2 (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "4a918262",
+      "md5": "ca95e6fbe022fa0ffa99b80e3ff58896",
+      "sha1": "60eb70fac0b3d754deb1cca85e630cda10753e4f",
+      "sha256": "b93381a55e8703b01e964ddf4af3a1fc1e43b3be7ebd0baab768f8a25f7c10a1"
+    },
+    {
+      "name": "Mega Man 2 (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6d073fbc",
+      "md5": "77b51417eb66e8119c85689a093be857",
+      "sha1": "292f46b838b7b642327c9af9b8bfc72863c68a37",
+      "sha256": "70c530a45bc09d52674b3b60da8097e556c31c7140ae456434530120994d79c0"
+    },
+    {
+      "name": "Mega Man 2 (USA) (iam8bit)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 262160,
+      "crc32": "ee8ea65f",
+      "md5": "f3a298f68bd9717bb8a665351da96450",
+      "sha1": "5dce2461ba96859344a2beed35a286f9bfc6553d",
+      "sha256": "5c4097ea01a46e418cb523e9869cbaf02e5097b891d80ba273f8fff79d3243de"
+    },
+    {
+      "name": "Mega Man 2 (USA) (Capcom Town)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "0c60935f",
+      "md5": "98c71e794127b03c4f6c2ccca72cf9d3",
+      "sha1": "ce9d40072a5a475253b8fe89b3462fb086593fe4",
+      "sha256": "62d2a246dbe0b05bc9b1dd46c8b634ed19f408a699de5faa22fbf9cbe7254af6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%202%20%28World%29%20%28Mega%20Man%20Legacy%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%202%20%28World%29%20%28Mega%20Man%20Legacy%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%202%20%28World%29%20%28Mega%20Man%20Legacy%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%202%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%202%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%202%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%202%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%202%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%202%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mega%20Man%202%20%28USA%29%20%28Capcom%20Town%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20Man%202%20%28USA%29%20%28Capcom%20Town%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

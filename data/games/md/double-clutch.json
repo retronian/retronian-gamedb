@@ -18,5 +18,49 @@
     "wikidata": "Q5299678",
     "mobygames": 44520,
     "igdb": 45710
-  }
+  },
+  "roms": [
+    {
+      "name": "Double Clutch (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1063",
+      "size": 262144,
+      "crc32": "d98c623c",
+      "md5": "6f281d1e7aef0b9fd3f38369be7ee1a7",
+      "sha1": "e19905cfcf74185e56fa94ae292f78451c8f4e2e",
+      "sha256": "537d5cc80fecd91a3c2e43e55dd7f2b48a511340da2255e7451b9f77d8a305ea"
+    },
+    {
+      "name": "Double Clutch (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1063-6BU",
+      "size": 262144,
+      "crc32": "43e7a117",
+      "md5": "61d85e388077698807d8afad4bf3e332",
+      "sha1": "0d2abd1a9fe84a77d18f8921fb0709b083140dde",
+      "sha256": "8457669c0f43740bc8c1a80bfcb47da6bef622da72324bbc3746ecc056f55b1d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Double%20Clutch%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Double%20Clutch%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Double%20Clutch%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

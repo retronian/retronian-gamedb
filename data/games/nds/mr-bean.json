@@ -52,5 +52,38 @@
   "external_ids": {
     "wikidata": "Q106855765",
     "igdb": 299837
-  }
+  },
+  "roms": [
+    {
+      "name": "Mr Bean (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YMRP",
+      "size": 16777216,
+      "crc32": "9d68e1ed",
+      "md5": "c0452160d277c24c01f982f7711b50c7",
+      "sha1": "c62f542ef322e7fccfea7a29e5968f5c299b999e",
+      "sha256": "74a349480cf4339c830e439380c842368f887349f10f417eaab0b56d3dd3a77c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mr%20Bean%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mr%20Bean%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mr%20Bean%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -61,5 +61,121 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Neutopia II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 786432,
+      "crc32": "c4ed4307",
+      "md5": "36678d3ec3b9eb534d9807be79587c8c",
+      "sha1": "d916c84955438b6fdfaea5b7696472ce479d4ff1",
+      "sha256": "a7d5b5d1bf9d28af057c921dd80d21a998a5bcd9664694c738d3fbc69dd0295a"
+    },
+    {
+      "name": "Neutopia II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 786432,
+      "crc32": "2b94aedc",
+      "md5": "d04cabf4a80ce7cef46b7700cd469487",
+      "sha1": "d0ac1550b271eaa1d475d2e3829b4b2df0ac9f16",
+      "sha256": "e6a0a0f01de222b28dad80629cb80275b90cb4dfb0e23f26d4d2f0f7c2319cee"
+    },
+    {
+      "name": "Neutopia II (USA, Europe) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 786432,
+      "crc32": "2602eda2",
+      "md5": "53afd4cc91184a984a65a223e24cade3",
+      "sha1": "dafc0193f697aadfa6079b715329569c2344a16b",
+      "sha256": "dbf4730fe1b2facd477f8d65290305d5988dcaea29339dd1cf6b549465ef0717"
+    },
+    {
+      "name": "Neutopia II (Japan) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 786432,
+      "crc32": "769aabc3",
+      "md5": "afb15503c503d3508424c829027a51e0",
+      "sha1": "b57957c478c90679417b216d7d85f4eb82424b5b",
+      "sha256": "5bea446655d9644b01bb330b13deb69a64d98ecbb4024bf31acff9c41a30afa5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Neutopia%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Neutopia%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Neutopia%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Neutopia%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Neutopia%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Neutopia%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Neutopia%20II%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Neutopia%20II%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Neutopia%20II%20%28USA%2C%20Europe%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Neutopia%20II%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Neutopia%20II%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Neutopia%20II%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

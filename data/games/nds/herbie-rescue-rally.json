@@ -26,5 +26,54 @@
     "wikidata": "Q65040645",
     "mobygames": 27447,
     "igdb": 73552
-  }
+  },
+  "roms": [
+    {
+      "name": "Herbie - Rescue Rally (USA) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHQE",
+      "size": 33554432,
+      "crc32": "f601f736",
+      "md5": "b9ddfc86eef40f4d598fe1ccffdd5aa8",
+      "sha1": "f52c37a9a65649a89810bc1804dc724c40245882"
+    },
+    {
+      "name": "Herbie - Rescue Rally (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHQP",
+      "size": 33554432,
+      "crc32": "30dc1c04",
+      "md5": "03fae5febbf6524dbddcc859a61a6bae",
+      "sha1": "61101a190b1c4b6ee4769791a02c5c741165467c",
+      "sha256": "83a9002f7eb9e27eb768977cf62ec63d91efd526c67fccde1a09d7b9ec6f773c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Herbie%20-%20Rescue%20Rally%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Herbie%20-%20Rescue%20Rally%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Herbie%20-%20Rescue%20Rally%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Herbie%20-%20Rescue%20Rally%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

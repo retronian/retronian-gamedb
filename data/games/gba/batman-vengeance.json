@@ -63,5 +63,65 @@
     "wikidata": "Q973343",
     "mobygames": 5190,
     "igdb": 197872
-  }
+  },
+  "roms": [
+    {
+      "name": "Batman - Vengeance (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ABTE",
+      "size": 8388608,
+      "crc32": "9fa17935",
+      "md5": "06a6d7cd07281747cfe0300700a960fd",
+      "sha1": "cde073ffbe21deabdfb8a6d47eb16db14068f468"
+    },
+    {
+      "name": "Batman - Vengeance (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ABTP",
+      "size": 8388608,
+      "crc32": "783ac0c7",
+      "md5": "fffe680eff483b4d4366964eb7a150d8",
+      "sha1": "413d18ee8a41e4b5051ea5bed343edf8e52eeee2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Batman%20-%20Vengeance%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Batman%20-%20Vengeance%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Batman%20-%20Vengeance%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Batman%20-%20Vengeance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Batman%20-%20Vengeance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Batman%20-%20Vengeance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

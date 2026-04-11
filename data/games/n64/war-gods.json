@@ -54,5 +54,67 @@
     "wikidata": "Q1873945",
     "mobygames": 4511,
     "igdb": 3628
-  }
+  },
+  "roms": [
+    {
+      "name": "War Gods (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NWAP",
+      "size": 12582912,
+      "crc32": "c73010c8",
+      "md5": "d25dd15903bdcb7724a2e8a02561987f",
+      "sha1": "c9bdd7e5af853135fc4cbd72e461fc227f7498e3",
+      "sha256": "f6a18d9691aecf0e3491b8dfa67cd83d23464d026d9cb03809ab0b980f21f54f"
+    },
+    {
+      "name": "War Gods (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NWAE",
+      "size": 12582912,
+      "crc32": "ffacf993",
+      "md5": "9ff2ba3c8408de9f0edb6d764a97c197",
+      "sha1": "829c4f0f1caa72a2fbabaee5651e2acc695d3921",
+      "sha256": "7247b79c49474c468e448b5ba58a28f8d1556139bfd08fb19770fad3db8b25f6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/War%20Gods%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/War%20Gods%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/War%20Gods%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/War%20Gods%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/War%20Gods%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/War%20Gods%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

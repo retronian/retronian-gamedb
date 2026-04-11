@@ -18,5 +18,49 @@
     "wikidata": "Q3313279",
     "mobygames": 20211,
     "igdb": 46679
-  }
+  },
+  "roms": [
+    {
+      "name": "Mike Ditka Power Football (USA, Europe) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACLD005-00",
+      "size": 1048576,
+      "crc32": "6078b310",
+      "md5": "0df01daf6765a1c38377210e7957955d",
+      "sha1": "e49b9eb91b2e951efe4509ae8a9a5a083afeb920",
+      "sha256": "2647f66998bf8694f9f9b7e985310bb457816d786328f161384dfdb47048a9ee"
+    },
+    {
+      "name": "Mike Ditka Power Football (USA, Europe) (Unl) (Alt)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACLD005-00",
+      "size": 1048576,
+      "crc32": "de50ca8e",
+      "md5": "60d51185c2a016223139e8e6ed8551ef",
+      "sha1": "e0832fcd63fb164cac66c3df4b5dfb23eecbb0f6",
+      "sha256": "75da4d4d63b26577a2c37b0effc40aece62bf86cb786715f31a5fca9a402ee02"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mike%20Ditka%20Power%20Football%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mike%20Ditka%20Power%20Football%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mike%20Ditka%20Power%20Football%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

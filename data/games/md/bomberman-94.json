@@ -53,5 +53,67 @@
   "external_ids": {
     "wikidata": "Q3141541",
     "mobygames": 9828
-  }
+  },
+  "roms": [
+    {
+      "name": "Mega Bomberman (Europe, Korea) (En)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1573-00",
+      "size": 1048576,
+      "crc32": "54ab3beb",
+      "md5": "5a94b1e8792bb3572db92c2019d99377",
+      "sha1": "01f76e2f719bdae5f21ff0e5a1ac1262c2def279",
+      "sha256": "a89d7025d9496ec8a4814f022f796a2e0c4ab968e15cb8f241a07dde82ace354"
+    },
+    {
+      "name": "Mega Bomberman (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1573-00",
+      "size": 1048576,
+      "crc32": "4bd6667d",
+      "md5": "514f6cad98f5f632d680983a050fffc4",
+      "sha1": "89495a8acbcb0ddcadfe5b7bada50f4d9efd0ddd",
+      "sha256": "95cb73cf9c94bf8343b1814c4df0898aeb127a863ab42274f4f7cdee31fda1e1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega%20Bomberman%20%28Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega%20Bomberman%20%28Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega%20Bomberman%20%28Europe%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega%20Bomberman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega%20Bomberman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega%20Bomberman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

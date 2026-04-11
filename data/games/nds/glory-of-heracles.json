@@ -62,5 +62,75 @@
     "wikidata": "Q5571622",
     "mobygames": 49916,
     "igdb": 21766
-  }
+  },
+  "roms": [
+    {
+      "name": "Glory of Heracles (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YEKE",
+      "size": 134217728,
+      "crc32": "335b5c8e",
+      "md5": "079f4c1fbdf8a7fdc4f0b8f95ac36c8e",
+      "sha1": "6faeaf2a2abb156225691cbbad51159aaa754da6"
+    },
+    {
+      "name": "Glory of Heracles (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "Y5SE",
+      "size": 67108864,
+      "crc32": "e642e353",
+      "md5": "983c847a3a7a15f3ebbc065cc28b494e",
+      "sha1": "802faaad569054fb61d961f6a035e0ac25e59959"
+    },
+    {
+      "name": "Heracles no Eikou - Tamashii no Shoumei (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YEKJ",
+      "size": 134217728,
+      "crc32": "f82ed7d6",
+      "md5": "3de45d03c98c427268a50717aba41c3e",
+      "sha1": "fae4d65b62059c757dcaea166bae8803b0546165"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Glory%20of%20Heracles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Glory%20of%20Heracles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Glory%20of%20Heracles%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Glory%20of%20Heracles%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Heracles%20no%20Eikou%20-%20Tamashii%20no%20Shoumei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Heracles%20no%20Eikou%20-%20Tamashii%20no%20Shoumei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

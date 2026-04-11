@@ -17,5 +17,64 @@
   "external_ids": {
     "wikidata": "Q4546897",
     "mobygames": 52942
-  }
+  },
+  "roms": [
+    {
+      "name": "10-Pin Bowling (USA) (Rumble Version)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "720c7023",
+      "md5": "6b055c6d12e477fbfd7bed1b495d56f7",
+      "sha1": "eb0a65dc3069ae5261b04437ffac5efc12697c2a",
+      "sha256": "d48cece02fb8143b699aa6c2a3c899532f5ea2ea113a3195d69609da6c2b02fe"
+    },
+    {
+      "name": "10-Pin Bowling (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "5449cac0",
+      "md5": "85c0c028e6177cda40401f14d16699f4",
+      "sha1": "90d78bf2f51eed998002d8733d6e223b6478f487"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/10-Pin%20Bowling%20%28USA%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/10-Pin%20Bowling%20%28USA%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/10-Pin%20Bowling%20%28USA%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/10-Pin%20Bowling%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/10-Pin%20Bowling%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/10-Pin%20Bowling%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

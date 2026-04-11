@@ -36,5 +36,48 @@
     "wikidata": "Q3038705",
     "mobygames": 22418,
     "igdb": 24269
-  }
+  },
+  "roms": [
+    {
+      "name": "Dragon Ball GT - Transformation (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 8388608,
+      "crc32": "431bc807",
+      "md5": "c3e17a3c48d7396c08d7ec7738bfd126",
+      "sha1": "58875496c9ab89ba3b769dc47d89ac2839b7cb7f",
+      "sha256": "269f9f4a8d8df4b617cecdeab9db2629545e2703b6aca2cf9854019c59e01d63"
+    },
+    {
+      "name": "Dragon Ball GT - Transformation (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BT4E",
+      "size": 8388608,
+      "crc32": "ad964a91",
+      "md5": "b60abac7fdbf012de5a3c9403ece89e8",
+      "sha1": "8dd4b6e95dca4554a919bff55128481a9a95b611"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dragon%20Ball%20GT%20-%20Transformation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dragon%20Ball%20GT%20-%20Transformation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dragon%20Ball%20GT%20-%20Transformation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

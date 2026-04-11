@@ -27,5 +27,66 @@
     "wikidata": "Q126484775",
     "mobygames": 69284,
     "igdb": 201746
-  }
+  },
+  "roms": [
+    {
+      "name": "Simpsons, The - Road Rage (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A4AE",
+      "size": 8388608,
+      "crc32": "409e8252",
+      "md5": "8f0fdaeda361783ee74abd980b418388",
+      "sha1": "46347f021f0829ef70a4f52a9b8836d444f9551a",
+      "sha256": "8146d3338b05ebf18ac13cbf941ddfec491c7d21be87de10bd2bcbfbdcf37ee0"
+    },
+    {
+      "name": "Simpsons, The - Road Rage (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A4AX",
+      "size": 8388608,
+      "crc32": "44548b33",
+      "md5": "d3a5a53a283de179f8b65b0b5b90d413",
+      "sha1": "7de6cbc559af86dd3c39a80ef89fd4cabe6c0044"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Simpsons%2C%20The%20-%20Road%20Rage%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Simpsons%2C%20The%20-%20Road%20Rage%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Simpsons%2C%20The%20-%20Road%20Rage%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Simpsons%2C%20The%20-%20Road%20Rage%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Simpsons%2C%20The%20-%20Road%20Rage%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Simpsons%2C%20The%20-%20Road%20Rage%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -18,5 +18,67 @@
     "wikidata": "Q2872664",
     "mobygames": 4839,
     "igdb": 3442
-  }
+  },
+  "roms": [
+    {
+      "name": "Automobili Lamborghini (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NLCP",
+      "size": 4194304,
+      "crc32": "3baf58d5",
+      "md5": "7853f02dc66a35bc8c2bc33d03b8f0ca",
+      "sha1": "513c9511539bf2361ff20ee1f19dc03f618b5214",
+      "sha256": "740a878157b15c0cd65e2623dea3ab9c90b6984ad709d8543b7e50f33e88fc62"
+    },
+    {
+      "name": "Automobili Lamborghini (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NLCE",
+      "size": 4194304,
+      "crc32": "a4374eac",
+      "md5": "ec39579f066a9714ff030d07dec3c9d3",
+      "sha1": "78b36b48040426478011caef5e11884af2e80375",
+      "sha256": "cab2467684a58bc19c787423d704a961aa497629763367d9fe691172de58591c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Automobili%20Lamborghini%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Automobili%20Lamborghini%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Automobili%20Lamborghini%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Automobili%20Lamborghini%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Automobili%20Lamborghini%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Automobili%20Lamborghini%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -27,5 +27,65 @@
     "wikidata": "Q18087995",
     "mobygames": 21319,
     "igdb": 135389
-  }
+  },
+  "roms": [
+    {
+      "name": "Mario Golf (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "a132417d",
+      "md5": "71156f1794556acd255ae256d8195e32",
+      "sha1": "ae3aec0d376c1bc5b83ae4c4c1e245c3ab2b9392"
+    },
+    {
+      "name": "Mario Golf (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWXE",
+      "size": 2097152,
+      "crc32": "905ad0cb",
+      "md5": "83f791645ce282093a9d59c121ffc49d",
+      "sha1": "7f2062e51b4fc87378c1d5e6b9578c9277b94e0b",
+      "sha256": "3b6938db5bb58350957cd0dd79daa8c15ab3560913e548588bd6382d2f556b9a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Mario%20Golf%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Mario%20Golf%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Mario%20Golf%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Mario%20Golf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Mario%20Golf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Mario%20Golf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

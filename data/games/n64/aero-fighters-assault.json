@@ -62,5 +62,67 @@
   "external_ids": {
     "wikidata": "Q14761493",
     "mobygames": 4923
-  }
+  },
+  "roms": [
+    {
+      "name": "AeroFighters Assault (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NSAP",
+      "size": 12582912,
+      "crc32": "6a2b08da",
+      "md5": "7558e3da7225712936d3ba3dce210c36",
+      "sha1": "f1057a278a06dcfbc7eb8b6b7679ab879255f977",
+      "sha256": "be4a5d9c32e79334ddbe1611136b6a7c31c1e41a2a1024bbc32eec6632855c4d"
+    },
+    {
+      "name": "AeroFighters Assault (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NERE",
+      "size": 8388608,
+      "crc32": "4370d7e3",
+      "md5": "79fb6e2452af077c5ef1dde5fc810f04",
+      "sha1": "6742f67d7d2639072e186d240237be1c662cb25a",
+      "sha256": "5abd27f2be286d6814d64c76a521a80b2b07d03802a71bc03e61e80a16b27931"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/AeroFighters%20Assault%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/AeroFighters%20Assault%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/AeroFighters%20Assault%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/AeroFighters%20Assault%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/AeroFighters%20Assault%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/AeroFighters%20Assault%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

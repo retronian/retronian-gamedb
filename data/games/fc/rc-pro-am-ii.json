@@ -45,5 +45,65 @@
     "wikidata": "Q2223652",
     "mobygames": 10437,
     "igdb": 9156
-  }
+  },
+  "roms": [
+    {
+      "name": "R.C. Pro-Am II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "4cd4834e",
+      "md5": "44f58bd5da2293323dbe44065414b410",
+      "sha1": "de34135a475b28e15c19925e8efa733336077eeb",
+      "sha256": "d9f608a719565a361872c627a20344fb9c195c9482ccb5267889055e5b6de9f7"
+    },
+    {
+      "name": "R.C. Pro-Am II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "266a2d30",
+      "md5": "9d30fdf79c6e5f128f609c5b07f8381e",
+      "sha1": "d536d1a6d87fa2c9d32f58f76c9545cc506fea8f",
+      "sha256": "2965f53490601f48cf1202ec64949b4c57662fafedda6325a49cdfb32a45cb1e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/R.C.%20Pro-Am%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/R.C.%20Pro-Am%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/R.C.%20Pro-Am%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/R.C.%20Pro-Am%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/R.C.%20Pro-Am%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/R.C.%20Pro-Am%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,107 @@
     "wikidata": "Q2712379",
     "mobygames": 682,
     "igdb": 2621
-  }
+  },
+  "roms": [
+    {
+      "name": "Cool Spot (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70196-00",
+      "size": 1048576,
+      "crc32": "5f09fa41",
+      "md5": "fe5d4230dde728a3f7e0da5cb6c17bc3",
+      "sha1": "b6dc5d4c29b2161f7252828cf267117e726d8e82",
+      "sha256": "4e9d937bf654a32fe8507c57d63ff1bd2e6c0313c9c32a050659f2e621ac926e"
+    },
+    {
+      "name": "Cool Spot (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70196-00",
+      "size": 1048576,
+      "crc32": "f024c1a1",
+      "md5": "74aeac0e83d75842ebee4cb86a89acd1",
+      "sha1": "9a214e0eab58ddb8e9d752e41fce2ce08e6c39a7",
+      "sha256": "1868a42c9e611b9c0970fbb9d403aba77040df241411cb5ef1354f3f034d42d1"
+    },
+    {
+      "name": "Cool Spot (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70196-00",
+      "size": 1048576,
+      "crc32": "0ebaa4a8",
+      "md5": "6b78857672b5cb69e04448adf2569e41",
+      "sha1": "9b42bb33186ddc759a469ed3e0ee12e5dee0b809",
+      "sha256": "27cd8fdfdd41ce2b40ec5f5ee7318a7df43d7846f461e1effae7d3a7c11f3a65"
+    },
+    {
+      "name": "Cool Spot (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-70013-00",
+      "size": 1048576,
+      "crc32": "e869efb1",
+      "md5": "202349abae72c5328b46f75ab0e65d0a",
+      "sha1": "e32826ca9ae5173d5ef9722b52bfcb4ad390a7bb",
+      "sha256": "2d72335e5d7a6e4db0a498451f2f1a0a9a391fa1d7ff9cf17d1b590c7b71a341"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Cool%20Spot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Cool%20Spot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Cool%20Spot%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Cool%20Spot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Cool%20Spot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Cool%20Spot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Cool%20Spot%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Cool%20Spot%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Cool%20Spot%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

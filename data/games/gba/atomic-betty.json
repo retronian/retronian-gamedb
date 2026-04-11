@@ -18,5 +18,48 @@
     "wikidata": "Q2426378",
     "mobygames": 21097,
     "igdb": 6312
-  }
+  },
+  "roms": [
+    {
+      "name": "Atomic Betty (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BETE",
+      "size": 8388608,
+      "crc32": "8919d82c",
+      "md5": "a3dd3b98ad5049503af18f80c84731fc",
+      "sha1": "59e7400802ab634065b9674de3f437ddf8309d6e",
+      "sha256": "e85966aef5fded854a4c1d833f6ef6750a466975402b9f3bd87eead4bc96aa35"
+    },
+    {
+      "name": "Atomic Betty (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 8388608,
+      "crc32": "b79472b8",
+      "md5": "4dba5a79f79b2ce6189a02ce8a0d4fed",
+      "sha1": "1dfa6ad1bdc0ee52b4e53c78f29d92ec208db1b1",
+      "sha256": "b4a4a48e4af993226b4fbb280a322ea1bab2cb8110b82ef26a016a608aa02c41"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Atomic%20Betty%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Atomic%20Betty%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Atomic%20Betty%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

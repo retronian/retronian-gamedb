@@ -96,5 +96,102 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Top Gear 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "531463e1",
+      "md5": "36d99b59148729f751b7231f93d034dc",
+      "sha1": "ef1fc19feed3139b49c9feeb83fbdd98fb402bd9",
+      "sha256": "512a3edff75389c8d7062f652fde2ec5b4311d27fc4f78b1825c649ec381d963"
+    },
+    {
+      "name": "Top Gear 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "2b88bee8",
+      "md5": "c9fc87528511770db888b28a4c506f46",
+      "sha1": "8ac5dab79b319deb525de73f9a51877df7a7ed9f",
+      "sha256": "76b2702c4be8b668c1017f2817c280283c275eaa41535bf6ffa2b8d2220b68c6"
+    },
+    {
+      "name": "Top Racer 2 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "31daebb2",
+      "md5": "bee668bda4ea89744c38582d8f204f36",
+      "sha1": "23f87973fe61b9b0e424aecef65c668aed04bc27",
+      "sha256": "62a85bc929c10c909113b2b84a907372590020f418bd55bfd393092b99f94894"
+    },
+    {
+      "name": "Top Racer 2 (World) (Evercade)",
+      "source": "no_intro",
+      "size": 1572864,
+      "crc32": "f7665eaf",
+      "md5": "c171c495f5e4499c13be0c7f154cccd6",
+      "sha1": "a778ed4b920c6038686e5e5006b7bbb4ba9071a3",
+      "sha256": "3bd3c7d338192b47ba178e1437fb338e55f13df6c8c87aa8f0aa896a98353f50"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Top%20Gear%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Top%20Gear%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Top%20Gear%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Top%20Gear%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Top%20Gear%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Top%20Gear%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Top%20Racer%202%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Top%20Racer%202%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Top%20Racer%202%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

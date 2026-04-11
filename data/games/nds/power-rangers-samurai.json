@@ -54,5 +54,76 @@
     "wikidata": "Q10352270",
     "mobygames": 89795,
     "igdb": 25181
-  }
+  },
+  "roms": [
+    {
+      "name": "Power Rangers - Samurai (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3NE",
+      "size": 33554432,
+      "crc32": "086602c4",
+      "md5": "3b29966b3d9cf5b1ccc83fe1ed24d9d9",
+      "sha1": "fcbbd04f7b4d9c6eb88a4aab73335e30d43b13cf"
+    },
+    {
+      "name": "Power Rangers - Samurai (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3NP",
+      "size": 33554432,
+      "crc32": "20e18ad3",
+      "md5": "840a57125c4eac4d36bdebed78f299f5",
+      "sha1": "78bb871b112ca2dcc70793420d5e5f70c52c7e70",
+      "sha256": "2cd541f11365b1287dda77f8e6bf3e5231b068e71987a317564b57ee5e8cdcd7"
+    },
+    {
+      "name": "Power Rangers - Samurai (USA) (En,Fr,Es) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3NE",
+      "size": 33554432,
+      "crc32": "053cdfde",
+      "md5": "8632d40316bbacd2d3d459611f0e0400",
+      "sha1": "7c7a5fc01fae9041248fe893dde0dbf3d1b4b429",
+      "sha256": "f1fdd6425ff0a77c151de869d1585888de76db2abdff6691fc97089642abdf40"
+    },
+    {
+      "name": "Power Rangers - Samurai (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3NE",
+      "size": 33554432,
+      "crc32": "07983943",
+      "md5": "5e57b7b0d8374a4527c7d15c1167f7f4",
+      "sha1": "8fe884a80f320ac73361a50390ef6894bdf9431e",
+      "sha256": "9f05753045aa4a3ce73608166d48b75fee5a348f1cdc67e155d48f3a8dd2e3f5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Power%20Rangers%20-%20Samurai%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Power%20Rangers%20-%20Samurai%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Power%20Rangers%20-%20Samurai%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Power%20Rangers%20-%20Samurai%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

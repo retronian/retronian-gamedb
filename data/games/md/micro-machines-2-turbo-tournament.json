@@ -72,5 +72,60 @@
     "wikidata": "Q3312023",
     "mobygames": 627,
     "igdb": 8775
-  }
+  },
+  "roms": [
+    {
+      "name": "Micro Machines 2 - Turbo Tournament (Europe) (Beta 2)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "51c9f851",
+      "md5": "0980fec3d90834b4c7656b8a6f9bb394",
+      "sha1": "b845c091379fd24dbe7bf93ae840dfe3b9a60ce4",
+      "sha256": "6716babc20ce337eea23035d98edaaaeca83b591bce9859cf8adc27356b064c7"
+    },
+    {
+      "name": "Micro Machines 2 - Turbo Tournament (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-120096-50",
+      "size": 1048576,
+      "crc32": "42bfb7eb",
+      "md5": "a145194b26c433c8a7159a00bafaba06",
+      "sha1": "ab29077a6a5c2ccc777b0bf22f4d5908401f4d47",
+      "sha256": "57fa3662f589929d180648090104f8c802894602a6f660755121cb44918f382c"
+    },
+    {
+      "name": "Micro Machines 2 - Turbo Tournament (Europe) (Beta 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-120096-50",
+      "size": 1048576,
+      "crc32": "01c22a5d",
+      "md5": "37a2f11d27e7e51e62e98626c88b9094",
+      "sha1": "cb5fb33212592809639b37c2babd72a7953fa102",
+      "sha256": "9209241472f0e78f23405bb265c7c108c25413d9a01ec1455f4e2d17d80c188c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Micro%20Machines%202%20-%20Turbo%20Tournament%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Micro%20Machines%202%20-%20Turbo%20Tournament%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Micro%20Machines%202%20-%20Turbo%20Tournament%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

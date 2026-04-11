@@ -45,5 +45,58 @@
     "wikidata": "Q3028397",
     "mobygames": 19080,
     "igdb": 4430
-  }
+  },
+  "roms": [
+    {
+      "name": "Dino Land (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-32043-00",
+      "size": 524288,
+      "crc32": "6e5aee10",
+      "md5": "24cb8fa645610709e77c9300fa2cfbdc",
+      "sha1": "4a44c558e079893d3a13a5d68d17cf4d59d036f2",
+      "sha256": "41fcad5c5df78c5d0ee198a93d5b81ee7b7efb16bb9f228c12e655b6bddb5de4"
+    },
+    {
+      "name": "Dino Land (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-32043-00",
+      "size": 524288,
+      "crc32": "5fe351b8",
+      "md5": "804c5c0644d9318ba294ee6ef6503933",
+      "sha1": "e55937e48a0c348ba3db731a8722dae7f39dede5",
+      "sha256": "7d03876d67e82beb4bc07141477c57b56e6023eb8226db03121f0a7e97dbf129"
+    },
+    {
+      "name": "Dino Land (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 524288,
+      "crc32": "1996e394",
+      "md5": "c464ef9653cd2e1c9fbcd2603074d63e",
+      "sha1": "6c8518e4a2cdd5396c2f0fe7166ca4175001226c",
+      "sha256": "30a4a49be89460dbbcc90dfb5c9f020eb11053d7617fb4db153071a8e564cb9b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Dino%20Land%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dino%20Land%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dino%20Land%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,53 @@
     "wikidata": "Q1189721",
     "mobygames": 52227,
     "igdb": 166362
-  }
+  },
+  "roms": [
+    {
+      "name": "Harry Potter and the Deathly Hallows - Part 2 (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BU8E",
+      "size": 67108864,
+      "crc32": "19ff3134",
+      "md5": "c2019f643c0f3d8c58847b05d041be92",
+      "sha1": "780720a9b5fe4be2e6e248db2937bf1f663c061f"
+    },
+    {
+      "name": "Harry Potter and the Deathly Hallows - Part 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BU8P",
+      "size": 67108864,
+      "crc32": "ed715dc8",
+      "md5": "892305814c1b5010966d03539f2b0ef5",
+      "sha1": "aff81a4e3bac57283a867fb5abeab31c8449c5e0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harry%20Potter%20and%20the%20Deathly%20Hallows%20-%20Part%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harry%20Potter%20and%20the%20Deathly%20Hallows%20-%20Part%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Harry%20Potter%20and%20the%20Deathly%20Hallows%20-%20Part%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Harry%20Potter%20and%20the%20Deathly%20Hallows%20-%20Part%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

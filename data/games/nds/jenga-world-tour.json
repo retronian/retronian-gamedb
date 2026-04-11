@@ -27,5 +27,54 @@
     "wikidata": "Q6177442",
     "mobygames": 34326,
     "igdb": 4941
-  }
+  },
+  "roms": [
+    {
+      "name": "Jenga - World Tour (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YJEP",
+      "size": 16777216,
+      "crc32": "65778ca6",
+      "md5": "030ff1ffeca2ab6a8193055b528688f7",
+      "sha1": "bd34210e0c799d7089d8d7c8724cbfd36cecabc0",
+      "sha256": "12baf425f816b9c543f6391d32c85dd7991fc043a7e48fa875cc0b4f53557b7e"
+    },
+    {
+      "name": "Jenga - World Tour (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YJEE",
+      "size": 16777216,
+      "crc32": "6243ca3d",
+      "md5": "42325d017db1ae510d7b76d579e35e14",
+      "sha1": "6aeb09318f71b1c44463d5b6818df8ce0748c61f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jenga%20-%20World%20Tour%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jenga%20-%20World%20Tour%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jenga%20-%20World%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jenga%20-%20World%20Tour%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

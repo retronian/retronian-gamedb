@@ -17,5 +17,38 @@
   "external_ids": {
     "wikidata": "Q2560415",
     "mobygames": 36436
-  }
+  },
+  "roms": [
+    {
+      "name": "N+ (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YNXE",
+      "size": 8388608,
+      "crc32": "4133c213",
+      "md5": "21644dbf43016e80bff7030b7faa133c",
+      "sha1": "c171f3866ba5cc73083cffad41b59f0d3ea6d4a5",
+      "sha256": "543f298b8707b1b64fc346c4f9c5c639254db9bd8a566db1847da9b6e71aa905"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/N%2B%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/N%2B%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/N%2B%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

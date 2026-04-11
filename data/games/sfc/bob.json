@@ -62,5 +62,65 @@
   "external_ids": {
     "wikidata": "Q2876628",
     "mobygames": 11625
-  }
+  },
+  "roms": [
+    {
+      "name": "B.O.B. (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "8d56598b",
+      "md5": "164afc89980d3f5bb7a7760bfdf8bc32",
+      "sha1": "81fefad465c138d3aa0b7e38a61daf6576a60a9e",
+      "sha256": "5a054466ffe0694599498b9d94427b25d4f4d55ab4fc1542335f69025e817a3f"
+    },
+    {
+      "name": "B.O.B. (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "4f593c46",
+      "md5": "4691d08167f92779948f067d4b4a612f",
+      "sha1": "8b9efe5107285c776b24241a0a93f54f23a46e09",
+      "sha256": "9e6ebebcf14609c2a38a5f4409d0c8c859949cded70c5b6fd16fd15d9983d9d3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/B.O.B.%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/B.O.B.%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/B.O.B.%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/B.O.B.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/B.O.B.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/B.O.B.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

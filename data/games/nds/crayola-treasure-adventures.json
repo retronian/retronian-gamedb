@@ -27,5 +27,66 @@
     "wikidata": "Q5183046",
     "mobygames": 87802,
     "igdb": 21363
-  }
+  },
+  "roms": [
+    {
+      "name": "Crayola Treasure Adventures (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YCYE",
+      "size": 8388608,
+      "crc32": "3ee1f11f",
+      "md5": "7488ba48cd578edbad49d3777c6dac0f",
+      "sha1": "e00a47d79f5caa0f3b04f283346a08f0266902d6"
+    },
+    {
+      "name": "Crayola Treasure Adventures (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YCYP",
+      "size": 8388608,
+      "crc32": "7a0aa15d",
+      "md5": "b24488c754d562be596092c2684aaf69",
+      "sha1": "59c16926a0fd3172a2d7e5b7f041b6a76102c699",
+      "sha256": "4447983b52f976b7af3093546a21fabaca7de6c2770f8d1f55b2dbd3eeddbaa9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Crayola%20Treasure%20Adventures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Crayola%20Treasure%20Adventures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Crayola%20Treasure%20Adventures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Crayola%20Treasure%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Crayola%20Treasure%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Crayola%20Treasure%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

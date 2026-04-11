@@ -106,5 +106,104 @@
     "wikidata": "Q870981",
     "mobygames": 3546,
     "igdb": 1626
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Smash Bros. (Australia)",
+      "source": "no_intro",
+      "region": "au",
+      "serial": "NALU",
+      "size": 16777216,
+      "crc32": "e96779fa",
+      "md5": "694dea68dbf1c3f06ff0476acf2169e6",
+      "sha1": "a9bf83fe73361e8d042c33ed48b3851d7d46712c"
+    },
+    {
+      "name": "Super Smash Bros. (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NALP",
+      "size": 33554432,
+      "crc32": "45a91cb1",
+      "md5": "5e54c6c563b09c107f86fb33e914ef81",
+      "sha1": "6ee8a41fef66280ce3e3f0984d00b96079442fb9",
+      "sha256": "ddc65284e78c301f764d2f5e1e01de9a017225867a0b9326b73057fb8bdb1daf"
+    },
+    {
+      "name": "Super Smash Bros. (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NALE",
+      "size": 16777216,
+      "crc32": "eb97929e",
+      "md5": "f7c52568a31aadf26e14dc2b6416b2ed",
+      "sha1": "e2929e10fccc0aa84e5776227e798abc07cedabf",
+      "sha256": "15592e79d3c5295cef4371d4992f0bd25bec2102fc29644c93e682f7ea99ef3d"
+    },
+    {
+      "name": "Super Smash Bros. (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 16777216,
+      "crc32": "1c001a5d",
+      "md5": "bf751a6c92d113e3ebdcb2bea6a814d0",
+      "sha1": "a0aea7d219443209c6580a501601d3151c58d3ac"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Super%20Smash%20Bros.%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Super%20Smash%20Bros.%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Super%20Smash%20Bros.%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Super%20Smash%20Bros.%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Super%20Smash%20Bros.%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Super%20Smash%20Bros.%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Super%20Smash%20Bros.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Super%20Smash%20Bros.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Super%20Smash%20Bros.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

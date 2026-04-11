@@ -45,5 +45,65 @@
     "wikidata": "Q2044254",
     "mobygames": 7377,
     "igdb": 7853
-  }
+  },
+  "roms": [
+    {
+      "name": "Solar Jetman - Hunt for the Golden Warpship (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "a5822743",
+      "md5": "7fcd9de3acec2713fad959aae815dc4c",
+      "sha1": "1eb36fcc2acbd7e07c8eb13484d61bc9102e75b0",
+      "sha256": "96d53f951f4a937cc3822a37e7418a94f5101a0317962d564883dc5c02d34efc"
+    },
+    {
+      "name": "Solar Jetman - Hunt for the Golden Warpship (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6979af75",
+      "md5": "cb0b2214d0b86eb73546993993b898c2",
+      "sha1": "54cfee24356a5693d1019b4d8c757354e9e9bf79",
+      "sha256": "6bf88aff6b5a87e2b91c0638edcff9694c8765bb656710e0264ce84355600ec0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Solar%20Jetman%20-%20Hunt%20for%20the%20Golden%20Warpship%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Solar%20Jetman%20-%20Hunt%20for%20the%20Golden%20Warpship%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Solar%20Jetman%20-%20Hunt%20for%20the%20Golden%20Warpship%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Solar%20Jetman%20-%20Hunt%20for%20the%20Golden%20Warpship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Solar%20Jetman%20-%20Hunt%20for%20the%20Golden%20Warpship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Solar%20Jetman%20-%20Hunt%20for%20the%20Golden%20Warpship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

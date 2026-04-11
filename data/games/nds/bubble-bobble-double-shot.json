@@ -45,5 +45,65 @@
     "wikidata": "Q4982192",
     "mobygames": 32300,
     "igdb": 20672
-  }
+  },
+  "roms": [
+    {
+      "name": "Bubble Bobble - Double Shot (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWHP",
+      "size": 16777216,
+      "crc32": "89317d48",
+      "md5": "70a108b658cd421e756c7a239d10f019",
+      "sha1": "9669b487ce5f8d763dbf18592b0478b63eebb6f6"
+    },
+    {
+      "name": "Bubble Bobble - Double Shot (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWHE",
+      "size": 16777216,
+      "crc32": "9dfda3ca",
+      "md5": "a35c72d014fc96100208bccb76ac53f7",
+      "sha1": "f5d709bd38a75c2afe542ad26fc702339e929f94"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bubble%20Bobble%20-%20Double%20Shot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bubble%20Bobble%20-%20Double%20Shot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bubble%20Bobble%20-%20Double%20Shot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bubble%20Bobble%20-%20Double%20Shot%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bubble%20Bobble%20-%20Double%20Shot%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bubble%20Bobble%20-%20Double%20Shot%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -61,5 +61,104 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Pac-In-Time (USA) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "50a15dc8",
+      "md5": "54ef4bb8c3d272af5bb78b4306f37248",
+      "sha1": "282f9bbabd5a57d5e7755e5d00f4d65094f816d5",
+      "sha256": "3470bad66d47167926c52c724f425189b11150241ad28f5ead329fb936ebc746"
+    },
+    {
+      "name": "Pac-In-Time (Japan) (En) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "1a5a38da",
+      "md5": "f898ddf750d2c10675a1c3bb1b306e1b",
+      "sha1": "a804e8fc2614c55154b1a904639244bca6553997",
+      "sha256": "ed129063d4d120b847355924464041a6aeaebe05317a22a88c49beb3f0a8e98d"
+    },
+    {
+      "name": "Pac-In-Time (Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "8690b691",
+      "md5": "e3b7b3649e52ee6aa6fd98baf88d50de",
+      "sha1": "63419fd7af5fe2ba2f26a6cdaad5ed9c399fe44a",
+      "sha256": "8d615843948d6e315b3501d8c3617f198193c22214712eb17fa197d3d5851d9e"
+    },
+    {
+      "name": "Pac-In-Time (Europe) (Rev 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "!none",
+      "size": 262144,
+      "crc32": "7ff79df9",
+      "md5": "fef3cb8003acb11ff75a2201bb517877",
+      "sha1": "f30108b8e422c4b9776c90c884710194508545ea",
+      "sha256": "9727c1b7d9b4e375093d19fc0edd4fb08c1285be9619a6867260062c54da6afb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pac-In-Time%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pac-In-Time%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pac-In-Time%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pac-In-Time%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pac-In-Time%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pac-In-Time%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pac-In-Time%20%28Europe%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pac-In-Time%20%28Europe%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pac-In-Time%20%28Europe%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
   ]
 }

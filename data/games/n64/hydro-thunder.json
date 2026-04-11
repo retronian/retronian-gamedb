@@ -18,5 +18,100 @@
     "wikidata": "Q3143715",
     "mobygames": 4737,
     "igdb": 3370
-  }
+  },
+  "roms": [
+    {
+      "name": "Hydro Thunder (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NHTP",
+      "size": 33554432,
+      "crc32": "863ab8f3",
+      "md5": "434bb8de49011573ac38e893224c5623",
+      "sha1": "0661b1b0e47bc02d9b0d87d1688fd466793c074b"
+    },
+    {
+      "name": "Hydro Thunder (France)",
+      "source": "no_intro",
+      "serial": "NHTF",
+      "size": 33554432,
+      "crc32": "010f6242",
+      "md5": "4b4c85d9dd2d460adafabae8db48b4fa",
+      "sha1": "03fa91aec0819654f1ad0d12bb81ce3f5d7d08ae",
+      "sha256": "ba0bd67caa0968b70f18ca0e62fc2c41efd484d906df29d5d296302fe12c6d6f"
+    },
+    {
+      "name": "Hydro Thunder (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NHTE",
+      "size": 33554432,
+      "crc32": "e744456f",
+      "md5": "54f43e6b68782e98caabea5e7976b2be",
+      "sha1": "f5d5054f97da0d68857f9824130147ec38ee7a76",
+      "sha256": "41703c97b3045ab9bd414a3c36e97617c3309a7695233eddf3e5c252936bc20e"
+    },
+    {
+      "name": "Hydro Thunder (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 33554432,
+      "crc32": "1ec49934",
+      "md5": "3fd29c7f2bc7af39b249d1f13b3e4247",
+      "sha1": "30794eb5c1c6a22fbb9dd530f22d153163a6ccda"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Hydro%20Thunder%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Hydro%20Thunder%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Hydro%20Thunder%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Hydro%20Thunder%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Hydro%20Thunder%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Hydro%20Thunder%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Hydro%20Thunder%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Hydro%20Thunder%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Hydro%20Thunder%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

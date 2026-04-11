@@ -90,5 +90,130 @@
     "wikidata": "Q2709135",
     "mobygames": 8916,
     "igdb": 3619
-  }
+  },
+  "roms": [
+    {
+      "name": "Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)",
+      "source": "no_intro",
+      "serial": "NTHF",
+      "size": 12582912,
+      "crc32": "fb4bea9a",
+      "md5": "fa0f12c15b3655f9f56888c3249b1ced",
+      "sha1": "a9f97e22391313095d2c2fbaf81fb33bfa2ba7c6",
+      "sha256": "5ff7efb853a66959e1a8a96d94942d96ea97d5409769edcb4952db41b0c82a04"
+    },
+    {
+      "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NTHP",
+      "size": 12582912,
+      "crc32": "59574cb9",
+      "md5": "5f2c9e5e39ab09311d96e6c751184b6b",
+      "sha1": "92015e5254cbbad1bc668ecb13a4b568e5f55052"
+    },
+    {
+      "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTHE",
+      "size": 12582912,
+      "crc32": "b9570841",
+      "md5": "b44e9c2d9d2f2de3af4793b824ccf936",
+      "sha1": "982ad2e1e44c6662c88a77367bc5df91c51531bf",
+      "sha256": "b8b0db1259ca80b4397c3c58ef63d38100a69d436ed3f097079eb81d07e764c9"
+    },
+    {
+      "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTHE",
+      "size": 12582912,
+      "crc32": "c81f3321",
+      "md5": "cd61a7fdbd7297733b246204e8360d83",
+      "sha1": "486dbb2e6068065a7b354a21089e889de0970ec8"
+    },
+    {
+      "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NTHP",
+      "size": 12582912,
+      "crc32": "4a1097df",
+      "md5": "e479135de052deebfbf321f935cd357a",
+      "sha1": "a23b2717677047cddf5b7464cb5db7b435173584",
+      "sha256": "d2ae66feb1e1b38d23eb083f337e7be3376c1ddfa195307173f830179d43bf16"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Toy%20Story%202%20-%20Buzz%20l%27Eclair%20a%20la%20Rescousse%21%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Toy%20Story%202%20-%20Buzz%20l%27Eclair%20a%20la%20Rescousse%21%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Toy%20Story%202%20-%20Buzz%20l%27Eclair%20a%20la%20Rescousse%21%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue%21%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue%21%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue%21%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

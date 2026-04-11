@@ -79,5 +79,61 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Ball Z - Hyper Dimension (France)",
+      "source": "no_intro",
+      "size": 3145728,
+      "crc32": "a6dc166b",
+      "md5": "ab22f03f34fd2ae041d48f8bc92e8880",
+      "sha1": "bf132f963c8e09e7f106b6106ce47bad593b2a48",
+      "sha256": "89dddd495d29db4542d45bf4a89d387bf2465eb8d2bd5b300c5397d8b24dc4af"
+    },
+    {
+      "name": "Dragon Ball Z - Hyper Dimension (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "f4ab1557",
+      "md5": "ed18b3c3b148bcafdbe228e27e89bd2d",
+      "sha1": "f52ad7eae80ebd5d102adc554a7b1fbb76fff61b",
+      "sha256": "32226fb8b126261dfec279aea51b2fe01e0c7bfbf26699ddcceb750a0d3a9fc0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Hyper%20Dimension%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Ball%20Z%20-%20Hyper%20Dimension%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Hyper%20Dimension%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Hyper%20Dimension%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Ball%20Z%20-%20Hyper%20Dimension%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Hyper%20Dimension%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

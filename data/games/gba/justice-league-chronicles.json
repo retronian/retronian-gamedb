@@ -18,5 +18,59 @@
     "wikidata": "Q3546928",
     "mobygames": 23772,
     "igdb": 6485
-  }
+  },
+  "roms": [
+    {
+      "name": "Justice League - Chronicles (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AGBJ",
+      "size": 3768320,
+      "crc32": "fdbd4bd0",
+      "md5": "c31cc0664c7152dbe4ce3e41c764850d",
+      "sha1": "7b90ef5b885fd85f639833adb52750381bc9b928",
+      "sha256": "fb68773e466be2e86f054c2f0a3d262da776ba1d72fc15575740389160750b83"
+    },
+    {
+      "name": "Justice League - Chronicles (USA) (Demo)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AGBJ",
+      "size": 425984,
+      "crc32": "4861f9a6",
+      "md5": "05f058ca3a04d54cf6b3b0f3e779f318",
+      "sha1": "76b2a1d6e1437ee8dbb9c10ad1c483b6051ff36a",
+      "sha256": "1dd6c50fef5feede4769b494401c3c663d11b5ce0175154de30eb6fa49a4bad2"
+    },
+    {
+      "name": "Justice League - Chronicles (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BJLE",
+      "size": 8388608,
+      "crc32": "07090f67",
+      "md5": "1b953a635c3b51aecc8d74a5dee826cd",
+      "sha1": "f14a43b51d27ab5cca63ab71b0fdacb0afa1deb9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Justice%20League%20-%20Chronicles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Justice%20League%20-%20Chronicles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Justice%20League%20-%20Chronicles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

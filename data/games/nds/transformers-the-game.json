@@ -65,6 +65,42 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Transformers: Prime – The Game",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Transformers: Prime - El Juego",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Transformers: Prime - The Game",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Transformers: Prime (videogioco)",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2007-06-19",
@@ -72,5 +108,84 @@
     "wikidata": "Q1326987",
     "mobygames": 28833,
     "igdb": 23676
-  }
+  },
+  "roms": [
+    {
+      "name": "Transformers Prime - The Game (Europe) (De,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TPTZ",
+      "size": 134217728,
+      "crc32": "ba74ec4e",
+      "md5": "c35ca61a93eefa5483fa44ba9e503e89",
+      "sha1": "62f3d2788151de1ebd88e2cc87a4b031af209814"
+    },
+    {
+      "name": "Transformers Prime - The Game (United Kingdom)",
+      "source": "no_intro",
+      "serial": "TPTP",
+      "size": 134217728,
+      "crc32": "1d6347a8",
+      "md5": "d2e39e88f65436cbf13f4053d5ead96a",
+      "sha1": "061749b08252f651253ccb557c11d983e8e4d234"
+    },
+    {
+      "name": "Transformers Prime - The Game (Europe) (Fr,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TPTX",
+      "size": 134217728,
+      "crc32": "5e4ff60e",
+      "md5": "13c7d37c11ea5b0d851d8d40a310fe8e",
+      "sha1": "131d2dd8951d52fa1a04d7a6c6fa4582b48a97cd"
+    },
+    {
+      "name": "Transformers Prime - The Game (Europe) (Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TPTY",
+      "size": 134217728,
+      "crc32": "3fc87acb",
+      "md5": "a6bdb692ba5bf3a4345c2ed43cc5f5f7",
+      "sha1": "a080af47109139a48b93d9fe38a3ff9ec5c75b4d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Transformers%20Prime%20-%20The%20Game%20%28Europe%29%20%28De%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Transformers%20Prime%20-%20The%20Game%20%28Europe%29%20%28De%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Transformers%20Prime%20-%20The%20Game%20%28Europe%29%20%28Fr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Transformers%20Prime%20-%20The%20Game%20%28Europe%29%20%28Fr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Transformers%20Prime%20-%20The%20Game%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Transformers%20Prime%20-%20The%20Game%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

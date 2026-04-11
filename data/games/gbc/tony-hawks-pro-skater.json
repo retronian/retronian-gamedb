@@ -72,5 +72,47 @@
     "wikidata": "Q2264782",
     "mobygames": 12752,
     "igdb": 210452
-  }
+  },
+  "roms": [
+    {
+      "name": "Tony Hawk's Pro Skater (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BTFE",
+      "size": 1048576,
+      "crc32": "8d8bb5c4",
+      "md5": "75be6e3561908e705d9e790b34eddb4d",
+      "sha1": "44236627939371a6db564852f0536f969b21595e",
+      "sha256": "a365aa4da19001f6894ce64ba1cf184e9144362353cdf3db3eae49ac8a8a347c"
+    },
+    {
+      "name": "Tony Hawk's Pro Skater (Japan) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "48f17f97",
+      "md5": "a26cfbd01895b12ad64b7191a607fc11",
+      "sha1": "e399c7d67e3bb1f466002f24f60b9c036e234c4e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Tony%20Hawk%27s%20Pro%20Skater%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Tony%20Hawk%27s%20Pro%20Skater%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Tony%20Hawk%27s%20Pro%20Skater%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

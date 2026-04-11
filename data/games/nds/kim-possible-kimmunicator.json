@@ -18,5 +18,65 @@
     "wikidata": "Q106620310",
     "mobygames": 21098,
     "igdb": 47728
-  }
+  },
+  "roms": [
+    {
+      "name": "Kim Possible - Kimmunicator (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AKPE",
+      "size": 16777216,
+      "crc32": "d5c86213",
+      "md5": "7d7582d63bc57d905d2fe9ac50ee86c6",
+      "sha1": "42d123ffa21fcebd615f91345dc8460d3871082e"
+    },
+    {
+      "name": "Kim Possible - Kimmunicator (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AKPP",
+      "size": 16777216,
+      "crc32": "13aab60b",
+      "md5": "1cfb87ed9bcbdc6e5213bc318a6f30c2",
+      "sha1": "0ef6c08d4e84f4f6c7f9b09ee7298d4cfcfa823a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kim%20Possible%20-%20Kimmunicator%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kim%20Possible%20-%20Kimmunicator%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kim%20Possible%20-%20Kimmunicator%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kim%20Possible%20-%20Kimmunicator%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kim%20Possible%20-%20Kimmunicator%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kim%20Possible%20-%20Kimmunicator%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

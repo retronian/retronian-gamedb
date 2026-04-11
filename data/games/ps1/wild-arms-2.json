@@ -71,5 +71,51 @@
     "wikidata": "Q2059084",
     "mobygames": 5886,
     "igdb": 1678
-  }
+  },
+  "roms": [
+    {
+      "name": "Wild Arms - 2nd Ignition (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 652321520,
+      "crc32": "5f74da69",
+      "md5": "ce47e392010fcb9489fcc53bd9711be3",
+      "sha1": "fce7546969ec59950646f2350bd66b55a92df3a5"
+    },
+    {
+      "name": "Wild Arms 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 643874448,
+      "crc32": "0dde642f",
+      "md5": "e476df7e12215837d1bfbb57ed69d771",
+      "sha1": "d8e7e22570ef53c082b54aa028d461547e796f08"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Wild%20Arms%20-%202nd%20Ignition%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Wild%20Arms%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Wild%20Arms%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Wild%20Arms%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

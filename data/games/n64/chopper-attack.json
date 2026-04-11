@@ -53,5 +53,95 @@
     "wikidata": "Q2964476",
     "mobygames": 32231,
     "igdb": 3428
-  }
+  },
+  "roms": [
+    {
+      "name": "Chopper Attack (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NCHP",
+      "size": 8388608,
+      "crc32": "c1dcd7ab",
+      "md5": "8f6bed633be214cf039dbdac356231ce",
+      "sha1": "9688c388384edea0141fc66b20d6d0e5fe2d668f",
+      "sha256": "7f6f4b79dbc80843edc1f9ac67c5e936febcf2d70f93b7434d2698ad8e00b8e2"
+    },
+    {
+      "name": "Chopper Attack (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NCHE",
+      "size": 8388608,
+      "crc32": "aa5d76a9",
+      "md5": "c37e8afb4f3ecc86d01ce7388ca59347",
+      "sha1": "1e3f1c94c806b2699c4e0e941190d468435b9f60",
+      "sha256": "669fd3b75a5fb3db077f76d1cc74fc3396698d208945511567823165e2515f4d"
+    },
+    {
+      "name": "Wild Choppers (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NWCJ",
+      "size": 8388608,
+      "crc32": "d6136dc5",
+      "md5": "f85f2a2b6ca64898f0add2a78ccdccf3",
+      "sha1": "9ed151fce580f875f09cb250d2bb9c18c8d549c0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Chopper%20Attack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Chopper%20Attack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Chopper%20Attack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Chopper%20Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Chopper%20Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Chopper%20Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Wild%20Choppers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Wild%20Choppers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Wild%20Choppers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

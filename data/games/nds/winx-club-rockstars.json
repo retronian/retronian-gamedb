@@ -35,5 +35,74 @@
     "wikidata": "Q4020480",
     "mobygames": 159953,
     "igdb": 25193
-  }
+  },
+  "roms": [
+    {
+      "name": "Winx Club - Rockstars (France)",
+      "source": "no_intro",
+      "serial": "BW3F",
+      "size": 134217728,
+      "crc32": "4313aa47",
+      "md5": "ea8597f1eacc132a8532a8399b0c92db",
+      "sha1": "04c04346b63d7bf03ec0c11f49b969805c4799d9",
+      "sha256": "902484faa244c9522f1a5d2884a45118e84dab1e55b07138848fb9b433af82a2"
+    },
+    {
+      "name": "Winx Club - Rockstars (Germany)",
+      "source": "no_intro",
+      "serial": "BW3D",
+      "size": 134217728,
+      "crc32": "04f62eaa",
+      "md5": "4f5c023858702c1d074dbcc1f3bde47e",
+      "sha1": "201691d98e041e99f35e3617ebb3f4b79d572e7e"
+    },
+    {
+      "name": "Winx Club - Rockstars (Europe) (En,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BW3P",
+      "size": 134217728,
+      "crc32": "ed31493c",
+      "md5": "58d69f0f5c80064088c2cfb31146015f",
+      "sha1": "08749b1f0d670ea0918b33cd0bd22c9c1b00a54a"
+    },
+    {
+      "name": "Winx Club - Rockstars (Italy)",
+      "source": "no_intro",
+      "serial": "BW3I",
+      "size": 134217728,
+      "crc32": "54c2259b",
+      "md5": "51230e7a847e4c6e50f1f1f7d745bd86",
+      "sha1": "91158e0bc43da8e0f3d11dc40d81fc1a64926bb1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Winx%20Club%20-%20Rockstars%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Winx%20Club%20-%20Rockstars%20%28Europe%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Winx%20Club%20-%20Rockstars%20%28Europe%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Winx%20Club%20-%20Rockstars%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Winx%20Club%20-%20Rockstars%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

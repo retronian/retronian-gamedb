@@ -87,5 +87,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Family Boxing (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "8f5c467f",
+      "md5": "0cef020ab2041047d33328ac532b64ba",
+      "sha1": "caeea521c53560bac88e4375da529fe297fc1fe8",
+      "sha256": "8800d57d348af3ac48d0d373718cd571e790618652b2fe5f509e0eaf8a8313c9"
+    },
+    {
+      "name": "Ring King (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "8fa601b1",
+      "md5": "76d1648b93c0393ace5c80395455859b",
+      "sha1": "1dd98b2b9a755341b031f21ea92f624de4dac566",
+      "sha256": "e4b5989bc51d4c970ce52a6bf50c215a1edf58eba025b3882f97b835b3a6b452"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ring%20King%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ring%20King%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ring%20King%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -45,5 +45,57 @@
     "wikidata": "Q3176904",
     "mobygames": 33968,
     "igdb": 23858
-  }
+  },
+  "roms": [
+    {
+      "name": "Jelly Boy (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "f8c72a24",
+      "md5": "c6ce4362e71935aa9b9af2820bb5630a",
+      "sha1": "5b21a7646e0aa768845d42b54a8d8f6e125a8d61",
+      "sha256": "f5e74f09c485d58b444ef2b168d041a1d451056b5feb295901974ca73190dbdb"
+    },
+    {
+      "name": "Jelly Boy (Europe) (Beta 2)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "84381ef4",
+      "md5": "09e8e170f60bddfe113554867ac6d950",
+      "sha1": "5273f8289330875ac872e2ccafcf9f0b0899678e",
+      "sha256": "41b1fd2a9e13b1fec812b85de86b99049d382b73321968366016797c03883dfb"
+    },
+    {
+      "name": "Jelly Boy (Europe) (Beta 1) (NTSC)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "0c130961",
+      "md5": "d79c675d6b5dfc6f4bc28cd1269dfdfa",
+      "sha1": "50c1cdd54967c725a51b629c4a02d82d1abd4e1a",
+      "sha256": "7d29d1058808f90012b9f99f3e4fcb5687a4bbfa1b0ddd1dfe6dd9ab38e1b95b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jelly%20Boy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jelly%20Boy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jelly%20Boy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

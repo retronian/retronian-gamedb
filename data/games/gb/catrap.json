@@ -87,5 +87,63 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Catrap (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "ca3bc888",
+      "md5": "d4a7bd8598b050262ed6f553b45d5b3e",
+      "sha1": "928b9b3cb2ed5e6d6fc754679b3c994f7ed803c3",
+      "sha256": "0bd0b65aedec210a01102d95fd4ff5ccdd6e068916eb6243b66331204d306fae"
+    },
+    {
+      "name": "Catrap (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "adb96150",
+      "md5": "5a75fe8de54e4cbd09cae23f050f6965",
+      "sha1": "171e4d54f22f8dc137d12828fcc2da9874c56970",
+      "sha256": "e796fd4a0f61733b123332b4ec1bed1955dbd4e63a292d0f7703f11c3d23883a"
+    },
+    {
+      "name": "Pitman (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "a0b68136",
+      "md5": "45f764bf05abe6102a641642c71cede3",
+      "sha1": "a698d4bccd69d2ca51cb48877bde5d1f83d4317f",
+      "sha256": "68dc75dc749ae0fa81fe371289fafd53e4a63ff3575c0397da75b60e3b2069e3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Catrap%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Catrap%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Catrap%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Catrap%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

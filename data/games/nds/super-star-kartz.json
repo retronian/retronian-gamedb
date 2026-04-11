@@ -36,5 +36,53 @@
     "wikidata": "Q7642816",
     "mobygames": 86672,
     "igdb": 3672
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Star Kartz (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZAE",
+      "size": 134217728,
+      "crc32": "99a57aa8",
+      "md5": "ee3dd65aa267472ced19f27c2f39fb5b",
+      "sha1": "86095c2c4e1ec2bafbc1013f762c2e5d941d842e"
+    },
+    {
+      "name": "Super Star Kartz (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZAP",
+      "size": 134217728,
+      "crc32": "547f85b6",
+      "md5": "0658a2d66395094dd4f1e25d1725d39f",
+      "sha1": "cf53c034031bce14b7c833e9e3cae2eccdc7e1b8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Star%20Kartz%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Star%20Kartz%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Star%20Kartz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Star%20Kartz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

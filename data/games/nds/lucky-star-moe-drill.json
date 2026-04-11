@@ -62,5 +62,43 @@
   "external_ids": {
     "wikidata": "Q844112",
     "igdb": 72618
-  }
+  },
+  "roms": [
+    {
+      "name": "Lucky Star - Moe Drill (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ARKJ",
+      "size": 67108864,
+      "crc32": "c72d405c",
+      "md5": "928d34db6f9a13f536bca039b1f6ace7",
+      "sha1": "25bac04e5d3d286a2fc6f22cdbaa649fea097e65",
+      "sha256": "7d0b662f6a8712c98025fcad48c38a555f237855ebdee349da3e8e83bc5bcf93"
+    },
+    {
+      "name": "Lucky Star - Moe Drill (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ARKJ",
+      "size": 67108864,
+      "crc32": "a2b1ed7b",
+      "md5": "bc23da35a8e83d19550df160933a1ed4",
+      "sha1": "42a9df00c7978c449065ca8dd38aa6b96aa726de",
+      "sha256": "67c39bad775d99d3ce1055e759c74a63727cb21f803f7442a93eb83272075ad2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Lucky%20Star%20-%20Moe%20Drill%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Lucky%20Star%20-%20Moe%20Drill%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

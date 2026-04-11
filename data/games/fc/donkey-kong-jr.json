@@ -79,5 +79,71 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Donkey Kong Jr. (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "cc56d9a3",
+      "md5": "74f929db0dd04377a00f91ff6175a404",
+      "sha1": "6c25ea2d62cccfd0de63d453aa7c51e8dd3fd3f7",
+      "sha256": "c60148cd9a4b8a6dc6c54cbb8401df69491ae38490f2c41256d1df3e92c22cbf"
+    },
+    {
+      "name": "Donkey Kong Jr. (World) (Rev 1)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "cb42010f",
+      "md5": "bdaabc2e45d1d29d0b6e1cdc10240b9d",
+      "sha1": "25351a86888fb964f0ba57294e6ce64fa63b227c",
+      "sha256": "1bc7fdc98c29b2c51438c3ce92ca37fac61b939a7cf100c644fed37206cf2cf6"
+    },
+    {
+      "name": "Donkey Kong Jr. (World) (Rev 1) (Animal Crossing)",
+      "source": "no_intro",
+      "size": 40976,
+      "crc32": "4be5aa9d",
+      "md5": "9b2e3571f5fd6f1fb2532f7cef2c4657",
+      "sha1": "28f4da908cc98be326ff380f6a07c92cf02e9975",
+      "sha256": "8cb7199de1fc365f10945c2424126468ea8705c341cbd90ed205ab42671e6d79"
+    },
+    {
+      "name": "Donkey Kong Jr. (USA) (Rev 1) (e-Reader)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "bc05039f",
+      "md5": "051ee24f0cd4dab1546a80acbd244346",
+      "sha1": "16dbe553698a09bfded4d8c14e12b5d5e770063f",
+      "sha256": "d949efc589d48d84ba3253f1896fbf94db16eae21fca1af4a91510910d0b105e"
+    },
+    {
+      "name": "Donkey Kong Jr. (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "3faa0e9b",
+      "md5": "2428f36f2a302faa4ae7301704cb4480",
+      "sha1": "43600a0c385ba23e6b94fe5c90dc5e66ebf8d195",
+      "sha256": "5ea9dd966b5ab484d971db54962fde1549451c738d2a0fdf3dd1d56f613a103c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Donkey%20Kong%20Jr.%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Donkey%20Kong%20Jr.%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Donkey%20Kong%20Jr.%20%28World%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

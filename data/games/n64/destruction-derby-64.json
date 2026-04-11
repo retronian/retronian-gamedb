@@ -45,5 +45,78 @@
     "wikidata": "Q3024754",
     "mobygames": 3650,
     "igdb": 10686
-  }
+  },
+  "roms": [
+    {
+      "name": "Destruction Derby 64 (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NDEP",
+      "size": 16777216,
+      "crc32": "7ad9e429",
+      "md5": "bda717ecc8434f12f313342485828b58",
+      "sha1": "eed379520c7fc7d08ebe5a076683bd56f3a0a04f",
+      "sha256": "14d3584daec049d12ba802aa6139a2960a9e0400e04c3cdd7ec971ca25498f10"
+    },
+    {
+      "name": "Destruction Derby 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NDEE",
+      "size": 16777216,
+      "crc32": "38f1b5d9",
+      "md5": "7fccb47498eec06e96ae9372247d1e90",
+      "sha1": "a2c0799e13566d1b723299592cfcac9387f25fa7",
+      "sha256": "91abc085eaf245fc3987442a18dfe00585af615fab61e2306b870e7ff4b9e19c"
+    },
+    {
+      "name": "Destruction Derby 64 (USA) (Beta) (1998-07-31)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "!none",
+      "size": 16777216,
+      "crc32": "a0ff0874",
+      "md5": "749ac5bc4e7f2b17274f6966ddbf6872",
+      "sha1": "6c20de318bd6c96409858be3c09e14ce01b829a9",
+      "sha256": "eead2f3ed135e51794131ddef086264c337879458974a4bad223bdf4c037df0c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Destruction%20Derby%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Destruction%20Derby%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Destruction%20Derby%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Destruction%20Derby%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Destruction%20Derby%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Destruction%20Derby%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

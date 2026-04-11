@@ -38,6 +38,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Grind",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1993-03-01",
@@ -45,5 +54,38 @@
     "wikidata": "Q3116747",
     "mobygames": 31773,
     "igdb": 4420
-  }
+  },
+  "roms": [
+    {
+      "name": "Grind Stormer (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-048256-00",
+      "size": 1048576,
+      "crc32": "7e6bef15",
+      "md5": "0b11fadd7c858144c5b9f890b711b77d",
+      "sha1": "8f93445e2d0b1798f680dda26a3d31f8aee88f01",
+      "sha256": "648ac5ff5763bcfe1121fe7d7b7530ff25207a3069d0f5cfb3b4880e429522db"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Grind%20Stormer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Grind%20Stormer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Grind%20Stormer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,84 @@
     "wikidata": "Q1995635",
     "mobygames": 14515,
     "igdb": 40965
-  }
+  },
+  "roms": [
+    {
+      "name": "Gun.Smoke (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "a32f885c",
+      "md5": "621fd9d940c8491103245dde437581ac",
+      "sha1": "45d6fa01ad9067dc392f2f92a4d669112a8ff980",
+      "sha256": "70f1fa23dcefc9597df37bc56cd29e8487f9878381a50f090aead50bc6e0bf05"
+    },
+    {
+      "name": "Gun.Smoke (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "fc48fc3c",
+      "md5": "071cee3611e37dfb58fab341bed5e8c6",
+      "sha1": "57daceeb93cb53c27661a02d8f8e8345b708b632",
+      "sha256": "8378a94225bbd0be905dd100145de3a0fcd38d17dc4f23d0c1585e6695005395"
+    },
+    {
+      "name": "Gun.Smoke (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "3aaeed9e",
+      "md5": "7e2a00d244b2aaeed389968a9a7a05b8",
+      "sha1": "7420dfd42590a1ce06b1ccf940d74a3fdc0c6232",
+      "sha256": "65adc5de3daa014e32f2101482411eec8c5a021fbc6c2b84bcf792bbb7a7a294"
+    },
+    {
+      "name": "Gun.Smoke (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "48fe2794",
+      "md5": "11bc4bcc15fa28a8fc1c17d9eca21518",
+      "sha1": "969376d03d31706c738fc5cc974c1e5e77b4166a",
+      "sha256": "82bff5811dc8b231db95b1632e3e23ce1171aff8ada1f2c25922c134088611a8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gun.Smoke%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gun.Smoke%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gun.Smoke%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gun.Smoke%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gun.Smoke%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gun.Smoke%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -18,5 +18,67 @@
     "wikidata": "Q3178198",
     "mobygames": 21506,
     "igdb": 6643
-  }
+  },
+  "roms": [
+    {
+      "name": "Tony Hawk's American Sk8land (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AH9E",
+      "size": 67108864,
+      "crc32": "eaa5b049",
+      "md5": "dd0eb1bd9bccb31b5278c08939f8222c",
+      "sha1": "017b8307f3b8b4ddd03ef23b82a951da49bbb122",
+      "sha256": "0256a27d15fe08c2b5910da7264c06f192426cbb208bc86c7de63630c7db0b1f"
+    },
+    {
+      "name": "Tony Hawk's American Sk8land (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AH9P",
+      "size": 67108864,
+      "crc32": "ea283807",
+      "md5": "facbeef728ee84a7144f1b84efd086a0",
+      "sha1": "95306dedd1e5712fc6c426026183a83346e073ee",
+      "sha256": "c2030edbadf54d7ccf9cb6ecc1fafc9e6e6e145a381e1d747dbac7a9df31a40e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tony%20Hawk%27s%20American%20Sk8land%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tony%20Hawk%27s%20American%20Sk8land%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tony%20Hawk%27s%20American%20Sk8land%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tony%20Hawk%27s%20American%20Sk8land%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tony%20Hawk%27s%20American%20Sk8land%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tony%20Hawk%27s%20American%20Sk8land%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

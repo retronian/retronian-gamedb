@@ -18,5 +18,48 @@
     "wikidata": "Q3284336",
     "mobygames": 9150,
     "igdb": 3415
-  }
+  },
+  "roms": [
+    {
+      "name": "Rat Attack (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NRTP",
+      "size": 8388608,
+      "crc32": "dd4fa798",
+      "md5": "bc66239c12ae8696926e50c2b6ed9c49",
+      "sha1": "b27e328f7600b7a2e175e4a36d8c85073eaf4d0e",
+      "sha256": "4c10cba5a2017a021ea87b5e39865097cf14a79c9c532a2af0cc8c8625284a25"
+    },
+    {
+      "name": "Rat Attack! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NRTE",
+      "size": 8388608,
+      "crc32": "2315fea7",
+      "md5": "f661889fdf65ddcd212e9fb53b2c8f50",
+      "sha1": "0682b6745832984f43652c0589e4ecf37f937790"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Rat%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Rat%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Rat%20Attack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

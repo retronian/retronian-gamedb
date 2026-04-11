@@ -72,5 +72,65 @@
     "wikidata": "Q2669942",
     "mobygames": 48590,
     "igdb": 17463
-  }
+  },
+  "roms": [
+    {
+      "name": "Final Fantasy - The 4 Heroes of Light (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BFXE",
+      "size": 67108864,
+      "crc32": "817bd661",
+      "md5": "ea9a9eae88f65d616d22a12de7eada3c",
+      "sha1": "8d5f999f6932e94ed17454995377bb7b2fb51081"
+    },
+    {
+      "name": "Final Fantasy - The 4 Heroes of Light (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BFXP",
+      "size": 67108864,
+      "crc32": "9214edfb",
+      "md5": "01d5b15a0ecb1c5d2b3d02bcb147fdfd",
+      "sha1": "06a564fc71e8a6d73582b8ace2eed292046b7b3f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Final%20Fantasy%20-%20The%204%20Heroes%20of%20Light%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Final%20Fantasy%20-%20The%204%20Heroes%20of%20Light%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Final%20Fantasy%20-%20The%204%20Heroes%20of%20Light%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Final%20Fantasy%20-%20The%204%20Heroes%20of%20Light%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Final%20Fantasy%20-%20The%204%20Heroes%20of%20Light%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Final%20Fantasy%20-%20The%204%20Heroes%20of%20Light%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

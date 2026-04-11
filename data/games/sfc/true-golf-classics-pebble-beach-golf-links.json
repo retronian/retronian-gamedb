@@ -54,5 +54,65 @@
     "wikidata": "Q3373888",
     "mobygames": 33405,
     "igdb": 4533
-  }
+  },
+  "roms": [
+    {
+      "name": "True Golf Classics - Pebble Beach Golf Links (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "eeede683",
+      "md5": "be5dee6c1f4f9089413ba10b09659d12",
+      "sha1": "ca308e834ed8e97ba37385e5507456e409ee4e3e",
+      "sha256": "19eb596685ac26c022e449f5b66ea83e55241e2777a9a9ae00910d4221ef21c4"
+    },
+    {
+      "name": "True Golf Classics - Pebble Beach Golf Links (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "18c5ad58",
+      "md5": "64ffff21336552d2da953a6a464f2488",
+      "sha1": "7a868cf0c9eb21d812a4ba471615c3237b394db7",
+      "sha256": "5c7b28bb24bad697156ad444ff23bd15ad6744dbf9899b3cccf2aa36d559d825"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/True%20Golf%20Classics%20-%20Pebble%20Beach%20Golf%20Links%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/True%20Golf%20Classics%20-%20Pebble%20Beach%20Golf%20Links%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/True%20Golf%20Classics%20-%20Pebble%20Beach%20Golf%20Links%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/True%20Golf%20Classics%20-%20Pebble%20Beach%20Golf%20Links%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/True%20Golf%20Classics%20-%20Pebble%20Beach%20Golf%20Links%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/True%20Golf%20Classics%20-%20Pebble%20Beach%20Golf%20Links%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

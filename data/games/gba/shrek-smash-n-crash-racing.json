@@ -45,5 +45,65 @@
     "wikidata": "Q1776014",
     "mobygames": 25082,
     "igdb": 248506
-  }
+  },
+  "roms": [
+    {
+      "name": "Shrek - Smash n' Crash Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B4IE",
+      "size": 8388608,
+      "crc32": "ea8ae3b2",
+      "md5": "b13292b1d67976f9abf8a318743e88d5",
+      "sha1": "a7bab40d1e4e1348e95458ba2e6252562b360d38"
+    },
+    {
+      "name": "Shrek - Smash n' Crash Racing (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B4IP",
+      "size": 8388608,
+      "crc32": "a45857c4",
+      "md5": "b7bd37b2b39b8aaad6f297423db2d2a2",
+      "sha1": "6ecf2663c30491fa99ccea3e202d1ff5d0d498c8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shrek%20-%20Smash%20n%27%20Crash%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shrek%20-%20Smash%20n%27%20Crash%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shrek%20-%20Smash%20n%27%20Crash%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shrek%20-%20Smash%20n%27%20Crash%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shrek%20-%20Smash%20n%27%20Crash%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shrek%20-%20Smash%20n%27%20Crash%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -47,6 +47,33 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "G.I. Joe: The Atlantis Factor",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "G.I. Joe: The Atlantis Factor",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "GI Joe: The Atlantis Factor",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1991-01-01",
@@ -54,5 +81,57 @@
     "wikidata": "Q5512049",
     "mobygames": 26157,
     "igdb": 8166
-  }
+  },
+  "roms": [
+    {
+      "name": "G.I. Joe - The Atlantis Factor (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "a8d166a4",
+      "md5": "2d3a603b580c41dd7a81a14b91f79267",
+      "sha1": "f1e511789b5a9dc039bd79b853307432e68de5b0",
+      "sha256": "6a94c5741edc51ee199ca24c4f11768409784978c64d13d2ec4a9375d63274dc"
+    },
+    {
+      "name": "G.I. Joe - The Atlantis Factor (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "b9831b05",
+      "md5": "d68d0fa4439154c69ca153216ceefaae",
+      "sha1": "2b7ed939ebde73eda5fd6efdc4051f6ab1a1079a",
+      "sha256": "806ae208333795175c80b88bb1ae69b4809910044f337179057ca21ad5207041"
+    },
+    {
+      "name": "G.I. Joe - The Atlantis Factor (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "3530bd6c",
+      "md5": "9eed66580e109ffa6670a119a77adc72",
+      "sha1": "911c59cdd359587103d528984a04fe7b59c9f092",
+      "sha256": "e0fbaecf7f91f925ff1a0b696d00caa1c51cda9d9bd43d810ba7490f702a174a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/G.I.%20Joe%20-%20The%20Atlantis%20Factor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/G.I.%20Joe%20-%20The%20Atlantis%20Factor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/G.I.%20Joe%20-%20The%20Atlantis%20Factor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

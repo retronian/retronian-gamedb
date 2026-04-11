@@ -18,5 +18,66 @@
     "wikidata": "Q3421557",
     "mobygames": 4388,
     "igdb": 209280
-  }
+  },
+  "roms": [
+    {
+      "name": "Ready 2 Rumble Boxing - Round 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AR2E",
+      "size": 4194304,
+      "crc32": "5dfcc5e5",
+      "md5": "ba428f9d19ecad3a4297b8e23481e6b0",
+      "sha1": "d6114cd4bb6b580437c5c2d6e4c3a51eaa0de76e"
+    },
+    {
+      "name": "Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AR2P",
+      "size": 4194304,
+      "crc32": "e418e962",
+      "md5": "ed8221d6853e1c7b070866d3ca3267ea",
+      "sha1": "57d06e405b281f68800b986bd9ff1257e4466939",
+      "sha256": "4bd8430697bb5ff3a98ad48d8ecf2183f2c5b43e06ab730e243acf3592c59b9e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ready%202%20Rumble%20Boxing%20-%20Round%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ready%202%20Rumble%20Boxing%20-%20Round%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ready%202%20Rumble%20Boxing%20-%20Round%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Ready%202%20Rumble%20Boxing%20-%20Round%202%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Ready%202%20Rumble%20Boxing%20-%20Round%202%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Ready%202%20Rumble%20Boxing%20-%20Round%202%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

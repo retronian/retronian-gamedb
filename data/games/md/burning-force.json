@@ -45,5 +45,88 @@
     "wikidata": "Q2928561",
     "mobygames": 16912,
     "igdb": 39492
-  }
+  },
+  "roms": [
+    {
+      "name": "Burning Force (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1029-00",
+      "size": 524288,
+      "crc32": "776ff6ff",
+      "md5": "623b2c54f05869ffb3aac936f4a4182a",
+      "sha1": "a25930ee55a2d88838e3999fb5939d9392fd0efa",
+      "sha256": "912165569bb570188812dc9587f356af24636f7c17aedbe543bbd27145967489"
+    },
+    {
+      "name": "Burning Force (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-14023-00",
+      "size": 524288,
+      "crc32": "0c1deb47",
+      "md5": "62e665f85281a33fb17cecd27674684a",
+      "sha1": "8849253262f545fbaf6140bfa5ca67a3caac9a80",
+      "sha256": "e4b2308b4719b6e572eaf7ad244e0a8a8ac46e201b1ac46c1bb7038e990f1552"
+    },
+    {
+      "name": "Burning Force (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-14026-00",
+      "size": 524288,
+      "crc32": "bdc8f02c",
+      "md5": "da536d20ac0f0e3a62d9709078690032",
+      "sha1": "28fcb1c9b5c72255443ab5bb950a52030baaf409",
+      "sha256": "dad854a5e2dc5ae9f74038cbb250ec6ca346adc61ca5c635459f5ce48e9197d0"
+    },
+    {
+      "name": "Burning Force (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-14026-00",
+      "size": 561120,
+      "crc32": "0c8581f7",
+      "md5": "95b9bfe4bd860f67897078672c558f3e",
+      "sha1": "92cc7f21a76ea4e6894dc2e1395798f24182249e",
+      "sha256": "597bd77b816bd32afcd2b0ea1dd4684da223523d64046d3beace476b7b494a4e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Burning%20Force%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Burning%20Force%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Burning%20Force%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Burning%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Burning%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Burning%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -62,5 +62,47 @@
     "wikidata": "Q3001971",
     "mobygames": 25701,
     "igdb": 48292
-  }
+  },
+  "roms": [
+    {
+      "name": "Crackout (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "951cf0a8",
+      "md5": "bb5631615060753fafcfb1dc67000049",
+      "sha1": "90c707fa69ad52ad173bb347b46cab6e4d83e36a",
+      "sha256": "bda5db6ab7e6f83d9b3cd6167244d7ab971fd243df24a2e51f22b34979f2e5e3"
+    },
+    {
+      "name": "Crackout (USA) (Proto) (PAL)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "6a287054",
+      "md5": "9c2675b91eb43f971e69568d231161a4",
+      "sha1": "4f6bf2d04f34693375a7a22e1fe14c61a07f9b38",
+      "sha256": "2f088bc086448d2c5548d2512f3f8554394b9ec661967c7665ab9b69c67e7fc5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Crackout%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Crackout%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Crackout%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

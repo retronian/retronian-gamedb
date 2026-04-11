@@ -36,5 +36,48 @@
     "wikidata": "Q10381711",
     "mobygames": 10102,
     "igdb": 19421
-  }
+  },
+  "roms": [
+    {
+      "name": "Powerpuff Girls, The - Chemical X-Traction (USA) (Beta) (2001-09-27)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NPQE",
+      "size": 8388608,
+      "crc32": "f53f1c36",
+      "md5": "11bd90afe31992f1f5e7e25433fe8d52",
+      "sha1": "6cb8b06bfbbd765103c091a402cdc4053f05fa7a",
+      "sha256": "697e9388a015a8a3d3823e234048e5e1e48b66c26d4f7bb090fd9bcac614ea12"
+    },
+    {
+      "name": "Powerpuff Girls, The - Chemical X-Traction (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NPQE",
+      "size": 8388608,
+      "crc32": "9514da0a",
+      "md5": "2991bb68eca54813d6b834adbbbacc4c",
+      "sha1": "88e2032997cb884af31a7380fabac0d0a5360892"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Powerpuff%20Girls%2C%20The%20-%20Chemical%20X-Traction%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Powerpuff%20Girls%2C%20The%20-%20Chemical%20X-Traction%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Powerpuff%20Girls%2C%20The%20-%20Chemical%20X-Traction%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -20,11 +20,62 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Jackie Chan Adventures",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Jackie Chan Adventures",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2001-01-01",
   "external_ids": {
     "wikidata": "Q24935617",
-    "igdb": 8155
-  }
+    "igdb": 8155,
+    "mobygames": 6309
+  },
+  "roms": [
+    {
+      "name": "Jackie Chan Adventures - Legend of the Dark Hand (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AJCE",
+      "size": 4194304,
+      "crc32": "13247954",
+      "md5": "863bb2f057959ec7b21aa0174c817fa9",
+      "sha1": "f6f5c7bc566269530ddb13b76fc3d05cc22c11e3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jackie%20Chan%20Adventures%20-%20Legend%20of%20the%20Dark%20Hand%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jackie%20Chan%20Adventures%20-%20Legend%20of%20the%20Dark%20Hand%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jackie%20Chan%20Adventures%20-%20Legend%20of%20the%20Dark%20Hand%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

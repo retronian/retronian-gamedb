@@ -18,5 +18,79 @@
     "wikidata": "Q130641562",
     "mobygames": 25407,
     "igdb": 47777
-  }
+  },
+  "roms": [
+    {
+      "name": "Dogz (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AKKE",
+      "size": 16777216,
+      "crc32": "5059dda8",
+      "md5": "1b4ab847410c40265a9bfac1a2a217f6",
+      "sha1": "b00ab2976356c798658d2e20dafaf9b34e588f50"
+    },
+    {
+      "name": "Dogz (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AKKX",
+      "size": 33554432,
+      "crc32": "f84f604c",
+      "md5": "2ffa277b38af8b54d99e7939187ac4a5",
+      "sha1": "459744b20f29537e6f3ad839813455625ebd39a9"
+    },
+    {
+      "name": "Dogz (United Kingdom)",
+      "source": "no_intro",
+      "serial": "AKKP",
+      "size": 16777216,
+      "crc32": "456405a1",
+      "md5": "bdefd29c241c207d028ea856ce9ce73b",
+      "sha1": "1f2dd15fe36cf2ff48cfe6870c0f1086861284f8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dogz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dogz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dogz%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dogz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dogz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dogz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dogz%20%28United%20Kingdom%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

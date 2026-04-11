@@ -60,5 +60,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Daikoukai Jidai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 655376,
+      "crc32": "0ac2d45c",
+      "md5": "7520f16bf80a58cab28f1c6aadfa9c57",
+      "sha1": "30ed5fe0b37043da75e9b7b52c8a824dda57e7cb",
+      "sha256": "75a518f0499c75c3843f5b32e67e6509090ba225818e90d15bf2a429d82f48e1"
+    },
+    {
+      "name": "Uncharted Waters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 655376,
+      "crc32": "58570ace",
+      "md5": "fbc0b8844db48ab0fbf7825524f775ef",
+      "sha1": "1e455c5bdce08b971e911f2211744b9e434ba94d",
+      "sha256": "8534d65168c926deb601f12df524b686c77efb63b9c9ab01485ed1db91894a6f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Daikoukai%20Jidai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Daikoukai%20Jidai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Daikoukai%20Jidai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Uncharted%20Waters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Uncharted%20Waters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Uncharted%20Waters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

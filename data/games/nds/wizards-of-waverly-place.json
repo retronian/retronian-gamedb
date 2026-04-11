@@ -35,5 +35,53 @@
   "external_ids": {
     "wikidata": "Q8028782",
     "igdb": 44065
-  }
+  },
+  "roms": [
+    {
+      "name": "Wizards of Waverly Place (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CY7E",
+      "size": 67108864,
+      "crc32": "3aedc2bc",
+      "md5": "d0b1b5e58407c5a5bcd9e823924119c9",
+      "sha1": "f8be95a33dc78236ba0803803d230d486363fd2a"
+    },
+    {
+      "name": "Wizards of Waverly Place (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CY7P",
+      "size": 67108864,
+      "crc32": "cb59890d",
+      "md5": "c41d89916851c2dde0233431657bd282",
+      "sha1": "40fa4114f0d150e4fd31aeeefff339fbdace8a59"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wizards%20of%20Waverly%20Place%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wizards%20of%20Waverly%20Place%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wizards%20of%20Waverly%20Place%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wizards%20of%20Waverly%20Place%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

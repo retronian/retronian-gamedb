@@ -63,5 +63,65 @@
     "wikidata": "Q5049075",
     "mobygames": 58548,
     "igdb": 83245
-  }
+  },
+  "roms": [
+    {
+      "name": "Casper (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACSE",
+      "size": 4194304,
+      "crc32": "9f905e60",
+      "md5": "a6c803e0887f46db78bdf095628ed7de",
+      "sha1": "75392d01815d807f8fbd6846469d5d535a6aeeda"
+    },
+    {
+      "name": "Casper (Europe) (En,Fr,De,Es,It,Nl,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACSP",
+      "size": 4194304,
+      "crc32": "ddaf8bac",
+      "md5": "3bc985416f6229eb8c51457c51a64f6d",
+      "sha1": "2321b90c04690e8e4973a4495d25c9197ab5bfcc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Casper%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Casper%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Casper%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Casper%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Casper%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Casper%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

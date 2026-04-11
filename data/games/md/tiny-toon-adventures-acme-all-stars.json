@@ -54,5 +54,67 @@
     "wikidata": "Q2566266",
     "mobygames": 13897,
     "igdb": 8052
-  }
+  },
+  "roms": [
+    {
+      "name": "Tiny Toon Adventures - ACME All-Stars (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-95146-00",
+      "size": 1048576,
+      "crc32": "1227b2b2",
+      "md5": "abddd42b2548e9b708991f689d726c9a",
+      "sha1": "2672018d9e005a9a3b5006fa8f61e08f2d1909aa",
+      "sha256": "e38113ee5d8279e06d10c5d0def574d1ac9a68d436f782d1dc11d79283298d9d"
+    },
+    {
+      "name": "Tiny Toon Adventures - ACME All-Stars (USA, Korea) (En)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95146-00",
+      "size": 1048576,
+      "crc32": "2f9faa1d",
+      "md5": "1def1d7dbe4ab6b9e1fc90093292de6a",
+      "sha1": "d64736a69fca430fc6a84a60335add0c765feb71",
+      "sha256": "796c0297bbd6053372e8aa030f4203e113567309f3f6ac4f6a1b6edae2657339"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Tiny%20Toon%20Adventures%20-%20ACME%20All-Stars%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Tiny%20Toon%20Adventures%20-%20ACME%20All-Stars%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Tiny%20Toon%20Adventures%20-%20ACME%20All-Stars%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Tiny%20Toon%20Adventures%20-%20ACME%20All-Stars%20%28USA%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Tiny%20Toon%20Adventures%20-%20ACME%20All-Stars%20%28USA%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Tiny%20Toon%20Adventures%20-%20ACME%20All-Stars%20%28USA%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

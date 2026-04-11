@@ -90,5 +90,96 @@
     "wikidata": "Q2553128",
     "mobygames": 21714,
     "igdb": 1109
-  }
+  },
+  "roms": [
+    {
+      "name": "Metroid Prime Pinball (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AP2P",
+      "size": 33554432,
+      "crc32": "685897b3",
+      "md5": "c0ddb553111b0971be539e563a896142",
+      "sha1": "788aed806b117bca9b6f14809acda04409aed781",
+      "sha256": "e00f3343f1337c759049ba7f402983339141ed1304912442fe9eb7344d1c8838"
+    },
+    {
+      "name": "Metroid Prime Pinball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AP2E",
+      "size": 33554432,
+      "crc32": "ae000914",
+      "md5": "a773db21d5641f810f076b366485c496",
+      "sha1": "3f790c7e1f22c99315549ed5cb8ffb30f76a159c",
+      "sha256": "5d78da79329bdc1c458fd9cd54237c0985fd4773844293e537ed8f3b4719ae29"
+    },
+    {
+      "name": "Metroid Prime Pinball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AP2J",
+      "size": 33554432,
+      "crc32": "68d2be38",
+      "md5": "4573489308f55d72a43688173a83aec0",
+      "sha1": "b1891bdd475b924f67d16b55e48eac10d6ef86a1",
+      "sha256": "c211c0d0b7f812c82da0bbc0aaa37330675cc0e29e1c5b95df2a6d8864c172c5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Metroid%20Prime%20Pinball%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Metroid%20Prime%20Pinball%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Metroid%20Prime%20Pinball%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Metroid%20Prime%20Pinball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Metroid%20Prime%20Pinball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Metroid%20Prime%20Pinball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Metroid%20Prime%20Pinball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Metroid%20Prime%20Pinball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Metroid%20Prime%20Pinball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

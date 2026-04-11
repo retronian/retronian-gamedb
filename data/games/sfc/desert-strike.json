@@ -72,5 +72,65 @@
     "wikidata": "Q1200598",
     "mobygames": 1461,
     "igdb": 6798
-  }
+  },
+  "roms": [
+    {
+      "name": "Desert Strike - Return to the Gulf (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "8eed024a",
+      "md5": "bdb5b1ba9afe27a7f1d3fe483253566b",
+      "sha1": "4333d7bdbde75857835d9cd242454f479c6c1600",
+      "sha256": "793d755dd2e43ee4e36434edec2983f19545403eb848a54a14cac6f492033a52"
+    },
+    {
+      "name": "Desert Strike - Return to the Gulf (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "4ce26787",
+      "md5": "73d7d5b5088b67de482cfcea40640d40",
+      "sha1": "b9f0e2cfac1ee39140cd495c8e9de99bc6d9d3e1",
+      "sha256": "606abf536440173ae36466db360c7db6b474beb7a105c8a62bc74a54cbe1c38b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Desert%20Strike%20-%20Return%20to%20the%20Gulf%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Desert%20Strike%20-%20Return%20to%20the%20Gulf%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Desert%20Strike%20-%20Return%20to%20the%20Gulf%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Desert%20Strike%20-%20Return%20to%20the%20Gulf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Desert%20Strike%20-%20Return%20to%20the%20Gulf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Desert%20Strike%20-%20Return%20to%20the%20Gulf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -63,5 +63,65 @@
     "wikidata": "Q54846",
     "mobygames": 17831,
     "igdb": 166484
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars - Episode III - Revenge of the Sith (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASTP",
+      "size": 33554432,
+      "crc32": "3f3f7dc8",
+      "md5": "8ad8bbff943d74e98a62e29993210901",
+      "sha1": "c28548e8aca4228b0a9979fe41f56a75afb21dc0"
+    },
+    {
+      "name": "Star Wars - Episode III - Revenge of the Sith (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASTE",
+      "size": 33554432,
+      "crc32": "905f8907",
+      "md5": "29acf58d71e8109fe3e1e8877bd426d3",
+      "sha1": "d45fdccc22ad2aa5256b86cfe36fe1e85a595043"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

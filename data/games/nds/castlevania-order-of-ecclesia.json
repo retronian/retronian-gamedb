@@ -98,5 +98,106 @@
     "wikidata": "Q2452886",
     "mobygames": 37067,
     "igdb": 1141
-  }
+  },
+  "roms": [
+    {
+      "name": "Akumajou Dracula - Ubawareta Kokuin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YR9J",
+      "size": 67108864,
+      "crc32": "cfaed479",
+      "md5": "e41352dcdaeca96f9f30f705f21979e5",
+      "sha1": "33af5d6dc9fc2bb1c890d63d2e11cb959055748b",
+      "sha256": "502d672335abbef1ef1ef181c606c59fcb9fcaec05159ac15c88aa72c191a283"
+    },
+    {
+      "name": "Castlevania - Order of Ecclesia (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YR9P",
+      "size": 67108864,
+      "crc32": "f7b9390d",
+      "md5": "2b9dc9b44cce2e786fdf1ff8d45d667c",
+      "sha1": "b62e2d0cd63bdb16e32f2d4a1d0ac90a242c8481"
+    },
+    {
+      "name": "Castlevania - Order of Ecclesia (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YR9E",
+      "size": 67108864,
+      "crc32": "a7612d61",
+      "md5": "e13bdcf706989486df939556eeb42ece",
+      "sha1": "f9ebf006a489b8c9391e8d1fd05ec6b9cef6fd7b",
+      "sha256": "9525838929f3d11f34e52fdb7ae3ccddafdaf00995170117da963124522a28d4"
+    },
+    {
+      "name": "Castlevania - Order of Ecclesia (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "YR9K",
+      "size": 67108864,
+      "crc32": "be134c8f",
+      "md5": "d7bfcfbff2f3ce97c03c500e6186b3fd",
+      "sha1": "94eedc3a9a9f816aa5de0ddd90fb73b5ef165923",
+      "sha256": "3f375e3094ff4d2fb4778f1a976e4283c2ef04b6fae26ee36864e1a2dbd8e97b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Akumajou%20Dracula%20-%20Ubawareta%20Kokuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Akumajou%20Dracula%20-%20Ubawareta%20Kokuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Akumajou%20Dracula%20-%20Ubawareta%20Kokuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Castlevania%20-%20Order%20of%20Ecclesia%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Castlevania%20-%20Order%20of%20Ecclesia%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Castlevania%20-%20Order%20of%20Ecclesia%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Castlevania%20-%20Order%20of%20Ecclesia%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Castlevania%20-%20Order%20of%20Ecclesia%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Castlevania%20-%20Order%20of%20Ecclesia%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -55,6 +55,33 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "たまごっちのプチプチおみせっち みなサンきゅ〜!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tamagotchi Connection: Corner Shop 3",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Tamagotchi Connection : Corner Shop 3",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "2005-11-15",
@@ -62,5 +89,59 @@
     "wikidata": "Q3514623",
     "mobygames": 23081,
     "igdb": 26544
-  }
+  },
+  "roms": [
+    {
+      "name": "Tamagotchi Connection - Corner Shop (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AG7E",
+      "size": 33554432,
+      "crc32": "83b0d264",
+      "md5": "8be2cd409c8a665e65430d6bea19713f",
+      "sha1": "6157ef12480c4731708c1e66ea65bff3e5a463df"
+    },
+    {
+      "name": "Tamagotchi Connection - Corner Shop 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YT3E",
+      "size": 67108864,
+      "crc32": "a22ec823",
+      "md5": "de506ea50cea81e7401ac785f6170222",
+      "sha1": "7904df998d5c492e2e0f91bfcab6ab95f1d58f06"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tamagotchi%20Connection%20-%20Corner%20Shop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tamagotchi%20Connection%20-%20Corner%20Shop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tamagotchi%20Connection%20-%20Corner%20Shop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tamagotchi%20Connection%20-%20Corner%20Shop%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tamagotchi%20Connection%20-%20Corner%20Shop%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

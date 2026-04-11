@@ -90,5 +90,65 @@
     "wikidata": "Q55216",
     "mobygames": 17131,
     "igdb": 229840
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BLWE",
+      "size": 16777216,
+      "crc32": "aeabfa5f",
+      "md5": "caa2d80d5c14a76d1f482f7589281c22",
+      "sha1": "827307b58ba4a877f4ef7425928d738b3e8efc02"
+    },
+    {
+      "name": "LEGO Star Wars - The Video Game (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BLWJ",
+      "size": 16777216,
+      "crc32": "55a5aaf2",
+      "md5": "875112adceb14c80ef4e67fdb4d37826",
+      "sha1": "9293d599c28bd95fd97ae799e476a6fc8027f51f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/LEGO%20Star%20Wars%20-%20The%20Video%20Game%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/LEGO%20Star%20Wars%20-%20The%20Video%20Game%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/LEGO%20Star%20Wars%20-%20The%20Video%20Game%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/LEGO%20Star%20Wars%20-%20The%20Video%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/LEGO%20Star%20Wars%20-%20The%20Video%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/LEGO%20Star%20Wars%20-%20The%20Video%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -36,5 +36,38 @@
     "wikidata": "Q18940",
     "mobygames": 306,
     "igdb": 284
-  }
+  },
+  "roms": [
+    {
+      "name": "Wolfenstein 3D (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWOE",
+      "size": 8388608,
+      "crc32": "c4aa2b7b",
+      "md5": "d853b5ffa5ef88605a0823d3b4b2df08",
+      "sha1": "2c077de84348c6e09581a0a523376056a2aeba95",
+      "sha256": "b7d5fdbffd307e7648ba602ccab580d1abcb5ee3b343b5b7c3df6cefd7dbf07a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Wolfenstein%203D%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Wolfenstein%203D%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Wolfenstein%203D%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

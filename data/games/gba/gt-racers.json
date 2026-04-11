@@ -18,5 +18,58 @@
     "wikidata": "Q3756309",
     "mobygames": 74239,
     "igdb": 300459
-  }
+  },
+  "roms": [
+    {
+      "name": "GT Racers (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BJAP",
+      "size": 4194304,
+      "crc32": "94484f17",
+      "md5": "725464612806a42c2c15e455005a4ef9",
+      "sha1": "630cb7dfeaa1efcb2f9c33de46addd72c1593bb4",
+      "sha256": "a90613baaddbe1747a42d05b791120e32a4fbef9525940084b358935a4c94e68"
+    },
+    {
+      "name": "GT Racers (Europe) (Beta 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AGBJ",
+      "size": 362512,
+      "crc32": "e027657a",
+      "md5": "8ef186d8565c1408e653bfe5341a5ffb",
+      "sha1": "79e5600c34424bceb6458ce579b8485d5f478578"
+    },
+    {
+      "name": "GT Racers (Europe) (Beta 2)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AGBJ",
+      "size": 2619992,
+      "crc32": "a0f745a0",
+      "md5": "ccaa6814bcb83ec7fff309616a2f6d40",
+      "sha1": "fb10fdeb8c853cc13fdec789b710e3b0847e8680"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/GT%20Racers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/GT%20Racers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/GT%20Racers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

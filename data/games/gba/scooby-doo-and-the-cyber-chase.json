@@ -54,5 +54,65 @@
     "wikidata": "Q7434364",
     "mobygames": 48936,
     "igdb": 248593
-  }
+  },
+  "roms": [
+    {
+      "name": "Scooby-Doo and the Cyber Chase (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASDE",
+      "size": 4194304,
+      "crc32": "cf2dba97",
+      "md5": "1e3fd614dc43edbbf9df51262057f2cc",
+      "sha1": "739f47323ce7e2dbe7e9bf9d553cb97f4692ecc3"
+    },
+    {
+      "name": "Scooby-Doo and the Cyber Chase (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASDX",
+      "size": 4194304,
+      "crc32": "8b0079cb",
+      "md5": "09e8523914aff2d72b1b4b840827829c",
+      "sha1": "444cf64593ef7a9ef7a2bef56271ad154a1e9fa7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Scooby-Doo%20and%20the%20Cyber%20Chase%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Scooby-Doo%20and%20the%20Cyber%20Chase%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Scooby-Doo%20and%20the%20Cyber%20Chase%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Scooby-Doo%20and%20the%20Cyber%20Chase%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Scooby-Doo%20and%20the%20Cyber%20Chase%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Scooby-Doo%20and%20the%20Cyber%20Chase%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

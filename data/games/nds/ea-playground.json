@@ -18,5 +18,105 @@
     "wikidata": "Q5322546",
     "mobygames": 34604,
     "igdb": 175780
-  }
+  },
+  "roms": [
+    {
+      "name": "EA Playground (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YPGE",
+      "size": 67108864,
+      "crc32": "509b28d2",
+      "md5": "533e6e6e2e8c566e350dd30e3e985f95",
+      "sha1": "b5a478b1bd8f43b073ec5f10808d41bb2bbe2f35",
+      "sha256": "f666fb11b515903b59f20b9ffb6ee8c2819aedcb202968413ed6471233094334"
+    },
+    {
+      "name": "EA Playground (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YPGE",
+      "size": 67108864,
+      "crc32": "011ebe34",
+      "md5": "88f4bcbf021d83a23cfe4513f488f7b1",
+      "sha1": "fc0488c20767489a2c3039d3b50b34afdafdc68c"
+    },
+    {
+      "name": "EA Playground (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YPGP",
+      "size": 67108864,
+      "crc32": "d2538663",
+      "md5": "12432be707f823a84872e1123498ab1d",
+      "sha1": "9d99a71c9c4715fae0abfbab0050529521c6fd05",
+      "sha256": "acd5245d5f09a6e31ceac6d99c82ba7b79397b2b89567828d1c10eb81999c0d6"
+    },
+    {
+      "name": "EA Playground (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "YPGK",
+      "size": 67108864,
+      "crc32": "9a657bbf",
+      "md5": "2d9ba42c28f92f071a01ae19a0897589",
+      "sha1": "892c264e070a9482442860394ef8b2e4e541a052"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/EA%20Playground%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/EA%20Playground%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/EA%20Playground%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/EA%20Playground%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/EA%20Playground%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/EA%20Playground%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/EA%20Playground%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/EA%20Playground%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/EA%20Playground%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
 }

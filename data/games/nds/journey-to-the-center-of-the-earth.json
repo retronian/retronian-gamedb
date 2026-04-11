@@ -26,5 +26,65 @@
   "external_ids": {
     "wikidata": "Q6296482",
     "igdb": 81426
-  }
+  },
+  "roms": [
+    {
+      "name": "Journey to the Center of the Earth (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YJCP",
+      "size": 67108864,
+      "crc32": "2739c5e8",
+      "md5": "b92c834cd1ebafcfd9ae06c245bbaff8",
+      "sha1": "cf68846f65118fb325861b698dd75129062ae620"
+    },
+    {
+      "name": "Journey to the Center of the Earth (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YJCE",
+      "size": 67108864,
+      "crc32": "5dbb5a72",
+      "md5": "2446d7fd2cfb62369ef86a710e0af1e8",
+      "sha1": "9ee94060b58bf74ab7aa3a6a06ac03aa46a31a5e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Journey%20to%20the%20Center%20of%20the%20Earth%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Journey%20to%20the%20Center%20of%20the%20Earth%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Journey%20to%20the%20Center%20of%20the%20Earth%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Journey%20to%20the%20Center%20of%20the%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Journey%20to%20the%20Center%20of%20the%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Journey%20to%20the%20Center%20of%20the%20Earth%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

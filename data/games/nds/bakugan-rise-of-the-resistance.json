@@ -53,5 +53,65 @@
     "wikidata": "Q5716975",
     "mobygames": 87280,
     "igdb": 26690
-  }
+  },
+  "roms": [
+    {
+      "name": "Bakugan - Rise of the Resistance (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BXVP",
+      "size": 33554432,
+      "crc32": "f6079b93",
+      "md5": "2fb2f0ef4d5cfb55e5769a2ee7cb0662",
+      "sha1": "613e95f599f60548bc7289ace8a79b845323fbc4"
+    },
+    {
+      "name": "Bakugan - Rise of the Resistance (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BXVE",
+      "size": 33554432,
+      "crc32": "76dd55d9",
+      "md5": "d22904c3eb9c1ac56065b30acbf790af",
+      "sha1": "0f7e366ffc0040c18459c7ccb7bccb224feda4c0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bakugan%20-%20Rise%20of%20the%20Resistance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bakugan%20-%20Rise%20of%20the%20Resistance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bakugan%20-%20Rise%20of%20the%20Resistance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bakugan%20-%20Rise%20of%20the%20Resistance%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bakugan%20-%20Rise%20of%20the%20Resistance%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bakugan%20-%20Rise%20of%20the%20Resistance%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

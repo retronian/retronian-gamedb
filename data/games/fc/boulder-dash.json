@@ -63,5 +63,75 @@
     "wikidata": "Q55605",
     "mobygames": 4632,
     "igdb": 280820
-  }
+  },
+  "roms": [
+    {
+      "name": "Boulder Dash (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "853583a3",
+      "md5": "a69953c5c0eadc54c830d1e0c07340cf",
+      "sha1": "a4c61bd4280ca7ce2ac0ba922a09230314e84fd6",
+      "sha256": "b3773b1caa65084706839c248e91b9387d4efaa636f2a4d99f9e2815f04da640"
+    },
+    {
+      "name": "Boulder Dash (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "c5b0bcea",
+      "md5": "1594f3c8af12093ccf8f689be65257bf",
+      "sha1": "00f5c52900c3d85058e09a2772568f5811aac311",
+      "sha256": "4be0879c915791093d9db48c7ee0ad591f07f6172890ae135e98e7820d995ea7"
+    },
+    {
+      "name": "Boulder Dash (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "e412131c",
+      "md5": "d626996a16eaa69d15ec5afc9eb17cb6",
+      "sha1": "3aa63c41990e8d544ee79dd32701f51f09bb82ea",
+      "sha256": "f3bb35eec2fed8b5153de951e58b3d201ca0eb2e376e2705dbb367d47aeeb754"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Boulder%20Dash%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Boulder%20Dash%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Boulder%20Dash%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Boulder%20Dash%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Boulder%20Dash%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Boulder%20Dash%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

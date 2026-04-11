@@ -54,5 +54,78 @@
     "wikidata": "Q3522969",
     "mobygames": 8064,
     "igdb": 4372
-  }
+  },
+  "roms": [
+    {
+      "name": "Terminator, The (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70026-00",
+      "size": 1048576,
+      "crc32": "7350a152",
+      "md5": "c8617114519ce73d3deb182c15c37734",
+      "sha1": "c57fc68252709ce63a59aac9031f58e4cfb31329",
+      "sha256": "bb09e0e17aab0f3c81e57c9873d5241589c714bb3bb946eefc397377250ba25b"
+    },
+    {
+      "name": "Terminator, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70026-00",
+      "size": 1048576,
+      "crc32": "15f4d302",
+      "md5": "677b0afb84b0828a7c304784d73983a9",
+      "sha1": "c8ee275f2e30aaf6ad713c6cd915a4ede65328e0",
+      "sha256": "2e68da0d2ad8b5e32bbb26b363abb6b1d2743644edd11df958699d84450e9705"
+    },
+    {
+      "name": "Terminator, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70026-00",
+      "size": 1048576,
+      "crc32": "31a629be",
+      "md5": "de0e4f5e3c45a42959defc1de97a79ff",
+      "sha1": "2a1894e7f40b9001961f7bf1c70672351aa525f9",
+      "sha256": "89a6ce1eeb77495111c49a45944cc9bb1abfe7f60de366ae19f5118c03c742f9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Terminator%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Terminator%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Terminator%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Terminator%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Terminator%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Terminator%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

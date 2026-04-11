@@ -74,6 +74,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Final Fight One",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1989-11-25",
@@ -81,5 +90,180 @@
     "wikidata": "Q1141946",
     "mobygames": 9836,
     "igdb": 1663
-  }
+  },
+  "roms": [
+    {
+      "name": "Final Fight One (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFFP",
+      "size": 4194304,
+      "crc32": "7ff0a5cf",
+      "md5": "303e99bc49c209e554f395b674d49689",
+      "sha1": "72df7961f5791bb59723b01b1276ad94e994da69",
+      "sha256": "b9dfb1325ea1c568c15c6b2bd99904ec133297010681b744a721544e6d8cdf21"
+    },
+    {
+      "name": "Final Fight One (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AFFJ",
+      "size": 4194304,
+      "crc32": "ec930569",
+      "md5": "4ee227a39ec91cb6d67a0828f999bd5e",
+      "sha1": "fce52b655b9fda0412d16f48d18f3ed9799eb150",
+      "sha256": "5001dd8da7befb26ce87b8c1917a6a480c46477be37481917c985ae428ee7419"
+    },
+    {
+      "name": "Final Fight One (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFFE",
+      "size": 4194304,
+      "crc32": "df77dad2",
+      "md5": "cc6b4d0d6c91c28b762784a171a3c5d8",
+      "sha1": "c1b60a87ccb0aa915696a799765196a0d3a3ce53"
+    },
+    {
+      "name": "Final Fight One (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AFFJ",
+      "size": 4194304,
+      "crc32": "c9e5e223",
+      "md5": "9a3db7e1fe781945df44eb6be8713567",
+      "sha1": "3a0fa85187aa7c20842abeb1a6cbc11b21131b2c",
+      "sha256": "04e9a50ea51928fd6e2ae39a8b09e94de05403a9ad7c4dbaa4dd0c90c86dd18c"
+    },
+    {
+      "name": "Final Fight One (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFFP",
+      "size": 4194304,
+      "crc32": "9dd5e6fa",
+      "md5": "d8453317272826159fefcf254f25ada4",
+      "sha1": "0ff0852b7763149f77544e9a8aef5f2174178bd1"
+    },
+    {
+      "name": "Final Fight One (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFFE",
+      "size": 4194304,
+      "crc32": "052c9997",
+      "md5": "c6af74aeeabfd6d7ee2875e355f49af2",
+      "sha1": "17918e125bcafd44fcf3b21813575c2ccb19bd45"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Final%20Fight%20One%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Final%20Fight%20One%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fight%20One%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Final%20Fight%20One%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Final%20Fight%20One%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fight%20One%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Final%20Fight%20One%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Final%20Fight%20One%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fight%20One%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Final%20Fight%20One%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Final%20Fight%20One%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fight%20One%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Final%20Fight%20One%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Final%20Fight%20One%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fight%20One%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Final%20Fight%20One%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Final%20Fight%20One%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fight%20One%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

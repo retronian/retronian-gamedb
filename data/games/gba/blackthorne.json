@@ -72,5 +72,65 @@
     "wikidata": "Q880945",
     "mobygames": 1445,
     "igdb": 452
-  }
+  },
+  "roms": [
+    {
+      "name": "Blackthorne (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQXE",
+      "size": 4194304,
+      "crc32": "8e6dcd53",
+      "md5": "d0bb79fb5a05702ce8b7d03320fcdf52",
+      "sha1": "8f7f8c2051130b881e1fc131360cbc4946a63535"
+    },
+    {
+      "name": "Blackthorne (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQXP",
+      "size": 4194304,
+      "crc32": "e1d36a8c",
+      "md5": "4c84df7f486bf96316e73cd655c0f46b",
+      "sha1": "4611a129977a4a12186106bbf3a34a51b603d1ea"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Blackthorne%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Blackthorne%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Blackthorne%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Blackthorne%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Blackthorne%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Blackthorne%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -63,5 +63,67 @@
     "wikidata": "Q2748187",
     "mobygames": 8051,
     "igdb": 46265
-  }
+  },
+  "roms": [
+    {
+      "name": "Ranger X (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1076-00",
+      "size": 1048576,
+      "crc32": "b8c04804",
+      "md5": "5f78d072f7e67972227d992d966a4879",
+      "sha1": "53908ee1c47f0d9d49e81fc295379552e2198948",
+      "sha256": "26b7a153121f0d090e2f2e98c9d8752ecfbd6d6aa0cabe556617ba5367329eaf"
+    },
+    {
+      "name": "Ranger X (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1076-00",
+      "size": 1048576,
+      "crc32": "55915915",
+      "md5": "4e8a318ba7f70b42816fbdafd2624bef",
+      "sha1": "2611c818ecb53edc7d561fce1a349acad6abff4a",
+      "sha256": "2016cea7dbba18ed8b29007bc9c9e60b7996966cac3e6e1f2dac81909a5e4e35"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ranger%20X%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ranger%20X%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ranger%20X%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ranger%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ranger%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ranger%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

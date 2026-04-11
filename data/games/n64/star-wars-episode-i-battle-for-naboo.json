@@ -45,5 +45,78 @@
     "wikidata": "Q54840",
     "mobygames": 3416,
     "igdb": 156
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars Episode I - Battle for Naboo (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NNAP",
+      "size": 33554432,
+      "crc32": "029104fd",
+      "md5": "0bd1f7bb9f4b02520e4e9285c809f099",
+      "sha1": "c949856a6cb0b59a2d171c8ad2e8d913cca23022",
+      "sha256": "b5bdfe343a2b24cad636b66cac0af54ac04aefbfa26a817957227cc24ced4846"
+    },
+    {
+      "name": "Star Wars Episode I - Battle for Naboo (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NNAE",
+      "size": 33554432,
+      "crc32": "99dee3c0",
+      "md5": "3cb88b934572e7520f35e5458798775b",
+      "sha1": "e4441a6eeb67861408c2e009baae8aad4df34021",
+      "sha256": "515b2302fefe1741c09103f70708690a058ba77a7ab8acd086c48b972b22d33e"
+    },
+    {
+      "name": "Star Wars Episode I - Battle for Naboo (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NNAE",
+      "size": 33554432,
+      "crc32": "90759d7b",
+      "md5": "88776081f0f92eef355cd451b9c6a819",
+      "sha1": "8f82880cde3f11af23f580667ac133ccb5f6a0ca",
+      "sha256": "2dbba691279d4879b0e6edfa6f69113b79227b37afb5097108691870c8a8dbf4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Wars%20Episode%20I%20-%20Battle%20for%20Naboo%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Star%20Wars%20Episode%20I%20-%20Battle%20for%20Naboo%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Star%20Wars%20Episode%20I%20-%20Battle%20for%20Naboo%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Wars%20Episode%20I%20-%20Battle%20for%20Naboo%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Star%20Wars%20Episode%20I%20-%20Battle%20for%20Naboo%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Star%20Wars%20Episode%20I%20-%20Battle%20for%20Naboo%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -61,5 +61,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Final Lap Twin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "c8c084e3",
+      "md5": "5ff73dfe46e66422159d09ad2035af94",
+      "sha1": "ad695b7d1fb8bac7d9e13045bf229dba98d56a71",
+      "sha256": "b87232428f19dec012cbe21b172c255498a8fc81289d1e0ce996349124062a52"
+    },
+    {
+      "name": "Final Lap Twin (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "26408ea3",
+      "md5": "70ea7c2d63fcc6a9719a85bba9cebc04",
+      "sha1": "7ec6e816c4d89943d06dc88108ee415ed1f57be9",
+      "sha256": "58d3ec034136b136ad390db9d5d82ae08beb3c2ca25dc1bd4e96caafadaaf7eb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Final%20Lap%20Twin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Final%20Lap%20Twin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Final%20Lap%20Twin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Final%20Lap%20Twin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Final%20Lap%20Twin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Final%20Lap%20Twin%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

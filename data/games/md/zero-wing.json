@@ -88,5 +88,77 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Zero Wing (World) (Retro-Bit)",
+      "source": "no_intro",
+      "serial": "T-40023-00",
+      "size": 1048576,
+      "crc32": "d525babb",
+      "md5": "1e88ddbafd310eda65c506d0175f34d6",
+      "sha1": "49336f51e047e58aeb079845760732d09e06047c",
+      "sha256": "a9cb3f72744ef6109d19e64c6c18815ca2d2b2211728053bc239f2be80cceb1f"
+    },
+    {
+      "name": "Zero Wing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1138-50",
+      "size": 1048576,
+      "crc32": "89b744a3",
+      "md5": "5f4f2fb8c7b8c50efbc6eed57ce3dae3",
+      "sha1": "98335b97c5e21f7f8c5436427621836660b91075",
+      "sha256": "fe37576adb73aa1825ee47687146e3d1a903cf2ae3dd1933e67bc4fd71ddd5a4"
+    },
+    {
+      "name": "Zero Wing (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-40023-00",
+      "size": 1048576,
+      "crc32": "7e203d2b",
+      "md5": "9647d8ec9183f3ec9f944d5ea49a99a9",
+      "sha1": "fad499e21ac55a3b8513110dc1f6e3f6cdeca8dd",
+      "sha256": "a79f8cabe09bab50332612c0ccc5a5c2a13f10477a3609d306cc5d0e3db90883"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Zero%20Wing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Zero%20Wing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Zero%20Wing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Zero%20Wing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Zero%20Wing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Zero%20Wing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

@@ -63,5 +63,81 @@
     "wikidata": "Q1486269",
     "mobygames": 501,
     "igdb": 12118
-  }
+  },
+  "roms": [
+    {
+      "name": "Gods (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "16416bb5",
+      "md5": "da9354f321779c7670b562816c97163b",
+      "sha1": "8399e850f08132c20d3f6f4009d1932750fc09b7",
+      "sha256": "beb379ba48f63561c0f939ecd8f623ec06c1b5e06976eef9887e5c62f3df2766"
+    },
+    {
+      "name": "Gods (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "6779970f",
+      "md5": "310eed9404c446d12ba479a158f38beb",
+      "sha1": "6b2d309ea9c6cfadfef36d633a27c29e8884305a",
+      "sha256": "8796ca4de3aeffd3a494fe28e7d7e2aeb220ca652b43684f29e2cc94f02c20c4"
+    },
+    {
+      "name": "Gods (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "3c368342",
+      "md5": "2da76e5374ca5617d99cd1e7813d71ef",
+      "sha1": "bce47cfeeec1bdeb8e2423fded9c1715685e2f9f",
+      "sha256": "ea251689ebcb27e84dc0cfbf2be105129466e255f72b776388f7e9814fe38d1a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gods%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Gods%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Gods%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gods%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Gods%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Gods%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gods%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

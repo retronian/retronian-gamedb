@@ -35,5 +35,54 @@
     "wikidata": "Q9048798",
     "mobygames": 89455,
     "igdb": 20704
-  }
+  },
+  "roms": [
+    {
+      "name": "Naruto - Ninja Council 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AN4E",
+      "size": 67108864,
+      "crc32": "550cd668",
+      "md5": "4289b440616e88805e73922fd84fdffb",
+      "sha1": "bfaefb54f1884866c6c1ddfedfb4e4186c9af820",
+      "sha256": "6ca0d8af595730515acd591cbee3879a6c5ebaf6889422d375b1c841a832d5cc"
+    },
+    {
+      "name": "Naruto - Ninja Council 3 (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A95E",
+      "size": 67108864,
+      "crc32": "e7c710be",
+      "md5": "773c60d8f54ea5eea81a4cc5c61c4089",
+      "sha1": "56b56ece245a57720682be6d67b6647b6e45fb55"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Naruto%20-%20Ninja%20Council%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Naruto%20-%20Ninja%20Council%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Naruto%20-%20Ninja%20Council%203%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Naruto%20-%20Ninja%20Council%203%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

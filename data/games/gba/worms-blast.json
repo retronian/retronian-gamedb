@@ -45,5 +45,47 @@
     "wikidata": "Q2655540",
     "mobygames": 6143,
     "igdb": 248469
-  }
+  },
+  "roms": [
+    {
+      "name": "Worms Blast (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWBP",
+      "size": 4194304,
+      "crc32": "5223f5aa",
+      "md5": "caf46477c33a49dacf2d08aed205909b",
+      "sha1": "0da4ff24b61ae8b6d67ef59377770fd958517f2f",
+      "sha256": "8f0427006c2f6295467f8a4b798dea23a0984c8d4fc2981dec04c5fc720f560b"
+    },
+    {
+      "name": "Worms Blast (World) (En,Fr,De,Es,It) (Evercade)",
+      "source": "no_intro",
+      "size": 4194304,
+      "crc32": "55c25c4a",
+      "md5": "5b3fe36c1893e41b7a0df26765e190cd",
+      "sha1": "da4e430b5fef43bdb8a4c52a8fdec5ae98243ddb",
+      "sha256": "dff6006925ff651aeea62d2fa9560e0172c36efbf4123323b7b5b6e60fd9c8c0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Worms%20Blast%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Worms%20Blast%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Worms%20Blast%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

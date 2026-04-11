@@ -80,5 +80,75 @@
     "wikidata": "Q4998084",
     "mobygames": 16690,
     "igdb": 2382
-  }
+  },
+  "roms": [
+    {
+      "name": "Burai Fighter (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "e9385e9f",
+      "md5": "f265f686a32b3b7e2860a65bc5149b93",
+      "sha1": "45b0bec0b378bc1480401ed1b9b2e7e0d172ed55",
+      "sha256": "6a32dc009a0b01ea614837f6384be95fde40ec4f359a6cad84e08e9dd5b8aacd"
+    },
+    {
+      "name": "Burai Fighter (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "044997d0",
+      "md5": "53b08e662284f7b0531fb4161f17c0f6",
+      "sha1": "e09768f6c23d379b2ab8907303a4896112aca0d6",
+      "sha256": "b419c600638f3b0eaff730bcb7d4fb3816e016cfe95679d08281e496c9360e07"
+    },
+    {
+      "name": "Burai Fighter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "237c7e8d",
+      "md5": "475d68591e6e322803ffa43052380371",
+      "sha1": "6b3c6cd63ef3e07b78eb6437a4ba8c2334084ba4",
+      "sha256": "bd6842982f8b674435b954fe9669625838ce68dc7a71235154008fe5c63f37df"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Burai%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Burai%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Burai%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Burai%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Burai%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Burai%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

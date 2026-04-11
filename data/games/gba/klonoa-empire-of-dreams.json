@@ -71,5 +71,66 @@
     "wikidata": "Q868057",
     "mobygames": 20569,
     "igdb": 6492
-  }
+  },
+  "roms": [
+    {
+      "name": "Klonoa - Empire of Dreams (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AKLE",
+      "size": 4194304,
+      "crc32": "f74e1036",
+      "md5": "f4f23f40e29451150b46d4bbdef63f13",
+      "sha1": "a0a298d9dba1ba15d04a42fc2eb35893d1a9569b",
+      "sha256": "7fe0b833376b560bc63434669c0bc917a899766b025694fcbe4486a9d37066f3"
+    },
+    {
+      "name": "Klonoa - Empire of Dreams (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AKLP",
+      "size": 4194304,
+      "crc32": "69492530",
+      "md5": "31d227735fbc8220de9f1a93da10e199",
+      "sha1": "e4a81713b134e0b7409708843dad2a4948b903ef"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Klonoa%20-%20Empire%20of%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Klonoa%20-%20Empire%20of%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Klonoa%20-%20Empire%20of%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Klonoa%20-%20Empire%20of%20Dreams%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Klonoa%20-%20Empire%20of%20Dreams%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Klonoa%20-%20Empire%20of%20Dreams%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

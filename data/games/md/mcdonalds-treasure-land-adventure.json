@@ -87,5 +87,107 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "McDonald's Treasure Land Adventure (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-01067-00",
+      "size": 1048576,
+      "crc32": "6ab6a8da",
+      "md5": "114fa05e09fb388e5b9e42f77eef27c8",
+      "sha1": "f6178018102df3c92d05a48ff5949db9416acd5c",
+      "sha256": "7bcac61d94339df73cd62568bcadf83ca196f677c3511ac621d59f3e8ce1ab70"
+    },
+    {
+      "name": "McDonald's Treasure Land Adventure (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-004102-00",
+      "size": 1048576,
+      "crc32": "febcfd06",
+      "md5": "a4c53fe9e340caa1380efb06e2244f02",
+      "sha1": "aee7fd6a08ec22f42159b188f23406cbe3229f3d",
+      "sha256": "1fffc8622684fa1dd7f68e3878cc50f33188d1faff32251b257f125195ef697a"
+    },
+    {
+      "name": "McDonald's Treasure Land Adventure (Japan) (En,Ja) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00001105-03",
+      "size": 1048576,
+      "crc32": "7bf477e8",
+      "md5": "eb082494a52b859fef977c81ab1250a6",
+      "sha1": "ddf496f9a95b2963fe50f3bcaef8e3b592e2fc64",
+      "sha256": "6dcbb91dab1b6ddab0dc3b4bfb00e90dd4c3e42336b1e23d30368ea7ddcde585"
+    },
+    {
+      "name": "McDonald's Treasure Land Adventure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1067-00",
+      "size": 1048576,
+      "crc32": "04ef4899",
+      "md5": "2346c99595a4f341e39e6ec75fe19908",
+      "sha1": "bcb77c10bc8f3322599269214e0f8dde32b01a5c",
+      "sha256": "c175899c4af07ef7cc374636a2757742127633b441a2fb1e5ebc1f59460dbc6c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/McDonald%27s%20Treasure%20Land%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/McDonald%27s%20Treasure%20Land%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/McDonald%27s%20Treasure%20Land%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/McDonald%27s%20Treasure%20Land%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/McDonald%27s%20Treasure%20Land%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/McDonald%27s%20Treasure%20Land%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/McDonald%27s%20Treasure%20Land%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/McDonald%27s%20Treasure%20Land%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/McDonald%27s%20Treasure%20Land%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

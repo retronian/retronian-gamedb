@@ -45,5 +45,66 @@
     "wikidata": "Q2940422",
     "mobygames": 31974,
     "igdb": 281853
-  }
+  },
+  "roms": [
+    {
+      "name": "Cars - Mater-National Championship (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BCPE",
+      "size": 4194304,
+      "crc32": "189da289",
+      "md5": "a9ed5e9ce8b27136133af666474fd42d",
+      "sha1": "dede8d3a8d18ca561325d0cbf22bbf25ad658308",
+      "sha256": "f59e26915074ce04580013e2781d85cb5c0634fa38159c52c86fc4b2ae34d0a6"
+    },
+    {
+      "name": "Cars - Mater-National Championship (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BCPP",
+      "size": 4194304,
+      "crc32": "d3db9787",
+      "md5": "aaa5acb5b94fccc8f3de8fef3f1a22cb",
+      "sha1": "16c666082db0e12384d342e5db4336ac66869d28"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Cars%20-%20Mater-National%20Championship%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Cars%20-%20Mater-National%20Championship%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Cars%20-%20Mater-National%20Championship%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Cars%20-%20Mater-National%20Championship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Cars%20-%20Mater-National%20Championship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Cars%20-%20Mater-National%20Championship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

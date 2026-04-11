@@ -51,5 +51,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Bomberman (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "dcbbe28b",
+      "md5": "64c3903224298ca9972991ea6a2b22a4",
+      "sha1": "b3d3b6802e1057180be58ab81fbb0fd0bd11908f",
+      "sha256": "39fd166e96258fecdbf3c28342ee41add4dfc7778a726b6d6b29ec3678dfca0c"
+    },
+    {
+      "name": "Bomberman (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "f5daaf10",
+      "md5": "775f664b177e561b34615614d160dfb7",
+      "sha1": "1a38860f7583e4619dacd293e80d80e7bd4ee021",
+      "sha256": "c36cba4fd0cb894bc3202f995d00bb62993d6ec92ca0e038512f542bd2c90157"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bomberman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bomberman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bomberman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

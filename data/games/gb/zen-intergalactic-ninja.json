@@ -29,11 +29,81 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Zen the Intergalactic Ninja",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1993-01-01",
+  "first_release_date": "1992-01-01",
   "external_ids": {
     "wikidata": "Q63865490",
-    "igdb": 365633
-  }
+    "igdb": 365633,
+    "mobygames": 44309
+  },
+  "roms": [
+    {
+      "name": "Zen - Intergalactic Ninja (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "642c7ebe",
+      "md5": "5f855203b56886fcb88c54692144c553",
+      "sha1": "0e753ed48e28a0e6a820ac9b8403c50c004f22e2",
+      "sha256": "62fb52cecc4ebcfaad1ca88dce1c3ae5612b0d48984b2c1d91a6e00b5e87a6b9"
+    },
+    {
+      "name": "Zen - Intergalactic Ninja (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "88190730",
+      "md5": "a517826d1cc3984a141f0f08d3ad72ee",
+      "sha1": "47bbc472071770783b3d930141390f48741176af",
+      "sha256": "1f6a79c3a548718eea5cf530f30d67f8fd76ee9693cd2da164caef36d310a501"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Zen%20-%20Intergalactic%20Ninja%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Zen%20-%20Intergalactic%20Ninja%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Zen%20-%20Intergalactic%20Ninja%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Zen%20-%20Intergalactic%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Zen%20-%20Intergalactic%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Zen%20-%20Intergalactic%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

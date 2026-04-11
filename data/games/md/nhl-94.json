@@ -45,5 +45,49 @@
     "wikidata": "Q607073",
     "mobygames": 12399,
     "igdb": 5405
-  }
+  },
+  "roms": [
+    {
+      "name": "NHL '94 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50656-00",
+      "size": 1048576,
+      "crc32": "9438f5dd",
+      "md5": "8356b3f0d091b9cc441e2ff8721ad063",
+      "sha1": "7b1489ab501258133bf03e5f0892b77d04312580",
+      "sha256": "ccc0298c118d580863c877abd470c71186ef0a1b60f1e7c6ff1e5a38f48fd053"
+    },
+    {
+      "name": "NHL '94 (USA, Europe) (NHL 06)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50656-00",
+      "size": 2097152,
+      "crc32": "7b344d0c",
+      "md5": "a1dd079f6b1ae80e90dc08839de4d3d4",
+      "sha1": "103eb567a145544d9f5d7dd0bdbb87205cb58cea",
+      "sha256": "5864d88422048f94ab365ef4b22338dc502c8d1ee0d6102ba25852707db59697"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/NHL%20%2794%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/NHL%20%2794%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/NHL%20%2794%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

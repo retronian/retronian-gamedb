@@ -45,5 +45,51 @@
     "wikidata": "Q7676056",
     "mobygames": 54465,
     "igdb": 49063
-  }
+  },
+  "roms": [
+    {
+      "name": "Tail 'Gator (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "c5acce7c",
+      "md5": "cac94925bf098982d31f7c9a2c296d25",
+      "sha1": "ed5f1110a9db4c48d26d53af0973e8b46fe7e4e1",
+      "sha256": "351a3b24efa68f60009bc7e05d554034c8dc3d360d51d7399c80e65370899679"
+    },
+    {
+      "name": "Tail 'Gator (World) (Limited Run Games)",
+      "source": "no_intro",
+      "size": 65536,
+      "crc32": "e35cd748",
+      "md5": "ab640fff5661c467369fa8fb12a389e8",
+      "sha1": "203f6e20e4d44792c727fe78aaa65e354d014175",
+      "sha256": "a0c8a09366ae4bc224692623b763dbdfa08c53748e22330cb5879a4f3e1edea4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tail%20%27Gator%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tail%20%27Gator%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tail%20%27Gator%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tail%20%27Gator%20%28World%29%20%28Limited%20Run%20Games%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

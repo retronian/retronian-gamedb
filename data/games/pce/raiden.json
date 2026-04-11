@@ -79,5 +79,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Raiden (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 786432,
+      "crc32": "850829f2",
+      "md5": "42a5e13cbfab0c54d30f8ca6831f62ed",
+      "sha1": "cef25446294884053442a4214434d7d97319ddca",
+      "sha256": "2b5b25fc72e844829a301f7facabee34d3f017991ac1660a7298718fc748495b"
+    },
+    {
+      "name": "Raiden (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 786432,
+      "crc32": "bc59c31e",
+      "md5": "5d08e419351cf3ee85e6536070cbb94f",
+      "sha1": "910e7346976b7a6e83ddb7e68b49d33ced9dbc2c",
+      "sha256": "0dd97f99a0ce4ff8533eb6513fc9f95bc86004286e1b47be2b9c8bc649288987"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Raiden%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Raiden%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Raiden%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

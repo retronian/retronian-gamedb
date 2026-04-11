@@ -80,5 +80,93 @@
     "wikidata": "Q2904717",
     "mobygames": 20503,
     "igdb": 82019
-  }
+  },
+  "roms": [
+    {
+      "name": "Alien vs Predator (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "a31d1f58",
+      "md5": "2ead975340211e3f6893fde8dd279689",
+      "sha1": "2beffd4d63ff4a868660c21c69650d9456908745",
+      "sha256": "b2df16101a2daa0f718853be92e3cf5d88f8e8843d04962e4b403d13769c1119"
+    },
+    {
+      "name": "Alien vs Predator (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "1803cf20",
+      "md5": "1fc2ead45eadcac586d65e218b895912",
+      "sha1": "309f5d60f15c2af06ed30ef95112a8a287132ad5",
+      "sha256": "05eb897d7696555790591c431c9d55a43ff9a1c12162443c17c5fcddfa5eb3c5"
+    },
+    {
+      "name": "Aliens vs. Predator (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "2d5876ff",
+      "md5": "9afddc507ba820be7d788dd75eb6052f",
+      "sha1": "e8f13b51c7700c721a4a916e77e24429a3afb749",
+      "sha256": "62f2277d953d29f4ea6d88f0004692d872a82c8651a4831248d099136b1e3ee0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Alien%20vs%20Predator%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Alien%20vs%20Predator%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Alien%20vs%20Predator%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Alien%20vs%20Predator%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Alien%20vs%20Predator%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Alien%20vs%20Predator%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Aliens%20vs.%20Predator%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Aliens%20vs.%20Predator%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Aliens%20vs.%20Predator%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

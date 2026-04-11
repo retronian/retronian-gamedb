@@ -36,5 +36,133 @@
     "wikidata": "Q1061560",
     "mobygames": 6590,
     "igdb": 2332
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Mario Kart (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "56410e5e",
+      "md5": "f9fe266e91632e68b558d6b43393eaba",
+      "sha1": "27d9b4f30d39af75075691344b7bdeedbd32ac19",
+      "sha256": "1bdf422695a30e704e8abb7743b9c178d1ef2b200515a83cd41daef85e6b99e2"
+    },
+    {
+      "name": "Super Mario Kart (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "c8002453",
+      "md5": "f7afa112d7ec1d532636703e4b02700a",
+      "sha1": "cbb853bf911255c1d8eb27cd34fc7855a0dda218",
+      "sha256": "c04f517c2675d7a8f3498d958f097443dfaa0e66606c69c59b58a915b3454973"
+    },
+    {
+      "name": "Super Mario Kart (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "cd80db86",
+      "md5": "7f25ce5a283d902694c52fb1152fa61a",
+      "sha1": "47e103d8398cf5b7cbb42b95df3a3c270691163b",
+      "sha256": "2ada8919688087be60a6a48cace8f877add60c45d2e5d09e2442faa55be62a49"
+    },
+    {
+      "name": "Super Mario Kart (USA) (Beta) (1992-08-06)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "54f5e6d4",
+      "md5": "3eca3cad68d143f7b52bca866f93d5e0",
+      "sha1": "76d56a41767625e6da1b8a9c8342f17aa9c1f7b0",
+      "sha256": "4ab9a4634e0d6947462cb312678522fffc39411b1afdf025da35c485be9d2e37"
+    },
+    {
+      "name": "Super Mario Kart (Japan) (Beta) (1992-04-13)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "6aaf031a",
+      "md5": "b892c0000fc76ec9b516e8dd9303b5f1",
+      "sha1": "1863f951a0a5db07a3397106bd89d9f11acfe1a3",
+      "sha256": "583eb1c568e2a6b3a6ef6325a63c158e123a319c7e9f3055f9c2ac4c9f4092c3"
+    },
+    {
+      "name": "Super Mario Kart (Japan) (Beta) (1992-07-10)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "8dc4e42f",
+      "md5": "62e50df02d966cc27ab8423675c9521f",
+      "sha1": "aedec7fffaf14e5b983c39477251922f132a5adb",
+      "sha256": "8ef542311c49111a524e102f0272f25fc52641a02b8595762b39b34579d9c4cb"
+    },
+    {
+      "name": "Super Mario Kart (Japan) (Beta) (1992-08-06)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "f575f2a0",
+      "md5": "762d0cd18a901daafbc74f6fed28731e",
+      "sha1": "179ced0c566a10a8d0c91bb282f3914b1bcf0806",
+      "sha256": "394a541237c20bfe3e6830bcd10bef2870d97a95a5bacfd41aead35940f6cd7e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Kart%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Mario%20Kart%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20Kart%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Kart%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Mario%20Kart%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20Kart%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Kart%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Mario%20Kart%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20Kart%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -63,5 +63,65 @@
     "wikidata": "Q1141199",
     "mobygames": 7462,
     "igdb": 267540
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Sprint (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "05310638",
+      "md5": "3b52e6f86be29a3b9116b3dc018e591a",
+      "sha1": "e24b17114dcf725436eb307a6349b460b11d36b2",
+      "sha256": "eea3b83ed7a2f8a81187393fffb1749fc3e854c5909e9dfa3cfcbb402c6fea22"
+    },
+    {
+      "name": "Super Sprint (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "8b3c16ac",
+      "md5": "5b8100e662fd8306095600ca52473911",
+      "sha1": "da02b4f373928d7ff1c7414f7fa961e47e068d41",
+      "sha256": "02e723375a72b791e7bcf8520020e55a08932ebe97268d41ccaa8af3b8a4c81f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Sprint%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Sprint%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Sprint%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Sprint%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Sprint%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Sprint%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

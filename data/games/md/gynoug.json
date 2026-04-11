@@ -62,5 +62,59 @@
   "external_ids": {
     "wikidata": "Q1635057",
     "mobygames": 20494
-  }
+  },
+  "roms": [
+    {
+      "name": "Gynoug (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1030-00",
+      "size": 524288,
+      "crc32": "03405102",
+      "md5": "fa0609181242f4b5fd59598273f138ec",
+      "sha1": "fada42bed3a97e1d1b0c6128ddb1f202a50cb1b0",
+      "sha256": "679bc262341a3b95a63adc419fd94fcdc4379484af6fa50aab854ac4ae5d6012"
+    },
+    {
+      "name": "Gynoug (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-25093-00",
+      "size": 524288,
+      "crc32": "1b69241f",
+      "md5": "fa49fa5c1eec5bfae59fb87f310c0852",
+      "sha1": "9b99b109f5f1f221f08672a7c4752a94067b62b0",
+      "sha256": "7e8481337814d74c954f07f6963b8c0a320ffa234f3f8e6d5e6c0902b5751657"
+    },
+    {
+      "name": "Gynoug (World) (Ratalaika Games)",
+      "source": "no_intro",
+      "serial": "T-25093-00",
+      "size": 524288,
+      "crc32": "b4ddc90f",
+      "md5": "cca4ea372c354714d00ba7f2ef445488",
+      "sha1": "3a67b2b982850a4262d7d7c4df8d6fae8e478d46",
+      "sha256": "33731fd5306a57a1466d085fe3d35be8859a055d25195292b50f2ad2b378b291"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gynoug%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gynoug%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gynoug%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

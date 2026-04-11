@@ -45,5 +45,65 @@
     "wikidata": "Q8026648",
     "mobygames": 85873,
     "igdb": 78837
-  }
+  },
+  "roms": [
+    {
+      "name": "Winx Club - Mission Enchantix (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YWCP",
+      "size": 33554432,
+      "crc32": "d570f2c2",
+      "md5": "0dad8d506d28b6ebd84612e8f5aff6d5",
+      "sha1": "d53e7fca989c68df8dcb826e9e4e06a878596d64"
+    },
+    {
+      "name": "Winx Club - Mission Enchantix (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YWCE",
+      "size": 33554432,
+      "crc32": "4b275080",
+      "md5": "7fca19e0074b6fe28adc57e52d6cb236",
+      "sha1": "e45a380016d1728ce5fda7ecf441d2c81bc50a9a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Winx%20Club%20-%20Mission%20Enchantix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Winx%20Club%20-%20Mission%20Enchantix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Winx%20Club%20-%20Mission%20Enchantix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Winx%20Club%20-%20Mission%20Enchantix%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Winx%20Club%20-%20Mission%20Enchantix%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Winx%20Club%20-%20Mission%20Enchantix%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

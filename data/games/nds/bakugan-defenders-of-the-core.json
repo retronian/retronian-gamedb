@@ -45,5 +45,65 @@
     "wikidata": "Q63183217",
     "mobygames": 90587,
     "igdb": 79711
-  }
+  },
+  "roms": [
+    {
+      "name": "Bakugan - Defenders of the Core (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B4BP",
+      "size": 67108864,
+      "crc32": "7776f9ae",
+      "md5": "42547f3ac3d1375a57cf8297c826de26",
+      "sha1": "6a26eca94ac7991d9b69621bf18f1f8fccfbddbc"
+    },
+    {
+      "name": "Bakugan - Defenders of the Core (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B4BE",
+      "size": 67108864,
+      "crc32": "594ffda2",
+      "md5": "a7c4e7f868eb0f0a61bba5d4d8d60497",
+      "sha1": "cf8d2719954b1c8022b4511a648376f218412a09"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bakugan%20-%20Defenders%20of%20the%20Core%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bakugan%20-%20Defenders%20of%20the%20Core%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bakugan%20-%20Defenders%20of%20the%20Core%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bakugan%20-%20Defenders%20of%20the%20Core%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bakugan%20-%20Defenders%20of%20the%20Core%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bakugan%20-%20Defenders%20of%20the%20Core%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

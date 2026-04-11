@@ -54,5 +54,78 @@
     "wikidata": "Q2743850",
     "mobygames": 15756,
     "igdb": 387005
-  }
+  },
+  "roms": [
+    {
+      "name": "Master of Monsters (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-63013-03",
+      "size": 524288,
+      "crc32": "d51ee8c2",
+      "md5": "1b6e81696b813d5dfe3528df043f86ba",
+      "sha1": "ca62d376be5cc7b944bbe9b5f2610f8bb55a2fed",
+      "sha256": "0d6977cf94c96873af2d14eba2532ac0d60bb345d6db78bac12b2a21d376c259"
+    },
+    {
+      "name": "Master of Monsters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-63013-03",
+      "size": 524288,
+      "crc32": "91354820",
+      "md5": "6fd2ba6b00c102debe3dcbe6257656c1",
+      "sha1": "28f38617911a99504542b30f70c0d9c81996ef65",
+      "sha256": "f6f19744315921ed03cb5c07613a55b4749d72d09bcf0a20d0cf0be80746551b"
+    },
+    {
+      "name": "Master of Monsters (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-63013-00",
+      "size": 524288,
+      "crc32": "bd1683a8",
+      "md5": "2abec974405f7c6ab4cb46f370fc910e",
+      "sha1": "40ea66a271f3d91d48188ba09113977943c9626d",
+      "sha256": "a6c3b0ef4ae3386183e986c436109070258ebb0f815e9484355f7d58029bc8cd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Master%20of%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Master%20of%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Master%20of%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Master%20of%20Monsters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Master%20of%20Monsters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Master%20of%20Monsters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

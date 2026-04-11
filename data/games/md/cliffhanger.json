@@ -27,5 +27,67 @@
     "wikidata": "Q2979079",
     "mobygames": 29830,
     "igdb": 5370
-  }
+  },
+  "roms": [
+    {
+      "name": "Cliffhanger (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-93036-00",
+      "size": 1048576,
+      "crc32": "eb5e0b28",
+      "md5": "80a9ae4fcf1fbe626efa38a654f4e926",
+      "sha1": "35fe2182de07e324255dd147686cc5798133ba3b",
+      "sha256": "4f084479c83c7a9b0f2bbcb5abd72d752507eb0706eee3ff0ef926d96815ebcc"
+    },
+    {
+      "name": "Cliffhanger (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-93036-00",
+      "size": 1048576,
+      "crc32": "9cbf44d3",
+      "md5": "7deb4b6859c115e0c9ad816476237465",
+      "sha1": "bed365b6b7a1ef96cbdf64b35ad42b54d7d3fb1c",
+      "sha256": "6c8b61363303656aa29ec27b1800a494e15b88a12aeb461a34aabf34d042c993"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Cliffhanger%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Cliffhanger%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Cliffhanger%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Cliffhanger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Cliffhanger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Cliffhanger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

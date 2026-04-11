@@ -63,5 +63,43 @@
     "wikidata": "Q1990913",
     "mobygames": 31814,
     "igdb": 328306
-  }
+  },
+  "roms": [
+    {
+      "name": "WWE SmackDown vs Raw 2008 Featuring ECW (United Kingdom)",
+      "source": "no_intro",
+      "serial": "AW8P",
+      "size": 67108864,
+      "crc32": "f2cf4c15",
+      "md5": "5c06857f873c49ad91cce20484962d52",
+      "sha1": "cd66ce651b0fd74acdd0be08e7e0bf7a4de60448"
+    },
+    {
+      "name": "WWE SmackDown vs Raw 2008 Featuring ECW (Europe) (En,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AW8X",
+      "size": 67108864,
+      "crc32": "3f5a684d",
+      "md5": "3a6f924db3486ed11f629916cae84109",
+      "sha1": "1143b24d935741f8079947714317eec368839d67"
+    },
+    {
+      "name": "WWE SmackDown vs Raw 2008 Featuring ECW (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AW8E",
+      "size": 67108864,
+      "crc32": "2a92f69b",
+      "md5": "ddf0b303dc026d890add0a383a9a4304",
+      "sha1": "27590d25ee5d10b3aa1fd6072fd9e7eae2224122"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WWE%20SmackDown%20vs%20Raw%202008%20Featuring%20ECW%20%28United%20Kingdom%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

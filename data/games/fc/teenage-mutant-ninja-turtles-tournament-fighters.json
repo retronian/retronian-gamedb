@@ -67,10 +67,80 @@
       "verified": true
     }
   ],
-  "first_release_date": "1993-09-04",
+  "first_release_date": "1993-01-01",
   "external_ids": {
     "wikidata": "Q2365711",
     "mobygames": 11585,
     "igdb": 48274
-  }
+  },
+  "roms": [
+    {
+      "name": "Teenage Mutant Hero Turtles - Tournament Fighters (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "4b35559e",
+      "md5": "4b1eafbc67487368a23ca123dbfa9e02",
+      "sha1": "7ef2bd14c712355b9685fca23027b5a17c0444c9",
+      "sha256": "403339d1154639bf6ba4ccb3edeef10c02880b31801e67df1123903e0af74f0f"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "3d2face7",
+      "md5": "1b04aff093c89068fe1c86d8c061ee79",
+      "sha1": "85873ccfafe233309bacfb8d5d30a3721ee4508f",
+      "sha256": "4c85e96521428c66e82e46995211464887197c1991a832d16ddd7e43a6dd9baf"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (The Cowabunga Collection)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "4cf072a5",
+      "md5": "4f1ccdc1b1044954cc03c2a9b3c028b1",
+      "sha1": "14b1704c9f9e63704be601a2b6eade9a9456c4b9",
+      "sha256": "ba5a570a7e1ddf266acc4f5deb24a89ab3a95bb3ec4414e0e6cd9c3b832d3e42"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Teenage%20Mutant%20Hero%20Turtles%20-%20Tournament%20Fighters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Teenage%20Mutant%20Hero%20Turtles%20-%20Tournament%20Fighters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Teenage%20Mutant%20Hero%20Turtles%20-%20Tournament%20Fighters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

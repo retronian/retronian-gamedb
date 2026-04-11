@@ -54,5 +54,75 @@
     "wikidata": "Q4037672",
     "mobygames": 51573,
     "igdb": 47967
-  }
+  },
+  "roms": [
+    {
+      "name": "Duke Nukem - Critical Mass (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CDNE",
+      "size": 134217728,
+      "crc32": "c72c4535",
+      "md5": "4ab91e859d8f726e57544a3d557321f0",
+      "sha1": "6aaeb04e98c2ac317ec8af3fc5a22000a2975aee"
+    },
+    {
+      "name": "Duke Nukem - Critical Mass (USA) (v0.9.5219) (Beta) (Debug)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 115855396,
+      "crc32": "d07b1146",
+      "md5": "35427aac8368cf1b5c40977664b5f2e6",
+      "sha1": "644e2082951248546363b17bd7c4ac05100463ce",
+      "sha256": "6f707fa9eb56ef9962b0096b9e10550128fad784e72732597c6380da0e7c253b"
+    },
+    {
+      "name": "Duke Nukem - Critical Mass (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CDNP",
+      "size": 134217728,
+      "crc32": "d6b77475",
+      "md5": "565d56a74e6d92f19f15d2df74619b14",
+      "sha1": "f0e20179f35a3f7044f6f8ed7cfa02d51c6c1bbf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Duke%20Nukem%20-%20Critical%20Mass%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Duke%20Nukem%20-%20Critical%20Mass%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Duke%20Nukem%20-%20Critical%20Mass%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Duke%20Nukem%20-%20Critical%20Mass%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Duke%20Nukem%20-%20Critical%20Mass%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Duke%20Nukem%20-%20Critical%20Mass%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

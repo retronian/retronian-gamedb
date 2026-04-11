@@ -87,5 +87,107 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Art of Fighting (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1146-00",
+      "size": 2097152,
+      "crc32": "19ce567d",
+      "md5": "4b7751c9fc162a1822e94e08b88c378e",
+      "sha1": "221c6ee35e9dfc446f076f84762af153cc3f4208",
+      "sha256": "f8f06c23d7c3d688f7296ee5271516f40ef58c0d4b27d619052604062ea05f65"
+    },
+    {
+      "name": "Art of Fighting (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-01146-00",
+      "size": 2097152,
+      "crc32": "9970c422",
+      "md5": "e81c004b80d1b39690ecf301dc24e0dc",
+      "sha1": "a58b1efbbdfa8c4ee6f3d06d474c3771ebe36ca4",
+      "sha256": "ed103e57e9c3d13e5248f5dbc2225e9f22076ca2def8e9dd33aae55360ae4b73"
+    },
+    {
+      "name": "Art of Fighting (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1146-00",
+      "size": 2097152,
+      "crc32": "c9a57e07",
+      "md5": "3b878b854302596cb197602878d0cf07",
+      "sha1": "7603f33a98994e8145c942e1ed28e6b072332324",
+      "sha256": "5d2b45c3c79a86be07710b94915afaa2e4f7c8ade56dda6cf8b7818a58f7a848"
+    },
+    {
+      "name": "Ryuuko no Ken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-004113-00",
+      "size": 2097152,
+      "crc32": "054cf5f6",
+      "md5": "05dc6075c0fa4dc5779b575b594d2947",
+      "sha1": "c4adc3fc6e1130f64440c7dc2673b239f1523626",
+      "sha256": "f74b7a619653bf11d4db203698d4995f42b08b6f4cdd6e5f8ecf5018e7d9ac7a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Art%20of%20Fighting%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Art%20of%20Fighting%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Art%20of%20Fighting%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Art%20of%20Fighting%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Art%20of%20Fighting%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Art%20of%20Fighting%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ryuuko%20no%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ryuuko%20no%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ryuuko%20no%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

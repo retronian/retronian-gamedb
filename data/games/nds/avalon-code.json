@@ -45,5 +45,93 @@
     "wikidata": "Q11285490",
     "mobygames": 39806,
     "igdb": 21206
-  }
+  },
+  "roms": [
+    {
+      "name": "Avalon Code (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YOGE",
+      "size": 134217728,
+      "crc32": "f1a30d9c",
+      "md5": "31d9737d7f4dc8d56bffb289f661d972",
+      "sha1": "edda5be9b0391ae08b178d93f8f48c82643918fa"
+    },
+    {
+      "name": "Avalon Code (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YOGJ",
+      "size": 134217728,
+      "crc32": "3d35b3d4",
+      "md5": "2e4ebdb18c0fd6919be6db62fb93ca26",
+      "sha1": "84914cff0209d1f688516b18ea46a680d31d9685"
+    },
+    {
+      "name": "Avalon Code (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YOGP",
+      "size": 134217728,
+      "crc32": "3bb9b9e4",
+      "md5": "65df84d479f80421e8d49fa498344be2",
+      "sha1": "a95be37bf2f2f6e503c95e8a2879629fcf2d8a6f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Avalon%20Code%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Avalon%20Code%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Avalon%20Code%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Avalon%20Code%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Avalon%20Code%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Avalon%20Code%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Avalon%20Code%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Avalon%20Code%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Avalon%20Code%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

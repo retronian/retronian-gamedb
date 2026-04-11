@@ -79,5 +79,95 @@
     "wikidata": "Q475782",
     "mobygames": 30372,
     "igdb": 3342
-  }
+  },
+  "roms": [
+    {
+      "name": "Snobo Kids (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NSKJ",
+      "size": 8388608,
+      "crc32": "213bf381",
+      "md5": "b8d4b92e66a312708626b3216de07a3a",
+      "sha1": "96480c8fa7285d9e850f6ba002e56bcb7ada9796"
+    },
+    {
+      "name": "Snowboard Kids (Europe, Australia)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NSKP",
+      "size": 8388608,
+      "crc32": "5619a70d",
+      "md5": "ab4382e583ae139eedbafce5fa87e4c8",
+      "sha1": "b26802748f4cc15f44492bcc6941a487e75bbca6",
+      "sha256": "9034eb5f375ccd8fa101e3638ddde8c1110437581db111a81c9c586fee11ebcf"
+    },
+    {
+      "name": "Snowboard Kids (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NSKE",
+      "size": 8388608,
+      "crc32": "020fb906",
+      "md5": "eb31f4f9c1fe26a3a663f74e9790516e",
+      "sha1": "1583bacc9046a360df8ea4d536942155247e154c",
+      "sha256": "58870ea67d49f778e7a7607eb270ad1d3a081a4733b337b2d607de2606dcfb3c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Snobo%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Snobo%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Snobo%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Snowboard%20Kids%20%28Europe%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Snowboard%20Kids%20%28Europe%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Snowboard%20Kids%20%28Europe%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Snowboard%20Kids%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Snowboard%20Kids%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Snowboard%20Kids%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

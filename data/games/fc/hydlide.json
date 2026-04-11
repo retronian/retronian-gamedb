@@ -87,5 +87,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Hydlide (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 40976,
+      "crc32": "147a6021",
+      "md5": "505e5a242aad2c604136c773f8b92de3",
+      "sha1": "f9767c7b90b2909fa1e90ade58153bcb911c107f",
+      "sha256": "80dfcd552a5ac3a2ce4576f1ba2004e18d7b8419eafc9c451dff725f8bd3072c"
+    },
+    {
+      "name": "Hydlide Special (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "ff1f748b",
+      "md5": "d8c30d18ccb36663d937e15a5a67722e",
+      "sha1": "33383974014c992928fb671cda25c66152232c98",
+      "sha256": "199d6e79f29099858670c43aa541aa038ec8eb15cc52101e2eec97eec91ff25c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hydlide%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hydlide%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hydlide%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

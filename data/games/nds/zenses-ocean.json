@@ -17,5 +17,76 @@
   "external_ids": {
     "wikidata": "Q58185591",
     "igdb": 21138
-  }
+  },
+  "roms": [
+    {
+      "name": "Zenses - Ocean (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CZOE",
+      "size": 33554432,
+      "crc32": "3207f819",
+      "md5": "8fd7808dd088c3c3bda3c7ba11eb3cf0",
+      "sha1": "94ae1c95f4f02fb81d10533d6bc796db95a8f6aa"
+    },
+    {
+      "name": "Zenses - Ocean (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CZOP",
+      "size": 33554432,
+      "crc32": "2d2809d2",
+      "md5": "0ff08a4dd6a4151ab8d86e124924a401",
+      "sha1": "8efbc520010fe32aec352c90356a4a1160b09013",
+      "sha256": "2af00730f2b881224a2601f28b9bbd951e9bad7c1bd2dfbea4271b3ca62b1b4e"
+    },
+    {
+      "name": "Zenses - Ocean (USA) (En,Fr,Es) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CZOE",
+      "size": 33554432,
+      "crc32": "1844daf8",
+      "md5": "60fbba4e5746574d766d53cd700edd2a",
+      "sha1": "60ed8a628c786b018ed5504f8cd048546192c34e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zenses%20-%20Ocean%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Zenses%20-%20Ocean%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zenses%20-%20Ocean%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zenses%20-%20Ocean%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Zenses%20-%20Ocean%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zenses%20-%20Ocean%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

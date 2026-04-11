@@ -44,5 +44,65 @@
   "external_ids": {
     "wikidata": "Q2081842",
     "mobygames": 50449
-  }
+  },
+  "roms": [
+    {
+      "name": "Guinness World Records - The Videogame (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CGNP",
+      "size": 67108864,
+      "crc32": "962c007e",
+      "md5": "efbd0ba50cdd1c024ed1ad902697b556",
+      "sha1": "4c6a87216be5704299f3167a82a5ac68fb9ae9af"
+    },
+    {
+      "name": "Guinness World Records - The Videogame (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CGNE",
+      "size": 67108864,
+      "crc32": "3e5fa048",
+      "md5": "3383590abc2610425fde1e8cf5cb2476",
+      "sha1": "e63ab0108b88ed10c30910b7e13a56040679db32"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Guinness%20World%20Records%20-%20The%20Videogame%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Guinness%20World%20Records%20-%20The%20Videogame%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Guinness%20World%20Records%20-%20The%20Videogame%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Guinness%20World%20Records%20-%20The%20Videogame%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Guinness%20World%20Records%20-%20The%20Videogame%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Guinness%20World%20Records%20-%20The%20Videogame%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

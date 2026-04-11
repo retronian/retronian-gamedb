@@ -35,5 +35,65 @@
     "wikidata": "Q2534019",
     "mobygames": 7508,
     "igdb": 2830
-  }
+  },
+  "roms": [
+    {
+      "name": "Simpsons, The - Bart vs. the World (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 393232,
+      "crc32": "33df5cbd",
+      "md5": "6218d11a808ccca6192c5fe34b39d2dd",
+      "sha1": "c56e4327c097b5e592541655a298782494a1bad2",
+      "sha256": "31c1ac803020c2c1d074c5f31d276421f2057ad3613d470670c170ddf1ce04e0"
+    },
+    {
+      "name": "Simpsons, The - Bart vs. the World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "ae2bb564",
+      "md5": "ddbf9726e9ef8ee1e976d6954e9282d3",
+      "sha1": "c28043255655d32e2347be85b834bfaf801b9220",
+      "sha256": "7c5f6f47851d31f503fdb8a6b61e68236cb1491a4fdd07b23742edfba19dd88e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

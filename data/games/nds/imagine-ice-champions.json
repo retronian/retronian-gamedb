@@ -44,5 +44,53 @@
     "wikidata": "Q11265658",
     "mobygames": 88754,
     "igdb": 7929
-  }
+  },
+  "roms": [
+    {
+      "name": "Imagine - Ice Champions (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YQPE",
+      "size": 67108864,
+      "crc32": "8ea50734",
+      "md5": "4429a686567da9403063809046905dc9",
+      "sha1": "6d798b58f4ddf0897a872b40acb873e7be429bdb"
+    },
+    {
+      "name": "KuruKuru Princess - Yume no White Quartet (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YQPJ",
+      "size": 33554432,
+      "crc32": "b0aa347b",
+      "md5": "e0f63d08e0a08cbba066a573e007283a",
+      "sha1": "c11a3270d80a9ddf3ec6d2f1ad70a0ee91fc13a4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Ice%20Champions%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/KuruKuru%20Princess%20-%20Yume%20no%20White%20Quartet%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/KuruKuru%20Princess%20-%20Yume%20no%20White%20Quartet%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/KuruKuru%20Princess%20-%20Yume%20no%20White%20Quartet%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -69,5 +69,74 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Journey to Silius (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "9310ff02",
+      "md5": "351d772e436d16b5df94861222de02f4",
+      "sha1": "028d17c26cb8c0b6afc079c183b1ea12f5aa3690",
+      "sha256": "5c3b6c3d009e6c755a0e263f3c9ade169f42e01e87bbdec823dae1b3c5ba3165"
+    },
+    {
+      "name": "Journey to Silius (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "1e5d2648",
+      "md5": "03779fc352a51b1594445e587f99afae",
+      "sha1": "90b34471e1cf8547060e926ed6e56a704769c23f",
+      "sha256": "12f5c5e413a2aa5bff75b5077e4477497d7e49aa432560c2e8c3fd3cc71910cc"
+    },
+    {
+      "name": "Journey to Silius (World) (Evercade)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "960a883d",
+      "md5": "1ec22f490d97dd28739baecd100ba74a",
+      "sha1": "8cc79051c09659491656ed9574e3a72e418dac31",
+      "sha256": "4b99bad72ad4f00e10f2ad6e360d35b88380fec539bd70ec55f1e89a937e9676"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Journey%20to%20Silius%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Journey%20to%20Silius%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Journey%20to%20Silius%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Journey%20to%20Silius%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Journey%20to%20Silius%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Journey%20to%20Silius%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

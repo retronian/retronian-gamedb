@@ -78,5 +78,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "10-Yard Fight (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "44aa3eeb",
+      "md5": "1378270f6cf90095b7fea1e6648503a4",
+      "sha1": "2a91760c828b26adc765ba9b0322fb770089e391",
+      "sha256": "82e8e0cc827e061ff9d5707ec60a2658acbd47814b29ab58b122e526bc949149"
+    },
+    {
+      "name": "10-Yard Fight (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 40976,
+      "crc32": "c986cda2",
+      "md5": "7b1d38579ede25e20b3aaf870be69c42",
+      "sha1": "67f60e1d139dd85baef455b3b1228fbb5059bdaa",
+      "sha256": "d32fbacaa21b9c99f9d0e84b91ffec935534f6fdca2dbb0cd1d1ef2e870eefdf"
+    },
+    {
+      "name": "10-Yard Fight (Japan) (En) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "83146ecf",
+      "md5": "1e2ec36ed66519dd03a52f1847e9d56d",
+      "sha1": "5b073d8dfffe1fef85a047c2b7b063f9451c9350",
+      "sha256": "7861d4e443dd02d9c06442d135ce64c098b772359a94708a52006a061709cf0c"
+    },
+    {
+      "name": "10-Yard Fight (USA) (Retro-Bit Generations)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 40976,
+      "crc32": "525662b1",
+      "md5": "95129438ca12dcf94d3245cbd0d31410",
+      "sha1": "07d43f4c5ecce35e7793bfbf27c761ceab81f07d",
+      "sha256": "36cb4a2f8ce6d70b45cc2e648f506936760fb08bfde8179a042333aaaea610ae"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/10-Yard%20Fight%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/10-Yard%20Fight%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/10-Yard%20Fight%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

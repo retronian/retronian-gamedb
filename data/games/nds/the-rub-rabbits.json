@@ -63,5 +63,66 @@
     "wikidata": "Q2601170",
     "mobygames": 21487,
     "igdb": 20488
-  }
+  },
+  "roms": [
+    {
+      "name": "Rub Rabbits!, The (USA) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AKAE",
+      "size": 134217728,
+      "crc32": "2a92566b",
+      "md5": "0eaacc206892dd2b7bbe5fe579f86b06",
+      "sha1": "4d61d73a75261394bf30e0b70b1b4c0cca0f19d4"
+    },
+    {
+      "name": "Rub Rabbits!, The (Europe) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AKAP",
+      "size": 134217728,
+      "crc32": "8714020b",
+      "md5": "ef5f9634ae3f88a10e02118044fbb01f",
+      "sha1": "7c7a2141fbfa0f910f498cad554c57c8c3c68cd3",
+      "sha256": "cdca6fb4b2f6ba4cb6657af2251b785937497a070fd47808f4608cf1c0a1ba99"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rub%20Rabbits%21%2C%20The%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rub%20Rabbits%21%2C%20The%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rub%20Rabbits%21%2C%20The%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rub%20Rabbits%21%2C%20The%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rub%20Rabbits%21%2C%20The%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rub%20Rabbits%21%2C%20The%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

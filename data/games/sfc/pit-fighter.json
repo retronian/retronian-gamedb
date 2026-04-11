@@ -54,5 +54,65 @@
     "wikidata": "Q2151598",
     "mobygames": 1266,
     "igdb": 374991
-  }
+  },
+  "roms": [
+    {
+      "name": "Pit-Fighter (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "b3cd103e",
+      "md5": "1f6f9e2a3513bf924a10897fc6d0211c",
+      "sha1": "b10580f2dcd0e1f97e37783c06a7cee0870ef203",
+      "sha256": "6a9f40961995aa7c99d7a03c376ddda5c140d37e40f56f9e0dafd74cad71f254"
+    },
+    {
+      "name": "Pit-Fighter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "9fab69fc",
+      "md5": "bec467ace53b6d457b22da8f828ae17a",
+      "sha1": "843e760347581315e65a3777df00e31ef6cdb69d",
+      "sha256": "c2a1a66648a0a0bfe2f201cf4f926d138e410fbf85ecf436ccb9aac70c0df3de"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pit-Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pit-Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pit-Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pit-Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pit-Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pit-Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

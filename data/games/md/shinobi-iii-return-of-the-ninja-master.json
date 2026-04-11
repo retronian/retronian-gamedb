@@ -73,6 +73,24 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Super Shinobi II, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ザ・スーパー忍II 忍II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
     }
   ],
   "first_release_date": "2008-02-04",
@@ -80,5 +98,158 @@
     "wikidata": "Q2638825",
     "mobygames": 8073,
     "igdb": 2623
-  }
+  },
+  "roms": [
+    {
+      "name": "Shinobi III - Return of the Ninja Master (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1136-00",
+      "size": 1048576,
+      "crc32": "ed32899a",
+      "md5": "26e5eab89da62190733ffa83d939f874",
+      "sha1": "bb504d035612daa91c88d4a876a665ffca56efe3",
+      "sha256": "45c2abd8179d29a9bb9d2adff9b76fe754b391d8d1dffd783818c5bf411e751f"
+    },
+    {
+      "name": "Shinobi III - Return of the Ninja Master (USA) (Genesis Mini)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1136",
+      "size": 1048576,
+      "crc32": "c0f1de3c",
+      "md5": "96ce4719e6525b5411e449ddb38630ff",
+      "sha1": "a9e23c79662949e465f0ac233203dc6039e54867",
+      "sha256": "c0e4d7205090c45c639eaaab44de3cc8d0afc3210bd26945692d8e4452d93920"
+    },
+    {
+      "name": "Shinobi III - Return of the Ninja Master (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1136-50",
+      "size": 1048576,
+      "crc32": "0b6d3eb5",
+      "md5": "5a8f7c6437d239690b4a15287d841c26",
+      "sha1": "23579c8f7e2396080b478b113aff36d2382395a3",
+      "sha256": "77355d3be6055c3ea0d8c58d6c682e6edb8514545dfa312e1e555dc79cecc054"
+    },
+    {
+      "name": "Shinobi III - Return of the Ninja Master (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1136",
+      "size": 1048576,
+      "crc32": "5381506f",
+      "md5": "691eeff9c5741724a8751ec0fa9cfbf0",
+      "sha1": "1e07d7998e3048fcfba4238ae96496460e91b3a5",
+      "sha256": "e0c50ed80fa1b75325344c2260a26841936d077e2ae1689c2522e3cc484739e3"
+    },
+    {
+      "name": "Super Shinobi II, The (Japan, Korea) (Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004085-00",
+      "size": 1048576,
+      "crc32": "5b412816",
+      "md5": "6ce59f3e7ee52dc8c6df7b4d8a166826",
+      "sha1": "e3dbe326aa93320d405c561c306fc3954ab8ea7c",
+      "sha256": "d86884c51f53a7bb7739bf4d42e57f4511eb4d8ee94dfb0d4949dc0d77daeabd"
+    },
+    {
+      "name": "Super Shinobi II, The (Japan) (En,Ja) (Beta 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "XX-9999-00",
+      "size": 1048576,
+      "crc32": "c47e8aea",
+      "md5": "71429f5fb394a1f28caf4784340e185f",
+      "sha1": "e1eca5faec785f4e1093b088421a818e2fab29c1",
+      "sha256": "2d0cfc6120ed372208409485f554be8385309cbd8e9dc6707fe0600796ce1ee7"
+    },
+    {
+      "name": "Super Shinobi II, The (Japan) (Beta 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "XX-9999-00",
+      "size": 1048576,
+      "crc32": "1ee5bce3",
+      "md5": "fa66434d9e99e5108459f4ecec0950b1",
+      "sha1": "182f65e634b6eecdadff55f41cd9b2d0e9e283f6",
+      "sha256": "2808df8198485a6ca57824cf95086f9cfc8a419bec6839954e15909e55ccf82b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28USA%29%20%28Genesis%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28USA%29%20%28Genesis%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28USA%29%20%28Genesis%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Shinobi%20II%2C%20The%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Shinobi%20II%2C%20The%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Shinobi%20II%2C%20The%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

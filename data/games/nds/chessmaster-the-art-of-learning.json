@@ -18,5 +18,67 @@
     "wikidata": "Q120349158",
     "mobygames": 34964,
     "igdb": 20777
-  }
+  },
+  "roms": [
+    {
+      "name": "Chessmaster - The Art of Learning (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YCEP",
+      "size": 33554432,
+      "crc32": "e11f229a",
+      "md5": "e013f56f11a9d396d90a7625010b5980",
+      "sha1": "b8d2496bdbd35fc5d407d28ba7720c4638444217",
+      "sha256": "b284d4bbc29364787eee7bd1f24ee2a3224367f32401f12b1045d8079ef92253"
+    },
+    {
+      "name": "Chessmaster - The Art of Learning (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YCEE",
+      "size": 33554432,
+      "crc32": "ef3f09b5",
+      "md5": "049f910a1e4f06ab604544569447e019",
+      "sha1": "da03cff845372e95fc47c6a0e530d84f9f355444",
+      "sha256": "426d9a4e94fde6b0e132c485280935ecfc86e6b258a97271b9c11066a073662e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Chessmaster%20-%20The%20Art%20of%20Learning%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Chessmaster%20-%20The%20Art%20of%20Learning%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Chessmaster%20-%20The%20Art%20of%20Learning%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Chessmaster%20-%20The%20Art%20of%20Learning%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Chessmaster%20-%20The%20Art%20of%20Learning%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Chessmaster%20-%20The%20Art%20of%20Learning%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -54,5 +54,73 @@
     "wikidata": "Q4777509",
     "mobygames": 7480,
     "igdb": 94622
-  }
+  },
+  "roms": [
+    {
+      "name": "Antz (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "4839e0c1",
+      "md5": "e4c1111dcc4dc23860ce016daf584dc1",
+      "sha1": "2cba2b024edb4b702d2acabefbcb310f4d6e2075",
+      "sha256": "c7c9fdf4c544c8c04d395ca75bc80f19749f1bd4d45ec162b46a9589e4cdae9d"
+    },
+    {
+      "name": "Antz (USA) (En,Fr,Es) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "dc0be439",
+      "md5": "a4b695325ac28be2e388f5b9186987ba",
+      "sha1": "85684d5891e4ec0f9fdf61b644bdf0ffbf1ba219"
+    },
+    {
+      "name": "Antz (Europe) (En,Fr,De,Es,It,Nl) (Beta) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "f287fc49",
+      "md5": "a1cf50da360d45d78075ae48313a18fa",
+      "sha1": "99818cd3dc4bfe61bf0095856a0f443afae89acf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Antz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Antz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Antz%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Antz%20%28USA%29%20%28En%2CFr%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Antz%20%28USA%29%20%28En%2CFr%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Antz%20%28USA%29%20%28En%2CFr%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

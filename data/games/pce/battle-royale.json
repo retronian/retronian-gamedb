@@ -17,5 +17,37 @@
   "external_ids": {
     "wikidata": "Q114118893",
     "igdb": 8938
-  }
+  },
+  "roms": [
+    {
+      "name": "Battle Royale (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "e70b01af",
+      "md5": "beb2b4486ed8a66f0df10e260bdc5224",
+      "sha1": "07b39d5315aa07bf880b89b10dc3c01ed7ced5ab",
+      "sha256": "dc624288e426dc7663b5112494c37cc401fe00c97476a5eec6741767395057fe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Battle%20Royale%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Battle%20Royale%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Battle%20Royale%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

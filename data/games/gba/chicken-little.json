@@ -54,5 +54,66 @@
     "wikidata": "Q11680710",
     "mobygames": 20102,
     "igdb": 248552
-  }
+  },
+  "roms": [
+    {
+      "name": "Chicken Little (USA, Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BCHE",
+      "size": 8388608,
+      "crc32": "1e86f5b0",
+      "md5": "a64cd7fa9c84da61a4a358c321f248df",
+      "sha1": "619f7d5b1ae9d732ad4186ca3b4dd2d6299022a0",
+      "sha256": "1c38dba4b01694b45fdf1ceadab7d2598a28396b73728166ff39d325d25482bf"
+    },
+    {
+      "name": "Chicken Little (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BCHJ",
+      "size": 8388608,
+      "crc32": "dcbd4991",
+      "md5": "a06268ee41dfe596990c1916a6ea0eca",
+      "sha1": "cda782a307475845952fef322983f165d0c678a1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Chicken%20Little%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Chicken%20Little%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Chicken%20Little%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Chicken%20Little%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Chicken%20Little%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Chicken%20Little%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

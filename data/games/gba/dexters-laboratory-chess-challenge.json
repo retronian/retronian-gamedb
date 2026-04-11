@@ -26,5 +26,65 @@
   "external_ids": {
     "wikidata": "Q5268357",
     "igdb": 6373
-  }
+  },
+  "roms": [
+    {
+      "name": "Dexter's Laboratory - Chess Challenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ADXE",
+      "size": 8388608,
+      "crc32": "ae61322e",
+      "md5": "da1471e76473766f201ead7c9c9e3595",
+      "sha1": "a6725f72bbc29c270322eab0d8043f7c16e1c96d"
+    },
+    {
+      "name": "Dexter's Laboratory - Chess Challenge (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ADXP",
+      "size": 8388608,
+      "crc32": "f5436f5d",
+      "md5": "2a0d1bb21640a97228f334853b0289c3",
+      "sha1": "e04dbb5e0534cf241e8fee85d17b1cc8a0032f14"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dexter%27s%20Laboratory%20-%20Chess%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dexter%27s%20Laboratory%20-%20Chess%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dexter%27s%20Laboratory%20-%20Chess%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dexter%27s%20Laboratory%20-%20Chess%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dexter%27s%20Laboratory%20-%20Chess%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dexter%27s%20Laboratory%20-%20Chess%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

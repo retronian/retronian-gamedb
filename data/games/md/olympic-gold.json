@@ -63,5 +63,96 @@
     "wikidata": "Q3351654",
     "mobygames": 6597,
     "igdb": 46266
-  }
+  },
+  "roms": [
+    {
+      "name": "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-79016-50",
+      "size": 524288,
+      "crc32": "924e57d3",
+      "md5": "174187dc9772ec276fc1a69fc2fe2665",
+      "sha1": "55702a7dee0cd2092a751b19c04d81694b0c0d0f",
+      "sha256": "eefa811d156e9e3119c170aa7a9344201679f11974c0cc4eeb1ec39e18a2ee41"
+    },
+    {
+      "name": "Olympic Gold (Japan, USA, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev A)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-79016-00",
+      "size": 524288,
+      "crc32": "e9c925b8",
+      "md5": "202b6acedd4070df596eb32f4bd5e17b",
+      "sha1": "ce640bb979fcb285729b58de4da421c5493ef5e2",
+      "sha256": "f8d11d6c5ed3b2ba2cc8457fe82cae2464e90a6ab39d7e76cad52798dfd75423"
+    },
+    {
+      "name": "Olympic Gold (Japan, USA) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-79016-00",
+      "size": 524288,
+      "crc32": "339594b4",
+      "md5": "f21316a9608b25ae8a9e32c39b23a325",
+      "sha1": "f9febd976d98545dee35c10b69755908d6929fd4",
+      "sha256": "b3e1cbd54d938345d7928421d1c480535c227f31cc6a40cddedd13aeca9b8e8a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Olympic%20Gold%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Olympic%20Gold%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Olympic%20Gold%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Olympic%20Gold%20%28Japan%2C%20USA%2C%20Korea%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Olympic%20Gold%20%28Japan%2C%20USA%2C%20Korea%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Olympic%20Gold%20%28Japan%2C%20USA%2C%20Korea%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Olympic%20Gold%20%28Japan%2C%20USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Olympic%20Gold%20%28Japan%2C%20USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Olympic%20Gold%20%28Japan%2C%20USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

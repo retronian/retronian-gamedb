@@ -81,5 +81,95 @@
     "wikidata": "Q1688483",
     "mobygames": 3792,
     "igdb": 1355
-  }
+  },
+  "roms": [
+    {
+      "name": "Jet Force Gemini (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NJFP",
+      "size": 33554432,
+      "crc32": "cfbed88c",
+      "md5": "baaf237e71aa7526c9b2f01c08b68a53",
+      "sha1": "50651c4e0c46332f7f0b45870263f0a8b9a49602",
+      "sha256": "0e8dce17d1df452787341e6f137d987048b6ba94459dfdfc1da815e332542d71"
+    },
+    {
+      "name": "Jet Force Gemini (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NJFE",
+      "size": 33554432,
+      "crc32": "6753d5a3",
+      "md5": "772cc6eab2620d2d3cdc17bbc26c4f68",
+      "sha1": "493ced9008dbe932d6e91179b68e8630cf23a023",
+      "sha256": "159dde164c475976a3e527fbb20978431d4765f2c63019b3530c3aa8772595aa"
+    },
+    {
+      "name": "Jet Force Gemini (USA) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NJDE",
+      "size": 33554432,
+      "crc32": "fa061b96",
+      "md5": "5bbe9ade7171f2e1daaa7c48fad38728",
+      "sha1": "f00f7c7fb085d0df57dcb649793aced5be4e8562"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Jet%20Force%20Gemini%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Jet%20Force%20Gemini%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Jet%20Force%20Gemini%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Jet%20Force%20Gemini%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Jet%20Force%20Gemini%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Jet%20Force%20Gemini%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Jet%20Force%20Gemini%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Jet%20Force%20Gemini%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Jet%20Force%20Gemini%20%28USA%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

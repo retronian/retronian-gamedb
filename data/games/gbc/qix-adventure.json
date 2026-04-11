@@ -43,5 +43,61 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1999-10-22"
+  "first_release_date": "1999-10-22",
+  "roms": [
+    {
+      "name": "Qix Adventure (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "bb3744a9",
+      "md5": "3e62f2ac50ccf89d43a111ab0afe93b6",
+      "sha1": "43ebf78cf1ce4024d23a211a8dfb006b16c1a168",
+      "sha256": "ade38558848c0c5905a21a72f23a3a0eb66482de97fce78a774aad1f6863a7e0"
+    },
+    {
+      "name": "Qix Adventure (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "d729db40",
+      "md5": "95b284df7ba2f862406f747b4ca7c380",
+      "sha1": "95406795e7e1cc5207ecccac57d6b77bd0c575a1"
+    },
+    {
+      "name": "Qix Adventure (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "5acea4a9",
+      "md5": "1c3d719f529c1bf57b5b798fc1f3bfe5",
+      "sha1": "363b284e18a303d1dd3c2affc967fcd6912594d8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Qix%20Adventure%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Qix%20Adventure%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Qix%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Qix%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -81,5 +81,78 @@
     "wikidata": "Q2313010",
     "mobygames": 6743,
     "igdb": 3217
-  }
+  },
+  "roms": [
+    {
+      "name": "Alex Kidd in the Enchanted Castle (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "00054004-02",
+      "size": 262144,
+      "crc32": "778a0f00",
+      "md5": "cdcabca95b071e06eb278f67d700557c",
+      "sha1": "b7e96b33ab1715fe265ed0de81a26dde969698d5",
+      "sha256": "2350db9a337486a673dcc82e6ca9885dc47793759b5ca884607448bd0259a948"
+    },
+    {
+      "name": "Alex Kidd in the Enchanted Castle (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00054004-01",
+      "size": 262144,
+      "crc32": "47dba0ac",
+      "md5": "6dee3627fa7a28267efd07c51a467ad6",
+      "sha1": "bbb204c1eb5ca1b6d180c32722955b2c39d2c17b",
+      "sha256": "451a3cde30a36eb6b3449139f8af8ffddae4cbb73017e0c28ce09c2791e7aa7b"
+    },
+    {
+      "name": "Alex Kidd in the Enchanted Castle (USA) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00054004-01",
+      "size": 262144,
+      "crc32": "602fb6cc",
+      "md5": "8bc3489147d516edbb2d299791974abd",
+      "sha1": "05fc5a8c72647567d693f61eab5c6be4bbcad4a4",
+      "sha256": "d8076b18d5fa913b423c90c73b3c084627eb42a13a8f64f92d9ff9ad9a82d619"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Alex%20Kidd%20in%20the%20Enchanted%20Castle%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Alex%20Kidd%20in%20the%20Enchanted%20Castle%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Alex%20Kidd%20in%20the%20Enchanted%20Castle%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Alex%20Kidd%20in%20the%20Enchanted%20Castle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Alex%20Kidd%20in%20the%20Enchanted%20Castle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Alex%20Kidd%20in%20the%20Enchanted%20Castle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

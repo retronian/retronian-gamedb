@@ -18,5 +18,45 @@
     "wikidata": "Q16259715",
     "mobygames": 56820,
     "igdb": 43918
-  }
+  },
+  "roms": [
+    {
+      "name": "Jigsaw Madness (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 280070752,
+      "crc32": "6d6d5fc3",
+      "md5": "33bfa9e5f2b7c1b23ff5161f2fd687e9",
+      "sha1": "cd02ae1e0835a88bfb008c1d628d9b531734ef5d"
+    },
+    {
+      "name": "Jigsaw Madness (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 217950800,
+      "crc32": "98de45cc",
+      "md5": "c623c15bc3adf206acf472eea633aade",
+      "sha1": "4e9099d28eeef93e879bbd01e4d39af13a286d80"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Jigsaw%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Jigsaw%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Jigsaw%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -36,5 +36,67 @@
     "wikidata": "Q3334241",
     "mobygames": 182447,
     "igdb": 3550
-  }
+  },
+  "roms": [
+    {
+      "name": "NBA Hang Time (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-97136-50",
+      "size": 3145728,
+      "crc32": "edb4d4aa",
+      "md5": "f9a4e85931dcaaceded19c0c2a7aace1",
+      "sha1": "4594ba338a07dd79639c11b5b96c7f1a6e283d0c",
+      "sha256": "dc04b6b70edbd68af3204f76d7f54726dd4395320baf8adbb37e7976fe19cfdd"
+    },
+    {
+      "name": "NBA Hang Time (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-97136-00",
+      "size": 3145728,
+      "crc32": "176b0338",
+      "md5": "a2dddb13539df45f45ff4061cd6caacd",
+      "sha1": "bff36de7e0ca875b1fab84928f00999b48ff8f02",
+      "sha256": "7e984223dd6888be889e03131fc25ba9fcec38be244b87f049d4963ffec3d92f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/NBA%20Hang%20Time%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/NBA%20Hang%20Time%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/NBA%20Hang%20Time%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/NBA%20Hang%20Time%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/NBA%20Hang%20Time%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/NBA%20Hang%20Time%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

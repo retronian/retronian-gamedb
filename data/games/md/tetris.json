@@ -72,5 +72,85 @@
     "wikidata": "Q71910",
     "mobygames": 1630,
     "igdb": 215386
-  }
+  },
+  "descriptions": [
+    {
+      "text": "テトリスは、著名なブロック積み上げゲームの多くのバージョンの一つで、こちらはセガが1988年に制作したコインオペレーション版に基づいています。目的は、4つのタイルで構成されたピースを10×20のウェルに配置し、完全な行を作って消すことです。行が消えるとゲームのテンポが速くなり、背景が変化し、スタックがウェルの上部に達するとゲームは終了します。\n\n1人または2人用の標準的なエンドレスモードに加えて、1人または2人用の「タイムトライアル」モードもあり、3分間でできるだけ多くのポイントを獲得することが目標です。また、「ダブルス」モードもあり、2人のプレイヤーが協力して特大のウェルにラインを埋めていき、それぞれが自分のピースを同時に操作します。\n\nゲームには、スタートレベルの設定、ゲーム開始時のウェルの底にある「ゴミ」の量、次のピースが見えるかどうかなど、いくつかの標準オプションが用意されています。また、「アイテムブロック」というオプションの特別なフラッシングピースもあり、ラインを消すために使用すると追加ボーナスが得られます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tetris (Japan) (En) (Mega 6)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004007-00",
+      "size": 262144,
+      "crc32": "4ce90db0",
+      "md5": "ab307f2a1d9f7b42a49f27445f711ba3",
+      "sha1": "2f2b559c5855e34500e43fb5cc8aff04dd72eb56",
+      "sha256": "87801f642d9adf00948565a695c4f74f4320f7cb085bd8fcb7667abce59e2979"
+    },
+    {
+      "name": "Tetris (USA) (Genesis Mini)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "XXXXXXXX-XX",
+      "size": 524288,
+      "crc32": "c8dd8841",
+      "md5": "9ffa2c2e2f57ed445490306fc367bbe5",
+      "sha1": "1079fee1fd044f16caf641d6b96f84143a6ceceb",
+      "sha256": "1c5491fdb44246cdd38874eb305e87255090e8ceb12a04b6a70de793d6701a01"
+    },
+    {
+      "name": "Tetris (Japan) (Mega Drive Mini)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "XXXXXXXX-XX",
+      "size": 524288,
+      "crc32": "b6fb7a7d",
+      "md5": "f5f0cf3a6765c50915bbb0af2c02723c",
+      "sha1": "dea6ab2dd1aa05ef2119037223fc1bff0c0aa0ca",
+      "sha256": "63f668bc16e648450728bf2e8123ef4a1c996395595a013dbb1d9f21bd7db6f8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Tetris%20%28USA%29%20%28Genesis%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Tetris%20%28USA%29%20%28Genesis%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Tetris%20%28USA%29%20%28Genesis%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Tetris%20%28Japan%29%20%28Mega%20Drive%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Tetris%20%28Japan%29%20%28Mega%20Drive%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Tetris%20%28Japan%29%20%28Mega%20Drive%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

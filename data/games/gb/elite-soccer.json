@@ -37,12 +37,129 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "サッカー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
-  "first_release_date": "1994-05-26",
+  "first_release_date": "1994-01-01",
   "external_ids": {
     "wikidata": "Q97715339",
     "mobygames": 39260,
     "igdb": 49008
-  }
+  },
+  "roms": [
+    {
+      "name": "Elite Soccer (USA) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "f54158a6",
+      "md5": "0a3304bdadddadc6c6b1d7cc8425d566",
+      "sha1": "4576881ea25e29ebba91c49c89f8e70e105fbc60",
+      "sha256": "72c229e40868c9e90580ef0a76e902d3150792bef313f57e6806bef57299d64b"
+    },
+    {
+      "name": "Soccer (Europe, Australia) (En,Fr,De) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "c36b199b",
+      "md5": "effbaf8c4b83edfebbe6451df0d44fd1",
+      "sha1": "355fb7f220a0ba470011220282a59e707f168e1a",
+      "sha256": "3687acd9993d4ee9fd832ff06bb61e29568a203b3b7c576426f4f6c3829ed5bf"
+    },
+    {
+      "name": "Soccer (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "be51a876",
+      "md5": "1f406d44b61098883bbaafc076e994e9",
+      "sha1": "f9fd41616185ead719774acb2b826c5c7359cdb2",
+      "sha256": "a87897205cc98d81aaf5ec03d932e84fdc0aefb369a2abf16d3d03e479ad2bcc"
+    },
+    {
+      "name": "World Cup Striker (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "fdefa88d",
+      "md5": "c5f51c42357790b7693198fc06f82390",
+      "sha1": "9cf86669d784a724eeb3409df732ce84afd38942",
+      "sha256": "c0652cd34dae043a48992bbc7d0707cd3415ee3f842d9350d6604842fce9fd21"
+    },
+    {
+      "name": "World Cup Striker (Europe) (En,Fr,De) (Possible Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "40418964",
+      "md5": "9927d7e4de4dbe690080f35c269b7c98",
+      "sha1": "4c976fc98a85089cfae7e7af7de6baef31e39f92",
+      "sha256": "5220fee87e9998fb4d034f285d6e5256e0fa14fefd77651b566caf043c477be0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Elite%20Soccer%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Elite%20Soccer%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Elite%20Soccer%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Soccer%20%28Europe%2C%20Australia%29%20%28En%2CFr%2CDe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Soccer%20%28Europe%2C%20Australia%29%20%28En%2CFr%2CDe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Soccer%20%28Europe%2C%20Australia%29%20%28En%2CFr%2CDe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/World%20Cup%20Striker%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/World%20Cup%20Striker%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/World%20Cup%20Striker%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

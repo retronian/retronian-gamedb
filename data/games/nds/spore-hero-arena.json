@@ -36,5 +36,53 @@
     "wikidata": "Q31685",
     "mobygames": 90329,
     "igdb": 21214
-  }
+  },
+  "roms": [
+    {
+      "name": "Spore Hero Arena (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C49E",
+      "size": 67108864,
+      "crc32": "d0d7b1ab",
+      "md5": "3fc26079519f0f01dc09d820a8c19b38",
+      "sha1": "280c9b6fd76f4642e85083c515b4af8b4e7f893c"
+    },
+    {
+      "name": "Spore Hero Arena (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C49P",
+      "size": 67108864,
+      "crc32": "466de28b",
+      "md5": "c65fd993c5ff2b6a56ddb794b65ab754",
+      "sha1": "be8c7bc54e22cea8e6637a41c1ed78d83bccb549"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spore%20Hero%20Arena%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spore%20Hero%20Arena%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spore%20Hero%20Arena%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spore%20Hero%20Arena%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -90,5 +90,104 @@
     "wikidata": "Q840167",
     "mobygames": 48606,
     "igdb": 197926
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YSTE",
+      "size": 67108864,
+      "crc32": "22a0ea2b",
+      "md5": "fb401d5916e2e05c30c964bf9e6bdc9e",
+      "sha1": "35a5565121379e7de2f588cdcb30de927f58a867"
+    },
+    {
+      "name": "Star Wars - The Force Unleashed (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YSTP",
+      "size": 67108864,
+      "crc32": "53f47e71",
+      "md5": "75e41675274d6bbc187cf3be47f526d3",
+      "sha1": "91885454417169dcf57c46fb50bf4e862ae42711"
+    },
+    {
+      "name": "Star Wars - The Force Unleashed (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "YSTK",
+      "size": 67108864,
+      "crc32": "df6c1c61",
+      "md5": "4c80ea751253d52e8d080ce5fa8c06d4",
+      "sha1": "3dc200be85b896e201a6a0ba76297a488c2f3be3",
+      "sha256": "e516e09529bbec5c740c61d8cf733b592e8a58d57ad4e085fff22f6f736c6d10"
+    },
+    {
+      "name": "Star Wars - The Force Unleashed (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YSTJ",
+      "size": 67108864,
+      "crc32": "8954639e",
+      "md5": "0637c66829e9202a375d160ed7b8415d",
+      "sha1": "9afe09d8dbd48b14b5034cb2c6bf2742e2124cf3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Wars%20-%20The%20Force%20Unleashed%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Wars%20-%20The%20Force%20Unleashed%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Wars%20-%20The%20Force%20Unleashed%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Wars%20-%20The%20Force%20Unleashed%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Wars%20-%20The%20Force%20Unleashed%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Wars%20-%20The%20Force%20Unleashed%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Wars%20-%20The%20Force%20Unleashed%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Wars%20-%20The%20Force%20Unleashed%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Wars%20-%20The%20Force%20Unleashed%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -35,5 +35,65 @@
   "external_ids": {
     "wikidata": "Q8074070",
     "igdb": 20773
-  }
+  },
+  "roms": [
+    {
+      "name": "Zoo Tycoon 2 DS (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YZTP",
+      "size": 16777216,
+      "crc32": "e3be42ed",
+      "md5": "9ba2d97b8e617884e7ea82cabfe2edc5",
+      "sha1": "db53f1d737f2f60c0eb1682be9f05701a97ff640"
+    },
+    {
+      "name": "Zoo Tycoon 2 DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YZTE",
+      "size": 16777216,
+      "crc32": "42eb7595",
+      "md5": "e85a8288bf268436f1dde4e9956a725a",
+      "sha1": "49ad0965a2b6fc83b28351d3a35977dd9af72dae"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Tycoon%202%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Zoo%20Tycoon%202%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoo%20Tycoon%202%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Tycoon%202%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Zoo%20Tycoon%202%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoo%20Tycoon%202%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

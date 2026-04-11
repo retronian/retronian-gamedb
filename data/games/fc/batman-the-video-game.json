@@ -88,5 +88,169 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Batman (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "84d34ced",
+      "md5": "19dc15d5448010d8671784929888dbdd",
+      "sha1": "b454b2ba0d18b6e186bfd0a142ca2ebd338cf406",
+      "sha256": "24a81e6b0ad8796ba1542b18f9c05b585a7fc20aa875c6562606db33363e3b51"
+    },
+    {
+      "name": "Batman - The Video Game (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "afa0caac",
+      "md5": "e6d32546222d1ad5700a3c5f228863e3",
+      "sha1": "80f5714d7cd6fc4b4d81f3bd6760f96855702403",
+      "sha256": "dcb70b3d443aefc6ee83a9538493a175bfc91c8b69e4adc69dc99d718aa0ea3e"
+    },
+    {
+      "name": "Batman - The Video Game (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "a87f8344",
+      "md5": "126ee911b9fd35500a44fa77c36719e8",
+      "sha1": "89f5206bf561352915f3f745227f98f008e66e86",
+      "sha256": "39adc19806dbe88224a07eda0ae6382a28c13b62deb3e5f3acf914f4bc109a21"
+    },
+    {
+      "name": "Batman - The Video Game (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "3ad33342",
+      "md5": "a5290cade21531211296bc3fb00ab549",
+      "sha1": "45734aea279c1d76e0c644c4953ad6030ddbe2ba",
+      "sha256": "38c63746970eac5d0a8e6ed40e3c7b7e655d4e7414fc30a3a6ea0f82764e3098"
+    },
+    {
+      "name": "Batman - The Video Game (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "7036788d",
+      "md5": "33d8a05965a5e51fa7ccccd3be413875",
+      "sha1": "56747609d5aa4821efc32faf80b2fc75bcedc18d",
+      "sha256": "1ee05b06979eeb73a34427dd92183306a5ff320e863c2a5f77c94d64188b2db6"
+    },
+    {
+      "name": "Batman - The Video Game (Asia) (En) (Fine Studio) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "870933c5",
+      "md5": "039b05db5f3f27f502c0872a981400f0",
+      "sha1": "9b790bc5738879929f742a596136f12e76d2704f",
+      "sha256": "cce6b2c414c4bb3305bc802cba37adcb10c80b3d56861fc24d99e46df5b9689d"
+    },
+    {
+      "name": "Batman - The Video Game (Asia) (En) (NTDEC) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "eb46f614",
+      "md5": "c192256dcdca7bd81301d20b89e441cd",
+      "sha1": "f5d6f3699d19ebb05b6fe2908595d4eff8876d7a",
+      "sha256": "fc9113362fd068963801751329e9028e0c09e2c5c5acf2a67e07c70d137ef185"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Batman%20-%20The%20Video%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Batman%20-%20The%20Video%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Batman%20-%20The%20Video%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Batman%20-%20The%20Video%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Batman%20-%20The%20Video%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Batman%20-%20The%20Video%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Batman%20-%20The%20Video%20Game%20%28USA%29%20%28Beta%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Batman%20-%20The%20Video%20Game%20%28USA%29%20%28Beta%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Batman%20-%20The%20Video%20Game%20%28USA%29%20%28Beta%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Batman%20-%20The%20Video%20Game%20%28USA%29%20%28Beta%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Batman%20-%20The%20Video%20Game%20%28USA%29%20%28Beta%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Batman%20-%20The%20Video%20Game%20%28USA%29%20%28Beta%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Batman%20-%20The%20Video%20Game%20%28Asia%29%20%28En%29%20%28Fine%20Studio%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Batman%20-%20The%20Video%20Game%20%28Asia%29%20%28En%29%20%28Fine%20Studio%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Batman%20-%20The%20Video%20Game%20%28Asia%29%20%28En%29%20%28NTDEC%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Batman%20-%20The%20Video%20Game%20%28Asia%29%20%28En%29%20%28NTDEC%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

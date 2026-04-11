@@ -71,5 +71,66 @@
   "external_ids": {
     "wikidata": "Q1764451",
     "igdb": 220967
-  }
+  },
+  "roms": [
+    {
+      "name": "Pro Evolution Soccer 2008 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YW8P",
+      "size": 134217728,
+      "crc32": "0cd2c655",
+      "md5": "792a918a57ead8d4272dbf37c930498b",
+      "sha1": "bc3f9892a7c276e1c82a560ec46eea510af895d2",
+      "sha256": "e654e32c5b1b0068319ec252817dbf07ba74cbde093f4a335ebd500cf1acd391"
+    },
+    {
+      "name": "Pro Evolution Soccer 2008 (USA) (En,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YW8E",
+      "size": 134217728,
+      "crc32": "c69e7df8",
+      "md5": "7015f3fb8bb39eb7a67a1e708b3143fc",
+      "sha1": "7a68f151b0867d19cae08ccbc942e115b49b0738"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pro%20Evolution%20Soccer%202008%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pro%20Evolution%20Soccer%202008%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pro%20Evolution%20Soccer%202008%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pro%20Evolution%20Soccer%202008%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pro%20Evolution%20Soccer%202008%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pro%20Evolution%20Soccer%202008%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -63,5 +63,121 @@
     "wikidata": "Q608480",
     "mobygames": 12191,
     "igdb": 72808
-  }
+  },
+  "roms": [
+    {
+      "name": "Knight Rider (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 196624,
+      "crc32": "8df3afae",
+      "md5": "e36200bfd797cac37eb6a4ec01b6fdba",
+      "sha1": "cdf96c0f63f106611ab9318ed61f486d4d6744bf",
+      "sha256": "e546ffb2b722696acb43575546c0363b5db199840a5570699e49162354ec28d6"
+    },
+    {
+      "name": "Knight Rider (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "d6c7c7dd",
+      "md5": "f0b9f84d86a5a4e3bbeb1c6e9b6fcecf",
+      "sha1": "fb275d4f0a07ec54151acfe061249a526625b0cb",
+      "sha256": "be10b880fe3a6ff412e8b15822798fbd15c42da2a5689c12b9e1d41462a81c41"
+    },
+    {
+      "name": "Knight Rider (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 196624,
+      "crc32": "5bfcf9ed",
+      "md5": "5c6cf7e5eb795ada57a6d11cd14c72eb",
+      "sha1": "cd2357bfc5ca4ad278a553e22d2d4c92c433038b",
+      "sha256": "90ac24010e3014cbee60f7856cf77d6289f09447d6af8ff6ad602b494b903296"
+    },
+    {
+      "name": "Knight Rider (Japan) (FamicomBox)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "e6d9c9ca",
+      "md5": "caf923eb69dd74b2986e9320c45ae4b6",
+      "sha1": "e07190e65d59308a453fbd7f5c46c4f8ee1c6776",
+      "sha256": "5b76c6a0b02f01798288cf5046925724cb1c25a8aedc6068d199a03162d93239"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Knight%20Rider%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Knight%20Rider%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Knight%20Rider%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Knight%20Rider%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Knight%20Rider%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Knight%20Rider%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Knight%20Rider%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Knight%20Rider%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Knight%20Rider%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Knight%20Rider%20%28Japan%29%20%28FamicomBox%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Knight%20Rider%20%28Japan%29%20%28FamicomBox%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Knight%20Rider%20%28Japan%29%20%28FamicomBox%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

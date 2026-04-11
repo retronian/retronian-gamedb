@@ -27,5 +27,66 @@
     "wikidata": "Q16839842",
     "mobygames": 31480,
     "igdb": 4884
-  }
+  },
+  "roms": [
+    {
+      "name": "Geometry Wars - Galaxies (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YGLE",
+      "size": 67108864,
+      "crc32": "b74c1946",
+      "md5": "872821293f0e2f8b099c6688c254c9ff",
+      "sha1": "3004196367f5deb9072bb81e70276047e2ce877b"
+    },
+    {
+      "name": "Geometry Wars - Galaxies (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YGLP",
+      "size": 67108864,
+      "crc32": "ea3f0dd2",
+      "md5": "79b07f69d2a4148bdd546e2479bd4fd2",
+      "sha1": "564ddc62d0982efc1e0c0dee74247ad918a44834",
+      "sha256": "39a073d1e83ecb9c1d42940d086eb3c92751f50f35f11c815e40652d66156b7b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Geometry%20Wars%20-%20Galaxies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Geometry%20Wars%20-%20Galaxies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Geometry%20Wars%20-%20Galaxies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Geometry%20Wars%20-%20Galaxies%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Geometry%20Wars%20-%20Galaxies%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Geometry%20Wars%20-%20Galaxies%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

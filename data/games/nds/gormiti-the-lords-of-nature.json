@@ -45,5 +45,53 @@
     "wikidata": "Q3773571",
     "mobygames": 88202,
     "igdb": 188105
-  }
+  },
+  "roms": [
+    {
+      "name": "Gormiti - The Lords of Nature! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BGMP",
+      "size": 67108864,
+      "crc32": "21c0b533",
+      "md5": "3bfc8205ae9653530224413bf504534f",
+      "sha1": "52546941b237e94dcf4a696475002cd23443f581"
+    },
+    {
+      "name": "Gormiti - The Lords of Nature! (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BGME",
+      "size": 67108864,
+      "crc32": "8e5437c4",
+      "md5": "588d5672e91f06b74ff820d0726c2bdf",
+      "sha1": "2bbc3862430d184de998e0dd6f2da107a3f29405"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Gormiti%20-%20The%20Lords%20of%20Nature%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Gormiti%20-%20The%20Lords%20of%20Nature%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Gormiti%20-%20The%20Lords%20of%20Nature%21%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Gormiti%20-%20The%20Lords%20of%20Nature%21%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

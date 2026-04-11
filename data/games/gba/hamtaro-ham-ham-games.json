@@ -18,5 +18,66 @@
     "wikidata": "Q5646439",
     "mobygames": 71279,
     "igdb": 6429
-  }
+  },
+  "roms": [
+    {
+      "name": "Hamtaro - Ham-Ham Games (Japan, USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B85A",
+      "size": 16777216,
+      "crc32": "cc1cf806",
+      "md5": "9eecb3d524fe8bc2362b3f0b1045f4ab",
+      "sha1": "666f9182358d10355ac1a505f52569362ae794b8",
+      "sha256": "2b20acddd425242b088b1aa19721c06ae886281a37d11dd87ef59f0db271e4d1"
+    },
+    {
+      "name": "Hamtaro - Ham-Ham Games (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B85P",
+      "size": 16777216,
+      "crc32": "d9341d9c",
+      "md5": "58495bb95bd130a980821fd1e8ca38b5",
+      "sha1": "b948e4788310c19a76af6d69847515424b618bea"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hamtaro%20-%20Ham-Ham%20Games%20%28Japan%2C%20USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hamtaro%20-%20Ham-Ham%20Games%20%28Japan%2C%20USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hamtaro%20-%20Ham-Ham%20Games%20%28Japan%2C%20USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hamtaro%20-%20Ham-Ham%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hamtaro%20-%20Ham-Ham%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hamtaro%20-%20Ham-Ham%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

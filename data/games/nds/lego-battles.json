@@ -54,5 +54,54 @@
     "wikidata": "Q1991495",
     "mobygames": 68299,
     "igdb": 2648
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Battles (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C5SE",
+      "size": 134217728,
+      "crc32": "00bb6d1e",
+      "md5": "4507f3c6fba59eed6bbaeb688a3d1447",
+      "sha1": "f25d090feb840e9b4b07546b6929d897e3fb3965",
+      "sha256": "4d2d71719b4588272cc8f48995f0bd4d9dcb5af0fdb67b0b645c72dcb8dcd489"
+    },
+    {
+      "name": "LEGO Battles (Europe) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C5SP",
+      "size": 134217728,
+      "crc32": "7a984f9a",
+      "md5": "5e554ed7ef1227b71d5e491217d7cb2c",
+      "sha1": "da60469bd143eb8f47ecf0d7951181b4783c91b4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Battles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Battles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Battles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Battles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

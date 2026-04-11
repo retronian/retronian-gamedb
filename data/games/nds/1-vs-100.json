@@ -44,5 +44,71 @@
   "external_ids": {
     "wikidata": "Q4596044",
     "mobygames": 84507
-  }
+  },
+  "roms": [
+    {
+      "name": "1 gegen 100 (Germany)",
+      "source": "no_intro",
+      "serial": "YJYD",
+      "size": 8388608,
+      "crc32": "220d4186",
+      "md5": "64ee6c3de769f93dc47ff4fc5a3b5979",
+      "sha1": "80a346745f8aab540ceed1a04168afc92c32f5eb"
+    },
+    {
+      "name": "1 vs 100 (Australia)",
+      "source": "no_intro",
+      "region": "au",
+      "serial": "YJYP",
+      "size": 8388608,
+      "crc32": "a9c59aa6",
+      "md5": "9f95759f95e451489cb0ed1bdf61d41e",
+      "sha1": "546faa05d1c37d9418f27a0c370c8bf491443b6d"
+    },
+    {
+      "name": "1 vs 100 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CIOE",
+      "size": 16777216,
+      "crc32": "a5174778",
+      "md5": "674d741ee9320c484165986c4d5ddd71",
+      "sha1": "650dae605ecf42a7a305d13ac8a3a50f17958e39"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/1%20gegen%20100%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/1%20gegen%20100%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/1%20gegen%20100%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/1%20vs%20100%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/1%20vs%20100%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/1%20vs%20100%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

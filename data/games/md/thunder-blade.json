@@ -56,6 +56,51 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Super Thunder Blade",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Super Thunder Blade",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Super Thunder Blade",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Super Thunder Blade",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "スーパーサンダーブレード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1987-01-01",
@@ -63,5 +108,45 @@
     "wikidata": "Q3020084",
     "mobygames": 15169,
     "igdb": 4471
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Thunder Blade (Japan) (En) (Launch Cart)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004003-00",
+      "size": 524288,
+      "crc32": "8bd77836",
+      "md5": "15268ba530efea609e201df49e9514e2",
+      "sha1": "f40bef7a5a2e414d87335e3e56a2c34fb4f83fca",
+      "sha256": "c5d33c2ee57ce6b47d6f0b7060ddf1d2a4613d6a1949e86277d017046eec39f6"
+    },
+    {
+      "name": "Super Thunder Blade (World)",
+      "source": "no_intro",
+      "serial": "00004003-01",
+      "size": 524288,
+      "crc32": "b13087ee",
+      "md5": "04da37f2a95340243bff72c82d4c7b73",
+      "sha1": "21810b4a309a5b9a70965dd440e9aeed0b6ca4c5",
+      "sha256": "a57fd2b6a054045bef304a8ae71b5ecf043bdb95934d28c6c7ffc89768b79c36"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Thunder%20Blade%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Thunder%20Blade%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Thunder%20Blade%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

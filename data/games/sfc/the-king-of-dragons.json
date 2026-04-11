@@ -74,6 +74,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "King of Dragons, The",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "1994-03-04",
@@ -81,5 +90,100 @@
     "wikidata": "Q1985746",
     "mobygames": 17393,
     "igdb": 324159
-  }
+  },
+  "descriptions": [
+    {
+      "text": "ザ・キングオブドラゴンズは、ファンタジーをテーマにした横スクロールのビート'emアップゲームです。選べるキャラクターは5種類あり、ファイター、クレリック、エルフ、ウィザード、ドワーフがいます。すべてのキャラクターは、スピード、攻撃力、魔法において異なる強みと弱みを持っています。適切なキャラクターを選んだ後、プレイヤーは多数の短いステージを進み、同様に多くのボスと戦いながら、より良い武器や盾/魔法を手に入れていきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "King of Dragons (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "78f0820b",
+      "md5": "11f55eea6b817c9ccfb6151f8c707c7e",
+      "sha1": "e65eaa67dbc227fead5ecc15e23771c29050eecd",
+      "sha256": "f016745ba3961a55fa5bc72505cb3937b5a9c0d75ff626921461d3903271a5d5"
+    },
+    {
+      "name": "King of Dragons (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "dd505df7",
+      "md5": "1ca6d04fce9ffde7de781398a18da88c",
+      "sha1": "792355fb2ce50496b84760e3833662ca1c63cfc5",
+      "sha256": "6638b5541059814d4c34574e5e277ef613aebf81c91d3def557a7642fb5840e1"
+    },
+    {
+      "name": "King of Dragons, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "68b09b12",
+      "md5": "d1e78775d72e96fb3404566d2871a795",
+      "sha1": "8ea9cd119bb2b23ff1db2b64a06db31bae5eca09",
+      "sha256": "47633b20d2f683dda6cbd739630170d8c20f0511be0c70772c9e21e62bd96bf0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/King%20of%20Dragons%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/King%20of%20Dragons%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/King%20of%20Dragons%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/King%20of%20Dragons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/King%20of%20Dragons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/King%20of%20Dragons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/King%20of%20Dragons%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/King%20of%20Dragons%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/King%20of%20Dragons%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

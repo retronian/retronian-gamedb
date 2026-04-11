@@ -54,5 +54,65 @@
     "wikidata": "Q3388790",
     "mobygames": 6747,
     "igdb": 308714
-  }
+  },
+  "roms": [
+    {
+      "name": "Pinocchio (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "085c4a02",
+      "md5": "37f2e18c9c015c6578ef3dd404dafe26",
+      "sha1": "7716809645e00be2fdbbbfd05823a14856f01183",
+      "sha256": "8a64d5143baee19a034225e9d20df1d5f4c8fd343e0ce7a03107e606c10dd73b"
+    },
+    {
+      "name": "Pinocchio (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "2d924e46",
+      "md5": "97fecf5ab824825b781771a40e1c60bf",
+      "sha1": "e17c15325a1eaf5bb365ae4923c660e8c98a1d6b",
+      "sha256": "fddf9b0ebdc5294554339b59dd9b949286e5281bf81f05bc4c1759844effc0a9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pinocchio%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pinocchio%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pinocchio%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pinocchio%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pinocchio%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pinocchio%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

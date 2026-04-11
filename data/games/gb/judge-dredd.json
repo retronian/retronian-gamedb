@@ -52,5 +52,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Judge Dredd (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "951b9907",
+      "md5": "c7f41e40a9e5a9141ca80be614e0907b",
+      "sha1": "cb5d6f34f5289c16782edee0257649bfcb82c096",
+      "sha256": "c5588c855c0c586075f30552cddd348adf4325b63a6abd0829c85a8dd59e105b"
+    },
+    {
+      "name": "Judge Dredd (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "b9d11656",
+      "md5": "7e9d69eacd6b4c82527065bcf63e474b",
+      "sha1": "36266c67c4fb095566401c25b11981785ac20a7d",
+      "sha256": "5ae78df70070ae41752bed03f866e3e9e701fbdb80dd08e13031823a4559d42b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Judge%20Dredd%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Judge%20Dredd%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Judge%20Dredd%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

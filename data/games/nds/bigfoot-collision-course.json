@@ -27,5 +27,65 @@
     "wikidata": "Q4906833",
     "mobygames": 90659,
     "igdb": 4714
-  }
+  },
+  "roms": [
+    {
+      "name": "Bigfoot - Collision Course (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CFXE",
+      "size": 16777216,
+      "crc32": "c6ac89cc",
+      "md5": "662fb8fd8039e026c6eceac5f781832f",
+      "sha1": "6d3a579d247a117758e2ff66dc1052ec7681fc1f"
+    },
+    {
+      "name": "Bigfoot - Collision Course (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CVFP",
+      "size": 16777216,
+      "crc32": "54732860",
+      "md5": "197e455b7a8a2a3dfe195b3183c563ec",
+      "sha1": "fa7640582726cf6451a5001618ec24b97c6c0e92"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bigfoot%20-%20Collision%20Course%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bigfoot%20-%20Collision%20Course%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bigfoot%20-%20Collision%20Course%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bigfoot%20-%20Collision%20Course%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bigfoot%20-%20Collision%20Course%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bigfoot%20-%20Collision%20Course%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

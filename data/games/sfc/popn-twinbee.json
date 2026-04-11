@@ -99,5 +99,113 @@
     "wikidata": "Q7228930",
     "mobygames": 28702,
     "igdb": 51948
-  }
+  },
+  "roms": [
+    {
+      "name": "Pop'n TwinBee (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "588a9707",
+      "md5": "ed9c32231cd480448f355c4ed54b1bae",
+      "sha1": "04919a4deb715c417acab5e2cc6a4a27d7eccc37",
+      "sha256": "979572fe92501a409207399817911d04438f4078bc6832cbc851e98eb2f1c2d2"
+    },
+    {
+      "name": "Pop'n TwinBee (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ee13e32d",
+      "md5": "38888b0cb0609e19b09abc2a1adfbfef",
+      "sha1": "4c1b2a49bfc9845e62931b0197c410efb52a5abd",
+      "sha256": "7166f5ef99fffb661faba74add41515672fe3f4952083d0057ce2f4f147d9a93"
+    },
+    {
+      "name": "Pop'n TwinBee (Japan) (Beta 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "5d3b200f",
+      "md5": "317d20921baa2c4b6dee78a9733b6905",
+      "sha1": "a56fc2d43c63e03e1bb1872d0a6eb79cbb721e14",
+      "sha256": "7497c1f9baf2180fdadb57aa444481e215c09b9d6abd1df4035f167af518810b"
+    },
+    {
+      "name": "Pop'n TwinBee (Japan) (Beta 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "fdd56eb2",
+      "md5": "31cb3860a435a155d8adaa4a31314180",
+      "sha1": "28a6524a4f48a4d48bdadee6e1fc1862dea0fe00",
+      "sha256": "f1ff0bc8c501817f6feb97b6bdc304f35817e32513fdafc13868b65e8c7e8a56"
+    },
+    {
+      "name": "Pop'n TwinBee (USA, Europe) (Switch Online)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "950696d9",
+      "md5": "10af6ccea28eeb16c0d8abd7c2a265db",
+      "sha1": "f146317872c6c3312ab1cd674c76a9e964c9910f",
+      "sha256": "d61a2ad65a210167130cd76712525f6134633ef4ba596b2a0e3cf8ea53877720"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pop%27n%20TwinBee%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pop%27n%20TwinBee%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pop%27n%20TwinBee%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pop%27n%20TwinBee%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pop%27n%20TwinBee%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pop%27n%20TwinBee%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pop%27n%20TwinBee%20%28USA%2C%20Europe%29%20%28Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pop%27n%20TwinBee%20%28USA%2C%20Europe%29%20%28Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pop%27n%20TwinBee%20%28USA%2C%20Europe%29%20%28Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -45,5 +45,85 @@
     "wikidata": "Q4354390",
     "mobygames": 85885,
     "igdb": 7090
-  }
+  },
+  "roms": [
+    {
+      "name": "Guitar Hero - On Tour - Modern Hits (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C6QE",
+      "size": 134217728,
+      "crc32": "3f8f632e",
+      "md5": "1f9283336314b62ed1c566ebaacd0b53",
+      "sha1": "a1a49963a582bb8e8a82f0365334505ed503f828"
+    },
+    {
+      "name": "Guitar Hero - On Tour - Modern Hits (Europe) (Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C6QX",
+      "size": 134217728,
+      "crc32": "6adbb28f",
+      "md5": "11f25cde84245e8ea41ca3efd1f18230",
+      "sha1": "2627e50a65643d4802ef748a9f0b29c8c4979c51",
+      "sha256": "8c7aa51a81ac42dfa929c1529afe24cb7a268fa3d6562b1f173ebce2ee5e882e"
+    },
+    {
+      "name": "Guitar Hero - On Tour - Modern Hits (USA) (En,Fr) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "Y6RE",
+      "size": 67108864,
+      "crc32": "145c620e",
+      "md5": "45bcbd00e826cd43ea2bf3cce5488105",
+      "sha1": "914ab1d62b9fd37c69dca38d39ec3be16e80f3a6",
+      "sha256": "5851d769935472d9321c9222a849a6dd0b631608be482cf3c1ebb2e350a995ea"
+    },
+    {
+      "name": "Guitar Hero - On Tour - Modern Hits (United Kingdom)",
+      "source": "no_intro",
+      "serial": "C6QP",
+      "size": 134217728,
+      "crc32": "a3775564",
+      "md5": "3cd028b839c99cb465f6fc17b85d3fea",
+      "sha1": "56c9e63cea2ba1cb752d7999a5420c168ae3a5a4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Guitar%20Hero%20-%20On%20Tour%20-%20Modern%20Hits%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Guitar%20Hero%20-%20On%20Tour%20-%20Modern%20Hits%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Guitar%20Hero%20-%20On%20Tour%20-%20Modern%20Hits%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Guitar%20Hero%20-%20On%20Tour%20-%20Modern%20Hits%20%28USA%29%20%28En%2CFr%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Guitar%20Hero%20-%20On%20Tour%20-%20Modern%20Hits%20%28USA%29%20%28En%2CFr%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Guitar%20Hero%20-%20On%20Tour%20-%20Modern%20Hits%20%28United%20Kingdom%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

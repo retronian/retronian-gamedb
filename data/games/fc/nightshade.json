@@ -54,5 +54,46 @@
     "wikidata": "Q7034038",
     "mobygames": 20038,
     "igdb": 39119
-  }
+  },
+  "roms": [
+    {
+      "name": "Nightshade (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "2541db5c",
+      "md5": "130a0a6159f3061a8f4533e062b97f57",
+      "sha1": "8cb19862d22fad9b77d1e8bbea4596ea8992e0b1",
+      "sha256": "0edb417e302236b92171bde4d38bbc90e923d334e387f392d11c6820abc22920"
+    },
+    {
+      "name": "Nightshade (World) (Digital)",
+      "source": "no_intro",
+      "size": 524304,
+      "crc32": "4a548b97",
+      "md5": "b6ef48c96ba4e1abe06bed5cf7d9ab63",
+      "sha1": "7bfee96f005fe84977311b2bc99a36ec9114953a",
+      "sha256": "3de6b560e062d759b858e2c71ab70ff088d59865a37fa46fecb67ac7957a777f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Nightshade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Nightshade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Nightshade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

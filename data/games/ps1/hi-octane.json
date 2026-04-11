@@ -63,5 +63,63 @@
     "wikidata": "Q1114989",
     "mobygames": 2208,
     "igdb": 12434
-  }
+  },
+  "roms": [
+    {
+      "name": "Hi-Octane (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 47550816,
+      "crc32": "3e6446cc",
+      "md5": "c878d365f04cc084932ed172ee087d32",
+      "sha1": "76ad692f7f439ea6b9328ffdb9e7d39f002addf0"
+    },
+    {
+      "name": "Hi-Octane (Germany)",
+      "source": "no_intro",
+      "size": 36505536,
+      "crc32": "965388c6",
+      "md5": "f7c00a16c5d26dd5c66bf431c2653f33",
+      "sha1": "8816d9f23c6c15cd8c1f1e337358a993e2dd3c54"
+    },
+    {
+      "name": "Hi-Octane (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 36411232,
+      "crc32": "9de22071",
+      "md5": "45fecb796fe4b13240064122e620bc7c",
+      "sha1": "d76c25392e00343af31f69da7c5d54743e77fa66",
+      "sha256": "1bf77cd4643897de76f9dc9b872b6668758cfda23d93d9178f3e76dfa9bfb846"
+    },
+    {
+      "name": "Hi-Octane (France)",
+      "source": "no_intro",
+      "size": 36483696,
+      "crc32": "6d6348a5",
+      "md5": "54fe829bf4f404138dc03625700d6e17",
+      "sha1": "4e4dfe8492d5f1a1f762290c181b5e74d80f6321",
+      "sha256": "e55027587ac87b6f6c9c0b7fc9a1929c5b2323b8e4b554111d2342dcc775a781"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Hi-Octane%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Hi-Octane%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Hi-Octane%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

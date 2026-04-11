@@ -54,5 +54,65 @@
     "wikidata": "Q7676937",
     "mobygames": 19052,
     "igdb": 243146
-  }
+  },
+  "roms": [
+    {
+      "name": "Tak 2 - The Staff of Dreams (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BT9E",
+      "size": 8388608,
+      "crc32": "8f7eb026",
+      "md5": "05b2267bdf77e3d36d0b96c22d3af844",
+      "sha1": "f90219db6359332eb997a2717986a8c66eaded2b"
+    },
+    {
+      "name": "Tak 2 - The Staff of Dreams (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BT9X",
+      "size": 8388608,
+      "crc32": "91dd701d",
+      "md5": "c7174179fdb9d5dca2a150351adc3a58",
+      "sha1": "c288c5fd548d2dde5e03b41e221bb9d6b2eff28a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tak%202%20-%20The%20Staff%20of%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tak%202%20-%20The%20Staff%20of%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tak%202%20-%20The%20Staff%20of%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tak%202%20-%20The%20Staff%20of%20Dreams%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tak%202%20-%20The%20Staff%20of%20Dreams%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tak%202%20-%20The%20Staff%20of%20Dreams%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

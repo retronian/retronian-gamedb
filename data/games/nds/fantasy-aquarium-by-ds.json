@@ -17,5 +17,65 @@
     "wikidata": "Q131851909",
     "mobygames": 35370,
     "igdb": 69090
-  }
+  },
+  "roms": [
+    {
+      "name": "Fantasy Aquarium by DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQ7E",
+      "size": 8388608,
+      "crc32": "7d7746e3",
+      "md5": "310224ef563c6e8337dfbc74dfad0a5c",
+      "sha1": "c7db9e8f052d8ee29ab4836d7eb25a0f1cef02e9"
+    },
+    {
+      "name": "Fantasy Aquarium by DS (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQ7P",
+      "size": 8388608,
+      "crc32": "806e8e92",
+      "md5": "5cce16d25a50de5738de6d7b5455d0fd",
+      "sha1": "9c748ebe2cf825b2cb525e94389bd6f35471717b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fantasy%20Aquarium%20by%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fantasy%20Aquarium%20by%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fantasy%20Aquarium%20by%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fantasy%20Aquarium%20by%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fantasy%20Aquarium%20by%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fantasy%20Aquarium%20by%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

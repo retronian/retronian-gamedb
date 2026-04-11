@@ -45,5 +45,87 @@
     "wikidata": "Q3171670",
     "mobygames": 6691,
     "igdb": 5427
-  }
+  },
+  "roms": [
+    {
+      "name": "Radical Rex (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-130026-00",
+      "size": 1048576,
+      "crc32": "bf2912e3",
+      "md5": "b17bcea8aefc7af6b34c891745cd1fbf",
+      "sha1": "da7400580b757d531f86e62b3f211798d8663237",
+      "sha256": "3459308a21b81fc74de7632ba61cad79a24c114bbe17b4bb4433018da031ab66"
+    },
+    {
+      "name": "Radical Rex (World) (QUByte Classics)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "0c70b0ff",
+      "md5": "b4b11cf39f08840be30497763df7f84d",
+      "sha1": "5c9aa67c37a9157335e01f742fc9162194455d1e",
+      "sha256": "859d47b0c85941782386d383466951c35395000eb7b52f268791326c7c9a891b"
+    },
+    {
+      "name": "Radical Rex (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-130026-50",
+      "size": 1048576,
+      "crc32": "d02d3282",
+      "md5": "3873eff5958db95da3fcc64e9ab1151a",
+      "sha1": "c8dc73b7cabf43813f9cf09370a4437af4f1573f",
+      "sha256": "13224763af87a8849594281b14ec689635f2da41284a22f274d6c17d6f4f9c13"
+    },
+    {
+      "name": "Radical Rex (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-130026-00",
+      "size": 1048576,
+      "crc32": "2e6eec7e",
+      "md5": "41b34e2f22ca4cfffb2d6190fad878e4",
+      "sha1": "51019abbb8a4fc246eacd5f553628b74394fab66",
+      "sha256": "30ada71d1c1aa0aa02e372db9df017a96be6a9072ad191aa08982d0e2b7e66f5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Radical%20Rex%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Radical%20Rex%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Radical%20Rex%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Radical%20Rex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Radical%20Rex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Radical%20Rex%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

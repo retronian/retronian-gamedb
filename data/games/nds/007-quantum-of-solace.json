@@ -89,5 +89,105 @@
   "external_ids": {
     "wikidata": "Q1070821",
     "mobygames": 37461
-  }
+  },
+  "roms": [
+    {
+      "name": "007 - Quantum of Solace (Europe) (Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CQSX",
+      "size": 33554432,
+      "crc32": "50501c02",
+      "md5": "fc59502f8f2e4cbd6b4a1291da962715",
+      "sha1": "0ab236810ef7e31d97ccd85d53a7a26020fd5a6f"
+    },
+    {
+      "name": "007 - Quantum of Solace (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "CQSK",
+      "size": 33554432,
+      "crc32": "6967847a",
+      "md5": "8b1fe8ecf1e4f03ae49d434ea7c7dcf7",
+      "sha1": "64bc4e0f64100172f2612f532e73999b9a1cbc77",
+      "sha256": "32508feb6cd2ab55133ed5fa1019c83db93c9fdfcf2a52a27d598ef77777f9c1"
+    },
+    {
+      "name": "007 - Quantum of Solace (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CQSP",
+      "size": 33554432,
+      "crc32": "06b361c3",
+      "md5": "407a71d4d2167c0b4e42c53b4e440981",
+      "sha1": "a1a860f2b7f4df1dd1a4aeab70f294494351f736",
+      "sha256": "8f00c9f394f2d7cf1288b5ddc26c4a236e5c46e09b8ca1cdb83948dcadefefe3"
+    },
+    {
+      "name": "007 - Quantum of Solace (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CQSE",
+      "size": 33554432,
+      "crc32": "283013fa",
+      "md5": "ed77d9951a61e1b2aebbdc3c3edd7f07",
+      "sha1": "c2d2434d0323312f4fc2680d8ff9659be7e38201"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/007%20-%20Quantum%20of%20Solace%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/007%20-%20Quantum%20of%20Solace%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/007%20-%20Quantum%20of%20Solace%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/007%20-%20Quantum%20of%20Solace%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/007%20-%20Quantum%20of%20Solace%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/007%20-%20Quantum%20of%20Solace%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/007%20-%20Quantum%20of%20Solace%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/007%20-%20Quantum%20of%20Solace%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/007%20-%20Quantum%20of%20Solace%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -54,5 +54,47 @@
     "wikidata": "Q7997606",
     "mobygames": 30442,
     "igdb": 48257
-  }
+  },
+  "roms": [
+    {
+      "name": "Whomp 'Em (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "d46c404b",
+      "md5": "cc683378f7f3e1bea0783cf76102bef7",
+      "sha1": "230e01b318401e552f9dd17e210b91c0e1ef32f8",
+      "sha256": "f2c39941c482f7c4200e4d01ec718235a42ab7c7c10fefb040a039736cc26789"
+    },
+    {
+      "name": "Whomp 'Em (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "605ee262",
+      "md5": "dd615a0864ee6a6339b674f027cf11bb",
+      "sha1": "e13740a5dde8e36d46e2315b611d01f4631431f8",
+      "sha256": "b3beba5194c74f28ee6f470f6c7e05abc536205a6966abca5c493c8c9d23ee67"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Whomp%20%27Em%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Whomp%20%27Em%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Whomp%20%27Em%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -61,5 +61,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Thunder Fox (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-11113-00",
+      "size": 1048576,
+      "crc32": "eca6cffa",
+      "md5": "8431e1a6744b8994f366a91c9e47377d",
+      "sha1": "4e6dc58327bdbb5d0d885b3cecf89fe139b32532",
+      "sha256": "1dbdf38d04ff8f6760d00cd57f3d1aa836df17bce0cc74f22957d55cdacde419"
+    },
+    {
+      "name": "Thunder Fox (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-11066-00",
+      "size": 1048576,
+      "crc32": "5463f50f",
+      "md5": "ca6f52b094db8bb2c5a4deaebe6b56ce",
+      "sha1": "c1699ccabb89c2877dd616471e80d175434bffe3",
+      "sha256": "da7f7dae04f702c038878d5be94ba7b44a9b0f2d8cfa1af1b302fcc03ebda3f8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Thunder%20Fox%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Thunder%20Fox%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Thunder%20Fox%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Thunder%20Fox%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Thunder%20Fox%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Thunder%20Fox%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

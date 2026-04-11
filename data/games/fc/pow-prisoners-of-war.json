@@ -63,5 +63,65 @@
     "wikidata": "Q3359482",
     "mobygames": 7358,
     "igdb": 274103
-  }
+  },
+  "roms": [
+    {
+      "name": "P.O.W. - Prisoners of War (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "3f4de398",
+      "md5": "cf97bde6d8f36d46979c312c098a9984",
+      "sha1": "6fe16c7e7ee9f68a16d1164b723bcfa3f6ec466f",
+      "sha256": "29313f6175ce926bf86fc8812b1986e2cf9d54d2a951f8cc2206886343bce2ec"
+    },
+    {
+      "name": "P.O.W. - Prisoners of War (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "89bc940e",
+      "md5": "64563438e7c000895be4e40f1203abd4",
+      "sha1": "8ba7f74d4f8a64dd13a33bdbd67c0f73efa9a1ef",
+      "sha256": "5e121d8da5600dda436c248369930570afc5015f064f5147bf73d59ebc387733"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/P.O.W.%20-%20Prisoners%20of%20War%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/P.O.W.%20-%20Prisoners%20of%20War%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/P.O.W.%20-%20Prisoners%20of%20War%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/P.O.W.%20-%20Prisoners%20of%20War%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/P.O.W.%20-%20Prisoners%20of%20War%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/P.O.W.%20-%20Prisoners%20of%20War%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

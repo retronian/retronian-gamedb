@@ -18,5 +18,76 @@
     "wikidata": "Q132296647",
     "mobygames": 102838,
     "igdb": 50970
-  }
+  },
+  "roms": [
+    {
+      "name": "Aliens in the Attic (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C4RE",
+      "size": 33554432,
+      "crc32": "e391c0ba",
+      "md5": "a86f2b0db00fbaa46431e108dbed939c",
+      "sha1": "d0d2f86f5285573f1767698e33dd457bc708872a"
+    },
+    {
+      "name": "Aliens in the Attic (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C4RP",
+      "size": 33554432,
+      "crc32": "f3124477",
+      "md5": "f6276de988247082e660eb264f09bfa1",
+      "sha1": "1d7669ec72f2072b36c13d2c2236240d2bc33717"
+    },
+    {
+      "name": "Aliens in the Attic (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C4RP",
+      "size": 33554432,
+      "crc32": "926ef3ff",
+      "md5": "4f2e1d0db56985f3722f79a651cc8419",
+      "sha1": "3afdff95f1fb165f33bfa674d1d2cb10c070d9f5",
+      "sha256": "dade89d1e9308ec4e5d1c2fe2e3cd57de8cf1f1ad9d43da6dd101a215f9fa23a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Aliens%20in%20the%20Attic%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Aliens%20in%20the%20Attic%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Aliens%20in%20the%20Attic%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Aliens%20in%20the%20Attic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Aliens%20in%20the%20Attic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Aliens%20in%20the%20Attic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

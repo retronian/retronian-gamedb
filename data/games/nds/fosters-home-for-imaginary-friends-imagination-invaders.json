@@ -18,5 +18,65 @@
     "wikidata": "Q28127031",
     "mobygames": 31681,
     "igdb": 8004
-  }
+  },
+  "roms": [
+    {
+      "name": "Foster's Home for Imaginary Friends - Imagination Invaders (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YFIP",
+      "size": 67108864,
+      "crc32": "3ffed228",
+      "md5": "a9e2e28f99c77594019395f033bd1bb9",
+      "sha1": "39c4b810ce785b76a15265e1d027446fc92c17d8"
+    },
+    {
+      "name": "Foster's Home for Imaginary Friends - Imagination Invaders (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YFIE",
+      "size": 67108864,
+      "crc32": "37b35c2f",
+      "md5": "805ac625e6dcc004fe74ebf3ad1956ef",
+      "sha1": "86fd2b4fb30a4541d0138d92a1990ee054d3a400"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Foster%27s%20Home%20for%20Imaginary%20Friends%20-%20Imagination%20Invaders%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Foster%27s%20Home%20for%20Imaginary%20Friends%20-%20Imagination%20Invaders%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Foster%27s%20Home%20for%20Imaginary%20Friends%20-%20Imagination%20Invaders%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Foster%27s%20Home%20for%20Imaginary%20Friends%20-%20Imagination%20Invaders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Foster%27s%20Home%20for%20Imaginary%20Friends%20-%20Imagination%20Invaders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Foster%27s%20Home%20for%20Imaginary%20Friends%20-%20Imagination%20Invaders%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

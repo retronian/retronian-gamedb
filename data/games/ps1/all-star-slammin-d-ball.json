@@ -61,5 +61,47 @@
     "wikidata": "Q132859141",
     "mobygames": 44274,
     "igdb": 43929
-  }
+  },
+  "roms": [
+    {
+      "name": "All Star Slammin' D-Ball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 94606736,
+      "crc32": "f64297af",
+      "md5": "960b3dbbbe31bd18636867aa0ab4b46e",
+      "sha1": "7522ae2a959687652d1553db2ff4355a4b64bd58",
+      "sha256": "76a858cce0a7982ac9cddd82c6cf09565b1ad2ae63576e415ae013b7d43e13a1"
+    },
+    {
+      "name": "Super Slammin' Dodgeball (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 91981456,
+      "crc32": "18a4bf7a",
+      "md5": "fe3f43c6f863276acb59ba6c5a9bf23a",
+      "sha1": "712fe4bd45d4800323cb83faaa16a67856d2761e",
+      "sha256": "9ffa0cb8685acfa617977e1f38088ff35a2e78250d5d008069f94ca31d731f6b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Super%20Slammin%27%20Dodgeball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Super%20Slammin%27%20Dodgeball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Super%20Slammin%27%20Dodgeball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

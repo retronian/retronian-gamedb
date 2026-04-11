@@ -18,5 +18,76 @@
     "wikidata": "Q3421556",
     "mobygames": 75245,
     "igdb": 3586
-  }
+  },
+  "roms": [
+    {
+      "name": "Ready 2 Rumble Boxing (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NRDP",
+      "size": 33554432,
+      "crc32": "a69df7b3",
+      "md5": "adc95ae01855fa305b13f8b22427e597",
+      "sha1": "e18477d858c623a834f24dc2717d0ef340e63364",
+      "sha256": "2546b5f00c6f0188a31f9ba3782abe059c7dd83fcfee8ff738542eb06a4aafc3"
+    },
+    {
+      "name": "Ready 2 Rumble Boxing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NRDE",
+      "size": 33554432,
+      "crc32": "2a554048",
+      "md5": "a42f6f14f7ea10abeb3b55ffd42eb572",
+      "sha1": "e60fedd535a72fda5c424b846421bbdad17c6caa",
+      "sha256": "649e9f45d7386c3ff5f196d4053d6f458fa5d105264ee88c5937ffd92c7a1bf7"
+    },
+    {
+      "name": "Ready 2 Rumble Boxing (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 33248096,
+      "crc32": "6d8dab04",
+      "md5": "ba7a6054cedf7851b1d8f20efecb02a7",
+      "sha1": "2ad70a3243a20cd02d24103a2717c90654c173ac"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Ready%202%20Rumble%20Boxing%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Ready%202%20Rumble%20Boxing%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Ready%202%20Rumble%20Boxing%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Ready%202%20Rumble%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Ready%202%20Rumble%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Ready%202%20Rumble%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

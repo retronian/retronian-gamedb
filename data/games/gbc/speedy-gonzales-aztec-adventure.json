@@ -54,5 +54,46 @@
     "wikidata": "Q124333359",
     "mobygames": 56038,
     "igdb": 49970
-  }
+  },
+  "roms": [
+    {
+      "name": "Speedy Gonzales - Aztec Adventure (USA, Europe) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "ae82afa4",
+      "md5": "49b834ac7cd50da9b424e17c112c577a",
+      "sha1": "95f868358979c5bbdfa70920fb35b7d4e00bf8cc"
+    },
+    {
+      "name": "Speedy Gonzales - Aztec Adventure (Japan) (Proto) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "c97d74f5",
+      "md5": "dd52cfda22b54bb69a4274b85930934c",
+      "sha1": "b65cd4a60014ecef55b1daca7e17379987f1d983",
+      "sha256": "e419cf62e93c4aeb2e59dd8c05f60685ac56d40ad21308e3a7666a674d147001"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Speedy%20Gonzales%20-%20Aztec%20Adventure%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Speedy%20Gonzales%20-%20Aztec%20Adventure%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Speedy%20Gonzales%20-%20Aztec%20Adventure%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

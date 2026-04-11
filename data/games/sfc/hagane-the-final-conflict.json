@@ -54,5 +54,65 @@
     "wikidata": "Q3782393",
     "mobygames": 27065,
     "igdb": 42611
-  }
+  },
+  "roms": [
+    {
+      "name": "Hagane - The Final Conflict (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "7f6ccf00",
+      "md5": "36b0ef888d3e7352eeee792e173426dc",
+      "sha1": "1cb2695505b781eb5bfdc326c15d096b446b3aa7",
+      "sha256": "ee4ab0df49db4024b5da62d04c18c8c866830b54d286dec69440af7285ec2854"
+    },
+    {
+      "name": "Hagane - The Final Conflict (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "8e0a7034",
+      "md5": "44cb6bbbb233bc5d602d54fd418232f1",
+      "sha1": "380046437930d0e39cebd662ad1657e20ac4c9c8",
+      "sha256": "5a6deb5617e86a9f4b981031e939510e30c5c8ad047f5f012e40442113fd28c2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hagane%20-%20The%20Final%20Conflict%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hagane%20-%20The%20Final%20Conflict%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hagane%20-%20The%20Final%20Conflict%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hagane%20-%20The%20Final%20Conflict%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hagane%20-%20The%20Final%20Conflict%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hagane%20-%20The%20Final%20Conflict%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

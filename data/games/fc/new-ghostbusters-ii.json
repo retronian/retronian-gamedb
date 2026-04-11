@@ -78,5 +78,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "New Ghostbusters II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "c8b675d9",
+      "md5": "5ec0b87ab6210ec7e17177bcf5ccf9b6",
+      "sha1": "1be08545105f9413f28b19fb1245ddf71970a950",
+      "sha256": "9d48c2a526b92193591a14de426df39ef428a1398b1c932d53aea8a63a94ac6f"
+    },
+    {
+      "name": "New Ghostbusters II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "a5a87587",
+      "md5": "3144ac8ec3f7b9fe674d434c93900971",
+      "sha1": "81f13c913f065e1710f42154b264d4fcf3812fd4",
+      "sha256": "e5f3bf014d22297940da3df304e55aa0b9a0efdfd3080b8276de4ec240b62771"
+    },
+    {
+      "name": "New Ghostbusters II (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "a62233e7",
+      "md5": "d515bbb5fc99eb265d692236b5185c62",
+      "sha1": "24f7039b4ac09579b381b962fcd8124ef285fbad",
+      "sha256": "d44c9b192399d4ecf78eba8173690e64e6572053c27ec5590ddce653ac2acd69"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/New%20Ghostbusters%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/New%20Ghostbusters%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/New%20Ghostbusters%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/New%20Ghostbusters%20II%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/New%20Ghostbusters%20II%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/New%20Ghostbusters%20II%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

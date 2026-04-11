@@ -54,5 +54,65 @@
     "wikidata": "Q4357590",
     "mobygames": 14507,
     "igdb": 9104
-  }
+  },
+  "roms": [
+    {
+      "name": "Athletic World (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "77cd19f4",
+      "md5": "f55b873c62cd016a241a7e5860251a49",
+      "sha1": "bbdf1c6ecb8a41d794531330adf07551c0e7cabd",
+      "sha256": "0b5a88527665e7c29f343952ea045daea2e4fa7c86080d8976c3b8eb230650a9"
+    },
+    {
+      "name": "Athletic World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "a9018ba1",
+      "md5": "f32924590552ccbe905785b3d1c87b82",
+      "sha1": "8b447e67729a1ee3b5f26d04d11ed04692a6510f",
+      "sha256": "8fd8da840061b7bde31f354eae86da6ca6948fab6c5824718e9d585b4993fd8d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Athletic%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Athletic%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Athletic%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Athletic%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Athletic%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Athletic%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -17,5 +17,63 @@
     "wikidata": "Q109016246",
     "mobygames": 5020,
     "igdb": 8699
-  }
+  },
+  "roms": [
+    {
+      "name": "Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "f6a876a5",
+      "md5": "9d79034c9b026f448f84f9898c6ccfd6",
+      "sha1": "4e0c0e15beac73913320f8ab68001f90f52beb92"
+    },
+    {
+      "name": "Shadowgate Classic (Europe) (En,Fr,De,Es,Sv) (Rev 1) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "d337f450",
+      "md5": "90280833c156e2ca8e4eaa29adf369b2",
+      "sha1": "b7343c9ce3343fa618a6c208969446b964dde5f5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Shadowgate%20Classic%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Shadowgate%20Classic%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Shadowgate%20Classic%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Shadowgate%20Classic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CSv%29%20%28Rev%201%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Shadowgate%20Classic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CSv%29%20%28Rev%201%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Shadowgate%20Classic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CSv%29%20%28Rev%201%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

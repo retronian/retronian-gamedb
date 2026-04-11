@@ -34,5 +34,37 @@
       "source": "romu"
     }
   ],
-  "first_release_date": "1987-04-01"
+  "first_release_date": "1987-04-01",
+  "roms": [
+    {
+      "name": "Sanma no Meitantei (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "b87b912e",
+      "md5": "d7e8190c32e72c4e2445038d9d1b0b1c",
+      "sha1": "27b4bbb969d3f9b7ed6e8684f8bf065e2ba66566",
+      "sha256": "e07c0a6a2142b251f95e2d1be8b379cbe2390ccbbf27cbb9b20b8f9a8e05cf88"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Sanma%20no%20Meitantei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Sanma%20no%20Meitantei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Sanma%20no%20Meitantei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -52,5 +52,57 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Space Hunter (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "09b6d08c",
+      "md5": "cce5c035b1b1e487004e83f41d510475",
+      "sha1": "3e33b5eb0e6982a6245600340dfaeb1cfa3758aa",
+      "sha256": "537c20ef7f4a8ba3dd00b6b5f92956bc4fc6b9524577af5a259893a822840f75"
+    },
+    {
+      "name": "Space Hunter (Japan) (Beta 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "57c1c8fa",
+      "md5": "ff66fd1ffaeceac85d8336d95b7d4fa4",
+      "sha1": "0bde6c8f48c2b225381b5ef7a5656be11c45fc5a",
+      "sha256": "11a5449defed3e2bdb9f39c0380e9e488ff411dee81996aa0fb6987912b054dc"
+    },
+    {
+      "name": "Space Hunter (Japan) (Beta 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "cbdc3170",
+      "md5": "1d3f9935ac60db5da255b4a6422c3c76",
+      "sha1": "9d0e4cb35141309cb81a8e316ce3e1128fc23f67",
+      "sha256": "fe28192af41b3b52731e29134edbbf7ccb08449fc6cee12569c5e70def39d6d5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Space%20Hunter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Space%20Hunter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Space%20Hunter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

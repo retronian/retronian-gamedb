@@ -18,5 +18,66 @@
     "wikidata": "Q75096657",
     "mobygames": 46937,
     "igdb": 242989
-  }
+  },
+  "roms": [
+    {
+      "name": "Aggressive Inline (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AILE",
+      "size": 8388608,
+      "crc32": "3a44fcd5",
+      "md5": "4e8b17bb4b77cd5568b678596c55a8bb",
+      "sha1": "df41ef94380e074257424f4725738f2ed7ae68b6",
+      "sha256": "a75c9d5f1508dd114749c4418900a745fd075e276da09e2f6778069755510f08"
+    },
+    {
+      "name": "Aggressive Inline (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AILP",
+      "size": 8388608,
+      "crc32": "a2f6bcde",
+      "md5": "0c3521dc74150b501aba964d4c2a0fc3",
+      "sha1": "05ab06b8988d0bb6f037b121f73bc40644aff4e8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Aggressive%20Inline%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Aggressive%20Inline%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Aggressive%20Inline%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Aggressive%20Inline%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Aggressive%20Inline%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Aggressive%20Inline%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

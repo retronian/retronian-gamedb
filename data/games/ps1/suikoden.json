@@ -98,5 +98,64 @@
     "wikidata": "Q3091499",
     "mobygames": 4843,
     "igdb": 1447
-  }
+  },
+  "roms": [
+    {
+      "name": "Suikoden (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 336798944,
+      "crc32": "89df1231",
+      "md5": "63f735d3e2d8c9e02b8416592510fb90",
+      "sha1": "05bf5908dc9370e079e65ce34ba8b8372b571df6",
+      "sha256": "462800880555612904f3582ab9943b04bed9d8a1e725a809631afee90eb1fdc4"
+    },
+    {
+      "name": "Suikoden (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 347697520,
+      "crc32": "01ba8a05",
+      "md5": "40ae1d6101e5213de8a5e3a9ca770017",
+      "sha1": "cdd76f4d0239dcdd23680db5797cef525acd4d87"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Suikoden%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Suikoden%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Suikoden%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Suikoden%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Suikoden%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Suikoden%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

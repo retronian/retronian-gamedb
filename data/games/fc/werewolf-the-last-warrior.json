@@ -35,5 +35,65 @@
     "wikidata": "Q4053053",
     "mobygames": 10688,
     "igdb": 48259
-  }
+  },
+  "roms": [
+    {
+      "name": "Werewolf - The Last Warrior (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "225af4dd",
+      "md5": "724a867e0ad948bcfbdf1434283fee27",
+      "sha1": "533705cfa0029b2e16e33c3c92e2e07dbdfe46fb",
+      "sha256": "4801e505d72d25567ce0e89c015190c617dbfc3cf1e0c0fb52264cb498a8ba67"
+    },
+    {
+      "name": "Werewolf - The Last Warrior (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "8885aa9a",
+      "md5": "4551ac5fcf11bb9ab00f15982321a527",
+      "sha1": "185e031b75f4d082c7d17045db5921d7da9236cf",
+      "sha256": "bf4314317d9ee46397e773be3ca196e0e3464afabcbddf3a5b30c6a7765fa83c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Werewolf%20-%20The%20Last%20Warrior%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Werewolf%20-%20The%20Last%20Warrior%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Werewolf%20-%20The%20Last%20Warrior%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Werewolf%20-%20The%20Last%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Werewolf%20-%20The%20Last%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Werewolf%20-%20The%20Last%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

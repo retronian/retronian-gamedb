@@ -72,5 +72,77 @@
     "wikidata": "Q2305410",
     "mobygames": 20250,
     "igdb": 248549
-  }
+  },
+  "roms": [
+    {
+      "name": "Incredibles, The - Rise of the Underminer (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AICE",
+      "size": 16777216,
+      "crc32": "95bfb104",
+      "md5": "65dcf8038fa3bdc37a09d6510abc9c05",
+      "sha1": "d83c49ad67ec6d5c64eb1840a3cb3d83a33887a8"
+    },
+    {
+      "name": "Incredibles, The - Rise of the Underminer (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AICX",
+      "size": 16777216,
+      "crc32": "7ed82e28",
+      "md5": "dc51924b495a1888951f68b9abea080d",
+      "sha1": "236782a56753e71becf813fe2a01ea619e7c9c0c",
+      "sha256": "7b3c913c4354c0d05301baaaaae006be535ec74cc12aae0396257f07c3ca4062"
+    },
+    {
+      "name": "Incredibles, The - Rise of the Underminer (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AICP",
+      "size": 16777216,
+      "crc32": "69540200",
+      "md5": "a04ab255d19c5234a0f4c8943a44547d",
+      "sha1": "a454055114c959b4d2ce043024475826391e79a6",
+      "sha256": "f9b563ab0daa3431d9b7a006770e66e1167df595688708f7b26fbc30b12f599c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Incredibles%2C%20The%20-%20Rise%20of%20the%20Underminer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Incredibles%2C%20The%20-%20Rise%20of%20the%20Underminer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Incredibles%2C%20The%20-%20Rise%20of%20the%20Underminer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Incredibles%2C%20The%20-%20Rise%20of%20the%20Underminer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Incredibles%2C%20The%20-%20Rise%20of%20the%20Underminer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Incredibles%2C%20The%20-%20Rise%20of%20the%20Underminer%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

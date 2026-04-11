@@ -54,5 +54,66 @@
     "wikidata": "Q5910627",
     "mobygames": 7790,
     "igdb": 243199
-  }
+  },
+  "roms": [
+    {
+      "name": "Hot Wheels - Velocity X (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AH8E",
+      "size": 8388608,
+      "crc32": "9592f553",
+      "md5": "5ea3eec1d71c05f46321ce090ca791ee",
+      "sha1": "e6a3ae1e4a58e47c78719a7f6a7e1ed0c37b34e6",
+      "sha256": "8ed33b088d3c1df517597fb5a725dbfc2e520dc3c1e9539e09a06f9dbc89ae16"
+    },
+    {
+      "name": "Hot Wheels - Velocity X (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AH8P",
+      "size": 8388608,
+      "crc32": "a7ddbca3",
+      "md5": "b19314e2b31266364a7a12d9d4b00b85",
+      "sha1": "dda8ebba4d68f93dbb213de5a898864ead18ebe8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hot%20Wheels%20-%20Velocity%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hot%20Wheels%20-%20Velocity%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hot%20Wheels%20-%20Velocity%20X%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hot%20Wheels%20-%20Velocity%20X%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hot%20Wheels%20-%20Velocity%20X%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hot%20Wheels%20-%20Velocity%20X%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

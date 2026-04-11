@@ -70,5 +70,67 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Elemental Master (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-18043-00",
+      "size": 524288,
+      "crc32": "5f553e29",
+      "md5": "32e1a15161ef1f070b023738353bde51",
+      "sha1": "6cbe2cd607aa9850306970a8a61cb9fa82445293",
+      "sha256": "56a378efe6ec3d84181e2c0b411a773da35271cf27f2354c5771a1257bc72b24"
+    },
+    {
+      "name": "Elemental Master (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49236-00",
+      "size": 524288,
+      "crc32": "390918c6",
+      "md5": "9b04970a603ace521c7cca2acaf69804",
+      "sha1": "fd47e4f8c2d6cc82860ae281faad50e3dee2d033",
+      "sha256": "38e7f32e3874e2b516c584bbcb206326daec6f3e3a00261aa277578a76d9d809"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Elemental%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Elemental%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Elemental%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Elemental%20Master%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Elemental%20Master%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Elemental%20Master%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

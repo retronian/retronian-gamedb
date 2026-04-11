@@ -36,5 +36,65 @@
     "wikidata": "Q8047767",
     "mobygames": 70407,
     "igdb": 5303
-  }
+  },
+  "roms": [
+    {
+      "name": "Yamaha Supercross (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YQXP",
+      "size": 16777216,
+      "crc32": "d65288c2",
+      "md5": "49ac747b083bccbb3814b940cd0a26a4",
+      "sha1": "bec15cdba420759f2ce4f50367416024e4dbada2"
+    },
+    {
+      "name": "Yamaha Supercross (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YQXE",
+      "size": 16777216,
+      "crc32": "a8cdbd0d",
+      "md5": "a4eaf18e29de5c11eca365d2d996e4f3",
+      "sha1": "713f9b176067ff1b5926d9d32f682a76fd4f13a1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Yamaha%20Supercross%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Yamaha%20Supercross%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Yamaha%20Supercross%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Yamaha%20Supercross%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Yamaha%20Supercross%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Yamaha%20Supercross%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

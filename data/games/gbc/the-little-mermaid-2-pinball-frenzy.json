@@ -26,5 +26,73 @@
   "external_ids": {
     "wikidata": "Q16259740",
     "igdb": 49919
-  }
+  },
+  "roms": [
+    {
+      "name": "Little Mermaid II, The - Pinball Frenzy (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "9fec297e",
+      "md5": "f19153c5bc422a2b1b13a4b9ff5d7bd9",
+      "sha1": "c84c653eada20161c8d0aa966303b378fe5feef1"
+    },
+    {
+      "name": "Little Mermaid II, The - Pinball Frenzy (USA) (En,Fr,De,Es,It) (Rumble Version)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "364f9ccd",
+      "md5": "7f8c472f3c7bd1eec56a3bad10a2e94c",
+      "sha1": "0940a1a86127cf8228a6a015035d8189218f57db",
+      "sha256": "e9e3b8f82c84aabf06f5061567fa23d1bfacb1c2d5cb83e31d93e0cd04716728"
+    },
+    {
+      "name": "Little Mermaid II, The - Pinball Frenzy (Japan) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "6b974b2d",
+      "md5": "1d719dffbdeff72d4b8f8744ddcbf9d5",
+      "sha1": "ed001b5792e1afb35178e22d3adf45bbf0c4d721"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Little%20Mermaid%20II%2C%20The%20-%20Pinball%20Frenzy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Little%20Mermaid%20II%2C%20The%20-%20Pinball%20Frenzy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Little%20Mermaid%20II%2C%20The%20-%20Pinball%20Frenzy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Little%20Mermaid%20II%2C%20The%20-%20Pinball%20Frenzy%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Little%20Mermaid%20II%2C%20The%20-%20Pinball%20Frenzy%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Little%20Mermaid%20II%2C%20The%20-%20Pinball%20Frenzy%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

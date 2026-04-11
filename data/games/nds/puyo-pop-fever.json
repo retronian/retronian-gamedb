@@ -63,5 +63,66 @@
     "wikidata": "Q1058179",
     "mobygames": 18065,
     "igdb": 248504
-  }
+  },
+  "roms": [
+    {
+      "name": "Puyo Pop Fever (USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APYE",
+      "size": 33554432,
+      "crc32": "524cfd49",
+      "md5": "c2e2b2ac9684a5b29105d8ea24862136",
+      "sha1": "af8cecab1cf6df7918835ba71c4d31d116d6d1d4"
+    },
+    {
+      "name": "Puyo Pop Fever (Europe) (En,Ja)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "APYP",
+      "size": 33554432,
+      "crc32": "31dae785",
+      "md5": "45e07830a31334f4b72b007a560690f9",
+      "sha1": "2432bb70b09c12ad940d6a795cb5566797d12420",
+      "sha256": "c3ea2ecc50ed30bf77c8f338ffbc54fc62c1b74e2ddb24fd67525b5a5c54693e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puyo%20Pop%20Fever%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Puyo%20Pop%20Fever%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puyo%20Pop%20Fever%20%28USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puyo%20Pop%20Fever%20%28Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Puyo%20Pop%20Fever%20%28Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puyo%20Pop%20Fever%20%28Europe%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

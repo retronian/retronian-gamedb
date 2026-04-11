@@ -72,5 +72,67 @@
     "wikidata": "Q3282001",
     "mobygames": 22590,
     "igdb": 49033
-  }
+  },
+  "roms": [
+    {
+      "name": "Pac-Attack (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-14116-00",
+      "size": 1048576,
+      "crc32": "79587507",
+      "md5": "c3e152bcacad48d4cae994f27639a8a8",
+      "sha1": "c541dadc944882bcd3defe7fde9d5cebafe969ba",
+      "sha256": "3f787ef889826a09254e5ca24161db8339f0a423c878d21b15235294eade6d26"
+    },
+    {
+      "name": "Pac-Panic (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-14116-00",
+      "size": 1048576,
+      "crc32": "ebd6d5ba",
+      "md5": "fcc0d8fe72a708545d7947dc532b7da5",
+      "sha1": "d12be8da7d72f62a9e1d0e744c75f247f9f0c177",
+      "sha256": "60c9394343c8a4c1346772c55665fe9e01c91d468b6c057c72f921234291d431"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pac-Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pac-Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pac-Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pac-Panic%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pac-Panic%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pac-Panic%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -27,5 +27,62 @@
     "wikidata": "Q1633977",
     "mobygames": 117,
     "igdb": 327724
-  }
+  },
+  "roms": [
+    {
+      "name": "Forsaken (Europe) (En,Fr,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NFOP",
+      "size": 8388608,
+      "crc32": "5ed736d9",
+      "md5": "8286ded701dfa22436d311bd5b93bd29",
+      "sha1": "ac24c6e48fcd03c32aef484188ba842b619ff613",
+      "sha256": "a94eb83c9e68906d1cfb320bb3d07c74b74f6fa1ac9c57d291e5801cc15e9289"
+    },
+    {
+      "name": "Forsaken (Germany)",
+      "source": "no_intro",
+      "serial": "NFOD",
+      "size": 8388608,
+      "crc32": "9793abc2",
+      "md5": "74650f7154e0b2dd7c364f511b0d6a77",
+      "sha1": "f1be08780d117c44fc10a0dba792d6c5be7d4093"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Forsaken%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Forsaken%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Forsaken%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Forsaken%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Forsaken%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Forsaken%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

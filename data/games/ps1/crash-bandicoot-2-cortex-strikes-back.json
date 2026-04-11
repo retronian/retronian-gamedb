@@ -80,5 +80,80 @@
     "wikidata": "Q569822",
     "mobygames": 4952,
     "igdb": 1186
-  }
+  },
+  "roms": [
+    {
+      "name": "Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan) (PS3 v1.90)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 173090208,
+      "crc32": "692daf39",
+      "md5": "367e2a44b6fa85b679dec3ef061ec60c",
+      "sha1": "408cb57ca921303f669c6846ecfca2cb57660574"
+    },
+    {
+      "name": "Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan) (PS3 v4.65)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "5efa2e86",
+      "md5": "74d17553c25813ac741734c5bc7dce97",
+      "sha1": "06f4b6ae5e2d8b08c2a8df2b61230fb97400978c"
+    },
+    {
+      "name": "Crash Bandicoot 2 - Cortex Strikes Back (France)",
+      "source": "no_intro",
+      "size": 140138704,
+      "crc32": "73d6e7d0",
+      "md5": "53892c6de072943d083f48687de7f9c7",
+      "sha1": "1974fc5e8c1a530b6f98e439c39212a3f4b57a59",
+      "sha256": "259cb86288a642ed2266373c624ff88ae3de299367531d39c0d031cc3e4ae6eb"
+    },
+    {
+      "name": "Crash Bandicoot 2 - Cortex Strikes Back (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 140115504,
+      "crc32": "d570621d",
+      "md5": "9f663a691dae600ce15f5113925b0091",
+      "sha1": "56cdc5e37f81e9fb464e3cfd333529b6dada5119"
+    },
+    {
+      "name": "Crash Bandicoot 2 - Cortex Strikes Back (Germany)",
+      "source": "no_intro",
+      "size": 140098304,
+      "crc32": "dc7739c6",
+      "md5": "0f429570004cfb3b800ef72d6c0f6e61",
+      "sha1": "d154f7b53fc51dcf042c754963d74bb2920b6612"
+    },
+    {
+      "name": "Crash Bandicoot 2 - Cortex Strikes Back (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 107711808,
+      "crc32": "b19533d6",
+      "md5": "0fa264050b3a463b6e9d56e8c46d91e6",
+      "sha1": "3a2242c7ce6ab8797fff359eff85306e1f3eb90a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

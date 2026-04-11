@@ -18,5 +18,66 @@
     "wikidata": "Q16266960",
     "mobygames": 36048,
     "igdb": 3564
-  }
+  },
+  "roms": [
+    {
+      "name": "NHL Breakaway 99 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NH9P",
+      "size": 12582912,
+      "crc32": "572060e0",
+      "md5": "4ba95aa97ecfee36051ebe0a9024eee8",
+      "sha1": "46147db00bd9d80f0d22e8eb1b00603106de2692",
+      "sha256": "d43243d318b79cb458ed34e04aa9923eadd6ce1f99df7bdd7d82e00497befb93"
+    },
+    {
+      "name": "NHL Breakaway 99 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NH9E",
+      "size": 12582912,
+      "crc32": "75f75b9d",
+      "md5": "af1d07679014760b88923a4827658caf",
+      "sha1": "65c0f8bf81d8dec3e5d719b167a61a73b2436e84"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NHL%20Breakaway%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NHL%20Breakaway%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NHL%20Breakaway%2099%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NHL%20Breakaway%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NHL%20Breakaway%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NHL%20Breakaway%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -72,5 +72,64 @@
     "wikidata": "Q591378",
     "mobygames": 4522,
     "igdb": 428
-  }
+  },
+  "roms": [
+    {
+      "name": "Final Fantasy Tactics (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 224089440,
+      "crc32": "eddb65f0",
+      "md5": "23dd99fd2a80beb6e018593ba1880c6d",
+      "sha1": "092b258192f91da1f3856c50cc01928571631685"
+    },
+    {
+      "name": "Final Fantasy Tactics (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 232270400,
+      "crc32": "3ac90033",
+      "md5": "6e488ddfb9423151ea5c60baec93e34c",
+      "sha1": "15f193c4232ea6d39319a5f628339203b6645c21",
+      "sha256": "d798e2fd57745311cee6715b561ca0d0186a5b3c1f778f56abf8adb1a86b4a80"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20Tactics%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Final%20Fantasy%20Tactics%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Final%20Fantasy%20Tactics%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20Tactics%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Final%20Fantasy%20Tactics%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Final%20Fantasy%20Tactics%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

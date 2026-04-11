@@ -54,5 +54,65 @@
     "wikidata": "Q5225284",
     "mobygames": 31213,
     "igdb": 20671
-  }
+  },
+  "roms": [
+    {
+      "name": "Izuna - Legend of the Unemployed Ninja (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHSE",
+      "size": 33554432,
+      "crc32": "223e136f",
+      "md5": "3bd5e6bf753202a4ee11ff98b8d795ee",
+      "sha1": "2d49b6cb16b2f7bd57682f5538eeb2aae4abb058"
+    },
+    {
+      "name": "Izuna - The Legend of the Ninja (Europe) (En,Fr,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHSP",
+      "size": 33554432,
+      "crc32": "5813b124",
+      "md5": "6abd7ed258e4702cbf5cceea955268fb",
+      "sha1": "0b12445c03481bfdaabbfcf1d0c14bc4a8955de4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Izuna%20-%20Legend%20of%20the%20Unemployed%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Izuna%20-%20Legend%20of%20the%20Unemployed%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Izuna%20-%20Legend%20of%20the%20Unemployed%20Ninja%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Izuna%20-%20The%20Legend%20of%20the%20Ninja%20%28Europe%29%20%28En%2CFr%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Izuna%20-%20The%20Legend%20of%20the%20Ninja%20%28Europe%29%20%28En%2CFr%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Izuna%20-%20The%20Legend%20of%20the%20Ninja%20%28Europe%29%20%28En%2CFr%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

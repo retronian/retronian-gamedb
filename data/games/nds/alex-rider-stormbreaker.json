@@ -18,5 +18,79 @@
     "wikidata": "Q4717686",
     "mobygames": 43980,
     "igdb": 2848
-  }
+  },
+  "roms": [
+    {
+      "name": "Alex Rider - Stormbreaker (United Kingdom)",
+      "source": "no_intro",
+      "serial": "ALXP",
+      "size": 33554432,
+      "crc32": "96398140",
+      "md5": "a64304df9ec073f765ac89626bea0c72",
+      "sha1": "88a07d18de38666d896ff166a5e9595749712cec"
+    },
+    {
+      "name": "Alex Rider - Stormbreaker (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ALXE",
+      "size": 33554432,
+      "crc32": "62ca01d6",
+      "md5": "6378864f19964c16997fdde43d064d2b",
+      "sha1": "9b2a3da2397eb16fdf0762b7015138995a0ce884"
+    },
+    {
+      "name": "Alex Rider - Stormbreaker (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ALXX",
+      "size": 33554432,
+      "crc32": "51764caa",
+      "md5": "8c39a4a83c0940c07fdeeec7a2fdba4a",
+      "sha1": "9af8dac8a0eee93d28ab8fdab5b5a7dba04dc1d7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Alex%20Rider%20-%20Stormbreaker%20%28United%20Kingdom%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Alex%20Rider%20-%20Stormbreaker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Alex%20Rider%20-%20Stormbreaker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Alex%20Rider%20-%20Stormbreaker%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Alex%20Rider%20-%20Stormbreaker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Alex%20Rider%20-%20Stormbreaker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Alex%20Rider%20-%20Stormbreaker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

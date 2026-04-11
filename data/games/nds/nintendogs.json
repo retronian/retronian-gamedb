@@ -90,5 +90,94 @@
     "wikidata": "Q864389",
     "mobygames": 19275,
     "igdb": 356919
-  }
+  },
+  "roms": [
+    {
+      "name": "Nintendogs (Japan) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A36J",
+      "size": 33554432,
+      "crc32": "3df3bcbe",
+      "md5": "0435f31266373b2cf366876e38d4db94",
+      "sha1": "09d0c040af50136baa2ca89d962a0877a0811114",
+      "sha256": "d876fc8cfbcc3e2b2e71edfb416ca8e4cc73b6e9d7a660906ffc9b3cd4e22dd1"
+    },
+    {
+      "name": "Nintendogs (USA, Europe) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A36E",
+      "size": 33554432,
+      "crc32": "11341ec3",
+      "md5": "ed5e4dbfdb5c9dde001036fef62e0c24",
+      "sha1": "8d31e9b323e4405f50cfae58c236d35fcdaa1e8e"
+    },
+    {
+      "name": "Nintendogs (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A36P",
+      "size": 67108864,
+      "crc32": "8a03681a",
+      "md5": "a190eca6a61b3c69ce48f076d2445eb8",
+      "sha1": "844584061557bd09a9e425a684c395245d126d74"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nintendogs%20%28Japan%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Nintendogs%20%28Japan%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nintendogs%20%28Japan%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nintendogs%20%28USA%2C%20Europe%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Nintendogs%20%28USA%2C%20Europe%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nintendogs%20%28USA%2C%20Europe%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nintendogs%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Nintendogs%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nintendogs%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Demo%29%20%28Kiosk%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

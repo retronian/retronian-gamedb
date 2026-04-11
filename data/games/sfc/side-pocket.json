@@ -70,5 +70,102 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Side Pocket (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "3352a27c",
+      "md5": "4c4a9b6f26238763bc07c04928cd7202",
+      "sha1": "7d7b3061e1eb8a5ab683f0d550e624914404ca33",
+      "sha256": "21f4b54ed90de7bb0f5f02d64d11f80ba9f2147197b7a3bd09fc7aa1858ba0f5"
+    },
+    {
+      "name": "Side Pocket (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "0e074268",
+      "md5": "795dea95b245cbdf063cf536b0facb2e",
+      "sha1": "87644e8bf4444719c00c67fc4fe6e9d08aee1297",
+      "sha256": "4e5fce5a3b9c88b93cfe5da1af476edca1d7fa6574cd713a2d0c3033021304ca"
+    },
+    {
+      "name": "Side Pocket (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "597c2bfe",
+      "md5": "10e339039df1185206e2b8a236af9248",
+      "sha1": "ef7df519280dbb3e7eec4e922ec5d79e80f1dfbb",
+      "sha256": "d09ca5adaee65cfd686742482bc55b1a3ce9bc5ebed61f24c5631555151a7fc7"
+    },
+    {
+      "name": "Side Pocket (World) (Evercade)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "51c0f57b",
+      "md5": "3d8a62c8bae0eb021c8b77b24bc60db3",
+      "sha1": "feec2763a82d29816a28efa830b91a310da56cb1",
+      "sha256": "3d490d87b8807ee28febb60f53edc9d7e63251147507b6c4446dc730c80233c2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Side%20Pocket%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Side%20Pocket%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Side%20Pocket%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Side%20Pocket%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Side%20Pocket%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Side%20Pocket%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Side%20Pocket%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Side%20Pocket%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Side%20Pocket%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

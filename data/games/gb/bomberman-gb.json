@@ -73,6 +73,78 @@
       "form": "official",
       "source": "romu",
       "verified": true
+    },
+    {
+      "text": "ボンバーマンGB2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": true
+    },
+    {
+      "text": "Bomberman GB 2",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Bomberman GB 2",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Wario Blast",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Wario Blast: Featuring Bomberman!",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Wario Blast featuring Bomberman!",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Wario Blast: Featuring Bomberman!",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "봄버맨 GB",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1994-01-01",
@@ -86,6 +158,122 @@
       "text": "ボンバーマンは伝説の宝を見つけるために地球の奥深くを探しています。ストーリーモードでは、彼を48のパズル解決アクションのレベルを通じて導き、パワーアップアイテムを集めたり、モンスターを倒したりします。バトルモードはお馴染みのもので、1人から4人のプレイヤーが6つの異なるマップで戦います。",
       "lang": "ja",
       "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bomberman GB (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "94337d56",
+      "md5": "2cad6ee6df3402aeb8f8ab7921517779",
+      "sha1": "5b989983c2f80a71dfc7cce29395de3e174fa848",
+      "sha256": "6d5de1b94660ab41ae82e4130ddb3df44761579a30c7161615a58b2380b20364"
+    },
+    {
+      "name": "Bomberman GB (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "f372d175",
+      "md5": "7e4c9c3620bea7b633394beb67e9680b",
+      "sha1": "f7058f31ddaec63f3b9c45ee9caf3c8e2cae1ca8",
+      "sha256": "16d6a4650566ede0ec9e3e23a85544737faab4154d6381668e8547047340eee6"
+    },
+    {
+      "name": "Bomberman GB 2 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "6157443b",
+      "md5": "4ab78239e79ba059d0d7aa7a629a9474",
+      "sha1": "004e540e8aed59e5aee1c88ef84975000a6efe6c",
+      "sha256": "ff5570b2eceea90f9173486779df14b4008910005a10ce935dab20771a3f02ec"
+    },
+    {
+      "name": "Wario Blast Featuring Bomberman! (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "927b57a1",
+      "md5": "14fe7234ee4bcb14adf20c743f084a35",
+      "sha1": "279fb0223e362db553b739b1b8f9c18b81d92413",
+      "sha256": "1af2d4b29552fb2cf141955e1d77f8dd99e856b1f04fbff5240d5a1c3c2c41bf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bomberman%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bomberman%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bomberman%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bomberman%20GB%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bomberman%20GB%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bomberman%20GB%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bomberman%20GB%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bomberman%20GB%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bomberman%20GB%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Wario%20Blast%20Featuring%20Bomberman%21%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Wario%20Blast%20Featuring%20Bomberman%21%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Wario%20Blast%20Featuring%20Bomberman%21%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
     }
   ]
 }

@@ -89,5 +89,52 @@
     "wikidata": "Q3608223",
     "mobygames": 5343,
     "igdb": 48916
-  }
+  },
+  "roms": [
+    {
+      "name": "Pinball - Revenge of the 'Gator (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "79804305",
+      "md5": "113d8f894df6b8c3641b2ba1fe60c250",
+      "sha1": "493834db1c3c7859086a1c570a4bf5e5f6dd332b",
+      "sha256": "d84a2382b358d83a0891d40b2de65494f060d8be1a048d5aa8721282218b04b6"
+    },
+    {
+      "name": "Pinball - Revenge of the 'Gator (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "048d3ab0",
+      "md5": "4eb8d56e6cf1e54665e995cf0cb30108",
+      "sha1": "7f25663b3c1c15a3ee4f1bb719741823eea71ebb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pinball%20-%20Revenge%20of%20the%20%27Gator%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pinball%20-%20Revenge%20of%20the%20%27Gator%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pinball%20-%20Revenge%20of%20the%20%27Gator%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pinball%20-%20Revenge%20of%20the%20%27Gator%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

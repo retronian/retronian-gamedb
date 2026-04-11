@@ -70,5 +70,103 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Animaniacs (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "c28a80f6",
+      "md5": "ce41fb926db8fcaad4665774f3731b7a",
+      "sha1": "f3c3c701ab80f0431938b74154c2d1b3c3dd33c7",
+      "sha256": "79ff74b758bb5df40d9fb6f830e9370de799c7a1423c482b2cc74eee78c55127"
+    },
+    {
+      "name": "Animaniacs (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d93e07a8",
+      "md5": "7abe23225ca0ddc5ee93333ce3bb9137",
+      "sha1": "382dabaed7bb03880582546ea9501e33eee4cb6d",
+      "sha256": "d748c9f0bad32713de5ddaf8147e1492bbb2d1bd00e515a4cf0dcf4773a6c5b8"
+    },
+    {
+      "name": "Animaniacs (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "cf0f14d2",
+      "md5": "ff08ca993882bfe2ab860865897bfe77",
+      "sha1": "edc84730448268ecf1271681bc789feef89eca38",
+      "sha256": "626f1fe52b0df0f8ede23f0062cd842321c8dabf14aefdca12e526876ecf383a"
+    },
+    {
+      "name": "Animaniacs (USA) (Beta) (1994-06-11)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "2d7d6973",
+      "md5": "3ab368e947d76f106fc4d3ee38c83065",
+      "sha1": "cfa212f6b7353af1e397b21dbd04ad8c86731762",
+      "sha256": "ba35af4892d536e4ceb7bf039c58d02635cab6c5c9a96d5fe13b1451542725f3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Animaniacs%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Animaniacs%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Animaniacs%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Animaniacs%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Animaniacs%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Animaniacs%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Animaniacs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Animaniacs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Animaniacs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

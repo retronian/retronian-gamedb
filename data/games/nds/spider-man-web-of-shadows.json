@@ -63,5 +63,81 @@
     "wikidata": "Q2635988",
     "mobygames": 42390,
     "igdb": 209976
-  }
+  },
+  "roms": [
+    {
+      "name": "Spider-Man - Web of Shadows (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CS5E",
+      "size": 67108864,
+      "crc32": "10df2f17",
+      "md5": "fc992453974e595561f28fe8035cbfa7",
+      "sha1": "9de6a88e95d7be4aae7e7953a9980a92d17c36c3"
+    },
+    {
+      "name": "Spider-Man - Web of Shadows (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CS5P",
+      "size": 67108864,
+      "crc32": "168f7a5f",
+      "md5": "1a59168aa046dd6061fb3c891f22bbcc",
+      "sha1": "d3607a75d5b49ffb731e060a6fe14a2d84cd30a3"
+    },
+    {
+      "name": "Spider-Man - Web of Shadows (Europe) (Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CS5X",
+      "size": 67108864,
+      "crc32": "f0c7c3e3",
+      "md5": "4335d5133270b8d949ba0a0fd0d726c7",
+      "sha1": "c024ce8adc276dfdaed48bf3396c152853fa6b34"
+    }
+  ],
+  "media": [
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spider-Man%20-%20Web%20of%20Shadows%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spider-Man%20-%20Web%20of%20Shadows%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Spider-Man%20-%20Web%20of%20Shadows%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spider-Man%20-%20Web%20of%20Shadows%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spider-Man%20-%20Web%20of%20Shadows%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Spider-Man%20-%20Web%20of%20Shadows%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spider-Man%20-%20Web%20of%20Shadows%20%28Europe%29%20%28Es%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

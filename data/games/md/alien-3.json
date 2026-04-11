@@ -63,5 +63,77 @@
     "wikidata": "Q2836804",
     "mobygames": 20370,
     "igdb": 8908
-  }
+  },
+  "roms": [
+    {
+      "name": "Alien 3 (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 524288,
+      "crc32": "6febdc32",
+      "md5": "7420faf568a6582d7abbfac933819572",
+      "sha1": "181c3734946631b09ffb0b8bd74626f134a466bf",
+      "sha256": "e09278156573d71e4b2a55ae870b805e15c57d0819d4c2efa7e166c081d60352"
+    },
+    {
+      "name": "Alien 3 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-081096-00",
+      "size": 524288,
+      "crc32": "a3b00d6e",
+      "md5": "f9e32be60028206b3716f64f2ba0ab00",
+      "sha1": "1f4b969592f98d2692cb06eca550da9c03062593",
+      "sha256": "03912aff49000f3ecb735f458a638696856379ef7e98b8fa8723d6cfdaef45e5"
+    },
+    {
+      "name": "Alien 3 (USA, Europe) (Rev A)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T--81096-01",
+      "size": 524288,
+      "crc32": "b327fd1b",
+      "md5": "793b92cd4a66921db6ca4f582a690db5",
+      "sha1": "26959752d0683298146c2a89599fa598d009651b",
+      "sha256": "82855025bc29a4503ff4be0febf00168b2a968ec75d41094cb58087f3aa4bdac"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Alien%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Alien%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Alien%203%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Alien%203%20%28USA%2C%20Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Alien%203%20%28USA%2C%20Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Alien%203%20%28USA%2C%20Europe%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

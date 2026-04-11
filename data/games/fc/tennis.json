@@ -88,5 +88,109 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Tennis (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 24592,
+      "crc32": "a1390923",
+      "md5": "a8b40eb61c2889247ade163bcf35592f",
+      "sha1": "fd3f261f52f839a08eb070f204865291ed123bf8",
+      "sha256": "4c81614b5b2e28ca4c924e8e5d21c534168e09adb1af173696c7d4ecb9cf80e5"
+    },
+    {
+      "name": "Tennis (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "131f9356",
+      "md5": "8d5178318901fe49d6724f43c883cc7e",
+      "sha1": "81f4d0bb5f0376afc14429893b4eae84f6ddcf89",
+      "sha256": "ea41762cf027517d746544ec972a9369f86806ad2033ea987ea09991856d8b70"
+    },
+    {
+      "name": "Tennis (Japan, USA) (En) (Animal Crossing)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "b57e33b8",
+      "md5": "aab9d446c9f871d77d19e223ab9cf69e",
+      "sha1": "cd82531d505386a60c86e13241fbd233f4b5debd",
+      "sha256": "001898c0d1e5b885cf96cfa575a056797fb7c3a85ab07ea860d9423d598eca87"
+    },
+    {
+      "name": "Tennis (USA) (e-Reader)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "7c6df384",
+      "md5": "e3affc29316ef23fce8405300814c12f",
+      "sha1": "53b099c3141c2748306db415467a14f8acef5882",
+      "sha256": "259f21f5206d213f6205c82154629ceaaf4cad89f89e6186aebcdaf7188528d4"
+    },
+    {
+      "name": "Tennis (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "ff07be41",
+      "md5": "1a8d03d0f5980fb54847f0f04b0a7d35",
+      "sha1": "53f99b2c87614a9faafd51f3ead63e02c9a3c979",
+      "sha256": "34cddf58969b3dce3e2d055e7735a86b1310694f871ed054113ad81282227385"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tennis%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tennis%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tennis%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tennis%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tennis%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tennis%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

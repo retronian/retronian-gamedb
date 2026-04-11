@@ -114,5 +114,63 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mortal Kombat (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "f22346a4",
+      "md5": "99155040191ca1da4d3b346d0d12ed7c",
+      "sha1": "49f2ffe347758b6a34bfb149a94a867d77b2263e",
+      "sha256": "226be4385775cd2dfdafc7e4696fbb7e69be30101b888d736fefdcc82d58bf62"
+    },
+    {
+      "name": "Mortal Kombat (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "90eb0929",
+      "md5": "b3474bab3eda25bdb1508ed53765fb30",
+      "sha1": "59752879efaf2f271ce4b8a9d4a455056a2985d0",
+      "sha256": "84686cd3c77c533926fc2c56783613ecc5781de1bff7065e00112a69d17a5e69"
+    },
+    {
+      "name": "Mortal Kombat - Shinken Kourin Densetsu (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "160fa9ef",
+      "md5": "b17c839d444f98a4bd7fec2e49cacf12",
+      "sha1": "5c24d595401ce3d1bb4027d0bc12312dca275470",
+      "sha256": "041fd24128340c29e374907b76b2d9d59620fb1a1ac762fc3f2c2a8d1e379bd5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mortal%20Kombat%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mortal%20Kombat%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mortal%20Kombat%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mortal%20Kombat%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

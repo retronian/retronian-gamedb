@@ -44,5 +44,55 @@
   "external_ids": {
     "wikidata": "Q2699066",
     "mobygames": 10240
-  }
+  },
+  "roms": [
+    {
+      "name": "40 Winks (USA) (Proto) (2000-01-10)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "N4WZ",
+      "size": 33554432,
+      "crc32": "3a674026",
+      "md5": "8c3e4fe5f6b2d37c66a71097e8b1c72a",
+      "sha1": "e671412580800013703be666e56e1b7e512aa55c",
+      "sha256": "9316ffbe863051a7464e33b9837d6deff11845389a6b275ce6541eded4caa7b0"
+    },
+    {
+      "name": "40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "N4WX",
+      "size": 33554432,
+      "crc32": "7e718143",
+      "md5": "0a5acfea0c7cf68ae25202040d5ad1eb",
+      "sha1": "3774e87aa383220060d330314f2c5bbb872f72ce",
+      "sha256": "899b866a45dfbebc8152a3122f28aa0ba906fb448dc6b2dc7c7442e7622b5442"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/40%20Winks%20%28USA%29%20%28Proto%29%20%282000-01-10%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/40%20Winks%20%28Europe%29%20%28En%2CEs%2CIt%29%20%28Proto%29%20%281999-10-07%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/40%20Winks%20%28Europe%29%20%28En%2CEs%2CIt%29%20%28Proto%29%20%281999-10-07%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/40%20Winks%20%28Europe%29%20%28En%2CEs%2CIt%29%20%28Proto%29%20%281999-10-07%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

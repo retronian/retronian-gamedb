@@ -63,5 +63,96 @@
     "wikidata": "Q7643829",
     "mobygames": 45348,
     "igdb": 81522
-  }
+  },
+  "roms": [
+    {
+      "name": "Superman (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-15036-00",
+      "size": 1048576,
+      "crc32": "543a5869",
+      "md5": "d7abe5e449f7fa966d0f6b158eea8ee9",
+      "sha1": "ca14653589fd36e6394ec99f223ed9b18f70fd6a",
+      "sha256": "49eb06f0e7bf1f797b8950fd353aebb654d0809cefec407f11e75ef015e98c89"
+    },
+    {
+      "name": "Superman (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-15036-00",
+      "size": 1048576,
+      "crc32": "5cd0e1d4",
+      "md5": "115aa2b70eabc255e7d06cd2a454a091",
+      "sha1": "9d94f0e364b5170ac1f1f2098091c3fc89d07389",
+      "sha256": "6f04884285de24621a542805be9fe89d71e1fb403a48188e992bfe8e64f468ba"
+    },
+    {
+      "name": "Superman - The Man of Steel (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70126-00",
+      "size": 1048576,
+      "crc32": "7db434ba",
+      "md5": "6e3f8fa3e7e3d1d42283f2561fecf152",
+      "sha1": "c956730af44b737ee3d0c1e83c147f32e3504383",
+      "sha256": "e2486caa813c464bd204617d96627488ff9da3a4b082312c5f6f6976f49920de"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Superman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Superman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Superman%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Superman%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Superman%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Superman%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Superman%20-%20The%20Man%20of%20Steel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Superman%20-%20The%20Man%20of%20Steel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Superman%20-%20The%20Man%20of%20Steel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

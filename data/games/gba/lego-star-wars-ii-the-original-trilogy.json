@@ -63,5 +63,65 @@
     "wikidata": "Q55239",
     "mobygames": 24055,
     "igdb": 194937
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Star Wars II - The Original Trilogy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BL7E",
+      "size": 16777216,
+      "crc32": "da1e9444",
+      "md5": "bd64515fa58ec5052ce4d231e6241f23",
+      "sha1": "38f640be68981c258d435bf103ab443346fb5953"
+    },
+    {
+      "name": "LEGO Star Wars II - The Original Trilogy (Europe) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BL7P",
+      "size": 16777216,
+      "crc32": "bba91c3b",
+      "md5": "b5296cda1c554337e684d880d7573b99",
+      "sha1": "bc27a246e03733b7b3d3cbb2d342703b7dbeeaae"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

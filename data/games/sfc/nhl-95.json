@@ -45,5 +45,65 @@
     "wikidata": "Q3334421",
     "mobygames": 265,
     "igdb": 4509
-  }
+  },
+  "roms": [
+    {
+      "name": "NHL 95 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "6930b67a",
+      "md5": "a878a1c7c8a65b1e231987f1cdf8fedc",
+      "sha1": "b7b8b974f970c39576ecc3612da727947fc2fb85",
+      "sha256": "c28b0c0e05bbd15e9ae7e34c2ae596500f59999327b39ed665e589b7dab77f91"
+    },
+    {
+      "name": "NHL 95 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "2e9b1463",
+      "md5": "deea8f94027f374d432dea56e0c72917",
+      "sha1": "0b939f267377801d2c805b05c06a7ee6c880c5fc",
+      "sha256": "01c0b58d5fd5d5484fea988455a55a71ed9e606538d2b3ce3f216159cc6929b0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/NHL%2095%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/NHL%2095%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/NHL%2095%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/NHL%2095%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/NHL%2095%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/NHL%2095%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -45,5 +45,65 @@
     "wikidata": "Q7633915",
     "mobygames": 86673,
     "igdb": 20538
-  }
+  },
+  "roms": [
+    {
+      "name": "Sudoku Gridmaster (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASQE",
+      "size": 8388608,
+      "crc32": "f07e01ef",
+      "md5": "bd5fc13d68acfc22e6dfe1a83b9ceb5f",
+      "sha1": "de72b04f91838cc266766ef5f156b105ca96ae24"
+    },
+    {
+      "name": "Sudoku Master (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASQP",
+      "size": 16777216,
+      "crc32": "0dcb4e2f",
+      "md5": "02cfeca2f5d03e6223aea248640b7e58",
+      "sha1": "4661d31deeba3b67a40628e1705242231d82f23a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sudoku%20Gridmaster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sudoku%20Gridmaster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sudoku%20Gridmaster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sudoku%20Master%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sudoku%20Master%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sudoku%20Master%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

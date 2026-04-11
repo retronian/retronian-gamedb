@@ -72,5 +72,65 @@
     "wikidata": "Q1853367",
     "mobygames": 3721,
     "igdb": 205980
-  }
+  },
+  "roms": [
+    {
+      "name": "Virtua Tennis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AVTE",
+      "size": 8388608,
+      "crc32": "e0bd3b75",
+      "md5": "bfb5a63fde75becb342f5d0e9a8e0da2",
+      "sha1": "2bf5363d24c4ec6de8aafae1bffc84113eaed0a2"
+    },
+    {
+      "name": "Virtua Tennis (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AVTP",
+      "size": 8388608,
+      "crc32": "e52a3ab8",
+      "md5": "820a03dcd47b4d8aec4b09b6d0f95d56",
+      "sha1": "d200653b31c7fc150e9e84b53370ce4f40a10d43"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Virtua%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Virtua%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Virtua%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Virtua%20Tennis%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Virtua%20Tennis%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Virtua%20Tennis%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

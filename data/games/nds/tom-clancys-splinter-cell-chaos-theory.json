@@ -72,5 +72,66 @@
     "wikidata": "Q533304",
     "mobygames": 20691,
     "igdb": 194234
-  }
+  },
+  "roms": [
+    {
+      "name": "Tom Clancy's Splinter Cell - Chaos Theory (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATCP",
+      "size": 67108864,
+      "crc32": "c0500a29",
+      "md5": "3015ff2df75f41d74fbac4408af1daa5",
+      "sha1": "de296a4cfda84d350c565940dbeebdbd389f294c",
+      "sha256": "0d2a658bba99a8f12e0c5ba43fd8d435c43df4edf85ed7b18de993f010b7bc19"
+    },
+    {
+      "name": "Tom Clancy's Splinter Cell - Chaos Theory (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATCE",
+      "size": 67108864,
+      "crc32": "4043a229",
+      "md5": "6d2ed2f7a4c527cc8a4b34bd55e654e3",
+      "sha1": "b694e25f5e4389c1f0959b193301c72282fa22ef"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tom%20Clancy%27s%20Splinter%20Cell%20-%20Chaos%20Theory%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tom%20Clancy%27s%20Splinter%20Cell%20-%20Chaos%20Theory%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tom%20Clancy%27s%20Splinter%20Cell%20-%20Chaos%20Theory%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tom%20Clancy%27s%20Splinter%20Cell%20-%20Chaos%20Theory%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tom%20Clancy%27s%20Splinter%20Cell%20-%20Chaos%20Theory%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tom%20Clancy%27s%20Splinter%20Cell%20-%20Chaos%20Theory%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

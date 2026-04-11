@@ -63,5 +63,78 @@
     "wikidata": "Q219804",
     "mobygames": 6966,
     "igdb": 2162
-  }
+  },
+  "roms": [
+    {
+      "name": "Zombies (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-95086-00",
+      "size": 1048576,
+      "crc32": "179a1aa2",
+      "md5": "f34c4d65295980bbf7c1c0dde433b154",
+      "sha1": "f0b447196d648b282050a52bdfdd9bf0d8f3d57e",
+      "sha256": "d2d25b6102c9766248e37eab852107d15ac7c87e3325470130e7fe626ee8046f"
+    },
+    {
+      "name": "Zombies Ate My Neighbors (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95086-00",
+      "size": 1048576,
+      "crc32": "2bf3626f",
+      "md5": "de13c6ca3789b58f19df059f2d1a8425",
+      "sha1": "57090434ee3ffb060b33a1dcce91d1108bf60c47",
+      "sha256": "b575e4e13d04c20e2be5aeeceb189f51a7a913ddb02d7b8f14d89c4ba2850845"
+    },
+    {
+      "name": "Zombies Ate My Neighbors (USA) (Limited Run Games)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95086-00",
+      "size": 1048576,
+      "crc32": "583db890",
+      "md5": "42d4c6bb067580665154c81222c23fcb",
+      "sha1": "62bc26db0df31eab4938aa86162be2c55aeb6970",
+      "sha256": "7df03c3258b81c86c01f1870ecd22cf1d00c9afa3545b345c8e5b2250450bec7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Zombies%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Zombies%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Zombies%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Zombies%20Ate%20My%20Neighbors%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Zombies%20Ate%20My%20Neighbors%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Zombies%20Ate%20My%20Neighbors%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

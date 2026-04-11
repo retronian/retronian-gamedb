@@ -18,5 +18,94 @@
     "wikidata": "Q3925980",
     "mobygames": 92169,
     "igdb": 5110
-  }
+  },
+  "roms": [
+    {
+      "name": "Purr Pals (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQ9E",
+      "size": 67108864,
+      "crc32": "63cac63f",
+      "md5": "c0db7431ea304d7cd751290a306f59d5",
+      "sha1": "bd180ef455fd7895395547ac140fcc81efd119c8"
+    },
+    {
+      "name": "Purr Pals (Europe) (En,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQ9P",
+      "size": 67108864,
+      "crc32": "5b85a976",
+      "md5": "db5b8bdba492b761480c3d0bf1785cef",
+      "sha1": "13dd0681bd94c9f2e51ab5d71797adaaae8cb3ba",
+      "sha256": "a1eec1b3eaa9ae4bc9ec170eac1cca4af2335f674dca17b5f7e9ebff97c39d51"
+    },
+    {
+      "name": "Purr Pals (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQ9X",
+      "size": 67108864,
+      "crc32": "3fdd9b7c",
+      "md5": "fbaf7a5c4b1ad3db15ca184655734305",
+      "sha1": "6e763f6c7841efd28f69b9ca458193888ba5c497"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Purr%20Pals%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Purr%20Pals%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Purr%20Pals%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Purr%20Pals%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Purr%20Pals%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Purr%20Pals%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Purr%20Pals%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Purr%20Pals%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Purr%20Pals%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

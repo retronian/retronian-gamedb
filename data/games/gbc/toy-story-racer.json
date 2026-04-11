@@ -63,5 +63,64 @@
     "wikidata": "Q2447854",
     "mobygames": 75534,
     "igdb": 18944
-  }
+  },
+  "roms": [
+    {
+      "name": "Toy Story Racer (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "f660ed94",
+      "md5": "3e3c0ff63a8f5de3c13a60b82cea89d9",
+      "sha1": "1d06b1b563ec34014a8eabfd557e20ee03154ff9"
+    },
+    {
+      "name": "Toy Story Racer (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BT5E",
+      "size": 2097152,
+      "crc32": "d911dd97",
+      "md5": "01a67ed2dc935044ba69eda42bddebf3",
+      "sha1": "5deb31321a86b260aa84cab5e45a3fa36ce5efbd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Toy%20Story%20Racer%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Toy%20Story%20Racer%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Toy%20Story%20Racer%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Toy%20Story%20Racer%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Toy%20Story%20Racer%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Toy%20Story%20Racer%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

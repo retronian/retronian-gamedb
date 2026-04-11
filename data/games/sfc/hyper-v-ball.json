@@ -44,5 +44,75 @@
     "wikidata": "Q5957657",
     "mobygames": 25329,
     "igdb": 42609
-  }
+  },
+  "roms": [
+    {
+      "name": "Hyper V-Ball (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "094012ea",
+      "md5": "84ee7f26265f179a72d4c9c5642facb5",
+      "sha1": "59af11f394437f15decb2f27270e2e96c2a577d5",
+      "sha256": "58f5ca24bf81313d34340d4765dc04ae99ce31832cd52809a0805e82dcea95cd"
+    },
+    {
+      "name": "Hyper V-Ball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "7d179e21",
+      "md5": "5ef625d117e1359d055b2c82630cf52c",
+      "sha1": "c132aff55c61451dfb1498d43db64866486734f3",
+      "sha256": "db57f45e113127b7148c1b0add2da888e16e16b3e46749f95973b3ef497ae90b"
+    },
+    {
+      "name": "Hyper V-Ball (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "c9e280e5",
+      "md5": "28ba04ae6235bf851212063889c0072a",
+      "sha1": "c8cd9b6d3c3e8cfaeabcd3c95e3cf6cc89202b75",
+      "sha256": "63bc39e5b764c0b579cae5bbed69dd92563c7e8222b235662cff20ec8b04d231"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hyper%20V-Ball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hyper%20V-Ball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hyper%20V-Ball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hyper%20V-Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hyper%20V-Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hyper%20V-Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

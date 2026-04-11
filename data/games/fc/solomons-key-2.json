@@ -53,5 +53,93 @@
   "external_ids": {
     "wikidata": "Q5451293",
     "mobygames": 28949
-  }
+  },
+  "roms": [
+    {
+      "name": "Fire 'n Ice (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6e8d2bb4",
+      "md5": "35fe029d185e1355253861f4e319e883",
+      "sha1": "d10ac3ad454ea9298c86008efd62d2bea148ac04",
+      "sha256": "ae888cb8086316a131fc0a8b4e33e134eb3bba3d2687b701649281efc35bfcf6"
+    },
+    {
+      "name": "Solomon's Key 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "8ed32fb7",
+      "md5": "42cdccd6e834fd4b6ba25b6c3eabaee4",
+      "sha1": "8680b585c371cf69b3fe51a3b8f326f1faf8a4f6",
+      "sha256": "767ef3a5a9c7ad0d3a3ff6d94f0c2055096d37e414b86a7ae9c870fe36c56435"
+    },
+    {
+      "name": "Solomon's Key 2 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6d5649b7",
+      "md5": "decf0e4372979760c4c8162c9abdc8d3",
+      "sha1": "1ecc0f172442f0465923f1e415144d5b07429e99",
+      "sha256": "2b91dc03d1abc67cfb22320ec39be524a94420e3c639fe66951d23dd84f544bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Fire%20%27n%20Ice%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Fire%20%27n%20Ice%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Fire%20%27n%20Ice%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Solomon%27s%20Key%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Solomon%27s%20Key%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Solomon%27s%20Key%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Solomon%27s%20Key%202%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Solomon%27s%20Key%202%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Solomon%27s%20Key%202%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

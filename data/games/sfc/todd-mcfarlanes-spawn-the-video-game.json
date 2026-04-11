@@ -44,5 +44,75 @@
     "wikidata": "Q4051546",
     "mobygames": 11757,
     "igdb": 42580
-  }
+  },
+  "roms": [
+    {
+      "name": "Todd McFarlane's Spawn - The Video Game (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 3145728,
+      "crc32": "0ca0b84f",
+      "md5": "f22f267b9de289701b1753e9bb5c9279",
+      "sha1": "8c90c410c93fef6ecfc85da3d2b85fb61a099c27",
+      "sha256": "9223bfb097117fc4b248fbc20cd3a31768d3f9e669646f7b8967d9f25dffdda8"
+    },
+    {
+      "name": "Todd McFarlane's Spawn - The Video Game (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 3145728,
+      "crc32": "4e1dafd0",
+      "md5": "fa499b552c4c9cccd089802147b5dcd5",
+      "sha1": "f3d8b7ff4127899131fc9253be8b30f7a8bab717",
+      "sha256": "32d0f1ca5b91fd9b2caf81422fb9e8fb30bc091f0b2a429b9269dd307fcba4fd"
+    },
+    {
+      "name": "Todd McFarlane's Spawn - The Video Game (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 3145728,
+      "crc32": "5c104dbf",
+      "md5": "f62ec5353cc30e5ce307204bd1f90cf5",
+      "sha1": "138427818440244385d73d9f30982b562190e9dc",
+      "sha256": "5dc20fe825ac5ae9e7e248ecc92e287c862088dcaddb2eb0b82ea2ecbb0d6200"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Todd%20McFarlane%27s%20Spawn%20-%20The%20Video%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Todd%20McFarlane%27s%20Spawn%20-%20The%20Video%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Todd%20McFarlane%27s%20Spawn%20-%20The%20Video%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Todd%20McFarlane%27s%20Spawn%20-%20The%20Video%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Todd%20McFarlane%27s%20Spawn%20-%20The%20Video%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Todd%20McFarlane%27s%20Spawn%20-%20The%20Video%20Game%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

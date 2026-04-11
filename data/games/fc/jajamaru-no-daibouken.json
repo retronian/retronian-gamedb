@@ -52,5 +52,46 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Jajamaru no Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "a5270820",
+      "md5": "07c8b833f5db97d9b61f016745e8a5e1",
+      "sha1": "018c4ca17a2164c3f481a09c6b20a9567c137300",
+      "sha256": "f5a019f06cf6d6676188365725b0ae57615c399d0918600d2bde40d1bf974f8c"
+    },
+    {
+      "name": "Jajamaru no Daibouken (Asia) (Ja) (Pirate)",
+      "source": "no_intro",
+      "size": 65552,
+      "crc32": "74381339",
+      "md5": "abcec7062e514fd0824450a7b85e9c94",
+      "sha1": "87299b17d8be61981c0462a7a1add1cb99aa7569",
+      "sha256": "22c41f33586ec1096279433aa1714ca8d38ea701b2c2e3066ec8b18bdee4ee2a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Jajamaru%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Jajamaru%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Jajamaru%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

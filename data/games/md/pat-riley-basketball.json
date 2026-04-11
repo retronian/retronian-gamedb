@@ -54,5 +54,89 @@
     "wikidata": "Q842155",
     "mobygames": 17861,
     "igdb": 28020
-  }
+  },
+  "roms": [
+    {
+      "name": "Pat Riley Basketball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1201-00",
+      "size": 524288,
+      "crc32": "3d9318a7",
+      "md5": "4450ae3c9d7fc290daa6dcaab8d68644",
+      "sha1": "0655ac1043c27c68d40ae089f1af2826613e5f80",
+      "sha256": "31452b7adccac45574e94bc1d2f2cfbbddf3a6ef8575f22d2983eb5595fe7c74"
+    },
+    {
+      "name": "Pat Riley Basketball (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1201-00",
+      "size": 524288,
+      "crc32": "00f4c7cc",
+      "md5": "b4e1b92d38eb5ccf6951d6c4b559f27f",
+      "sha1": "b939dd0e18800f93f8674114c6838e364d74021a",
+      "sha256": "b65553549797839986ebdebcae30a16ab1e2e8f62ea3e2567843455df9cdc261"
+    },
+    {
+      "name": "Super Real Basketball (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1201-00",
+      "size": 524288,
+      "crc32": "f04765ba",
+      "md5": "877df60e0d09958b2e3e28df9773e8af",
+      "sha1": "0197df59951085dc7078c4ec66c75be84566530a",
+      "sha256": "ba40114618bafb1d8fb3f9608e4776d44c4fb31e2a2f2d03fcd368fd7832f355"
+    },
+    {
+      "name": "Super Real Basketball (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4021-00",
+      "size": 524288,
+      "crc32": "4346e11a",
+      "md5": "50576153aa8102d02b122210ffaff07f",
+      "sha1": "c86725780027ef9783cb7884c8770cc030b0cd0d",
+      "sha256": "d3d0df2b48eca89a7c5309e1c0436c973d1a95e1ea7bbb2f40f2899aa3e6a3cf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pat%20Riley%20Basketball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pat%20Riley%20Basketball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pat%20Riley%20Basketball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Real%20Basketball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Real%20Basketball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Real%20Basketball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

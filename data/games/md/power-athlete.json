@@ -44,5 +44,49 @@
   "external_ids": {
     "wikidata": "Q3020587",
     "mobygames": 17433
-  }
+  },
+  "roms": [
+    {
+      "name": "Deadly Moves (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-33033-00",
+      "size": 1048576,
+      "crc32": "35cbd237",
+      "md5": "208652cf1e1f77405cf3e854f009d2b8",
+      "sha1": "8733d179292d4dc5c3513459539d96484b6d018f",
+      "sha256": "b0009d923b85c8bc687d6195ceea7d7e0fe8ade221e2f6902cc29d72347cfd53"
+    },
+    {
+      "name": "Power Athlete (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-33033-00",
+      "size": 1048576,
+      "crc32": "b41b77cf",
+      "md5": "2391922125eed997b77a015135454ebb",
+      "sha1": "d371e339c5d85b69c34007dc514c1adb524dac2a",
+      "sha256": "bf0996b3cfaa4b6844c249d1bcd2e1fea3a4a577afe3d62471efad35e80816f6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Deadly%20Moves%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Deadly%20Moves%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Deadly%20Moves%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

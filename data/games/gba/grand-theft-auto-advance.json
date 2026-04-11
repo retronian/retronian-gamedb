@@ -90,5 +90,65 @@
     "wikidata": "Q648099",
     "mobygames": 15752,
     "igdb": 3266
-  }
+  },
+  "roms": [
+    {
+      "name": "Grand Theft Auto (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BGTE",
+      "size": 16777216,
+      "crc32": "1fa131e8",
+      "md5": "2c8ef9cce9f46b55247468ea449aeade",
+      "sha1": "742fc0062ad930253ffea449953061381577649e"
+    },
+    {
+      "name": "Grand Theft Auto (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BGTP",
+      "size": 16777216,
+      "crc32": "4189e07f",
+      "md5": "b4d933095f1be113f2b64f61e21b4055",
+      "sha1": "06230842626da504f92396074f7c655e100f5d44"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Grand%20Theft%20Auto%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Grand%20Theft%20Auto%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Grand%20Theft%20Auto%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Grand%20Theft%20Auto%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Grand%20Theft%20Auto%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Grand%20Theft%20Auto%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

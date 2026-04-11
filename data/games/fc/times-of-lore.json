@@ -63,5 +63,65 @@
     "wikidata": "Q7806576",
     "mobygames": 762,
     "igdb": 12486
-  }
+  },
+  "roms": [
+    {
+      "name": "Times of Lore (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "8b33eec0",
+      "md5": "a95d684e7cc7824c08ea2e092821d7e1",
+      "sha1": "ad31dbf0fb2b42b864f7c6aead574e6ac4e47bcb",
+      "sha256": "cadeaeb4faa33b536e63984cb137fc0b91a11bcb818069e41d74f8aa21cd31dc"
+    },
+    {
+      "name": "Times of Lore (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "ab48f25c",
+      "md5": "df74b71af69f792f4b34e2b3390e44db",
+      "sha1": "ca18de07cc44e38767e3c57237809fdb0aaf148a",
+      "sha256": "20d982b7c4511a6d9e93d5f5ec05aa1b752329327c435670d03081d8771be522"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Times%20of%20Lore%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Times%20of%20Lore%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Times%20of%20Lore%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Times%20of%20Lore%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Times%20of%20Lore%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Times%20of%20Lore%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

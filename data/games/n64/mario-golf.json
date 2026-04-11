@@ -71,5 +71,134 @@
     "wikidata": "Q1758447",
     "mobygames": 3538,
     "igdb": 3401
-  }
+  },
+  "roms": [
+    {
+      "name": "Mario Golf (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 33554432,
+      "crc32": "1c256575",
+      "md5": "335c3f0ca75a77b222ca50e7af308563",
+      "sha1": "47c5f700940bb65be1145e7d6543ddf1a816ddda"
+    },
+    {
+      "name": "Mario Golf (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NMFP",
+      "size": 33554432,
+      "crc32": "a5071a77",
+      "md5": "55634ff90ee997790781f79a5b0097ee",
+      "sha1": "a3f057212e134c411258837271db8a08a6a7921e",
+      "sha256": "9df6ee0c9a3b463032726400de0e2879578ee55c0d03876bf9d7507e56aa99b9"
+    },
+    {
+      "name": "Mario Golf (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NMFE",
+      "size": 33554432,
+      "crc32": "2fc4c216",
+      "md5": "903e6929666531d72d05d1e4c522e305",
+      "sha1": "e2c4e7a905b29529b49a1619a401fe699224829b",
+      "sha256": "871134c893d5d671ef90c88dfbe98fb20fa20853b3370936a1d09aee6de1beae"
+    },
+    {
+      "name": "Mario Golf 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NMFJ",
+      "size": 33554432,
+      "crc32": "bb03a1a6",
+      "md5": "cd87ba2998d63c13b4366eb2c54e1eb6",
+      "sha1": "1e2c5b63298cd3e8ee5e5f1ebba93c3d6fcb27df",
+      "sha256": "7a8180e46e1761bae7add2a46cad472c9d328f16e8c574a46915adc1f658620e"
+    },
+    {
+      "name": "Mario Golf 64 (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NMFJ",
+      "size": 33554432,
+      "crc32": "ad1758ac",
+      "md5": "570b4f55a3005b709e6ed5d625981b90",
+      "sha1": "ef0984fe1b9f925b31d74bb8fe65b6660095ed4e",
+      "sha256": "9a7b624eaa0625d2eea38e54afdd7b3aca906464736109da185be45a7bd93845"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Golf%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Golf%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Golf%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Golf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Golf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Golf%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Golf%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Golf%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Golf%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20Golf%2064%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20Golf%2064%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20Golf%2064%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -97,5 +97,107 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Gunstar Heroes (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-01077-00",
+      "size": 1048576,
+      "crc32": "866ed9d0",
+      "md5": "3fb8a8dfd2cfea48ae3d378918691ee7",
+      "sha1": "a7b265f49ec74f7febb8463c64535ceda15c8398",
+      "sha256": "467ec3865b183df6895ea28fc71676eece34b20bfdf9150ebf73b8ec3b070e25"
+    },
+    {
+      "name": "Gunstar Heroes (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-004103-00",
+      "size": 1048576,
+      "crc32": "1cfd0383",
+      "md5": "bc578767a82f008cd2d3f4226a98ec32",
+      "sha1": "64ae3ef9d063d21b290849809902c221f6ab10d5",
+      "sha256": "549b1731062c24195ae7fa8ca84ad34ae5bfa2972c9eb2535df880d06880ea86"
+    },
+    {
+      "name": "Gunstar Heroes (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00001105-03",
+      "size": 1048576,
+      "crc32": "6f90b502",
+      "md5": "b424a225fcc5bcd9caea0ae48a5d07ec",
+      "sha1": "a8d7f502d877b0ea3ff2431c94001e9d5dd84868",
+      "sha256": "dd394ca550e203d4f6a3efae21ae2fc9c317786a52898bcbaee7b5f939dfd9ed"
+    },
+    {
+      "name": "Gunstar Heroes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-01077-00",
+      "size": 1048576,
+      "crc32": "b813cf0d",
+      "md5": "9a369cfc6355db48677771e345421e0e",
+      "sha1": "7721e302555f16e3242ad4a47ed87a1de1882122",
+      "sha256": "f177810ce614be21c1a9214c0ca4d8f8d357b04a497c02fae185e4b2f97b6b87"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gunstar%20Heroes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gunstar%20Heroes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gunstar%20Heroes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gunstar%20Heroes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gunstar%20Heroes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gunstar%20Heroes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gunstar%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gunstar%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gunstar%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

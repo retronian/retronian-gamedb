@@ -63,5 +63,54 @@
     "wikidata": "Q3312139",
     "mobygames": 52749,
     "igdb": 8066
-  }
+  },
+  "roms": [
+    {
+      "name": "Taz-Mania (World)",
+      "source": "no_intro",
+      "serial": "MK-1032-00",
+      "size": 524288,
+      "crc32": "0e901f45",
+      "md5": "659550d4c9588ff594a927eb173877d2",
+      "sha1": "01875bb6484d44a844f3d3e1ae141864664b73b8",
+      "sha256": "39f6718abb489d182aa5d60c731bcd1da2243e5419d3553373be9b3a7d3cd184"
+    },
+    {
+      "name": "Taz-Mania (World) (Beta 1)",
+      "source": "no_intro",
+      "serial": "MK-1032-00",
+      "size": 524288,
+      "crc32": "1415b80f",
+      "md5": "6604d4fc1cd429a995bb2c33652b68df",
+      "sha1": "31c49bba3d1fb10ebde060bacd47d17857d04404",
+      "sha256": "5028f9d5ab88c5e08bd796d7f48a5d2c8abf6db91994b8956c20be3731852b69"
+    },
+    {
+      "name": "Taz-Mania (World) (Beta 2)",
+      "source": "no_intro",
+      "serial": "MK-1032-00",
+      "size": 524288,
+      "crc32": "76e10518",
+      "md5": "e2167344a6d50415c3635f05305e1d06",
+      "sha1": "34df0a9b4a97121cfef140f8cdbebee2c66aa863",
+      "sha256": "3a97577288ab00c89e47954b1bfe2e2d76abeab2231319ed27c6932a7631bb84"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Taz-Mania%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Taz-Mania%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Taz-Mania%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

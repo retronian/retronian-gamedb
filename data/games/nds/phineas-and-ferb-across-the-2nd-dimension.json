@@ -35,5 +35,77 @@
   "external_ids": {
     "wikidata": "Q7186376",
     "mobygames": 68088
-  }
+  },
+  "roms": [
+    {
+      "name": "Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZFP",
+      "size": 67108864,
+      "crc32": "2256d6c1",
+      "md5": "fb557eaf7b392a2cc2add3d5543da0e1",
+      "sha1": "bc6ad724c56622451909da36c7686a6fbec2b8c7"
+    },
+    {
+      "name": "Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Sv,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZFX",
+      "size": 67108864,
+      "crc32": "23f40713",
+      "md5": "bc909c3a7618419ac1a843012430d0d2",
+      "sha1": "124252a7ec84a7e45a052cdbe9407c05fc3eb8c9",
+      "sha256": "1a057759092b027d203ca805b608574e39acf167ab1a0b97184ee782ad1b91db"
+    },
+    {
+      "name": "Phineas and Ferb - Across the 2nd Dimension (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B5VE",
+      "size": 67108864,
+      "crc32": "70c28b94",
+      "md5": "b8bc697527bdfdd29312dd85ca1c1ded",
+      "sha1": "8a0338bb5ee3eb668b8693aa4a574a532000b421",
+      "sha256": "489e60f10c5ed29ff75bce8ec5ca5c316cea88792a2b11f4e70640c969d1bc83"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Phineas%20and%20Ferb%20-%20Across%20the%202nd%20Dimension%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Phineas%20and%20Ferb%20-%20Across%20the%202nd%20Dimension%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Phineas%20and%20Ferb%20-%20Across%20the%202nd%20Dimension%20%28Europe%29%20%28En%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Phineas%20and%20Ferb%20-%20Across%20the%202nd%20Dimension%20%28Europe%29%20%28En%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Phineas%20and%20Ferb%20-%20Across%20the%202nd%20Dimension%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Phineas%20and%20Ferb%20-%20Across%20the%202nd%20Dimension%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

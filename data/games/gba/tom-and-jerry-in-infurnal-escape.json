@@ -18,5 +18,65 @@
     "wikidata": "Q102181842",
     "mobygames": 51951,
     "igdb": 8029
-  }
+  },
+  "roms": [
+    {
+      "name": "Tom and Jerry in Infurnal Escape (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AIFE",
+      "size": 4194304,
+      "crc32": "11156d88",
+      "md5": "c63ea91402e560b3ede1242884d72f73",
+      "sha1": "fc27897d063720867fb21e41fd6642218257a6fb"
+    },
+    {
+      "name": "Tom and Jerry in Infurnal Escape (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AIFP",
+      "size": 8388608,
+      "crc32": "2db83271",
+      "md5": "72602c894450147ced8161ef48f784d8",
+      "sha1": "578122ab783d4ee2e35a9b127dae68d80d1de2d8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tom%20and%20Jerry%20in%20Infurnal%20Escape%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tom%20and%20Jerry%20in%20Infurnal%20Escape%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tom%20and%20Jerry%20in%20Infurnal%20Escape%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tom%20and%20Jerry%20in%20Infurnal%20Escape%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tom%20and%20Jerry%20in%20Infurnal%20Escape%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tom%20and%20Jerry%20in%20Infurnal%20Escape%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

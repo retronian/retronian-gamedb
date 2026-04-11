@@ -71,5 +71,65 @@
     "wikidata": "Q3493436",
     "mobygames": 5246,
     "igdb": 6605
-  }
+  },
+  "roms": [
+    {
+      "name": "Spider-Man - Mysterio no Kyoui (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ASEJ",
+      "size": 8388608,
+      "crc32": "f8125c4b",
+      "md5": "e2026eacc69f10684dd4d370c4abedec",
+      "sha1": "4e7504a3692a56819398d1c79a9a0ffb84507864"
+    },
+    {
+      "name": "Spider-Man - Mysterio's Menace (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASEE",
+      "size": 8388608,
+      "crc32": "6e135b4d",
+      "md5": "fbda16cbc7e3f81aa5b90da955d3e114",
+      "sha1": "ef80933054d6be9532d5d35bee6f715438301755"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spider-Man%20-%20Mysterio%20no%20Kyoui%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spider-Man%20-%20Mysterio%20no%20Kyoui%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spider-Man%20-%20Mysterio%20no%20Kyoui%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spider-Man%20-%20Mysterio%27s%20Menace%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spider-Man%20-%20Mysterio%27s%20Menace%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spider-Man%20-%20Mysterio%27s%20Menace%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

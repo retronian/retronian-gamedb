@@ -27,5 +27,67 @@
     "wikidata": "Q7491015",
     "mobygames": 90147,
     "igdb": 68942
-  }
+  },
+  "roms": [
+    {
+      "name": "Shaun the Sheep (Europe) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CSUP",
+      "size": 33554432,
+      "crc32": "c33dfe2a",
+      "md5": "a0b67a23cceaa97c3ee5061da45d3dfa",
+      "sha1": "7d18ce2a8d8705f9634ac28c2c04b7dc4e6a7f85",
+      "sha256": "74d3a803955736720f23890b4d51f3a7332914e1e0f0778ca95071d4cad67c16"
+    },
+    {
+      "name": "Shaun the Sheep (USA) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CSUE",
+      "size": 33554432,
+      "crc32": "d31079ba",
+      "md5": "cd5b1370feee4d76e723bcc9702d8f80",
+      "sha1": "daaf3855cd7ac380dfe97f0ca46547e2f1202a9f",
+      "sha256": "8449d32f864b70287d44af8627c7fe13d3b15139e8d5b7ea5c1cc4ca296f4429"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Shaun%20the%20Sheep%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Shaun%20the%20Sheep%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Shaun%20the%20Sheep%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Shaun%20the%20Sheep%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Shaun%20the%20Sheep%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Shaun%20the%20Sheep%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

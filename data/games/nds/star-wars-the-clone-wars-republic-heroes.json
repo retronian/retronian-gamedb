@@ -54,5 +54,65 @@
     "wikidata": "Q54850",
     "mobygames": 42863,
     "igdb": 210
-  }
+  },
+  "roms": [
+    {
+      "name": "Star Wars - The Clone Wars - Republic Heroes (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BW9P",
+      "size": 134217728,
+      "crc32": "c3dc5217",
+      "md5": "49ba61cbc45e679787cf97760cd63a5e",
+      "sha1": "6aff535d18c7cfb3bcbb600aaff4f95bff13fd04"
+    },
+    {
+      "name": "Star Wars - The Clone Wars - Republic Heroes (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BW9E",
+      "size": 134217728,
+      "crc32": "e1189dec",
+      "md5": "3f6ea470cf579dfd1122dad77cab20bf",
+      "sha1": "5a072a4f51957da5fe75f70fc5a0b3a5f3d2a6f3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Wars%20-%20The%20Clone%20Wars%20-%20Republic%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Wars%20-%20The%20Clone%20Wars%20-%20Republic%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Wars%20-%20The%20Clone%20Wars%20-%20Republic%20Heroes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Star%20Wars%20-%20The%20Clone%20Wars%20-%20Republic%20Heroes%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Star%20Wars%20-%20The%20Clone%20Wars%20-%20Republic%20Heroes%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Star%20Wars%20-%20The%20Clone%20Wars%20-%20Republic%20Heroes%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

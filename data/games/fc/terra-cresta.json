@@ -62,5 +62,75 @@
     "wikidata": "Q3112891",
     "mobygames": 23260,
     "igdb": 14876
-  }
+  },
+  "roms": [
+    {
+      "name": "Terra Cresta (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "39557fc8",
+      "md5": "e265aee6218f2ad24bb195b5d8919f17",
+      "sha1": "76cefe4898bded04f419718ca7fc6cd2f04f84a3",
+      "sha256": "3f9d83e682cf3f939d561cd31894013d7659229ebe5047ce46f766bd7aa83070"
+    },
+    {
+      "name": "Terra Cresta (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "7e760071",
+      "md5": "55a9ae3277b79c74e159cac40593388d",
+      "sha1": "7815aa594bcf3300c5c142847433cc895464b176",
+      "sha256": "69b5c084bd304f6419056545fc1486678317918e4ab8ed1e3257455728d21b9d"
+    },
+    {
+      "name": "Terra Cresta (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "ead2c515",
+      "md5": "4ccd089bf5fffd534dcf15ef0fafb085",
+      "sha1": "e8296b15516ab4f56c9d9691dd690b1093eb5de8",
+      "sha256": "4ce7b69620f2db1e81205a82941bc34e571fefc68fba9cc6fc41ca2bd4abf331"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Terra%20Cresta%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Terra%20Cresta%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Terra%20Cresta%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Terra%20Cresta%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Terra%20Cresta%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Terra%20Cresta%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

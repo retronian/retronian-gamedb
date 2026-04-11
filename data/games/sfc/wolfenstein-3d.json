@@ -78,5 +78,109 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Wolfenstein 3D (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "6a455ee2",
+      "md5": "e807372e95281d5268579283ec3d115f",
+      "sha1": "97dd894d4c0008fe935ed5c54b8d5ce2e0a32b7a",
+      "sha256": "65467d9d6e27afabbfd45ef6a58e92525a27d442fcac6f64e06cd442e5d5a340"
+    },
+    {
+      "name": "Wolfenstein 3D (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "63e442b4",
+      "md5": "1ba48c769e64413f4456accb00b918c6",
+      "sha1": "a420602687ca86f75708da463e1effef85ebdc14",
+      "sha256": "31ba046c8af1b8941315d702d23469acaeb34751690ba6029aa7a822dd732a98"
+    },
+    {
+      "name": "Wolfenstein 3D (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "2bebdb00",
+      "md5": "d2761bb77bdda42f53f57e9c0043b710",
+      "sha1": "837b0181f2e9cf75728330ed1d3400e9b6f5212d",
+      "sha256": "b67b45e7f1d2a2aec833fb603f89bc5be9b0eaa0b5d97e2b3d46fc671cf5fd26"
+    },
+    {
+      "name": "Wolfenstein 3D - The Claw of Eisenfaust (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "cc47b8f9",
+      "md5": "37571f2b864572facc0c8c67079c0ba3",
+      "sha1": "0dad8a2226c3fda0eeba96b37fb24eeb8d198513",
+      "sha256": "a30e2c5ead5c2b6554e434af264a70d8abc4984c09e7de31a7ecffa31304a24c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wolfenstein%203D%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wolfenstein%203D%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wolfenstein%203D%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wolfenstein%203D%20%28USA%29%20%28Beta%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wolfenstein%203D%20%28USA%29%20%28Beta%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wolfenstein%203D%20%28USA%29%20%28Beta%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wolfenstein%203D%20%28USA%29%20%28Beta%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wolfenstein%203D%20-%20The%20Claw%20of%20Eisenfaust%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wolfenstein%203D%20-%20The%20Claw%20of%20Eisenfaust%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wolfenstein%203D%20-%20The%20Claw%20of%20Eisenfaust%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

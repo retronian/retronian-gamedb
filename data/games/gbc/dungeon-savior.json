@@ -33,5 +33,46 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Dungeon Savior (Japan) (Rev 1) (Proto) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "0180364b",
+      "md5": "64e6738e474b22efd3132e786c18271f",
+      "sha1": "c5e93f04cc41404320aaf70eb10b55465edb1083",
+      "sha256": "49641643bda3b2ef88d18f7d031dbc6138b1bcc4cf0c36f17fc4ce56aecba1a8"
+    },
+    {
+      "name": "Dungeon Savior (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "2bcb5f78",
+      "md5": "3f56e5776ff9a2b08a0c22f5eacf6017",
+      "sha1": "766ab65d9420f361d8d9a4754ea8c6b692e34c36"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Dungeon%20Savior%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Dungeon%20Savior%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Dungeon%20Savior%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

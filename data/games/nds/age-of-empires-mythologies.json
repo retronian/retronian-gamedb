@@ -63,5 +63,66 @@
     "wikidata": "Q2659433",
     "mobygames": 37820,
     "igdb": 21221
-  }
+  },
+  "roms": [
+    {
+      "name": "Age of Empires - Mythologies (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CEPE",
+      "size": 134217728,
+      "crc32": "0297f9ea",
+      "md5": "51f007f5464164459e93c2d2e46128b9",
+      "sha1": "1ca981af55afe0d05aee25d85f66786c325afe67"
+    },
+    {
+      "name": "Age of Empires - Mythologies (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CEPP",
+      "size": 134217728,
+      "crc32": "f4f0ec07",
+      "md5": "abf85bd29b785bdd75b5d043dcef0051",
+      "sha1": "b0ca794e9b89c899b671ef18dc2aefee77a37448",
+      "sha256": "b519e21a87e075555e000885d3b0e791439f28e370fa719664ea2290cd322bae"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Age%20of%20Empires%20-%20Mythologies%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Age%20of%20Empires%20-%20Mythologies%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Age%20of%20Empires%20-%20Mythologies%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Age%20of%20Empires%20-%20Mythologies%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Age%20of%20Empires%20-%20Mythologies%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Age%20of%20Empires%20-%20Mythologies%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -61,5 +61,60 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "RoadBlasters (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-40016-00",
+      "size": 524288,
+      "crc32": "e4ef86b9",
+      "md5": "2bf4c58157d0fdb8610e08df308d39e1",
+      "sha1": "b53c65a7c11bda45b001b6c3c3e636d92f166404",
+      "sha256": "0a3b658d58a10b6cc3481de87d0547ca2b1eab72f5cf71b5c88bd067d2934151"
+    },
+    {
+      "name": "RoadBlasters (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-48066-00",
+      "size": 524288,
+      "crc32": "a0015440",
+      "md5": "9da9f6396e9f2eb34eff3a6dbe573ba4",
+      "sha1": "7127e76ea33512d14cd78e6cac72ff8578454e1e",
+      "sha256": "c2a5b55f443a8049595fe02b931479c8fbf82e87a76a3e883f45e731ce76ea1e"
+    },
+    {
+      "name": "RoadBlasters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48066-00",
+      "size": 524288,
+      "crc32": "ec6cd5f0",
+      "md5": "4e3a0867656de0c1a6ede6fb0b962aef",
+      "sha1": "927cdb93e688152f2ff9a89a1b22cd6517ada652",
+      "sha256": "1dfb0b32ee112eff3135163fa9595c088e1ad35358518f068088699c6b185b7a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/RoadBlasters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/RoadBlasters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/RoadBlasters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -83,9 +83,54 @@
       "form": "official",
       "source": "romu",
       "verified": true
+    },
+    {
+      "text": "ラングリッサー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": true
+    },
+    {
+      "text": "Langrisser",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Warsong",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Langrisser",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Warsong",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1994-08-26",
+  "first_release_date": "1991-04-26",
   "external_ids": {
     "wikidata": "Q665393",
     "mobygames": 15012,
@@ -96,6 +141,166 @@
       "text": "「ラングリッサー II」は、ウォーソング（原題はラングリッサー）の続編です。ゲームの舞台は「ウォーソング」で描かれた出来事から数年後です。善良な王国バルティアは消え、新たな力が台頭しました。それは、皇帝ベルンハルトと彼の四人の将軍が率いるレイガード帝国です。最近、ベルンハルトは彼の軍に隣国への攻撃を命じ、明らかに何かを探しています。この「何か」とは、持つ者を無敵にする伝説の悪の剣かもしれません。高貴な騎士エルウィンと彼の仲間たちが皇帝を止める使命を担っています！\n\n「ラングリッサー II」は、戦略RPGです。軍は兵士ユニットと将軍に分かれており、将軍は単独で戦い、通常は全ユニットよりも強力です。シナリオが始まる前に、兵士を雇ったり、武器やアイテムを購入したりする必要があります。戦闘中、敵ユニットに接触すると自動的にバトルシーケンスが発生します。また、ユニットに回復魔法をかけたり、敵にダメージを与える攻撃魔法を使ったりすることもできます。\n\n「ラングリッサー II」とそのリメイク版である「デア・ラングリッサー」（SNES）との大きな違いは、メガドライブ版には分岐ストーリーが存在しないことです。",
       "lang": "ja",
       "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Langrisser (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-25103-00",
+      "size": 524288,
+      "crc32": "b6ea5016",
+      "md5": "4759f8db3ee29d85f7087886d813c04b",
+      "sha1": "cc67c5a3b91e706b495eb561a95a038fff72b5da",
+      "sha256": "7333773700d5b2df89048a8215228752eae783a3bb7f06bd6a0501e2a69b6e65"
+    },
+    {
+      "name": "Langrisser II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-025143-00",
+      "size": 2097152,
+      "crc32": "7f891dfc",
+      "md5": "9be7bdb4892eb716ea80bb1de4d660e4",
+      "sha1": "4bbc2502784a61eedf45eca5303dc68062964ff4",
+      "sha256": "a6e10e82b1e8fd32d8e4ae2ce76ab689cd789d93f854aa1788abc1e9795ddb3b"
+    },
+    {
+      "name": "Langrisser II (Japan) (Rev A)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-025143-01",
+      "size": 2097152,
+      "crc32": "0caa0593",
+      "md5": "3de30d43a6433e91429535c3496f07da",
+      "sha1": "4ba6591dfd85aa75ffe8dc21137a9291aa7f5603",
+      "sha256": "eac817845e1a0589290244edefe2237b2d91a3e4b8273d830b24b44b4f8ab6d8"
+    },
+    {
+      "name": "Langrisser II (Japan) (Rev B)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-025143-02",
+      "size": 2097152,
+      "crc32": "4967c9f9",
+      "md5": "a5de915f62156feb8680f9cf34017dbd",
+      "sha1": "167944091348c89ce43dfa4854f8a51ed7276dde",
+      "sha256": "eef529759345974d7a347213e9d56b70319626623b2e65ecc9c7e7b8abc9fbc4"
+    },
+    {
+      "name": "Warsong (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-24046-00",
+      "size": 524288,
+      "crc32": "4b680285",
+      "md5": "146996a42ef0cca2578f4d56da2c4206",
+      "sha1": "9b13a85f39b3f4cc31f54077df29bbe812405a08",
+      "sha256": "ce761cd9a714f59ee535bdedfc5503e536d23f16011a91fc738abaee8a4c17af"
+    },
+    {
+      "name": "Warsong (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-24046-00",
+      "size": 524288,
+      "crc32": "522642c6",
+      "md5": "224729c46eb827aaecede2365bf45c56",
+      "sha1": "375140685b7622a07005f575cb7128cbea75a1f6",
+      "sha256": "1ae1b2f4a9b4cad8f3d79ba223b39530425aeecd95b6bfea25d5f6685504b0c0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Langrisser%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Langrisser%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Langrisser%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Langrisser%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Langrisser%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Langrisser%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Langrisser%20II%20%28Japan%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Langrisser%20II%20%28Japan%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Langrisser%20II%20%28Japan%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Langrisser%20II%20%28Japan%29%20%28Rev%20B%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Langrisser%20II%20%28Japan%29%20%28Rev%20B%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Langrisser%20II%20%28Japan%29%20%28Rev%20B%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Warsong%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Warsong%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Warsong%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
     }
   ]
 }

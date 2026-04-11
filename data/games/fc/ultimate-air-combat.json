@@ -82,6 +82,24 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": false
+    },
+    {
+      "text": "Aces - Iron Eagle 3",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "エーセス アイアンイーグル3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1992-08-07",
@@ -95,6 +113,137 @@
       "text": "映画「アイアン・イーグル3」を原作としたシューティングゲーム。",
       "lang": "ja",
       "source": "romu"
+    },
+    {
+      "text": "戦闘機を操縦するフライトシューティング。映画「アイアン・イーグル3」をベースにした作品。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Aces - Iron Eagle III (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "ff6ad30c",
+      "md5": "a24d5e2a10c811f8a5bad4ae37cca9a0",
+      "sha1": "13b9e7ee332793c0ef4c35c4b6d0f9a1039c33df",
+      "sha256": "2c5073211c51afd0bab2ac12dcb5c3ad9d610f9c82693f76733e315054ab023e"
+    },
+    {
+      "name": "Ultimate Air Combat (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524304,
+      "crc32": "be53e621",
+      "md5": "d32bdf3338148ae8e4520a640dedfe09",
+      "sha1": "9130886343798eb7a89b6857542d4f54273b5bf7",
+      "sha256": "eff176d845a8edaa80b347fae8bb47148edd54afb12c810132bed086e531c4f8"
+    },
+    {
+      "name": "Ultimate Air Combat (Europe) (En,Fr,De) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524304,
+      "crc32": "17ab4954",
+      "md5": "5b537d1939c55bb4738fdcb2747f9a43",
+      "sha1": "329fb710afe369eb5fcfd87439ee952d13c10b74",
+      "sha256": "5aa524cd3089d40697773b5d39708f73016faa06f5f831aa8d188c3075ad5a4b"
+    },
+    {
+      "name": "Ultimate Air Combat (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "60cabff5",
+      "md5": "27deb0645eb17969c5b288ebaa248b14",
+      "sha1": "dfa348607d7a20067747b60ea7911fea6d54d518",
+      "sha256": "21225aad005ebf200e8e5a34dbe7a7b1da856e23f06fe6371ab29eb8b03350c9"
+    },
+    {
+      "name": "Ultimate Air Combat (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524304,
+      "crc32": "5a560932",
+      "md5": "482ff9c213ab3f7b810c64ea0fcad14b",
+      "sha1": "d19081442ba08d981057a494633d05c7c9568b5d",
+      "sha256": "255b894b4f6a9853f6d8659da6f0e187df9603144159b72f9341839456d995d9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Aces%20-%20Iron%20Eagle%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Aces%20-%20Iron%20Eagle%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Aces%20-%20Iron%20Eagle%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ultimate%20Air%20Combat%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ultimate%20Air%20Combat%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ultimate%20Air%20Combat%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ultimate%20Air%20Combat%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ultimate%20Air%20Combat%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ultimate%20Air%20Combat%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ultimate%20Air%20Combat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ultimate%20Air%20Combat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ultimate%20Air%20Combat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
     }
   ]
 }

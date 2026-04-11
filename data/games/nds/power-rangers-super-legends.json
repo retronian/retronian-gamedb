@@ -45,5 +45,66 @@
     "wikidata": "Q3136790",
     "mobygames": 142982,
     "igdb": 3294
-  }
+  },
+  "roms": [
+    {
+      "name": "Power Rangers - Super Legends (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YPRE",
+      "size": 33554432,
+      "crc32": "6f04797a",
+      "md5": "014698e67860db9b3b40109d7dfdb265",
+      "sha1": "7e5ddc7c22e69b6c38fb7260426443fbde18f535"
+    },
+    {
+      "name": "Power Rangers - Super Legends (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YPRP",
+      "size": 33554432,
+      "crc32": "fa2b64b0",
+      "md5": "834c3887d23160de5f2c1989d3376f74",
+      "sha1": "59b50031ab371c5813d746140b039697531d4697",
+      "sha256": "21b15e090fb2bf02939cbf4e75d79375b42124f25a6c2c95464493d0b5d6f56f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Power%20Rangers%20-%20Super%20Legends%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Power%20Rangers%20-%20Super%20Legends%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Power%20Rangers%20-%20Super%20Legends%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Power%20Rangers%20-%20Super%20Legends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Power%20Rangers%20-%20Super%20Legends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Power%20Rangers%20-%20Super%20Legends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

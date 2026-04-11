@@ -27,5 +27,67 @@
     "wikidata": "Q3497241",
     "mobygames": 3008,
     "igdb": 3605
-  }
+  },
+  "roms": [
+    {
+      "name": "Starshot - Space Circus Fever (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NSCP",
+      "size": 12582912,
+      "crc32": "056d2218",
+      "md5": "a9c393aa232b32798adf378f4318f99f",
+      "sha1": "b92818c5ff6be02bec77edcbe278d06785d00c78",
+      "sha256": "c82d314e5aee48c305d141ba1cb0203cc450e4ea3fd49e464563bc6a64d69094"
+    },
+    {
+      "name": "Starshot - Space Circus Fever (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NSCE",
+      "size": 12582912,
+      "crc32": "7720e5f3",
+      "md5": "42af1992978229bbb5f560571708e25e",
+      "sha1": "7def46651f55745d5bbd633c9002bdbffc53a5e0",
+      "sha256": "0119becb46b84107ce9f67c89439474f43b08b77f0da2e3731ae4cc95f573d5f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Starshot%20-%20Space%20Circus%20Fever%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Starshot%20-%20Space%20Circus%20Fever%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Starshot%20-%20Space%20Circus%20Fever%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Starshot%20-%20Space%20Circus%20Fever%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Starshot%20-%20Space%20Circus%20Fever%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Starshot%20-%20Space%20Circus%20Fever%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

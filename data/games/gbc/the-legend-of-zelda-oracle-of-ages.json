@@ -100,6 +100,15 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": false
+    },
+    {
+      "text": "Legend of Zelda, The - Oracle of Ages",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "2001-02-27",
@@ -113,6 +122,94 @@
       "text": "伝説のトライフォースの力を使い、リンクはラブリンナという遠い土地へ旅立ちます。そこでは、影の魔女ヴェランがラブリンナの過去を変える計画を進めています。策略と欺瞞を駆使して、ヴェランは時のオラクルネイリュの力を手に入れ、400年前に旅立ちます。影の魔女が暗い使命を完遂する前に、リンクは時のハープを使って世界を救わなければなりません。",
       "lang": "ja",
       "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Legend of Zelda, The - Oracle of Ages (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "5933e3fa",
+      "md5": "825de040ea4dff66661693f8712b1bdb",
+      "sha1": "9f2dff3c46406839f839a8d535353dfc1e3e8670",
+      "sha256": "dbbb897a003654abfef7eadbfd401421e247e0c37319e947e5c80099f8f7ab86"
+    },
+    {
+      "name": "Legend of Zelda, The - Oracle of Ages (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "3800a387",
+      "md5": "c4639cc61c049e5a085526bb6cac03bb",
+      "sha1": "880374fb978b18af4aa529e2e32f7ffb4d7dd2f4",
+      "sha256": "0b56b78a9e45452e98c33edd111234931f1e034dc097f6f23082eb8db6055474"
+    },
+    {
+      "name": "Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "3272e6f9",
+      "md5": "484020d0bf01d29f2a74322e0d4acc3a",
+      "sha1": "596aa066ccee9fae71643576f7526baa22d26d6d",
+      "sha256": "75f1047438e9e1d188495f54fe9d689e79607ec370a8697626d1688ce5bcf2a5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Zelda%20no%20Densetsu%20-%20Fushigi%20no%20Kinomi%20-%20Jikuu%20no%20Shou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Zelda%20no%20Densetsu%20-%20Fushigi%20no%20Kinomi%20-%20Jikuu%20no%20Shou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Zelda%20no%20Densetsu%20-%20Fushigi%20no%20Kinomi%20-%20Jikuu%20no%20Shou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
     }
   ]
 }

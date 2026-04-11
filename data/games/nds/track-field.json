@@ -74,6 +74,42 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "New International Track & Field",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "New International Track & Field",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "New International Track & Field",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "New International Track & Field",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1983-10-27",
@@ -81,5 +117,38 @@
     "wikidata": "Q1630875",
     "mobygames": 19505,
     "igdb": 23030
-  }
+  },
+  "roms": [
+    {
+      "name": "New International Track & Field (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFEP",
+      "size": 67108864,
+      "crc32": "347cdd62",
+      "md5": "d0951040fdb444c4200f1e3f85cf13e3",
+      "sha1": "2701f14b00f8753cbc052b5bb4b12e773aa5d8d6"
+    },
+    {
+      "name": "New International Track & Field (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFEE",
+      "size": 67108864,
+      "crc32": "88a2cdbc",
+      "md5": "888153ea94c388e42c2fa3f9c49f8545",
+      "sha1": "60f975a3ddd9c66b3d9616683d0158157dea2735"
+    },
+    {
+      "name": "New International Track & Field (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "AFEK",
+      "size": 67108864,
+      "crc32": "0a88ec3e",
+      "md5": "3ab69365a6753f57b19296dccb69330d",
+      "sha1": "325c8446703a65ffdb9e09fac94e272fc762563e",
+      "sha256": "ca87ba1d153204842b614d7f7c3a770af672b146e20adfe13557051c886ff03b"
+    }
+  ]
 }

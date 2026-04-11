@@ -45,5 +45,67 @@
     "wikidata": "Q2484999",
     "mobygames": 4598,
     "igdb": 3645
-  }
+  },
+  "roms": [
+    {
+      "name": "WWF War Zone (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NWWP",
+      "size": 12582912,
+      "crc32": "90a0b609",
+      "md5": "ebc0cf55fc58845c6ee86cf8b2d87303",
+      "sha1": "808a8997aa8d717aac2a9a0c476b901338ac626e",
+      "sha256": "75539b5fa0bcb196d7dae076d9317ac21864f953b63dcb78c85e7f4fb4144501"
+    },
+    {
+      "name": "WWF War Zone (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NWWE",
+      "size": 12582912,
+      "crc32": "2fbb5507",
+      "md5": "2322da2b9e7dc74678cd683b7a246b49",
+      "sha1": "8700f89cd7cfa873452117f6b2a648d32796111c",
+      "sha256": "ee4f5a036423b78449475fa09471de6148ff6972d0510098943bc83092f990b5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WWF%20War%20Zone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/WWF%20War%20Zone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/WWF%20War%20Zone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WWF%20War%20Zone%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/WWF%20War%20Zone%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/WWF%20War%20Zone%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

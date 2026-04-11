@@ -50,5 +50,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Rolan's Curse II (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "be7887b5",
+      "md5": "6e3ad0b363bad39886733b17a3e19015",
+      "sha1": "d3235e508bb32730f6d22ad6c2d3bdb334822acc",
+      "sha256": "9f6cddfee7e5775bfda8056b74a0c7deeaceece921635a78b2fd5735073fee2c"
+    },
+    {
+      "name": "Rolan's Curse II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "2754f360",
+      "md5": "27f2c99b13cbdb5a5be4afce87b9039b",
+      "sha1": "7632e23853dd2579012489f75bd370473f0f2c46",
+      "sha256": "cf3f8f41498cdd32f5b3ee0cdccde1901b073798f3edac1a7d9ccc0141cb16be"
+    },
+    {
+      "name": "Velious II - Fukushuu no Jashin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "b55eb427",
+      "md5": "08c8ef36fd4979e404dfe041adddfca5",
+      "sha1": "d0b009bef968da587148623f9727128ce1aa80e8",
+      "sha256": "2b3ed695acb2fcd3aa8159b12373a55b01a72ae3a9e0867ef8446fd8abddec51"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Rolan%27s%20Curse%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Rolan%27s%20Curse%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Rolan%27s%20Curse%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Velious%20II%20-%20Fukushuu%20no%20Jashin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Velious%20II%20-%20Fukushuu%20no%20Jashin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Velious%20II%20-%20Fukushuu%20no%20Jashin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

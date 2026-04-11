@@ -54,5 +54,65 @@
     "wikidata": "Q536366",
     "mobygames": 73563,
     "igdb": 21267
-  }
+  },
+  "roms": [
+    {
+      "name": "Prince of Persia - The Fallen King (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CP5P",
+      "size": 33554432,
+      "crc32": "5d104eb6",
+      "md5": "481c83b3eda3d05653ded6a48c8931d2",
+      "sha1": "85c7a669932663a544ebb9710c5ba33cfbea57d2"
+    },
+    {
+      "name": "Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CP5E",
+      "size": 33554432,
+      "crc32": "9b1a5290",
+      "md5": "b2ef4da23ce799c359f341b7930573f6",
+      "sha1": "6d0ad285af2f7c649ec20f85e7fd0f253f1db2c5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Prince%20of%20Persia%20-%20The%20Fallen%20King%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Prince%20of%20Persia%20-%20The%20Fallen%20King%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Prince%20of%20Persia%20-%20The%20Fallen%20King%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Prince%20of%20Persia%20-%20The%20Fallen%20King%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Prince%20of%20Persia%20-%20The%20Fallen%20King%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Prince%20of%20Persia%20-%20The%20Fallen%20King%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

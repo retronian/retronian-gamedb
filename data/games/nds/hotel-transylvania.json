@@ -27,5 +27,89 @@
     "wikidata": "Q58319823",
     "mobygames": 81135,
     "igdb": 47705
-  }
+  },
+  "roms": [
+    {
+      "name": "Hotel Transylvania (United Kingdom)",
+      "source": "no_intro",
+      "serial": "THVP",
+      "size": 67108864,
+      "crc32": "541ffbff",
+      "md5": "e34a0bbbc30f5eaa76138e9514420e8c",
+      "sha1": "b3935015f8a9e24bc789271f9a56f8ca8601989b"
+    },
+    {
+      "name": "Hotel Transylvania (Europe) (En,Fr,It) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "THVX",
+      "size": 67108864,
+      "crc32": "df2861cb",
+      "md5": "7d203864ecd842ad28f0f94a85633303",
+      "sha1": "a0db6039612b5488f6dfb0611970c281f507a2ab"
+    },
+    {
+      "name": "Hotel Transylvania (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "THVE",
+      "size": 67108864,
+      "crc32": "ec9f6521",
+      "md5": "7860c88294ef2ce9930fdda636b5040c",
+      "sha1": "80cbadcf983ed1a4c61e7945956a6521c0a8c429"
+    },
+    {
+      "name": "Hotel Transylvania (Europe) (En,Fr,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "THVY",
+      "size": 67108864,
+      "crc32": "e0065997",
+      "md5": "884536de3a774608ace3d0e438a44531",
+      "sha1": "ae4e2850b8badd13910a6b2f9f42bcb59d477884"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hotel%20Transylvania%20%28United%20Kingdom%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hotel%20Transylvania%20%28Europe%29%20%28En%2CFr%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hotel%20Transylvania%20%28Europe%29%20%28En%2CFr%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hotel%20Transylvania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hotel%20Transylvania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hotel%20Transylvania%20%28Europe%29%20%28En%2CFr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hotel%20Transylvania%20%28Europe%29%20%28En%2CFr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -71,5 +71,94 @@
     "wikidata": "Q3178243",
     "mobygames": 30480,
     "igdb": 21447
-  }
+  },
+  "roms": [
+    {
+      "name": "Luminous Arc (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ANIJ",
+      "size": 134217728,
+      "crc32": "9ed016f7",
+      "md5": "c20e4cd79185521e6b6979377a3ac7c4",
+      "sha1": "48d9e37594d6a5cca7d68e4b9123ea256a82001f",
+      "sha256": "fddfd6c2a3fee1af26aedf11f61fae8259f71cfde767ab2dc407f1e54f086d09"
+    },
+    {
+      "name": "Luminous Arc (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANIE",
+      "size": 134217728,
+      "crc32": "a02c3fdc",
+      "md5": "cc5aa096e73df3a2fffc23a779a6052f",
+      "sha1": "f0ffb601cda448ec886c3c0075ec61309c5c5412"
+    },
+    {
+      "name": "Luminous Arc (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANIP",
+      "size": 134217728,
+      "crc32": "a5318b76",
+      "md5": "1092e73c73930141bf62a9035d848dd1",
+      "sha1": "d066802b06d984a3b29d4dad3df96d607041afd6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Luminous%20Arc%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Luminous%20Arc%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Luminous%20Arc%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Luminous%20Arc%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Luminous%20Arc%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Luminous%20Arc%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Luminous%20Arc%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Luminous%20Arc%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Luminous%20Arc%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

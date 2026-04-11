@@ -72,5 +72,65 @@
     "wikidata": "Q4881543",
     "mobygames": 78786,
     "igdb": 202091
-  }
+  },
+  "roms": [
+    {
+      "name": "Bejeweled 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B2XE",
+      "size": 33554432,
+      "crc32": "0052f220",
+      "md5": "8faae53522ea89c2d4b4bcf57d99e11a",
+      "sha1": "d80a491bd812fa159e983016722916255066df4e"
+    },
+    {
+      "name": "Bejeweled 3 (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B2XP",
+      "size": 33554432,
+      "crc32": "b64275f6",
+      "md5": "d62521ecfae810cdc8db43f67fe3d0d1",
+      "sha1": "120317767f808e0c888ad2d2911140a168f6ded7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bejeweled%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bejeweled%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bejeweled%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bejeweled%203%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bejeweled%203%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bejeweled%203%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

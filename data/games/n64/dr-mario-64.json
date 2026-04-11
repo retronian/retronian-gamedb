@@ -88,5 +88,47 @@
     "wikidata": "Q1957354",
     "mobygames": 3898,
     "igdb": 3475
-  }
+  },
+  "roms": [
+    {
+      "name": "Dr. Mario 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NN6E",
+      "size": 4194304,
+      "crc32": "a4701927",
+      "md5": "1a7936367413e5d6874abda6d623ad32",
+      "sha1": "a130d3622ce40e0158db2da4247101f6e92206fc",
+      "sha256": "bb2c0dec0a8287ad256929563d0509801c2f239df883c1cf52cab05b23bd77b6"
+    },
+    {
+      "name": "Dr. Mario 64 (USA) (LodgeNet)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "dd5190ee",
+      "md5": "697db27690b4f031cf91f28bc445a29f",
+      "sha1": "e63b10abfaa37aa8c7f37643d6d4e82fadb511fe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Dr.%20Mario%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Dr.%20Mario%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Dr.%20Mario%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

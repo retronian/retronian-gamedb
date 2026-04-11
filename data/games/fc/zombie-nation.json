@@ -60,5 +60,75 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Abarenbou Tengu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "77c3aff0",
+      "md5": "095f88037d8a37a83ae54a305340e8bd",
+      "sha1": "8d8453a47c007f9be8e8d420fc8509c2cdea613c",
+      "sha256": "628802cee1f3dd2a9642cffc0496c31260c6fbfdc4d98cd63a84ea8afcf77cd8"
+    },
+    {
+      "name": "Zombie Nation (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "b842b58c",
+      "md5": "86b97f846b1eed035aeef669d00b8728",
+      "sha1": "ea63840b39029b57e249be2a83624d0b9dc94ea7",
+      "sha256": "c75280da6bbbffd0674bf20b4569841e29cc653bbd4d7e4fc04a5431c222e577"
+    },
+    {
+      "name": "Zombie Nation (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "f58fb1b5",
+      "md5": "6d4430120c719b528a51d34fbe82830f",
+      "sha1": "6b7af9efd79bcd2594f620625ee54ac56582ea81",
+      "sha256": "d8bf5342388b94695136a6b60b1d00bbb41b48a5308fa90a8d05bb7fd11b60b7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Abarenbou%20Tengu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Abarenbou%20Tengu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Abarenbou%20Tengu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Zombie%20Nation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Zombie%20Nation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Zombie%20Nation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

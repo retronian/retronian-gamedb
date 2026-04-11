@@ -16,5 +16,47 @@
   "external_ids": {
     "wikidata": "Q16267247",
     "igdb": 48564
-  }
+  },
+  "roms": [
+    {
+      "name": "Time Diver - Eon Man (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "5f5e2417",
+      "md5": "db951d2d270fa85a0c286bc8c392fa81",
+      "sha1": "6781e702fbd216b2f5334db15340d047b7641c5c",
+      "sha256": "b69b7a93edc1e2402815f914fdb05d23dc734f33b27d04e422be851fe82cdcdc"
+    },
+    {
+      "name": "Time Diver - Eon Man (Japan) (En) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "04483a7d",
+      "md5": "3e199c2a0955165ef931cbad8aead52f",
+      "sha1": "b73e881014f4562649cd2ee0e29ad62c10889bda",
+      "sha256": "bb7958ae9d90ff1740c3a122b54ed9dfd9bd1fc91e29c4057b24caeab97cf0e3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Time%20Diver%20-%20Eon%20Man%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Time%20Diver%20-%20Eon%20Man%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Time%20Diver%20-%20Eon%20Man%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -27,5 +27,67 @@
     "wikidata": "Q54938490",
     "mobygames": 69117,
     "igdb": 145186
-  }
+  },
+  "roms": [
+    {
+      "name": "Jet Grind Radio (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AJRE",
+      "size": 8388608,
+      "crc32": "ae4142b5",
+      "md5": "ff50e8973adf12604ca70e15acb108db",
+      "sha1": "8f10e828dfe6387be8a1badb1104698c54163411",
+      "sha256": "1bbcfdbf0cb2374420b70e2fb38c415acfa068883c44187b563e786cb8ce9bc7"
+    },
+    {
+      "name": "Jet Set Radio (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AJRP",
+      "size": 8388608,
+      "crc32": "716dc010",
+      "md5": "7506c14af1c1e6b6e64a3ac393c4004d",
+      "sha1": "4210e8a4225a076c01c39239941e2aff1c056f71",
+      "sha256": "037874d3d86e4c5d242798c03e2f4a9d3602dca612d13d31fadcfbbc7ea9c543"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jet%20Grind%20Radio%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jet%20Grind%20Radio%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jet%20Grind%20Radio%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jet%20Set%20Radio%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jet%20Set%20Radio%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jet%20Set%20Radio%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

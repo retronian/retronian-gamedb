@@ -36,5 +36,65 @@
     "wikidata": "Q5245521",
     "mobygames": 54087,
     "igdb": 194267
-  }
+  },
+  "roms": [
+    {
+      "name": "Dead to Rights (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDEE",
+      "size": 8388608,
+      "crc32": "52c1826c",
+      "md5": "f22ca50c999fddb4feef6bcb32b9d94a",
+      "sha1": "2e6e240bb80597f081550eb5e0478e3443cd685c"
+    },
+    {
+      "name": "Dead to Rights (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BDEP",
+      "size": 8388608,
+      "crc32": "2994de1d",
+      "md5": "01356207595154e92efa8b97b6e48acd",
+      "sha1": "0291aa7a98dfe24907d763ce860178cf3b9c6ebe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dead%20to%20Rights%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dead%20to%20Rights%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dead%20to%20Rights%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dead%20to%20Rights%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dead%20to%20Rights%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dead%20to%20Rights%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

@@ -97,5 +97,66 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Ice Climber (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "cc9ef940",
+      "md5": "29b3b4e35e3a574d5f9b7c990459a849",
+      "sha1": "32e64e4a3bea348d77dd284d2d48bf48f65ab427",
+      "sha256": "1fc465974e901e41cf7d260b74844cc3345a44904ff9722a1f5aced44cacc44a"
+    },
+    {
+      "name": "Ice Climber (USA, Europe, Asia) (En)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "913f07b0",
+      "md5": "4a140974854a221e1d3a93d9e871e79a",
+      "sha1": "7309ba29c5bdfe088302e107eb4f7c9e67c8cd32",
+      "sha256": "491898c9b0bf6b242d08bb0841141ca404f8e54383a1814cdb7feab451da8701"
+    },
+    {
+      "name": "Ice Climber (USA) (e-Reader)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "cecd1978",
+      "md5": "9fd03d2206a804a408957886ff4608e0",
+      "sha1": "5188dc603daec6e4cfe0a89a5813b00b39caff2d",
+      "sha256": "719243259bb60e458be2cde2e1ec103420775be69a7ca5b6e02ad9eafb9b250e"
+    },
+    {
+      "name": "Ice Climber (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "f61124ff",
+      "md5": "b8ea70484096823d320e343e47a4b5f0",
+      "sha1": "061e3caa90654842d9ed2e1c1964af834aa41e19",
+      "sha256": "c9963266e484b7636fa434f07031f5cd1b53e51b51332048871f87995bcba22a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ice%20Climber%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ice%20Climber%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ice%20Climber%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

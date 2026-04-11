@@ -18,5 +18,47 @@
     "wikidata": "Q16661501",
     "mobygames": 24982,
     "igdb": 131706
-  }
+  },
+  "roms": [
+    {
+      "name": "Lucky Luke (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1572864,
+      "crc32": "7e2c7143",
+      "md5": "466940840196f36a855668fcf84fb94b",
+      "sha1": "82cef93f124906e49c4e9ec6f58e23ef7e9f77f9",
+      "sha256": "8510491f99400115ccf33570269bc4e484fb56370f7ac36f12e73eec19d342da"
+    },
+    {
+      "name": "Lucky Luke (Europe) (En,Fr,De,Es) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1572864,
+      "crc32": "9c9f7061",
+      "md5": "c783d867a5c2d91cec4884429b5c606e",
+      "sha1": "e26d01965545d1c7f10437de513ad5f9147da343",
+      "sha256": "09fccea0af15ed37add684c1fb7b7b8c3f040d0ad28cf7a9494e5ee991c315d2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Lucky%20Luke%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Lucky%20Luke%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Lucky%20Luke%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

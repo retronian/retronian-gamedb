@@ -43,6 +43,72 @@
   "first_release_date": "1997-01-01",
   "external_ids": {
     "wikidata": "Q3521670",
-    "igdb": 8075
-  }
+    "igdb": 8075,
+    "mobygames": 35471
+  },
+  "roms": [
+    {
+      "name": "Lost World, The - Jurassic Park (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1846-00",
+      "size": 4194304,
+      "crc32": "140a284c",
+      "md5": "faa6c4be300016843000cbbed8e94553",
+      "sha1": "25a93bbcfbbe286a36f0b973adf86b0f0f3cfa3f",
+      "sha256": "9dc5c6de99895018c102b558d9a8b0d24e6ce22df2da8e8f0e4bb96e7210bd6f"
+    },
+    {
+      "name": "Lost World, The - Jurassic Park (USA) (Demo) (Test Drive) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1846-00",
+      "size": 3145728,
+      "crc32": "58ade53b",
+      "md5": "d3696ac5a93627e5b9ea0762807d76d8",
+      "sha1": "c11b98825163d6e9f625ac16880e32ea1767cbc5",
+      "sha256": "462d2ee512f6852a2638a9ec2c048a2efb4db3da45fe0a4ca7a3282de0961a3b"
+    },
+    {
+      "name": "Lost World, The - Jurassic Park (USA) (Demo) (Part One) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 3145728,
+      "crc32": "59869963",
+      "md5": "7a39cbf3137ca6bd033fc716e96a9d7c",
+      "sha1": "ac8e8bb1ea061d87dde91e428070d2176b5abff8",
+      "sha256": "d2e72a757b94e912c8210589d4ac326eb2913124cb05c398cf376f74e0720004"
+    },
+    {
+      "name": "Lost World, The - Jurassic Park (USA) (Demo) (Part Two) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1846-00",
+      "size": 3145728,
+      "crc32": "de058410",
+      "md5": "a408b62147555fb6f7f7455f1e63c5be",
+      "sha1": "0fd66c4064a4fff5383f244a743ca4376bee397d",
+      "sha256": "7ad93133a7269ba43724cd7bcd0cbc0d23e82ca0780e553634ee392690e17ded"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lost%20World%2C%20The%20-%20Jurassic%20Park%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lost%20World%2C%20The%20-%20Jurassic%20Park%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lost%20World%2C%20The%20-%20Jurassic%20Park%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

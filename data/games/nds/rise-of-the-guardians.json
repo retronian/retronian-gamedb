@@ -53,5 +53,53 @@
   "external_ids": {
     "wikidata": "Q1276191",
     "igdb": 5124
-  }
+  },
+  "roms": [
+    {
+      "name": "Rise of the Guardians (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TRYP",
+      "size": 33554432,
+      "crc32": "3dfb62c2",
+      "md5": "91053b482aae91cb8e004fd13efe3f21",
+      "sha1": "9436dafe7e41d6ad34bc14a9092608b42c1f1c69"
+    },
+    {
+      "name": "Rise of the Guardians (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TRYE",
+      "size": 33554432,
+      "crc32": "6279698a",
+      "md5": "acf04dd4b2a4f2957e15f55dfa9f4329",
+      "sha1": "5607142765f8bb1ffd659c86e4564731e63be898"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rise%20of%20the%20Guardians%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rise%20of%20the%20Guardians%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rise%20of%20the%20Guardians%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rise%20of%20the%20Guardians%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

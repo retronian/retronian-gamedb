@@ -45,5 +45,65 @@
     "wikidata": "Q285402",
     "mobygames": 32248,
     "igdb": 48051
-  }
+  },
+  "roms": [
+    {
+      "name": "Panic Restaurant (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "c4a9e76e",
+      "md5": "6f0a1cf3ffaa310bf77802d3dcee6e14",
+      "sha1": "d196c8d1433aa34063f327d89df1440836599d57",
+      "sha256": "b36a421285739d6d2d7bcb0a9b47394ad58ca293b2455c0987b465c18519afb0"
+    },
+    {
+      "name": "Panic Restaurant (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "f8e30cfc",
+      "md5": "3b542ed0abcc48beba412063123545bb",
+      "sha1": "6bb496fe99658397f44afc7a6ed9ff90a2323a2e",
+      "sha256": "16360786c85cfd24b263beb9a7a390ef3a0ea2de396b09f654f1441b5f6f99ab"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Panic%20Restaurant%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Panic%20Restaurant%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Panic%20Restaurant%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Panic%20Restaurant%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Panic%20Restaurant%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Panic%20Restaurant%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

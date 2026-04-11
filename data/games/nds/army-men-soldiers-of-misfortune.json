@@ -18,5 +18,48 @@
     "wikidata": "Q10735301",
     "mobygames": 87260,
     "igdb": 47721
-  }
+  },
+  "roms": [
+    {
+      "name": "Army Men - Soldiers of Misfortune (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CAYE",
+      "size": 33554432,
+      "crc32": "fc9722bc",
+      "md5": "d3780aa4432a54c60240c75b26436f9e",
+      "sha1": "ade4b7cbeb4bf8245c04b3e3e3fe06bb9ea91d41",
+      "sha256": "6923ad6c2c79c0548db28534ef863fbe5ad0ba8db6a5c0db8d3c216d09c66a88"
+    },
+    {
+      "name": "Army Men - Soldiers of Misfortune (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CAYP",
+      "size": 33554432,
+      "crc32": "d1c43500",
+      "md5": "5bfb8b22c8a8e0e0c80d2ae19090d98f",
+      "sha1": "18dd5381f16087d5d2bb7ba2edcc8a0fffcaa4fd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Army%20Men%20-%20Soldiers%20of%20Misfortune%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Army%20Men%20-%20Soldiers%20of%20Misfortune%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Army%20Men%20-%20Soldiers%20of%20Misfortune%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

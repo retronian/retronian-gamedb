@@ -72,5 +72,104 @@
     "wikidata": "Q1863895",
     "mobygames": 20673,
     "igdb": 19258
-  }
+  },
+  "roms": [
+    {
+      "name": "Sonic Rush (USA) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ASCE",
+      "size": 67108864,
+      "crc32": "3d630830",
+      "md5": "bd4dcf6ad27de0e3212b8c67864df0ec",
+      "sha1": "bc617530bb9b6e4179f2e54d7816c38676812dde"
+    },
+    {
+      "name": "Sonic Rush (Europe) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ASCP",
+      "size": 67108864,
+      "crc32": "0a0dec19",
+      "md5": "69dcd5f80f00eac0cbe03daedf5e473c",
+      "sha1": "52e5024efcf7617a820fa23789b37e5168c3c4fc",
+      "sha256": "2606a10ead1656e201d8127ffae5614a970201fc37627688e5bccb48abf705c2"
+    },
+    {
+      "name": "Sonic Rush (Japan) (En,Ja,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ASCJ",
+      "size": 67108864,
+      "crc32": "047dce52",
+      "md5": "be3b2e1dc65aba9ca290b51ebb5fce20",
+      "sha1": "8a5af404f063ed0342e20dcb0af0f42ce9509ac1"
+    },
+    {
+      "name": "Sonic Rush (Japan, USA) (En,Ja) (Demo) (Kiosk, E3 2005)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ASCJ",
+      "size": 67108864,
+      "crc32": "82e987fc",
+      "md5": "0b463b9a68f62bbec6446efeb6809c92",
+      "sha1": "3cc80ca2f88d353510a3648eaf8ccfe5f4009046"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sonic%20Rush%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sonic%20Rush%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sonic%20Rush%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sonic%20Rush%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sonic%20Rush%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sonic%20Rush%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sonic%20Rush%20%28Japan%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sonic%20Rush%20%28Japan%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sonic%20Rush%20%28Japan%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

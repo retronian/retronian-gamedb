@@ -36,5 +36,65 @@
     "wikidata": "Q110414453",
     "mobygames": 141068,
     "igdb": 229841
-  }
+  },
+  "roms": [
+    {
+      "name": "LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AL2E",
+      "size": 8388608,
+      "crc32": "3f513cbf",
+      "md5": "4f6cff217f4941ee1c7e8d8cd082a477",
+      "sha1": "00fe8d6f16a8381d25b12cd0b5a45d54fca6ad0e"
+    },
+    {
+      "name": "LEGO Island 2 - The Brickster's Revenge (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AL2P",
+      "size": 8388608,
+      "crc32": "c7b5d987",
+      "md5": "ef13adffd0dc94ed7e417c253e78244d",
+      "sha1": "db07408de790da24e313688cd85abd69eea6a21e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/LEGO%20Island%202%20-%20The%20Brickster%27s%20Revenge%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/LEGO%20Island%202%20-%20The%20Brickster%27s%20Revenge%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/LEGO%20Island%202%20-%20The%20Brickster%27s%20Revenge%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/LEGO%20Island%202%20-%20The%20Brickster%27s%20Revenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/LEGO%20Island%202%20-%20The%20Brickster%27s%20Revenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/LEGO%20Island%202%20-%20The%20Brickster%27s%20Revenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

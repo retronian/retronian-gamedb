@@ -18,5 +18,65 @@
     "wikidata": "Q116179311",
     "mobygames": 51784,
     "igdb": 243015
-  }
+  },
+  "roms": [
+    {
+      "name": "Baldur's Gate - Dark Alliance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BGDE",
+      "size": 8388608,
+      "crc32": "deedd7d9",
+      "md5": "13fd90ae7070ba25c2ce4223b8f51a1e",
+      "sha1": "c7c264ec85976f326b34bbd9f5e91ddc6eb29e17"
+    },
+    {
+      "name": "Baldur's Gate - Dark Alliance (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BGDP",
+      "size": 8388608,
+      "crc32": "494492dc",
+      "md5": "b8151c67817f126b56eca07c0b6aec11",
+      "sha1": "9d6b740e9224f1636ed6e5ba63c2bb5970b8249f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Baldur%27s%20Gate%20-%20Dark%20Alliance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Baldur%27s%20Gate%20-%20Dark%20Alliance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Baldur%27s%20Gate%20-%20Dark%20Alliance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Baldur%27s%20Gate%20-%20Dark%20Alliance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Baldur%27s%20Gate%20-%20Dark%20Alliance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Baldur%27s%20Gate%20-%20Dark%20Alliance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

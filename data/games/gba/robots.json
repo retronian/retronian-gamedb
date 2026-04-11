@@ -63,5 +63,94 @@
     "wikidata": "Q7353463",
     "mobygames": 19647,
     "igdb": 248488
-  }
+  },
+  "roms": [
+    {
+      "name": "Robots (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BRTJ",
+      "size": 16777216,
+      "crc32": "1beb9e91",
+      "md5": "155753526498f1a93b7a2850368da3e4",
+      "sha1": "b1a670daf53d47f237a4078388178c16c843d4dc"
+    },
+    {
+      "name": "Robots (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BRTE",
+      "size": 16777216,
+      "crc32": "5370ae1f",
+      "md5": "d41363a54aa5ac45ecaff2dafcb9372b",
+      "sha1": "d69a60a4bf7fca1dc4204c959143524274cc826a"
+    },
+    {
+      "name": "Robots (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BRTP",
+      "size": 16777216,
+      "crc32": "2acbdb64",
+      "md5": "538d0758f7d09a03f6631466b4d5a317",
+      "sha1": "26be826817f35433b3609d13ee75a3872e94d616",
+      "sha256": "4ecd011cf0d9174cdeb4bf751848011103170f1c30ae93d4b4c7fd53a294f605"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Robots%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Robots%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Robots%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Robots%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Robots%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Robots%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Robots%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Robots%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Robots%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

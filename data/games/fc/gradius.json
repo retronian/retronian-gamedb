@@ -90,5 +90,113 @@
     "wikidata": "Q1324646",
     "mobygames": 4512,
     "igdb": 213191
-  }
+  },
+  "roms": [
+    {
+      "name": "Gradius (Japan) (En) (ArchiMENdes Hen)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "bfc572bc",
+      "md5": "8cf5ef5932a2a04571ba137630a95179",
+      "sha1": "9f16df84b775e58b50db1751132068b3b482524e",
+      "sha256": "a86657f0233cfbc02578b7b3bdcb6d2661203b243442f7bb24bb814f24670a5f"
+    },
+    {
+      "name": "Gradius (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "1c16bd94",
+      "md5": "6148b246e8851975ac95e30599058840",
+      "sha1": "b7055c9c03e1689e6fcc54836407f6c2307a6b60",
+      "sha256": "05b63218d11d90cd2f86e9c60fa571a5f59c6be29925b31c3382837728f88366"
+    },
+    {
+      "name": "Gradius (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "b913dc9e",
+      "md5": "7ffda698f95d794260eedda0a62659d4",
+      "sha1": "daef341207b31fd0917bcfce23d36def913b6c86",
+      "sha256": "cb2c51f8c8bb54e5aeaab20f102a3b5534256adf5339fe56ddab7799cec1be7e"
+    },
+    {
+      "name": "Gradius (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "54f1af1f",
+      "md5": "7daa3b0ae39f19ebabcc129072c1ca72",
+      "sha1": "92645fe142861c3d3fda209bb906ad2b0e353988",
+      "sha256": "38c44e0e6f531a2779271f10cd4daa08ee2616c59c49d476b6f4e9dc482bf5f3"
+    },
+    {
+      "name": "Gradius (Japan) (En) (FamicomBox)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "6fb4964b",
+      "md5": "0075d5a0eee04c528c402b8a54514dfd",
+      "sha1": "b80f2b0e04bbca21e0ca38860eb5a2c05e57c48f",
+      "sha256": "db1ca84736206348485a6ab0d5e193197e4d23a3ec33edf67ac1ee2067ba84c6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gradius%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gradius%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gradius%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gradius%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gradius%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gradius%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gradius%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gradius%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gradius%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

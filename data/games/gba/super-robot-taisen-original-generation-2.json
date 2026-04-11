@@ -54,5 +54,66 @@
     "wikidata": "Q3977600",
     "mobygames": 33868,
     "igdb": 6627
-  }
+  },
+  "roms": [
+    {
+      "name": "Super Robot Taisen - Original Generation 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B2RJ",
+      "size": 16777216,
+      "crc32": "a608800f",
+      "md5": "b817219c91faedd9fe53f7c226ff0364",
+      "sha1": "2254b7ef4c3e16062797ee872510941249f173c5"
+    },
+    {
+      "name": "Super Robot Taisen - Original Generation 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B2RE",
+      "size": 16777216,
+      "crc32": "2aee0380",
+      "md5": "f3d168d87d3e2ae25dbec012471cd9b5",
+      "sha1": "7610191ab48b27d368c5fbc1dcf2672ee49f408c",
+      "sha256": "b9b6af144361a7d1fe8694e2d78cf5ea523b30b37214e3ddeb30dbe2f54b358a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Robot%20Taisen%20-%20Original%20Generation%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Robot%20Taisen%20-%20Original%20Generation%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Robot%20Taisen%20-%20Original%20Generation%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Robot%20Taisen%20-%20Original%20Generation%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Robot%20Taisen%20-%20Original%20Generation%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Robot%20Taisen%20-%20Original%20Generation%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

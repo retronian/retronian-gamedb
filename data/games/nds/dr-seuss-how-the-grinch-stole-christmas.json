@@ -17,5 +17,66 @@
   "external_ids": {
     "wikidata": "Q16259438",
     "igdb": 15489
-  }
+  },
+  "roms": [
+    {
+      "name": "Dr. Seuss - How the Grinch Stole Christmas! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YGWE",
+      "size": 8388608,
+      "crc32": "efbbbb0d",
+      "md5": "64b80a196ff751fd542bd0af58340f17",
+      "sha1": "9f288b8a411c9729833070a018c4441ba37f0bf1"
+    },
+    {
+      "name": "Dr. Seuss - How the Grinch Stole Christmas! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YGWP",
+      "size": 8388608,
+      "crc32": "43979d3e",
+      "md5": "b201934897ab6f85a955cbca5650e896",
+      "sha1": "fd657697423424ff95268bd54a04d13b970f404f",
+      "sha256": "2c2d2800483b8ea4e9867b25cd78a8eb73af05ebe04364783b30ad3fce7edfa3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dr.%20Seuss%20-%20How%20the%20Grinch%20Stole%20Christmas%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dr.%20Seuss%20-%20How%20the%20Grinch%20Stole%20Christmas%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dr.%20Seuss%20-%20How%20the%20Grinch%20Stole%20Christmas%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dr.%20Seuss%20-%20How%20the%20Grinch%20Stole%20Christmas%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dr.%20Seuss%20-%20How%20the%20Grinch%20Stole%20Christmas%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dr.%20Seuss%20-%20How%20the%20Grinch%20Stole%20Christmas%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

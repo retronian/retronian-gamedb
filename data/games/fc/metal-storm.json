@@ -78,5 +78,74 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Juuryoku Soukou Metal Storm (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "d9e42188",
+      "md5": "b7e0a5bc07595b3a5d5c8817f2a5af4e",
+      "sha1": "e236acd0e34bb5d0ba4e880aded33c7f9c8ba608",
+      "sha256": "b09fb4e11060f0033c00cd5e4b19039b96d0b3ee9e061059a1fb42cd257f08ae"
+    },
+    {
+      "name": "Metal Storm (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "98f030e6",
+      "md5": "b64fb20c3ffa5553707049a2475ddc7c",
+      "sha1": "ae46deaf79400299349a9f71bb30c530b3d54a69",
+      "sha256": "22e7576958e842c564153bf799293cedf90c6a0aaee302b73ec8af88a7481d87"
+    },
+    {
+      "name": "Metal Storm (World) (Retro-Bit)",
+      "source": "no_intro",
+      "size": 524304,
+      "crc32": "33af86d9",
+      "md5": "b47b2d72542f3af2f77300c662c0c07f",
+      "sha1": "4a82162edbc45e2334a24341826c06e2bb552788",
+      "sha256": "8825bcf8988f6d7607ea30756c59894691193bf6a6fb8d3fe60b1fe1e7c726cd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Juuryoku%20Soukou%20Metal%20Storm%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Juuryoku%20Soukou%20Metal%20Storm%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Juuryoku%20Soukou%20Metal%20Storm%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Metal%20Storm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Metal%20Storm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Metal%20Storm%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

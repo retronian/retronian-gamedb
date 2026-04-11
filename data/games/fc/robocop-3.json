@@ -27,5 +27,65 @@
     "wikidata": "Q108891607",
     "mobygames": 123180,
     "igdb": 380155
-  }
+  },
+  "roms": [
+    {
+      "name": "RoboCop 3 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "90aed811",
+      "md5": "c63b1703f87ae6c12d3be2c5de5390f5",
+      "sha1": "90f3a62c2f95b60535ab6547d68025f8a411efcc",
+      "sha256": "674c3f1b8e3ebd7f4f9d993d75d11e9d458d17925f82a71ebf9ff0e1a1082426"
+    },
+    {
+      "name": "RoboCop 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6a91b20e",
+      "md5": "bc0f5f6cf8e0e162647c228fe06e5fe2",
+      "sha1": "a3f056c79d9d141d074ee7c22c58098b4aaa65bc",
+      "sha256": "c87d3719878e577faa7302f892815154aad3f8526dc3f75f3ef52fc443287aa8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/RoboCop%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/RoboCop%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/RoboCop%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/RoboCop%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/RoboCop%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/RoboCop%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

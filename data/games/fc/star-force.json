@@ -88,5 +88,131 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Star Force (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "1136fefa",
+      "md5": "54dc6852e1bf66c48159fe8ca644909f",
+      "sha1": "3149047a58b9bbb2fcd70abeda20bbb97fef9017",
+      "sha256": "c95fa8014be8c760fc8fe551ee1c74d706c7bbb1f9994cb650d61003ad364153"
+    },
+    {
+      "name": "Star Force (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "e83f053b",
+      "md5": "e3eaf39bde50217e4e9ee3de9273709a",
+      "sha1": "744c16cc1554f4f85d6bf645732094e92459d928",
+      "sha256": "97aad70e071aafba70b08955dcbab11dc0df78909aaa76e8b2aeddb6c08d1aba"
+    },
+    {
+      "name": "Star Force (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "9d1824e5",
+      "md5": "090a59b5ef64e649c5b095b124ca375e",
+      "sha1": "d7cd2740e286a2370664ab4b2e765b2f04811bb1",
+      "sha256": "5b19038ca076788c4cb28856801b42b770dcb230fe0ba0a6b6dc6027c76daf94"
+    },
+    {
+      "name": "Star Force (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "89e05da8",
+      "md5": "6abb3993268305a1fccb5f5ef26de022",
+      "sha1": "300dfeb65b4f6ce111db47a28e03c25cfaa84292",
+      "sha256": "a4471dfe874afdd549a8b13cfb153c464e81d208d1fd5ba0a35baaade0bb1a68"
+    },
+    {
+      "name": "Star Force (Taiwan) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 24592,
+      "crc32": "79c673ea",
+      "md5": "5d5097a065e7c4935db3a66185b1a81f",
+      "sha1": "8751d12b1f6cf0a50578aa0069ec6622ebc3194c",
+      "sha256": "a705873dc802c934b43c8b60107b73fe1081e9d7f3ba6e90a70c10366099b000"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Force%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Force%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Force%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Force%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Force%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Force%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Force%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Force%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Force%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -54,5 +54,48 @@
     "wikidata": "Q2601847",
     "mobygames": 45052,
     "igdb": 210489
-  }
+  },
+  "roms": [
+    {
+      "name": "Avatar - The Last Airbender (USA) (Beta) (2007-07-10)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTRJ",
+      "size": 5133056,
+      "crc32": "5e8cdda3",
+      "md5": "3647a164eb9347f37fb174826f77224a",
+      "sha1": "061abfb27dcfc55a56197cc3766d5b43ad8eb855",
+      "sha256": "db930f75d097b9bf8dd43e59ff6e24ef742b2e97576cd86c56ee19c37f714007"
+    },
+    {
+      "name": "Avatar - The Last Airbender (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AVAE",
+      "size": 67108864,
+      "crc32": "ffe264d5",
+      "md5": "9c74123626572faa3ca9f27c28be0b78",
+      "sha1": "b5bdc88489ad74399e2ed968d816669e594a5f74"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Avatar%20-%20The%20Last%20Airbender%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Avatar%20-%20The%20Last%20Airbender%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Avatar%20-%20The%20Last%20Airbender%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

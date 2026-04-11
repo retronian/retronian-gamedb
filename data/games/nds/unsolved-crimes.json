@@ -27,5 +27,65 @@
     "wikidata": "Q7897479",
     "mobygames": 39222,
     "igdb": 21376
-  }
+  },
+  "roms": [
+    {
+      "name": "Unsolved Crimes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CICE",
+      "size": 67108864,
+      "crc32": "49b702b3",
+      "md5": "db62313a1f7998a93e3dc53250a5b3d0",
+      "sha1": "66861e42f1494c09eb7482d4bc67ef533fca6afc"
+    },
+    {
+      "name": "Unsolved Crimes (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CICP",
+      "size": 67108864,
+      "crc32": "5e797f6a",
+      "md5": "fab09456e45e58df5de651e4e9ee9abc",
+      "sha1": "ab9a57fa096be3af334546f3f4d0c3a8f15dd9bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Unsolved%20Crimes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Unsolved%20Crimes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Unsolved%20Crimes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Unsolved%20Crimes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Unsolved%20Crimes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Unsolved%20Crimes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

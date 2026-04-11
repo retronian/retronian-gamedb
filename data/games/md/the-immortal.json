@@ -78,5 +78,87 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Immortal, The (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50186-00",
+      "size": 1048576,
+      "crc32": "f653c508",
+      "md5": "469c2c852005972bbcd2b51fdf9d1220",
+      "sha1": "71fc189fe2ba5687e9d45b68830baed27194f627",
+      "sha256": "b60aa52e46a199f755a1eb99daea543c468acf07d83624c85a84cdd14b786375"
+    },
+    {
+      "name": "Immortal, The (World) (QUByte Classics)",
+      "source": "no_intro",
+      "serial": "T-50186-00",
+      "size": 1048576,
+      "crc32": "ef19494b",
+      "md5": "453eaea93e02380bd28da2ac57cdf737",
+      "sha1": "39d32bb5eeddabc96c14a60c259d6708c830e3be",
+      "sha256": "0f786bbb4ef45f8ffd2088934f46fdb41a2258978e48694d4d9b7c9fe587a1b1"
+    },
+    {
+      "name": "Immortal, The (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-50186-00",
+      "size": 1048576,
+      "crc32": "28a0611b",
+      "md5": "351092ca25980929bc1bb6182bad46d7",
+      "sha1": "46ac4e5bf448c355df89892473c48b2be8744b3e",
+      "sha256": "ffbe94ae6cd9cad7318f0228424c3fa8a13f8fab2f18b4a8d7601012448666fc"
+    },
+    {
+      "name": "Wizard of the Immortal (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-106233-00",
+      "size": 2097152,
+      "crc32": "c99fad92",
+      "md5": "91135a34a56bff6a502dba1e529c0280",
+      "sha1": "f36d088c37bbdcf473615b23e1cb21c0b70d8f05",
+      "sha256": "ab64e5fcdc26e5b27dc81c35e80a497593a4217de2ed02e3dd16442e582f39c5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Immortal%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Immortal%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Immortal%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wizard%20of%20the%20Immortal%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wizard%20of%20the%20Immortal%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wizard%20of%20the%20Immortal%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

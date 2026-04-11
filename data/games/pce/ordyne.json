@@ -54,5 +54,65 @@
     "wikidata": "Q7100959",
     "mobygames": 27997,
     "igdb": 39968
-  }
+  },
+  "roms": [
+    {
+      "name": "Ordyne (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "8c565cb6",
+      "md5": "2e3bd6ee158b239ff9a650d434bd92b3",
+      "sha1": "6b1e419c77f72d3588b52343989727b5a069df3a",
+      "sha256": "599846fdf21af0798b554d71aa4bf7a0a4d384f637f87cecf50d3ba3aaae4f78"
+    },
+    {
+      "name": "Ordyne (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "e7bf2a74",
+      "md5": "d803eb8f622521e515ff1dd715e725c0",
+      "sha1": "06880cfeaf9a495cefa49e8c4fc2e94887d1543b",
+      "sha256": "97878e97d6c498da895671d49e34e2e3b0653b94a56aba639a25eb196e8ace4e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Ordyne%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Ordyne%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Ordyne%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Ordyne%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Ordyne%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Ordyne%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -43,5 +43,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Mini-Putt (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "98a03ebc",
+      "md5": "d4d0dc17a0038af101b36baf9ffcadbf",
+      "sha1": "75741aa78f9fb877047357d1a7019827cf7415a9",
+      "sha256": "7eb01afde3d6d1e32e44a89a4af36547d749c839e9b86df2f1df168e2b6596fd"
+    },
+    {
+      "name": "Mini-Putt (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "ca584b36",
+      "md5": "efbcf503e3617d11e7605ce1fcb9889a",
+      "sha1": "dc63ebf7d9f90c46fa3e2242d844ebae573c008f",
+      "sha256": "fb42faef40eb374da5ec29ae00ce18b5ca6f107bc280812236831e8518efce32"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mini-Putt%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mini-Putt%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mini-Putt%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

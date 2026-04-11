@@ -11,11 +11,53 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "The Punisher",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "external_ids": {
     "wikidata": "Q28126678",
     "mobygames": 26025,
     "igdb": 49028
-  }
+  },
+  "first_release_date": "1990-11-01",
+  "roms": [
+    {
+      "name": "Punisher, The - The Ultimate Payback (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "5916713e",
+      "md5": "84133af3324fc1aaf00c0769e15708c0",
+      "sha1": "c7b01ce2f83e00f6f3e0ca65ddedfb2435119ba2",
+      "sha256": "4e318ddf8c7d11236ebc4ce998171b285ef5163a56861540c8dceaef277a9f43"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Punisher%2C%20The%20-%20The%20Ultimate%20Payback%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Punisher%2C%20The%20-%20The%20Ultimate%20Payback%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Punisher%2C%20The%20-%20The%20Ultimate%20Payback%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

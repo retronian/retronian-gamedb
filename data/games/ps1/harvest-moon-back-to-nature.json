@@ -71,5 +71,94 @@
     "wikidata": "Q2298157",
     "mobygames": 5871,
     "igdb": 3380
-  }
+  },
+  "roms": [
+    {
+      "name": "Bokujou Monogatari - Harvest Moon (Japan) (Alt)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 82630720,
+      "crc32": "5ce3b593",
+      "md5": "0c0ca472016a8b9627b247b39c11cbb7",
+      "sha1": "464e0417ae116f640e4e18981444920ab8b0b017",
+      "sha256": "0a0fc271a12b426fcf5c3a6190a51416d28dafe3569faba6fd7442ecbf9fdae1"
+    },
+    {
+      "name": "Bokujou Monogatari - Harvest Moon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 82529312,
+      "crc32": "8658639a",
+      "md5": "cbd08dfd5d3fd97a623c73842c5a946b",
+      "sha1": "60600c0f011871acd3b833563217a52335808738",
+      "sha256": "361f8e1bda1422920160f644a20714d5042fa17f543ce5ca17e95756ea244f35"
+    },
+    {
+      "name": "Harvest Moon - Back to Nature (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 70678000,
+      "crc32": "6651ad8a",
+      "md5": "424ca792aa94d881d69cf2abebb884f5",
+      "sha1": "dc18880cc34d1b7292174b555e8610f815a6de13"
+    },
+    {
+      "name": "Harvest Moon - Back to Nature (Germany) (En,De)",
+      "source": "no_intro",
+      "serial": "NPEF-00286",
+      "size": 88728784,
+      "crc32": "b2868ac0",
+      "md5": "17a5f6e0dce527d3a4c33be6658f643f",
+      "sha1": "02f962dea7b08466d07ebd114bcdd9b308abb551",
+      "sha256": "a625236a958e5724ecf3c37ebaac46f39434f76860e2fb19a94c08e8cdd50cb7"
+    },
+    {
+      "name": "Harvest Moon - Back to Nature (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 84153584,
+      "crc32": "cb46f5de",
+      "md5": "22cbb1d77132573c234d75dcda721199",
+      "sha1": "f47f98cfc8f635a3033739859bd7dfbf2232540f",
+      "sha256": "90c891069cfd77bbfb0f5a3fd5537e9b7748677583587e2af1c0621242c4ed8e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Bokujou%20Monogatari%20-%20Harvest%20Moon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Bokujou%20Monogatari%20-%20Harvest%20Moon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Bokujou%20Monogatari%20-%20Harvest%20Moon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Harvest%20Moon%20-%20Back%20to%20Nature%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Harvest%20Moon%20-%20Back%20to%20Nature%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Harvest%20Moon%20-%20Back%20to%20Nature%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

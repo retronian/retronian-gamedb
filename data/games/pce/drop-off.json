@@ -41,5 +41,47 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Drop Off (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "fea27b32",
+      "md5": "7df6342574ed3e0241029a11f1f5c4da",
+      "sha1": "54bb6ea11aca4ca6a16ba439828ba1f6fada3623",
+      "sha256": "82ac6b4ca829b15ffec8f7a1739b828adf42c3cf60f37dd1d113a824a7070498"
+    },
+    {
+      "name": "Drop Rock Hora Hora (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "67ec5ec4",
+      "md5": "5e19ade2ef645d500357b2014813ab68",
+      "sha1": "b1b28d6dac76c3e3547f0a5a695110fd506643e0",
+      "sha256": "cb3afaabe6ea2d5d03b72d76f9711d3423ca8d5e89ca1ddebfd5e4cc149f5d47"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Drop%20Off%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Drop%20Off%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Drop%20Off%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

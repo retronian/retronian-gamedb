@@ -18,5 +18,67 @@
     "wikidata": "Q65038106",
     "mobygames": 6534,
     "igdb": 10658
-  }
+  },
+  "roms": [
+    {
+      "name": "All-Star Baseball 2000 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NBEP",
+      "size": 16777216,
+      "crc32": "d3c29aa4",
+      "md5": "90448c4175ee9d0247674474dcabdfed",
+      "sha1": "c8f41a27b9509da422b7ecf32f64df3e213194ea",
+      "sha256": "2e30b758271c441eab2ed35dcf3a542fd46782522607c2fd6b1663771b756e07"
+    },
+    {
+      "name": "All-Star Baseball 2000 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NBEE",
+      "size": 16777216,
+      "crc32": "69e88471",
+      "md5": "aada358ce97f06c4df5bf55987268844",
+      "sha1": "4256a23902e22e6e8291f1931f8de4b2716fe480",
+      "sha256": "f354489d79d6ca69a43f3bf95e0e112a6d3a20acdbf96ae847c4180aa0154791"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/All-Star%20Baseball%202000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/All-Star%20Baseball%202000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/All-Star%20Baseball%202000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/All-Star%20Baseball%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/All-Star%20Baseball%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/All-Star%20Baseball%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

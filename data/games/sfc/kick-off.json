@@ -18,5 +18,48 @@
     "wikidata": "Q508004",
     "mobygames": 12994,
     "igdb": 15241
-  }
+  },
+  "roms": [
+    {
+      "name": "Kick Off (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "a1306f3b",
+      "md5": "49f995fe928c7e8678df171cb4f7eaa2",
+      "sha1": "5a7c0a88d439fdf5458e8ef4109b9f3ca75d9273",
+      "sha256": "648ae729bc4bf12ecf178fa31699ca380b7a372fa30b335e0a6d3209d30dd05a"
+    },
+    {
+      "name": "Kick Off (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "!none",
+      "size": 524288,
+      "crc32": "9e743de3",
+      "md5": "9fa6623cf7c2b7fd9bca146cbcfb7087",
+      "sha1": "fa807db70c4abe39d286815d77bbecf2c1e184f6",
+      "sha256": "5fbbdb7f54d972c9d133b79676c642c11d0394024daaab002cef955e2342d359"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kick%20Off%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kick%20Off%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kick%20Off%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

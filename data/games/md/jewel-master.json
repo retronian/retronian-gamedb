@@ -61,5 +61,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Jewel Master (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4047-00",
+      "size": 524288,
+      "crc32": "2cf6926c",
+      "md5": "cbc5b61a39963d4ce24d874034caaf08",
+      "sha1": "52fbcf9902a4a3f70aeb9c3df31019e07e679ea8",
+      "sha256": "34cf68f7e2393654524b5ed90221f9a3a06ec81a02244e73143233b3d6a2f9a6"
+    },
+    {
+      "name": "Jewel Master (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1025-00",
+      "size": 524288,
+      "crc32": "cee98813",
+      "md5": "42ec7e0894625345be8021f9d5f5d52f",
+      "sha1": "9a6e4ca71546e798e1c98e78c4ab72aba46374c5",
+      "sha256": "8137a09d97988a9081e0a1e099e2f93a43fdbbbe7543cc7b0534e1aa8680dccf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Jewel%20Master%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Jewel%20Master%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Jewel%20Master%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

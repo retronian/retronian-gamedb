@@ -36,5 +36,64 @@
     "wikidata": "Q16259463",
     "mobygames": 40472,
     "igdb": 9514
-  }
+  },
+  "roms": [
+    {
+      "name": "Echo Night (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 204566784,
+      "crc32": "ea0a30c6",
+      "md5": "905c33de34385c58c4d212d76ac96bb1",
+      "sha1": "b307a97af09ec638f0a1f7dc4d443bfaf1f89d22"
+    },
+    {
+      "name": "Echo Night (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 219508448,
+      "crc32": "bc235e5e",
+      "md5": "82845943f8c230903d64867b31369e6b",
+      "sha1": "b45bf51e9b5c1fdf6b5a37cda0a3d9ee6028c530",
+      "sha256": "2bc985b4da595057c313c6de470d1d20fb250a2209d370f5072127fa133bb3a5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Echo%20Night%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Echo%20Night%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Echo%20Night%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Echo%20Night%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Echo%20Night%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Echo%20Night%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

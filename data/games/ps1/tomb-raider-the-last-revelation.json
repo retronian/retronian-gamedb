@@ -72,5 +72,53 @@
     "wikidata": "Q668568",
     "mobygames": 1429,
     "igdb": 1158
-  }
+  },
+  "roms": [
+    {
+      "name": "Tomb Raider - The Last Revelation (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 505507632,
+      "crc32": "9d2bb2d1",
+      "md5": "9347d75db96cb8d6db6869d4e05cc9f6",
+      "sha1": "b76854f8e101f2eccb4f4bbab65770ca936786b6"
+    },
+    {
+      "name": "Tomb Raider - The Last Revelation (Germany)",
+      "source": "no_intro",
+      "size": 505510032,
+      "crc32": "9496d289",
+      "md5": "c8075dd58ccd2c784ddb70e15863a3dd",
+      "sha1": "5c4952310750f08c141e45c9c1027ab3360aeb3e"
+    },
+    {
+      "name": "Tomb Raider - The Last Revelation (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 507920992,
+      "crc32": "e4f6d96e",
+      "md5": "04e2ceda51ccd2e59f5ed66e8b44a8fc",
+      "sha1": "e8641c0b6b6632b611159ae7e3c5a7f2bad2a1b6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Tomb%20Raider%20-%20The%20Last%20Revelation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Tomb%20Raider%20-%20The%20Last%20Revelation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Tomb%20Raider%20-%20The%20Last%20Revelation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

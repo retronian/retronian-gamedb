@@ -81,5 +81,41 @@
     "wikidata": "Q655031",
     "mobygames": 28227,
     "igdb": 47867
-  }
+  },
+  "roms": [
+    {
+      "name": "Superman Returns (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ARPP",
+      "size": 67108864,
+      "crc32": "dd6db000",
+      "md5": "25dff5c8c8848df9d4b0eba6357d8155",
+      "sha1": "8aa8af0f74f77031a33f3e8e6eba0c277e728a7e"
+    },
+    {
+      "name": "Superman Returns (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ARPE",
+      "size": 67108864,
+      "crc32": "ea8ad625",
+      "md5": "9105977348095a268ec40c6501e7d4a1",
+      "sha1": "dbfa5a3cf09a4ce5b88b8788bcf96c96f0b1c1e6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Superman%20Returns%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Superman%20Returns%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

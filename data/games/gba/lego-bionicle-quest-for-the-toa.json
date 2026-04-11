@@ -45,5 +45,65 @@
     "wikidata": "Q4915189",
     "mobygames": 5073,
     "igdb": 6323
-  }
+  },
+  "roms": [
+    {
+      "name": "Bionicle (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BIOE",
+      "size": 8388608,
+      "crc32": "c38f3530",
+      "md5": "1934b7380ba91e4966f12c2968451289",
+      "sha1": "2bbff2410dce12b96b98a193a5c5fb07e7b30b8c"
+    },
+    {
+      "name": "Bionicle (Europe) (En,Fr,De,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BIOP",
+      "size": 8388608,
+      "crc32": "5412a24d",
+      "md5": "2c60af1c2c17377c27b2d9aac79f0cea",
+      "sha1": "c605ab1aa03eba6bc957929aa5c707a052b06b0d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bionicle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bionicle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bionicle%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bionicle%20%28Europe%29%20%28En%2CFr%2CDe%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bionicle%20%28Europe%29%20%28En%2CFr%2CDe%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bionicle%20%28Europe%29%20%28En%2CFr%2CDe%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

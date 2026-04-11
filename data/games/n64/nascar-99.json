@@ -18,5 +18,67 @@
     "wikidata": "Q1980794",
     "mobygames": 10514,
     "igdb": 3547
-  }
+  },
+  "roms": [
+    {
+      "name": "NASCAR 99 (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "N9CP",
+      "size": 12582912,
+      "crc32": "76e79cea",
+      "md5": "15a87a6d01dba1a7c4375ffbc1214bb8",
+      "sha1": "cb43ee3d86a7b85befec8d068d72192fa8174eb0",
+      "sha256": "148a7acb816c844c99af9289237666b7a421d24c7722616ad38f401006864e55"
+    },
+    {
+      "name": "NASCAR 99 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "N9CE",
+      "size": 12582912,
+      "crc32": "3d8eb950",
+      "md5": "dc5f1a814c8423b4b43f71c229d65a84",
+      "sha1": "0fbbaeb4c286d45d27c977d5722e38415efd1a74",
+      "sha256": "800aa25d7b0275db5214bf81c6a537aa45f3ea7e01872fdf515c32cfbb6413bd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NASCAR%2099%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NASCAR%2099%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NASCAR%2099%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/NASCAR%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/NASCAR%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/NASCAR%2099%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

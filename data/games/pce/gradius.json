@@ -97,5 +97,53 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Gradius (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "0517da65",
+      "md5": "16fe78b1630a790bee6755e3c850a366",
+      "sha1": "338f62b6d57f30b1850c32f5ae0d8c26c761974b",
+      "sha256": "0e6f41a37b0b856649490ff927a1e4e052c7c47c5d4298f4d0502181155007f8"
+    },
+    {
+      "name": "Gradius (World) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "size": 262144,
+      "crc32": "a5273cc4",
+      "md5": "e4275f5b3de32a19711d8f466e5d12c2",
+      "sha1": "0272c9094df0ee05eb5d6f7289a694a92341e83e",
+      "sha256": "cfd51bb7530b46beb39aadfb8bf7a2ec6ec4e9788e9ef98aa2a23cdcb077bcae"
+    },
+    {
+      "name": "Gradius (Japan) (En) (PC Engine Mini)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "4eabdc5c",
+      "md5": "a4eb0e9a1626387273fafb9f01332f7d",
+      "sha1": "6b41fbaddef7e1d27da2f20d40f7ec4487a8bbe4",
+      "sha256": "4c7f3ffb4e88eda2875c20421b996cb10ec0986a4b4f44b9fc960e9719309783"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Gradius%20%28World%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Gradius%20%28World%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Gradius%20%28World%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails"
+    }
   ]
 }

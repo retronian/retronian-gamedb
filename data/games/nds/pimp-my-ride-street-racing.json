@@ -18,5 +18,65 @@
     "wikidata": "Q92095561",
     "mobygames": 89783,
     "igdb": 20904
-  }
+  },
+  "roms": [
+    {
+      "name": "Pimp My Ride - Street Racing (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CUZP",
+      "size": 67108864,
+      "crc32": "77cd3c8b",
+      "md5": "a62295bdaf1b0f78c6493e78a0f7919a",
+      "sha1": "b0ae473a41292b5efec944f51feba5088aff5a52"
+    },
+    {
+      "name": "Pimp My Ride - Street Racing (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CUZE",
+      "size": 67108864,
+      "crc32": "9b71ab83",
+      "md5": "7573d5f9c46e4f3da1a98b0dfdc89920",
+      "sha1": "aae34b6388bee8709e6e5c4d42a786ff130f04b4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pimp%20My%20Ride%20-%20Street%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pimp%20My%20Ride%20-%20Street%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pimp%20My%20Ride%20-%20Street%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pimp%20My%20Ride%20-%20Street%20Racing%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pimp%20My%20Ride%20-%20Street%20Racing%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pimp%20My%20Ride%20-%20Street%20Racing%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

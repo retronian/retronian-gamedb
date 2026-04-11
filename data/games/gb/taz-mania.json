@@ -11,12 +11,111 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "タズマニア",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Taz-Mania",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Taz-Mania",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Taz-Mania",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Taz-Mania",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1994-01-01",
+  "first_release_date": "1992-12-25",
   "external_ids": {
     "wikidata": "Q97824482",
     "mobygames": 32571,
     "igdb": 49060
-  }
+  },
+  "roms": [
+    {
+      "name": "Taz-Mania (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "0860b667",
+      "md5": "bb922ce354fc5caec500f99985a07c39",
+      "sha1": "c184e8e11ef2388c60b69d445a46fc22a11d175e",
+      "sha256": "e6a8c9177d53662c81620bb1a990ff9ca9f720098b23dd61bfae2f46a54f394a"
+    },
+    {
+      "name": "Taz-Mania (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "c3d85ef6",
+      "md5": "0d3d2b3bbca0a8d6f43968e12940b356",
+      "sha1": "b31f8ec2a330d57ec7736e405833508ca8a98700",
+      "sha256": "935135aebc69a54a63771ade330617c5c76cfd7467dec6240845b4325c0bec55"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Taz-Mania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Taz-Mania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Taz-Mania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Taz-Mania%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Taz-Mania%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

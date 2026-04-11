@@ -63,5 +63,78 @@
     "wikidata": "Q3497140",
     "mobygames": 12555,
     "igdb": 10162
-  }
+  },
+  "roms": [
+    {
+      "name": "Stargate (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 2097152,
+      "crc32": "8dc8ab23",
+      "md5": "dc6036850f7ff8c568f2b29a58dee32d",
+      "sha1": "95a0dab802a313281d74fe66b21c7877078c57e9",
+      "sha256": "157306900c5d88376f8d32fc47ba5143488fd0f2f09d0a1e0f1e2508709b5276"
+    },
+    {
+      "name": "Stargate (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81396-00",
+      "size": 2097152,
+      "crc32": "e587069e",
+      "md5": "b78fa5e007f119440cacc063493b5084",
+      "sha1": "d0843442059c89b11db02615670632fda2b2ee85",
+      "sha256": "ca3376588e0aa4cb4e6a02e6d40b3be424ab02f8bce2a78f111e935d740f9447"
+    },
+    {
+      "name": "Stargate (USA, Europe) (Sample) (NGen)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81396-00",
+      "size": 2097152,
+      "crc32": "51946ea9",
+      "md5": "5c1856bdac58e3996737260764038047",
+      "sha1": "92bee364d23fc28d9f976037d3420767c4f97d68",
+      "sha256": "b4ae8ea0c37c3bbb1973e4d0ef664883a1f3a3103bb9cbe7eb69de3e45ed4ae0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Stargate%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Stargate%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Stargate%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Stargate%20%28USA%2C%20Europe%29%20%28Sample%29%20%28NGen%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Stargate%20%28USA%2C%20Europe%29%20%28Sample%29%20%28NGen%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Stargate%20%28USA%2C%20Europe%29%20%28Sample%29%20%28NGen%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -71,5 +71,63 @@
     "wikidata": "Q317620",
     "mobygames": 348,
     "igdb": 912
-  }
+  },
+  "roms": [
+    {
+      "name": "Tomb Raider (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 218860192,
+      "crc32": "833ce359",
+      "md5": "f4bd7ee774439e718b1f40f483453328",
+      "sha1": "fcd9f9a615b14d6a8d0f7216e7cd39516e865e31"
+    },
+    {
+      "name": "Tomb Raider (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 220420944,
+      "crc32": "7dccab43",
+      "md5": "104385bab78991a5e8a5ab2f94f192d2",
+      "sha1": "5326aef7ce8fea8ae90cbb37accfbbd512916934"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Tomb%20Raider%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Tomb%20Raider%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Tomb%20Raider%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Tomb%20Raider%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Tomb%20Raider%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Tomb%20Raider%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

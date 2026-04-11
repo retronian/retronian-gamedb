@@ -89,5 +89,78 @@
     "wikidata": "Q1584992",
     "mobygames": 7950,
     "igdb": 9540
-  }
+  },
+  "roms": [
+    {
+      "name": "Wonder Boy in Monster World (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "G-4060-00",
+      "size": 1048576,
+      "crc32": "0d901482",
+      "md5": "945335637611a0951595fae0994f4303",
+      "sha1": "772c3c71973762eac46e6c180a036c1f3bbd937a",
+      "sha256": "8d905c863b73a1522f6ea734d630beae1b824b9eecb63f899534c02efbde20fd"
+    },
+    {
+      "name": "Wonder Boy V - Monster World III (Japan, Korea) (Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4060-00",
+      "size": 655360,
+      "crc32": "45a50f96",
+      "md5": "e25afc5b755555397e4047061050ae05",
+      "sha1": "1582f159e1969ff0541319a9bd7e6f7a53505d01",
+      "sha256": "d758864efa18da7a8a87dce32a5b61a8067fb60846696a9588956bc316e480f9"
+    },
+    {
+      "name": "Wonder Boy V - Monster World III (Japan, Korea) (Ja) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4060-00",
+      "size": 786432,
+      "crc32": "334035f8",
+      "md5": "419668e422d0956b01556fef16721b66",
+      "sha1": "1677039ede9a4cf51ac182cfe27d797c864290c8",
+      "sha256": "4d3f8c58edcd4521524110cc4f2360e6c98c6df29bc9a714eadb33039d31f578"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wonder%20Boy%20in%20Monster%20World%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wonder%20Boy%20in%20Monster%20World%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wonder%20Boy%20in%20Monster%20World%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wonder%20Boy%20V%20-%20Monster%20World%20III%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wonder%20Boy%20V%20-%20Monster%20World%20III%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wonder%20Boy%20V%20-%20Monster%20World%20III%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

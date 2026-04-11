@@ -36,5 +36,67 @@
     "wikidata": "Q2442543",
     "mobygames": 67950,
     "igdb": 8501
-  }
+  },
+  "roms": [
+    {
+      "name": "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1532-50",
+      "size": 2097152,
+      "crc32": "4735fee6",
+      "md5": "9aad38cfe5a2df30a85d8f9de1138bf4",
+      "sha1": "e6353362ba261f1f8efb31e624250e74e1ca0da1",
+      "sha256": "c7bf42d03b445fc87561e7966e349588603bd1fafa47844e6857431e889fead6"
+    },
+    {
+      "name": "Asterix and the Great Rescue (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1532-00",
+      "size": 2097152,
+      "crc32": "7f112cd8",
+      "md5": "b93b38d6b5b2280bed4797c882b7ab3b",
+      "sha1": "6d73f37fa31dbcc6a8e9e1590f552e084346088c",
+      "sha256": "d65159bb03f3545736ad37ead4aaa65410d304ff3ac9265e03fd455aee7e2b6c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Asterix%20and%20the%20Great%20Rescue%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Asterix%20and%20the%20Great%20Rescue%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Asterix%20and%20the%20Great%20Rescue%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Asterix%20and%20the%20Great%20Rescue%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Asterix%20and%20the%20Great%20Rescue%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Asterix%20and%20the%20Great%20Rescue%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

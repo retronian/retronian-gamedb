@@ -36,5 +36,53 @@
     "wikidata": "Q1963188",
     "mobygames": 51177,
     "igdb": 4922
-  }
+  },
+  "roms": [
+    {
+      "name": "iCarly 2 - iJoin the Click! (Europe) (En,De,Es,It) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VIJV",
+      "size": 134217728,
+      "crc32": "82e9fe92",
+      "md5": "dfa762da543ad25329cd108794e41265",
+      "sha1": "2f428f3861a2518e4e6df1d8fef4cca2469a41f2"
+    },
+    {
+      "name": "iCarly 2 - iJoin the Click! (USA) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VIJE",
+      "size": 67108864,
+      "crc32": "ca4eb115",
+      "md5": "c5b9a2944a71c13975b2f5937d408dcf",
+      "sha1": "608988b50b2c358749880bb0dd0b0492ec804b87"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/iCarly%202%20-%20iJoin%20the%20Click%21%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/iCarly%202%20-%20iJoin%20the%20Click%21%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/iCarly%202%20-%20iJoin%20the%20Click%21%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/iCarly%202%20-%20iJoin%20the%20Click%21%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

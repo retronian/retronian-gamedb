@@ -36,5 +36,67 @@
     "wikidata": "Q3564638",
     "mobygames": 3634,
     "igdb": 3636
-  }
+  },
+  "roms": [
+    {
+      "name": "WCW-nWo Revenge (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NW2P",
+      "size": 16777216,
+      "crc32": "8af0f964",
+      "md5": "30c6676ec1d62122f4e7607ef3abbd41",
+      "sha1": "c59315a3e7a6e8124495477656a77e4619dac104",
+      "sha256": "e4bd4f49d6e2217294cd2f9178488349eabd44155e4ad0436a9d1ddef58c53da"
+    },
+    {
+      "name": "WCW-nWo Revenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NW2E",
+      "size": 16777216,
+      "crc32": "54cbaaa8",
+      "md5": "c1384f3637d7a381b29341fed3ef3ceb",
+      "sha1": "e1711a2511394b9357b5f1ac8ca5cc17bd674836",
+      "sha256": "66c137d326565c6f31f992daba8f67c0aee7f025a142dd249d27019708014b60"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WCW-nWo%20Revenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/WCW-nWo%20Revenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/WCW-nWo%20Revenge%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WCW-nWo%20Revenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/WCW-nWo%20Revenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/WCW-nWo%20Revenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

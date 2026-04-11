@@ -88,5 +88,54 @@
   "first_release_date": "2006-07-24",
   "external_ids": {
     "wikidata": "Q1071410"
-  }
+  },
+  "roms": [
+    {
+      "name": "Nintendo DS Browser (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "UBRJ",
+      "size": 8388608,
+      "crc32": "af000eb8",
+      "md5": "832fb52d76f0c0ed8a5321c93238113b",
+      "sha1": "237e560326f9f0cfa4ec0c7937d9379efd4143e1"
+    },
+    {
+      "name": "Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "UBRP",
+      "size": 8388608,
+      "crc32": "d5fce7e1",
+      "md5": "0c84ea2278ad09ba2dd1b0b745d001dc",
+      "sha1": "dc3218e5831d3d34049004fa423856bb540dceca",
+      "sha256": "127e57eb4d0eef0dafcf63202370e5d2f353d55ee1ad5847031c85b2e2c87ad5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Nintendo%20DS%20Browser%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nintendo%20DS%20Browser%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Nintendo%20DS%20Browser%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nintendo%20DS%20Browser%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

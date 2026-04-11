@@ -56,6 +56,51 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "スパイハンター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "스파이헌터",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "SpyHunter",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "SpyHunter",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "SpyHunter",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
   "first_release_date": "1983-01-01",
@@ -63,5 +108,65 @@
     "wikidata": "Q1788165",
     "mobygames": 7668,
     "igdb": 93200
-  }
+  },
+  "roms": [
+    {
+      "name": "Spy Hunter (USA) (En,Ja,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHNE",
+      "size": 8388608,
+      "crc32": "b04892c9",
+      "md5": "5a6f98ebca34b1d19870481dbe3e3089",
+      "sha1": "0cd7527b1ac7e23f14c1eea8b7c58d800d859b38"
+    },
+    {
+      "name": "Spy Hunter (Europe) (En,Ja,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHNP",
+      "size": 8388608,
+      "crc32": "4f196612",
+      "md5": "95a6ed2862986666933b0ad73291c5da",
+      "sha1": "40afc8143490745d8724ee1436acf0601f178d3f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spy%20Hunter%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spy%20Hunter%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spy%20Hunter%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Spy%20Hunter%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Spy%20Hunter%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Spy%20Hunter%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

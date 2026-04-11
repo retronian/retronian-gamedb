@@ -43,5 +43,49 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Paddle Fighter (Japan) (Sega Game Toshokan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "3d8147e6",
+      "md5": "0353bceb7f49b4fe9663e51ec9b8f9ae",
+      "sha1": "a768f64f394d4185f99da300517521091b6f0de5",
+      "sha256": "b2f5ea0d6900341263d60db868acf250828128d2de461e01e4dfff32652a9e27"
+    },
+    {
+      "name": "Paddle Fighter (Japan) (Game no Kanzume Otokuyou)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "ebef05a4",
+      "md5": "72b727d573e99a3916943075a4bca780",
+      "sha1": "0516b59e35b3c36651852fba231e351cfc239b22",
+      "sha256": "f1b15fecb2b0e06bbb6965b306779f99c8f0412be739fb4f8b4906bad95b6bb3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Paddle%20Fighter%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Paddle%20Fighter%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Paddle%20Fighter%20%28Japan%29%20%28Game%20no%20Kanzume%20Otokuyou%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

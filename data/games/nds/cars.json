@@ -63,5 +63,229 @@
     "wikidata": "Q613298",
     "mobygames": 23057,
     "igdb": 243202
-  }
+  },
+  "roms": [
+    {
+      "name": "Cars (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACZE",
+      "size": 16777216,
+      "crc32": "2008b898",
+      "md5": "cd69229727015abd9aa514bc73b84910",
+      "sha1": "f28529c7ef02290059b494af85087bbf6c73b551",
+      "sha256": "212fa83ba1b2d84b318f96c2490c66a699cec731f7861fe6e523046e5ae266c8"
+    },
+    {
+      "name": "Cars (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ACZJ",
+      "size": 16777216,
+      "crc32": "1223472e",
+      "md5": "0bbd4859fb9078c98828bc1024918ffb",
+      "sha1": "a3a2596ed1ac1ff83dcf405b8fd476fbfcf129aa"
+    },
+    {
+      "name": "Cars (Europe) (Es,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACZY",
+      "size": 16777216,
+      "crc32": "755cebca",
+      "md5": "30d6a9152bc9d35c4fc84370ee40a678",
+      "sha1": "5225afb2748a122d9bfbe4205e12f2e5c085207c"
+    },
+    {
+      "name": "Cars (Germany)",
+      "source": "no_intro",
+      "serial": "ACZD",
+      "size": 16777216,
+      "crc32": "a8a4d553",
+      "md5": "0b91f77fcd0943a5518c05ad320eb0a9",
+      "sha1": "bc6067d860d694b8ec0885b5f426bddc25fdd7f6",
+      "sha256": "4a8c8519dd0b99e9e3378d24a3207077f38cf2219a9a7096b2cbd24a3b07f878"
+    },
+    {
+      "name": "Cars (Europe) (Fr,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACZX",
+      "size": 16777216,
+      "crc32": "f3cd60d8",
+      "md5": "72b0045ce1398ff747ea2970a633ade5",
+      "sha1": "dc4df43d130feadd883aff223eefd5d645675ef8"
+    },
+    {
+      "name": "Cars (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACZP",
+      "size": 16777216,
+      "crc32": "22dbc13e",
+      "md5": "38da20c453f86c8caffb2fc0c5d3d050",
+      "sha1": "93795cddd24e1da2b0a88c9a66be500a23a991bd",
+      "sha256": "361c8797dd08cb2557b2b68bb9eabe945cf32fabd986bd4feec1872b78f3bd81"
+    },
+    {
+      "name": "Cars (Europe) (Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACZZ",
+      "size": 16777216,
+      "crc32": "5e74eed2",
+      "md5": "cbe318766b07a325085b72b493030289",
+      "sha1": "d9317852f9eba374b2206da15b924077b4cf584f",
+      "sha256": "90f2729836109de5bea6506dde3a9ce856849482230d677d37aa9e29fe00d9ab"
+    },
+    {
+      "name": "Cars - Motori Ruggenti (Italy)",
+      "source": "no_intro",
+      "serial": "ACZI",
+      "size": 16777216,
+      "crc32": "4e632351",
+      "md5": "9bebcb2f2f320b83bb7f44413a0c7293",
+      "sha1": "0503db286570b6a718d39149c84a9d5c9187c433"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cars%20%28Europe%29%20%28Es%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cars%20%28Europe%29%20%28Es%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cars%20%28Europe%29%20%28Es%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cars%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cars%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cars%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cars%20%28Europe%29%20%28Fr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cars%20%28Europe%29%20%28Fr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cars%20%28Europe%29%20%28Fr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cars%20%28Europe%29%20%28Sv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cars%20%28Europe%29%20%28Sv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cars%20%28Europe%29%20%28Sv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cars%20-%20Motori%20Ruggenti%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cars%20-%20Motori%20Ruggenti%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cars%20-%20Motori%20Ruggenti%20%28Italy%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

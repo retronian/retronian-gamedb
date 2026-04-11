@@ -45,5 +45,65 @@
     "wikidata": "Q60541527",
     "mobygames": 12451,
     "igdb": 293344
-  }
+  },
+  "roms": [
+    {
+      "name": "Cat in the Hat, The (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQTP",
+      "size": 4194304,
+      "crc32": "a5dbe5ae",
+      "md5": "d5a8437be47f77ea14409b0b40a026fa",
+      "sha1": "a60339e9b4fdbcac73ed3b677ae17747bdb462ad"
+    },
+    {
+      "name": "Cat in the Hat, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BCTE",
+      "size": 4194304,
+      "crc32": "13c2249e",
+      "md5": "adf1ac69caf510176ee1028ecf6f7adf",
+      "sha1": "9340482db02bf5263429a15798d06c509017aa93"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Cat%20in%20the%20Hat%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Cat%20in%20the%20Hat%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Cat%20in%20the%20Hat%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Cat%20in%20the%20Hat%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Cat%20in%20the%20Hat%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Cat%20in%20the%20Hat%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

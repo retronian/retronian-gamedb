@@ -62,5 +62,45 @@
     "wikidata": "Q2574957",
     "mobygames": 4204,
     "igdb": 28402
-  }
+  },
+  "roms": [
+    {
+      "name": "DewPrism (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 206330784,
+      "crc32": "b7f39023",
+      "md5": "0984193c5470db7ceb4eb5e0656e583e",
+      "sha1": "80e55ee5d63afccd03558c4cf17333ca620d417c"
+    },
+    {
+      "name": "Threads of Fate (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 201904944,
+      "crc32": "cfc630b1",
+      "md5": "013cbb1f68d488d4ea3124bd7f68edb0",
+      "sha1": "1db77f2d4ed857a4aabe21a866c764bfa76bdd0f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Threads%20of%20Fate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Threads%20of%20Fate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Threads%20of%20Fate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

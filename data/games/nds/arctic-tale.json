@@ -36,5 +36,65 @@
     "wikidata": "Q4787555",
     "mobygames": 31437,
     "igdb": 248614
-  }
+  },
+  "roms": [
+    {
+      "name": "Arctic Tale (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YA3E",
+      "size": 8388608,
+      "crc32": "7d80ca8b",
+      "md5": "3b2e7d3c9ccd294cec0a2516b250a6af",
+      "sha1": "6663849c9f1f2e47e4d667c823f2a8b9bf991321"
+    },
+    {
+      "name": "Arctic Tale (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YA3P",
+      "size": 8388608,
+      "crc32": "0285cfe7",
+      "md5": "96ff1ef76a96dec3730d3f9615b36be4",
+      "sha1": "8d56590c39c5c65c18d9ed76d68f9764b31c8a7c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Arctic%20Tale%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Arctic%20Tale%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Arctic%20Tale%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Arctic%20Tale%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Arctic%20Tale%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Arctic%20Tale%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

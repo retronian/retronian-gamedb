@@ -54,5 +54,65 @@
     "wikidata": "Q3957907",
     "mobygames": 23444,
     "igdb": 6587
-  }
+  },
+  "roms": [
+    {
+      "name": "Serious Sam Advance (USA) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AENE",
+      "size": 8388608,
+      "crc32": "fdf4eca7",
+      "md5": "327f1553f9c9bc510069d9eaabb0f6fb",
+      "sha1": "61fc645024d61ead7526b971e507a1786b358f68"
+    },
+    {
+      "name": "Serious Sam Advance (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AENP",
+      "size": 8388608,
+      "crc32": "58199232",
+      "md5": "b57e44b1f52647510caa08f09cfb8e1b",
+      "sha1": "4ff48d8c18b70a5184758f1917343ae85a70858e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Serious%20Sam%20Advance%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Serious%20Sam%20Advance%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Serious%20Sam%20Advance%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Serious%20Sam%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Serious%20Sam%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Serious%20Sam%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

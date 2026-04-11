@@ -36,5 +36,65 @@
     "wikidata": "Q7828239",
     "mobygames": 90457,
     "igdb": 49454
-  }
+  },
+  "roms": [
+    {
+      "name": "Totally Spies! 2 - Undercover (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATLE",
+      "size": 16777216,
+      "crc32": "cb3cc173",
+      "md5": "718ec102f447365b95054fe2d8de5cb1",
+      "sha1": "2daff54e22f4bd4afcc2a67f006f4a410961fe12"
+    },
+    {
+      "name": "Totally Spies! 2 - Undercover (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATLP",
+      "size": 16777216,
+      "crc32": "86c39d3e",
+      "md5": "f70a9f4c61b4143eb64ee2d7091b72d7",
+      "sha1": "dd0a59600c652de6dd5000bb8c83f95e39336706"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Totally%20Spies%21%202%20-%20Undercover%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Totally%20Spies%21%202%20-%20Undercover%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Totally%20Spies%21%202%20-%20Undercover%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Totally%20Spies%21%202%20-%20Undercover%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Totally%20Spies%21%202%20-%20Undercover%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Totally%20Spies%21%202%20-%20Undercover%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

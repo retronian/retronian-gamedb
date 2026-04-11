@@ -54,5 +54,53 @@
     "wikidata": "Q7825972",
     "mobygames": 85429,
     "igdb": 206085
-  }
+  },
+  "roms": [
+    {
+      "name": "Tornado (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YTRP",
+      "size": 67108864,
+      "crc32": "92f5adaa",
+      "md5": "f06515b2ab52be039dc1a0cd65f404de",
+      "sha1": "50fe6b877308526c46582cc8cf538b8d04efc169"
+    },
+    {
+      "name": "Tornado (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YTRE",
+      "size": 67108864,
+      "crc32": "0bc7fe32",
+      "md5": "b080ec7444f0f419a4d2aaccb2a4691a",
+      "sha1": "24a1eec12a885085901bfd1ae04db213ad03879f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tornado%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tornado%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tornado%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tornado%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

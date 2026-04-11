@@ -54,5 +54,84 @@
     "wikidata": "Q3066546",
     "mobygames": 26537,
     "igdb": 45587
-  }
+  },
+  "roms": [
+    {
+      "name": "Fantasia (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1021-00",
+      "size": 524288,
+      "crc32": "d351b242",
+      "md5": "69c60599bcff0eb53a49dbaf09dbfc02",
+      "sha1": "ce0f0813878700e78b3819ff0db49bd297add09e",
+      "sha256": "d101cdfd9d9a05ffcdb6604c831a9cfbc1ae06c99724aa5992c85ebb7e0ee390"
+    },
+    {
+      "name": "Fantasia (World) (Rev A)",
+      "source": "no_intro",
+      "serial": "MK-1021-01",
+      "size": 524288,
+      "crc32": "fc43df2d",
+      "md5": "b0ecd4849a231fe70fe87532ff19913f",
+      "sha1": "e3ba172d93505f8e0c1763b600f68af11b68f261",
+      "sha256": "2cec24d7572f292704baef68037603dda5c1961b4cdc982aa3a984471c44e8fe"
+    },
+    {
+      "name": "Fantasia (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 524288,
+      "crc32": "2c3ca371",
+      "md5": "121e684a982977bb732a6b2d9da823d7",
+      "sha1": "0b57f220b05763d3550996775aca810cafc734d7",
+      "sha256": "ff5604d25b98ba9d56da13cb9c94b76b45ccffbe20efecfc75fcfb537ae74ba5"
+    },
+    {
+      "name": "Fantasia (USA, Europe) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1021-00",
+      "size": 524288,
+      "crc32": "34e04627",
+      "md5": "69f12c5d7b00175c258d56a09144a162",
+      "sha1": "e1d84357eb8dfb972f22e80b8d26a0b66167f69e",
+      "sha256": "4350f748894b9f5384ae0cf7b2e7f7a15d4761c6263fba8c421298f14146ed2e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Fantasia%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Fantasia%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Fantasia%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Fantasia%20%28World%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Fantasia%20%28World%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Fantasia%20%28World%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

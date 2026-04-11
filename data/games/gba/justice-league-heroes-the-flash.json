@@ -45,5 +45,65 @@
     "wikidata": "Q5956754",
     "mobygames": 25220,
     "igdb": 6486
-  }
+  },
+  "roms": [
+    {
+      "name": "Justice League Heroes - The Flash (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BJHE",
+      "size": 8388608,
+      "crc32": "87a4d12c",
+      "md5": "61755fb44da912fba53f41dbcd41f81f",
+      "sha1": "7e8afcefef6e726838921342326aee74d5de6e1f"
+    },
+    {
+      "name": "Justice League Heroes - The Flash (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BJHP",
+      "size": 8388608,
+      "crc32": "acb22fff",
+      "md5": "a57dd211881c6fbb7b92487ab6e3b9af",
+      "sha1": "6e5afa804b5c195f9e012862d2af42c0d4950593"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Justice%20League%20Heroes%20-%20The%20Flash%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Justice%20League%20Heroes%20-%20The%20Flash%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Justice%20League%20Heroes%20-%20The%20Flash%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Justice%20League%20Heroes%20-%20The%20Flash%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Justice%20League%20Heroes%20-%20The%20Flash%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Justice%20League%20Heroes%20-%20The%20Flash%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

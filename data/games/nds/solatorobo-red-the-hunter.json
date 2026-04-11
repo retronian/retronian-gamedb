@@ -97,5 +97,55 @@
     "wikidata": "Q3335888",
     "mobygames": 53875,
     "igdb": 9597
-  }
+  },
+  "roms": [
+    {
+      "name": "Solatorobo - Red the Hunter (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VCDV",
+      "size": 67108864,
+      "crc32": "e6812ad6",
+      "md5": "3d2519db4636e753517a2e6388ece7fc",
+      "sha1": "41bb1df94fd9d7d2fc8961251baf6cee4db18ac5",
+      "sha256": "bb380d3c2b162d176767dd9af8370a8a7a0de08dd1e2969d2a5f318e24ef2a9c"
+    },
+    {
+      "name": "Solatorobo - Red the Hunter (USA) (En,Fr,De,Es,It) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VCDE",
+      "size": 67108864,
+      "crc32": "cfedca95",
+      "md5": "c2e65ed81623dd9b46e1f06804352ed6",
+      "sha1": "1202bc7eb2f17136b9a4974719898741174cf172",
+      "sha256": "a490149bd2abae6558b0fa420e97da435d19c8f4f864eab7b0d53ee61a9f9d0c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Solatorobo%20-%20Red%20the%20Hunter%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Solatorobo%20-%20Red%20the%20Hunter%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Solatorobo%20-%20Red%20the%20Hunter%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Solatorobo%20-%20Red%20the%20Hunter%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

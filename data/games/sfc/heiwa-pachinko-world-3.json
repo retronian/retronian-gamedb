@@ -38,11 +38,52 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": false
+    },
+    {
+      "text": "パチンコワールド3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1996-04-26",
   "external_ids": {
     "wikidata": "Q126324950",
     "igdb": 38001
-  }
+  },
+  "roms": [
+    {
+      "name": "Heiwa Pachinko World 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "32a6f518",
+      "md5": "fc01acbad7328c3d40adebaeb748627a",
+      "sha1": "f3d2b237ba0cdd0187fc9915dea270af22b6748b",
+      "sha256": "fce8791495011694d07260bebf4bdf7c98bb3db135ca3b955bd59f1367b70727"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Heiwa%20Pachinko%20World%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Heiwa%20Pachinko%20World%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Heiwa%20Pachinko%20World%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }

@@ -54,5 +54,66 @@
     "wikidata": "Q3851681",
     "mobygames": 5362,
     "igdb": 249166
-  }
+  },
+  "roms": [
+    {
+      "name": "Mat Hoffman's Pro BMX (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AHOE",
+      "size": 4194304,
+      "crc32": "a333fa51",
+      "md5": "4f142c9621c9115d7107e7e6f02d99d3",
+      "sha1": "df0345c31ca3cad51cef7adae8c6fdadf81b3a97",
+      "sha256": "a2779b43120f80a4b6305185c01086655f4b2eec979f88b7d7b53023fce5c05d"
+    },
+    {
+      "name": "Mat Hoffman's Pro BMX (Europe) (Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHOX",
+      "size": 4194304,
+      "crc32": "78d22ae9",
+      "md5": "b169016486294d9d9eb61bbf96d30400",
+      "sha1": "1f5a9e9e164f9b97f55084342f331097ce623be7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mat%20Hoffman%27s%20Pro%20BMX%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mat%20Hoffman%27s%20Pro%20BMX%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mat%20Hoffman%27s%20Pro%20BMX%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mat%20Hoffman%27s%20Pro%20BMX%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mat%20Hoffman%27s%20Pro%20BMX%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mat%20Hoffman%27s%20Pro%20BMX%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

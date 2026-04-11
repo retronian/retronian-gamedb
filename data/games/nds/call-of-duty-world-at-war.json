@@ -36,5 +36,76 @@
     "wikidata": "Q3501861",
     "mobygames": 67855,
     "igdb": 135296
-  }
+  },
+  "roms": [
+    {
+      "name": "Call of Duty - World at War (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "CALK",
+      "size": 67108864,
+      "crc32": "957ba1bd",
+      "md5": "c7cd27c9aaf9dd718814b533accc8324",
+      "sha1": "f28cfac1a7aa7b26ef3ab0f2354aad6636c641e0",
+      "sha256": "9587314f7c2e5c77e93b82f3efe9339eada62bf4d960264b3fe8ebc98a6b1983"
+    },
+    {
+      "name": "Call of Duty - World at War (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CALE",
+      "size": 67108864,
+      "crc32": "bd094cf4",
+      "md5": "81e5f636fbc0c7c089cd3166a6a08076",
+      "sha1": "d130c45931999221cca61e1d7be6606c546c9e5d"
+    },
+    {
+      "name": "Call of Duty - World at War (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CALP",
+      "size": 67108864,
+      "crc32": "46124add",
+      "md5": "db2b4650a590d5b59a01f0632e01553b",
+      "sha1": "787071f546bd6e4c70e54fa9e4964eb34b0e7944"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Call%20of%20Duty%20-%20World%20at%20War%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Call%20of%20Duty%20-%20World%20at%20War%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Call%20of%20Duty%20-%20World%20at%20War%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Call%20of%20Duty%20-%20World%20at%20War%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Call%20of%20Duty%20-%20World%20at%20War%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Call%20of%20Duty%20-%20World%20at%20War%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

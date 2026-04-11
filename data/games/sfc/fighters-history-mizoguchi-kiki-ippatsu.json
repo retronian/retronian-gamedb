@@ -100,11 +100,170 @@
       "form": "official",
       "source": "gamelist_ja",
       "verified": true
+    },
+    {
+      "text": "ファイターズヒストリー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": true
+    },
+    {
+      "text": "Fighter's History",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Fighter's History",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Fighter's History",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Fighter's History",
+      "lang": "de",
+      "script": "Latn",
+      "region": "de",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Fighter's History",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
     }
   ],
-  "first_release_date": "1995-01-01",
+  "first_release_date": "1993-01-01",
   "external_ids": {
     "wikidata": "Q20725907",
-    "igdb": 58791
-  }
+    "igdb": 58791,
+    "mobygames": 17110
+  },
+  "descriptions": [
+    {
+      "text": "ファイターズヒストリーは、ストリートファイターシリーズに似た伝統的な2D格闘ゲームです。プレイヤーは、レイ、フェイリン、リョウコ、マトロック、サムチャイ、リー、ミゾグチ、ジャン、マーストリウスの9人の異なるキャラクターから選んでプレイできます。隠しキャラクターとして、ゲームのボスであるクラウンとカルノフも使用可能です。各ファイターには、ストリートファイターIIの影響を受けた独自の技がいくつか用意されています。\n\n利用可能なゲームモードは3つあります。CPUバトルは伝統的なアーケードモードで、プレイヤーはキャラクターを選択し、他のファイターをすべて倒してゲームをクリアすることを目指します。サバイバルモードでは、プレイヤーは5人のキャラクターのチームを選び、別のチームと対戦します。そして最後に、対戦モードでは、プレイヤーが友達と対戦することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fighter's History (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2621440,
+      "crc32": "10751e4f",
+      "md5": "cc9bab1cdbd27348cb591c3b88bafcc6",
+      "sha1": "ced5125ed753d0729923ac2967f7faf21f3e0032",
+      "sha256": "48e30b609976c50adfef93a9c3f57dcf6cc7863cd1fc4c9348e86fda294f254d"
+    },
+    {
+      "name": "Fighter's History (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2621440,
+      "crc32": "283a57aa",
+      "md5": "d356548ba230a119ed41ea3a4272cddc",
+      "sha1": "c2d44e901c8ba85a1433e4d423389565c8b73ef9",
+      "sha256": "315e331dc4a646485264d8e9559d05e01073d794848484f1b2e93bd4eb1e3b80"
+    },
+    {
+      "name": "Fighter's History (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2621440,
+      "crc32": "3d17f6ea",
+      "md5": "4181e243ae146d471dc5c292dce772ac",
+      "sha1": "10f7bb5592e128cc17c5c2a564f6c681785227ed",
+      "sha256": "b9594d588816ae570ea5fea14577ed47de4db9ac9a40a116c84e0ad7a2ce58f8"
+    },
+    {
+      "name": "Fighter's History (World) (Evercade)",
+      "source": "no_intro",
+      "size": 2621440,
+      "crc32": "f9a8dc7d",
+      "md5": "8e9f9516f9ce23690de763e58611c9fc",
+      "sha1": "955dcc9a09a49ea4229fcf94026db7fba78163a9",
+      "sha256": "48a527f0eb3f5ecf03543f5c4e3b6221038d35fd6b31f3c5612899b1cc14b9ea"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fighter%27s%20History%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fighter%27s%20History%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fighter%27s%20History%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fighter%27s%20History%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fighter%27s%20History%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fighter%27s%20History%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fighter%27s%20History%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fighter%27s%20History%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fighter%27s%20History%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

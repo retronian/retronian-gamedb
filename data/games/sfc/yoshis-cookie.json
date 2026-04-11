@@ -105,5 +105,85 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Yoshi no Cookie (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "1e1aa75f",
+      "md5": "0e9793c6be37b4762e9f91bdd9ad5271",
+      "sha1": "a7261fe214888346129b322012521d80a9d15319",
+      "sha256": "69ee81e8672ed67b11f1077718690de2198cd66e96814931f7d547b414d1b7d6"
+    },
+    {
+      "name": "Yoshi's Cookie (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "5fb6e4e9",
+      "md5": "79b7787c762f65a959ec6f219eb623b5",
+      "sha1": "d6f851f35faccbfc1a184d826f44a0fc9f364821",
+      "sha256": "31c76e77e1c4ddb00c9365821746beb2343fba8edacbc169a187d95ba01ee10c"
+    },
+    {
+      "name": "Yoshi's Cookie (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "ef15f4c3",
+      "md5": "b08d6dc455cbed53799c7495ea71b08c",
+      "sha1": "764b5d62a235eb5e8915aaa3cbfaa3bdade516dd",
+      "sha256": "90ad69a489194aca7ef7b7fd1d30e0105da4934a81ac8b0333ea20f9248df92d"
+    },
+    {
+      "name": "Yoshi's Cookie (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "fbdfcdab",
+      "md5": "d87b90a210252ba42992e9509337e639",
+      "sha1": "094af3a0739521ec524aea713080b77809d04769",
+      "sha256": "627dd82c9b3e1b832afbdb2bc4ae6fadedde52ac402e6f895099deb98d9d5ad6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Yoshi%27s%20Cookie%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Yoshi%27s%20Cookie%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Yoshi%27s%20Cookie%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Yoshi%27s%20Cookie%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Yoshi%27s%20Cookie%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Yoshi%27s%20Cookie%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

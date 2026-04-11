@@ -45,5 +45,53 @@
     "wikidata": "Q3441879",
     "mobygames": 35644,
     "igdb": 5130
-  }
+  },
+  "roms": [
+    {
+      "name": "Rooms - The Main Building (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BRMP",
+      "size": 16777216,
+      "crc32": "359a4f84",
+      "md5": "217eb12bb2ddaa8d71e7674a56e272f4",
+      "sha1": "72e4001f024da4109821efcd7d8e36e64bf3d82d"
+    },
+    {
+      "name": "Rooms - The Main Building (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BRME",
+      "size": 16777216,
+      "crc32": "b995a233",
+      "md5": "84f481eca841815e08d027c490620651",
+      "sha1": "25cdc17e2d3b427a512444bffe23094c1baf8ec8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rooms%20-%20The%20Main%20Building%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rooms%20-%20The%20Main%20Building%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rooms%20-%20The%20Main%20Building%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rooms%20-%20The%20Main%20Building%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

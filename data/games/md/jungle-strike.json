@@ -63,5 +63,49 @@
     "wikidata": "Q3190026",
     "mobygames": 792,
     "igdb": 4368
-  }
+  },
+  "roms": [
+    {
+      "name": "Jungle Strike (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-XXXXX-XX",
+      "size": 2097152,
+      "crc32": "0cd540d4",
+      "md5": "3fe418d2e1814af8d830f1cb74493fc2",
+      "sha1": "b76be43101e72100b63c107d1710fa8f9ad4cfd6",
+      "sha256": "6dca0e2b149b6ebb98392a36351f5d9f39fbc2e2a5ffede2784928b7c7eeba64"
+    },
+    {
+      "name": "Jungle Strike (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50576-00",
+      "size": 2097152,
+      "crc32": "a5d29735",
+      "md5": "3164c16bab8088a7991857750edaecb6",
+      "sha1": "7a7568e39341b1bb218280ee05c2b37c273317b5",
+      "sha256": "ea4eb94f7b3ecc1815ab2ac5adbd901b0e3a97a69ee2a31ead27600f12b1483a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Jungle%20Strike%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Jungle%20Strike%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Jungle%20Strike%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

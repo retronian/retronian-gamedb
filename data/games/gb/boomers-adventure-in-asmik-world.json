@@ -87,5 +87,65 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Boomer's Adventure in ASMIK World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "105bc1c0",
+      "md5": "3b051df77605172195dcff97c2c935cc",
+      "sha1": "3d8a6fcc644290c9d88fe2918bfa6007ee811de8",
+      "sha256": "6ac93cc5186a2e92e13260fd61951c1b28f0df2278b9003b2bcb1ddcbf51543c"
+    },
+    {
+      "name": "Teke Teke! Asmik-kun World (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "a817450d",
+      "md5": "563c4c81878db48d8a0b6091f4c1cd92",
+      "sha1": "389cc31472b87ec70e3ea6487f8ad9198887bb89",
+      "sha256": "4e31e3029cfde5b280deb8fbe515b62285182e00402ce4b76dfe813254765d25"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Boomer%27s%20Adventure%20in%20ASMIK%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Boomer%27s%20Adventure%20in%20ASMIK%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Boomer%27s%20Adventure%20in%20ASMIK%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Teke%20Teke%21%20Asmik-kun%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Teke%20Teke%21%20Asmik-kun%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Teke%20Teke%21%20Asmik-kun%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
   ]
 }

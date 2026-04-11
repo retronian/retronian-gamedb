@@ -53,5 +53,65 @@
   "external_ids": {
     "wikidata": "Q3120808",
     "mobygames": 22656
-  }
+  },
+  "roms": [
+    {
+      "name": "Gun Nac (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "62b1ab0c",
+      "md5": "dddc7f9becd3f999fc7d1dfa1ea9cc5d",
+      "sha1": "36e1b4d816669c19688bbd6851cca22c6ab52898",
+      "sha256": "6c107f9f9bd0ba4097177efcb09e2e30130c1899ab056d2f7e18dc571cd2d90a"
+    },
+    {
+      "name": "Gun Nac (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6a242911",
+      "md5": "77fede7f2788b66f3bf0b6afded82770",
+      "sha1": "8f96a9473da779049c5424dc473fed812f58ef8f",
+      "sha256": "16fb92ac135f5762d3242004cf0c12cbd55d2034c86bbaa92a28d356f916ef3e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gun%20Nac%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gun%20Nac%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gun%20Nac%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gun%20Nac%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gun%20Nac%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gun%20Nac%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

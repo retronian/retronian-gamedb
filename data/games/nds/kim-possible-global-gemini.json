@@ -18,5 +18,65 @@
     "wikidata": "Q106620418",
     "mobygames": 26615,
     "igdb": 8152
-  }
+  },
+  "roms": [
+    {
+      "name": "Kim Possible - Global Gemini (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AK6P",
+      "size": 16777216,
+      "crc32": "bdc9723c",
+      "md5": "d7255fcb4ecafdd018d12005bcfdbbb3",
+      "sha1": "31da9f461261b8bada660ac23b09dbc4b14cb700"
+    },
+    {
+      "name": "Kim Possible - Global Gemini (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AK6E",
+      "size": 16777216,
+      "crc32": "1849501d",
+      "md5": "f55324f3a40a314360c7b9c21c8c724e",
+      "sha1": "eb8a945c0555253e362cf28ce7c938b07e7a15fa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kim%20Possible%20-%20Global%20Gemini%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kim%20Possible%20-%20Global%20Gemini%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kim%20Possible%20-%20Global%20Gemini%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kim%20Possible%20-%20Global%20Gemini%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kim%20Possible%20-%20Global%20Gemini%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kim%20Possible%20-%20Global%20Gemini%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

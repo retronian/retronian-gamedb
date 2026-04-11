@@ -88,5 +88,89 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Virtua Racing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1229-00",
+      "size": 2097152,
+      "crc32": "9624d4ef",
+      "md5": "f77b8ea51b161c0e2fa9a9caef3ea491",
+      "sha1": "2c3812f8a010571e51269a33a989598787d27c2d",
+      "sha256": "4239e75eb42db439eb68e5a3ced67679598192898db08ca2402d0607621aa891"
+    },
+    {
+      "name": "Virtua Racing (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-7001-00",
+      "size": 2097152,
+      "crc32": "53a293b5",
+      "md5": "ca12f83dbeb44a134062a1f444e4a90a",
+      "sha1": "0ad38a3ab1cc99edac72184f8ae420e13df5cac6",
+      "sha256": "2dd15dc92d0a80b2589df7802e141737fd78b08e26e8b44c6157bf6bb477f1e7"
+    },
+    {
+      "name": "Virtua Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1229-00",
+      "size": 2097152,
+      "crc32": "7e1a324a",
+      "md5": "3d4e16e2743d453f206b1c305b12cd27",
+      "sha1": "ff969ae53120cc4e7cb1a8a7e47458f2eb8a2165",
+      "sha256": "291e74f9b4d5a2c0f2b7cbf6f2e0fbf72c16cb6d83b1f58dda78209f9a64c486"
+    },
+    {
+      "name": "Virtua Racing (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1229-00",
+      "size": 2097152,
+      "crc32": "79cadf6e",
+      "md5": "a2f1e7e3bc8f7e5ddc0862135b4c30de",
+      "sha1": "7b20041c3c808125bdd35076932d4ce085286710",
+      "sha256": "a88378a32634bffc2479e81ba6a4db7dcaf8963b407bdf4bf8a0beb9694eb547"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Virtua%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Virtua%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Virtua%20Racing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Virtua%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Virtua%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Virtua%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

@@ -115,5 +115,101 @@
       "lang": "ja",
       "source": "romu"
     }
+  ],
+  "roms": [
+    {
+      "name": "Street Fighter Alpha - Warriors' Dreams (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "28a3ab3a",
+      "md5": "2ffa53b90351c9a3390ca1f848435239",
+      "sha1": "8baad8f1fe999d1ee352d534b1dbe6e10c0281fe",
+      "sha256": "667f467a0e185946c176c6cc6e3bf0c3d129e97918f8fb6ebb7d88d5d093130c"
+    },
+    {
+      "name": "Street Fighter Alpha - Warriors' Dreams (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "32739b34",
+      "md5": "6acd649d8ab0ec4f26b8ca3930434264",
+      "sha1": "c0086c92381b1561153fbe97fa455fc8c6573c1d"
+    },
+    {
+      "name": "Street Fighter Alpha - Warriors' Dreams (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "aa5f14d2",
+      "md5": "db1aeaa7135bd5707dbbccc427808cd7",
+      "sha1": "ca26852ee2c0e691cd0fc30a44de84fd1465b4de"
+    },
+    {
+      "name": "Street Fighter Alpha - Warriors' Dreams (Europe) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "cdf56f1a",
+      "md5": "762954c946381fcc210bb19962fbfa1f",
+      "sha1": "b7c04a24e7f0355a0113109b5e97ad044057a006",
+      "sha256": "b556d05065d5a3a7917a6f06e6dadc90167e48e013f1416ebb451d404cce047b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
   ]
 }

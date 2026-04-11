@@ -18,5 +18,65 @@
     "wikidata": "Q19956226",
     "mobygames": 52210,
     "igdb": 11249
-  }
+  },
+  "roms": [
+    {
+      "name": "James Bond Jr (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "7414a4c2",
+      "md5": "f8e1181e38cda3f283fec07069dbe58a",
+      "sha1": "f2627ed67e2c653b9256e0c0bc77d1ba5322e96c",
+      "sha256": "2c08b32ecbba97bea0fbb569186294f9ad738a301d90245d9729046ba0ecabab"
+    },
+    {
+      "name": "James Bond Jr (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "69c2f850",
+      "md5": "40bc3a750d8adeaaf15abdaaa6db9ee0",
+      "sha1": "a9338759d653ca7056bd2705d44ead2c6877acc1",
+      "sha256": "9cf82dd9a851cdc38bf2afc286c077ff18a0a5d3bb301eba606cc52db62f8965"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/James%20Bond%20Jr%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/James%20Bond%20Jr%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/James%20Bond%20Jr%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/James%20Bond%20Jr%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/James%20Bond%20Jr%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/James%20Bond%20Jr%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

@@ -26,5 +26,65 @@
     "wikidata": "Q108813099",
     "mobygames": 31646,
     "igdb": 19107
-  }
+  },
+  "roms": [
+    {
+      "name": "Snood 2 - On Vacation (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B2VP",
+      "size": 4194304,
+      "crc32": "6470252f",
+      "md5": "1205d76449958f1d204f380499c7cfff",
+      "sha1": "603e5db33ff80f953211276cab729d82077ace72"
+    },
+    {
+      "name": "Snood 2 - On Vacation (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B2VE",
+      "size": 4194304,
+      "crc32": "d8e05727",
+      "md5": "1d15cd3454a3566dc51d9321563d8c12",
+      "sha1": "29e86415f5b3da0171f4dac895005fbcdd373447"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Snood%202%20-%20On%20Vacation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Snood%202%20-%20On%20Vacation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Snood%202%20-%20On%20Vacation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Snood%202%20-%20On%20Vacation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Snood%202%20-%20On%20Vacation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Snood%202%20-%20On%20Vacation%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

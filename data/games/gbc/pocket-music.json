@@ -17,5 +17,65 @@
     "wikidata": "Q115816544",
     "mobygames": 144804,
     "igdb": 298503
-  }
+  },
+  "roms": [
+    {
+      "name": "Pocket Music (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "1bfb531e",
+      "md5": "84eede6bb298dd354f251eccb1259316",
+      "sha1": "74dc5efab773fde400304d3df8034a095af8a742"
+    },
+    {
+      "name": "Pocket Music (USA) (En,Es) (Proto) (2003-03-07)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e6dda84f",
+      "md5": "4b5da8d4b73304b6694651f3fd8c8216",
+      "sha1": "5291a00ac57dcf47e485f33972000682b861bfe8",
+      "sha256": "dc767d2c2bec631f690be20a47ff196d5a355bca7c5fc1363155caedf296ab11"
+    },
+    {
+      "name": "Pocket Music (World) (Proto) (Riff Sampler Test)",
+      "source": "no_intro",
+      "size": 32768,
+      "crc32": "419d4565",
+      "md5": "c159483205c4855951fbde09af451984",
+      "sha1": "b7ecdd51358e2794a45b425ada778722f5f000c0",
+      "sha256": "2cd0a0e7a520a26796398d3bd2d97f83434bee990121a4f25332d6e192d8602f"
+    },
+    {
+      "name": "Pocket Music (USA) (En,Es) (Proto) (2002-03-04)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "c4387812",
+      "md5": "6ca4b011f72523dbd40d9ea470d2b4ea",
+      "sha1": "ad547a79af864eb56a18e1c2ad4346eb35df41ed",
+      "sha256": "e8685799f2196b4a23ddf0b4c64aa36e5f6d0a040677c938c867617d1855fafa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pocket%20Music%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pocket%20Music%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pocket%20Music%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
 }

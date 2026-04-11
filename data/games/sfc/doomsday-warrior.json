@@ -71,5 +71,65 @@
     "wikidata": "Q5297127",
     "mobygames": 18707,
     "igdb": 42599
-  }
+  },
+  "roms": [
+    {
+      "name": "Doomsday Warrior (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "ceeb7c32",
+      "md5": "49c1fbb62cd882128fbb13c9fe11ac4c",
+      "sha1": "5b7294665583510468d257f4896e825f642ad95f",
+      "sha256": "bb915b286b33842e39e9022366169233a4041515c7ecc60ac428420b28e48dd5"
+    },
+    {
+      "name": "Taiketsu!! Brass Numbers (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "27815b78",
+      "md5": "506d11ca9610d6aeb280d476699e3c07",
+      "sha1": "c68658e255797f8aeb674300bbc025e7cbe2db1e",
+      "sha256": "432281611c83cf267dc6c78d9fcf8c080c717f843ddb9ab295304f4d1d239002"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Doomsday%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Doomsday%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Doomsday%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Taiketsu%21%21%20Brass%20Numbers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Taiketsu%21%21%20Brass%20Numbers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Taiketsu%21%21%20Brass%20Numbers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
 }
