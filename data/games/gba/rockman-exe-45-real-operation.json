@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Rockman EXE 4.5 Real Operation",
@@ -38,6 +38,15 @@
       "form": "official",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Rockman EXE 4.5 - Real Operation",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
     }
   ],
   "first_release_date": "2004-08-06",
@@ -45,5 +54,12 @@
     "wikidata": "Q7355500",
     "mobygames": 23462,
     "igdb": 1769
-  }
+  },
+  "descriptions": [
+    {
+      "text": "ロックマンEXE 4.5 リアルオペレーションは、前作『ロックマンバトルネットワーク4 レッドサン』および『ブルームーン』の準続編です。このゲームでは、プレイヤーはランを操作するのではなく、自分自身としてプレイします。ゲームを初めてプレイすると、日付、時間、年齢、職業などの詳細を入力するよう求められます。その後、ネットナビを選択できます（最初に選べるのはロックマン、ロール、ガッツマン、ナンバーマンです）。\n\n前作のバトルネットワークシリーズとは異なり、ネットナビを直接操作することはできません。代わりに、ナビにどの敵を攻撃すべきか、攻撃距離を指示することができ、彼らはあなたの指示に従って行動します。また、コントロールパッドを使って画面下部に表示されたチップを選択し、Aボタンを押すことで、フォルダからランダムに選ばれた3つのバトルチップを使用することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ]
 }

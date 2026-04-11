@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Mortal Kombat",
@@ -82,6 +82,24 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Mortal Kombat - Shinken Kourin Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "モータルコンバット 真拳降臨伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1992-10-08",
@@ -89,5 +107,12 @@
     "wikidata": "Q150294",
     "mobygames": 599,
     "igdb": 239168
-  }
+  },
+  "descriptions": [
+    {
+      "text": "格闘ゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ]
 }

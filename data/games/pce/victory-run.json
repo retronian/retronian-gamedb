@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Victory Run",
@@ -55,6 +55,24 @@
       "form": "romaji_transliteration",
       "source": "igdb",
       "verified": true
+    },
+    {
+      "text": "Victory Run - Eikou no 13,000km",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ビクトリーラン 栄光の13‚000キロ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1987-12-28",
@@ -62,5 +80,12 @@
     "wikidata": "Q7927540",
     "mobygames": 17903,
     "igdb": 42118
-  }
+  },
+  "descriptions": [
+    {
+      "text": "ビクトリーランは、パリ・ダカールラリーを基にしたアーケードレーサーです。ゲームプレイはアウトランに似ており、画面の下部に自分の車が表示され、前方にはスケーリングスプライトで構成されたコースが広がっています。\n\nレースの開始時に、予備のエンジン、タイヤ、ブレーキなどをどれだけ持っていくかを選択します。各セグメントを終えるたびに、それらのパーツを使って車を修理し、レースを完走できるようにするかを決めなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ]
 }
