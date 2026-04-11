@@ -65,7 +65,7 @@ See [`schema/game.schema.json`](schema/game.schema.json) for the full schema.
 
 ## Static API
 
-The database is published as static JSON over GitHub Pages: **https://retronian.github.io/native-game-db/**
+The database is published as static JSON over GitHub Pages: **https://gamedb.retronian.com/**
 
 | Endpoint | Description |
 |---|---|

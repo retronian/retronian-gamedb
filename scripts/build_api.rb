@@ -30,6 +30,7 @@ DIST = File.join(ROOT, 'dist')
 API  = File.join(DIST, 'api', 'v1')
 INDEX_DIR = File.join(DIST, 'search-index')
 API_VERSION = 'v1'
+CNAME = 'gamedb.retronian.com'
 
 PLATFORMS = {
   'fc'  => 'Famicom / NES',
@@ -733,6 +734,9 @@ def main
   write_html(File.join(DIST, 'index.html'), render_landing(stats, platforms_meta))
   write_html(File.join(DIST, 'docs', 'contributing.html'), render_contributing)
   write_html(File.join(DIST, 'docs', 'schema.html'), render_schema_doc)
+
+  # GitHub Pages custom domain
+  File.write(File.join(DIST, 'CNAME'), "#{CNAME}\n")
 
   puts
   puts '=== Build summary ==='
