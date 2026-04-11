@@ -93,15 +93,13 @@ The schema borrows the strongest ideas from existing game DBs and avoids their f
 ## Roadmap
 
 - [x] **Phase 0** — Schema design and directory layout
-- [x] **Phase 1** — Wikidata SPARQL scraper for initial seed data (5444 entries)
-- [x] **Phase 3** — Static API delivery via GitHub Pages
-- [ ] **Phase 2** — Augment titles with IGDB `game_localizations`
-- [ ] **Phase 4** — Community contribution flow (GitHub Issue → automated PR)
-- [ ] **Phase 5** — Integration with [retronian/romu](https://github.com/retronian/romu)
+- [x] **Phase 1** — Wikidata SPARQL scraper for the initial seed (multilingual)
+- [x] **Phase 2** — Augment titles with IGDB `game_localizations` and `alternative_names`
+- [x] **Phase 3** — Static API and HTML views via GitHub Pages
+- [x] **Phase 4** — Community contribution flow (GitHub issue templates)
 
 ## Related projects
 
-- [retronian/romu](https://github.com/retronian/romu) — ROM collection manager (data consumer)
 - [komagata/gamelist-ja](https://github.com/komagata/gamelist-ja) — EmulationStation `gamelist.xml` generator with Japanese titles (predecessor)
 - [komagata/skyscraper-ja](https://github.com/komagata/skyscraper-ja) — Japanese title import for Skyscraper cache (predecessor)
 - [retronian/OneOS](https://github.com/retronian/OneOS) — MinUI fork with Japanese support (data consumer)
