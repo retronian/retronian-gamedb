@@ -4,10 +4,75 @@
     "field_meaning": "Number of titles officially released in Japan (the native-script market)"
   },
   "targets": {
+    "fc": {
+      "jp_total": 1053,
+      "source": "Wikipedia JP ファミリーコンピュータのゲームタイトル一覧 (commercial releases, excluding unlicensed and rewritable Famicom Disk System-only entries)",
+      "source_url": "https://ja.wikipedia.org/wiki/ファミリーコンピュータのゲームタイトル一覧"
+    },
+    "sfc": {
+      "jp_total": 1447,
+      "source": "Wikipedia JP スーパーファミコンのゲームタイトル一覧 and Nintendo ソフトタイトル数推移表",
+      "source_url": "https://ja.wikipedia.org/wiki/スーパーファミコンのゲームタイトル一覧"
+    },
     "gb": {
-      "jp_total": 781,
-      "source": "Nintendo 発売ソフトタイトル数推移表 (Japan monochrome GB only). Confirmed by ja.wikipedia 'ゲームボーイのゲームタイトル一覧' which cites the same figure.",
+      "jp_total": 779,
+      "source": "No-Intro DAT (Japan retail releases) — matches Nintendo 発売ソフトタイトル数推移表 within 0.3 percent",
       "source_url": "https://ja.wikipedia.org/wiki/ゲームボーイのゲームタイトル一覧"
+    },
+    "gbc": {
+      "jp_total": 465,
+      "source": "Wikipedia JP ゲームボーイカラーのゲームタイトル一覧 (sum of GBC-only and GBC-enhanced titles released in Japan)",
+      "source_url": "https://ja.wikipedia.org/wiki/ゲームボーイカラーのゲームタイトル一覧"
+    },
+    "gba": {
+      "jp_total": 791,
+      "source": "Wikipedia JP ゲームボーイアドバンスのゲームタイトル一覧",
+      "source_url": "https://ja.wikipedia.org/wiki/ゲームボーイアドバンスのゲームタイトル一覧"
+    },
+    "md": {
+      "jp_total": 402,
+      "source": "Wikipedia JP メガドライブのゲームタイトル一覧 (Japanese commercial releases)",
+      "source_url": "https://ja.wikipedia.org/wiki/メガドライブのゲームタイトル一覧"
+    },
+    "pce": {
+      "jp_total": 664,
+      "source": "Wikipedia JP PCエンジンのゲームタイトル一覧 (HuCard + CD-ROM² + Super CD-ROM² Japanese releases)",
+      "source_url": "https://ja.wikipedia.org/wiki/PCエンジンのゲームタイトル一覧"
+    },
+    "n64": {
+      "jp_total": 208,
+      "source": "Wikipedia JP NINTENDO64のゲームタイトル一覧 (Japanese retail releases)",
+      "source_url": "https://ja.wikipedia.org/wiki/NINTENDO64のゲームタイトル一覧"
+    },
+    "nds": {
+      "jp_total": 1840,
+      "source": "Wikipedia JP ニンテンドーDSのゲームタイトル一覧",
+      "source_url": "https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧"
+    },
+    "ps1": {
+      "jp_total": 4220,
+      "source": "Sony PlayStation Japanese software catalog (Wikipedia 一覧)",
+      "source_url": "https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧"
+    },
+    "vb": {
+      "jp_total": 14,
+      "source": "Nintendo バーチャルボーイ commercial catalog (Japan)",
+      "source_url": "https://ja.wikipedia.org/wiki/バーチャルボーイ"
+    },
+    "ngp": {
+      "jp_total": 85,
+      "source": "SNK Neo Geo Pocket / Neo Geo Pocket Color catalog (Japan)",
+      "source_url": "https://ja.wikipedia.org/wiki/ネオジオポケットのゲームタイトル一覧"
+    },
+    "gg": {
+      "jp_total": 173,
+      "source": "Wikipedia JP ゲームギアのゲームタイトル一覧",
+      "source_url": "https://ja.wikipedia.org/wiki/ゲームギアのゲームタイトル一覧"
+    },
+    "ms": {
+      "jp_total": 85,
+      "source": "Wikipedia JP セガ・マークIIIのゲームタイトル一覧 (Sega Mark III titles released in Japan)",
+      "source_url": "https://ja.wikipedia.org/wiki/セガ・マークIIIのゲームタイトル一覧"
     }
   }
 }

@@ -343,7 +343,7 @@ CSS
 
 def render_landing(stats, platforms_meta)
   rows = platforms_meta.map { |p|
-    bar = render_progress_bar(p['jp_named'], p['jp_released'], p['jp_percent'], size: :sm)
+    bar = render_progress_bar(p['jp_named'], p['jp_total'], p['jp_percent'], size: :sm)
     <<~LI
       <li>
         <a href="platforms/#{p['id']}/"><strong>#{h(p['name'])}</strong></a>
@@ -361,10 +361,10 @@ def render_landing(stats, platforms_meta)
     "<tr><th><code>#{h(k)}</code></th><td>#{v}</td></tr>"
   }.join
 
-  tracked = platforms_meta.select { |p| p['jp_released']&.positive? }
+  tracked = platforms_meta.select { |p| p['jp_total']&.positive? }
   overall_progress = if tracked.any?
                        total_named    = tracked.sum { |p| p['jp_named'] }
-                       total_released = tracked.sum { |p| p['jp_released'] }
+                       total_released = tracked.sum { |p| p['jp_total'] }
                        pct = (total_named * 100.0 / total_released).round(1)
                        width = pct.clamp(0, 100)
                        %(
@@ -410,22 +410,22 @@ def render_landing(stats, platforms_meta)
   layout(title: 'Native Game DB', body: body, root_rel: '')
 end
 
-def render_progress_bar(named, released, pct, size: :lg)
-  return '' unless released && released.positive?
+def render_progress_bar(named, total, pct, size: :lg)
+  return '' unless total && total.positive?
   width = pct.clamp(0, 100)
   klass = size == :sm ? 'progress progress-sm' : 'progress'
   label = size == :sm ?
-    %(<strong>#{named}</strong>&thinsp;/&thinsp;#{released} &middot; #{pct}%) :
-    %(<strong>#{named}</strong> / #{released} Japanese releases have a native-script title &middot; <strong>#{pct}%</strong>)
+    %(<strong>#{named}</strong>&thinsp;/&thinsp;#{total} &middot; #{pct}%) :
+    %(<strong>#{named}</strong> / #{total} Japanese releases have a native-script title &middot; <strong>#{pct}%</strong>)
   %(
-    <div class="#{klass}" title="#{named} named out of #{released} Japanese releases">
+    <div class="#{klass}" title="#{named} named out of #{total} Japanese releases">
       <div class="progress-bar" style="width: #{width}%"></div>
       <div class="progress-label">#{label}</div>
     </div>
   ).strip
 end
 
-def render_platform_page(platform_id, name, games, progress = nil, target = nil)
+def render_platform_page(platform_id, name, games, progress = nil, target = nil) # rubocop:disable Metrics/ParameterLists
   rows = games.map { |g|
     title    = display_title(g)
     ja       = primary_title(g, 'ja')
@@ -450,14 +450,15 @@ def render_platform_page(platform_id, name, games, progress = nil, target = nil)
     LI
   }.join
 
-  progress_html = if progress && progress['jp_released']&.positive?
-                    render_progress_bar(progress['jp_named'], progress['jp_released'], progress['jp_percent'])
+  progress_html = if progress && progress['jp_total']&.positive?
+                    render_progress_bar(progress['jp_named'], progress['jp_total'], progress['jp_percent'])
                   else
                     ''
                   end
 
-  official_note = if progress && progress['official_total']
-                    %(<p class="target-note">Official count: <strong>#{progress['official_total']}</strong> Japanese releases#{target && target['source_url'] ? %( (<a href="#{h(target['source_url'])}">source</a>)) : ''}.</p>)
+  official_note = if progress && progress['official']
+                    source_link = target && target['source_url'] ? %( (<a href="#{h(target['source_url'])}">source</a>)) : ''
+                    %(<p class="target-note">Official Japanese release count: <strong>#{progress['official']}</strong>#{source_link}. #{progress['jp_named_db'] && progress['jp_named_db'] > progress['jp_named'] ? "The DB actually carries #{progress['jp_named_db']} Japanese-titled entries, including overseas editions." : ''}</p>)
                   else
                     ''
                   end
@@ -812,17 +813,30 @@ def main
       end
     end
 
-    jp_released = games.count { |g| japanese_release?(g) }
-    jp_named    = games.count { |g| japanese_release?(g) && has_native_japanese_title?(g) }
-    target      = platform_targets[platform_id]
-    official    = target && target['jp_total']
+    jp_released_rom = games.count { |g| japanese_release?(g) }
+    jp_named_all    = games.count { |g| has_native_japanese_title?(g) }
+    target          = platform_targets[platform_id]
+    official        = target && target['jp_total']
+
+    # Denominator: official Nintendo/Sega figure when available,
+    # otherwise fall back to the count of games with a jp ROM so the
+    # bar still shows something for unsourced platforms.
+    jp_total = official || jp_released_rom
+
+    # Numerator: games on this platform that have at least one
+    # native-script Japanese title, capped at the denominator so the
+    # bar never exceeds 100%.
+    jp_named = [jp_named_all, jp_total].min
+
+    jp_percent = jp_total.positive? ? (jp_named * 100.0 / jp_total).round(1) : nil
 
     progress = {
-      'jp_released' => jp_released,
+      'jp_total'    => jp_total,
       'jp_named'    => jp_named,
-      'jp_percent'  => jp_released.positive? ? (jp_named * 100.0 / jp_released).round(1) : nil
+      'jp_named_db' => jp_named_all,
+      'jp_percent'  => jp_percent,
+      'official'    => official
     }
-    progress['official_total'] = official if official
 
     write_html(File.join(DIST, 'platforms', platform_id, 'index.html'),
                render_platform_page(platform_id, name, games, progress, target))
