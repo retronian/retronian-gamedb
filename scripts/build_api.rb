@@ -237,6 +237,34 @@ CSS = <<~CSS
   .progress-sm { height: 14px; margin: 0.4em 0 0; }
   .progress-sm .progress-label { line-height: 14px; font-size: 0.72em; }
   .target-note { color: var(--muted); font-size: 0.85em; margin-top: -0.5em; }
+  .desc-tabs {
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    overflow: hidden;
+    margin: 1em 0 1.5em;
+  }
+  .desc-tabs input[type="radio"] { display: none; }
+  .desc-tabs .tab-labels {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid var(--line);
+    background: var(--code-bg);
+  }
+  .desc-tabs .tab-labels label {
+    padding: 0.55em 1em;
+    font-size: 0.85em;
+    font-family: ui-monospace, monospace;
+    cursor: pointer;
+    color: var(--muted);
+    border-right: 1px solid var(--line);
+    user-select: none;
+  }
+  .desc-tabs .tab-labels label:hover { background: #ebebee; color: var(--fg); }
+  .desc-tabs .tab-panels { padding: 1em 1.2em; }
+  .desc-tabs .tab-panel { display: none; }
+  .desc-tabs .tab-panel p { margin: 0 0 0.8em; }
+  .desc-tabs .tab-panel p:last-child { margin-bottom: 0; }
+  .desc-tabs .tab-panel .src { color: var(--muted); font-size: 0.8em; font-family: ui-monospace, monospace; display: block; margin-bottom: 0.2em; }
   * { box-sizing: border-box; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Noto Sans CJK JP", sans-serif;
@@ -584,6 +612,66 @@ def render_rom_section(game)
   HTML
 end
 
+# Group descriptions by language and render them as CSS-only tabs.
+# Every <label for="..."> targets a sibling <input type="radio">, and
+# CSS rules further down show the matching .tab-panel by id. Because
+# each game page has a single tab group we embed the game id into
+# every element id to keep radio names unique across the whole site.
+LANG_LABEL = {
+  'en' => 'English', 'ja' => '日本語', 'ko' => '한국어',
+  'zh' => '中文',     'fr' => 'Français', 'es' => 'Español',
+  'de' => 'Deutsch',  'it' => 'Italiano', 'pt' => 'Português',
+  'ru' => 'Русский'
+}.freeze
+LANG_ORDER = %w[en ja ko zh fr es de it pt ru].freeze
+
+def render_description_tabs(game)
+  descs = game['descriptions'] || []
+  return '' if descs.empty?
+
+  by_lang = Hash.new { |h, k| h[k] = [] }
+  descs.each { |d| by_lang[d['lang']] << d }
+  langs = LANG_ORDER.select { |l| by_lang.key?(l) } +
+          (by_lang.keys - LANG_ORDER)
+
+  return '' if langs.empty?
+
+  group = "desc-#{game['id']}"
+
+  # Radios come first so that the general-sibling selector (~) can
+  # reach the panels that come later inside the same container.
+  inputs = langs.each_with_index.map do |lang, i|
+    checked = i.zero? ? ' checked' : ''
+    %(<input type="radio" name="#{group}" id="#{group}-#{lang}"#{checked}>)
+  end.join
+
+  labels = langs.map do |lang|
+    label = LANG_LABEL[lang] || lang
+    %(<label for="#{group}-#{lang}">#{h(label)} <code>#{h(lang)}</code></label>)
+  end.join
+
+  panels = langs.map do |lang|
+    items = by_lang[lang].map do |d|
+      src = d['source'] ? %(<span class="src">source: #{h(d['source'])}</span>) : ''
+      %(<p lang="#{h(lang)}">#{src}#{h(d['text'])}</p>)
+    end.join
+    %(<div class="tab-panel" id="panel-#{group}-#{lang}">#{items}</div>)
+  end.join
+
+  rules = langs.map do |lang|
+    "##{group}-#{lang}:checked ~ .tab-panels ##{['panel', group, lang].join('-')} { display: block; }\n##{group}-#{lang}:checked ~ .tab-labels label[for=\"#{group}-#{lang}\"] { background: var(--bg); color: var(--fg); border-bottom: 2px solid var(--accent); font-weight: 600; }"
+  end.join("\n")
+
+  <<~HTML
+    <div class="desc-tabs">
+      #{inputs}
+      <div class="tab-labels">#{labels}</div>
+      <div class="tab-panels">#{panels}</div>
+      <style>#{rules}</style>
+    </div>
+  HTML
+end
+
 def render_game_page(game)
   platform_id   = game['platform']
   platform_name = PLATFORMS[platform_id] || platform_id
@@ -632,9 +720,7 @@ def render_game_page(game)
     "<tr><th><code>#{h(source)}</code></th><td>#{link}</td></tr>"
   }.join
 
-  description_html = (game['descriptions'] || []).map { |d|
-    "<p lang=\"#{h(d['lang'])}\">#{h(d['text'])}</p>"
-  }.join
+  description_html = render_description_tabs(game)
 
   body = <<~HTML
     <p><a href="../../platforms/#{platform_id}/">&laquo; #{h(platform_name)}</a></p>
