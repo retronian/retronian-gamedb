@@ -60,6 +60,56 @@
       "text": "カーブノアはローグライクゲームです。このゲームは、モンスターを倒す、フェアリーを解放する、金やオーブを集めるという4つのクエストを中心に展開されており、それぞれに10段階の難易度があります。難易度は目標数の大きさ、プレイヤーがスタートする際のステータス、遭遇するモンスターを決定します。クエストを開始すると、ランダムに生成されたダンジョンが作成され、プレイヤーは目標に到達するための一度のチャンスを得ます。死亡すると新しいダンジョンを作成する必要があります。難易度をクリアすると次の難易度がアンロックされ、これがゲームが保存する唯一の要素です。\n\nダンジョン自体は上からの視点で表示され、ヒーロー、壁、床タイル、モンスター、収集するアイテムが特徴です。移動はターン制で、各ターンは4つのフェーズ（プレイヤーの移動、プレイヤーの攻撃、モンスターの攻撃、最後にモンスターの移動）に分かれています。攻撃は、2人の参加者が隣接しているときのみ可能で、コンピュータは統計（攻撃、防御、運、ランダム要素）から結果を計算し、攻撃されたヒーローやモンスターのヒットポイントを減少させます。もちろん、ヒットポイントがゼロになると敗北となります。前述の統計は、武器や防具などの特定のアイテムを見つけて使用することで改善できます。ポーション、呪文、リングは、使用または装備することで追加効果を持ち、例えばヒットポイントの回復、毒の治療、大ダメージの与え、または透明化などがあります。\n\n環境もクエストにおいて重要な役割を果たすことに注意が必要です。壁やタイルに触れると特別な効果が発生することがあり、例えば落とし穴（プレイヤーやモンスターがダンジョンの次のレベルに落ちてダメージを受ける）、壊せる壁、溶岩、テレポーターなどがあります。一部の部屋は霧に覆われており、ヒーローがその上を歩くまで床タイルが見えません（モンスターは依然として見分けられます）。特定の種類のモンスターは、倒されると部屋全体をクリアにしますが、同時に全く逆の効果を持つモンスターも存在します。",
       "lang": "ja",
       "source": "romu"
+    },
+    {
+      "text": "Cave Noire is a roguelike video game revolving around four quests: killing monsters, freeing fairies, or collecting gold/orbs with ten difficulties each. Starting a quest creates a randomly generated dungeon where the player has one chance to reach the goal – death means a new dungeon has to be created. The difficulty determines how big the target number is, the stats the player starts with, and what monsters are encountered.",
+      "lang": "en",
+      "source": "igdb"
+    },
+    {
+      "text": "You have come to the northern village Karuzu. As this village is surrounded by four dungeons many apprentice adventurers like yourself come here to improve their skill (level), there's talk of the underground labyrinth (dungeon) being challenged day and night.\n\nThe leader of the adventurers guild said \"You should train in the dungeon if you want to become a full-fledged adventurer. You appear to have some basic equipment, although the quest (objective) will be impossible to achieve with those alone. You should go get some items from the master of the forest. If you enter the dungeon, nobody will come to help. You need to be careful.\"\n\nExperience things as a true adventurer and do your best. Good luck.",
+      "lang": "en",
+      "source": "igdb_storyline"
+    },
+    {
+      "text": "Computerspiel aus dem Jahr 1991",
+      "lang": "de",
+      "source": "wikidata"
+    },
+    {
+      "text": "videojuego de 1991",
+      "lang": "es",
+      "source": "wikidata"
+    },
+    {
+      "text": "jeu vidéo de 1991",
+      "lang": "fr",
+      "source": "wikidata"
+    },
+    {
+      "text": "videogioco del 1991",
+      "lang": "it",
+      "source": "wikidata"
+    },
+    {
+      "text": "компьютерная игра 1991 года",
+      "lang": "ru",
+      "source": "wikidata"
+    },
+    {
+      "text": "jogo eletrônico de 1991",
+      "lang": "pt",
+      "source": "wikidata"
+    },
+    {
+      "text": "1991 roguelike video game",
+      "lang": "en",
+      "source": "wikidata"
+    },
+    {
+      "text": "1991년 로그라이크 게임",
+      "lang": "ko",
+      "source": "wikidata"
     }
   ],
   "roms": [

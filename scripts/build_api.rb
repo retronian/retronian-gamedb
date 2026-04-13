@@ -378,6 +378,37 @@ def render_landing(stats, platforms_meta)
                        ''
                      end
 
+  # Overall descriptions coverage by language.
+  desc_total_overall = platforms_meta.sum { |p| p['desc_total'] || 0 }
+  desc_by_lang_overall = Hash.new(0)
+  platforms_meta.each do |p|
+    (p['desc_by_lang'] || {}).each { |lang, n| desc_by_lang_overall[lang] += n }
+  end
+
+  desc_table = if desc_total_overall.positive?
+                 rows = desc_by_lang_overall.sort_by { |_, v| -v }.map do |lang, covered|
+                   p = (covered * 100.0 / desc_total_overall).round(1)
+                   width = p.clamp(0, 100)
+                   <<~TR
+                     <tr>
+                       <th><code>#{h(lang)}</code></th>
+                       <td style="width: 70%">
+                         <div class="progress progress-sm">
+                           <div class="progress-bar" style="width: #{width}%"></div>
+                           <div class="progress-label">#{covered} / #{desc_total_overall} &middot; #{p}%</div>
+                         </div>
+                       </td>
+                     </tr>
+                   TR
+                 end.join
+                 %(
+                   <h2>Description coverage by language</h2>
+                   <table class="stats-table">#{rows}</table>
+                 ).strip
+               else
+                 ''
+               end
+
   body = <<~HTML
     <h1>Native Game DB</h1>
     <p class="lead">A retro game database with first-class support for native scripts &mdash; the original written form of game titles in Japanese, Korean, Chinese, and other non-Latin writing systems.</p>
@@ -386,6 +417,8 @@ def render_landing(stats, platforms_meta)
 
     <h2>Browse by platform</h2>
     <ul class="platform-grid">#{rows}</ul>
+
+    #{desc_table}
 
     <h2>Title languages</h2>
     <table class="stats-table">#{langs_rows}</table>
@@ -423,6 +456,29 @@ def render_progress_bar(named, total, pct, size: :lg)
       <div class="progress-label">#{label}</div>
     </div>
   ).strip
+end
+
+def render_description_table(desc_total, desc_by_lang)
+  return '' unless desc_total && desc_total.positive?
+  rows = desc_by_lang.map do |lang, covered|
+    pct = (covered * 100.0 / desc_total).round(1)
+    width = pct.clamp(0, 100)
+    <<~TR
+      <tr>
+        <th><code>#{h(lang)}</code></th>
+        <td style="width: 60%">
+          <div class="progress progress-sm">
+            <div class="progress-bar" style="width: #{width}%"></div>
+            <div class="progress-label">#{covered} / #{desc_total} &middot; #{pct}%</div>
+          </div>
+        </td>
+      </tr>
+    TR
+  end.join
+  %(
+    <h2>Description coverage by language</h2>
+    <table class="stats-table">#{rows}</table>
+  )
 end
 
 def render_platform_page(platform_id, name, games, progress = nil, target = nil) # rubocop:disable Metrics/ParameterLists
@@ -463,11 +519,14 @@ def render_platform_page(platform_id, name, games, progress = nil, target = nil)
                     ''
                   end
 
+  desc_html = progress ? render_description_table(progress['desc_total'], progress['desc_by_lang']) : ''
+
   body = <<~HTML
     <h1>#{h(name)}</h1>
     <p class="lead">#{games.size} games in the database &middot; <a href="../../api/v1/#{platform_id}.json">JSON API</a></p>
     #{progress_html}
     #{official_note}
+    #{desc_html}
     <ul class="game-list">#{rows}</ul>
   HTML
 
@@ -830,12 +889,24 @@ def main
 
     jp_percent = jp_total.positive? ? (jp_named * 100.0 / jp_total).round(1) : nil
 
+    # Description language coverage. For each tracked language we
+    # count how many games on this platform have at least one
+    # descriptions[] entry in that language.
+    desc_total = games.size
+    desc_langs = %w[en ja ko zh fr es de it]
+    desc_by_lang = desc_langs.to_h do |lang|
+      hit = games.count { |g| (g['descriptions'] || []).any? { |d| d['lang'] == lang && !d['text'].to_s.strip.empty? } }
+      [lang, hit]
+    end
+
     progress = {
       'jp_total'    => jp_total,
       'jp_named'    => jp_named,
       'jp_named_db' => jp_named_all,
       'jp_percent'  => jp_percent,
-      'official'    => official
+      'official'    => official,
+      'desc_total'  => desc_total,
+      'desc_by_lang' => desc_by_lang
     }
 
     write_html(File.join(DIST, 'platforms', platform_id, 'index.html'),
