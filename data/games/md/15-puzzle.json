@@ -16,5 +16,12 @@
   "external_ids": {
     "igdb": 245120
   },
-  "first_release_date": "1993-05-28"
+  "first_release_date": "1993-05-28",
+  "descriptions": [
+    {
+      "text": "The 15 puzzle (also called Gem Puzzle, Boss Puzzle, Game of Fifteen, Mystic Square and more) is a sliding puzzle. It has 15 square tiles numbered 1 to 15 in a frame that is 4 tile positions high and 4 tile positions wide, with one unoccupied position. Tiles in the same row or column of the open position can be moved by sliding them horizontally or vertically, respectively. The goal of the puzzle is to place the tiles in numerical order (from left to right, top to bottom).\nNamed after the number of tiles in the frame, the 15 puzzle may also be called a \"16 puzzle\", alluding to its total tile capacity. Similar names are used for different sized variants of the 15 puzzle, such as the 8 puzzle, which has 8 tiles in a 3×3 frame.\nThe n puzzle is a classical problem for modeling algorithms involving heuristics. Commonly used heuristics for this problem include counting the number of misplaced tiles and finding the sum of the taxicab distances between each block and its position in the goal configuration. Note that both are admissible. That is, they never overestimate the number of moves left, which ensures optimality for certain search algorithms such as A*.",
+      "lang": "en",
+      "source": "wikipedia_en"
+    }
+  ]
 }
