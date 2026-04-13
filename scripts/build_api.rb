@@ -386,7 +386,7 @@ def render_landing(stats, platforms_meta)
   end
 
   desc_table = if desc_total_overall.positive?
-                 rows = desc_by_lang_overall.sort_by { |_, v| -v }.map do |lang, covered|
+                 desc_rows = desc_by_lang_overall.sort_by { |_, v| -v }.map do |lang, covered|
                    p = (covered * 100.0 / desc_total_overall).round(1)
                    width = p.clamp(0, 100)
                    <<~TR
@@ -403,7 +403,7 @@ def render_landing(stats, platforms_meta)
                  end.join
                  %(
                    <h2>Description coverage by language</h2>
-                   <table class="stats-table">#{rows}</table>
+                   <table class="stats-table">#{desc_rows}</table>
                  ).strip
                else
                  ''
