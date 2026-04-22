@@ -43,7 +43,7 @@ WD_BATCH   = 100
 
 WIKIDATA_LANGS = %w[en ja ko zh fr es de it pt ru].freeze
 
-PLATFORMS = %w[fc sfc gb gbc gba md pce n64 nds ps1 vb ngp gg ms].freeze
+PLATFORMS = %w[fc sfc gb gbc gba md pce n64 nds ps1].freeze
 
 # ---------- IGDB auth ----------
 

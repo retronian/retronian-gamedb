@@ -42,22 +42,8 @@ PLATFORMS = {
   'pce' => 'PC Engine / TurboGrafx-16',
   'n64' => 'Nintendo 64',
   'nds' => 'Nintendo DS',
-  'ps1' => 'PlayStation',
-  'vb'  => 'Virtual Boy',
-  'ngp' => 'Neo Geo Pocket',
-  'gg'  => 'Game Gear',
-  'ms'  => 'Sega Master System'
+  'ps1' => 'PlayStation'
 }.freeze
-
-# Expected Japanese release count per platform, used for the coverage
-# progress bars. Loaded lazily so a missing file just disables the bars.
-def platform_targets
-  @platform_targets ||= begin
-    path = File.join(ROOT, 'data', 'platform_targets.json')
-    return {} unless File.exist?(path)
-    JSON.parse(File.read(path)).dig('targets') || {}
-  end
-end
 
 # A game counts as "released in Japan" when we have a No-Intro ROM
 # tagged region=jp that is *not* a prototype, beta, pirate dump,
@@ -69,24 +55,44 @@ end
 # non-retail bucket explicitly.
 NON_RETAIL_ROM_RE = /\((?:Proto|Possible Proto|Beta|Unl|Pirate|Sample|Demo|Hack|Aftermarket|Homebrew)\)/i.freeze
 
-def japanese_release?(game)
-  return false if game['id'].to_s.start_with?('bios-')
-  return false if (game['category'] || '') == 'bios'
+# Native-script languages we track coverage for. Each maps to the
+# No-Intro region codes where that language is the local market, plus
+# the ISO 15924 scripts that count as "native" (i.e. not a romanized
+# fallback).
+NATIVE_LANGS = {
+  'ja' => { name: '日本語', regions: %w[jp],       scripts: %w[Jpan Hira Kana] },
+  'ko' => { name: '한국어',  regions: %w[kr],       scripts: %w[Hang] },
+  'zh' => { name: '中文',    regions: %w[cn tw hk], scripts: %w[Hans Hant] }
+}.freeze
+
+def bios_entry?(game)
+  game['id'].to_s.start_with?('bios-') || (game['category'] || '') == 'bios'
+end
+
+def released_in_region?(game, region)
+  return false if bios_entry?(game)
   (game['roms'] || []).any? do |r|
-    next false unless r['region'] == 'jp'
+    next false unless r['region'] == region
     next false if r['name'].to_s =~ NON_RETAIL_ROM_RE
     true
   end
 end
 
-# Does the entry carry at least one Japanese-script title? This is the
-# "we have native-script metadata" signal. Latin script ja entries
-# (romaji transliterations) don't count — those are ASCII reverts of
-# the real Japanese name and are already covered by the No-Intro name.
-def has_native_japanese_title?(game)
-  game['titles'].any? do |t|
-    t['lang'] == 'ja' && %w[Jpan Hira Kana].include?(t['script'])
-  end
+def released_in_any?(game, regions)
+  regions.any? { |r| released_in_region?(game, r) }
+end
+
+# Any title in the given language (including Latin transliterations).
+def has_title_in_lang?(game, lang)
+  game['titles'].any? { |t| t['lang'] == lang }
+end
+
+# A title whose script matches one of the native-script codes for lang
+# (Jpan/Hira/Kana for ja, Hang for ko, Hans/Hant for zh, etc.). Latin
+# entries don't count.
+def has_native_script_title?(game, lang)
+  scripts = NATIVE_LANGS.dig(lang, :scripts) || []
+  game['titles'].any? { |t| t['lang'] == lang && scripts.include?(t['script']) }
 end
 
 # ---------------------------------------------------------------------------
@@ -122,10 +128,14 @@ def primary_title(game, lang)
 end
 
 def display_title(game)
-  primary_title(game, 'en')&.dig('text') ||
-    primary_title(game, 'ja')&.dig('text') ||
-    game['titles'].first&.dig('text') ||
-    game['id']
+  # Prefer English for cross-locale readability on the site, then any
+  # tracked native-script language, then whatever title is first.
+  return primary_title(game, 'en')['text'] if primary_title(game, 'en')
+  NATIVE_LANGS.each_key do |lang|
+    t = primary_title(game, lang)
+    return t['text'] if t
+  end
+  game['titles'].first&.dig('text') || game['id']
 end
 
 def search_doc(game)
@@ -730,12 +740,12 @@ CSS
 
 def render_landing(stats, platforms_meta)
   rows = platforms_meta.map { |p|
-    bar = render_progress_bar(p['jp_named'], p['jp_total'], p['jp_percent'], size: :sm)
+    bars = render_lang_progress_stack(p['by_lang'], size: :sm)
     <<~LI
       <li>
         <a href="platforms/#{p['id']}/"><strong>#{h(p['name'])}</strong></a>
         <div class="count">#{p['count']} games &middot; <code>#{p['id']}</code></div>
-        #{bar}
+        #{bars}
       </li>
     LI
   }.join
@@ -748,22 +758,17 @@ def render_landing(stats, platforms_meta)
     "<tr><th><code>#{h(k)}</code></th><td>#{v}</td></tr>"
   }.join
 
-  tracked = platforms_meta.select { |p| p['jp_total']&.positive? }
-  overall_progress = if tracked.any?
-                       total_named    = tracked.sum { |p| p['jp_named'] }
-                       total_released = tracked.sum { |p| p['jp_total'] }
-                       pct = (total_named * 100.0 / total_released).round(1)
-                       width = pct.clamp(0, 100)
-                       %(
-                         <div class="progress">
-                           <div class="progress-bar" style="width: #{width}%"></div>
-                           <div class="progress-label"><strong>#{total_named}</strong> / #{total_released} Japanese releases have a native-script title &middot; <strong>#{pct}%</strong></div>
-                         </div>
-                         <p class="target-note">Help us reach 100% — every missing entry is a real retro game whose Japanese title is not in the database yet.</p>
-                       ).strip
-                     else
-                       ''
-                     end
+  # Aggregate coverage per native-language across all platforms.
+  overall_by_lang = NATIVE_LANGS.keys.each_with_object({}) do |lang, acc|
+    rows_for_lang = platforms_meta.map { |p| p.dig('by_lang', lang) }.compact
+    total   = rows_for_lang.sum { |r| r['total'] || 0 }
+    named   = rows_for_lang.sum { |r| r['named'] || 0 }
+    native  = rows_for_lang.sum { |r| r['native'] || 0 }
+    pct     = total.positive? ? (named * 100.0 / total).round(1) : nil
+    acc[lang] = { 'total' => total, 'named' => named, 'native' => native, 'percent' => pct }
+  end
+
+  overall_progress = render_lang_progress_stack(overall_by_lang, size: :lg)
 
   # Overall descriptions coverage by language.
   desc_total_overall = platforms_meta.sum { |p| p['desc_total'] || 0 }
@@ -798,9 +803,11 @@ def render_landing(stats, platforms_meta)
 
   body = <<~HTML
     <h1>Native Game DB</h1>
-    <p class="lead">A retro game database with first-class support for native scripts &mdash; the original written form of game titles in Japanese, Korean, Chinese, and other non-Latin writing systems.</p>
+    <p class="lead">A retro game database with first-class support for native scripts &mdash; the original written form of game titles in every non-Latin writing system (日本語, 한국어, 中文, …).</p>
     <p><strong>#{stats['total_games']} games</strong> across #{stats['platforms'].size} platforms.</p>
+    <h2>Coverage by language</h2>
     #{overall_progress}
+    <p class="target-note">Denominator for each language = retail ROMs in that language's home region (jp for 日本語, kr for 한국어, cn/tw/hk for 中文). Numerator = entries carrying at least one title in that language, native script or Latin transliteration.</p>
 
     <h2>Browse by platform</h2>
     <ul class="platform-grid">#{rows}</ul>
@@ -830,19 +837,34 @@ def render_landing(stats, platforms_meta)
   layout(title: 'Native Game DB', body: body, root_rel: '')
 end
 
-def render_progress_bar(named, total, pct, size: :lg)
+def render_progress_bar(named, total, pct, size: :lg, lang_label: nil)
   return '' unless total && total.positive?
   width = pct.clamp(0, 100)
   klass = size == :sm ? 'progress progress-sm' : 'progress'
+  suffix = lang_label ? " #{lang_label} titles" : ''
   label = size == :sm ?
     %(<strong>#{named}</strong>&thinsp;/&thinsp;#{total} &middot; #{pct}%) :
-    %(<strong>#{named}</strong> / #{total} Japanese releases have a native-script title &middot; <strong>#{pct}%</strong>)
+    %(<strong>#{named}</strong> / #{total} retail releases have#{suffix} &middot; <strong>#{pct}%</strong>)
   %(
-    <div class="#{klass}" title="#{named} named out of #{total} Japanese releases">
+    <div class="#{klass}" title="#{named} / #{total}#{lang_label ? " (#{lang_label})" : ''}">
       <div class="progress-bar" style="width: #{width}%"></div>
       <div class="progress-label">#{label}</div>
     </div>
   ).strip
+end
+
+def render_lang_progress_stack(by_lang, size: :lg)
+  return '' if by_lang.nil? || by_lang.empty?
+  bars = NATIVE_LANGS.map do |lang, spec|
+    row = by_lang[lang]
+    next nil unless row && row['total']&.positive?
+    render_progress_bar(
+      row['named'], row['total'], row['percent'],
+      size: size,
+      lang_label: "#{spec[:name]} (#{lang})"
+    )
+  end.compact
+  bars.join("\n")
 end
 
 def render_description_table(desc_total, desc_by_lang)
@@ -868,15 +890,21 @@ def render_description_table(desc_total, desc_by_lang)
   )
 end
 
-def render_platform_page(platform_id, name, games, progress = nil, target = nil) # rubocop:disable Metrics/ParameterLists
+def render_platform_page(platform_id, name, games, progress = nil, _target = nil) # rubocop:disable Metrics/ParameterLists
   rows = games.map { |g|
     title    = display_title(g)
-    ja       = primary_title(g, 'ja')
     en       = primary_title(g, 'en')
     date     = g['first_release_date']
     boxart   = (g['media'] || []).find { |m| m['kind'] == 'boxart' }
     extra    = []
-    extra << %(<span class="badge">#{h(ja['script'])}</span> #{h(ja['text'])}) if ja
+
+    # Show every non-English native-language title with its script badge,
+    # not just Japanese.
+    NATIVE_LANGS.each_key do |lang|
+      t = primary_title(g, lang)
+      next unless t && t['text'] != title
+      extra << %(<span class="badge">#{h(t['script'])}</span> #{h(t['text'])})
+    end
     extra << %(EN: #{h(en['text'])}) if en && en['text'] != title
     extra << %(#{h(date)}) if date
 
@@ -893,26 +921,17 @@ def render_platform_page(platform_id, name, games, progress = nil, target = nil)
     LI
   }.join
 
-  progress_html = if progress && progress['jp_total']&.positive?
-                    render_progress_bar(progress['jp_named'], progress['jp_total'], progress['jp_percent'])
-                  else
-                    ''
-                  end
+  progress_html = progress ? render_lang_progress_stack(progress['by_lang'], size: :lg) : ''
 
-  official_note = if progress && progress['official']
-                    source_link = target && target['source_url'] ? %( (<a href="#{h(target['source_url'])}">source</a>)) : ''
-                    %(<p class="target-note">Official Japanese release count: <strong>#{progress['official']}</strong>#{source_link}. #{progress['jp_named_db'] && progress['jp_named_db'] > progress['jp_named'] ? "The DB actually carries #{progress['jp_named_db']} Japanese-titled entries, including overseas editions." : ''}</p>)
-                  else
-                    ''
-                  end
+  coverage_heading = progress_html.empty? ? '' : '<h2>Coverage by language</h2>'
 
   desc_html = progress ? render_description_table(progress['desc_total'], progress['desc_by_lang']) : ''
 
   body = <<~HTML
     <h1>#{h(name)}</h1>
     <p class="lead">#{games.size} games in the database &middot; <a href="../../api/v1/#{platform_id}.json">JSON API</a></p>
+    #{coverage_heading}
     #{progress_html}
-    #{official_note}
     #{desc_html}
     <ul class="game-list">#{rows}</ul>
   HTML
@@ -1083,7 +1102,7 @@ def render_game_page(game)
 
   body = <<~HTML
     <p><a href="../../platforms/#{platform_id}/">&laquo; #{h(platform_name)}</a></p>
-    <h1 lang="#{h(primary_title(game, 'ja')&.dig('lang') || 'en')}">#{h(title)}</h1>
+    <h1 lang="#{h((game['titles'].find { |t| t['text'] == title } || {})['lang'] || 'en')}">#{h(title)}</h1>
 
     #{render_media_section(game)}
 
@@ -1317,22 +1336,18 @@ def main
       end
     end
 
-    jp_released_rom = games.count { |g| japanese_release?(g) }
-    jp_named_all    = games.count { |g| has_native_japanese_title?(g) }
-    target          = platform_targets[platform_id]
-    official        = target && target['jp_total']
-
-    # Denominator: official Nintendo/Sega figure when available,
-    # otherwise fall back to the count of games with a jp ROM so the
-    # bar still shows something for unsourced platforms.
-    jp_total = official || jp_released_rom
-
-    # Numerator: games on this platform that have at least one
-    # native-script Japanese title, capped at the denominator so the
-    # bar never exceeds 100%.
-    jp_named = [jp_named_all, jp_total].min
-
-    jp_percent = jp_total.positive? ? (jp_named * 100.0 / jp_total).round(1) : nil
+    # Coverage per native-language: for each language (ja/ko/zh), the
+    # denominator is "games released in that language's regions with a
+    # retail ROM" and the numerator is "those with at least one title
+    # in that language". `native` counts only ISO 15924 native scripts
+    # (Latin transliterations are recorded but not counted as native).
+    by_lang = NATIVE_LANGS.each_with_object({}) do |(lang, spec), acc|
+      released = games.count { |g| released_in_any?(g, spec[:regions]) }
+      named    = games.count { |g| released_in_any?(g, spec[:regions]) && has_title_in_lang?(g, lang) }
+      native   = games.count { |g| released_in_any?(g, spec[:regions]) && has_native_script_title?(g, lang) }
+      pct      = released.positive? ? (named * 100.0 / released).round(1) : nil
+      acc[lang] = { 'total' => released, 'named' => named, 'native' => native, 'percent' => pct }
+    end
 
     # Description language coverage. For each tracked language we
     # count how many games on this platform have at least one
@@ -1345,17 +1360,13 @@ def main
     end
 
     progress = {
-      'jp_total'    => jp_total,
-      'jp_named'    => jp_named,
-      'jp_named_db' => jp_named_all,
-      'jp_percent'  => jp_percent,
-      'official'    => official,
-      'desc_total'  => desc_total,
+      'by_lang'      => by_lang,
+      'desc_total'   => desc_total,
       'desc_by_lang' => desc_by_lang
     }
 
     write_html(File.join(DIST, 'platforms', platform_id, 'index.html'),
-               render_platform_page(platform_id, name, games, progress, target))
+               render_platform_page(platform_id, name, games, progress, nil))
 
     pmeta = {
       'id'    => platform_id,

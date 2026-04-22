@@ -74,11 +74,7 @@ IGDB_PLATFORMS = {
   'pce' => [86],        # TurboGrafx-16 / PC Engine
   'n64' => [4],
   'nds' => [20],
-  'ps1' => [7],         # PlayStation
-  'vb'  => [87],        # Virtual Boy
-  'ngp' => [119, 120],  # Neo Geo Pocket + Neo Geo Pocket Color
-  'gg'  => [35],        # Sega Game Gear
-  'ms'  => [64]         # Sega Master System/Mark III
+  'ps1' => [7]          # PlayStation
 }.freeze
 
 # ---------------------------------------------------------------------------

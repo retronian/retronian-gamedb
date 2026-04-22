@@ -39,10 +39,9 @@ PLATFORM_MAP = {
   'md'  => 'md',
   'pce' => 'pce',
   'n64' => 'n64',
-  'nds' => 'nds',
-  'ngp' => 'ngp'
-  # romu also has ws.json and wsc.json but native-game-db does not
-  # currently build data for those platforms.
+  'nds' => 'nds'
+  # romu has ngp/ws/wsc as well but native-game-db only covers platforms
+  # with No-Intro DAT coverage + PlayStation.
 }.freeze
 
 def strip_no_intro_suffixes(name)

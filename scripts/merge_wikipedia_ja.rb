@@ -44,11 +44,7 @@ PLATFORM_PAGES = {
   'pce' => 'PCエンジンのゲームタイトル一覧',
   'n64' => 'NINTENDO64のゲームタイトル一覧',
   'nds' => 'ニンテンドーDSのゲームタイトル一覧',
-  'ps1' => 'PlayStationのゲームタイトル一覧',
-  'vb'  => 'バーチャルボーイ',
-  'ngp' => 'ネオジオポケットのゲームタイトル一覧',
-  'gg'  => 'ゲームギアのゲームタイトル一覧',
-  'ms'  => 'セガ・マークIIIのゲームタイトル一覧'
+  'ps1' => 'PlayStationのゲームタイトル一覧'
 }.freeze
 
 # Some platforms (nds, ps1) do not have a usable list page — the DB
@@ -64,11 +60,7 @@ PLATFORM_CATEGORIES = {
   'pce' => 'PCエンジン用ソフト',
   'n64' => 'NINTENDO64用ソフト',
   'nds' => 'ニンテンドーDS用ソフト',
-  'ps1' => 'PlayStation用ソフト',
-  'vb'  => 'バーチャルボーイ用ソフト',
-  'ngp' => 'ネオジオポケット用ソフト',
-  'gg'  => 'ゲームギア用ソフト',
-  'ms'  => 'セガ・マークIII用ソフト'
+  'ps1' => 'PlayStation用ソフト'
 }.freeze
 
 def fetch_category_members(category)

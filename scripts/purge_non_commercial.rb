@@ -43,8 +43,7 @@ def commercial?(game)
     return roms.any? { |r| !r['name'].to_s.match?(NON_RETAIL_RE) }
   end
 
-  # No ROM evidence (e.g. platforms without a No-Intro DAT like
-  # gg/ms/ngp/vb): fall back to title source. Wikipedia/Wikidata/romu
+  # No ROM evidence: fall back to title source. Wikipedia/Wikidata/romu
   # only catalogue commercial releases, so any title from those
   # sources counts.
   game['titles'].any? { |t| TRUSTED_TITLE_SOURCES.include?(t['source']) }

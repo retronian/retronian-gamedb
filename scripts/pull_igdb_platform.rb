@@ -51,11 +51,7 @@ IGDB_PLATFORMS = {
   'pce' => [86],
   'n64' => [4],
   'nds' => [20],
-  'ps1' => [7],
-  'vb'  => [87],
-  'ngp' => [119, 120],
-  'gg'  => [35],
-  'ms'  => [64]
+  'ps1' => [7]
 }.freeze
 
 REGION_DEFAULTS = {

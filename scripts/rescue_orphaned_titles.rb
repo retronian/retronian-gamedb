@@ -35,7 +35,7 @@ ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
 USER_AGENT = 'native-game-db/0.1 (https://gamedb.retronian.com)'
 
-PLATFORMS = %w[fc sfc gb gbc gba md pce n64 nds ps1 vb ngp gg ms].freeze
+PLATFORMS = %w[fc sfc gb gbc gba md pce n64 nds ps1].freeze
 
 SPARQL_BATCH = 200
 

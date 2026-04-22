@@ -46,11 +46,7 @@ REPOS = {
   'pce' => %w[NEC_-_PC_Engine_-_TurboGrafx_16 NEC_-_PC_Engine_CD_-_TurboGrafx-CD],
   'n64' => %w[Nintendo_-_Nintendo_64],
   'nds' => %w[Nintendo_-_Nintendo_DS],
-  'ps1' => %w[Sony_-_PlayStation],
-  'vb'  => %w[Nintendo_-_Virtual_Boy],
-  'ngp' => %w[SNK_-_Neo_Geo_Pocket SNK_-_Neo_Geo_Pocket_Color],
-  'gg'  => %w[Sega_-_Game_Gear],
-  'ms'  => %w[Sega_-_Master_System_-_Mark_III]
+  'ps1' => %w[Sony_-_PlayStation]
 }.freeze
 
 KIND_DIRS = {
@@ -158,8 +154,7 @@ def process_platform(platform_id, dry_run:)
     end
 
     # Fallback: if no rom-based matches, try English titles + common
-    # region suffixes. This is how vb/ngp/gg/ms (no no-intro-dat) get
-    # their covers.
+    # region suffixes.
     if !touched
       en_titles = game['titles'].select { |t| t['lang'] == 'en' && t['script'] == 'Latn' }
                                 .map    { |t| t['text'] }.uniq

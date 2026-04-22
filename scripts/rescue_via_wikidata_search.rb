@@ -31,7 +31,7 @@ ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
 USER_AGENT = 'native-game-db/0.1 (https://gamedb.retronian.com)'
 
-PLATFORMS = %w[fc sfc gb gbc gba md pce n64 nds ps1 vb ngp gg ms].freeze
+PLATFORMS = %w[fc sfc gb gbc gba md pce n64 nds ps1].freeze
 
 # native-game-db platform -> Wikidata QID(s) for the platform itself.
 PLATFORM_QIDS = {
@@ -44,11 +44,7 @@ PLATFORM_QIDS = {
   'pce' => %w[Q1057377],
   'n64' => %w[Q184839],
   'nds' => %w[Q170323],
-  'ps1' => %w[Q10677],
-  'vb'  => %w[Q164651],
-  'ngp' => %w[Q939881 Q1977455],
-  'gg'  => %w[Q751719],
-  'ms'  => %w[Q209868]
+  'ps1' => %w[Q10677]
 }.freeze
 
 # ---------- helpers ----------
