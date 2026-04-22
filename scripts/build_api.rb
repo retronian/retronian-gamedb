@@ -895,7 +895,12 @@ def render_platform_page(platform_id, name, games, progress = nil, _target = nil
     title    = display_title(g)
     en       = primary_title(g, 'en')
     date     = g['first_release_date']
-    boxart   = (g['media'] || []).find { |m| m['kind'] == 'boxart' }
+    # Prefer the boxart whose region matches the entry's first retail
+    # ROM region, so a JP-only game shows its JP box and a US-only game
+    # shows its US box — without hard-coding any regional preference.
+    boxarts  = (g['media'] || []).select { |m| m['kind'] == 'boxart' }
+    primary_region = (g['roms'] || []).first&.dig('region')
+    boxart   = boxarts.find { |m| m['region'] == primary_region } || boxarts.first
     extra    = []
 
     # Show every non-English native-language title with its script badge,
@@ -943,20 +948,42 @@ def render_media_section(game)
   media = game['media'] || []
   return '' if media.empty?
 
-  # Pick at most one thumbnail per kind to keep the page tidy.
-  picks = {}
-  media.each { |m| picks[m['kind']] ||= m }
+  # Group media by kind, show every regional variant inside each group
+  # (not just one). Order: boxart, boxart_back, titlescreen, screenshot, etc.
+  order = %w[boxart boxart_back titlescreen screenshot cartridge disc logo]
+  grouped = order.map { |k| [k, media.select { |m| m['kind'] == k }] }.to_h
+  extras = media.reject { |m| order.include?(m['kind']) }.group_by { |m| m['kind'] }
+  grouped.merge!(extras)
 
-  # Order: boxart, titlescreen, screenshot
-  order = %w[boxart titlescreen screenshot cartridge disc logo]
-  sorted = order.map { |k| picks[k] }.compact + picks.reject { |k, _| order.include?(k) }.values
+  sections = grouped.map do |kind, entries|
+    next nil if entries.empty?
+    kind_label = kind.to_s.tr('_', ' ')
 
-  figs = sorted.map { |m|
-    label = m['kind'].sub('_', ' ')
-    %(<figure><img src="#{h(m['url'])}" alt="#{h(label)}" loading="lazy"><figcaption>#{h(label)}</figcaption></figure>)
-  }.join
+    # Dedup identical URLs (same image referenced twice) and sort so
+    # regional variants are stable: jp, us, eu, others, then null.
+    seen = {}
+    deduped = entries.each_with_object([]) do |m, acc|
+      key = m['url']
+      next if seen[key]
+      seen[key] = true
+      acc << m
+    end
+    region_order = %w[jp us eu kr cn tw hk au br]
+    sorted = deduped.sort_by do |m|
+      r = m['region']
+      [region_order.index(r) || (r.nil? ? 99 : 50), r.to_s]
+    end
 
-  %(<h2>Media</h2><div class="media-grid">#{figs}</div>)
+    figs = sorted.map do |m|
+      region = m['region']
+      caption = region ? "#{kind_label} (#{region})" : kind_label
+      %(<figure><img src="#{h(m['url'])}" alt="#{h(caption)}" loading="lazy"><figcaption>#{h(caption)}</figcaption></figure>)
+    end.join
+
+    figs
+  end.compact.join
+
+  %(<h2>Media</h2><div class="media-grid">#{sections}</div>)
 end
 
 def render_rom_section(game)

@@ -156,6 +156,15 @@ def process_platform(platform_id, dry_run:)
     # Fallback: if no rom-based matches, try English titles + common
     # region suffixes.
     if !touched
+      suffix_to_region = {
+        ' (Japan)'               => 'jp',
+        ' (USA)'                 => 'us',
+        ' (Europe)'              => 'eu',
+        ' (USA, Europe)'         => 'us',
+        ' (Japan, USA)'          => 'jp',
+        ' (Japan, USA, Europe)'  => 'jp',
+        ' (World)'               => nil
+      }
       en_titles = game['titles'].select { |t| t['lang'] == 'en' && t['script'] == 'Latn' }
                                 .map    { |t| t['text'] }.uniq
       en_titles.each do |title|
@@ -166,6 +175,8 @@ def process_platform(platform_id, dry_run:)
             next unless hit
             url = url_for(hit[:repo], hit[:branch], hit[:repo_path])
             incoming = { 'kind' => kind, 'url' => url, 'source' => 'libretro_thumbnails' }
+            region = suffix_to_region[suffix]
+            incoming['region'] = region if region
             r = add_media_if_new(game['media'], incoming)
             touched = true if r == :added
             per[r] += 1
