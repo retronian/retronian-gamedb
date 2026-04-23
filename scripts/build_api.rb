@@ -1173,14 +1173,19 @@ def render_contribute_section(game)
 
   items = []
 
-  # Missing native-script titles per region the game shipped in.
+  # Missing native-script titles. Show every native language we track
+  # regardless of where the game shipped — it is common to contribute a
+  # Chinese / Korean fan transliteration of a JP-only title for
+  # searchability even when the game never had an official release in
+  # that region. The submitter sets verified=false in that case.
   NATIVE_LANGS.each do |lang, spec|
-    released = spec[:regions].any? { |r| released_in_region?(game, r) }
-    next unless released
     has_native = titles.any? { |t| t['lang'] == lang && spec[:scripts].include?(t['script']) }
     next if has_native
 
-    region = spec[:regions].find { |r| released_in_region?(game, r) }
+    # Primary region for the language is used as the form default —
+    # the contributor can change it if they're submitting an
+    # alt-region or unreleased-region title.
+    region = spec[:regions].first
     url = contribute_title_url(platform_id, id, lang, region)
     items << render_cta('🈂️', "Add a #{spec[:name]} (#{lang}) title", url)
   end
@@ -1194,18 +1199,10 @@ def render_contribute_section(game)
     items << render_cta('🖼', "Add #{region.upcase} boxart", url)
   end
 
-  # Missing descriptions. Always show English; show ja/ko/zh only when
-  # the game had a corresponding regional release, to keep the list
-  # focused.
+  # Missing descriptions in any of the tracked languages. Same reasoning
+  # as titles — always offer every language.
   DESC_LANG_ORDER.each do |lang|
     next if descriptions.any? { |d| d['lang'] == lang && !d['text'].to_s.strip.empty? }
-    case lang
-    when 'en'
-      # always offer
-    when 'ja', 'ko', 'zh'
-      spec = NATIVE_LANGS[lang]
-      next unless spec && spec[:regions].any? { |r| released_in_region?(game, r) }
-    end
     lang_label = LANG_LABEL[lang] || lang
     url = contribute_description_url(platform_id, id, lang)
     items << render_cta('📝', "Add #{lang_label} (#{lang}) description", url)
