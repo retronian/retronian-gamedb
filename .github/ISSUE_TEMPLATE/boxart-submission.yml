@@ -1,0 +1,116 @@
+name: Submit boxart / title screen / screenshot
+description: Contribute a cover or in-game image for a game entry.
+title: "[media] "
+labels: ["media"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks! This issue template covers any kind of image attached to
+        a game entry (box scan, title screen capture, cartridge photo).
+
+        **Before submitting**, check the game's entry on the site: if
+        the cover you're looking at is already there, there is nothing
+        to do.
+
+        **Licensing** — please only submit images you have the right to
+        redistribute under CC BY-SA 4.0: scans of your own boxes,
+        photos you took yourself, or images from CC / public-domain
+        sources (Wikimedia Commons, etc.). Do **not** submit images
+        lifted from MobyGames, IGDB, ScreenScraper, or publisher press
+        kits.
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - fc  (Famicom / NES)
+        - sfc (Super Famicom / SNES)
+        - gb  (Game Boy)
+        - gbc (Game Boy Color)
+        - gba (Game Boy Advance)
+        - md  (Mega Drive / Genesis)
+        - pce (PC Engine / TurboGrafx-16)
+        - n64 (Nintendo 64)
+        - nds (Nintendo DS)
+        - ps1 (PlayStation)
+    validations:
+      required: true
+
+  - type: input
+    id: game_id
+    attributes:
+      label: Game id (slug)
+      description: The `id` field of the existing entry, visible in the URL on the site.
+      placeholder: tv-champion
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Image kind
+      options:
+        - boxart
+        - boxart_back
+        - titlescreen
+        - screenshot
+        - cartridge
+        - disc
+        - logo
+    validations:
+      required: true
+
+  - type: dropdown
+    id: region
+    attributes:
+      label: Region
+      description: Which market is this image from? The region printed on the box.
+      options:
+        - jp
+        - us
+        - eu
+        - kr
+        - cn
+        - tw
+        - hk
+        - au
+        - br
+    validations:
+      required: true
+
+  - type: textarea
+    id: image
+    attributes:
+      label: Image
+      description: |
+        Drag the file into this box to attach it, or paste a URL that
+        will stay online (Wikimedia Commons, Internet Archive). Images
+        under 10 MB are fine.
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source and licence
+      description: |
+        Where is this image from? Required so we can redistribute it.
+        - "Scan of my own physical copy" — fine.
+        - "Photo I took of my cart" — fine.
+        - "Wikimedia Commons: <URL>" — fine, paste the Commons page URL.
+        - "Found on the web" — **not** fine, we need licensing info.
+      placeholder: Scan of my own physical copy, bought 2012.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I confirm the image may be redistributed under CC BY-SA 4.0.
+          required: true
+        - label: I did not copy the image from MobyGames / IGDB / ScreenScraper or a publisher press kit.
+          required: true

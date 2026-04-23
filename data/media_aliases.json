@@ -1,0 +1,11 @@
+{
+  "_meta": {
+    "description": "Manual mappings from native-game-db entry IDs to thumbnail filenames in external repos, used when the automatic slug matcher can't find them.",
+    "format": "By source repo: { source_repo_key: { platform: { game_id: 'filename (without extension)' } } }"
+  },
+  "libretro_thumbnails": {
+    "gb": {
+      "seisenshi-saint-paradise-saikyou-no-senshitachi": "Saint Paradise - Saikyou no Senshi-tachi (Japan)"
+    }
+  }
+}
