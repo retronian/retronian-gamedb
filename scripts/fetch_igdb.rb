@@ -61,7 +61,7 @@ REGION_DEFAULTS = {
   'EU'    => { lang: 'en', region: 'eu' }
 }.freeze
 
-# Map native-game-db platform id -> IGDB platform id(s).
+# Map retronian-gamedb platform id -> IGDB platform id(s).
 # Several platforms have both a regional (JP) and a western (US/EU) IGDB
 # entry; we include both so search results match either edition.
 IGDB_PLATFORMS = {

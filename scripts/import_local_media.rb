@@ -29,7 +29,7 @@
 #
 # The image is served as a plain static asset via GitHub Pages; the
 # URL written into media[] points at:
-#   https://raw.githubusercontent.com/retronian/native-game-db/main/media/{kind}/{platform}/{filename}
+#   https://raw.githubusercontent.com/retronian/retronian-gamedb/main/media/{kind}/{platform}/{filename}
 #
 # Usage:
 #   ruby scripts/import_local_media.rb
@@ -47,7 +47,7 @@ MEDIA_DIR = File.join(ROOT, 'media')
 # Must match the raw base URL the repo is served from. GitHub Pages
 # serves dist/ at https://gamedb.retronian.com/, but media/ lives in
 # the repo root (not in dist/), so we link to raw.githubusercontent.
-RAW_BASE = 'https://raw.githubusercontent.com/retronian/native-game-db/main/media'
+RAW_BASE = 'https://raw.githubusercontent.com/retronian/retronian-gamedb/main/media'
 
 VALID_KINDS = %w[boxart boxart_back titlescreen screenshot cartridge disc logo].freeze
 VALID_PLATFORMS = %w[fc sfc gb gbc gba md pce n64 nds ps1].freeze

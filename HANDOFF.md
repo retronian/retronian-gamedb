@@ -1,7 +1,7 @@
-# native-game-db — AI handoff document
+# retronian-gamedb — AI handoff document
 
 This document brings another AI assistant (or a new collaborator) up to
-speed on the state of `retronian/native-game-db`. It covers the goal,
+speed on the state of `retronian/retronian-gamedb`. It covers the goal,
 the architecture, the scripts, the current data, the outstanding work,
 and every environment-specific dependency you need to know about.
 
@@ -25,8 +25,8 @@ from "kanji mixed in" even when you ask for Japanese.
 
 ### Live
 
-- Repo: https://github.com/retronian/native-game-db
-- Current Pages URL: https://retronian.github.io/native-game-db/
+- Repo: https://github.com/retronian/retronian-gamedb
+- Current Pages URL: https://retronian.github.io/retronian-gamedb/
 - Custom domain being set up: **`gamedb.retronian.com`**
   - `dist/CNAME` already contains this value and GitHub Pages already
     knows about it.
@@ -77,7 +77,7 @@ Additional layers on top of the base `titles[]`:
 ## 4. Repository layout
 
 ```
-native-game-db/
+retronian-gamedb/
 ├── AGENTS.md              project notes (Japanese)
 ├── HANDOFF.md             this file
 ├── README.md              user-facing English README
@@ -219,7 +219,7 @@ Valid `script` values: `Jpan Hira Kana Hans Hant Hang Kore Latn Cyrl Arab Hebr T
 
 ### Covers
 - `scripts/fetch_covers.rb [--platform X] [--dry-run]`
-  For each native-game-db platform it calls
+  For each retronian-gamedb platform it calls
   `gh api repos/libretro-thumbnails/<repo>/git/trees/master?recursive=1`
   (falls back to `main`) and indexes every PNG under
   `Named_Boxarts/`, `Named_Snaps/`, `Named_Titles/`. It then walks the
@@ -316,7 +316,7 @@ Pure rebuild of the site (no data changes) is just step 7.
   in Cloudflare (that's where `retronian.com` is managed). GitHub Pages
   already has `gamedb.retronian.com` configured as the custom domain and
   the repo has `dist/CNAME` baked in. Until the CNAME record exists the
-  only working URL is https://retronian.github.io/native-game-db/.
+  only working URL is https://retronian.github.io/retronian-gamedb/.
   Attempted automation was blocked because Cloudflare credentials are
   in 1Password (`op` not signed in) and no API token was available in
   the shell environment. The owner offered to provide a
@@ -425,4 +425,4 @@ Once the CNAME resolves:
 - https://gamedb.retronian.com/docs/schema.html
 - https://gamedb.retronian.com/docs/contributing.html
 
-Until then the same paths work at `https://retronian.github.io/native-game-db/`.
+Until then the same paths work at `https://retronian.github.io/retronian-gamedb/`.

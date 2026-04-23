@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://retronian.github.io/native-game-db/schema/game.schema.json",
-  "title": "Native Game DB - Game Entry",
+  "$id": "https://retronian.github.io/retronian-gamedb/schema/game.schema.json",
+  "title": "Retronian GameDB - Game Entry",
   "description": "レトロゲームのネイティブスクリプト対応メタデータ（Game層）",
   "type": "object",
   "required": ["id", "platform", "titles"],
@@ -49,7 +49,7 @@
           },
           "script": {
             "type": "string",
-            "description": "ISO 15924 スクリプトコード。native-game-db の独自価値の核",
+            "description": "ISO 15924 スクリプトコード。retronian-gamedb の独自価値の核",
             "enum": [
               "Jpan",
               "Hira",

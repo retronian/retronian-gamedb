@@ -9,7 +9,7 @@
 #
 # Those entries are human-edited and the desc_ja fields are a rich
 # source of Japanese prose that Wikidata/IGDB simply do not have. We
-# merge them into the matching native-game-db entry by slug.
+# merge them into the matching retronian-gamedb entry by slug.
 #
 # Usage:
 #   ruby scripts/merge_romu.rb                        # all platforms
@@ -29,7 +29,7 @@ ROOT        = File.expand_path('..', __dir__)
 SRC         = File.join(ROOT, 'data', 'games')
 ROMU_GAMEDB = '/home/komagata/Works/retronian/romu/internal/gamedb/data'
 
-# romu platform id -> native-game-db platform id
+# romu platform id -> retronian-gamedb platform id
 PLATFORM_MAP = {
   'fc'  => 'fc',
   'sfc' => 'sfc',
@@ -40,7 +40,7 @@ PLATFORM_MAP = {
   'pce' => 'pce',
   'n64' => 'n64',
   'nds' => 'nds'
-  # romu has ngp/ws/wsc as well but native-game-db only covers platforms
+  # romu has ngp/ws/wsc as well but retronian-gamedb only covers platforms
   # with No-Intro DAT coverage + PlayStation.
 }.freeze
 
@@ -73,7 +73,7 @@ def load_romu(platform_id)
   JSON.parse(File.read(path))
 end
 
-# Build an index { slug => entry } for native-game-db on a platform.
+# Build an index { slug => entry } for retronian-gamedb on a platform.
 # A single entry may be reachable via multiple slugs (its own id + the
 # slug of every Latin title it holds), so we can match romu keys that
 # use spellings like "Double Dragon II - The Revenge" vs the db id.

@@ -2,7 +2,7 @@
 # frozen_string_literal: true
 
 # Fetch retro game metadata for a given platform from Wikidata SPARQL
-# and emit native-game-db schema-compliant JSON files into
+# and emit retronian-gamedb schema-compliant JSON files into
 # data/games/{platform}/.
 #
 # Usage:
@@ -18,7 +18,7 @@ require_relative 'lib/script_detector'
 
 WIKIDATA_ENDPOINT = 'https://query.wikidata.org/sparql'
 ROOT       = File.expand_path('..', __dir__)
-USER_AGENT = 'native-game-db/0.1 (https://github.com/retronian/native-game-db)'
+USER_AGENT = 'retronian-gamedb/0.1 (https://github.com/retronian/retronian-gamedb)'
 
 # Platform identifier -> Wikidata platform QIDs (one or more).
 # Platforms that have multiple distinct Wikidata entities (e.g. the

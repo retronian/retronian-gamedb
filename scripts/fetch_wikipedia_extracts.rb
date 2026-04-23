@@ -28,7 +28,7 @@ $stdout.sync = true
 
 ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
-USER_AGENT = 'native-game-db/0.1 (https://gamedb.retronian.com)'
+USER_AGENT = 'retronian-gamedb/0.1 (https://gamedb.retronian.com)'
 
 PLATFORMS = %w[fc sfc gb gbc gba md pce n64 nds ps1].freeze
 

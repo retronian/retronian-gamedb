@@ -6,7 +6,7 @@
 # samples, demos, hacks, aftermarket releases, homebrew — gets
 # deleted.
 #
-# This is the policy decision: native-game-db tracks commercially
+# This is the policy decision: retronian-gamedb tracks commercially
 # released titles. IGDB-derived orphan entries (no roms[] at all) are
 # also removed because we have no evidence that they were ever sold.
 #

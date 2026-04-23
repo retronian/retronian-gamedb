@@ -1,4 +1,4 @@
-# Native Game DB - Project Context
+# Retronian GameDB - Project Context
 
 A retro game database focusing on **native scripts** (Japanese, Korean, Chinese, etc.) with first-class support for ISO 15924 script tags. It provides a structured, multi-language API and static HTML views.
 

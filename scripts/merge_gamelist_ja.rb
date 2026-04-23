@@ -9,7 +9,7 @@
 #   by_filename - the canonical No-Intro filename -> { ja, en, source }
 #   by_en_title - the normalized English title -> { ja, en, source }
 #
-# We use by_filename and by_en_title to match against native-game-db
+# We use by_filename and by_en_title to match against retronian-gamedb
 # entries by slug. The data quality varies by source (pigsaint > deepl)
 # but every entry has a Japanese title we can record.
 #
@@ -30,7 +30,7 @@ ROOT       = File.expand_path('..', __dir__)
 SRC        = File.join(ROOT, 'data', 'games')
 TITLE_DB   = '/home/komagata/Works/komagata/gamelist-ja/db/title_db'
 
-# gamelist-ja platform stem -> native-game-db platform id
+# gamelist-ja platform stem -> retronian-gamedb platform id
 PLATFORM_MAP = {
   'nes'       => 'fc',
   'snes'      => 'sfc',
@@ -69,7 +69,7 @@ def add_title_if_new(titles, incoming)
 end
 
 # Walk the title_db indices and produce a stream of {text => entry} pairs
-# we can try to merge against native-game-db using slug aliases.
+# we can try to merge against retronian-gamedb using slug aliases.
 def collect_candidates(title_db)
   candidates = {}
 

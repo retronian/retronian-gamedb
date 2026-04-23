@@ -29,11 +29,11 @@ $stdout.sync = true
 
 ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
-USER_AGENT = 'native-game-db/0.1 (https://gamedb.retronian.com)'
+USER_AGENT = 'retronian-gamedb/0.1 (https://gamedb.retronian.com)'
 
 PLATFORMS = %w[fc sfc gb gbc gba md pce n64 nds ps1].freeze
 
-# native-game-db platform -> Wikidata QID(s) for the platform itself.
+# retronian-gamedb platform -> Wikidata QID(s) for the platform itself.
 PLATFORM_QIDS = {
   'fc'  => %w[Q172742],
   'sfc' => %w[Q183259],

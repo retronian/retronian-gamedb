@@ -42,7 +42,7 @@ ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
 ALIAS_FILE = File.join(ROOT, 'data', 'media_aliases.json')
 LIBRETRO_RAW = 'https://raw.githubusercontent.com/libretro-thumbnails'
-TREE_CACHE = File.join(Dir.tmpdir, 'native-game-db-lrt')
+TREE_CACHE = File.join(Dir.tmpdir, 'retronian-gamedb-lrt')
 
 FileUtils.mkdir_p(TREE_CACHE)
 

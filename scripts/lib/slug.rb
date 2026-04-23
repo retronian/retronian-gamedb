@@ -2,11 +2,11 @@
 
 # Shared slug helpers used by all merge/fetch scripts.
 #
-# `slugify` gives the canonical slug that native-game-db files use on
+# `slugify` gives the canonical slug that retronian-gamedb files use on
 # disk: lowercase ASCII, hyphen-separated, Latin letters and digits only.
 #
 # `aliases_for` returns a list of variants to try when matching external
-# data against native-game-db slugs. It expands common differences such
+# data against retronian-gamedb slugs. It expands common differences such
 # as Roman ↔ Arabic numerals ("ii" ↔ "2") and "and" ↔ "&" so that
 # "double-dragon-ii-the-revenge" and "double-dragon-2-the-revenge"
 # collide.

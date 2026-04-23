@@ -27,7 +27,7 @@ ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
 CSV_DIR = '/home/komagata/Works/komagata/skyscraper-ja/csv'
 
-# CSV file stem -> native-game-db platform id
+# CSV file stem -> retronian-gamedb platform id
 PLATFORM_MAP = {
   'nes'       => 'fc',
   'snes'      => 'sfc',

@@ -1,13 +1,13 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Paginate through every game IGDB has for a given native-game-db
+# Paginate through every game IGDB has for a given retronian-gamedb
 # platform and create any that are still missing.
 #
 # This is the complement to fetch_igdb.rb --search:
 #   - fetch_igdb.rb --search resolves an igdb id for existing entries.
 #   - pull_igdb_platform.rb grabs every game IGDB has on the platform
-#     and creates a new native-game-db entry when there is no match.
+#     and creates a new retronian-gamedb entry when there is no match.
 #
 # New entries are built from whatever IGDB returns:
 #   - titles[] gets `name` (en) plus every game_localization (ja/ko/...)

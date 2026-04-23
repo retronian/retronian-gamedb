@@ -12,11 +12,11 @@
 # After running, review `git status`, commit, and push (or open a PR).
 # The issue can then be closed with "Applied in <commit>".
 #
-# Requires: `gh` CLI authenticated against retronian/native-game-db.
+# Requires: `gh` CLI authenticated against retronian/retronian-gamedb.
 #
 # Usage:
 #   ruby scripts/ingest_issue.rb 42
-#   ruby scripts/ingest_issue.rb https://github.com/retronian/native-game-db/issues/42
+#   ruby scripts/ingest_issue.rb https://github.com/retronian/retronian-gamedb/issues/42
 #   ruby scripts/ingest_issue.rb 42 --dry-run
 
 require 'json'
@@ -31,7 +31,7 @@ $stdout.sync = true
 ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
 MEDIA_DIR = File.join(ROOT, 'media')
-REPO = 'retronian/native-game-db'
+REPO = 'retronian/retronian-gamedb'
 
 def parse_issue_number(arg)
   if arg =~ /\/issues\/(\d+)/

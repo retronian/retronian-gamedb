@@ -12,7 +12,7 @@
 # Every repo has Named_Boxarts/, Named_Snaps/ and Named_Titles/
 # directories, each holding PNGs whose filename is the No-Intro ROM
 # name plus ".png". We fetch the full tree per repo once, then walk
-# each native-game-db entry and stitch up media[] URLs for every
+# each retronian-gamedb entry and stitch up media[] URLs for every
 # rom[i].name that has a matching thumbnail.
 #
 # Usage:
@@ -33,7 +33,7 @@ ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
 LIBRETRO = 'https://raw.githubusercontent.com/libretro-thumbnails'
 
-# Map native-game-db platform id -> libretro-thumbnails repo(s).
+# Map retronian-gamedb platform id -> libretro-thumbnails repo(s).
 # Most platforms are a single repo; ngp has two variants (Neo Geo
 # Pocket and Neo Geo Pocket Color) so we take both.
 REPOS = {
@@ -123,7 +123,7 @@ def process_platform(platform_id, dry_run:)
     end
   end
 
-  # Walk native-game-db games on this platform.
+  # Walk retronian-gamedb games on this platform.
   dir = File.join(SRC, platform_id)
   return nil unless Dir.exist?(dir)
 

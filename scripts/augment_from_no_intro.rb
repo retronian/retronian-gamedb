@@ -1,17 +1,17 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Promote unmatched No-Intro DAT entries into new native-game-db games.
+# Promote unmatched No-Intro DAT entries into new retronian-gamedb games.
 #
 # merge_no_intro.rb only appends roms[] to *existing* games. This script
 # is the complement: it walks the same DAT file, groups entries whose
 # No-Intro name collapses to the same base title (with " (Japan)",
 # " (Rev A)", etc stripped), and for any base title that has no match
-# in native-game-db it creates a brand new game JSON file.
+# in retronian-gamedb it creates a brand new game JSON file.
 #
 # The new entry starts with:
 #   - id   = slug of the base title
-#   - platform = the given native-game-db platform id
+#   - platform = the given retronian-gamedb platform id
 #   - titles[] = one "source: no_intro" entry per distinct region we saw
 #   - roms[]   = every <rom> node from the DAT for that base title
 #

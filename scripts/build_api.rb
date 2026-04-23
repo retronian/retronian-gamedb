@@ -159,7 +159,7 @@ def layout(title:, body:, root_rel: '')
     <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>#{h(title)} &middot; Native Game DB</title>
+      <title>#{h(title)} &middot; Retronian GameDB</title>
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&family=Noto+Sans+JP:wght@400;700&display=swap">
@@ -172,14 +172,14 @@ def layout(title:, body:, root_rel: '')
           <a href="#{root_rel}">BROWSE</a>
           <a href="#{root_rel}docs/schema.html">SCHEMA</a>
           <a href="#{root_rel}docs/contributing.html">CONTRIB</a>
-          <a href="https://github.com/retronian/native-game-db">GITHUB</a>
+          <a href="https://github.com/retronian/retronian-gamedb">GITHUB</a>
         </nav>
       </header>
       <main>
         #{body}
       </main>
       <footer class="site-footer">
-        <p>&gt;&gt; <a href="https://github.com/retronian/native-game-db">retronian/native-game-db</a> &nbsp; * &nbsp; CC&nbsp;BY-SA&nbsp;4.0 / MIT &nbsp; * &nbsp; PRESS START &lt;&lt;</p>
+        <p>&gt;&gt; <a href="https://github.com/retronian/retronian-gamedb">retronian/retronian-gamedb</a> &nbsp; * &nbsp; CC&nbsp;BY-SA&nbsp;4.0 / MIT &nbsp; * &nbsp; PRESS START &lt;&lt;</p>
       </footer>
     </body>
     </html>
@@ -188,7 +188,7 @@ end
 
 CSS = <<~CSS
   /* ================================================================
-   * Native Game DB — Cathode Ray Cartridge
+   * Retronian GameDB — Cathode Ray Cartridge
    *
    * 80s/90s arcade + CRT terminal vibe. Black phosphor background,
    * green readout, magenta + amber accents, scanline overlay,
@@ -879,7 +879,7 @@ def render_landing(stats, platforms_meta)
                end
 
   body = <<~HTML
-    <h1>Native Game DB</h1>
+    <h1>Retronian GameDB</h1>
     <p class="lead">A retro game database with first-class support for native scripts &mdash; the original written form of game titles in every non-Latin writing system.</p>
     <p><strong>#{stats['total_games']} games</strong> across #{stats['platforms'].size} platforms.</p>
     <h2>Coverage by language</h2>
@@ -911,7 +911,7 @@ def render_landing(stats, platforms_meta)
     <p>Most entries are auto-imported from Wikidata and need human verification. See the <a href="docs/contributing.html">contributing guide</a>.</p>
   HTML
 
-  layout(title: 'Native Game DB', body: body, root_rel: '')
+  layout(title: 'Retronian GameDB', body: body, root_rel: '')
 end
 
 def render_progress_bar(named, total, pct, size: :lg, lang_label: nil)
@@ -1154,7 +1154,7 @@ def render_description_tabs(game)
   HTML
 end
 
-REPO_BASE_URL = 'https://github.com/retronian/native-game-db'
+REPO_BASE_URL = 'https://github.com/retronian/retronian-gamedb'
 
 # Per-language missing-data call-to-action. Lists every concrete hole we
 # can identify for this game (missing JP/KR/CN boxart, missing native
@@ -1354,7 +1354,7 @@ end
 def render_contributing
   body = <<~HTML
     <h1>Contributing data</h1>
-    <p class="lead">Native Game DB lives in a public GitHub repository. All data lands as JSON files under <code>data/games/{platform}/</code>, one game per file. Anyone with a GitHub account can propose changes via pull request or issue.</p>
+    <p class="lead">Retronian GameDB lives in a public GitHub repository. All data lands as JSON files under <code>data/games/{platform}/</code>, one game per file. Anyone with a GitHub account can propose changes via pull request or issue.</p>
 
     <h2>The fast path: open an issue</h2>
     <p>If you just want to add or correct one game, the easiest path is to open a GitHub issue. We will eventually provide a structured issue template (Phase 4 in the roadmap), but for now a free-form issue with the following information is enough:</p>
@@ -1364,11 +1364,11 @@ def render_contributing
       <li>The native-script title(s) you want to add or correct, with their language and script (see the <a href="schema.html">schema spec</a>)</li>
       <li>The source of the information (your own physical copy, a screenshot of the in-game title screen, an authoritative reference, etc.)</li>
     </ul>
-    <p><a href="https://github.com/retronian/native-game-db/issues/new">Open a new issue</a></p>
+    <p><a href="https://github.com/retronian/retronian-gamedb/issues/new">Open a new issue</a></p>
 
     <h2>The thorough path: open a pull request</h2>
     <ol>
-      <li>Fork <a href="https://github.com/retronian/native-game-db">retronian/native-game-db</a> on GitHub.</li>
+      <li>Fork <a href="https://github.com/retronian/retronian-gamedb">retronian/retronian-gamedb</a> on GitHub.</li>
       <li>For a new game, create a new file at <code>data/games/{platform}/{slug}.json</code>. The slug must match the file name and must be lowercase ASCII with hyphens.</li>
       <li>Make sure the file conforms to <a href="schema.html"><code>schema/game.schema.json</code></a>.</li>
       <li>Open a pull request describing the source of the data and whether you have verified it against a primary source (title screen, original packaging).</li>
@@ -1401,7 +1401,7 @@ end
 def render_schema_doc
   body = <<~HTML
     <h1>Schema specification</h1>
-    <p class="lead">If you want to write a scraper that emits Native Game DB-compatible JSON, this page is the contract. The authoritative machine-readable definition lives at <a href="https://github.com/retronian/native-game-db/blob/main/schema/game.schema.json"><code>schema/game.schema.json</code></a> (JSON Schema Draft 2020-12).</p>
+    <p class="lead">If you want to write a scraper that emits Retronian GameDB-compatible JSON, this page is the contract. The authoritative machine-readable definition lives at <a href="https://github.com/retronian/retronian-gamedb/blob/main/schema/game.schema.json"><code>schema/game.schema.json</code></a> (JSON Schema Draft 2020-12).</p>
 
     <h2>File layout</h2>
     <p>One JSON file per game, stored at:</p>
@@ -1441,7 +1441,7 @@ def render_schema_doc
     </table>
 
     <h2>The <code>script</code> field (ISO 15924)</h2>
-    <p>This is what makes Native Game DB different from every other game DB. The language tag <code>ja</code> alone cannot tell katakana-only titles apart from kanji-mixed titles, but in retro game metadata that distinction often matters. The valid values are:</p>
+    <p>This is what makes Retronian GameDB different from every other game DB. The language tag <code>ja</code> alone cannot tell katakana-only titles apart from kanji-mixed titles, but in retro game metadata that distinction often matters. The valid values are:</p>
     <table>
       <thead><tr><th>Code</th><th>Meaning</th><th>Example</th></tr></thead>
       <tbody>
@@ -1528,7 +1528,7 @@ end
 # Main
 
 def main
-  puts '=== native-game-db build ==='
+  puts '=== retronian-gamedb build ==='
   puts
 
   FileUtils.rm_rf(DIST)

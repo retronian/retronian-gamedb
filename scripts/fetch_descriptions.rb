@@ -36,7 +36,7 @@ TOKEN_CACHE = File.join(ROOT, '.igdb_token.json')
 
 IGDB_BASE  = 'https://api.igdb.com/v4'
 TWITCH_URL = 'https://id.twitch.tv/oauth2/token'
-USER_AGENT = 'native-game-db/0.1 (https://gamedb.retronian.com)'
+USER_AGENT = 'retronian-gamedb/0.1 (https://gamedb.retronian.com)'
 RATE_SLEEP = 0.34
 BATCH      = 500
 WD_BATCH   = 100

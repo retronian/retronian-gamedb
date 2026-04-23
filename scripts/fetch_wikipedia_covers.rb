@@ -30,7 +30,7 @@ $stdout.sync = true
 
 ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
-USER_AGENT = 'native-game-db/0.1 (https://gamedb.retronian.com)'
+USER_AGENT = 'retronian-gamedb/0.1 (https://gamedb.retronian.com)'
 NON_RETAIL_ROM_RE = /\((?:Proto|Possible Proto|Beta|Unl|Pirate|Sample|Demo|Hack|Aftermarket|Homebrew)(?:\s+\d+)?\)/i.freeze
 
 # Reject lead images that are clearly not box art: screenshots, title

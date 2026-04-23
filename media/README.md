@@ -40,7 +40,7 @@ media/cartridge/n64/super-mario-64.jpg
    -> filename starts with `tv-champion`.
 3. Run `ruby scripts/import_local_media.rb` to link it. The script
    appends a `media[]` entry whose URL is:
-   `https://raw.githubusercontent.com/retronian/native-game-db/main/media/{kind}/{platform}/{filename}`
+   `https://raw.githubusercontent.com/retronian/retronian-gamedb/main/media/{kind}/{platform}/{filename}`
 4. Commit both the image file and the updated `data/games/.../*.json`.
 
 ## Licensing

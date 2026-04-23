@@ -1,4 +1,4 @@
-# Native Game DB
+# Retronian GameDB
 
 A retro game database with first-class support for **native scripts** — the original written form of game titles in Japanese (hiragana, katakana, kanji), Korean (hangul), Chinese (hanzi), and other non-Latin writing systems.
 
@@ -6,7 +6,7 @@ A retro game database with first-class support for **native scripts** — the or
 
 Major retro game databases (ScreenScraper.fr, TheGamesDB, IGDB, MobyGames, etc.) all suffer from a structural problem: even when you set the region to Japan, they return romanized titles. Native script data is either missing or scattered across unstructured fields you cannot reliably query.
 
-Native Game DB provides:
+Retronian GameDB provides:
 
 - **Structured multi-language, multi-script title metadata**
 - **Distinction between hiragana / katakana / kanji-mixed Japanese** (via ISO 15924)
@@ -88,7 +88,7 @@ The schema borrows the strongest ideas from existing game DBs and avoids their f
 - **IGDB-style**: release dates are independent rows per `(region × platform)`
 - **Anti-pattern from MobyGames**: no free-text disambiguation labels — use structured enums
 - **Anti-pattern from TheGamesDB**: no bare arrays of strings without language metadata
-- **Native Game DB original**: the `script` column (ISO 15924)
+- **Retronian GameDB original**: the `script` column (ISO 15924)
 
 ## Roadmap
 
@@ -106,7 +106,7 @@ The schema borrows the strongest ideas from existing game DBs and avoids their f
 
 ## Scope
 
-Native Game DB indexes **commercially released** retro games. Prototypes,
+Retronian GameDB indexes **commercially released** retro games. Prototypes,
 betas, unlicensed dumps, pirate carts, samples, demos, hacks, aftermarket
 releases and homebrew are intentionally excluded. The decision is policed
 by the No-Intro region and revision tags in `roms[]`: an entry only stays

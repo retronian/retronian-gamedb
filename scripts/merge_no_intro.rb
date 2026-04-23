@@ -1,12 +1,12 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Pull No-Intro DAT files into native-game-db's roms[] layer.
+# Pull No-Intro DAT files into retronian-gamedb's roms[] layer.
 #
 # Each DAT file contains hundreds to thousands of <game> entries with
 # ROM hashes (CRC32/MD5/SHA1/SHA256), file sizes, cartridge serials and
 # the canonical No-Intro name. We parse those, match each game back to
-# a native-game-db entry by slug, and append a roms[] entry with all
+# a retronian-gamedb entry by slug, and append a roms[] entry with all
 # the hash data we have. If the match already carries a rom with the
 # same name we skip it.
 #

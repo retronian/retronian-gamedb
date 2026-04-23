@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 # 文字列から ISO 15924 スクリプトコードを判定する。
-# native-game-db の独自価値の核。
+# retronian-gamedb の独自価値の核。
 #
 # 返り値の ISO 15924 コード:
 #   Jpan - 日本語（漢字を含む混在）

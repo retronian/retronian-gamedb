@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "description": "Manual mappings from native-game-db entry IDs to thumbnail filenames in external repos, used when the automatic slug matcher can't find them.",
+    "description": "Manual mappings from retronian-gamedb entry IDs to thumbnail filenames in external repos, used when the automatic slug matcher can't find them.",
     "format": "By source repo: { source_repo_key: { platform: { game_id: 'filename (without extension)' } } }"
   },
   "libretro_thumbnails": {

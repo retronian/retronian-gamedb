@@ -2,7 +2,7 @@
 # frozen_string_literal: true
 
 # Extract Japanese titles from a Wikipedia JP platform list and merge
-# them into native-game-db.
+# them into retronian-gamedb.
 #
 # The flow:
 #   1. Fetch the wikitext of the platform list page via MediaWiki API.
@@ -11,7 +11,7 @@
 #   3. Resolve each ja.wikipedia article to its Wikidata item and
 #      pick up the en label via one big SPARQL VALUES query.
 #   4. For each (ja_title, en_label) pair, look the entry up in the
-#      native-game-db index by English-title slug and append a
+#      retronian-gamedb index by English-title slug and append a
 #      Japanese title (source: wikipedia_ja, verified: true).
 #
 # Usage:
@@ -32,7 +32,7 @@ $stdout.sync = true
 
 ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
-USER_AGENT = 'native-game-db/0.1 (https://gamedb.retronian.com)'
+USER_AGENT = 'retronian-gamedb/0.1 (https://gamedb.retronian.com)'
 
 PLATFORM_PAGES = {
   'fc'  => 'ファミリーコンピュータのゲームタイトル一覧',
