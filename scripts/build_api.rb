@@ -23,6 +23,7 @@ require 'json'
 require 'fileutils'
 require 'time'
 require 'cgi'
+require 'uri'
 
 ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
@@ -561,6 +562,56 @@ CSS = <<~CSS
   }
   .target-note::before { content: "// "; color: var(--accent2); }
 
+  /* ----- contribute call-to-action ----- */
+
+  .contribute {
+    background: rgba(255, 51, 102, 0.06);
+    border: 1px dashed var(--accent2);
+    border-left: 4px solid var(--accent2);
+    padding: 1rem 1.1rem;
+    margin: 1.2rem 0 1.5rem;
+  }
+  .contribute h2 {
+    font-size: 0.9rem;
+    margin: 0 0 0.5rem;
+    color: var(--accent2);
+    letter-spacing: 0.05em;
+  }
+  .contribute-note {
+    font-size: 0.85rem;
+    color: var(--fg-dim);
+    margin: 0 0 0.8rem;
+    line-height: 1.5;
+  }
+  .contribute-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+  .contribute-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.45rem 0.8rem;
+    background: var(--bg);
+    border: 1px solid var(--accent2);
+    border-radius: 4px;
+    color: var(--fg);
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: all 0.15s;
+  }
+  .contribute-cta:hover {
+    background: var(--accent2);
+    color: var(--bg);
+    transform: translateX(2px);
+  }
+  .contribute-cta .icon { font-size: 1.1rem; }
+  .contribute-cta strong { letter-spacing: 0.02em; }
+
   /* ----- game list ----- */
 
   .game-list {
@@ -1077,6 +1128,100 @@ def render_description_tabs(game)
   HTML
 end
 
+REPO_BASE_URL = 'https://github.com/retronian/native-game-db'
+
+# Per-language missing-data call-to-action. Lists every concrete hole we
+# can identify for this game (missing JP/KR/CN boxart, missing native
+# title in a regional language) and attaches a one-click link to a
+# pre-filled GitHub issue form.
+def render_contribute_section(game)
+  platform_id = game['platform']
+  id = game['id']
+
+  roms = game['roms'] || []
+  media = game['media'] || []
+  titles = game['titles'] || []
+
+  items = []
+
+  # Missing native-script titles per region the game shipped in.
+  NATIVE_LANGS.each do |lang, spec|
+    released = spec[:regions].any? { |r| released_in_region?(game, r) }
+    next unless released
+    has_native = titles.any? { |t| t['lang'] == lang && spec[:scripts].include?(t['script']) }
+    next if has_native
+
+    # Use the primary region for this language (first match)
+    region = spec[:regions].find { |r| released_in_region?(game, r) }
+    url = contribute_title_url(platform_id, id, lang, region)
+    items << <<~LI
+      <li>
+        <a class="contribute-cta" href="#{url}">
+          <span class="icon">🈂️</span>
+          <strong lang="#{lang}">#{spec[:name]} (#{lang})</strong>
+          ネイティブ表記を追加 / Add native-script title
+        </a>
+      </li>
+    LI
+  end
+
+  # Missing boxart per region the game shipped in.
+  shipped_regions = roms.select { |r| r['name'].to_s !~ NON_RETAIL_ROM_RE }
+                        .map { |r| r['region'] }.compact.uniq
+  shipped_regions.each do |region|
+    next if media.any? { |m| m['kind'] == 'boxart' && m['region'] == region }
+    url = contribute_media_url(platform_id, id, 'boxart', region)
+    items << <<~LI
+      <li>
+        <a class="contribute-cta" href="#{url}">
+          <span class="icon">🖼</span>
+          <strong>#{region.upcase}</strong>
+          版 boxart を追加 / Add #{region.upcase} boxart
+        </a>
+      </li>
+    LI
+  end
+
+  return '' if items.empty?
+
+  %(
+    <section class="contribute">
+      <h2>⚡ Help complete this entry / この項目の欠けている情報を追加</h2>
+      <p class="contribute-note">
+        下記のリンクをクリックすると、必要項目が事前入力された GitHub Issue
+        フォームが開きます。
+        <br>
+        Click any of the links below to open a pre-filled GitHub issue form.
+      </p>
+      <ul class="contribute-list">#{items.join}</ul>
+    </section>
+  ).strip
+end
+
+def contribute_media_url(platform_id, id, kind, region)
+  q = URI.encode_www_form(
+    template: 'media-submission.yml',
+    title: "[media] #{platform_id}/#{id} #{region.upcase} #{kind}",
+    platform: platform_id,
+    'game_id' => id,
+    kind: kind,
+    region: region
+  )
+  "#{REPO_BASE_URL}/issues/new?#{q}"
+end
+
+def contribute_title_url(platform_id, id, lang, region)
+  q = URI.encode_www_form(
+    template: 'title-submission.yml',
+    title: "[title] #{platform_id}/#{id} #{lang}",
+    platform: platform_id,
+    'game_id' => id,
+    lang: lang,
+    region: region
+  )
+  "#{REPO_BASE_URL}/issues/new?#{q}"
+end
+
 def render_game_page(game)
   platform_id   = game['platform']
   platform_name = PLATFORMS[platform_id] || platform_id
@@ -1130,6 +1275,8 @@ def render_game_page(game)
   body = <<~HTML
     <p><a href="../../platforms/#{platform_id}/">&laquo; #{h(platform_name)}</a></p>
     <h1 lang="#{h((game['titles'].find { |t| t['text'] == title } || {})['lang'] || 'en')}">#{h(title)}</h1>
+
+    #{render_contribute_section(game)}
 
     #{render_media_section(game)}
 

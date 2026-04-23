@@ -1,0 +1,172 @@
+name: "🈂️  Add a native-script title (ja / ko / zh / ...)"
+description: "Help fill in a missing Japanese / Korean / Chinese / other native-script title."
+title: "[title] "
+labels: ["title"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🇯🇵 ネイティブスクリプトタイトルを追加
+
+        日本語 (漢字・ひらがな・カタカナ)、韓国語 (한글)、中国語 (中文) など
+        非ラテン文字のタイトルを追加するためのフォームです。
+
+        **確実な情報のみ:** 実物の箱・タイトル画面・取扱説明書・公式サイト
+        など一次ソースで確認したものが望ましいです。Wikipedia 等の記事からの
+        転載でも OK ですが出典を明記してください。
+
+        ---
+
+        ## 🇺🇸 Add a native-script title
+
+        Use this form to add a Japanese (kanji/hiragana/katakana), Korean
+        (Hangul), Chinese (Hans/Hant) or other non-Latin title to a game
+        entry.
+
+        **Primary sources preferred:** physical box, title screen, manual,
+        or the publisher's official site. Wikipedia is acceptable as long
+        as you cite it.
+
+        ---
+
+        ## 🇰🇷 네이티브 스크립트 제목 추가
+
+        한글, 한자, 가나, 중국어 등 비라틴 문자 제목을 추가합니다. 1차 자료
+        (실물 박스, 타이틀 화면, 설명서, 공식 사이트) 에서 확인된 것이 바람직
+        합니다.
+
+        ---
+
+        ## 🇨🇳 添加原生文字标题
+
+        用于添加日文 (汉字/平假名/片假名)、韩文 (한글)、中文 (简体/繁体) 等
+        非拉丁文字的标题。请优先从一手资料 (实物包装、标题画面、说明书、官方
+        网站) 获取信息。
+
+  - type: input
+    id: platform
+    attributes:
+      label: "Platform / プラットフォーム"
+      description: "`fc` `sfc` `gb` `gbc` `gba` `md` `pce` `n64` `nds` `ps1`"
+      placeholder: fc
+    validations:
+      required: true
+
+  - type: input
+    id: game_id
+    attributes:
+      label: "Game ID / ゲーム ID"
+      description: "The slug on the site URL (e.g. `hoshi-no-kirby`)."
+      placeholder: hoshi-no-kirby
+    validations:
+      required: true
+
+  - type: input
+    id: text
+    attributes:
+      label: "Title text / タイトル文字列"
+      description: "The actual title as written in the native script."
+      placeholder: 星のカービィ
+    validations:
+      required: true
+
+  - type: dropdown
+    id: lang
+    attributes:
+      label: "Language / 言語"
+      description: "ISO 639-1 language code"
+      options:
+        - ja
+        - ko
+        - zh
+        - en
+        - fr
+        - es
+        - de
+        - it
+        - pt
+        - ru
+    validations:
+      required: true
+
+  - type: dropdown
+    id: script
+    attributes:
+      label: "Script / スクリプト (ISO 15924)"
+      description: |
+        - `Jpan`: Japanese with kanji / 漢字混じり
+        - `Hira`: Japanese, hiragana only / ひらがなのみ
+        - `Kana`: Japanese, katakana only / カタカナのみ
+        - `Hang`: Korean / 한글
+        - `Hans`: Simplified Chinese / 简体字
+        - `Hant`: Traditional Chinese / 繁體字
+        - `Latn`: Latin (for romaji transliteration or genuinely Latin-on-box titles)
+      options:
+        - Jpan
+        - Hira
+        - Kana
+        - Hang
+        - Hans
+        - Hant
+        - Latn
+        - Cyrl
+        - Arab
+        - Thai
+    validations:
+      required: true
+
+  - type: dropdown
+    id: region
+    attributes:
+      label: "Region / リージョン"
+      description: "Which regional release does this title come from?"
+      options:
+        - jp
+        - us
+        - eu
+        - kr
+        - cn
+        - tw
+        - hk
+      default: 0
+    validations:
+      required: true
+
+  - type: dropdown
+    id: form
+    attributes:
+      label: "Form / 表記形式"
+      description: "Where is this title printed?"
+      options:
+        - official
+        - boxart
+        - ingame_logo
+        - manual
+        - romaji_transliteration
+        - alternate
+      default: 0
+
+  - type: textarea
+    id: source
+    attributes:
+      label: "Source / 出典"
+      description: |
+        Where did you see this title? Required.
+        どこで確認しましたか? 必須。
+
+        Examples / 例:
+        - "Box art of my own copy / 自分の箱を直接確認"
+        - "Title screen of the game / タイトル画面"
+        - "https://ja.wikipedia.org/wiki/... (Wikipedia JP article)"
+        - "Official Nintendo page: <URL>"
+      placeholder: "Box art of my own copy"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: verified
+    attributes:
+      label: "Verification / 確認"
+      options:
+        - label: "I have verified this title against a primary source (box, title screen, manual, publisher page). / 一次ソース (実物・タイトル画面・説明書・公式サイト等) で確認しました。"
+          required: false

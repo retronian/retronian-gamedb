@@ -1,0 +1,140 @@
+name: "🖼  Add an image (boxart / titlescreen / screenshot)"
+description: "Help fill in a missing boxart, title screen, screenshot, cartridge photo, etc."
+title: "[media] "
+labels: ["media"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🇯🇵 ご協力ありがとうございます!
+
+        このフォームは、ゲームエントリに画像 (箱絵 / タイトル画面 /
+        スクリーンショット / カートリッジ写真) を追加するためのものです。
+
+        **ライセンス:** 投稿する画像は CC BY-SA 4.0 で再配布できるものに
+        限ります。自分のコレクションのスキャン・自分で撮影した写真・
+        Wikimedia Commons 等の CC/パブリックドメイン素材は OK です。
+        MobyGames, IGDB, ScreenScraper, 出版社プレスキットからの流用は
+        NG です。
+
+        ---
+
+        ## 🇺🇸 Thanks for contributing!
+
+        This form is for adding an image (box scan, title screen, screenshot,
+        cartridge photo, etc.) to a game entry.
+
+        **Licensing:** only submit images you have the right to redistribute
+        under CC BY-SA 4.0 — scans of your own collection, photos you took
+        yourself, or Wikimedia Commons / public-domain sources. Do **not**
+        submit images lifted from MobyGames, IGDB, ScreenScraper, or
+        publisher press kits.
+
+        ---
+
+        ## 🇰🇷 기여해 주셔서 감사합니다!
+
+        이 양식은 게임 항목에 이미지 (박스아트, 타이틀 화면, 스크린샷, 카트리지
+        사진 등) 를 추가하기 위한 것입니다. 직접 스캔하거나 촬영한 이미지,
+        또는 CC / 퍼블릭 도메인 이미지만 업로드해 주세요.
+
+        ---
+
+        ## 🇨🇳 感谢您的贡献!
+
+        此表单用于为游戏条目添加图像 (封面、标题画面、截图、卡带照片等)。
+        请仅上传您拥有 CC BY-SA 4.0 再分发权的图像 (自己的扫描、自己拍摄的
+        照片、或 Wikimedia Commons / 公有领域素材)。
+
+  - type: input
+    id: platform
+    attributes:
+      label: "Platform / プラットフォーム"
+      description: |
+        `fc` `sfc` `gb` `gbc` `gba` `md` `pce` `n64` `nds` `ps1`
+      placeholder: gb
+    validations:
+      required: true
+
+  - type: input
+    id: game_id
+    attributes:
+      label: "Game ID / ゲーム ID"
+      description: |
+        The slug of the entry as seen on the site URL
+        (e.g. `https://gamedb.retronian.com/games/gb/tv-champion/` -> `tv-champion`).
+      placeholder: tv-champion
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: "Kind / 種類"
+      options:
+        - boxart
+        - boxart_back
+        - titlescreen
+        - screenshot
+        - cartridge
+        - disc
+        - logo
+    validations:
+      required: true
+
+  - type: dropdown
+    id: region
+    attributes:
+      label: "Region / リージョン"
+      description: "Which regional version does this image come from?"
+      options:
+        - jp
+        - us
+        - eu
+        - kr
+        - cn
+        - tw
+        - hk
+        - au
+        - br
+    validations:
+      required: true
+
+  - type: textarea
+    id: image
+    attributes:
+      label: "Image / 画像"
+      description: |
+        Drag the image file into this box to attach it, or paste a stable
+        public URL (Wikimedia Commons, Internet Archive). Keep under ~10 MB.
+
+        画像ファイルをドラッグして添付するか、安定した公開 URL
+        (Wikimedia Commons など) を貼り付けてください。
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: "Source & licence / 出典とライセンス"
+      description: |
+        Where is this image from? Required so we can redistribute it.
+        この画像の入手元。再配布のため必須です。
+
+        Examples / 例:
+        - "Scan of my own physical copy / 自分の実物をスキャン"
+        - "Photo I took of my cart / 自分で撮ったカート写真"
+        - "Wikimedia Commons: <URL>"
+      placeholder: "Scan of my own physical copy, bought 2012."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: "Confirmation / 確認"
+      options:
+        - label: "I confirm the image may be redistributed under CC BY-SA 4.0. / CC BY-SA 4.0 で再配布可能なことを確認しました。"
+          required: true
+        - label: "I did not copy the image from MobyGames / IGDB / ScreenScraper or a publisher press kit. / MobyGames / IGDB / ScreenScraper やプレスキットからのコピーではありません。"
+          required: true
