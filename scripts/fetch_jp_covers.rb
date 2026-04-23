@@ -65,7 +65,7 @@ KIND_DIRS = {
   'screenshot'  => 'Named_Snaps'
 }.freeze
 
-NON_RETAIL_ROM_RE = /\((?:Proto|Possible Proto|Beta|Unl|Pirate|Sample|Demo|Hack|Aftermarket|Homebrew)\)/i.freeze
+NON_RETAIL_ROM_RE = /\((?:Proto|Possible Proto|Beta|Unl|Pirate|Sample|Demo|Hack|Aftermarket|Homebrew)(?:\s+\d+)?\)/i.freeze
 
 def load_aliases
   return {} unless File.exist?(ALIAS_FILE)

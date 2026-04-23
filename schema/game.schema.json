@@ -235,7 +235,24 @@
           },
           "source": {
             "type": "string",
-            "enum": ["libretro_thumbnails", "wikidata", "igdb", "community", "manual"]
+            "enum": [
+              "libretro_thumbnails",
+              "wikidata",
+              "wikipedia_ja",
+              "wikipedia_en",
+              "igdb",
+              "community",
+              "manual",
+              "manual_alias"
+            ]
+          },
+          "verified": {
+            "type": "boolean",
+            "description": "一次資料（実物・当時のパッケージ）確認済みか"
+          },
+          "note": {
+            "type": "string",
+            "description": "補足 (プレースホルダ画像である等)"
           }
         }
       }

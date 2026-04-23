@@ -23,7 +23,7 @@ $stdout.sync = true
 ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
 
-NON_RETAIL_RE = /\((?:Proto|Possible Proto|Beta|Unl|Pirate|Sample|Demo|Hack|Aftermarket|Homebrew|Test|Debug|Prototype)\)/i.freeze
+NON_RETAIL_RE = /\((?:Proto|Possible Proto|Beta|Unl|Pirate|Sample|Demo|Hack|Aftermarket|Homebrew|Test|Debug|Prototype)(?:\s+\d+)?\)/i.freeze
 
 # Sources we trust as evidence that a title was actually released
 # commercially. The IGDB source is intentionally excluded — IGDB also

@@ -53,7 +53,7 @@ PLATFORMS = {
 # never shipped in Japan (localized Wikipedia article titles etc), so
 # we rely on No-Intro's region tagging as ground truth and strip the
 # non-retail bucket explicitly.
-NON_RETAIL_ROM_RE = /\((?:Proto|Possible Proto|Beta|Unl|Pirate|Sample|Demo|Hack|Aftermarket|Homebrew)\)/i.freeze
+NON_RETAIL_ROM_RE = /\((?:Proto|Possible Proto|Beta|Unl|Pirate|Sample|Demo|Hack|Aftermarket|Homebrew)(?:\s+\d+)?\)/i.freeze
 
 # Native-script languages we track coverage for. Each maps to the
 # No-Intro region codes where that language is the local market, plus
