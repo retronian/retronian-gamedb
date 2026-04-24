@@ -167,7 +167,7 @@ def layout(title:, body:, root_rel: '')
     </head>
     <body>
       <header class="site-header">
-        <a class="brand" href="#{root_rel}">NATIVE GAME DB</a>
+        <a class="brand" href="#{root_rel}">RETRONIAN GAMEDB</a>
         <nav>
           <a href="#{root_rel}">BROWSE</a>
           <a href="#{root_rel}docs/schema.html">SCHEMA</a>
@@ -196,25 +196,33 @@ CSS = <<~CSS
    * ================================================================ */
 
   :root {
-    /* Light paper base, dark ink. Keeps the retro manual feel without
-       the low-readability CRT green-on-black. */
-    --bg:        #f7f3e8;  /* cream / warm off-white */
-    --bg-panel:  #ffffff;  /* pure white for cards */
-    --bg-panel2: #efeadb;  /* slightly darker paper */
-    --fg:        #1b2230;  /* near-black navy ink */
-    --fg-dim:    #5a6473;
-    --fg-muted:  #8b8878;
-    --line:      #d7d1bf;  /* warm gray */
-    --line-hard: #a49c85;  /* darker warm gray */
-    --accent:    #c82a4e;  /* deeper pink, AA vs cream */
-    --accent2:   #b87200;  /* warm amber, AA vs cream */
-    --cyan:      #0e6388;
+    /* Super Famicom / SNES palette: warm off-white plastic body with
+       the four button colors (red / yellow / blue / green) as accents. */
+    --bg:        #eae3d2;  /* SFC body cream */
+    --bg-panel:  #f5f0df;  /* lighter paper for cards */
+    --bg-panel2: #d7cfb8;  /* darker panel for th / emphasis */
+    --fg:        #2b2b2e;  /* near-black plastic ink */
+    --fg-dim:    #5c5c60;
+    --fg-muted:  #8a8a8e;
+    --line:      #b8b0a0;
+    --line-hard: #6f6a60;
 
-    /* Soft halos instead of CRT glow — subtle, readable on light bg. */
+    /* SNES 4-button ABXY colors, as on the Japanese Super Famicom pad:
+       A=red, B=yellow, X=blue, Y=green. */
+    --btn-a:     #c72e2f;
+    --btn-b:     #dab600;
+    --btn-x:     #2f6bbc;
+    --btn-y:     #3a9e5a;
+
+    --accent:    var(--btn-a);
+    --accent2:   var(--btn-b);
+    --cyan:      var(--btn-x);
+    --green:     var(--btn-y);
+
     --glow-fg:     none;
-    --glow-pink:   0 1px 0 rgba(200, 42, 78, 0.15);
-    --glow-amber:  0 1px 0 rgba(184, 114, 0, 0.18);
-    --shadow-card: 2px 2px 0 rgba(200, 42, 78, 0.35);
+    --glow-pink:   0 1px 0 rgba(199, 46, 47, 0.15);
+    --glow-amber:  0 1px 0 rgba(218, 182, 0, 0.18);
+    --shadow-card: 2px 2px 0 rgba(199, 46, 47, 0.35);
 
     --font-pixel: "Press Start 2P", "Courier New", monospace;
     --font-term:  "VT323", "Courier New", "Noto Sans JP", monospace;
@@ -243,9 +251,9 @@ CSS = <<~CSS
     pointer-events: none;
     z-index: 1000;
     background-image:
-      radial-gradient(rgba(164, 156, 133, 0.18) 1px, transparent 1px);
+      radial-gradient(rgba(111, 106, 96, 0.16) 1px, transparent 1px);
     background-size: 4px 4px;
-    opacity: 0.35;
+    opacity: 0.45;
   }
 
   a {
@@ -256,10 +264,10 @@ CSS = <<~CSS
     transition: all 0.12s;
   }
   a:hover {
-    color: var(--accent2);
-    border-bottom-color: var(--accent2);
+    color: var(--cyan);
+    border-bottom-color: var(--cyan);
     border-bottom-style: solid;
-    background: rgba(184, 114, 0, 0.08);
+    background: rgba(47, 107, 188, 0.08);
   }
   a::before { content: "["; opacity: 0.45; margin-right: 0.1em; }
   a::after  { content: "]"; opacity: 0.45; margin-left: 0.1em; }
@@ -279,6 +287,22 @@ CSS = <<~CSS
     gap: 1.6rem;
     border-bottom: 2px solid var(--line-hard);
     flex-wrap: wrap;
+    position: relative;
+  }
+  /* ABXY button stripe under the header border (Super Famicom pad cue). */
+  .site-header::after {
+    content: "";
+    position: absolute;
+    left: 0; right: 0;
+    bottom: -6px;
+    height: 4px;
+    background: linear-gradient(
+      90deg,
+      var(--btn-a) 0%, var(--btn-a) 25%,
+      var(--btn-b) 25%, var(--btn-b) 50%,
+      var(--btn-x) 50%, var(--btn-x) 75%,
+      var(--btn-y) 75%, var(--btn-y) 100%
+    );
   }
   .site-header .brand {
     font-family: var(--font-pixel);
@@ -450,13 +474,19 @@ CSS = <<~CSS
     content: "";
     position: absolute;
     top: 0; left: 0;
-    width: 30%;
+    width: 40%;
     height: 4px;
-    background: var(--accent);
+    background: linear-gradient(
+      90deg,
+      var(--btn-a) 0%, var(--btn-a) 25%,
+      var(--btn-b) 25%, var(--btn-b) 50%,
+      var(--btn-x) 50%, var(--btn-x) 75%,
+      var(--btn-y) 75%, var(--btn-y) 100%
+    );
   }
   .platform-grid li:hover {
     border-color: var(--accent);
-    box-shadow: 3px 3px 0 rgba(200, 42, 78, 0.35);
+    box-shadow: 3px 3px 0 rgba(199, 46, 47, 0.35);
     transform: translate(-1px, -1px);
   }
   .platform-grid li:hover::before {
@@ -514,8 +544,8 @@ CSS = <<~CSS
         90deg,
         var(--accent) 0px,
         var(--accent) 6px,
-        rgba(200, 42, 78, 0.75) 6px,
-        rgba(200, 42, 78, 0.75) 7px
+        rgba(199, 46, 47, 0.75) 6px,
+        rgba(199, 46, 47, 0.75) 7px
       );
   }
   .progress-label {
@@ -594,11 +624,11 @@ CSS = <<~CSS
     color: var(--bg-panel);
     border-color: var(--accent2);
     transform: translate(-1px, -1px);
-    box-shadow: 3px 3px 0 rgba(200, 42, 78, 0.55);
+    box-shadow: 3px 3px 0 rgba(199, 46, 47, 0.55);
   }
   .contribute-cta:active {
     transform: translate(1px, 1px);
-    box-shadow: 0 0 0 rgba(200, 42, 78, 0);
+    box-shadow: 0 0 0 rgba(199, 46, 47, 0);
   }
   .contribute-cta::before, .contribute-cta::after { content: none; }
   .contribute-cta .icon { font-size: 1.15rem; }
@@ -618,8 +648,8 @@ CSS = <<~CSS
   .call-to-contribute {
     background:
       linear-gradient(180deg,
-        rgba(184, 114, 0, 0.07) 0%,
-        rgba(200, 42, 78, 0.05) 100%);
+        rgba(218, 182, 0, 0.07) 0%,
+        rgba(199, 46, 47, 0.05) 100%);
     border: 1px solid var(--accent2);
     border-left: 4px solid var(--accent2);
     padding: 1.2rem 1.3rem 1.1rem;
@@ -692,7 +722,7 @@ CSS = <<~CSS
     cursor: pointer;
   }
   .game-list-item:hover {
-    background: rgba(200, 42, 78, 0.06);
+    background: rgba(199, 46, 47, 0.06);
     border-bottom-color: var(--accent2);
   }
   .game-list-item .thumb {
