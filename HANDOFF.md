@@ -26,7 +26,7 @@ from "kanji mixed in" even when you ask for Japanese.
 ### Live
 
 - Repo: https://github.com/retronian/retronian-gamedb
-- Current Pages URL: https://retronian.github.io/retronian-gamedb/
+- Current Pages URL: https://gamedb.retronian.com/
 - Custom domain being set up: **`gamedb.retronian.com`**
   - `dist/CNAME` already contains this value and GitHub Pages already
     knows about it.
@@ -316,7 +316,7 @@ Pure rebuild of the site (no data changes) is just step 7.
   in Cloudflare (that's where `retronian.com` is managed). GitHub Pages
   already has `gamedb.retronian.com` configured as the custom domain and
   the repo has `dist/CNAME` baked in. Until the CNAME record exists the
-  only working URL is https://retronian.github.io/retronian-gamedb/.
+  only working URL is https://gamedb.retronian.com/.
   Attempted automation was blocked because Cloudflare credentials are
   in 1Password (`op` not signed in) and no API token was available in
   the shell environment. The owner offered to provide a
@@ -425,4 +425,4 @@ Once the CNAME resolves:
 - https://gamedb.retronian.com/docs/schema.html
 - https://gamedb.retronian.com/docs/contributing.html
 
-Until then the same paths work at `https://retronian.github.io/retronian-gamedb/`.
+Until then the same paths work at `https://gamedb.retronian.com/`.

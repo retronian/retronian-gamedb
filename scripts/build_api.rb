@@ -193,29 +193,29 @@ CSS = <<~CSS
    * ================================================================ */
 
   :root {
-    --bg:          #ffffff;
-    --bg-alt:      #f7f8fa;
+    --bg:          #f6f7f9;
+    --bg-alt:      #eef2f6;
     --bg-panel:    #ffffff;
     --fg:          #1f2937;    /* slate-800 */
     --fg-dim:      #4b5563;    /* slate-600 */
-    --fg-muted:    #9ca3af;    /* slate-400 */
-    --line:        #e5e7eb;    /* gray-200 */
-    --line-strong: #d1d5db;    /* gray-300 */
+    --fg-muted:    #6b7280;    /* slate-500 */
+    --line:        #d9e0e8;
+    --line-strong: #c7d0dc;
 
     --accent:      #2563eb;    /* blue-600 */
     --accent-dark: #1d4ed8;    /* blue-700 */
-    --accent-bg:   #eff6ff;    /* blue-50 */
+    --accent-bg:   #e7efff;
     --success:     #059669;    /* emerald-600 */
     --warn:        #d97706;    /* amber-600 */
     --danger:      #dc2626;    /* red-600 */
 
-    --radius-sm: 4px;
-    --radius:    6px;
-    --radius-lg: 10px;
+    --radius-sm: 6px;
+    --radius:    8px;
+    --radius-lg: 8px;
 
     --shadow-sm: 0 1px 2px rgba(17, 24, 39, 0.05);
     --shadow:    0 1px 3px rgba(17, 24, 39, 0.08), 0 1px 2px rgba(17, 24, 39, 0.04);
-    --shadow-md: 0 4px 6px -1px rgba(17, 24, 39, 0.07), 0 2px 4px -2px rgba(17, 24, 39, 0.04);
+    --shadow-md: 0 12px 28px rgba(15, 23, 42, 0.08);
 
     --font-body: "Inter", "Noto Sans JP", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
     --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
@@ -230,7 +230,7 @@ CSS = <<~CSS
     color: var(--fg);
     font-family: var(--font-body);
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 1.65;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
   }
@@ -238,31 +238,36 @@ CSS = <<~CSS
   a {
     color: var(--accent);
     text-decoration: none;
-    border-bottom: 1px solid transparent;
-    transition: color 0.15s, border-color 0.15s;
+    text-underline-offset: 0.18em;
+    transition: color 0.15s ease, background 0.15s ease, border-color 0.15s ease;
   }
   a:hover {
     color: var(--accent-dark);
-    border-bottom-color: var(--accent-dark);
+    text-decoration: underline;
   }
 
   /* ----- header / footer ----- */
 
   .site-header {
-    max-width: 1040px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    max-width: 1180px;
     margin: 0 auto;
-    padding: 1.1rem 1.6rem;
+    padding: 18px 28px;
     display: flex;
     align-items: center;
-    gap: 1.5rem;
-    border-bottom: 1px solid var(--line);
+    gap: 24px;
+    border-bottom: 1px solid rgba(217, 224, 232, 0.88);
+    background: rgba(246, 247, 249, 0.86);
+    backdrop-filter: blur(14px);
     flex-wrap: wrap;
   }
   .site-header .brand {
-    font-weight: 700;
-    font-size: 1.05rem;
+    font-weight: 800;
+    font-size: 1rem;
     color: var(--fg);
-    letter-spacing: -0.01em;
+    letter-spacing: 0;
     margin-right: auto;
     border-bottom: none;
   }
@@ -272,22 +277,28 @@ CSS = <<~CSS
   }
   .site-header nav {
     display: flex;
-    gap: 1.3rem;
-    font-size: 0.95rem;
+    gap: 6px;
+    font-size: 0.92rem;
+    font-weight: 600;
+    line-height: 1.2;
+    flex-wrap: wrap;
   }
   .site-header nav a {
     color: var(--fg-dim);
     border-bottom: none;
+    padding: 8px 10px;
+    border-radius: 7px;
   }
   .site-header nav a:hover {
-    color: var(--accent);
+    color: var(--fg);
+    background: var(--bg-alt);
     border-bottom: none;
   }
 
   .site-footer {
-    max-width: 1040px;
-    margin: 4rem auto 0;
-    padding: 1.5rem 1.6rem 2.5rem;
+    max-width: 1180px;
+    margin: 56px auto 0;
+    padding: 24px 28px 42px;
     border-top: 1px solid var(--line);
     text-align: center;
     color: var(--fg-muted);
@@ -300,9 +311,9 @@ CSS = <<~CSS
   /* ----- main column ----- */
 
   main {
-    max-width: 1040px;
+    max-width: 1180px;
     margin: 0 auto;
-    padding: 2rem 1.6rem 1rem;
+    padding: 48px 28px 16px;
   }
 
   /* ----- typography ----- */
@@ -310,33 +321,35 @@ CSS = <<~CSS
   h1, h2, h3 {
     color: var(--fg);
     font-weight: 700;
-    letter-spacing: -0.015em;
+    letter-spacing: 0;
     line-height: 1.25;
   }
   h1 {
-    font-size: 2rem;
-    margin: 0 0 0.75rem;
+    font-size: clamp(2.15rem, 5vw, 4.5rem);
+    line-height: 1.02;
+    margin: 0 0 18px;
+    max-width: 920px;
   }
   h2 {
-    font-size: 1.35rem;
+    font-size: 1.14rem;
     font-weight: 600;
-    margin: 2.5rem 0 0.9rem;
-    padding-bottom: 0.4rem;
+    margin: 48px 0 14px;
+    padding-bottom: 10px;
     border-bottom: 1px solid var(--line);
   }
   h3 {
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 600;
     margin: 1.8rem 0 0.6rem;
   }
 
   p { margin: 0 0 1rem; }
   .lead {
-    font-size: 1.1rem;
+    font-size: clamp(1.05rem, 2vw, 1.3rem);
     color: var(--fg-dim);
-    max-width: 62ch;
-    margin: 0 0 1.2rem;
-    line-height: 1.55;
+    max-width: 780px;
+    margin: 0 0 22px;
+    line-height: 1.6;
   }
   .target-note {
     font-size: 0.9rem;
@@ -368,16 +381,21 @@ CSS = <<~CSS
 
   table {
     width: 100%;
-    border-collapse: collapse;
-    margin: 0 0 1.5rem;
-    font-size: 0.95rem;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 10px 0 24px;
+    font-size: 0.94rem;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
     background: var(--bg-panel);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
   }
   thead th {
     text-align: left;
     font-weight: 600;
     color: var(--fg-dim);
-    background: var(--bg-alt);
+    background: #f8fafc;
     border-bottom: 1px solid var(--line-strong);
     padding: 0.65rem 0.85rem;
     font-size: 0.82rem;
@@ -409,13 +427,13 @@ CSS = <<~CSS
     background: var(--bg-panel);
     border: 1px solid var(--line);
     border-radius: var(--radius);
-    padding: 1rem 1.1rem;
+    padding: 18px;
     transition: border-color 0.15s, box-shadow 0.15s, transform 0.1s;
   }
   .platform-grid li:hover {
     border-color: var(--accent);
     box-shadow: var(--shadow-md);
-    transform: translateY(-1px);
+    transform: translateY(-2px);
   }
   .platform-grid a {
     font-size: 1.05rem;
@@ -440,17 +458,18 @@ CSS = <<~CSS
 
   .progress {
     position: relative;
-    background: var(--bg-alt);
-    border-radius: var(--radius);
-    height: 26px;
-    margin: 0.6rem 0 0.4rem;
+    background: #e8edf4;
+    border-radius: 999px;
+    height: 32px;
+    margin: 12px 0 8px;
     overflow: hidden;
     border: 1px solid var(--line);
   }
   .progress-bar {
     position: absolute;
     top: 0; left: 0; bottom: 0;
-    background: var(--accent);
+    border-radius: inherit;
+    background: linear-gradient(90deg, #2563eb, #14b8a6);
   }
   .progress-label {
     position: absolute;
@@ -458,15 +477,13 @@ CSS = <<~CSS
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 0.85rem;
+    font-size: 0.86rem;
     color: var(--fg);
     pointer-events: none;
-    font-weight: 500;
-    mix-blend-mode: difference;
-    filter: invert(1);
+    font-weight: 700;
   }
-  .progress-sm { height: 20px; }
-  .progress-sm .progress-label { font-size: 0.78rem; }
+  .progress-sm { height: 22px; margin-top: 10px; }
+  .progress-sm .progress-label { font-size: 0.74rem; }
 
   /* ----- contribute call-to-action (per game) ----- */
 
@@ -533,7 +550,7 @@ CSS = <<~CSS
   /* ----- landing call to contribute ----- */
 
   .call-to-contribute {
-    background: var(--bg-alt);
+    background: var(--accent-bg);
     border: 1px solid var(--line);
     border-radius: var(--radius-lg);
     padding: 1.5rem 1.75rem;
@@ -583,17 +600,22 @@ CSS = <<~CSS
     list-style: none;
     padding: 0;
     margin: 1rem 0 0;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--bg-panel);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
   }
   .game-list-item {
     display: flex;
     gap: 1rem;
-    padding: 0.85rem 0.4rem;
+    padding: 12px 14px;
     border-bottom: 1px solid var(--line);
     align-items: flex-start;
     transition: background 0.1s;
   }
   .game-list-item:hover {
-    background: var(--bg-alt);
+    background: #f8fafc;
   }
   .game-list-item .thumb {
     flex: 0 0 56px;
@@ -657,9 +679,12 @@ CSS = <<~CSS
   }
   .media-grid img {
     width: 100%;
+    min-height: 130px;
+    aspect-ratio: 4 / 3;
     height: auto;
     display: block;
     background: var(--bg-alt);
+    object-fit: contain;
   }
   .media-grid figcaption {
     padding: 0.5rem 0.7rem;
@@ -726,10 +751,11 @@ CSS = <<~CSS
   /* ----- mobile ----- */
 
   @media (max-width: 720px) {
-    main { padding: 1.5rem 1.1rem 0.5rem; }
-    .site-header { padding: 0.9rem 1.1rem; gap: 1rem; }
-    h1 { font-size: 1.6rem; }
-    h2 { font-size: 1.2rem; }
+    main { padding: 32px 18px 12px; }
+    .site-header { padding: 14px 18px; gap: 1rem; align-items: flex-start; }
+    .site-header .brand { width: 100%; margin-right: 0; }
+    h1 { font-size: 2.1rem; }
+    h2 { font-size: 1.1rem; margin-top: 38px; }
     .platform-grid { grid-template-columns: 1fr; }
   }
 CSS
