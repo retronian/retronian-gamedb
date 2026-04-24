@@ -636,6 +636,67 @@ CSS = <<~CSS
     transform: translateX(2px);
   }
 
+  /* ----- landing call to contribute ----- */
+
+  .call-to-contribute {
+    background:
+      linear-gradient(180deg,
+        rgba(255, 200, 80, 0.08) 0%,
+        rgba(255, 51, 102, 0.05) 100%);
+    border: 1px solid var(--accent2);
+    border-left: 4px solid var(--accent2);
+    padding: 1.2rem 1.3rem 1.1rem;
+    margin: 1.6rem 0 1.8rem;
+    position: relative;
+  }
+  .call-to-contribute::before {
+    content: "▍▍▍";
+    position: absolute;
+    top: -0.6rem;
+    left: 0.8rem;
+    color: var(--accent2);
+    background: var(--bg);
+    padding: 0 0.4rem;
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+  }
+  .call-to-contribute h2 {
+    font-size: 1.05rem;
+    color: var(--accent2);
+    margin: 0 0 0.7rem;
+    letter-spacing: 0.04em;
+  }
+  .call-to-contribute p {
+    margin: 0 0 0.7rem;
+    line-height: 1.55;
+  }
+  .call-to-contribute .cta-why {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1rem;
+    font-size: 0.9rem;
+    color: var(--fg);
+  }
+  .call-to-contribute .cta-why li {
+    padding: 0.3rem 0 0.3rem 1.2rem;
+    position: relative;
+    line-height: 1.55;
+    border-bottom: 1px dotted rgba(255, 255, 255, 0.06);
+  }
+  .call-to-contribute .cta-why li:last-child { border-bottom: none; }
+  .call-to-contribute .cta-why li::before {
+    content: "▸";
+    color: var(--accent2);
+    position: absolute;
+    left: 0.2rem;
+  }
+  .call-to-contribute .cta-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin: 0.4rem 0 0;
+  }
+
   /* ----- game list ----- */
 
   .game-list {
@@ -885,6 +946,21 @@ def render_landing(stats, platforms_meta)
     <h2>Coverage by language</h2>
     #{overall_progress}
     <p class="target-note">Denominator for each language = retail ROMs in that language's home region (jp for Japanese, kr for Korean, cn/tw/hk for Chinese). Numerator = entries carrying at least one title in that language, native script or Latin transliteration.</p>
+
+    <section class="call-to-contribute">
+      <h2>🇰🇷 🇨🇳 Korean &amp; Chinese speakers — we need you</h2>
+      <p>Japanese coverage is strong. Korean and Chinese are wide open. If you can read 한글 or 中文, <strong>one minute on any game page fixes an entry forever.</strong></p>
+      <ul class="cta-why">
+        <li>Every other retro game DB (ScreenScraper, TheGamesDB, IGDB) still serves romaji even for Korea-released titles. This one doesn't have to.</li>
+        <li>Contributions are CC BY-SA 4.0 — ROM managers, emulators, and scrapers can reuse them the moment they land.</li>
+        <li>No account friction: every game page has a pre-filled issue form for titles, descriptions, and box art. Attach or type, submit, done.</li>
+        <li>Fan transliterations are welcome too: leave the "verified" box unchecked if it's your own reading, not from the official package.</li>
+      </ul>
+      <p class="cta-actions">
+        <a class="contribute-cta" href="docs/contributing.html"><span class="icon">📖</span><span class="cta-label">Read the contributor guide</span><span class="cta-arrow" aria-hidden="true">→</span></a>
+        <a class="contribute-cta" href="platforms/nds/"><span class="icon">🎮</span><span class="cta-label">Pick any game with empty CTAs and click</span><span class="cta-arrow" aria-hidden="true">→</span></a>
+      </p>
+    </section>
 
     <h2>Browse by platform</h2>
     <ul class="platform-grid">#{rows}</ul>
