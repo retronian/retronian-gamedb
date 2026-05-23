@@ -23,7 +23,7 @@ body:
     attributes:
       label: Platform
       description: |
-        One of `fc`, `sfc`, `gb`, `gbc`, `gba`, `md`, `pce`, `n64`, `nds`, `ps1`.
+        One of `fc`, `sfc`, `gb`, `gbc`, `gba`, `md`, `pce`, `saturn`, `n64`, `nds`, `ps1`, `ps2`.
       placeholder: fc
     validations:
       required: true

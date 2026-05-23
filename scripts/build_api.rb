@@ -42,10 +42,12 @@ PLATFORMS = {
   'gbc' => 'Game Boy Color',
   'gba' => 'Game Boy Advance',
   'md'  => 'Mega Drive / Genesis',
-  'pce' => 'PC Engine / TurboGrafx-16',
-  'n64' => 'Nintendo 64',
-  'nds' => 'Nintendo DS',
-  'ps1' => 'PlayStation'
+  'pce'    => 'PC Engine / TurboGrafx-16',
+  'saturn' => 'Sega Saturn',
+  'n64'    => 'Nintendo 64',
+  'nds'    => 'Nintendo DS',
+  'ps1'    => 'PlayStation',
+  'ps2'    => 'PlayStation 2'
 }.freeze
 
 # A game counts as "released in Japan" when we have a No-Intro ROM

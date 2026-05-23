@@ -77,7 +77,7 @@ The database is published as static JSON over GitHub Pages: **https://gamedb.ret
 
 ## Supported platforms
 
-Famicom (`fc`), Super Famicom (`sfc`), Game Boy (`gb`), Game Boy Color (`gbc`), Game Boy Advance (`gba`), Mega Drive (`md`), PC Engine (`pce`), Nintendo 64 (`n64`), Nintendo DS (`nds`)
+Famicom (`fc`), Super Famicom (`sfc`), Game Boy (`gb`), Game Boy Color (`gbc`), Game Boy Advance (`gba`), Mega Drive (`md`), PC Engine (`pce`), Sega Saturn (`saturn`), Nintendo 64 (`n64`), Nintendo DS (`nds`), PlayStation (`ps1`), PlayStation 2 (`ps2`)
 
 ## Design principles
 
