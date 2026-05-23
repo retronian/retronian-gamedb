@@ -4,6 +4,15 @@
   "category": "main_game",
   "titles": [
     {
+      "text": "ミスランド2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "manual",
+      "verified": false
+    },
+    {
       "text": "Missland 2",
       "lang": "en",
       "script": "Latn",
@@ -80,6 +89,13 @@
       "lang": "ja",
       "source": "ai_local_gemma4",
       "base_lang": "en"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Missland 2 (Japan)",
+      "source": "manual",
+      "region": "jp"
     }
   ]
 }

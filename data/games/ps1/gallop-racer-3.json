@@ -4,6 +4,15 @@
   "category": "main_game",
   "titles": [
     {
+      "text": "ギャロップレーサー3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "manual",
+      "verified": false
+    },
+    {
       "text": "Gallop Racer 3",
       "lang": "en",
       "script": "Latn",
@@ -144,6 +153,18 @@
       "lang": "ja",
       "source": "ai_local_gemma4",
       "base_lang": "en"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gallop Racer (Japan)",
+      "source": "manual",
+      "region": "jp"
+    },
+    {
+      "name": "Gallop Racer 3 (Japan)",
+      "source": "manual",
+      "region": "jp"
     }
   ]
 }
