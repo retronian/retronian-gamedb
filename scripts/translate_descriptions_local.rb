@@ -43,7 +43,7 @@ OLLAMA = ENV['OLLAMA_HOST'] || 'http://localhost:11434'
 MODEL  = 'gemma4:e4b'
 TARGET = 'ja'
 
-PLATFORMS = %w[fc sfc gb gbc gba md pce ws wsc saturn n64 nds ps1 ps2 psp].freeze
+PLATFORMS = %w[fc sfc gb gbc gba md pce ws wsc arcade cps3 neogeo saturn n64 nds ps1 ps2 psp pico8 pcfx].freeze
 
 LANG_NAMES = {
   'ja' => 'Japanese', 'ko' => 'Korean', 'zh' => 'Chinese',

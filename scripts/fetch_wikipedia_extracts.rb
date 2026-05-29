@@ -30,7 +30,7 @@ ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
 USER_AGENT = 'retronian-gamedb/0.1 (https://gamedb.retronian.com)'
 
-PLATFORMS = %w[fc sfc gb gbc gba md pce ws wsc saturn n64 nds ps1 ps2 psp].freeze
+PLATFORMS = %w[fc sfc gb gbc gba md pce ws wsc arcade cps3 neogeo saturn n64 nds ps1 ps2 psp pico8 pcfx].freeze
 
 SPARQL_BATCH  = 500
 EXTRACT_BATCH = 20   # MediaWiki extracts API hard limit

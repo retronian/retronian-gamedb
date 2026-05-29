@@ -15,7 +15,7 @@
     "platform": {
       "type": "string",
       "description": "プラットフォーム識別子",
-      "enum": ["fc", "sfc", "gb", "gbc", "gba", "md", "pce", "ws", "wsc", "saturn", "n64", "nds", "ps1", "ps2", "psp"]
+      "enum": ["fc", "sfc", "gb", "gbc", "gba", "md", "pce", "ws", "wsc", "arcade", "cps3", "neogeo", "saturn", "n64", "nds", "ps1", "ps2", "psp", "pico8", "pcfx"]
     },
     "category": {
       "type": "string",
@@ -86,7 +86,7 @@
           "source": {
             "type": "string",
             "description": "データの出典",
-            "enum": ["wikidata", "igdb", "mobygames", "screenscraper", "no_intro", "libretro_dats", "community", "manual"]
+            "enum": ["wikidata", "igdb", "mobygames", "screenscraper", "no_intro", "libretro_dats", "fbneo", "mame", "gamelist_ja", "skyscraper_ja", "community", "manual"]
           },
           "verified": {
             "type": "boolean",
@@ -206,7 +206,7 @@
           },
           "source": {
             "type": "string",
-            "enum": ["no_intro", "libretro_dats", "redump", "tosec", "manual"]
+            "enum": ["no_intro", "libretro_dats", "fbneo", "mame", "redump", "tosec", "manual"]
           }
         }
       }

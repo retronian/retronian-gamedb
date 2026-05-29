@@ -45,12 +45,17 @@ PLATFORMS = {
   'pce'    => 'PC Engine / TurboGrafx-16',
   'ws'     => 'WonderSwan',
   'wsc'    => 'WonderSwan Color',
+  'arcade' => 'Arcade',
+  'cps3'   => 'CP System III',
+  'neogeo' => 'Neo Geo',
   'saturn' => 'Sega Saturn',
   'n64'    => 'Nintendo 64',
   'nds'    => 'Nintendo DS',
   'ps1'    => 'PlayStation',
   'ps2'    => 'PlayStation 2',
-  'psp'    => 'PlayStation Portable'
+  'psp'    => 'PlayStation Portable',
+  'pico8'  => 'PICO-8',
+  'pcfx'   => 'PC-FX'
 }.freeze
 
 # A game counts as "released in Japan" when we have a No-Intro ROM
