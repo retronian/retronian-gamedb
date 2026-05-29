@@ -74,9 +74,11 @@ IGDB_PLATFORMS = {
   'pce' => [86],        # TurboGrafx-16 / PC Engine
   'ws'  => [57],        # WonderSwan
   'wsc' => [123],       # WonderSwan Color
+  'saturn' => [32],     # Sega Saturn
   'n64' => [4],
   'nds' => [20],
   'ps1' => [7],         # PlayStation
+  'ps2' => [8],         # PlayStation 2
   'psp' => [38]         # PlayStation Portable
 }.freeze
 

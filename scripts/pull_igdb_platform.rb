@@ -49,9 +49,14 @@ IGDB_PLATFORMS = {
   'gba' => [24],
   'md'  => [29],
   'pce' => [86],
+  'ws'  => [57],
+  'wsc' => [123],
+  'saturn' => [32],
   'n64' => [4],
   'nds' => [20],
-  'ps1' => [7]
+  'ps1' => [7],
+  'ps2' => [8],
+  'psp' => [38]
 }.freeze
 
 REGION_DEFAULTS = {

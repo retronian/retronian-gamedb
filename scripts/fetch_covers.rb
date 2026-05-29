@@ -46,9 +46,11 @@ REPOS = {
   'pce' => %w[NEC_-_PC_Engine_-_TurboGrafx_16 NEC_-_PC_Engine_CD_-_TurboGrafx-CD],
   'ws'  => %w[Bandai_-_WonderSwan],
   'wsc' => %w[Bandai_-_WonderSwan_Color],
+  'saturn' => %w[Sega_-_Saturn],
   'n64' => %w[Nintendo_-_Nintendo_64],
   'nds' => %w[Nintendo_-_Nintendo_DS],
   'ps1' => %w[Sony_-_PlayStation],
+  'ps2' => %w[Sony_-_PlayStation_2],
   'psp' => %w[Sony_-_PlayStation_Portable]
 }.freeze
 

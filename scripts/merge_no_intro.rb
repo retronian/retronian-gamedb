@@ -48,9 +48,11 @@ PLATFORM_DATS = {
   'pce' => %w[pcengine.dat PCE.dat],
   'ws'  => %w[wonderswan.dat WS.dat Nintendo\ -\ WonderSwan.dat],
   'wsc' => %w[wonderswancolor.dat WSC.dat Nintendo\ -\ WonderSwan\ Color.dat],
+  'saturn' => %w[saturn.dat Sega\ -\ Saturn.dat],
   'n64' => %w[n64.dat N64.dat],
   'nds' => %w[NDS.dat],
   'ps1' => %w[psx.dat],
+  'ps2' => %w[ps2.dat Sony\ -\ PlayStation\ 2.dat],
   'psp' => %w[psp.dat PSP.dat Sony\ -\ PlayStation\ Portable.dat]
 }.freeze
 

@@ -35,9 +35,11 @@ PLATFORMS = {
   'pce' => { qids: %w[Q1057377],           name: 'PC Engine / TurboGrafx-16' },
   'ws'  => { qids: %w[Q1048035],           name: 'WonderSwan' },
   'wsc' => { qids: %w[Q1065792],           name: 'WonderSwan Color' },
+  'saturn' => { qids: %w[Q200912],         name: 'Sega Saturn' },
   'n64' => { qids: %w[Q184839],            name: 'Nintendo 64' },
   'nds' => { qids: %w[Q170323],            name: 'Nintendo DS' },
   'ps1' => { qids: %w[Q10677],             name: 'PlayStation' },
+  'ps2' => { qids: %w[Q10680],             name: 'PlayStation 2' },
   'psp' => { qids: %w[Q170325],            name: 'PlayStation Portable' }
 }.freeze
 

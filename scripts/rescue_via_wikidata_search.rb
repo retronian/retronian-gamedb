@@ -31,7 +31,7 @@ ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
 USER_AGENT = 'retronian-gamedb/0.1 (https://gamedb.retronian.com)'
 
-PLATFORMS = %w[fc sfc gb gbc gba md pce ws wsc n64 nds ps1 psp].freeze
+PLATFORMS = %w[fc sfc gb gbc gba md pce ws wsc saturn n64 nds ps1 ps2 psp].freeze
 
 # retronian-gamedb platform -> Wikidata QID(s) for the platform itself.
 PLATFORM_QIDS = {
@@ -42,9 +42,14 @@ PLATFORM_QIDS = {
   'gba' => %w[Q188642],
   'md'  => %w[Q10676],
   'pce' => %w[Q1057377],
+  'ws'  => %w[Q1048035],
+  'wsc' => %w[Q1065792],
+  'saturn' => %w[Q200912],
   'n64' => %w[Q184839],
   'nds' => %w[Q170323],
-  'ps1' => %w[Q10677]
+  'ps1' => %w[Q10677],
+  'ps2' => %w[Q10680],
+  'psp' => %w[Q170325]
 }.freeze
 
 # ---------- helpers ----------
