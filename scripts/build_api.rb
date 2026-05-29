@@ -43,6 +43,7 @@ PLATFORMS = {
   'gba' => 'Game Boy Advance',
   'md'  => 'Mega Drive / Genesis',
   'pce'    => 'PC Engine / TurboGrafx-16',
+  'wsc'    => 'WonderSwan / WonderSwan Color',
   'saturn' => 'Sega Saturn',
   'n64'    => 'Nintendo 64',
   'nds'    => 'Nintendo DS',

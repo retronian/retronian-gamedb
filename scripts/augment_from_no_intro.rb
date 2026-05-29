@@ -45,6 +45,7 @@ PLATFORM_DATS = {
   'gba' => %w[gba.dat],
   'md'  => %w[megadrive.dat],
   'pce' => %w[pcengine.dat],
+  'wsc' => %w[wonderswan.dat WS.dat Nintendo\ -\ WonderSwan.dat Nintendo\ -\ WonderSwan\ Color.dat],
   'n64' => %w[n64.dat],
   'nds' => [],
   'ps1' => %w[psx.dat]
