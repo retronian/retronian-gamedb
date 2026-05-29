@@ -1,0 +1,42 @@
+{
+  "id": "menace-beach",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Menace Beach",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1990-01-01",
+  "external_ids": {
+    "wikidata": "Q2490098",
+    "mobygames": 15317
+  },
+  "roms": [
+    {
+      "name": "Menace Beach (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "1ebbd8cb",
+      "md5": "51b01aaee48e047c352474da0c2a2395",
+      "sha1": "e4b93701781045f3a8bea1e79631763669987584",
+      "sha256": "ade2b076454aabfddb224a381178dc5820f15b76dcd43a0dbe6f0a87e4995e60"
+    },
+    {
+      "name": "Menace Beach (USA)",
+      "source": "libretro_dats",
+      "region": "us",
+      "size": 131088,
+      "crc32": "1ebbd8cb",
+      "md5": "51b01aaee48e047c352474da0c2a2395",
+      "sha1": "e4b93701781045f3a8bea1e79631763669987584"
+    }
+  ]
+}

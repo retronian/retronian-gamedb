@@ -1,0 +1,78 @@
+{
+  "id": "pac-mania",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "パックマニア",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pac-Mania",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pac-Mania",
+      "lang": "es",
+      "script": "Latn",
+      "region": "es",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pac-Mania",
+      "lang": "fr",
+      "script": "Latn",
+      "region": "fr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "Pac-Mania",
+      "lang": "it",
+      "script": "Latn",
+      "region": "it",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1987-11-01",
+  "external_ids": {
+    "wikidata": "Q785278",
+    "mobygames": 8756
+  },
+  "roms": [
+    {
+      "name": "Pac-Mania (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 98320,
+      "crc32": "84e54182",
+      "md5": "62c2fc425b723d3f0983cdff0aa1b613",
+      "sha1": "11a47d8493411a9d2dfaf96cfec363aa00b9dcc3",
+      "sha256": "7fa46472b1fee4538bfe067d30e49157c4ed6cf79cccc43715b7a07273d6baa2"
+    },
+    {
+      "name": "Pac-Mania (USA)",
+      "source": "libretro_dats",
+      "region": "us",
+      "size": 98320,
+      "crc32": "84e54182",
+      "md5": "62c2fc425b723d3f0983cdff0aa1b613",
+      "sha1": "11a47d8493411a9d2dfaf96cfec363aa00b9dcc3"
+    }
+  ]
+}

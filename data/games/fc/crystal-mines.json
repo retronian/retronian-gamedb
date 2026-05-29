@@ -1,0 +1,42 @@
+{
+  "id": "crystal-mines",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Crystal Mines",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1989-01-01",
+  "external_ids": {
+    "wikidata": "Q2795318",
+    "mobygames": 7320
+  },
+  "roms": [
+    {
+      "name": "Crystal Mines (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 81936,
+      "crc32": "5a84b0e6",
+      "md5": "577314947f305e83b21dd1a3b74ed3b9",
+      "sha1": "69114deede276a4614197c32bc416f08e90aa98d",
+      "sha256": "e80fe63f42c65f29b66b5db044797d5a4c3896f65f0f7f86cd56ca41668617b4"
+    },
+    {
+      "name": "Crystal Mines (USA)",
+      "source": "libretro_dats",
+      "region": "us",
+      "size": 81936,
+      "crc32": "5a84b0e6",
+      "md5": "577314947f305e83b21dd1a3b74ed3b9",
+      "sha1": "69114deede276a4614197c32bc416f08e90aa98d"
+    }
+  ]
+}

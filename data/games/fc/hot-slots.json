@@ -1,0 +1,42 @@
+{
+  "id": "hot-slots",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hot Slots",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1991-01-01",
+  "external_ids": {
+    "wikidata": "Q3786900",
+    "mobygames": 17928
+  },
+  "roms": [
+    {
+      "name": "Hot Slots (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 98320,
+      "crc32": "69310a47",
+      "md5": "eee0833333d6dd3d34c04432d38841e3",
+      "sha1": "74ac9d43f80502c4d6f1d281894578a742b605fb",
+      "sha256": "a73caa9299c4ec9c57f0c75d5a279495b964488e7968be188b89749ca5f4fd06"
+    },
+    {
+      "name": "Hot Slots (USA)",
+      "source": "libretro_dats",
+      "region": "us",
+      "size": 98320,
+      "crc32": "69310a47",
+      "md5": "eee0833333d6dd3d34c04432d38841e3",
+      "sha1": "74ac9d43f80502c4d6f1d281894578a742b605fb"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "vindicators",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Vindicators",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1988-01-01",
+  "external_ids": {
+    "wikidata": "Q2619973",
+    "mobygames": 16766
+  },
+  "roms": [
+    {
+      "name": "Vindicators (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 98320,
+      "crc32": "cb2ef149",
+      "md5": "2ddc9166c9de220f7699e21a3936d9ba",
+      "sha1": "7fecf92f89bf670f2d3e530d2151e756e8286416",
+      "sha256": "d40e28de846595edfae4683d708187f865ac7a195d19dc732b6722087bbd16d7"
+    },
+    {
+      "name": "Vindicators (USA)",
+      "source": "libretro_dats",
+      "region": "us",
+      "size": 98320,
+      "crc32": "cb2ef149",
+      "md5": "2ddc9166c9de220f7699e21a3936d9ba",
+      "sha1": "7fecf92f89bf670f2d3e530d2151e756e8286416"
+    }
+  ]
+}

@@ -27,6 +27,7 @@ require 'json'
 require 'rexml/document'
 require 'fileutils'
 require 'optparse'
+require_relative 'lib/dat_reader'
 require_relative 'lib/script_detector'
 require_relative 'lib/slug'
 require_relative 'lib/db_index'
@@ -35,29 +36,37 @@ $stdout.sync = true
 
 ROOT    = File.expand_path('..', __dir__)
 SRC     = File.join(ROOT, 'data', 'games')
-DAT_DIR = '/home/komagata/Works/komagata/no-intro-dat'
+DAT_DIR_CANDIDATES = [
+  ENV['NO_INTRO_DAT_DIR'],
+  File.expand_path('../no-intro-dat', ROOT),
+  File.expand_path('../../../Works/komagata/no-intro-dat', ROOT),
+  '/home/komagata/Works/komagata/no-intro-dat'
+].compact.freeze
 
 PLATFORM_DATS = {
-  'fc'  => %w[nes.dat],
-  'sfc' => %w[snes.dat],
-  'gb'  => %w[gb.dat],
-  'gbc' => %w[gbc.dat],
-  'gba' => %w[gba.dat],
-  'md'  => %w[megadrive.dat],
-  'pce' => %w[pcengine.dat],
+  'fc'  => %w[nes.dat FC.dat],
+  'sfc' => %w[snes.dat SFC.dat],
+  'gb'  => %w[gb.dat GB.dat],
+  'gbc' => %w[gbc.dat GBC.dat],
+  'gba' => %w[gba.dat GBA.dat],
+  'md'  => %w[megadrive.dat MD.dat],
+  'pce' => %w[pcengine.dat PCE.dat],
   'wsc' => %w[wonderswan.dat WS.dat Nintendo\ -\ WonderSwan.dat Nintendo\ -\ WonderSwan\ Color.dat],
-  'n64' => %w[n64.dat],
-  'nds' => [],
+  'n64' => %w[n64.dat N64.dat],
+  'nds' => %w[NDS.dat],
   'ps1' => %w[psx.dat]
 }.freeze
 
 def find_dat(platform_id)
+  dat_dir = DAT_DIR_CANDIDATES.find { |dir| Dir.exist?(dir) }
+  return nil unless dat_dir
+
   PLATFORM_DATS[platform_id].each do |name|
-    path = File.join(DAT_DIR, name)
+    path = File.join(dat_dir, name)
     return path if File.exist?(path)
   end
   case platform_id
-  when 'nds' then Dir.glob(File.join(DAT_DIR, 'Nintendo - Nintendo DS*.dat')).first
+  when 'nds' then Dir.glob(File.join(dat_dir, 'Nintendo - Nintendo DS*.dat')).first
   else nil
   end
 end
@@ -90,12 +99,16 @@ def junk_entry?(name)
   noise.any? { |s| name.include?(s) }
 end
 
-def build_rom(game_name, rom_el)
-  entry = { 'name' => game_name, 'source' => 'no_intro' }
+def retail_rom?(game_name, rom_attrs)
+  !junk_entry?(game_name) && !junk_entry?(rom_attrs['name'].to_s)
+end
+
+def build_rom(game_name, rom_el, source:)
+  entry = { 'name' => game_name, 'source' => source }
   region = region_from_name(game_name)
   entry['region'] = region if region
   %w[serial size crc md5 sha1 sha256].each do |k|
-    v = rom_el.attributes[k]
+    v = rom_el[k]
     next if v.nil? || v.empty?
     case k
     when 'size' then entry['size']  = v.to_i
@@ -107,25 +120,27 @@ def build_rom(game_name, rom_el)
   entry
 end
 
-def process(platform_id, dry_run:)
+def process(platform_id, dry_run:, source:)
   dat = find_dat(platform_id)
   abort "no DAT for #{platform_id}" unless dat
 
-  doc = REXML::Document.new(File.read(dat))
+  dat_games = DatReader.read(dat)
   existing = index_existing(platform_id)
 
   # Group DAT entries by base title.
   groups = {}
-  doc.root.elements.each('game') do |g|
-    name = g.attributes['name']
+  dat_games.each do |g|
+    name = g[:name]
     next if name.nil? || name.empty?
-    next if junk_entry?(name)
+
+    retail_roms = g[:roms].select { |rom| retail_rom?(name, rom) }
+    next if retail_roms.empty?
 
     base = Slug.strip_no_intro_suffixes(name)
     next if base.empty?
 
     groups[base] ||= { name: base, roms: [] }
-    groups[base][:roms] << { name: name, el: g }
+    groups[base][:roms] << { name: name, roms: retail_roms }
   end
 
   puts "  DAT: #{File.basename(dat)}"
@@ -163,7 +178,7 @@ def process(platform_id, dry_run:)
         'lang'     => 'en',
         'script'   => 'Latn',
         'form'     => 'official',
-        'source'   => 'no_intro',
+        'source'   => source,
         'verified' => false
       }
     ]
@@ -174,7 +189,7 @@ def process(platform_id, dry_run:)
       'platform' => platform_id,
       'category' => 'main_game',
       'titles'   => titles,
-      'roms'     => roms.map { |r| build_rom(r[:name], r[:el].elements['rom']) }
+      'roms'     => roms.flat_map { |r| r[:roms].map { |rom| build_rom(r[:name], rom, source: source) } }
     }
 
     path = File.join(SRC, platform_id, "#{slug}.json")
@@ -194,16 +209,17 @@ def process(platform_id, dry_run:)
 end
 
 def main
-  options = { dry_run: false, platform: nil }
+  options = { dry_run: false, platform: nil, source: 'no_intro' }
   OptionParser.new do |opts|
     opts.on('--dry-run') { options[:dry_run] = true }
     opts.on('--platform ID') { |p| options[:platform] = p }
+    opts.on('--source SOURCE') { |s| options[:source] = s }
   end.parse!
 
   abort 'usage: --platform ID' if options[:platform].nil?
 
   puts "=== augment from no-intro: #{options[:platform]} ==="
-  process(options[:platform], dry_run: options[:dry_run])
+  process(options[:platform], dry_run: options[:dry_run], source: options[:source])
 end
 
 main if __FILE__ == $PROGRAM_NAME

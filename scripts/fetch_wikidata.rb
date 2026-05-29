@@ -174,7 +174,7 @@ end
 # Pull all available labels out of a SPARQL binding.
 # Returns an array of {text, lang, script, region, tag}.
 def collect_labels(binding)
-  LANGUAGES.filter_map do |lang|
+  LANGUAGES.map do |lang|
     raw = binding.dig(lang[:var], 'value')
     next nil if raw.nil? || raw.empty?
 
@@ -187,7 +187,7 @@ def collect_labels(binding)
       'script' => lang[:script] || ScriptDetector.detect(text),
       'region' => lang[:region]
     }
-  end
+  end.compact
 end
 
 # Build one schema-compliant entry from a single SPARQL binding.
@@ -237,7 +237,7 @@ def write_entry(entry, platform_id, dry_run: false)
   FileUtils.mkdir_p(dir) unless dry_run
   path = File.join(dir, "#{entry['id']}.json")
 
-  if File.exist?(path) && !dry_run
+  if File.exist?(path)
     return :skipped
   end
 

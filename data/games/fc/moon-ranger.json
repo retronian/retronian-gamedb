@@ -1,0 +1,42 @@
+{
+  "id": "moon-ranger",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Moon Ranger",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1990-01-01",
+  "external_ids": {
+    "wikidata": "Q6907539",
+    "mobygames": 28553
+  },
+  "roms": [
+    {
+      "name": "Moon Ranger (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "2834aced",
+      "md5": "f9a9c839db2952caac97596d13695ad1",
+      "sha1": "1c0292647872880bb35da0adbdb902c3fb3b6405",
+      "sha256": "8a66b2a5eba08fb4476729db09c03fd3f46565b544406da5ac99a1c2d55e1fa5"
+    },
+    {
+      "name": "Moon Ranger (USA)",
+      "source": "libretro_dats",
+      "region": "us",
+      "size": 131088,
+      "crc32": "2834aced",
+      "md5": "f9a9c839db2952caac97596d13695ad1",
+      "sha1": "1c0292647872880bb35da0adbdb902c3fb3b6405"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "mazes-of-fate-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mazes of Fate DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "libretro_dats",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mazes of Fate DS (Europe) (En,Fr,De,Es,It)",
+      "source": "libretro_dats",
+      "region": "eu",
+      "serial": "YMFP",
+      "size": 67108864,
+      "crc32": "253175a0",
+      "md5": "2f6da68a616aa987e1147a593d63bb5b",
+      "sha1": "760b79e79231303efcf1fed0e4a23154eaac0677"
+    },
+    {
+      "name": "Mazes of Fate DS (USA)",
+      "source": "libretro_dats",
+      "region": "us",
+      "serial": "YMFE",
+      "size": 67108864,
+      "crc32": "7130e1af",
+      "md5": "4eb8aafd592918edce686d5f34fe299b",
+      "sha1": "c6e85aa82f4f72d6fbd1a5aafacd59e15f12e30d"
+    }
+  ]
+}

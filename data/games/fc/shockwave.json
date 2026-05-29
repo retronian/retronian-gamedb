@@ -1,0 +1,42 @@
+{
+  "id": "shockwave",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shockwave",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1990-01-01",
+  "external_ids": {
+    "wikidata": "Q7499941",
+    "mobygames": 7375
+  },
+  "roms": [
+    {
+      "name": "Shockwave (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "e415ef3a",
+      "md5": "ce8a1d29e5d62a669dc7f25b3d917869",
+      "sha1": "06f38b9338959fbc201b1d5aa20ea198566982b8",
+      "sha256": "bed695ee02edfd123c8142917a102963470a20bf7b6b59ccd2a4954bb4e25d70"
+    },
+    {
+      "name": "Shockwave (USA)",
+      "source": "libretro_dats",
+      "region": "us",
+      "size": 65552,
+      "crc32": "e415ef3a",
+      "md5": "ce8a1d29e5d62a669dc7f25b3d917869",
+      "sha1": "06f38b9338959fbc201b1d5aa20ea198566982b8"
+    }
+  ]
+}

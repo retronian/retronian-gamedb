@@ -1,0 +1,42 @@
+{
+  "id": "bible-buffet",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bible Buffet",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1993-01-01",
+  "external_ids": {
+    "wikidata": "Q3639500",
+    "mobygames": 21689
+  },
+  "roms": [
+    {
+      "name": "Bible Buffet (USA) (v6.0) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "4a97f741",
+      "md5": "cc2fbe32ecbd1c6a3deeb1c033c426f2",
+      "sha1": "d88a4bfa9c8b607bc72cf2b5882210e5f7f744ea",
+      "sha256": "08445ee244e39f54ca0a4884a48c641a1af72d39ac92390b15807b5bceddc162"
+    },
+    {
+      "name": "Bible Buffet (USA) (v6.0)",
+      "source": "libretro_dats",
+      "region": "us",
+      "size": 262160,
+      "crc32": "4a97f741",
+      "md5": "cc2fbe32ecbd1c6a3deeb1c033c426f2",
+      "sha1": "d88a4bfa9c8b607bc72cf2b5882210e5f7f744ea"
+    }
+  ]
+}

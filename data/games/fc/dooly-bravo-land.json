@@ -1,0 +1,52 @@
+{
+  "id": "dooly-bravo-land",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dooly Bravo Land",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    },
+    {
+      "text": "둘리 부라보 랜드",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1992-01-01",
+  "external_ids": {
+    "wikidata": "Q83022789"
+  },
+  "roms": [
+    {
+      "name": "Dooly Bravo Land (Korea) (Unl)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "DIF-001",
+      "size": 262160,
+      "crc32": "cda96b1e",
+      "md5": "0a3f4ecfb2dae225d129897110356373",
+      "sha1": "9840b4837e205d55d98cb86fbaae9a9f98635c5d",
+      "sha256": "fe59d65d04655e9bf0360d4161fb800d453d701e547f0a781da2324e3a3837b2"
+    },
+    {
+      "name": "Dooly Bravo Land (Korea)",
+      "source": "libretro_dats",
+      "region": "kr",
+      "serial": "DIF-001",
+      "size": 262160,
+      "crc32": "cda96b1e",
+      "md5": "0a3f4ecfb2dae225d129897110356373",
+      "sha1": "9840b4837e205d55d98cb86fbaae9a9f98635c5d"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "peek-a-boo-poker",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Peek-A-Boo Poker",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1991-01-01",
+  "external_ids": {
+    "wikidata": "Q748636",
+    "mobygames": 17930
+  },
+  "roms": [
+    {
+      "name": "Peek-A-Boo Poker (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 98320,
+      "crc32": "2d61dd1b",
+      "md5": "66e1db915122cea14cab718ab2646a83",
+      "sha1": "adc05d7b9627ee180a58910cba26184ca545cfce",
+      "sha256": "2a792283388fc2468e30fb67bce6254d5a9fd0f14d6d65378da2dc37fb55e279"
+    },
+    {
+      "name": "Peek-A-Boo Poker (USA)",
+      "source": "libretro_dats",
+      "region": "us",
+      "size": 98320,
+      "crc32": "2d61dd1b",
+      "md5": "66e1db915122cea14cab718ab2646a83",
+      "sha1": "adc05d7b9627ee180a58910cba26184ca545cfce"
+    }
+  ]
+}

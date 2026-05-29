@@ -1,0 +1,36 @@
+{
+  "id": "world-cup-striker",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Cup Striker",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "libretro_dats",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Cup Striker (Europe) (En,Fr,De)",
+      "source": "libretro_dats",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "6d16f5e7",
+      "md5": "ae748774dcb36a05609310318e313dcc",
+      "sha1": "3e199976050b0e6f53b8529409671354948d450f"
+    },
+    {
+      "name": "World Cup Striker (Japan)",
+      "source": "libretro_dats",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "cab690a1",
+      "md5": "4f18a5f363066feaa1f7d83df726fc1f",
+      "sha1": "8304e45d14c752e0b31baa416fd9b88187dda144"
+    }
+  ]
+}

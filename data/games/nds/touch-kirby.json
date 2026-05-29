@@ -1,0 +1,38 @@
+{
+  "id": "touch-kirby",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Touch! Kirby",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "libretro_dats",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Touch! Kirby (Japan)",
+      "source": "libretro_dats",
+      "region": "jp",
+      "serial": "ATKJ",
+      "size": 67108864,
+      "crc32": "00247816",
+      "md5": "7c2ee447f032829e3ff833d5e25d4232",
+      "sha1": "8df7de7c8bfb302865398a9d9e0cff8a79e7c50d"
+    },
+    {
+      "name": "Touch! Kirby (Japan) (Wii U Virtual Console)",
+      "source": "libretro_dats",
+      "region": "jp",
+      "serial": "WUP-N-DAQJ",
+      "size": 67108864,
+      "crc32": "eeb27919",
+      "md5": "ac4d45e1e2326ed72de23b303984b94b",
+      "sha1": "cf5cc3125a5c174304f64d89969270230b02fbf3"
+    }
+  ]
+}

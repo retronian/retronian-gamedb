@@ -19,6 +19,7 @@ require 'json'
 require 'rexml/document'
 require 'fileutils'
 require 'optparse'
+require_relative 'lib/dat_reader'
 require_relative 'lib/slug'
 require_relative 'lib/db_index'
 
@@ -26,35 +27,43 @@ $stdout.sync = true
 
 ROOT      = File.expand_path('..', __dir__)
 SRC       = File.join(ROOT, 'data', 'games')
-DAT_DIR   = '/home/komagata/Works/komagata/no-intro-dat'
+DAT_DIR_CANDIDATES = [
+  ENV['NO_INTRO_DAT_DIR'],
+  File.expand_path('../no-intro-dat', ROOT),
+  File.expand_path('../../../Works/komagata/no-intro-dat', ROOT),
+  '/home/komagata/Works/komagata/no-intro-dat'
+].compact.freeze
 
 # Pick the newest-looking DAT file for each platform. The directory
 # contains multiple naming conventions (short like "gb.dat" and long
 # like "Nintendo - Game Boy (20260113-102506).dat"); we prefer the
 # short names first and fall back to pattern matches.
 PLATFORM_DATS = {
-  'fc'  => %w[nes.dat Nintendo\ -\ Nintendo\ Entertainment\ System.dat],
-  'sfc' => %w[snes.dat Nintendo\ -\ Super\ Nintendo\ Entertainment\ System.dat],
-  'gb'  => %w[gb.dat],
-  'gbc' => %w[gbc.dat],
-  'gba' => %w[gba.dat],
-  'md'  => %w[megadrive.dat],
-  'pce' => %w[pcengine.dat],
+  'fc'  => %w[nes.dat FC.dat Nintendo\ -\ Nintendo\ Entertainment\ System.dat],
+  'sfc' => %w[snes.dat SFC.dat Nintendo\ -\ Super\ Nintendo\ Entertainment\ System.dat],
+  'gb'  => %w[gb.dat GB.dat],
+  'gbc' => %w[gbc.dat GBC.dat],
+  'gba' => %w[gba.dat GBA.dat],
+  'md'  => %w[megadrive.dat MD.dat],
+  'pce' => %w[pcengine.dat PCE.dat],
   'wsc' => %w[wonderswan.dat WS.dat Nintendo\ -\ WonderSwan.dat Nintendo\ -\ WonderSwan\ Color.dat],
-  'n64' => %w[n64.dat],
-  'nds' => [],  # filled below by glob
+  'n64' => %w[n64.dat N64.dat],
+  'nds' => %w[NDS.dat],
   'ps1' => %w[psx.dat]
 }.freeze
 
 def find_dat(platform_id)
+  dat_dir = DAT_DIR_CANDIDATES.find { |dir| Dir.exist?(dir) }
+  return nil unless dat_dir
+
   PLATFORM_DATS[platform_id].each do |name|
-    path = File.join(DAT_DIR, name)
+    path = File.join(dat_dir, name)
     return path if File.exist?(path)
   end
   # Fallback glob for long-named files (e.g. NDS decrypted).
   case platform_id
   when 'nds'
-    Dir.glob(File.join(DAT_DIR, 'Nintendo - Nintendo DS*.dat')).first
+    Dir.glob(File.join(dat_dir, 'Nintendo - Nintendo DS*.dat')).first
   else
     nil
   end
@@ -84,17 +93,17 @@ end
 def rom_attrs(rom_el)
   attrs = {}
   %w[size crc md5 sha1 sha256 serial status].each do |k|
-    v = rom_el.attributes[k]
+    v = rom_el[k]
     attrs[k] = v unless v.nil? || v.empty?
   end
   attrs
 end
 
-def build_rom_entry(game_name, rom_el)
+def build_rom_entry(game_name, rom_el, source:)
   attrs = rom_attrs(rom_el)
   entry = {
     'name'   => game_name,
-    'source' => 'no_intro'
+    'source' => source
   }
   region = region_from_name(game_name)
   entry['region'] = region if region
@@ -125,19 +134,18 @@ def add_rom_if_new(game, incoming)
   end
 end
 
-def process_platform(platform_id, dry_run:)
+def process_platform(platform_id, dry_run:, source:)
   dat_path = find_dat(platform_id)
   return { dat: nil } unless dat_path
 
-  xml = File.read(dat_path)
-  doc = REXML::Document.new(xml)
+  games = DatReader.read(dat_path)
   db_index = index_db_games(platform_id)
   per = Hash.new(0)
   touched = {}
 
-  doc.root.elements.each('game') do |game_el|
+  games.each do |game_el|
     per[:rows] += 1
-    name = game_el.attributes['name']
+    name = game_el[:name]
     next if name.nil? || name.empty?
 
     clean = Slug.strip_no_intro_suffixes(name)
@@ -148,8 +156,8 @@ def process_platform(platform_id, dry_run:)
     end
 
     per[:matched] += 1
-    game_el.elements.each('rom') do |rom_el|
-      rom_entry = build_rom_entry(name, rom_el)
+    game_el[:roms].each do |rom_el|
+      rom_entry = build_rom_entry(name, rom_el, source: source)
       action = add_rom_if_new(record[:game], rom_entry)
       per[action] += 1
     end
@@ -167,11 +175,12 @@ def process_platform(platform_id, dry_run:)
 end
 
 def main
-  options = { dry_run: false, platform: nil }
+  options = { dry_run: false, platform: nil, source: 'no_intro' }
   OptionParser.new do |opts|
     opts.banner = 'Usage: ruby scripts/merge_no_intro.rb [options]'
     opts.on('--dry-run') { options[:dry_run] = true }
     opts.on('--platform ID') { |p| options[:platform] = p }
+    opts.on('--source SOURCE') { |s| options[:source] = s }
   end.parse!
 
   puts '=== no-intro DAT merge ==='
@@ -181,7 +190,7 @@ def main
   platforms = options[:platform] ? [options[:platform]] : PLATFORM_DATS.keys
 
   platforms.each do |platform_id|
-    stats = process_platform(platform_id, dry_run: options[:dry_run])
+    stats = process_platform(platform_id, dry_run: options[:dry_run], source: options[:source])
     if stats[:dat].nil?
       puts "  #{platform_id}: no DAT"
       next

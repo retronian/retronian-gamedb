@@ -1,0 +1,36 @@
+{
+  "id": "ikari-iii",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ikari III",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ikari III (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "0b4bca07",
+      "md5": "924c1646e44ff92115f1c0c790255b3f",
+      "sha1": "fe5c6e7a554d201b4ea35720437927123078c62e",
+      "sha256": "76aa4a5d88d8adefb25ff95684890865fc89d85d2b1e1b73c17085defed22c43"
+    },
+    {
+      "name": "Ikari III (Asia) (En) (Pirate)",
+      "source": "libretro_dats",
+      "size": 262160,
+      "crc32": "8c309902",
+      "md5": "8a1e5eeaf85cb5f7f53186c902dad88a",
+      "sha1": "20c7a9c30b683fb2153eeb94dbcc10590a0e83fc"
+    }
+  ]
+}

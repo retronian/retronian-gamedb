@@ -1,0 +1,42 @@
+{
+  "id": "quattro-adventure",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Quattro Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1993-01-01",
+  "external_ids": {
+    "wikidata": "Q14675880",
+    "mobygames": 7591
+  },
+  "roms": [
+    {
+      "name": "Quattro Adventure (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "0e154ddd",
+      "md5": "8af1cf416e52c695a7fc5e2941f5eadf",
+      "sha1": "f2f2a87233b1dae5189361484698f1269ab836fe",
+      "sha256": "c6c296fb09a6eafa4f279fc7d09564775eaf315154365cb6a79e41926dea0e00"
+    },
+    {
+      "name": "Quattro Adventure (USA)",
+      "source": "libretro_dats",
+      "region": "us",
+      "size": 262160,
+      "crc32": "0e154ddd",
+      "md5": "8af1cf416e52c695a7fc5e2941f5eadf",
+      "sha1": "f2f2a87233b1dae5189361484698f1269ab836fe"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tiles-of-fate",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tiles of Fate",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "wikidata": "Q2163672",
+    "mobygames": 7706
+  },
+  "roms": [
+    {
+      "name": "Tiles of Fate (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "8efc8928",
+      "md5": "36ba7046317d896eb79b0d65284553b4",
+      "sha1": "aca6f117c2e85c04bed1b520dc0124512c76713d",
+      "sha256": "376087d4272d00029fd9fab3f352bc9926a7d5d4b527f3850630bfb1bb457dba"
+    },
+    {
+      "name": "Tiles of Fate (USA)",
+      "source": "libretro_dats",
+      "region": "us",
+      "size": 65552,
+      "crc32": "8efc8928",
+      "md5": "36ba7046317d896eb79b0d65284553b4",
+      "sha1": "aca6f117c2e85c04bed1b520dc0124512c76713d"
+    }
+  ]
+}

@@ -86,7 +86,7 @@
           "source": {
             "type": "string",
             "description": "データの出典",
-            "enum": ["wikidata", "igdb", "mobygames", "screenscraper", "no_intro", "community", "manual"]
+            "enum": ["wikidata", "igdb", "mobygames", "screenscraper", "no_intro", "libretro_dats", "community", "manual"]
           },
           "verified": {
             "type": "boolean",
@@ -206,7 +206,7 @@
           },
           "source": {
             "type": "string",
-            "enum": ["no_intro", "redump", "tosec", "manual"]
+            "enum": ["no_intro", "libretro_dats", "redump", "tosec", "manual"]
           }
         }
       }

@@ -1,0 +1,42 @@
+{
+  "id": "quattro-sports",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Quattro Sports",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1993-01-01",
+  "external_ids": {
+    "wikidata": "Q2617164",
+    "mobygames": 18462
+  },
+  "roms": [
+    {
+      "name": "Quattro Sports (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "50213e36",
+      "md5": "4221e04a1d95d6ed66815d4dc00be28c",
+      "sha1": "aa5ce4f967c06ae35ea5975b39065c84d7c49c52",
+      "sha256": "ebb32ea755643654abcb718b807f4cad74223e9f798a2aec738c908db002e55d"
+    },
+    {
+      "name": "Quattro Sports (USA)",
+      "source": "libretro_dats",
+      "region": "us",
+      "size": 262160,
+      "crc32": "50213e36",
+      "md5": "4221e04a1d95d6ed66815d4dc00be28c",
+      "sha1": "aa5ce4f967c06ae35ea5975b39065c84d7c49c52"
+    }
+  ]
+}

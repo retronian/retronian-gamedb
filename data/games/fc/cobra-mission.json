@@ -1,0 +1,41 @@
+{
+  "id": "cobra-mission",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cobra Mission",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "wikidata",
+      "verified": false
+    }
+  ],
+  "first_release_date": "1994-01-01",
+  "external_ids": {
+    "wikidata": "Q100152328"
+  },
+  "roms": [
+    {
+      "name": "Cobra Mission (Taiwan) (En) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 131088,
+      "crc32": "f3aad71c",
+      "md5": "7848590d78cc4896ce30136d57149ae0",
+      "sha1": "bfa00552f427b4d51c7048fa847ec4c1c9f02df4",
+      "sha256": "6eb7805f04199085ce61ccceeef93bfd964af7ecefdf8f646e56b8103522d107"
+    },
+    {
+      "name": "Cobra Mission (Taiwan) (En)",
+      "source": "libretro_dats",
+      "region": "tw",
+      "size": 131088,
+      "crc32": "f3aad71c",
+      "md5": "7848590d78cc4896ce30136d57149ae0",
+      "sha1": "bfa00552f427b4d51c7048fa847ec4c1c9f02df4"
+    }
+  ]
+}

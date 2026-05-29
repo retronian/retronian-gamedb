@@ -1,0 +1,38 @@
+{
+  "id": "super-black-bass-advance",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Black Bass Advance",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "libretro_dats",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Black Bass Advance (Europe)",
+      "source": "libretro_dats",
+      "region": "eu",
+      "serial": "AABP",
+      "size": 4194304,
+      "crc32": "91238ad1",
+      "md5": "fe1bd7d414d0a710ef17d38cec1a76cc",
+      "sha1": "f29fa04bcd4c1a2bfd466d6046ac6eb86071b2fc"
+    },
+    {
+      "name": "Super Black Bass Advance (Japan)",
+      "source": "libretro_dats",
+      "region": "jp",
+      "serial": "AABJ",
+      "size": 4194304,
+      "crc32": "67c4e470",
+      "md5": "624a73d3cb69e50c0a1cc9de726083ec",
+      "sha1": "2d71d6d29729ac5d3302f1d14e2e774afe7a06a8"
+    }
+  ]
+}

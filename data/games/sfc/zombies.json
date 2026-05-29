@@ -1,0 +1,36 @@
+{
+  "id": "zombies",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zombies",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "libretro_dats",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zombies (Europe)",
+      "source": "libretro_dats",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "fabff8bd",
+      "md5": "8b1d78752f37754726595b677211fc47",
+      "sha1": "b378006fcf270ac8dd3b960a5d432024248cdb21"
+    },
+    {
+      "name": "Zombies (Europe) (Virtual Console)",
+      "source": "libretro_dats",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "27716e55",
+      "md5": "a4972f90602c0a86855a861df59afb22",
+      "sha1": "ee7fd2aee0accaaaccb8cdfc163e5eef13edf642"
+    }
+  ]
+}
