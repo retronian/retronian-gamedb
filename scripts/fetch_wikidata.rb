@@ -33,10 +33,12 @@ PLATFORMS = {
   'gba' => { qids: %w[Q188642],            name: 'Game Boy Advance' },
   'md'  => { qids: %w[Q10676],             name: 'Mega Drive / Genesis' },
   'pce' => { qids: %w[Q1057377],           name: 'PC Engine / TurboGrafx-16' },
-  'wsc' => { qids: %w[Q1048035 Q1065792],  name: 'WonderSwan / WonderSwan Color' },
+  'ws'  => { qids: %w[Q1048035],           name: 'WonderSwan' },
+  'wsc' => { qids: %w[Q1065792],           name: 'WonderSwan Color' },
   'n64' => { qids: %w[Q184839],            name: 'Nintendo 64' },
   'nds' => { qids: %w[Q170323],            name: 'Nintendo DS' },
-  'ps1' => { qids: %w[Q10677],             name: 'PlayStation' }
+  'ps1' => { qids: %w[Q10677],             name: 'PlayStation' },
+  'psp' => { qids: %w[Q170325],            name: 'PlayStation Portable' }
 }.freeze
 
 # Languages we ask Wikidata for. Each entry maps the SPARQL variable name

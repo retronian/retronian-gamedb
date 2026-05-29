@@ -50,7 +50,7 @@ MEDIA_DIR = File.join(ROOT, 'media')
 RAW_BASE = 'https://raw.githubusercontent.com/retronian/retronian-gamedb/main/media'
 
 VALID_KINDS = %w[boxart boxart_back titlescreen screenshot cartridge disc logo].freeze
-VALID_PLATFORMS = %w[fc sfc gb gbc gba md pce saturn n64 nds ps1 ps2].freeze
+VALID_PLATFORMS = %w[fc sfc gb gbc gba md pce ws wsc saturn n64 nds ps1 ps2 psp].freeze
 VALID_REGIONS = %w[jp us eu kr cn tw hk au br].freeze
 VALID_EXT = %w[.png .jpg .jpeg .webp .gif].freeze
 

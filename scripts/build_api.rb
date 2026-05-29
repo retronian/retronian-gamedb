@@ -43,12 +43,14 @@ PLATFORMS = {
   'gba' => 'Game Boy Advance',
   'md'  => 'Mega Drive / Genesis',
   'pce'    => 'PC Engine / TurboGrafx-16',
-  'wsc'    => 'WonderSwan / WonderSwan Color',
+  'ws'     => 'WonderSwan',
+  'wsc'    => 'WonderSwan Color',
   'saturn' => 'Sega Saturn',
   'n64'    => 'Nintendo 64',
   'nds'    => 'Nintendo DS',
   'ps1'    => 'PlayStation',
-  'ps2'    => 'PlayStation 2'
+  'ps2'    => 'PlayStation 2',
+  'psp'    => 'PlayStation Portable'
 }.freeze
 
 # A game counts as "released in Japan" when we have a No-Intro ROM

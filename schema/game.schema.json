@@ -15,7 +15,7 @@
     "platform": {
       "type": "string",
       "description": "プラットフォーム識別子",
-      "enum": ["fc", "sfc", "gb", "gbc", "gba", "md", "pce", "wsc", "saturn", "n64", "nds", "ps1", "ps2"]
+      "enum": ["fc", "sfc", "gb", "gbc", "gba", "md", "pce", "ws", "wsc", "saturn", "n64", "nds", "ps1", "ps2", "psp"]
     },
     "category": {
       "type": "string",

@@ -46,10 +46,12 @@ PLATFORM_DATS = {
   'gba' => %w[gba.dat GBA.dat],
   'md'  => %w[megadrive.dat MD.dat],
   'pce' => %w[pcengine.dat PCE.dat],
-  'wsc' => %w[wonderswan.dat WS.dat Nintendo\ -\ WonderSwan.dat Nintendo\ -\ WonderSwan\ Color.dat],
+  'ws'  => %w[wonderswan.dat WS.dat Nintendo\ -\ WonderSwan.dat],
+  'wsc' => %w[wonderswancolor.dat WSC.dat Nintendo\ -\ WonderSwan\ Color.dat],
   'n64' => %w[n64.dat N64.dat],
   'nds' => %w[NDS.dat],
-  'ps1' => %w[psx.dat]
+  'ps1' => %w[psx.dat],
+  'psp' => %w[psp.dat PSP.dat Sony\ -\ PlayStation\ Portable.dat]
 }.freeze
 
 def find_dat(platform_id)

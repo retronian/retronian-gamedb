@@ -72,10 +72,12 @@ IGDB_PLATFORMS = {
   'gba' => [24],
   'md'  => [29],        # Sega Mega Drive / Genesis
   'pce' => [86],        # TurboGrafx-16 / PC Engine
-  'wsc' => [57],        # WonderSwan
+  'ws'  => [57],        # WonderSwan
+  'wsc' => [123],       # WonderSwan Color
   'n64' => [4],
   'nds' => [20],
-  'ps1' => [7]          # PlayStation
+  'ps1' => [7],         # PlayStation
+  'psp' => [38]         # PlayStation Portable
 }.freeze
 
 # ---------------------------------------------------------------------------

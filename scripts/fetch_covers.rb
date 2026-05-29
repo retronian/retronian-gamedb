@@ -44,10 +44,12 @@ REPOS = {
   'gba' => %w[Nintendo_-_Game_Boy_Advance],
   'md'  => %w[Sega_-_Mega_Drive_-_Genesis],
   'pce' => %w[NEC_-_PC_Engine_-_TurboGrafx_16 NEC_-_PC_Engine_CD_-_TurboGrafx-CD],
+  'ws'  => %w[Bandai_-_WonderSwan],
   'wsc' => %w[Bandai_-_WonderSwan_Color],
   'n64' => %w[Nintendo_-_Nintendo_64],
   'nds' => %w[Nintendo_-_Nintendo_DS],
-  'ps1' => %w[Sony_-_PlayStation]
+  'ps1' => %w[Sony_-_PlayStation],
+  'psp' => %w[Sony_-_PlayStation_Portable]
 }.freeze
 
 KIND_DIRS = {
