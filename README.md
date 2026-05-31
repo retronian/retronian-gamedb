@@ -10,8 +10,9 @@ Retronian GameDB provides:
 
 - **Structured multi-language, multi-script title metadata**
 - **Distinction between hiragana / katakana / kanji-mixed Japanese** (via ISO 15924)
+- **ROM-aware metadata** with hash/name indexes for scraper and ROM manager integration
 - **Fully serverless distribution** (static JSON over GitHub Pages)
-- **GitHub-based community contributions** (Issue → automated PR)
+- **GitHub-based community contributions** (Issue → ingestion script)
 
 ## What makes it different
 
@@ -60,7 +61,7 @@ See [`schema/game.schema.json`](schema/game.schema.json) for the full schema.
 - `script` — **ISO 15924 script code** (`Jpan` / `Hira` / `Kana` / `Hans` / `Hant` / `Latn` / ...)
 - `region` — ISO 3166-1 country code, lowercase (`jp` / `us` / `eu` / `kr` / ...)
 - `form` — `official` / `boxart` / `ingame_logo` / `manual` / `romaji_transliteration` / `alternate`
-- `source` — `wikidata` / `igdb` / `mobygames` / `screenscraper` / `no_intro` / `community` / `manual`
+- `source` — `wikidata` / `igdb` / `mobygames` / `screenscraper` / `no_intro` / `libretro_dats` / `community` / `manual`
 - `verified` — whether the entry has been confirmed against a primary source (title screen, original packaging)
 
 ## Static API
@@ -73,11 +74,34 @@ The database is published as static JSON over GitHub Pages: **https://gamedb.ret
 | `/api/v1/stats.json` | Aggregate statistics |
 | `/api/v1/{platform}.json` | All games for a platform (e.g. `gb.json`) |
 | `/api/v1/games/{platform}/{id}.json` | A single game entry |
+| `/api/v1/rom-index/{platform}.json` | ROM lookup index by hash, exact name, filename and stripped base name |
 | `/search-index/all.json` | Minimal index for client-side search |
 
 ## Supported platforms
 
-Famicom (`fc`), Super Famicom (`sfc`), Game Boy (`gb`), Game Boy Color (`gbc`), Game Boy Advance (`gba`), Mega Drive (`md`), PC Engine (`pce`), Sega Saturn (`saturn`), Nintendo 64 (`n64`), Nintendo DS (`nds`), PlayStation (`ps1`), PlayStation 2 (`ps2`)
+| ID | Platform | Games |
+|---|---|---:|
+| `fc` | Famicom / NES | 2,055 |
+| `sfc` | Super Famicom / SNES | 2,543 |
+| `gb` | Game Boy | 1,421 |
+| `gbc` | Game Boy Color | 1,202 |
+| `gba` | Game Boy Advance | 2,232 |
+| `md` | Mega Drive / Genesis | 1,416 |
+| `pce` | PC Engine / TurboGrafx-16 | 820 |
+| `ws` | WonderSwan | 97 |
+| `wsc` | WonderSwan Color | 92 |
+| `arcade` | Arcade | 20 |
+| `cps3` | CP System III | 6 |
+| `neogeo` | Neo Geo | 153 |
+| `saturn` | Sega Saturn | 4 |
+| `n64` | Nintendo 64 | 597 |
+| `nds` | Nintendo DS | 5,786 |
+| `ps1` | PlayStation | 3,023 |
+| `ps2` | PlayStation 2 | 1 |
+| `psp` | PlayStation Portable | 6 |
+| `pcfx` | PC-FX | 2 |
+
+The build script also knows about `pico8`; it is listed in the API once data files exist under `data/games/pico8/`.
 
 ## Design principles
 
@@ -122,6 +146,7 @@ auditable. The full set of upstream sources is:
 | [Wikidata](https://www.wikidata.org/) | CC0 | titles, descriptions, external IDs |
 | [Wikipedia](https://www.wikipedia.org/) (en/ja/ko/zh/fr/es/de/it/pt/ru) | CC BY-SA 4.0 | titles, intro paragraph descriptions |
 | [No-Intro DAT](https://datomatic.no-intro.org/) | factual ROM metadata | `roms[]` (hashes, serials, sizes) |
+| [libretro-database](https://github.com/libretro/libretro-database) | per-repo | additional DAT-derived `roms[]` mappings |
 | [libretro-thumbnails](https://github.com/libretro-thumbnails/) | per-repo | `media[]` URLs |
 | [retronian/romu](https://github.com/retronian/romu), [komagata/gamelist-ja](https://github.com/komagata/gamelist-ja), [komagata/skyscraper-ja](https://github.com/komagata/skyscraper-ja) | MIT (sister projects) | hand-curated Japanese titles + descriptions |
 
@@ -130,7 +155,15 @@ terms of service forbid bulk redistribution of API payloads.
 
 ## Contributing
 
-Issue templates and the automated PR pipeline are coming in Phase 4. For now, please open a regular issue or pull request.
+Use the "Help complete this entry" links on each game page to submit missing box art, native-script titles or descriptions. The links open pre-filled GitHub issue forms with the platform, game ID, region and data type.
+
+Maintainers ingest accepted issues with:
+
+```bash
+ruby scripts/ingest_issue.rb <issue#>
+```
+
+Regular pull requests that edit `data/games/{platform}/{id}.json` directly are also welcome.
 
 ## License
 
