@@ -81,11 +81,11 @@ The database is published as static JSON over GitHub Pages: **https://gamedb.ret
 
 | ID | Platform | Games |
 |---|---|---:|
-| `fc` | Famicom / NES | 2,055 |
+| `fc` | Famicom / NES | 2,049 |
 | `sfc` | Super Famicom / SNES | 2,543 |
 | `gb` | Game Boy | 1,421 |
 | `gbc` | Game Boy Color | 1,202 |
-| `gba` | Game Boy Advance | 2,232 |
+| `gba` | Game Boy Advance | 2,230 |
 | `md` | Mega Drive / Genesis | 1,416 |
 | `pce` | PC Engine / TurboGrafx-16 | 820 |
 | `ws` | WonderSwan | 97 |
@@ -95,7 +95,7 @@ The database is published as static JSON over GitHub Pages: **https://gamedb.ret
 | `neogeo` | Neo Geo | 153 |
 | `saturn` | Sega Saturn | 4 |
 | `n64` | Nintendo 64 | 597 |
-| `nds` | Nintendo DS | 5,786 |
+| `nds` | Nintendo DS | 5,779 |
 | `ps1` | PlayStation | 3,023 |
 | `ps2` | PlayStation 2 | 1 |
 | `psp` | PlayStation Portable | 6 |

@@ -114,7 +114,12 @@ end
 def load_games(platform_id)
   dir = File.join(SRC, platform_id)
   return [] unless Dir.exist?(dir)
-  Dir.glob(File.join(dir, '*.json')).sort.map { |f| JSON.parse(File.read(f)) }
+  Dir.glob(File.join(dir, '*.json')).sort.map do |f|
+    game = JSON.parse(File.read(f))
+    next if bios_entry?(game)
+
+    game
+  end.compact
 end
 
 def write_json(path, data)

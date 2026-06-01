@@ -99,7 +99,7 @@ end
 # Unofficial dumps flood the DAT with noise. Skip them for new-game
 # creation — they rarely warrant a dedicated entry.
 def junk_entry?(name)
-  noise = %w[(Unl) (Beta) (Proto) (Demo) (Sample) (Test) (Debug) (Prototype) (Hack) (Aftermarket) (Pirate) (Homebrew)]
+  noise = %w[[BIOS] (Unl) (Beta) (Proto) (Demo) (Sample) (Test) (Debug) (Prototype) (Hack) (Aftermarket) (Pirate) (Homebrew)]
   noise.any? { |s| name.include?(s) }
 end
 
